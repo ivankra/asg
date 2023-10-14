@@ -1,0 +1,68 @@
+<!-- Expressing "had better" with "zuihao" -->
+{{Grammar Box}} 
+
+Sure, 最好 (zuìhǎo) means "best." But it can also be used to mean "it would be best to" or "had better." It is often used when giving advice to someone or even politely making demands.
+ 
+== Positive Form ==
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 最好 + Predicate
+</div>
+
+The [[predicate]] part of the pattern can be a verb or an adjective.
+
+=== Examples ===
+
+<div class="liju">
+
+*你 <em>最好</em> 先 休息 一下 。<span class="pinyin">Nǐ <em>zuìhǎo</em> xiān xiūxi yīxià.</span><span class="trans">You'd better get some rest first.</span>
+*你们 <em>最好</em> 给 他 打 个 电话 问 一下 。<span class="pinyin">Nǐmen <em>zuìhǎo</em> gěi tā dǎ gè diànhuà wèn yīxià.</span><span class="trans">It would be best for you to give him a call and ask.</span>
+*那个 地方 不 好 找 ，我们 <em>最好</em> 查 一下 百度 地图 。<span class="pinyin">Nàge dìfang bù hǎo zhǎo, wǒmen <em>zuìhǎo</em> chá yīxià Bǎidù dìtú.</span><span class="trans">It's not easy to find that place. We'd better search for it on Baidu Maps.</span>
+*外面 挺 冷 的，<em>最好</em> 多 穿 点 。<span class="pinyin">Wàimiàn tǐng lěng de, <em>zuìhǎo</em> duō chuān diǎn.</span><span class="trans">It's pretty cold outside. Best to wear some more layers.</span>
+*这个 活动 很 重要，我们 <em>最好</em> 穿 得 正式 一点 。<span class="pinyin">Zhège huódòng hěn zhòngyào, wǒmen <em>zuìhǎo</em> chuān de zhèngshì yīdiǎn.</span><span class="trans">This is an important event. We'd better wear something more formal.</span>
+
+</div>
+
+== Negative Form ==
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 最好 + 别 / 不要 + Predicate
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>最好</em> 别 去 。<span class="pinyin"><em>Zuìhǎo</em> bié qù.</span><span class="trans">You'd better not go.</span>
+*<em>最好</em> 不要 这样 说 。<span class="pinyin"><em>Zuìhǎo</em> bùyào zhèyàng shuō.</span><span class="trans">It's best not to say something like this.</span>
+*晚饭 <em>最好</em> 不要 吃 那么 多 。<span class="pinyin">Wǎnfàn <em>zuìhǎo</em> bùyào chī nàme duō.</span><span class="trans">It's best not to eat so much for dinner.</span>
+*雨 这么 大 ，<em>最好</em> 别 出门 。<span class="pinyin">Yǔ zhème dà, <em>zuìhǎo</em> bié chūmén.</span><span class="trans">It's raining so heavily. It's best not to leave the house.</span>
+*这个 问题 是 隐私 的，<em>最好</em> 不要 问 。<span class="pinyin">Zhège wèntí shì yǐnsī de, <em> zuìhǎo</em> bùyào wèn.</span><span class="trans">This question is private. You'd better not ask.</span>
+
+</div>
+
+== See also ==
+
+* [[Expressing "should" with "yinggai"]]
+* [[Expressing "had better" with "haishi"]]
+* [[Expressing "must" with "dei"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+[[Category:B1 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|最好|B1|Subj. + 最好 + Predicate|你 <em>最好</em> 先 休息 一下 。|grammar point|ASG35CD7}}
+{{Rel char|好}}
+{{Rel char|最}}
+{{Similar|Expressing "should" with "yinggai"}}
+{{Similar|Expressing "had better" with "haishi"}}
+{{Similar|Expressing "must" with "dei"}}
+{{POS|Adverbs}}
+{{Used for|Expressing attitude}}
+{{Translation|had better}}

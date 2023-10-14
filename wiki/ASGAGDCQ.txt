@@ -1,0 +1,160 @@
+<!-- Expressing completion with "le" -->
+{{Grammar Box}} 
+
+{{AKA|了1|verb 了|completed action 了|perfective aspect 了}}
+
+The particle 了 (le) has a [[Uses of "le"|lot of uses]]. One of the most common is to express the completion of an action. This is called [[Aspect|aspect]], which is not the same as tense. Tense is about ''when an action happens'': past, present or future. With regards to 了 (le), aspect is about ''whether the action is complete'' in a certain time frame.
+
+== Most Basic Pattern ==
+
+The simplest way to use 了 (le) is to just put it after a verb. When there's nothing else after the verb, there are no complications!
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + Verb + 了 
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*他们 到 <em>了</em> 。<span class="pinyin">Tāmen dào <em>le</em>.</span><span class="trans">They have arrived.</span>
+*我 买 <em>了</em> 。<span class="pinyin">Wǒ mǎi <em>le</em>.</span><span class="trans">I've bought it.</span>
+*我们 都 去 <em>了</em> 。<span class="pinyin">Wǒmen dōu qù <em>le</em>.</span><span class="trans">We all went.</span>
+*我 找到 <em>了</em> ！<span class="pinyin">Wǒ zhǎodào <em>le</em>!</span><span class="trans">I found it!</span>
+
+</div>
+
+== Putting 了 After a Verb with an Object ==
+
+Here is where things start to get slightly more complicated. If the verb has an object, 了 (le) can go directly after the verb to indicate completion, but there are a few other conditions that should be met.
+
+=== When Time is Specified ===
+
+It's a good idea to [[Time words and word order|specify the time]] anyway, if you're still getting used to Chinese verbs not indicating tenses by themselves. When you do this, it's generally OK to put the 了 (le) right after the verb and before the object.
+
+==== Structure ====
+
+<div class="jiegou">
+Subj. + Time + Verb + 了 + Obj.  
+</div>
+
+<div class="jiegou">
+Time + Subj. + Verb + 了 + Obj.  
+</div>
+
+==== Examples ====
+
+<div class="liju">
+
+* 我 <strong>今天</strong> 吃 <em>了</em> 早饭 。<span class="pinyin">Wǒ <strong>jīntiān</strong> chī <em>le</em> zǎofàn.</span><span class="trans">This morning I ate breakfast.</span>
+* 她 <strong>上个 月</strong> 去 <em>了</em>  北京 。<span class="pinyin">Tā <strong>shàng gè yuè</strong> qù <em>le</em>  Běijīng.</span><span class="trans">Last month she went to Beijing.</span>
+* <strong>中午</strong> 我 见 <em>了</em> 朋友 。<span class="pinyin"><strong>Zhōngwǔ</strong> wǒ jiàn <em>le</em> péngyou.</span><span class="trans">At noon I met a friend.</span>
+
+</div>
+
+=== When the Object's Quantity is Specified ===
+
+This pattern works if the sentence includes more information about the object, such as [[Measure words for counting|how many]] there are.
+
+==== Structure ====
+
+<div class="jiegou">
+Subj. + Verb + 了 + [Number + Measure Word] + Obj.  
+</div>
+
+(Make sure you're clear on [[Measure words for counting|what a measure word is and how to use them]].)
+
+==== Examples ====
+
+<div class="liju">
+
+*老师 问 <em>了</em> <strong>五 个</strong> 问题 。<span class="pinyin">Lǎoshī wèn <em>le</em> <strong>wǔ gè</strong> wèntí.</span><span class="trans">The teacher asked five questions.</span>
+*我 买 <em>了</em> <strong>三 本</strong> 书 。<span class="pinyin">Wǒ mǎi <em>le</em> <strong>sān běn</strong> shū.</span><span class="trans">I bought three books.</span>
+*我 喝 <em>了</em> <strong>两 杯</strong> 咖啡 。<span class="pinyin">Wǒ hē <em>le</em> <strong>liǎng bēi</strong> kāfēi.</span><span class="trans">I drank two cups of coffee.</span>
+
+</div>
+
+=== When 了 Comes After the Object ===
+
+OK, so here's the tricky part. Even when indicating completion, the 了 (le) can sometimes go after the object. This is not a topic that can be covered in depth at the [[A2|elementary level]], but you should be aware that [[Advanced "le" after an object|this does happen]] too.
+
+==== Structure ====
+
+<div class="jiegou">
+Subj. + Verb + Obj. + 了  
+</div>
+
+==== Examples ====
+
+<div class="liju">
+
+* 上个 月 我 去 <strong>台湾</strong> <em>了</em> 。<span class="pinyin">Shàng gè yuè wǒ qù <strong>Táiwān</strong> <em>le</em>.</span><span class="trans">I went to Taiwan last month.</span>
+* 昨天 晚上 我 看见 <strong>UFO</strong> <em>了</em> 。 <span class="pinyin">Zuótiān wǎnshang wǒ kànjiàn <strong>UFO</strong> <em>le</em>.</span><span class="trans">I saw a UFO last night.</span>
+
+</div>
+
+If you're [[B2|upper intermediate]]-ish and think you can "handle the truth," also check out our more advanced, full exposé on [[Advanced "le" after an object|了 (le) after an object]].
+
+== Putting 了 After Consecutive Actions ==
+
+So what happens if a whole string of things happened in the past? Do you have to put a 了 (le) after each one, just like we'd put each verb in the past tense in English? Good question! The short answer is that you only need one 了 (le).
+
+To keep things simple, we'll make the first action "coming" or "going" somewhere, which will be followed by another action. So we'll be using 来 (lái) or 去 (qù) plus a place in each sentence, and then another action. For this type of "consecutive action," 了 (le) should be placed after the ''final'' verb (or verb phrase), which marks the completion of the entire sequence. 
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 来 / 去 + Place + Verb / [Verb Phrase] + 了
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 昨天 她 <strong>来</strong> 我 家 <strong>吃饭</strong> <em>了</em> 。<span class="pinyin">Zuótiān tā <strong>lái</strong> wǒ jiā <strong>chīfàn</strong> <em>le</em>.</span><span class="trans">She came to my place and ate dinner yesterday.</span>
+* 我们 上周 <strong>去</strong> 北京 <strong>开会</strong> <em>了</em> 。<span class="pinyin">Wǒmen shàng zhōu <strong>qù</strong> Běijīng <strong>kāihuì</strong> <em>le</em>.</span><span class="trans">We went to Beijing and had a meeting there last week.</span>
+* 我 和 朋友 <strong>去</strong> 商场 <strong>买 衣服</strong> <em>了</em> 。<span class="pinyin">Wǒ hé péngyou <strong>qù</strong> shāngchǎng <strong>mǎi yīfu</strong> <em>le</em>.</span><span class="trans">I went to the mall with my friend and bought some clothes.</span>
+
+</div>
+
+== Completion in the Future ==
+
+了 (le) can appear in sentences about the future as well as the past. What's important is whether or not the action has been ''completed'', no matter what time frame we're talking about. This also means that this 了 (le) isn't used with habitual or continuous actions.
+
+== See also ==
+
+*[[Using "guo" with "le"]]
+*[[Advanced "le" after an object]]
+*[[Uses of "le"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|106}}
+{{Source|Basic Patterns of Chinese Grammar|65-8}}
+{{Source|Chinese: An Essential Grammar, Second Edition|57-9}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|137-9, 208}}
+{{Source|Integrated Chinese: Level 2, Part 1|11-4}}
+{{Source|Mandarin Chinese: A Functional Reference Grammar|185-217}} 
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|199-200}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)|226-8}}
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2)|16-8}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|156-7}}
+
+=== Websites ===
+
+* Yale: [http://comet.cls.yale.edu/mandarin/content/Lele/grammar/Lele.htm The Perfective –Le了 Versus The Modal Particle Le了]
+
+[[Category:A2 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{Basic Grammar|了|A2|Subj. + Verb + 了 + Obj.|我 吃 <em>了</em> 两 个 苹果。|grammar point|ASGAGDCQ}}
+{{Similar|Expressing experiences with "guo"}}
+{{Similar|Advanced "le" after an object}}
+{{Similar|Advanced "le" with complements}}
+{{POS|Particles}}
+{{Used for|Expressing completion}}
+{{Used for|Describing actions}}
+{{Used for|Referring to the past}}

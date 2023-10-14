@@ -1,0 +1,140 @@
+<!-- Yes-no questions with "ma" -->
+{{Grammar Box}} 
+The question particle 吗 (ma) is a simple way to form questions in Chinese. By placing 吗 (ma) on the end of a statement, you convert it into a ''yes/no question'' (questions that could be answered with "yes" or "no" in English).
+
+== Basic Usage ==
+
+=== Structure ===
+
+Any statement can be converted into a yes/no question with 吗 (ma). You could think of 吗 (ma) as being like a question mark you say out loud. So the basic structure is:
+
+<div class="jiegou">
+
+[Statement] + 吗 ？
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*你 喜欢 咖啡 。<span class="expl">statement</span><span class="pinyin">Nǐ xǐhuan kāfēi.</span><span class="trans">You like coffee.</span>
+
+</div>
+
+The sentence "You like coffee" can easily be converted into the question "Do you like coffee?" by adding 吗 (ma):
+
+<div class="liju">
+
+*你 喜欢 咖啡 <em>吗</em> ？<span class="expl">question</span><span class="pinyin">Nǐ xǐhuan kāfēi <em>ma</em>?</span><span class="trans">Do you like coffee?</span>
+
+</div>
+
+More examples of yes/no questions that revert to statements when you remove the 吗 (ma):
+
+<div class="liju">
+
+*你 是 大 学生 <em>吗</em> ？<span class="expl">question</span><span class="pinyin">Nǐ shì dàxuéshēng <em>ma</em>?</span><span class="trans">Are you a college student?</span>
+*他 是 老板 <em>吗</em> ？<span class="expl">question</span><span class="pinyin">Tā shì lǎobǎn <em>ma</em>?</span><span class="trans">Is he the boss?</span>
+*你 喜欢 她 <em>吗</em> ？<span class="expl">question</span><span class="pinyin">Nǐ xǐhuan tā <em>ma</em>?</span><span class="trans">Do you like her?</span>
+*你 想 家 <em>吗</em> ？<span class="expl">question</span><span class="pinyin">Nǐ xiǎng jiā <em>ma</em>?</span><span class="trans">Do you miss home?</span>
+*你们 明天 见面 <em>吗</em> ？<span class="expl">question</span><span class="pinyin">Nǐmen míngtiān jiànmiàn <em>ma</em>?</span><span class="trans">Are you going to meet tomorrow?</span>
+*你们 也 去 <em>吗</em> ？<span class="expl">question</span><span class="pinyin">Nǐmen yě qù <em>ma</em>?</span><span class="trans">Are you also going?</span>
+*他 在 你们 学校  学 中文 <em>吗</em> ？<span class="expl">question</span><span class="pinyin">Tā zài nǐmen xuéxiào xué Zhōngwén <em>ma</em>?</span><span class="trans">Does he study Chinese in your school?</span>
+*妈妈 会 做饭 <em>吗</em> ？<span class="expl">question</span><span class="pinyin">Māma huì zuòfàn <em>ma</em>?</span><span class="trans">Does mom know how to cook?</span>
+
+</div>
+
+It's important to remember that you do not normally add 吗 (ma) to a sentence that's ''already a question''. For example:
+
+<div class="liju">
+
+<ul>
+<li class="x">你 是 谁 <em>吗</em>？<span class="expl">谁 (shéi) is a question word</span><span class="pinyin">Nǐ shì shéi <em>ma</em>?</span></li>
+<li class="x">这 是 不 是 书 <em>吗</em>？<span class="expl">是不是 (shì bu shì) is a question pattern</span><span class="pinyin">Zhè shì bu shì shū <em>ma</em>?</span></li>
+</ul>
+
+</div>
+
+These would be something like "Are you who are you?" and "Is this is a book?" in English, both obviously ungrammatical. Still, if you're not careful, you may find yourself throwing a 吗 (ma) onto the end of a question that doesn't need it.  Many learners make this mistake, so don't worry if it happens every once in a while, just catch it and remember it the next time.
+
+== How to Answer ==
+
+You can answer a Chinese yes-no question in one of two ways:
+
+# Answer with 对 (duì) or the more casual 嗯 (ǹg) to affirm what was asked.
+# Answer a clearer "yes" by simply repeating the positive form of the verb, or "no" by using the negative form of the verb.
+
+Here's the slightly tricky part: if you answer with 对 (duì) and the question is in the ''positive'', then you're saying "'''yes'''" (and affirming the ''positive'' verb in the question). If you answer with 对 (duì) and the question is in the ''negative'', then you're saying "'''no'''" (and affirming the ''negative'' verb in the question). Let's take a look at some examples of this sort.
+
+<div class="liju">
+
+<ul class="dialog">
+<li><span class="speaker">A:</span> 你 是 大 学生 <em>吗</em> ？<span class="expl">Positive verb in the question</span><span class="pinyin">Nǐ shì dàxuéshēng <em>ma</em>?</span><span class="trans">Are you a college student?</span></li>
+<li><span class="speaker">B:</span> 对 。<span class="expl">对 (duì) affirms the positive verb.</span><span class="pinyin">Duì.</span><span class="trans">Yes, I am.</span></li>
+</ul>
+
+<ul class="dialog">
+<li><span class="speaker">A:</span> 你 <strong>没 有</strong> 工作 <em>吗</em> ？<span class="expl">Negative verb in the question</span><span class="pinyin">Nǐ <strong>méiyǒu</strong> gōngzuò <em>ma</em>?</span><span class="trans">Do you not have a job?</span></li>
+<li><span class="speaker">B:</span> 对 。<span class="expl">对 (duì) affirms the negative verb.</span><span class="pinyin">Duì.</span><span class="trans">No, I don't.</span></li>
+</ul>
+
+Now let's try some answers that reuse the verb for a super-clear "yes" or "no," which works the same way regardless of whether it's a positive or a negative verb in the question.
+
+<ul class="dialog">
+<li><span class="speaker">A:</span> 你 明天 <strong>不 来</strong> <em>吗</em> ？<span class="expl">Negative verb in the question</span><span class="pinyin">Nǐ míngtiān <strong>bù lái</strong> <em>ma</em>?</span><span class="trans">You're not coming tomorrow?</span></li>
+<li><span class="speaker">B:</span> 来 。<span class="expl">Repeat the verb for greater clarity.</span><span class="pinyin">Lái.</span><span class="trans">Yes, I'll come.</span></li>
+</ul>
+
+<ul class="dialog">
+<li><span class="speaker">A:</span> 你 明天 <strong>不 来</strong> <em>吗</em> ？<span class="expl">Negative verb in the question</span><span class="pinyin">Nǐ míngtiān <strong>bù lái</strong> <em>ma</em>?</span><span class="trans">You're not coming tomorrow?</span></li>
+<li><span class="speaker">B:</span> 不 来 。<span class="expl">The negative verb means "no."</span><span class="pinyin">Bù lái.</span><span class="trans">No, I won't come.</span></li>
+</ul>
+
+Finally, a mix of the two ways to answer, where one person is asking questions of two different people.
+
+<ul class="dialog">
+<li><span class="speaker">A:</span>你 喜欢 中国菜 <em>吗</em> ？<span class="expl">Positive verb in the question</span><span class="pinyin">Nǐ xǐhuan Zhōngguó cài <em>ma</em>?</span><span class="trans">Do you like Chinese food?</span></li>
+<li><span class="speaker">B:</span> 喜欢 。<span class="expl">Repeat the verb for greater clarity.</span><span class="pinyin">Xǐhuan.</span><span class="trans">Yes, I do.</span></li>
+<li><span class="speaker">A:</span> 你 <strong>不 喜欢</strong> 中国菜 <em>吗</em> ？<span class="expl">Negative verb in the question</span><span class="pinyin">Nǐ <strong>bù xǐhuan</strong> Zhōngguó cài <em>ma</em>?</span><span class="trans">Don't you like Chinese food?</span></li>
+<li><span class="speaker">C:</span> 对 。<span class="expl">对 (duì) affirms the negative verb.</span><span class="pinyin">Duì.</span><span class="trans">No. (I don't.)</span></li>
+</ul>
+
+</div>
+
+You sometimes hear that "yes" in Chinese is [[是]] (shì) and "no" is 不是 (bù shì). This can be true, but ''only when the main verb in the question is also 是 (shì)''. If the verb in the question is something else, like 喜欢 (xǐhuan), then that verb becomes the word for "yes." It's been said that Chinese has hundreds of ways to say "yes," and this is why: ''every verb can be used to mean "yes."''
+
+== More Advanced Usage ==
+
+However, this doesn't mean that a sentence ''can't ever'' have a question word and 吗 (ma). If a sentence contains verbs of understanding such as 知道 (zhīdào),了解 (liǎojiě), 明白 (míngbai), 认识 (rènshi), etc., then 吗 (ma) can still be added at the end of the question. You will later learn more about these [[advanced yes-no questions with "ma"]].
+
+==See also==
+
+*[[Tag questions with "ma"]]
+*[[Affirmative-negative questions]]
+*[[Questions with "ne"]]
+
+== Sources and further reading ==
+
+===Videos===
+
+* Yoyo Chinese: [https://www.youtube.com/watch?v=5NT6in-ufGQ&list=PL94A5E422FB99CDDD Yes-no Questions with 吗]
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|16}}
+{{Source|Chinese: An Essential Grammar, Second Edition|138-40}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|29-30}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|21}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)|23, 250}}
+
+[[Category:A1 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{Used for|Asking questions}}
+{{Used for|Requesting}}
+{{Basic Grammar|吗|A1|⋯⋯吗？|他 是 老板 <em>吗</em> ?|grammar point|ASGQ2AZA}}
+{{Similar|Tag questions with ma}}
+{{Similar|Positive negative questions}}
+{{Similar|Questions with ne}}
+{{Similar|Questions with "le ma"}}   
+{{Structure|Question Forms}}

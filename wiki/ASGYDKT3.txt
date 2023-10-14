@@ -1,0 +1,35 @@
+<!-- Expressing "hard to avoid" with "nanmian" -->
+{{Grammar Box}} 
+难免 (nánmiǎn) means "to be unavoidable" or "inevitable" and is most commonly placed before a verb phrase, often including an auxiliary verb such as 会 or 要. It is normally used to introduce an inevitable situation that is negative.
+
+==Structure==
+<div class="jiegou">
+(Subj. +) 难免 + Verb Phrase
+</div>
+
+==Examples==
+<div class="liju">
+* 刚 开始 说 外语 时 <em>难免</em> 会 有 一些 误会。<span class="pinyin">Gāng kāishǐ shuō wàiyǔ shí <em>nánmiǎn</em> huì yǒu yīxiē wùhuì.</span><span class="trans">When you first start speaking a foreign language, there are inevitably going to be some misunderstandings.</span>
+* 年轻 人 <em>难免</em> 会 遇到 挫折，关键 是 学习 怎么 克服。<span class="pinyin">Niánqīng rén <em>nánmiǎn</em> huì yù dào cuòzhé, guānjiàn shì xuéxí zěnme kèfú.</span><span class="trans">Young people can't avoid facing setbacks, but the most important thing is to learn how to overcome them.</span>
+*  第一 次 坐 飞机 出国 <em>难免</em> 会 有点 兴奋 。<span class="pinyin">Dì-yī cì zuò fēijī chūguó <em>nánmiǎn</em> huì yǒudiǎn xīngfèn.</span><span class="trans">There‘s no way to not feel excited about it the first time you get on a plane to go abroad.</span>
+* 现在 是 高峰期，地铁 <em>难免</em>  会 拥挤。<span class="pinyin">Xiànzài shì gāofēng qī, dìtiě <em>nánmiǎn</em> huì yōngjǐ.</span><span class="trans">It's rush hour right now. There's no way to avoid the congestion in the subway.</span>
+* 这 家 公司 的 实习生 <em>难免</em>  要 做 一些 打杂 的 事。<span class="pinyin">Zhè jiā gōngsī de shíxí shēng <em>nánmiǎn</em> yào zuò yīxiē dǎzá de shì.</span><span class="trans">There's no way for the interns at this firm to avoid doing some random odd jobs.</span>
+* 刚 离开 家 的时候 <em>难免</em> 会 想家。<span class="pinyin">Gāng líkāi jiā de shíhou <em>nánmiǎn</em> huì xiǎng jiā.</span><span class="trans">When you first leave home, you can't help but feel homesick.</span>
+* 车上 人 多 <em>难免</em> 会 遇到 小偷，你 要 小心点。<span class="pinyin">Chē shang rén duō <em>nánmiǎn</em> huì yùdào xiǎotōu, nǐ yào xiǎoxīn diǎn.</span><span class="trans">There are a lot of people on the bus, so you will inevitably run into thieves. You need to be careful.</span>
+* 刚 开始 工作，经验 不 多， <em>难免</em> 会 出错。<span class="pinyin">Gāng kāishǐ gōngzuò, jīngyàn bù duō, <em>nánmiǎn</em> huì chūcuò.</span><span class="trans">When you first start working, you will inevitably make mistakes because you don't have much experience.</span>
+* 投资 可以 很 快 变 富，但是 也 <em>难免</em> 有 风险。<span class="pinyin">Tóuzī kěyǐ hěn kuài biàn fù, dànshì yě <em>nánmiǎn</em> yǒu fēngxiǎn.</span><span class="trans">Investments can make you rich quickly, but you can't avoid risk.</span>
+* 这 是 我 第一 次 表演 <em>难免</em> 有 一些 紧张。<span class="pinyin">Zhè shì wǒ dì-yī cì biǎoyǎn <em>nánmiǎn</em> yǒu yīxiē jǐnzhāng.</span><span class="trans">This is my first time performing, so I can't help but feel a little nervous.</span>
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+{{Source|现代汉语八百词|408-409}}
+
+[[Category: B2 grammar points]]
+[[Category: Verbs]]
+{{Basic Grammar|难免|B2|(Subj. +) 难免 + Verb Phrase|第 一 次 尝试 ， <em>难免</em> 失败 。|grammar point|ASGYDKT3}}
+{{Similar|Difficult to do something}}
+{{POS|Verbs}}
+{{Used for| Expressing quality}}
+{{Subprop|Verb phrases}}

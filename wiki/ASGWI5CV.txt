@@ -1,0 +1,91 @@
+<!-- Expressing "rather than..." with "yuqi... buru" -->
+{{Grammar Box}} 
+Just like any other language, Chinese has many ways of expressing preference. One of the common ways is to use the 与其...不如（yǔqí...bùrú), and other similar variations. 
+
+== Using 与其 with 不如 ==
+
+When a speaker uses 与其...不如（yǔqí...bùrú) to express "Prefer...rather than," he is choosing B over A. Both options could be good in some way. Or to the speaker, B is obviously much better than A. It usually gives a strong emphasis on the speaker's attitude or opinion. You can also add 还, 倒, 真 before the 不如.
+
+=== Structure ===
+
+<div class="jiegou">
+与其 ⋯⋯ ，不如 ⋯⋯
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*天气 这么 好，<em>与其</em> 在 家 看 电视，<em>不如</em> 出去 走 走。<span class="trans">The weather is so nice. We'd rather go out for a walk than stay at home and watch TV.</span>
+*<em>与其</em> 干等 ，<em>不如</em> 先 去 找 点 事 做。<span class="trans">I'd rather find something to do than just wait like this.</span>
+*<em>与其</em> 自己 乱 想，<em>不如</em> 当面 问 清楚。<span class="trans">I'd rather ask him face to face than think recklessly.</span>
+*<em>与其</em> 帮 别人 打工，还 <em>不如</em> 自己 当 老板。<span class="trans">I'd rather to work for myself than work for other people.</span>
+*<em>与其</em> 麻烦 别人 ，<em>不如</em> 自己 想 办法 。<span class="trans">Instead of troubling other people, I'd rather think of the solution.</span>
+
+</div>
+
+== Using 与其 with 宁 ==
+
+与其...宁可(yǔqí...nìngkě) expresses preference by making a comparison. In this grammar pattern, both options are bad. But the first option (A) is rejected, and the second option (B) is taken. This is like saying "in comparison to A, I would rather B." You can also swap out the 宁愿(nìngyuàn) or 宁肯(nìngkěn) , which have the same meaning. In spoken Chinese, this patter is less used than [[Expressing "would rather" with "ningke"|宁可]].
+
+=== Structure ===
+
+<div class="jiegou">
+
+与其 ⋯⋯ ，Subj. + 宁可 / 宁愿 ⋯⋯
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>与其</em> 随便 找 一 个 男朋友 ，我 <em>宁愿</em> 单身 。<span class="trans">I'd rather stay single than find a random one.</span>
+*<em>与其</em> 去 上 一个 三流 的 大学 ，我 <em>宁可</em> 先 工作 。<span class="trans">Instead of going, I‘d rather start to work first.</span>
+*<em>与其</em> 住 在 陌生 的 大 城市 ，爷爷 <em>宁可</em> 住 农村 的 老房子 。<span class="trans">My grandfather would rather live in the old house in the countryside than stay in strange big city.</span>
+*<em>与其</em> 一直 互相 伤害 ，我 <em>宁愿</em> 早点 分手。<span class="trans">I'd rather break up with sooner him than keep hurting each other.</span>
+*一样 多 的 钱 ，<em>与其</em> 在 市区 买 一 个 小 房子 ，我们 <em>宁愿</em> 在 郊区 买 大 房子 。<span class="trans">We'd rather to buy a big house in suburban area than buy a small one in the city area with the same amount of money.</span>
+
+</div>
+
+== Expressing an objective observation with 与其说 ==
+
+In this structure, the speaker is basically saying the same thing, but actually using it with the verb 说. It expresses an objective judgment or evaluation, and according to the speaker, the latter part (B) is more correct or accurate than the earlier part (A).
+
+=== Structure ===
+
+<div class="jiegou">
+
+与其说 + A，不如说 + B
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>与其说</em> 他 是 我 的 老师，<em>不如说</em> 他 是 我 的 朋友 。<span class="trans">I'd rather say that he's my friend than my teacher.</span>
+*<em>与其说</em> 她 是 在 帮 你，<em>不如说</em> 她 是 在 帮 她 自己 。<span class="trans">I'd rather say that she's helping herself than she's helping you.</span>
+*<em>与其说</em> 他 是 在 做饭，还 <em>不如说</em> 他 是 在 玩 。<span class="trans">I'd rather say that he was playing than cook.</span>
+*<em>与其说</em> 它 是 一 部 爱情 电影，<em>不如说</em> 它 是 一 部 动作 电影 。<span class="trans">I'd rather say it's a action movie than a love movie.</span>
+*<em>与其说</em> 他 是 在 鼓励 我，<em>不如说</em> 是 在 批评 我 。<span class="trans">I'd rather say that he was criticizing me than encouraging me.</span>
+
+</div>
+
+== Sources  and further reading ==
+
+=== Books ===
+* [[现代汉语八百词]]（P.637） [http://www.amazon.cn/mn/detailApp?_encoding=UTF8&tag=allset-23&linkCode=as2&asin=B001198GSW&camp=536&creative=3132&creativeASIN=B001198GSW →buy]
+* [[Common Chinese Patterns 330 (汉语常用格式330例)]] (p. 292)[http://www.amazon.com/gp/product/7802006473/ref=as_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=7802006473 →buy] 
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|与其|C1|与其 + A，宁可 / 宁愿 / 宁肯）+ B|<em>与其</em> 这样 等着，<em>不如</em> 找点 事 做做。|grammar point|ASGWI5CV}}
+{{Rel char|宁愿}}
+{{Rel char|宁可}}
+{{Rel char|宁肯}}
+{{Rel char|不如}}
+{{Similar|Expressing "would rather" with "ningke"}}
+{{Similar|Comparisons with "buru"}}
+{{POS|Sentence patterns}}
+{{Used for|Expressing preference}}
+{{Used for|Comparing}}

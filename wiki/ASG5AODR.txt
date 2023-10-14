@@ -1,0 +1,56 @@
+<!-- Measure words for verbs -->
+{{Grammar Box}}
+{{AKA|动量词 (dòng liàngcí)|verbal measure word|verbal classifier}}
+
+When a verb is done more than once, it also requires a measure word to accompany it. This way the measure word is acting as a way to count the frequency or re-occurrence of an action. The most basic one you probably already know is 次 (cì).
+
+== Structure ==
+
+<div class="jiegou">
+Verb + Number + Measure Word 
+</div>
+
+The grammar pattern is very similar to English. For example, "看三次" and "saw three times" mirror each other in structure. In Chinese sentences, these measure words come after the verb. You should also know that, like nouns, some verbs have special measure words to go with them. The basic verbal measure word, however, is 次, as in the number of "times" something is done or happens.
+
+Common verb measure words include 次 (cì), 遍 (biàn), and 下 (xià).
+
+== Examples ==
+
+<div class="liju">
+
+*再 说 一 <em>遍</em> 。<span class="pinyin">Zài shuō yī <em>biàn</em>.</span><span class="trans">Say it again.</span>
+*你 能 再 读 一 <em>遍</em> 吗 ？<span class="pinyin">Nǐ néng zài dú yī <em>biàn</em> ma?</span><span class="trans">Could you please read it again?</span>
+*这个 电影 我 看 过 两 <em>遍</em> 。<span class="pinyin">Zhège diànyǐng wǒ kàn guo liǎng <em>biàn</em>.</span><span class="trans">I've seen this movie twice.</span>
+*这个 故事 我 听 她 说 过 一 百 多 <em>遍</em> 了 。<span class="pinyin">Zhège gùshi wǒ tīng tā shuō guo yī bǎi duō <em>biàn</em> le.</span><span class="trans">I've heard her tell this story more than one hundred times.</span>
+*我们 去 过 两 <em>次</em> 。<span class="pinyin">Wǒme qù guo liǎng <em>cì</em>.</span><span class="trans">We've been there twice.</span>
+*我 问 了 他 很 多 <em>次</em> ，可是 他 不 告诉 我 。<span class="pinyin">Wǒ wèn le tā hěn duō <em>cì</em>, kěshì tā bù gàosu wǒ.</span><span class="trans">I've asked him about it many times, but he won't tell me.</span>
+*这个 问题 我们 讨论 过 几 <em>次</em> 。<span class="pinyin">Zhège wèntí wǒmen tǎolùn guo jǐ <em>cì</em>.</span><span class="trans">We've discussed this issue a few times.</span>
+*那个 红 头发 的 男孩 打 了 我 三 <em>下</em> 。<span class="pinyin">Nàge hóng tóufa de nánhái dǎ le wǒ sān <em>xià</em>.</span><span class="trans">That red-haired boy hit me three times.</span>
+*他 轻轻 地 拍 了 我 两 <em>下</em> 。<span class="pinyin">Tā qīngqīng de pāi le wǒ liǎng <em>xià</em>.</span><span class="trans">He very lightly pat me a few times.</span>
+*你 没 听见 吗 ？我 敲 了 好 几 <em>下</em> 。<span class="pinyin">Nǐ méi tīngjiàn ma? Wǒ qiāo le hǎo jǐ <em>xià</em>.</span><span class="trans">Did you not hear the door? I knocked quite a few times.</span>
+
+</div>
+
+== See also ==
+
+*[[Measure words for counting]]
+*[[Measure words to differentiate]]
+*[[Measure words in quantity questions]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|109}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|none|B1|Verb + Number + Measure Word|做 <em>三</em> 次。读 <em>两</em> 遍 。|grammar point|ASG5AODR}}
+{{Similar|Measure words in quantity questions}}
+{{Similar|Measure words to differentiate}}
+{{Similar|Measure words for counting}}
+{{Similar|Pronoun "mei" for "every"}}
+{{Similar|Expressing "every" with "mei" and "dou"}}
+{{Translation|times}}
+{{POS|Verbs}}
+{{Subprop|Verb phrases}}

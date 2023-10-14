@@ -1,0 +1,123 @@
+<!-- Indicating the whole with "quan" -->
+{{Grammar Box}} 
+
+One of the uses of 全 (quán) is to indicate the entirety of something. It could be used for something like a ''whole'' household, an ''entire'' country, the ''whole'' world, etc.
+
+== Used before Noun ==
+
+=== Structure ===
+
+Simply put 全 in front of the noun you want to emphasize "the whole" of. You cannot use it with 的. Pay attention to the types of nouns you can use with 全, since it is usually paired up with 身 (body), 家 (family), 国 (country), 世界 (world), 天 (day) and the like. 
+
+<div class="jiegou">
+全 + Noun + 都 + Predicate
+</div>
+
+The [[predicate]] part of the pattern can be a verb or an adjective.
+
+=== Examples ===
+
+<div class="liju">
+
+*我们 <em>全</em> 家 <em>都</em> 去 过 北京 。<span class="pinyin">Wǒmen <em>quán</em> jiā <em>dōu</em> qù guo Běijīng.</span><span class="trans">Our entire family has been to Beijing.</span>
+*<em>全</em> 公司 的 人 <em>都</em> 不 喜欢 新 老板 。<span class="pinyin"><em>Quán</em> gōngsī de rén <em>dōu</em> bù xǐhuan xīn lǎobǎn.</span><span class="trans">The whole company doesn't like the new boss.</span>
+*运动 完 以后 我 <em>全</em> 身 <em>都</em> 是 汗 。<span class="pinyin">Yùndòng wán yǐhòu wǒ <em>quán</em> shēn <em>dōu</em> shì hàn.</span><span class="trans">My whole body was sweaty after I finished exercising.</span>
+*<em>全</em> 校 <em>都</em> 放假 了 。<span class="pinyin"><em>Quán</em> xiào <em>dōu</em> fàngjià le.</span><span class="trans">The whole school is on break.</span>
+*这个 地方 <em>全</em> 年 <em>都</em> 很 热 。<span class="pinyin">Zhège dìfang <em>quán</em> nián <em>dōu</em> hěn rè.</span><span class="trans">This place is hot all year round.</span>
+
+</div>
+
+== Used before Predicate ==
+
+=== Affirmative Form ===
+
+Before a verb 全 can be omitted, but if it is used, the purpose is to emphasize the idea of "all" or "entire."
+
+==== Structure ====
+
+<div class="jiegou">
+Subj. + 全都 + Predicate
+</div>
+
+==== Examples ====
+
+<div class="liju">
+
+*大家 <em>全</em> <em>都</em> 到 了。<span class="pinyin">Dàjiā <em>quán</em> <em>dōu</em> dào le.</span><span class="trans">Everybody has arrived.</span>
+*奶奶 的 头发 <em>全</em> <em>都</em> 白 了。<span class="pinyin">Nǎinai de tóufà <em>quán</em> <em>dōu</em> bái le.</span><span class="trans">All of grandma's hair has turned white.</span>
+*我 妈妈 做 的 菜 <em>全</em> <em>都</em> 好吃 。<span class="pinyin">Wǒ māma zuò de cài <em>quán</em> <em>dōu</em> hǎochī.</span><span class="trans">All of the food that my mother makes is tasty.</span>
+*作业 <em>全</em> <em>都</em> 做 完 了 吗 ？<span class="pinyin">Zuòyè <em>quán</em> <em>dōu</em> zuò wán le ma?</span><span class="trans">Have you finished all your homework?</span>
+*你 <em>全</em> <em>都</em> 拿 走 吧。<span class="pinyin">Nǐ <em>quán</em> <em>dōu</em> názǒu ba.</span><span class="trans">Take them all.</span>
+
+</div>
+
+=== Negative Form: Total Negation ===
+
+==== Structure ====
+
+When you negate 全都 with 不 or 没 ''after'' it, you're not just saying "not entirely," you're saying "''none of it''" or "''not at all''."
+
+<div class="jiegou">
+Subj. + 全都 + 不 / 没 + Predicate
+</div>
+
+==== Examples ====
+
+<div class="liju">
+
+*他们 <em>全</em> <em>都</em> 没 去 。<span class="pinyin">Tāmen <em>quán</em> <em>dōu</em> méi qù.</span><span class="trans">None of them went.</span>
+*这个 周末 我们 <em>全</em> <em>都</em> 不 在 家 。<span class="pinyin">Zhège zhōumò wǒmen <em>quán</em> <em>dōu</em> bú zài jiā.</span><span class="trans">None of us will be home this weekend.</span>
+*你们 <em>全</em> <em>都</em> 不 怕 吗 ？<span class="pinyin">Nǐmen <em>quán</em> <em>dōu</em> bú pà ma?</span><span class="trans">Are none of you afraid?</span>
+*这些 菜 <em>全</em> <em>都</em> 没 熟 。<span class="pinyin">Zhèxiē cài <em>quán</em> <em>dōu</em> méi shú.</span><span class="trans">None of these dishes is fully cooked.</span>
+*他 的 话 我 <em>全</em> <em>都</em> 不 相信 。<span class="pinyin">Tā de huà wǒ <em>quán</em> <em>dōu</em> bù xiāngxìn.</span><span class="trans">I don't believe anything he says.</span>
+
+</div>
+
+=== Negative Pattern: Partial Negation ===
+
+==== Structure ====
+
+When you negate by putting 不 or 没 ''before'' 全都, you're only ''partially'' negating. In other words, you're communicating "''not all''."
+
+<div class="jiegou">
+Subj. + 不 / 没 + 全都 + Predicate
+</div>
+
+==== Examples ====
+
+<div class="liju">
+
+*他 说 得 有 道理 ，但 我 不 <em>全</em> <em>都</em> 同意 。<span class="pinyin">Tā shuō de yǒu dàolǐ, dàn wǒ bù <em>quán</em> <em>dōu</em> tóngyì.</span><span class="trans">He has a point, but I don't agree with all of it.</span>
+*菜 太 多 了 ，我们 没 <em>全</em> <em>都</em> 吃完 。<span class="pinyin">Cài tài duō le, wǒmen méi <em>quán</em> <em>dōu</em> chī wán.</span><span class="trans">The food was too much. We didn't finish eating it all.</span>
+*昨天 作业 太 多 了 ，我 没 <em>全</em> <em>都</em> 做完 。<span class="pinyin">Zuótiān zuòyè tài duō le, wǒ méi <em>quán</em> <em>dōu</em> zuò wán.</span><span class="trans">I had too much homework yesterday. I didn't finish doing it all.</span>
+*我 的 家人 没 <em>全</em> <em>都</em> 来 参加 我 的 婚礼 。<span class="pinyin">Wǒ de jiārén méi <em>quán</em> <em>dōu</em> lái cānjiā wǒ de hūnlǐ.</span><span class="trans">Not all of my family came to my wedding.</span>
+*你 说 得 太 快 了 ， 我 没 <em>全</em> <em>都</em> 记 下来 。<span class="pinyin">Nǐ shuō de tài kuài le, wǒ méi <em>quán</em> <em>dōu</em> jì xiàlái.</span><span class="trans">You spoke too fast. I didn't write down all of what you said.</span>
+
+</div>
+
+== See also ==
+
+*[[Referring to "all" using "suoyou"]]
+*[[Expressing "Everyone" with "shei"]]
+*[[Expressing "All" with "shenme dou"]]
+*[[Expressing "Every" with "mei" and "dou"]]
+*[[Emphasizing quantity with "dou"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|现代汉语八百词|457}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|全|B1|全 + Noun|我们 <em>全</em> 家 都 去 旅游 了。|grammar point|ASGCPDSR}}
+{{Rel char|都}}
+{{Similar|Referring to "all" using "suoyou"}}   
+{{Similar|Expressing "Every" with "mei" and "dou"}}
+{{Similar|Expressing "All" with "shenme dou"}}
+{{Used for|Expressing quantity}}
+{{Used for|Sentence Patterns}}
+{{POS|Adjectives}}
+{{Translation|whole}}
+{{Translation|all}}

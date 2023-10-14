@@ -1,0 +1,58 @@
+<!-- Tag questions with "bu" -->
+{{Grammar Box}} 
+
+In the same way you can [[tag questions with ma|tag questions with 吗 (ma)]], tag questions can also be formed using 不 (bù). This is done by putting an [[affirmative-negative question]] at the end of a sentence.
+
+== Structure ==
+
+<div class="jiegou">
+
+Verb + 不 + Verb
+
+</div>
+
+This can then be attached to the end of a sentence to form a tag question. Tag questions seek confirmation or acceptance of what has been said. In English, "right?" and "OK?" are often used as tag questions.
+
+== Examples ==
+
+<div class="liju">
+
+*你 会 说 中文 ， <em>对 不 对</em> ？ <span class="pinyin">Nǐ huì shuō Zhōngwén, <em> duì bu duì</em>? </span><span class="trans">You speak Chinese, right?</span>
+*他 是 你 的 老板 ， <em>对 不 对</em> ？ <span class="pinyin">Tā shì nǐ de lǎobǎn, <em>duì bu duì</em>?</span><span class="trans">He's your boss, right?</span>
+*我们 是 好 朋友 ， <em>对 不 对</em> ？ <span class="pinyin">Wǒmen shì hǎo péngyou, <em>duì bu duì</em>?</span><span class="trans">We are good friends, right?</span>
+*你 昨天 没 回家， <em>对 不 对</em> ？ <span class="pinyin">Nǐ zuótiān méi huíjiā, <em>duì bu duì</em>?</span><span class="trans">You didn't come back home yesterday, right?</span>
+*你 有 新 女朋友 了 ， <em>是 不 是</em> ？ <span class="pinyin">Nǐ yǒu xīn nǚpéngyou le, <em>shì bu shì</em>?</span><span class="trans">You have a new girlfriend, right?</span>
+*九 点 开会 ， <em>是 不 是</em> ？ <span class="pinyin">Jiǔ diǎn kāihuì, <em> shì bu shì</em>?</span><span class="trans">We are going to hold a meeting at 9, right?</span>
+*你 姓 王 ， <em>是 不 是</em> ？ <span class="pinyin">Nǐ xìng Wáng, <em>shì bu shì</em>?</span><span class="trans">Your last name is Wang, is it not?</span>
+*我们 回家 吧 ， <em>好 不 好</em> ？ <span class="pinyin">Wǒmen huíjiā ba, <em>hǎo bu hǎo</em>?</span><span class="trans">Let's go home, OK?</span>
+*周末 去 看 电影， <em>好 不 好</em> ？ <span class="pinyin">Zhōumò qù kàn diànyǐng, <em>hǎo bu hǎo</em>?</span><span class="trans">Let's go to a movie this weekend, OK?</span>
+*你们 明天 来， <em>好 不 好</em> ？ <span class="pinyin">Nǐmen míngtiān lái, <em>hǎo bu hǎo</em>?</span><span class="trans">You come here tomorrow, OK?</span>
+
+</div>
+
+==See also==
+* [[Yes-no questions with "ma"]]
+* [[Tag questions with "ma"]]
+* [[Affirmative-negative questions]]
+
+== Sources and Further Reading ==
+
+{{Source|HSK Standard Course 2|12}}
+{{Source|Integrated Chinese: Level 1, Part 2 (1st ed)|85-86}}
+[http://www.amazon.com/gp/product/0887276385/ref=as_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0887276385 →buy]
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)|218}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|152-7}}
+
+[[Category:A1 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Used for|Asking questions}}
+{{Used for|Giving alternatives}}
+{{Basic Grammar|不|A1|⋯⋯是不是 / 对不对 / 好不好 ?|你们 明天 来，<em>好 不 好</em> ?|grammar point|ASG4D8XB}}
+{{Rel char|好}}
+{{Rel char|对}}
+{{Rel char|是}}
+{{Similar|Yes - no questions with ma}} 
+{{Similar|Tag questions with ma}} 
+{{Similar|Affirmative-negative question}}
+{{Similar|Comparing "bu" and "mei"}}
+{{Structure|Question Forms}}

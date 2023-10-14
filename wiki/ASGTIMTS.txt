@@ -1,0 +1,67 @@
+<!-- Expressing wasted efforts with "bai" -->
+{{Grammar Box}} 
+白 (bái) doesn't only mean "white." When added before a verb it means to do that verb "in vain" or "with no effect."
+
+== Basic Form with Just 白 ==
+
+All you have to do is put 白 before the verb. One important thing to note is that 白 is usually used with mono-syllabic words, like 做, 学, 跑, etc. You should put a 地 after 白.
+
+=== Structure ===
+
+<div class="jiegou">
+白 + Verb + 了
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* <em>白</em> 花 了 一 百 块 钱，这 件 衣服 不 能 穿。<span class="pinyin"><em>Bái</em> huā le yībǎi kuài qián, zhè jiàn yīfu bù néng chuān.</span><span class="trans">I just wasted a hundred kuai. I can't even wear these clothes.</span>
+* 他 不 回来 吃饭 了？！我 这些 菜 <em>白</em> 做了。<span class="pinyin">Tā bù huílái chīfàn le?! Wǒ zhèxiē cài <em>bái</em> zuò le.</span><span class="trans">He's not coming back to eat?! I made all this food for nothing.</span>
+* 你 一 句 汉语 都 不 会 说，<em>白</em> 学 了 这么 长 时间。<span class="pinyin">Nǐ yījù Hànyǔ dōu bù huì shuō, <em>bái</em> xué le zhème cháng shíjiān.</span><span class="trans">You can't speak even one sentence in Chinese! All that time studying was a waste.</span>
+* 我 去 的 时候 他 不 在 家， 所以 我 <em>白</em> 跑 了 一 趟。<span class="pinyin">Wǒ qù de shíhou tā bù zài jiā, suǒyǐ wǒ <em>bái</em> pǎo le yī tàng.</span><span class="trans">He wasn't home when I got there, so I wasted all of that time going over there.</span>
+* 不好意思， 让 你 <em>白</em> 忙 了 一 个 早上，我们 老板 今天 来 不了 了。<span class="pinyin">Bù hǎoyìsi, ràng nǐ <em>bái</em> máng le yī gè zǎoshang, wǒmen lǎobǎn jīntiān lái buliǎo le.</span><span class="trans">Sorry to make you work this whole morning for nothing. Our boss just said that he couldn't come today.</span>
+
+</div>
+
+== Form with 白白 ==
+
+白 can also be replaced with 白白 with basically the same meaning, although 白白 has a stronger emphasis on the "wasted effort." 白白 is also usually paired with a disyllabic verb, like 帮助, 准备, 学习 etc. Unlike 白, 白白 can be used with a 地.
+
+=== Structure ===
+
+<div class="jiegou">
+白白 + Verb + 了
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 明天 不 考 中文， 小王 <em>白白</em> 准备 了 一 天。<span class="pinyin">Míngtiān bù kǎo Zhōngwén, Xiǎo Wáng <em>báibái</em> zhǔnbèi le yītiān.</span><span class="trans">There's no Chinese test tomorrow. Little Wang spent the whole day studying in vain.</span>
+* 他 还是 没有 听 我 的 建议， 我 <em>白白</em> 给 他 说 了 这么 长 时间。<span class="pinyin">Tā háishì méiyǒu tīng wǒ de jiànyì, wǒ <em>báibái</em> gěi tā shuō le zhème cháng shíjiān.</span><span class="trans">He still doesn't listen to my advice. I spent such a long time talking to him, all for nothing.</span>
+* 他 没有 来，我 在 飞机场 <em>白白</em> 等 了 他 四 个 小时。<span class="pinyin">Tā méiyǒu lái, wǒ zài fēijīchǎng <em>báibái</em> děng le tā sì gè xiǎoshí.</span><span class="trans">He didn't come. I wasted four hours at the airport waiting for him.</span>
+* 父母 <em>白白</em> 养 了 你 这么 多 年，你 一点 也不 关心 你 的 父母。<span class="pinyin">Fùmǔ <em>báibái </em> yǎng le nǐ zhème duō nián, nǐ yīdiǎn yě bù guānxīn nǐ de fùmǔ.</span><span class="trans">Your parents raised you for so many years, just for you not to care about them at all.</span>
+* 她 <em>白白</em> 学 了 十 年 的 英语 。 她 看 得 懂 英文，但是 连 简单 的 对话 都 不 会 说！<span class="pinyin">Tā <em>báibái</em> xué le shí nián de Yīngyǔ. Tā kàn de dǒng Yīngwén, dànshì lián jiǎndān de duìhuà dōu bù huì shuō!</span><span class="trans">She spent ten years fruitlessly studying English. She can read English, but she can't even hold a simple conversation!</span>
+</div>
+
+== 白 as "For Free" ==
+
+There are a group of mono-syllabic verbs that combine with 白 in the same structure, but for these verbs, 白 means "for free." Think of these as set phrases. All relate to the senses or some form of "consumption." This list is not exhaustive:
+
+<div class="liju">
+* <em>白</em>吃<span class="pinyin">bái chī</span><span class="trans">to eat for free</span>
+* <em>白</em>喝<span class="pinyin">bái hē</span><span class="trans">to drink for free</span>
+* <em>白</em>住<span class="pinyin">bái zhù</span><span class="trans">to stay (overnight) for free</span>
+</div>
+
+== Sources and further reading ==
+
+{{Source|现代汉语八百词|58}}
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级)|160-161}}
+
+[[Category:B2 grammar points]]
+{{Basic Grammar|白|B2|白 + Verb|<em>白</em> 花 了 一 百 块 钱，这 件 衣服 不 能 穿。|grammar point|ASGTIMTS}}
+{{Rel char|白白}}
+{{Used for|Describing actions}}
+{{Used for|Expressing attitude}}
+{{POS|Adverbs}}

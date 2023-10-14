@@ -1,0 +1,65 @@
+<!-- After a specific time with "yihou" -->
+{{Grammar Box}} 
+
+Just as [[Before a specific time with "yiqian"|以前 (yǐqián) can be used]] to describe the events ''before'' a specific time, 以后 (yǐhòu) can be used to describe the events ''after'' a specific time.
+
+== Structure ==
+
+This grammar structure is similar to the English "after such-and-such, something happens." It's quite simple, all you have to do is put the "after" after the time words or time phrase. 
+
+<div class="jiegou">
+
+Time / Verb + 以后, ....
+
+</div>
+
+The time can be a time or date, or an action or event. It may or may not be in the future.
+
+== Examples ==
+
+<div class="liju">
+
+* <strong>下午 三点</strong> <em>以后</em>， 我 不 在 家。 <span class="pinyin"><strong>Xiàwǔ  sāndiǎn</strong> <em>yǐhòu</em>, wǒ bù zài jiā.</span><span class="trans">After three p.m., I will not be at home.</span>
+* <strong>来 中国</strong> <em>以后</em>， 她 认识 了 她 的 老公。 <span class="pinyin"><strong>Lái Zhōngguó</strong> <em>yǐhòu</em>, tā rènshi le tā de lǎogōng.</span><span class="trans">After coming to China, she met her husband.</span>
+* 她 <strong> 一个月</strong> <em>以后</em> 开始 上班。<span class="pinyin">Tā <strong>yī gè yuè</strong> <em>yǐhòu</em> kāishǐ shàngbān.</span><span class="trans">After one month, she will start working.</span>
+* <strong> 吃 完 午饭 </strong> <em>以后</em> ， 我们 要 开会。<span class="pinyin"><strong>Chī wán wǔfàn </strong> <em>yǐhòu</em>, wǒmen yào kāihuì.</span><span class="trans">We are going to have a meeting after we finish lunch.</span>
+* <strong> 几年 </strong> <em>以后</em> ，我们 公司 会 更 大。<span class="pinyin"><strong>Jǐ nián </strong> <em>yǐhòu</em>, wǒmen gōngsī huì gèng dà.</span><span class="trans">In a few years, our company will be even bigger.</span>
+*  老板 <strong>半个小时</strong> <em>以后</em> 回来。<span class="pinyin">Lǎobǎn <strong> bàn gè xiǎoshí</strong> <em>yǐhòu</em> huílái.</span><span class="trans">After half an hour, the boss will return.</span>
+* <strong>下班</strong> <em>以后</em>你 想 跟 我们 一起 去 打球 吗? <span class="pinyin"><strong>Xiàbān</strong> <em>yǐhòu</em>, nǐ xiǎng gēn wǒmen yīqǐ qù dǎqiú ma? </span><span  class="trans">After we get off work, would you like to go play ball with us? </span>
+*  老板 <strong>来 </strong> 了 <em>以后</em> ，大家 都 不 说话 了。 <span class="pinyin">Lǎobǎn <strong> lái </strong>  le <em>yǐhòu</em>, dàjiā dōu bù shuōhuà le.</span><span class="trans">After the boss came, everyone stopped talking.</span>
+* 你 <strong>到家</strong> <em>以后</em> 给 我 打电话。<span class="pinyin">Nǐ <strong>dào jiā</strong> <em>yǐhòu</em> gěi wǒ dǎ diànhuà.</span><span class="trans">After you get home, call me.</span>
+* <strong>结婚</strong> <em>以后</em> 爸爸 不 喝酒 了。<span class="pinyin"> <strong>Jiéhūn</strong> <em>yǐhòu</em> bàba bù hējiǔ le.</span><span class="trans">After he got married, dad stopped drinking.</span>
+
+</div>
+
+Note that this use of 以后 (yǐhòu) is often shortened to 后 (hòu).
+
+==See also==
+
+*[[Before a specific time]]
+*[[In the future in general]]
+*[[At the time when]]
+*[[Before and after with "zhiqian" and "zhihou"]]
+
+== Sources and further reading ==
+
+{{Source|HSK Standard Course 1|107}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|261}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{Used for|Expressing time and date}}
+{{Used for|Sequencing events in time}}
+{{Basic Grammar|以后|A2|Time / Verb + 以后|10点 <em>以后</em> ，我 不 在 家。|grammar point|ASGRLQGY}}
+{{Rel char|以}}
+{{Rel char|后}}
+{{Similar|Before a</em> time}}
+{{Similar|In the future in general}}
+{{Similar|At the time when}}
+{{Similar|Comparing "yihou" "houlai"}}
+{{Similar|Before a</em> time}}   
+{{Similar|Comparing "yihou" and "deshihou"}} 
+{{Similar|Comparing "yihou" and "zhihou"}}
+{{POS|Nouns}}
+{{Translation|later}}
+{{Translation|after}}

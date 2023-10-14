@@ -1,0 +1,85 @@
+<!-- Comparing "changchang" and "jingchang" -->
+{{Grammar Box}} 
+
+Both 常常 (chángcháng) and 经常 (jīngcháng) are [[adverb]]s expressing the idea of "often," though their usage differs in some small details. 
+
+== Used as an Adverb ==
+
+常常 and 经常 both can be used to express frequency, meaning "often," and that the time between each instance something happens is very short. In this case, they are interchangeable. 
+
+=== Structure ===
+
+<div class="jiegou">
+常常 / 经常 + Verb
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我 <em>常常</em> 收到 垃圾 短信 。<span class="pinyin">Wǒ <em>chángcháng</em> shōudào lājī duǎnxìn.</span><span class="trans">I often receive spam texts.</span>
+*你们 <em>经常</em> 加班 吗 ？<span class="pinyin">Nǐmen <em>jīngcháng</em> jiābān ma?</span><span class="trans">Do you guys often work overtime?</span>
+*他们 <em>常常</em> 吵架 。<span class="pinyin">Tāmen <em>chángcháng</em> chǎojià.</span><span class="trans">They often argue.</span>
+
+</div>
+
+Neither 常常 nor 经常 can be placed before the subject:
+
+<div class="liju">
+<ul>
+<li class="x"><em>常常</em> 他 不 吃 早饭 。<span class="pinyin"><em>Chángcháng</em> tā bù chī zǎo fàn.</span></li>
+<li class="x"><em>经常</em> 他 不 吃 早饭 。<span class="pinyin"><em>Jīngcháng</em> tā bù chī zǎo fàn.</span></li>
+<li class="o">他 <em>经常</em> 不 吃 早饭 。<span class="pinyin">Tā <em>jīngcháng</em> bù chī zǎo fàn.</span><span class="trans">He often skips breakfast.</span></li>
+</ul>
+</div>
+
+Note that 常 (by itself) is used for ''future'' frequent actions in colloquial Chinese.
+
+<div class="liju">
+*<em>常</em> 来 玩 ！<span class="pinyin"><em>Cháng</em> lái wán!</span><span class="trans">Come hang out often!</span>
+*<em>常</em> 联系 ！<span class="pinyin"><em>Cháng</em> liánxì!</span><span class="trans">Let's keep in touch!</span>
+</div>
+
+== Used as an Adjective ==
+
+Although not so commonly used in this way, 经常 can also be used as an adjective referring to things that happens very frequently. 常常 can't be used this way.
+
+A simple example:
+
+<div class="liju">
+
+*她 忘 带 钥匙 是 <em>经常</em> 的 事情 。<span class="pinyin">Tā wàng dài yàoshi shì <em>jīngcháng</em> de shìqing.</span><span class="trans">It's a regular thing for her to forget to bring her keys.</span>
+
+</div>
+
+== Negative Form ==
+
+经常 and 常常 can share the same negative form '''不常'''. You can also simply use 不 to negate both 经常 and 常常, although 不常常 is not super common.
+
+A few examples:
+
+<div class="liju">
+*他 <em>不 常</em> 抽烟 。<span class="pinyin">Tā <em>bù cháng</em> chōuyān.</span><span class="trans">He doesn't smoke very often.</span>
+*我 妈妈 <em>不 经常</em> 网购 。<span class="pinyin">Wǒ māma <em>bù jīngcháng</em> wǎng gòu.</span><span class="trans">My mother doesn't often shop online.</span>
+</div>
+
+== See also ==
+
+* [[Comparing "pingshi" and "pingchang"]]
+
+== Sources and further reading ==
+
+=== Books ===
+{{Source|HSK Standard Course 5上|119}}
+
+[[Category:grammar comparison]]
+{{HSK|HSK5}}
+{{Basic Grammar|常常|B1|常常 vs. 经常|我 <em>不 常</em>  运动 ，我 需要 <em>经常</em> 运动 。|grammar point|ASGE8FLP}}
+{{Rel char|经常}}
+{{Used for|Expressing frequency}}
+{{Used for|Describing actions}}
+{{Used for|Referring to habitual actions}}
+{{Similar|Comparing "pingshi" and "pingchang"}}
+{{Similar|Comparing "jingchang" and "wangwang"}}
+{{Translation|often}}
+{{Comparison|Adverbs}}

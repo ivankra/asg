@@ -1,0 +1,54 @@
+<!-- Expressing "when the time comes" with "dao shihou" -->
+{{Grammar Box}} 
+{{stub}}
+
+到时候(dào shíhou) basically means the same thing as "when the times comes." Usually "when the time comes" is pointing to a specific event in the future. 
+
+== General use of "到时候"==
+
+=== Structure ===
+
+Usually this grammar pattern starts with a statement to set things us (A), then the things that happens in the future is stated (B) after the 到时候.
+
+<div class="jiegou">
+
+……，到时候 + ……
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*现在 不 好好 准备 考试，<em>到时候</em> 肯定 考 不好。<span class="trans">If you don't prepare well, then you won't do it well in the exam.</span>
+*我 要 学 唱 中文 的 生日快乐 歌，<em>到时候</em> 唱 给 你们 听。<span class="trans">I want to learn the Chinese song "Happy Birthday." I'll sing for you guys when the time comes.</span>
+*你 先 自己 试 一 试，<em>到时候</em> 我 再 教 你。<span class="trans">You can give it a try first. I will teach you when the time comes.</span>
+
+</div>
+
+== Commonly used expressions with 到时候 ==
+
+=== Examples ===
+
+<div class="liju">
+
+* <em>到时候</em> 见。<span class="trans">See you then.</span>
+* <em>到时候</em> 看 吧。<span class="trans">Let's see what we can do later.</span>
+* <em>到时候</em> 再 说 吧。<span class="trans">We will talk about that later when the time comes.</span>
+
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+* [[Exemplification of Common Sentence Patterns in Spoken Chinese 汉语口语常用句式例解]] (P.63)[http://www.amazon.cn/%E6%B1%89%E8%AF%AD%E5%8F%A3%E8%AF%AD%E5%B8%B8%E7%94%A8%E5%8F%A5%E5%BC%8F%E4%BE%8B%E8%A7%A3/dp/B0011435Y2/ref=sr_1_1?ie=UTF8&qid=1347865939&sr=8-1 →buy] NEEDS LINK
+* [[Short-term Spoken Chinese: Elementary (汉语口语速成基础篇)]](P.199) [http://www.amazon.com/gp/product/B00326U9MS/ref%3das_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=B00326U9MS →buy]
+* [[Common Chinese Patterns 330 (汉语常用格式330例)]] (p. 62)[http://www.amazon.com/gp/product/7802006473/ref=as_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=7802006473 →buy] 
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|时候|C1|A, 到时候 + B|现在 不 好好 准备 考试，<em>到时候</em> 又 要 后悔 了。|grammar point|ASGMDJTD}}
+{{Rel char|到}}
+{{Rel char|时}}
+{{Rel char|候}}
+{{POS|Adverbs}}
+{{Used for|Expressing time and date}}

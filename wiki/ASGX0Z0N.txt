@@ -1,0 +1,67 @@
+<!-- Indicating location with "zai" before verbs -->
+{{Grammar Box}} 
+
+If you need to include the place where an action takes place, you can use 在 (zài). Just pay close attention to [[Basic sentence order|word order]], as this is one case in which Chinese word order is quite different from English.
+
+== Structure ==
+
+To indicate the location that a verb takes place in, 在 (zài), followed by a location, comes before the verb.
+
+<div class="jiegou">
+
+Subj. + 在 + Place + Verb + Obj.
+
+</div>
+
+Notice that the location is placed ''before'' the verb in Chinese, whereas in English it appears ''afterwards''.
+
+== Examples ==
+
+<div class="liju">
+
+* 我 <em>在</em> <strong>上海</strong> 上大学。<span class="pinyin">Wǒ <em>zài</em> <strong>Shànghǎi</strong> shàng dàxué.</span><span class="trans">I went to college in Shanghai.</span>
+* 你 一直 <em>在</em> <strong>这 家 公司</strong> 工作 吗？<span class="pinyin">Nǐ yīzhí <em>zài</em> <strong> zhè jiā gōngsī </strong> gōngzuò ma? </span><span class="trans">Have you always been working in this company? </span>
+* 我 周末 想 <em>在</em> <strong>家</strong> 睡觉。<span class="pinyin">Wǒ zhōumò xiǎng <em>zài</em> <strong>jiā</strong> shuìjiào.</span><span class="trans">On the weekend, I want to sleep at home.</span>
+* 不 要 <em>在</em> <strong>床 上</strong> 吃 东西。<span class="expl pdf-long-expl">In addition to "在" you need a "上" to indicate the location "on the bed." </span><span class="pinyin">Bùyào <em>zài</em> <strong>chuáng shàng</strong> chī dōngxi.</span><span class="trans">Don't eat food on the bed.</span>
+* 你 想 <em>在</em> <strong>哪儿</strong> 开 生日 派对？<span class="pinyin">Nǐ xiǎng <em>zài</em> <strong>nǎr</strong> kāi shēngrì pàiduì? </span><span class="trans">Where do you want to have the birthday party? </span>
+* 他 喜欢 <em>在</em> <strong>厕所 里</strong> 抽烟。<span class="expl pdf-long-expl">In addition to "在" you need a "里" to indicate the location "in the bathroom." </span><span class="pinyin">Tā xǐhuan <em>zài</em> <strong>cèsuǒ lǐ</strong> chōuyān.</span><span class="trans">He likes to smoke in the bathroom.</span>
+* 很 多 人 <em>在</em> <strong>地铁 上</strong> 吃 早饭。<span class="expl pdf-long-expl">In addition to "在" you need a "上" to indicate the location "in the subway." </span><span class="pinyin">Hěn duō rén <em>zài</em> <strong>dìtiě shàng</strong> chī zǎofàn.</span><span class="trans"> Many people eat breakfast on the subway.</span>
+* 现在 我们 <em>在</em> <strong>KTV</strong> 唱歌。<span class="pinyin">Xiànzài wǒmen <em>zài</em> <strong>KTV</strong> chànggē.</span><span class="trans">Now we're singing songs at karaoke.</span>
+* 老板 <em>在</em> <strong>会议室</strong> 见 客户。<span class="pinyin">Lǎobǎn <em>zài</em> <strong>huìyìshì</strong> jiàn kèhù.</span><span class="trans">The boss is seeing the client in the meeting room.</span> 
+* 你 <em>在</em> <strong>外面</strong> 吃 过 晚饭 了 吗？<span class="pinyin">Nǐ <em>zài</em> <strong>wàimiàn</strong> chī guo wǎnfàn le ma? </span><span class="trans">Did you eat dinner outside? </span>
+
+</div>
+
+Remember: in English we usually put the location at the end of a sentence. In Chinese, we put the location after the subject but ''before'' the verb.
+
+== Getting More Specific with Locations ==
+
+Rather than just using 在 (zài) to mean "at" a location, you might want to use it to mean "in," "on," or "under" a specific location. To do this, you'll need to add an extra word after the location. Learn about  [[expressing location with "zai... shang / xia / li"]].
+
+== See Also ==
+
+* [[Expressing existence in a place with "zai"]]
+* [[Expressing location with "zai... shang / xia / li"]]
+* [[Special cases of "zai" following verbs]]
+* [[Complements with "dao," "gei," and "zai"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|66}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|128}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{Used for|Expressing location}}
+{{Basic Grammar|在|A2|Subj. + 在 + Place + Verb|我 <em>在</em> 上海 工作。|grammar point|ASGX0Z0N}}
+{{Similar|Expressing existence in a place with "zai"}}
+{{Similar|Expressing location with "zai... shang / xia / li"}}
+{{Similar|Special cases of "zai" following verbs}}
+{{Similar|Complements with "dao," "gei" and "zai"}}
+{{Similar|Basic sentence order}}    
+{{POS|Verbs}}
+{{Subprop|Verb phrases}}
+{{Translation|in}}
+{{Translation|at}}

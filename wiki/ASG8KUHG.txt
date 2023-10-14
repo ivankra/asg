@@ -1,0 +1,64 @@
+<!-- Expressing "always" with "conglai" -->
+{{Grammar Box}} 
+
+Although perhaps more often used in the negative to mean "[[never]]," 从来 (cónglái) can be used with [[都]] (dōu) to mean "always" or "have always (done)."
+
+Without the negative adverbs [[不]] and [[没]], [[从来]] takes on the meaning of "[[always]]."  (Literally, 从来 means something like "from the beginning," although no one is really thinking that phrase when they use it.)  When used in the positive, though, it is customary to put the adverb 都 after 从来.
+
+== Structure ==
+
+<div class="jiegou">
+Subj. + 从来 + 都 (是) + Predicate
+</div>
+
+The [[predicate]] part of the pattern can be a verb or an adjective. It's also quite common to follow 从来都 with an additional [[是]] for emphasis.
+
+== Examples ==
+
+<div class="liju">
+
+*他 <em>从来 都</em> 这样 。<span class="pinyin">Tā <em>cónglái dōu</em> zhèyàng.</span><span class="trans">He's always like this.</span>
+*她 <em>从来 都</em> 这么 晚 睡 。<span class="pinyin">Tā <em>cónglái dōu</em> zhème wǎn shuì.</span><span class="trans">She's always gone to bed so late.</span>
+*他 说话 <em>从来 都</em> 很 大声 。<span class="pinyin">Tā shuōhuà <em>cónglái dōu</em> hěn dàshēng.</span><span class="trans">He's always spoken very loudly.</span>
+*我们 学校 的 学生 <em>从来 都</em> 只 能 穿 校服 。<span class="pinyin">Wǒmen xuéxiào de xuéshēng <em>cónglái dōu</em> zhǐ néng chuān xiàofú.</span><span class="trans">Students in our school can only wear school uniforms.</span>
+*成功 <em>从来 都</em> 要 靠 自己 努力 。<span class="pinyin">Chénggōng <em>cónglái dōu</em> yào kào zìjǐ nǔlì.</span><span class="trans">Success always depends on working hard by oneself.</span>
+*我们 下棋 ，<em>从来 都是</em> 他 赢 。<span class="pinyin">Wǒmen xiàqí, <em>cónglái dōushì </em>  tā yíng.</span><span class="trans">He always wins when we play chess.</span>
+*她 买 衣服 <em>从来 都是</em> 只 买 名牌 。<span class="pinyin">Tā mǎi yīfu <em>cónglái dōushì </em> zhǐ mǎi míngpái.</span><span class="trans">She always buys brand-name clothes when she goes shopping.</span>
+*我 <em>从来 都是</em> 一个人 住 ，已经 习惯 了 。<span class="pinyin">Wǒ <em>cónglái dōushì </em> yīgèrén zhù, yǐjīng xíguàn le.</span><span class="trans">I've always lived alone; I'm used to it already.</span>
+</div>
+
+== See Also ==
+
+* [["Never" with "conglai"]]
+* [["Always" as a complaint with "laoshi"]]
+* [["Always" with "zongshi"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|5}}
+{{Source|现代汉语八百词|132}}
+{{Source|Integrated Chinese: Level 2, Part 2|59}}
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|121}}
+
+===Websites===
+
+* Yale Chinese Usage Dictionary: [http://comet.cls.yale.edu/chineseusagedictionary/0119.html Usage of 从来]
+
+
+[[Category:B1 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|从来|B1|从来 + 都 (是) + Predicate|我 <em>从来 都</em> 是 一个人，已经 习惯了。|grammar point|ASG8KUHG}}
+{{Rel char|都}}
+{{Rel char|是}}
+{{Rel char|从}}
+{{Rel char|来}}
+{{Similar|"Never" with "conglai"}}
+{{Similar|"Always" as a complaint with "laoshi"}}
+{{Similar|"Always" with "zongshi"}}
+{{Similar|Expressing "always previously" with "xianglai"}}
+{{POS|Adverbs}}
+{{Used for| Expressing frequency}}
+{{Used for|Referring to the past}}
+{{Translation|always}}

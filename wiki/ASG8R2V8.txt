@@ -1,0 +1,68 @@
+<!-- Potential complement "-bu dong" for not understanding -->
+{{Grammar Box}} 
+
+Chinese learners often have to express that they don't understand something, especially in the beginning when they start learning. One of the ways to express that is to use the 不懂 (bù dǒng) verb complement.
+
+== Structure ==
+
+Yes, 不懂 (bù dǒng) by itself simply means "not understand," and you can use it this way. But you'll find that more often, it follows a verb. When used this way, it is a [[complement]].
+
+The [[potential complement]] 不懂 (bù dǒng) is used to talk about things that can't be understood. Note that this is about ''potential'': the subject doesn't have the ''ability'' to understand.
+
+<div class="jiegou">
+
+Subj. +  Verb + 不懂
+
+</div>
+
+The 不懂 (bù dǒng) may also be swapped out with 不明白 (bù míngbai).
+
+== Examples ==
+
+<div class="liju">
+
+* 我 <strong>看</strong> <em>不 懂</em> 这 本 书。<span class="expl pdf-long-expl">Literally, "read-not-understand"</span><span class="pinyin">Wǒ <strong>kàn</strong> <em>bu dǒng</em> zhè běn shū.</span><span class="trans">I don't understand the book.</span>
+* 孩子们 <strong>看</strong> <em>不 懂</em> 你 写 的 汉字。<span class="expl pdf-long-expl">Literally, "read-not-understand"</span><span class="pinyin">Háizi men <strong>kàn</strong> <em>bu dǒng</em> nǐ xiě de Hànzì.</span><span class="trans">Kids don't understand the characters that you wrote.</span>
+* 你 <strong>看</strong> <em>不 懂</em> 我 的 邮件 吗？<span class="expl pdf-long-expl">Literally, "read-not-understand"</span><span class="pinyin">Nǐ <strong>kàn</strong> <em>bu dǒng</em> wǒ de yóujiàn ma?</span><span class="trans">Do you not understand my emails?</span>
+* 老板 的 中文 说 得 很好，可是 他 <strong>看</strong> <em>不 懂</em> 中文 报纸。 <span class="expl pdf-long-expl">Literally, "read-not-understand"</span><span class="pinyin">Lǎobǎn de Zhōngwén shuō de hěn hǎo, kěshì tā <strong>kàn</strong> <em>bu dǒng</em> Zhōngwén bàozhǐ.</span><span class="trans">The boss speaks very good Chinese, but he doesn't understand Chinese newspapers.</span>
+* 我 <strong>听</strong> <em>不 懂</em> 上海话 。 <span class="expl pdf-long-expl">Literally, "hear-not-understand"</span><span class="pinyin">Wǒ <strong>tīng</strong> <em>bu dǒng</em> Shànghǎi-huà.</span><span class="trans">I don't understand Shanghai dialect.</span>
+* 你们 <strong>听</strong> <em>不 懂</em> 我 的 话 吗？<span class="expl pdf-long-expl">Literally, "hear-not-understand"</span><span class="pinyin">Nǐmen <strong>tīng</strong> <em>bu dǒng</em> wǒ de huà ma?</span><span class="trans">Do you not understand what I say?</span>
+* 我 <strong>听</strong> <em>不 懂</em> 你 说 的 英语。 <span class="expl pdf-long-expl">Literally, "hear-not-understand"</span><span class="pinyin">Wǒ <strong>tīng</strong> <em>bu dǒng</em> nǐ shuō de Yīngyǔ.</span><span class="trans">I don't understand your English.</span>
+* 我们 都 <strong>听</strong> <em>不 懂</em> 你 的 意思。 <span class="expl pdf-long-expl">Literally, "hear-not-understand"</span><span class="pinyin">Wǒmen dōu <strong>tīng</strong> <em>bu dǒng</em> nǐ de yìsi.</span><span class="trans">None of us understand what you mean.</span>
+* 很 多 人 <strong>读</strong> <em>不懂</em> 这 本 书 。 <span class="expl pdf-long-expl">Literally, "read-not-understand"</span><span class="pinyin">Hěn duō rén <strong> dú </strong> <em>bu dǒng</em> zhè běn shū.</span><span class="trans">Many people don't understand this book.</span>
+* 这 个 句子 很 难， 学生们 都 <strong>读</strong> <em>不 懂</em>。 <span class="expl pdf-long-expl">Literally, "read-not-understand"</span><span class="pinyin">Zhège jùzi hěn nán, xuéshengmen dōu <strong> dú </strong> <em>bu dǒng</em>.</span><span class="trans">This sentence is very difficult. None of the students understand.</span>
+
+</div>
+
+==See also==
+
+*[[Potential complement "bu xia"]]
+*[[Positive and negative potential complements]]
+
+== Sources  and further reading ==
+
+=== Books ===
+
+{{Source|A Practical Chinese Grammar For Foreigners (外国人实用汉语语法) |242-3, 271 - 329}} 
+{{Source|Chinese Grammar Without Tears (简明汉语语法学习手册) |Chapter 6: Complements}}
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|200 - 201}}
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2)|87-8}}
+{{Source|Chinese: An Essential Grammar, Second Edition|97-9}}
+{{Source|Practicing HSK Grammar (语法精讲精炼) |186-7}}
+
+=== Websites ===
+
+* Wikipedia: [http://en.wikipedia.org/wiki/Complement_(linguistics) Complement (linguistics)]
+* Baidu Baike (Chinese): [http://baike.baidu.com/view/146650.htm 补语]
+* Blog entry (Chinese): [http://blog.sina.com.cn/s/blog_610d94db0100hj5u.html 状态补语]
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+[[Category:Potential complement]]
+{{Used for|Expressing result}}
+{{Used for|Comprehending}}
+{{Basic Grammar|懂|A2|Verb + 不懂|我 听不<em>懂</em> 。|grammar point|ASG8R2V8}}
+{{Rel char|不懂}}
+{{Similar|Result complement}}
+{{Similar|Potential complement}}
+{{Structure|Complements}}

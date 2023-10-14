@@ -1,0 +1,46 @@
+<!-- Expressing "some" with "yixie" -->
+{{Grammar Box}} 
+
+In order to express "some" or "a few," you can use 一些 (yīxiē). To use it in this way, 一些 (yīxiē) is placed before the noun it modifies. 一些 (yīxiē) can modify the subject or the object.
+
+'''Note:''' The pinyin for 一些 is written "yīxiē" but pronounced "yìxiē" due to a [http://resources.allsetlearning.com/chinese/pronunciation/Tone_change_rules tone change rule].
+
+== Structure ==
+
+<div class="jiegou">
+一些 + Noun
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+* 妈妈 去 超市 买 了 <em>一些</em> 水果。 <span class="pinyin">Māma qù chāoshì mǎi le <em>yīxiē</em> shuǐguǒ.</span><span class="trans">Mom went to the supermarket and bought some fruit.</span>
+* 上 个 周末 他 买了 <em>一些</em> 衣服。 <span class="pinyin">Shàng gè zhōumò tā mǎi le <em>yīxiē</em> yīfu.</span><span class="trans">He bought some clothes last weekend.</span>
+* 我们 很 快 会 见到 <em>一些</em> 新 同事。<span class="pinyin">Wǒmen hěn kuài huì jiàndào <em>yīxiē</em> xīn tóngshì.</span><span class="trans">We're going to meet some new co-workers very soon.</span>
+* 你 饿 不 饿？这里 有 <em>一些</em> 吃的。 <span class="pinyin">Nǐ è bu è? Zhèlǐ yǒu <em>yīxiē</em> chīde.</span><span class="trans">Are you hungry or not? There is some food here.</span>
+* 下课 以后， 学生们 问 了 <em>一些</em> 问题。 <span class="pinyin">Xiàkè yǐhòu, xuéshengmen wèn le <em>yīxiē</em> wèntí.</span><span class="trans">After class, the students asked some questions.</span>
+* 给 我 <em>一些</em> 时间，好吗？ <span class="pinyin">Gěi wǒ <em>yīxiē</em> shíjiān, hǎo ma?</span><span class="trans">Give me some time, OK?</span>
+* 他 给 我 带 了 <em>一些</em> 书。 <span class="pinyin">Tā gěi wǒ dài le <em>yīxiē</em> shū.</span><span class="trans">He brought me some books.</span>
+* 你 可以 借 我 <em>一些</em> 钱 吗？<span class="pinyin">Nǐ kěyǐ jiè wǒ <em>yīxiē</em> qián ma?</span><span class="trans">Can you lend me some money?</span>
+* 你 想  在 咖啡 里 放 <em>一些</em> 糖 吗 ？ <span class="pinyin">Nǐ xiǎng zài kāfēi lǐ fàng <em>yīxiē</em> táng ma?</span><span class="trans">Do you want to put some sugar in your coffee?</span>
+* 我 在 中国 的 时候，去 过 <em>一些</em> 很 漂亮 的 地方。 <span class="pinyin">Wǒ zài Zhōngguó de shíhou, qù guo <em>yīxiē</em> hěn piàoliang de dìfang.</span><span class="trans">When I was in China, I went to some beautiful places.</span>
+
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Integrated Chinese: Level 1, Part 2|}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{Basic Grammar|一些|A2|一些 + Noun|这里 有 <em>一些</em> 咖啡。|grammar point|ASGWVZ0T}}
+{{Rel char|些}}
+{{Similar|Measure words to differentiate}}
+{{Similar|Using "youde" to mean "some"}}
+{{Similar|Using "ji" to mean "several"}}
+{{Structure|Noun Phrases}}
+{{Used for| Expressing quantity}}
+{{Translation|some}}

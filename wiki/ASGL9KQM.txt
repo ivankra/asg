@@ -1,0 +1,78 @@
+<!-- Measure words in quantity questions -->
+{{Grammar Box}} 
+
+Quantity questions are phrases for asking questions like "how much?" or "how many?"  You'll need to use the [[Placement of question words|question word]] 几 (jǐ) with [[measure word]]s for this.
+
+== Asking About Small Numbers with 几 (jǐ) ==
+
+=== Structure ===
+
+You can use the quantity [[Placement of question words|question word]] 几 (jǐ) instead of a number to ask about quantity with [[Measure words for counting|measure word]]s. 
+
+<div class="jiegou">
+
+Subj. + Verb + 几 + Measure Word + Noun？
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 他 有 <em>几</em> 个 孩子？<span class="pinyin">Tā yǒu <em>jǐ</em> gè háizi?</span><span class="trans">How many kids does he have?</span>
+* 你 家 有 <em>几</em> 个 房间？ <span class="pinyin">Nǐ jiā yǒu <em>jǐ</em> gè fángjiān?</span><span class="trans">How many rooms are there in your house?</span>
+* 他们 在 这里 住 <em>几</em>  个 星期？ <span class="pinyin">Tāmen zài zhèlǐ zhù <em>jǐ</em> gè xīngqī?</span><span class="trans">How many weeks are they staying here?</span>
+* 你 带 了 <em>几</em> 件 衣服？ <span class="pinyin">Nǐ dài le <em>jǐ</em> jiàn yīfu?</span><span class="trans">How many pieces of clothing have you brought?</span>
+* 老板 每 天 工作 <em>几</em> 个 小时 ？ <span class="pinyin">Lǎobǎn měi tiān gōngzuò <em>jǐ</em> gè xiǎoshí? </span><span class="trans">How many hours does the boss work every day?</span>
+
+</div>
+
+== Asking About Big Numbers with 多少 (duōshao) ==
+
+When the number is not certain but you assume it's definitely more than ten, it's better to ask the question with 多少 (duōshao) instead of 几 (jǐ).
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + Verb + 多少 + Measure Word + Noun ？
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 你 去 过 <em>多少</em> 个 国家？<span class="pinyin">Nǐ qù guo <em>duōshao</em> gè guójiā?</span><span class="trans">How many countries have you been to?</span>
+* 你们 班 有 <em>多少</em> 个 学生？<span class="pinyin">Nǐmen bān yǒu <em>duōshao</em> gè xuéshēng?</span><span class="trans">How many students are there in your class?</span>
+* 你 大学 的 时候 看 了 <em>多少</em> 本 书？<span class="pinyin">Nǐ dàxué de shíhou kàn le <em>duōshao</em> běn shū?</span><span class="trans">How many books did you read when you were in college? </span>
+* 他们 昨天 请 了 <em>多少</em> 个 朋友？ <span class="pinyin">Tāmen zuótiān qǐng le <em>duōshao</em> gè  péngyou?</span><span class="trans">How many friends did they invite yesterday?</span>
+* 上海 有 <em>多少</em> 个  外国 公司？ <span class="pinyin">Shànghǎi yǒu <em>duōshao</em> gè wàiguó gōngsī?</span><span class="trans">How many foreign companies are there in Shanghai? </span>
+
+</div>
+
+==See also==
+
+*[[Measure words to differentiate]]
+*[[Measure Words for Verbs]]
+*[[Measure words for counting]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|32, 58}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|105}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)|123}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|86}} 
+
+[[Category:A2 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+[[Category:Measure words]]
+{{Basic Grammar|几|A2|几 + Measure Word (+ Noun) ?|几 <em>个</em> 人？|grammar point|ASGL9KQM}}
+{{Similar|Measure words to differentiate}}    
+{{Similar|Measure Words for Verbs}}    
+{{Similar|Measure words for counting}}
+{{Similar|Measure word "ge"}}    
+{{Used for|Asking questions}}
+{{Structure|Numbers and Measure Words}}

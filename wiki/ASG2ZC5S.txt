@@ -1,0 +1,60 @@
+<!-- Simultaneous tasks with "yibian" -->
+{{Grammar Box}} 
+
+Multitasking is everywhere in the modern world (what else are you doing while you read this?), but you if can ''focus'' for just a minute, you can learn a way to express simultaneous tasks in Chinese! This can be done with 一边 (yībiān).
+
+== Structure ==
+
+To express that one thing is done ''while'' doing something else, the word 一边 (yībiān) is used. 
+
+<div class="jiegou">
+Subj. + 一边 + Verb (，) + 一边 + Verb
+</div>
+
+Note that you sometimes see 一边 (yībiān) shortened to 边 (biān) as well, which has a less formal feel.
+
+== Examples ==
+
+<div class="liju">
+
+*不要 <em>一边</em> 吃 东西，<em>一边</em> 说话 。<span class="pinyin">Bùyào <em>yībiān</em>  chī dōngxi, <em>yībiān</em> shuōhuà.</span><span class="trans">Don't speak while eating.</span>
+*我 常常 <em>一边</em> 洗澡， <em>一边</em> 唱歌 。<span class="pinyin">Wǒ chángcháng <em>yībiān</em> xǐzǎo, <em>yībiān</em> chànggē.</span><span class="trans">I often sing songs while I take a shower.</span>
+*孩子 喜欢 <em>一边</em> 吃饭， <em>一边</em> 玩 。<span class="pinyin">Háizi xǐhuan <em>yībiān</em> chīfàn, <em>yībiān</em> wán.</span><span class="trans">Children like to play while eating.</span>
+*你 喜欢 <em>一边</em> 听 音乐， <em>一边</em> 做 作业 吗 ？<span class="pinyin">Nǐ xǐhuan <em>yībiān</em> tīng yīnyuè, <em>yībiān</em> zuò zuòyè ma? </span><span class="trans">Do you like to listen to music while doing homework? </span>
+*我们 <em>一边</em> 走 <em>一边</em> 聊 吧 。<span class="pinyin">Wǒmen <em>yībiān</em> zǒu <em>yībiān</em> liáo ba.</span><span class="trans">Let's walk while we talk.</span>
+*请 你 <em>一边</em> 读 <em>一边</em> 写 。<span class="pinyin">Qǐng nǐ <em>yībiān</em> dú <em>yībiān</em> xiě.</span><span class="trans">Please write as you read.</span>
+*不要 <em>一边</em> 开车， <em>一边</em> 打电话 。<span class="pinyin">Bùyào <em>yībiān</em> kāichē, <em>yībiān</em> dǎ diànhuà.</span><span class="trans">Don't talk on the phone while you drive.</span>
+*老板 喜欢 <em>一边</em> 抽烟，<em>一边</em> 工作 。<span class="pinyin">Lǎobǎn xǐhuan <em>yībiān</em> chōuyān, <em>yībiān</em> gōngzuò.</span><span class="trans">The boss likes to smoke while working.</span>
+*很多 人 都 <em>一边</em> 上班， <em>一边</em> 玩 手机 。<span class="pinyin">Hěn duō rén dōu <em>yībiān</em> shàngbān, <em>yībiān</em> wán shǒujī.</span><span class="trans">Many people play with their cell phones while working.</span>
+*她 常常 <em>一边</em> 做饭，<em>一边</em> 带 孩子 。<span class="pinyin">Tā chángcháng <em>yībiān</em> zuòfàn, <em>yībiān</em> dài háizi.</span><span class="trans">She often looks after the baby while cooking food.</span>
+
+</div>
+
+You'll notice that the order of the two actions is sometimes different in the original Chinese and the English translations above. This is because the "main" action usually comes second in English (after the "while"), but first in Chinese. For example, "take a shower while singing" sounds strange in English, but "sing while taking a shower" doesn't.
+
+Note that you must be actively doing both actions. That is, they have to be intentional. If you want to say something happened while another thing was happening, it would be better to use [[Expressing "when" with "de shihou"|的时候 (de shíhou)]].
+
+==See also==
+
+* [[Expressing simultaneous actions with "yimian"]]
+* [[Aspect particle "zhe"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|111}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|207}}
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|17}} 
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|269}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|一边|A2|一边 + Verb 1 (，) 一边 + Verb 2|不要 <em>一边</em> 说话 ，<em>一边</em> 吃 东西。|grammar point|ASG2ZC5S}}
+{{Rel char|边}}
+{{Similar|Expressing simultaneous actions with "yimian"}}
+{{Similar|Aspect particle "zhe"}}
+{{Similar|Expressing "when" with "de shihou"}}
+{{Used for|Referring to simultaneous events}}
+{{Used for|Indicating conditions}}
+{{POS|Adverbs}}

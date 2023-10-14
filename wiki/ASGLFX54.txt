@@ -1,0 +1,105 @@
+<!-- Using "dao" to mean "to go to" -->
+{{Grammar Box}} 
+
+A simple and direct way to indicate that you or someone is going to a specific place or has arrived at a specific place is to use the verb 到 (dào).
+
+== 到 (dào) for Arriving in a Place ==
+
+=== Structure ===
+
+The verb 到 (dào) is used to talk about arriving in places.
+
+<div class="jiegou">
+Subj. + 到 + Place 
+</div>
+
+=== Examples ===
+
+For these examples, it's straightforward to think of 到 (dào) as simply meaning "to arrive."
+
+<div class="liju">
+
+* 他们 已经 <em>到</em> 酒吧 了。 <span class="pinyin">Tāmen yǐjīng <em>dào</em> jiǔbā le.</span><span class="trans">They have already arrived at the bar.</span>
+* 我 刚 <em>到</em> 家。 <span class="pinyin">Wǒ gāng <em>dào</em> jiā.</span><span class="trans">I just got home.</span>
+* 你 <em>到</em> 机场 了 吗？ <span class="pinyin">Nǐ <em>dào</em> jīchǎng le ma?</span><span class="trans">Have you arrived at the airport?</span>
+* 我 已经 <em>到</em> 火车站 了。 <span class="pinyin">Wǒ yǐjīng <em>dào</em> huǒchēzhàn le.</span><span class="trans">I've already arrived at the train station.</span>
+* 我们 先 <em>到</em> 北京 ， 然后 <em>到</em> 香港。 <span class="pinyin">Wǒmen xiān <em>dào</em> Běijīng, ránhòu <em>dào</em> Xiānggǎng.</span><span class="trans">First we'll arrive in Beijing, then in Hong Kong.</span>
+
+</div>
+
+In some examples translating 到 (dào) as "to arrive" doesn't work as well and you might need to expand your understanding of exactly what 到 (dào) means. That's what we'll examine below.
+
+== 到 (dào) for Coming or Going to a Place ==
+
+One commonly used structure takes the above one and adds a 来 (lái) or 去 (qù) to the end of the sentence.
+
+=== Structure ===
+
+<div class="jiegou">
+到 + Place + 来 / 去
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我 下午 在 家 ，你 可以 <strong>到</strong> 我家 <em>来</em> 。<span class="pinyin">Wǒ xiàwǔ zài jiā, nǐ kěyǐ <strong>dào</strong> wǒ jiā <em>lái</em>.</span><span class="trans">I'll be home this afternoon. You can come to my house.</span>
+*老板 马上 <strong>到</strong> 办公室 <em>去</em> 。<span class="pinyin">Lǎobǎn mǎshàng <strong>dào</strong> bàngōngshì <em>qù</em>.</span><span class="trans">The boss is going to the office right now.</span>
+
+</div>
+
+== Going to a Place and Performing an Action==
+
+=== Structure ===
+
+If you are going to a place to do something else, you can first use 到 (dào) to indicate where you're going, then add another verb after that. This has the meaning of "going to the place to do something," and it's one case where the "arrive" translation doesn't really work anymore.
+
+<div class="jiegou">
+
+Subj. + 到 + Place + Verb Phrase
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 明天 我 要 <em>到</em> 南京 路 买 衣服。 <span class="pinyin">Míngtiān wǒ yào <em>dào</em> Nánjīng Lù mǎi yīfu.</span><span class="trans">Tomorrow I'll go to Nanjing Road to buy clothes.</span>
+* 你们 晚上 <em>到</em> 哪儿 吃饭 啊？<span class="pinyin">Nǐmen wǎnshang <em>dào</em> nǎr chīfàn a?</span><span class="trans">Where will you all go to eat food this evening?</span>
+* 我 跟 朋友 经常 <em>到</em> KTV 唱歌 。 <span class="pinyin">Wǒ gēn péngyou jīngcháng <em>dào</em> KTV chànggē.</span><span class="trans">I often go to Karaoke to sing songs with friends.</span>
+* 今年 春节 我 要 <em>到</em> 女朋友 家 见 她 的 父母 。 <span class="pinyin">Jīnnián Chūnjié wǒ yào <em>dào</em> nǚpéngyou jiā jiàn tā de fùmǔ.</span><span class="trans">This Spring Festival I am going to my girlfriend's house to meet her parents.</span>
+* 下 个 月 我 要 <em>到</em> 美国 出差。 <span class="pinyin">Xià gè yuè wǒ yào <em>dào</em> Měiguó chūchāi.</span><span class="trans">Next month I need to go to the USA on a business trip.</span>
+
+</div>
+
+You might be wondering: ''can I just use 去 (qù) instead of 到 (dào)?'' For sentences like this, ''yes, you can.'' But native speakers will frequently use 到 (dào) in this way, so it's still good to be familiar with this pattern. If you want to sound more native, you should use it too!
+
+== 到 (dào), 去 (qù), and 走 (zǒu) ==
+  
+Sometimes it can be hard to figure out exactly which word to use in Chinese to mean "go." 到 (dào) is used when you talk about ''arriving'' at a place, emphasizing the destination. 去 (qù) is used when you are ''going to'' a place. The exact meaning is "to go," and it emphasizes ''getting to'' somewhere. 走 (zǒu) is used when talking about "leaving." The emphasis is on getting ''away'' from a particular place.
+
+== See also ==
+
+*[[Using "zai" with verbs]]
+*[["From… To…" with "cong… dao…"]]
+*[[Complement with "dao"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+* [[40 Lessons for Basic Chinese Course (基础汉语40课上册）]] (p. 200)
+* [[Integrated Chinese: Level 1, Part 2 (3rd ed)]] (p. 72) [http://www.amazon.com/gp/product/0887276709/ref%3das_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0887276709 →buy]
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Used for|Expressing movement}}
+{{Basic Grammar|到|A2|到 + Place|我 <em>到</em> 上海。|grammar point|ASGLFX54}}
+{{Rel char|去}}
+{{Similar|Using "zai" with verbs}} 
+{{Similar|Complement with "dao"}}
+{{Similar|"From… To…" with "cong… dao…"}}
+{{Similar|Using the verb "qu"}}
+{{POS|Verbs}}
+{{Subprop|Verb phrases}}
+{{Translation|go}}

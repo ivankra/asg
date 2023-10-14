@@ -1,0 +1,70 @@
+<!-- Advanced_uses_of_"zong" -->
+{{Grammar Box}} 
+总 (zǒng) can often be simply translated as "[[always]]," but it has other advanced uses as well. It can express "no matter how long or under what circumstances, facts are facts." It can also express "no matter what."  It is often paired with other words to form set phrases such as 总会, 总归, 总得, 总要, 总能, etc. It can also be structured together with other unconditional compound phrases like [[无论]] and [[不管]]. You cannot place it directly after the verb. 
+
+== Used with Auxiliary Verb ==
+
+In this structure, 总, with its companion character (usually a modal/[[auxiliary verb]]), means "always will (fill in character/action here)" Once again, it gives the feeling of something very concrete and factual. As you'll see in the examples, below, however, the word "always" don't always work well in a natural translation to English.
+
+=== Structure ===
+
+<div class="jiegou">
+总 + 会 / 得 / 要 / 能 + Verb Phrase (+ 吧)
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*这里 是 他 家，他 <em>总 会</em> 回来 的。<span class="pinyin">Zhèlǐ shì tā jiā, tā <em>zǒng huì</em> huílái de.</span><span class="trans">This is his home. He will always come back.</span>
+*咱们 <em>总 得</em> 想 个 办法 啊。<span class="pinyin">Zánmen <em>zǒng děi</em> xiǎng ge bànfǎ a.</span><span class="trans">We're going to have to come up with some kind of solution.</span>
+*不管 发生 了 什么，人 <em>总 要</em> 吃饭 吧。<span class="pinyin">Bùguǎn fāshēng le shénme, rén <em>zǒng yào</em> chīfàn ba.</span><span class="trans">No matter what happens, people still have to eat, right?</span>
+*他 是 你 爸爸，你 <em>总 要</em> 礼貌 一点 吧。<span class="pinyin">Tā shì nǐ bàba, nǐ <em>zǒng yào</em> lǐmào yīdiǎn ba.</span><span class="trans">He is your father, so you ought to be a little more polite.</span>
+*你 拿 了 人家 的 钱，<em>总 得</em> 帮 人家 做 事 吧。<span class="pinyin">Nǐ ná le rénjiā de qián, <em>zǒng děi</em> bāng rénjiā zuòshì ba.</span><span class="trans">You took their money, so you're going to have to help them with the work.</span>
+
+</div>
+
+== Used with 不 and 没 ==
+
+When 总 is used together with a negating word (like 不 or 没), it often has a tone of speculation, judgment or suggestion. The sentence often ends with a 吧.
+
+=== Structure ===
+
+<div class="jiegou">
+总 + 不 / 没 + Verb
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*你们 之间 的 联系 这么 少，看 起来 <em>总</em> <strong>不</strong> 像 是 一 家 人。<span class="pinyin">Nǐmen zhī jiān de liánxì zhème shǎo, kàn qǐlái <em>zǒng</em> <strong>bù</strong> xiàng shì yī jiā rén.</span><span class="trans">You talk to each other so little. It seems that you're barely family. </span>
+*他 这么 大 年纪 了，我们 <em>总</em> <strong>不</strong> 能 让 他 一个人 去 吧？<span class="pinyin">Tā zhème dà niánjì le, wǒmen <em>zǒng</em> <strong>bù</strong> néng ràng tā yīgèrén qù ba?</span><span class="trans">He's so elderly. We can't just let him go there all alone, right?</span>
+*这么 晚 了，<em>总</em> <strong>不</strong> 会 出 了 什么事 吧？<span class="pinyin">Zhème wǎn le, <em>zǒng</em> <strong>bù</strong> huì chū le shénme shì ba?</span><span class="trans">It's getting late. Do you think something bad might have happened?</span>
+*这 件 事 <em>总</em> <strong>不</strong> 会 是 内部 的 人 做 的 吧？<span class="pinyin">Zhè jiàn shì <em>zǒng</em> <strong>bù</strong> huì shì nèibù de rén zuò de ba?</span><span class="trans">This whole thing couldn't be an inside job, could it?</span>
+*他 想 带 父母 去 旅行，可是 <em>总</em> <strong>没</strong> 时间。<span class="pinyin">Tā xiǎng dài fùmǔ qù lǚxíng, kěshì <em>zǒng</em> <strong>méi</strong> shíjiān.</span><span class="trans">He wants to take his parents traveling, but he's never able to find time.</span>
+
+</div>
+
+==See also==
+
+*[[Comparing "zongsuan" and “zhongyu"]]
+*[["Always" with "zongshi"]]
+*[[Expressing "After All" with "bijing"]]
+*[[Expressing "In the End" with "daodi"]]
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|现代汉语八百词（增订本）|698}}
+{{Source|现代汉语虚词例释|663}}
+
+[[Category:B2 grammar points]]
+{{Basic Grammar|总|B2|总 + Verb Phrase|咱们 <em>总</em> 得 想 个 办法 啊。<em>总</em> 不 能 让 他 一个人 去 吧？|grammar point|ASG8QS6H}}
+{{Rel char|总归}}
+{{Rel char|总得}}
+{{Similar|Expressing "After All" with "bijing"}}   
+{{Similar|Expressing "In the End" with "daodi"}} 
+{{Used for|Describing things}}
+{{POS|Adverbs}}
+{{HSK|HSK5}}

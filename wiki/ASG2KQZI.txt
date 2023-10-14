@@ -1,0 +1,77 @@
+<!-- Expressing "in addition" with "lingwai" -->
+{{Grammar Box}} 
+
+另外 (lìngwài) can be used to express "in addition" or "besides," and is often followed by [[还]] (hái) or [[也]] (yě).
+
+== Using as a Conjunction ==
+
+As a [[conjunction]], 另外 can link two sentences.
+
+=== Structure ===
+
+<div class="jiegou">
+⋯⋯ ，另外 ，⋯⋯
+</div>
+
+Note that 还 or 也 is often used after 另外.
+
+=== Examples ===
+
+<div class="liju">
+
+*这个 课文 太 难 了 ，我 不 想 学 。<em>另外</em> ，我 <strong>也</strong> 没 准备 。<span class="pinyin">Zhège kèwén tài nán le, wǒ bù xiǎng xué. <em>Lìngwài</em>, wǒ <strong>yě</strong> méi zhǔnbèi.</span><span class="trans">This lesson is too difficult and I don't want to read it. Besides, I didn't prepare for it.</span>
+*希望 你 不要 再 迟到 了 。<em>另外</em>，你 应该 穿 得 正式 一 点 。<span class="pinyin">Xīwàng nǐ bùyào zài chídào le. <em>Lìngwài</em>, nǐ yīnggāi chuān de zhèngshì yīdiǎn.</span><span class="trans">I hope you won't be late again. In addition, you should also dress a bit more formally.</span>
+*这个 航班 经常 晚点 。<em>另外</em> ，他们 的 飞机 餐 <strong>也</strong> 很 难吃 。<span class="pinyin">Zhège hángbān jīngcháng wǎndiǎn. <em>Lìngwài</em>, tāmen de fēijī cān <strong>yě</strong> hěn nánchī.</span><span class="trans">This flight is frequently delayed. In addition, their in-flight food is terrible.</span>
+*我 没 时间 参加 这个 活动 。<em>另外</em> ，我 <strong>也</strong> 不 太 感 兴趣 。<span class="pinyin">Wǒ méi shíjiān cānjiā zhège huódòng. <em>Lìngwài</em>, wǒ <strong>yě</strong> bù tài gǎn xìngqù.</span><span class="trans">I don't have time to attend this activity. Besides, I'm not really interested.</span>
+*幼儿园 提供 午餐 。<em>另外</em> ，每天 下午 <strong>还</strong> 有 点心 和 水果 。<span class="pinyin">Yòuéryuán tígōng wǔcān. <em>Lìngwài</em>, měi tiān xiàwǔ <strong>hái</strong> yǒu diǎnxin hé shuǐguǒ.</span><span class="trans">The kindergarten provides lunch. In addition, there are also snacks and fruit every afternoon.</span>
+
+</div>
+
+== Used as an Adverb ==
+
+As an [[adverb]], 另外 adds the meaning of "additionally" (although that's probably not going to be the most natural English translation for most sentences).
+
+=== Structure ===
+
+<div class="jiegou">
+另外 + [Verb Phrase]
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*今天 我 没 空 ，能 不 能 <em>另外</em> 安排 时间 ？<span class="pinyin">Jīntiān wǒ méi kòng, néng bu néng <em>lìngwài</em> ānpái shíjiān?</span><span class="trans">I don't have time today. Can you schedule it another time?</span>
+*在 我家 开会 不 方便 ，我们 <em>另外</em> 找 地方 吧 。<span class="pinyin">Zài wǒ jiā kāi huì bù fāngbiàn, wǒmen <em>lìngwài</em> zhǎo dìfang ba.</span><span class="trans">It's not very convenient to have a meeting at my place. Let's find some other place.</span>
+*这个 项目 他们 做 得 不 好 ，我 建议 你们 <em>另外</em> 找 人 来 做 。<span class="pinyin">Zhège xiàngmù tāmen zuò de bu hǎo, wǒ jiànyì nǐmen <em>lìngwài</em> zhǎo rén lái zuò.</span><span class="trans">They aren't doing a good job on this project. I suggest you find some other people to do it.</span>
+*这里 是 VIP 室 ，要 <em>另外</em> 付费 才 能 用 。<span class="pinyin">Zhèlǐ shì VIP shì, yào <em>lìngwài</em> fùfèi cái néng yòng.</span><span class="trans">This is the VIP room. You will have to pay extra in order to use it.</span>
+*如果 学生 觉得 不 难 ，老师 可以  <em>另外</em> 加 一些 学习 内容 。<span class="pinyin">Rúguǒ xuéshēng juéde bù nán, lǎoshī kěyǐ <em>lìngwài</em> jiā yīxiē xuéxí nèiróng.</span><span class="trans">If the students don't find it difficult, the teacher can add more study material.
+</span>
+
+</div>
+
+== See also ==
+
+*[[Expressing "in addition" with "haiyou"]]
+*[["In addition" with "zaishuo"]]
+*[[Expressing "not only… but also"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|30}}
+{{Source|Boya Chinese Upper Intermediate 1 (博雅汉语中级冲刺篇) |196}} 
+{{Source|Integrated Chinese: Level 2, Part 1|155-6}}
+
+[[Category: B1 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|另外|B1|⋯⋯ ，另外 ，⋯⋯|希望 你 不要 再 迟到 了。<em>另外</em>，你 应该 穿 得 正式 一点 。|grammar point|ASG2KQZI}}
+{{Similar|Expressing "In Addition" with "haiyou"}}
+{{Similar|"In Addition" with "zaishuo"}}
+{{Similar|Expressing "not only… but also"}}
+{{Similar|"Except" and "in addition" with "chule… yiwai"}}
+{{Similar|"Using "budan... geng" to express "not only... but also"}}
+{{POS|Conjunctions}}
+{{Used for|Giving alternatives}}
+{{Used for|Connecting ideas}}

@@ -1,0 +1,91 @@
+<!-- Expressing "thanks to" with "duokui" -->
+{{Grammar Box}} 
+多亏 (duōkuī) can be translated as "thanks to" and is used to express that, due to somebody's help, a negative result has been averted. 了 is often placed after it as it's about something that has been completed.
+
+== Basic Pattern with 多亏 (了) ==
+
+=== Structure ===
+
+<div class="jiegou">
+[Good Outcome] ，多亏 (了) + [Lucky Incident]
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*我 能 这么 快 做完 ，<em>多亏 了</em> 你 帮 我 。<span class="pinyin">Wǒ néng zhème kuài zuò wán, <em>duōkuī le</em> nǐ bāng wǒ.</span><span class="trans">I was able to finish so quickly thanks to your help.</span>
+*我 没 迟到 ，<em>多亏 了</em> 你 开车 送 我 。<span class="pinyin">Wǒ méi chídào, <em>duōkuī le</em> nǐ kāichē sòng wǒ.</span><span class="trans">I wasn't late, thanks to you giving me a ride.</span>
+*我的 病 很 快 好 了 ，<em>多亏 了</em> 妈妈 仔细 照顾 我。<span class="pinyin">Wǒ de bìng hěn kuài hǎo le, <em>duōkuī le</em> māma zǐxì zhàogù wǒ.</span><span class="trans">I got well quickly, thanks to my mother's care and attention.</span>
+*项目 可以 顺利 进行，<em>多亏 了</em> 你。谢谢你。<span class="pinyin">Xiàngmù kěyǐ shùnlì jìnxíng, <em>duōkuī le</em> nǐ. xièxie nǐ.</span><span class="trans">Because of you, the project is going smoothly. Thank you.</span> 
+</div>
+
+== Pattern with 多亏 and 才 ==
+
+When the good outcome comes before 多亏 (as in the pattern above), there is no need to add in 才. But if the good outcome comes after 多亏, you need to add in 才 to indicate "as a result...(the good outcome happened)." (才 gives the sense that the good outcome ''wouldn't have happened'' without that extra help.)
+
+=== Structure ===
+
+<div class="jiegou">
+多亏 (了) + [Lucky Incident] ，Subj. 才 + [Good Outcome] 
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>多亏 了</em> 你 开车 送 我 ，我 <strong>才</strong> 没 迟到 。<span class="pinyin"><em>Duōkuī le</em> nǐ kāichē sòng wǒ, wǒ <strong>cái</strong> méi chídào.</span><span class="trans">Thanks to your ride, I'm not late to get here.</span>
+*<em>多亏</em> 你 的 伞 ，我 <strong>才</strong> 没 淋湿 。<span class="pinyin"><em>Duōkuī </em>nǐ de sǎn, wǒ <strong>cái</strong> méi línshī.</span><span class="trans">Thanks to your umbrella, I didn't get wet.</span>
+*<em>多亏</em> 你 帮 我，我 <strong>才</strong> 能 这么 快 做完 。<span class="pinyin"><em>Duōkuī</em> nǐ bāng wǒ, wǒ <strong>cái</strong> néng zhème kuài zuò wán.</span><span class="trans">Thanks to your help, I was able to complete it so quickly.</span>
+
+</div>
+
+== Advanced Pattern with 多亏 and 不然 ==
+
+If you want to add in 不然 (bùrán) for an "otherwise... (this really bad thing would have happened)" explanation, use this structure.
+
+=== Structure ===
+
+<div class="jiegou">
+多亏 (了) + [Lucky Incident] ，不然 + [Bad Outcome] 
+</div>
+
+=== Examples ===
+
+When translating to English, "thanks to" doesn't always work as well when you have to add in "otherwise."
+
+<div class="liju">
+*这 件 事情 <em>多亏 了</em> 你 的 提醒 ，<strong>不然</strong> 我 肯定 忘 了 。<span class="pinyin">Zhè jiàn shìqing <em>duōkuī le</em> nǐ de tíxǐng, <strong>bùrán</strong> wǒ kěndìng wàng le.</span><span class="trans">Thank you for reminding me about this matter! Otherwise I would definitely have forgetten.</span>
+*<em>多亏</em> 你 送 她 去 医院 ，<strong>不然</strong> 情况 会 很 严重 。<span class="pinyin"><em>Duōkuī</em> nǐ sòng tā qù yīyuàn, <strong>bùrán</strong> qíngkuàng huì hěn yánzhòng.</span><span class="trans">It was a good thing you took her to the hospital, otherwise her condition could have gotten really serious.</span>
+*<em>多亏 了</em> 你 的 建议 ，<strong>不然</strong> 我 真 不 知道 怎么 办 。<span class="pinyin"><em>Duōkuī le</em> nǐ de jiànyì, <strong>bùrán</strong> wǒ zhēn bù zhīdào zěnme bàn.</span><span class="trans">It was a good thing you gave me that suggestion, otherwise I really wouldn't have known what to do.</span>
+</div>
+
+== Difference between 多亏 and 幸亏 ==
+
+多亏 (duōkuī) is similar to [[幸亏|幸亏 (xìngkuī)]] in meaning, the major grammatical similarity being that both can be used with 不然 or 才. But there are a few difference between them:  
+
+# '''Meaning:''' 多亏 emphasizes a feeling of gratitude towards a specific person for the outcome, rather than attributing it purely to fortune as 幸亏 does. 
+# '''Collocations:''' 多亏 can combine with just a noun phrase, but 幸亏 can't.
+# '''Patterns:''' 多亏 can be placed in the beginning or the middle of a sentence, while 幸亏 can be only placed in the beginning of the sentence.
+
+== See also ==
+
+*[[Expressing good luck with "haihao"]]
+
+== Sources and  further reading ==
+
+=== Books ===
+{{Source|HSK Standard Course 5上|109}}
+
+=== Dictionaries ===
+
+{{Source|现代汉语词典（第5版）|350}}
+
+[[Category:B2 grammar points]]
+{{Basic Grammar|多亏|B2|Good Outcome ，多亏 (了) + Lucky Incident|我 没 迟到 ，<em>多亏了</em> 你 开车 送 我 。|grammar point|ASG44TBS}}
+{{Rel char|幸好}}
+{{Rel char|幸亏}}
+{{Rel char|才}}
+{{Rel char|不然}}
+{{Used for|Expressing attitude}}
+{{Similar|Expressing good luck with "haihao"}}
+{{POS|Sentence Patterns}}

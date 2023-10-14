@@ -1,0 +1,82 @@
+<!-- Phrases using "laishuo" -->
+{{Grammar Box}} 
+
+Although the different phrases involving 来说 (láishuō) may seem pretty different, they do share a common structure: a word or short phrase at the beginning of a sentence, followed by 来说, sets the speaker's attitude or point of view before launching into the full comment.
+
+== Colloquial Saying 对……来说 ==
+
+In English we say "to someone" or "for someone," followed by some information about their particular view or circumstances. In Chinese, the pattern is 对……来说 (duì... lái shuō).
+
+=== Structure ===
+
+<div class="jiegou">
+对 + Person + 来说 ，⋯⋯ 
+</div>
+
+The [[predicate]] part of the pattern can be a verb or an adjective.
+
+=== Examples ===
+
+<div class="liju">
+
+* <em>对</em> <strong>我</strong> <em>来说</em> ， 中文 不 容易 。<span class="pinyin"><em>Duì</em> <strong>wǒ</strong> <em>lái shuō</em>, Zhōngwén bù róngyì.</span><span class="trans">For me, Chinese is not easy.</span>
+* <em>对</em> <strong>你</strong> <em>来说</em> ，家庭 重要 还是 工作 重要 ？<span class="pinyin"><em>Duì</em> <strong>nǐ</strong> <em>lái shuō</em>, jiātíng zhòngyào háishì gōngzuò  zhòngyào?</span><span class="trans">Is family or work more important to you?</span>
+* <em>对</em> <strong>孩子</strong> <em>来说</em> ，这个 问题 太 复杂 了 。<span class="pinyin"><em>Duì</em> <strong>háizi</strong> <em>lái shuō</em>, zhège wèntí  tài fùzá le.</span><span class="trans">This question is too complicated for kids.</span>
+
+</div>
+
+== Common Phrases ==
+
+=== Structure ===
+
+These are set phrases that you need to learn individually, but they follow a common pattern. The structure is simply:
+
+<div class="jiegou">
+Word + 来说
+</div>
+
+=== Examples ===
+
+First, some common phrases:
+
+* 一般 来说 (yībān lái shuō) generally speaking, ordinarily
+* 总的 来说 (zǒngde lái shuō) generally speaking, generally
+* 相对 来说 (xiāngduì lái shuō) relatively speaking
+* 严格 来说 (yángé lái shuō) strictly speaking; technically
+* 具体 来说 (jùtǐ lái shuō) specifically
+
+Now, the sentences:
+
+<div class="liju">
+
+*<em>一般 来说</em> ，私立 学校 都 比较 贵 。<span class="pinyin"><em>Yībān lái shuō</em>, sīlì xuéxiào dōu bǐjiào guì.</span><span class="trans">Ordinarily, private schools are more expensive.</span>
+*<em>一般 来说</em> ，我们 只 要 外国 实习生 。<span class="pinyin"><em>Yībān lái shuō</em>, wǒmen zhǐ yào wàiguó shíxíshēng.</span><span class="trans">Generally speaking, we only want foreign interns.</span>
+*<em>一般 来说</em> ，大 城市 有 更 多 工作 机会 。<span class="pinyin"><em>Yībān lái shuō</em>, dà chéngshì yǒu gèng duō gōngzuò jīhuì.</span><span class="trans">Generally speaking, there are more job opportunities in big cities.</span>
+*<em>总的 来说</em> ，这 次 活动 很 成功 。<span class="pinyin"><em>Zǒng de lái shuō</em>, zhè cì huódòng hěn chénggōng.</span><span class="trans">In general, this event was a success.</span>
+*<em>总的 来说</em> ，这个 情况 在 改善 。<span class="pinyin"><em>Zǒng de lái shuō</em>, zhège qíngkuàng zài gǎishàn.</span><span class="trans">Generally speaking, this situation has been improving.</span>
+*今天 的 考试 <em>相对 来说</em> 有点 难 。<span class="pinyin">Jīntiān de kǎoshì <em>xiāngduì lái shuō</em> yǒudiǎn nán.</span><span class="trans">Today's test was a little difficult, relatively speaking.</span>
+*<em>相对 来说</em> ，我 更 支持 我的 老板 。<span class="pinyin"><em>Xiāngduì lái shuō</em>, wǒ gèng zhīchí wǒde lǎobǎn.</span><span class="trans">Relatively speaking, I support my boss more.</span>
+*<em>严格 来说</em> ，他 是 我 负责人 ，不是 我 老板 。<span class="pinyin"><em>Yángé lái shuō</em>, tā shì wǒ fùzérén, bù shì wǒ lǎobǎn.</span><span class="trans">Strictly speaking, he's my supervisor, not my boss.</span>
+*<em>严格 来说</em> ，他 是 华裔 ，不 是 中国人 。<span class="pinyin"><em>Yángé lái shuō</em>, tā shì huáyì, bù shì Zhōngguó rén.</span><span class="trans">Technically, he is ethnically Chinese, not a Chinese citizen.</span>
+*<em>具体 来说</em> ，这样 做 有 三 个 好处 。<span class="pinyin"><em>Jùtǐ lái shuō</em>, zhèyàng zuò  yǒu sān gè hǎochù.</span><span class="trans">Specifically, there are three benefits in doing it this way.</span>
+
+</div>
+
+== See also ==
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|59}}
+{{Source|HSK Standard Course 4下|122}}
+{{Source|卓越汉语－公司实战篇|58}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|来说|B1|对 + Person + 来说 / 一般 来说|<em>一般 来说</em> ，私立 学校 都 比较 贵 。|grammar point|ASGD60A6}}
+{{Rel char|对}}
+{{Similar|}}
+{{Used for|Describing attitude}}
+{{Structure|Sentence Patterns}}
+{{Subprop|Basic/Simple Sentence Patterns}}

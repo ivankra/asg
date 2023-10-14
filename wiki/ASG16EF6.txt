@@ -1,0 +1,115 @@
+<!-- Expressing "once" with "cengjing" -->
+{{Grammar Box}} 
+
+曾经 (céngjīng) is an [[adverb]], and as such comes before verb phrases in a sentence. It adds the sense of "once" having happened (the "once upon a time" meaning of "once"), sometimes translated as "ever." It frequently pairs with 过.
+
+== Used with 过 ==
+
+When used with action verbs, 曾经 comes before the verb, which is then followed by 过. For [[psychological verb]]s, the 过 is optional.
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 曾经 + Verb + 过 (+ Obj.) 
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我们 <em>曾经</em> 一起 去 <strong>过</strong> 。<span class="pinyin">Wǒmen <em>céngjīng</em> yīqǐ qù <strong>guò</strong>.</span><span class="trans">We once went there together.</span>
+*他 说 他 <em>曾经</em> 做 <strong>过</strong> 很多 傻事 。<span class="pinyin">Tā shuō tā <em>céngjīng</em> zuò <strong>guò</strong> hěn duō shǎ shì.</span><span class="trans">He said that he once did a lot of stupid things.</span>
+*我 <em>曾经</em> 喜欢 <strong>过</strong> 你 。<span class="pinyin">Wǒ <em>céngjīng</em> xǐhuan <strong>guò</strong> nǐ.</span><span class="trans">I once liked you.</span>
+*她 <em>曾经</em> <strong>想</strong> 当 演员 ，后来 成 了 全职太太 。<span class="pinyin">Tā <em>céngjīng</em> <strong>xiǎng</strong> dāng yǎnyuán, hòulái chéng le quánzhí tàitai.</span><span class="trans">She once wanted to become an actress. She later became a stay-at-home mom.</span>
+
+</div>
+
+Sometimes 曾经 is used with 了 rather than 过.
+
+<div class="liju">
+*为了 找 亲生 父母 ，她 <em>曾经</em> 花 <strong>了</strong> 很 多 钱 。<span class="pinyin">Wèile zhǎo qīnshēng fùmǔ, tā <em>céngjīng</em> huā <strong>le</strong> hěn duō qián.</span><span class="trans">In order to find her biological parents, she once spent a lot of money.</span>
+</div>
+
+曾经 can also be used with some adjectives. In these cases, 过 is usually also used.
+
+<div class="liju">
+*我们 都 <em>曾经</em> 年轻 <strong>过</strong> 。<span class="pinyin">Wǒmen dōu <em>céngjīng</em> niánqīng <strong>guò</strong>.</span><span class="trans">We were all young once.</span>
+*他 的 音乐 <em>曾经</em> 流行 <strong>过</strong> 。<span class="pinyin">Tā de yīnyuè <em>céngjīng</em> liúxíng <strong>guò</strong>.</span><span class="trans">His music was once popular.</span>
+</div>
+
+== Used without 过 ==
+
+When used with the verbs [[是]], [[在]], and [[有]] (all related to ''existence'' rather than actions), 过 is generally '''not''' used.
+
+=== Structure ===
+
+<div class="jiegou">
+曾经 + 是 / 在 / 有 ⋯⋯ 
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*他 <em>曾经</em> <strong>是</strong> 我 老板 。<span class="pinyin">Tā <em>céngjīng</em> <strong>shì</strong> wǒ lǎobǎn.</span><span class="trans">He was once my boss.</span>
+*这里 <em>曾经</em> <strong>是</strong> 一个 学校 。<span class="pinyin">Zhèlǐ <em>céngjīng</em> <strong>shì</strong> yī gè xuéxiào.</span><span class="trans">There was once a school here.</span>
+*市政府 <em>曾经</em> <strong>在</strong> 我们 家 旁边 。<span class="pinyin">Shì zhèngfǔ <em>céngjīng</em> <strong>zài</strong> wǒmen jiā pángbiān.</span><span class="trans">The municipal government [building] was once next to our house.</span>
+*他 的 墓 <em>曾经</em> <strong>在</strong> 国外 。<span class="pinyin">Tā de mù <em>céngjīng</em> <strong>zài</strong> guówài.</span><span class="trans">His tomb was once overseas.</span>
+*她 <em>曾经</em> <strong>有</strong> 一个 西班牙 男朋友 。<span class="pinyin">Tā <em>céngjīng</em> <strong>yǒu </strong> yī gè Xībānyá nánpéngyou.</span><span class="trans">She once had a Spanish boyfriend.</span>
+*他们 家 <em>曾经</em> <strong>有</strong> 很 多 钱 。<span class="pinyin">Tāmen jiā <em>céngjīng</em> <strong>yǒu</strong> hěn duō qián.</span><span class="trans">Their family once had lots of money.</span>
+</div>
+
+== Negative Form ==
+
+Because [[过]] is used to talk about past actions, it should be negated with [[没]] (méi). When you mean to say "I haven't ever (done something)" or "(something) hasn't happened ever," just say [[Expressing experiences with "guo"|没⋯⋯过]]. It is incorrect to use 没 or 不 to negate 曾经.
+
+Try not to say:
+
+<div class="liju">
+
+<ul>
+<li class="x">我们 <em>不 曾经</em> 吵 <strong>过</strong> 架 。 <span class="pinyin">Wǒmen <em>bù céngjīng</em> chǎo <strong>guò</strong> jià.</span><span class="trans">We've never argued.</span></li>
+<li class="x">他们 一直 写信 ，<em>没 曾经</em> 见 <strong>过</strong> 面 。 <span class="pinyin">Tāmen yīzhí xiěxìn, <em> méi céngjīng </em> jiàn <strong> guò </strong> miàn.</span><span class="trans">They've been writing letters to each other, but they've never met.</span></li>
+</ul>
+
+</div>
+
+[[不曾]] (bùcéng) and [[未曾]] (wèicéng), however, can also  be used to express the above meaning, but they're more formal and thus used only in written language. 
+
+<div class="jiegou">
+不曾 / 未曾 + Verb + 过 + Obj.
+</div>
+
+A few examples:
+
+<div class="liju">
+
+*他们 一直 写信 ，<em>不曾 </em> 见 <strong>过</strong> 面 。<span class="pinyin">Tāmen yīzhí xiě xìn, <em>bùcéng</em> jiàn <strong>guò</strong> miàn.</span><span class="trans">They've been writing letters to each other, but they've never met.</span>
+*他 从小 就 没有 父母 ，<em>未曾</em> 感受 <strong>过</strong> 家庭 的 温暖 。<span class="pinyin">Tā cóngxiǎo jiù méiyǒu fùmǔ, <em>wèicéng</em> gǎnshòu <strong>guò</strong> jiātíng de wēnnuǎn.</span><span class="trans">He's had no parents since he was very young. He's never experienced the warmth of a family.</span>
+
+</div>
+
+== See also ==
+
+*[[Taiwanese "you"]]
+*[[Expressing experiences with "guo"]]
+*[[Before a specific time with "yiqian"]]
+*[[Expressing "before" in general with "yiqian"]]
+
+== Sources and further reading ==
+
+=== Books ===
+{{Source|HSK Standard Course 5上|75}}  
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|曾经|B2|Subj. + 曾经 + Verb + 过 (+ Obj.) |他 说 他 <em>曾经</em> 做 <strong>过</strong> 很多 傻事 。|grammar point|ASG16EF6}}
+{{Rel char|过}}
+{{Rel char|不曾}}
+{{Rel char|未曾}}
+{{Similar|Before a specific time with "yiqian"}}
+{{Similar|Expressing "before" in general with "yiqian"}}
+{{Similar|Taiwanese "you"}}
+{{Similar|Expressing experiences with "guo"}}
+{{Used for|Expressing time and date}}
+{{Used for|Referring to the past}}
+{{POS|Adverbs}}
+{{Translation|once}}

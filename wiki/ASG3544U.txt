@@ -1,0 +1,120 @@
+<!-- Superlative "zui" -->
+{{Grammar Box}} 
+
+The most common way to form a superlative (best, worst, biggest, smallest, etc.) in Chinese is to use 最 (zuì) before an [[adjective]] (and a few select [[verb]]s). 
+
+== 最 (zuì) with Adjectives ==
+
+=== Structure ===
+
+The structure is:
+
+<div class="jiegou">
+
+最 + Adj.
+
+</div>
+
+And now you have the superlative form of the adjective. Unlike in English, this structure is consistent for all adjectives in Chinese. The inconsistencies in English sometimes confuse beginners, so note in the examples below how to say "best," "worst," "least," and "most" (meaning "greatest number").
+
+=== Examples ===
+
+<div class="liju">
+
+*哪 个 老师 <em>最</em> 好？<span class="pinyin">Nǎge lǎoshī <em>zuì</em> hǎo? </span><span class="trans">Which teacher is the best?</span>
+*你们 家 谁 <em>最</em> 漂亮？<span class="pinyin">Nǐmen jiā shéi <em>zuì</em> piàoliang? </span><span class="trans">In your family who is the most beautiful? </span>
+*谁 <em>最</em> 有钱 ？<span class="pinyin">Shéi <em>zuì</em> yǒuqián?</span><span class="trans">Who is the richest?</span>
+*汉语 <em>最</em> 难 。<span class="pinyin">Hànyǔ <em>zuì</em> nán.</span><span class="trans">The Chinese language is the most difficult.</span>
+*这 种 事 <em>最</em> 麻烦 。<span class="pinyin">Zhè zhǒng shì <em>zuì</em> máfan.</span><span class="trans">These kind of things are the most troublesome.</span>
+
+</div>
+
+== Optional 了 (le) ==
+
+Occasionally you'll also see a 了 (le) added after the adjective.  This simply adds emphasis to the "-est."
+
+=== Structure ===
+
+<div class="jiegou">
+最 + Adj. (+ 了)
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*小狗 <em>最</em> 可爱 <strong>了</strong>。<span class="expl pdf-simple-expl">This 了 is optional</span><span class="pinyin">Xiǎogǒu <em>zuì</em> kě'ài <strong>le</strong>.</span><span class="trans">The puppy is the cutest.</span>
+*四川 菜 <em>最</em> 辣 <strong>了</strong> 。<span class="expl pdf-simple-expl">This 了 is optional</span><span class="pinyin">Sìchuān cài <em>zuì</em> là <strong>le</strong>.</span><span class="trans">Sichuan food is the spiciest.</span>
+*我 的 中国 朋友 <em>最</em> 热情 <strong>了</strong>。<span class="expl pdf-simple-expl">This 了 is optional</span><span class="pinyin">Wǒ de Zhōngguó péngyou <em>zuì</em> rèqíng <strong>le</strong>.</span><span class="trans">My Chinese friend is the most enthusiastic.</span>
+*他 的 学生 <em>最</em> 认真 <strong>了</strong>。<span class="expl pdf-simple-expl">This 了 is optional</span><span class="pinyin">Tā de xuésheng <em>zuì</em> rènzhēn <strong>le</strong>.</span><span class="trans">His student is the most serious.</span>
+*黄山 的 风景 <em>最</em> 美 <strong>了</strong>。 <span class="expl pdf-simple-expl">This 了 is optional</span><span class="pinyin">Huángshān de fēngjǐng <em>zuì</em> měi <strong>le</strong>.</span><span class="trans">Huang Mountain's landscape is the most beautiful.</span>
+
+</div>
+
+== 最 (zuì) with Psychological Verbs ==
+
+最 (zuì) can also come before [[psychological verb]]s, to express what one "most likes," "most hates," etc. It won't make sense if you try to use 最 (zuì) with non-psychological verbs, though.
+
+=== Structure ===
+
+The structure is:
+
+<div class="jiegou">
+
+最 + [Psychological Verb] + Obj. (+ 了)
+
+</div>
+
+Note the 了 (le) on the end there! It's not strictly required, but you'll hear it a lot in spoken Chinese.
+
+=== Examples ===
+
+<div class="liju">
+
+*老板 <em>最</em> <strong>喜欢</strong> 你 了！ <span class="pinyin">Lǎobǎn <em>zuì</em> <strong>xǐhuan</strong> nǐ le!</span><span class="trans">The boss likes you the best!</span>
+*你 <em>最</em> <strong>怕</strong> 什么？<span class="pinyin">Nǐ <em>zuì</em> <strong>pà</strong> shénme?</span><span class="trans">What do you most fear?</span>
+*我 <em>最</em> <strong>爱</strong> 中国 菜。<span class="pinyin">Wǒ <em>zuì</em> <strong>ài</strong> Zhōngguó cài.</span><span class="trans">I love Chinese food most.</span>
+*谁 <em>最</em> <strong>了解</strong> 你？ <span class="pinyin">Shéi <em>zuì</em> <strong>liǎojiě</strong> nǐ?</span><span class="trans">Who knows you best?</span>
+*她 <em>最</em> <strong>讨厌</strong> 抽烟 的 男人 了。<span class="pinyin">Tā <em>zuì</em> <strong>tǎoyàn</strong> chōuyān de nánrén le.</span><span class="trans">She most hates men that smoke.</span>
+
+</div>
+
+Although you could translate it as "like the best," pairing 最 (zuì) with the psychological verb 喜欢 (xǐhuan) is also a great way to talk about one's "favorite."
+
+<div class="liju">
+
+*你 <em>最</em> <strong>喜欢</strong> 什么 颜色？<span class="pinyin">Nǐ <em>zuì</em> <strong>xǐhuan</strong> shénme yánsè? </span><span class="trans">What is your favorite color? </span>
+*你 <em>最</em> <strong>喜欢</strong> 什么 动物？<span class="pinyin">Nǐ <em>zuì</em> <strong>xǐhuan</strong> shénme dòngwù?</span><span class="trans">What is your favorite animal?</span>
+
+</div>
+
+==See also==
+
+*[[Expressing "excessively" with tai]]
+*[[Positive adjectives with "-ji le"]]
+*[[Expressing "rather" with "bijiao"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|4}}
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|15-6}} 
+{{Source|Mandarin Chinese: A Functional Reference Grammar|571-4}}
+{{Source|Integrated Chinese: Level 2, Part 1|344}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|最|A2|最 + Adj. (+ 了)|谁 <em>最</em> 有钱 ？|grammar point|ASG3544U}}
+{{Similar|Expressing "excessively" with tai}}  
+{{Similar|Positive adjectives with "-ji le"}}  
+{{Similar|Expressing "rather" with "bijiao"}}
+{{Similar|Simple "noun + adjective" sentences}}
+{{Similar|Adjectives with "name" and "zheme"}}
+{{Similar|Moderating positive adjectives with "hai"}}
+{{Similar|"Even more" with "geng"}}
+{{Similar|Expressing "really" with "zhen"}}
+{{Used for|Comparing}}
+{{Used for|Emphasizing}}
+{{POS|Adverbs with Adjectives}}
+{{Translation|most}}

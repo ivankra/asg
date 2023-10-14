@@ -1,0 +1,54 @@
+<!-- Expressing simultaneous actions with "yimian" -->
+{{Grammar Box}} 
+一面 (yìmiàn) is more formal than [[Simultaneous tasks with "yibian"|一边]], but is used in the same way to express two simultaneous actions.
+
+== Structure ==
+<div class="jiegou">
+一面 + Verb +  一面 + Verb
+</div>
+
+== Examples ==
+<div class="liju">
+* 我 <em>一面</em> 哭 <em>一面</em> 跑。<span class="pinyin">Wǒ <em>yīmiàn</em> kū <em>yīmiàn</em> pǎo.</span><span class="trans">I cried while running away.</span>
+* 他 喜欢 <em>一面</em> 吃 东西 ， <em>一面</em> 看 电影 。<span class="pinyin">Tā xǐhuan <em>yīmiàn</em> chī dōngxi, <em>yīmiàn</em> kàn diànyǐng.</span><span class="trans">He likes to eat and watch movies at the same time.</span>
+* 我 告诉 你 多少 次 了，别 <em>一面</em> 躺 在 床上 <em>一面</em> 吃 零食！弄得 床上 都 是 碎屑 !<span class="pinyin">Wǒ gàosù nǐ duōshǎo cì le, bié <em>yīmiàn</em> tǎng zài chuángshang <em>yīmiàn</em> chī língshí! Nòng de chuángshàng dōu shì suìxiè!</span><span class="trans">I've told you so many times: don't eat while lying in bed. You've gotten crumbs all over the bed!</span>
+* 他们 一家人 <em>一面</em> 赏月 <em>一面</em> 吃 月饼。<span class="pinyin">Tāmen yījiārén <em>yīmiàn</em> shǎngyuè <em>yīmiàn</em> chī yuèbǐng.</span><span class="trans">They enjoy the full moon and eat moon cakes together as a family.</span>
+* 你 会 <em>一面</em> 拍头 <em>一面</em> 揉 肚子 吗？<span class="pinyin">Nǐ huì <em>yīmiàn</em> pāi tóu <em>yīmiàn</em> róu dùzi ma?</span><span class="trans">Can you pat your head and rub your belly at the same time?</span>
+* 为了 赚 钱，哥哥 <em>一面</em> 读书 <em>一面</em> 做 兼职。<span class="pinyin">Wèile zhuànqián, gēge <em>yīmiàn</em> dúshū <em>yīmiàn</em> zuò jiānzhí.</span><span class="trans">To earn money, my big brother is studying and working part-time at the same time.</span>
+</div>
+
+一面 cannot be shortened in the way while 一边 can:
+
+<div class="liju">
+
+<ul>
+<li class="x"> 我 <em>面</em> 工作 <em>面</em> 学习。<span class="pinyin">Wǒ <em>miàn</em> gōngzuò <em>miàn</em> xuéxí.</span></li>
+<li class="o"> 我 <em>边</em> 工作 <em>边</em> 学习。<span class="pinyin">Wǒ <em>biān</em> gōngzuò <em>biān</em> xuéxí.</span><span class="trans">I work and study at the same time.</span></li>
+</ul>
+</div>
+
+一面 can also be used to express two aspects of a situation, which are not necessarily being enacted simultaneously. This is the same as the structure [[Expressing various aspects with "yi fangmian"|"一方面……一方面……"]], or "on the one hand... on the other hand" in English.
+
+<div class="liju">
+* 政府  <em>一面</em> 要 控制 通货膨胀， <em>一面</em> 也 要 保证 一定 的 经济 增长 速度。<span class="pinyin">Zhèngfǔ  <em>yīmiàn</em> yào kòngzhì tōnghuò péngzhàng, <em>yīmiàn</em> yě yào bǎozhèng yīdìng de jīngjì zēngzhǎng sùdù.</span><span class="trans">On one hand, the government needs to control inflation, but on the other hand, it needs to guarantee a certain amount of economic growth.</span>
+* 小丽 <em>一面</em> 想 谈 恋爱 <em>一面</em> 又 不 想 受伤。<span class="pinyin">Xiǎolì <em>yīmiàn</em> xiǎng tán liàn'ài <em>yīmiàn</em> yòu bù xiǎng shòushāng.</span><span class="trans">Xiaoli, on the one hand, wants to date, and on the other hand, doesn't want to get hurt.</span>
+</div>
+
+==See also==
+*[[Simultaneous tasks with "yibian"]]
+*[["Along with…" using "suizhe"]]
+*[[Expressing various aspects with "yi fangmian"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级) |323-5 }} 
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|一面|B2|一面⋯⋯，一面⋯⋯|他 喜欢 <em>一面</em> 吃 东西 ， <em>一面</em> 看 电影。|grammar point|ASG1QB4K}}
+{{Similar|Simultaneous tasks with "yibian"}}
+{{Similar|"Along with…" using "suizhe"}}
+{{Similar|Expressing various aspects with "yi fangmian"}}
+{{Used for|Referring to simultaneous events}}
+{{Structure|Sentence Patterns}}

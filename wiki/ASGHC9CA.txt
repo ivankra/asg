@@ -1,0 +1,126 @@
+<!-- Using_"ji"_to_mean_"several" -->
+{{Grammar Box}} 
+
+One of the definitions of the common character 几 (jǐ) is "several," "a couple" or "a few." It's an uncertain number that is at least more than one, and probably less than five, but definitely less than ten.
+
+== 几 (jǐ) as "a Few" ==
+
+The simplest way to use 几 (jǐ) to mean "a few" is to use it directly with a measure word.
+
+===Structure===
+
+<div class="jiegou">
+
+几 + Measure Word + Noun
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 桌子 上 有 <em>几</em> 本 书。<span class="pinyin">Zhuōzi shàng yǒu <em>jǐ</em> běn shū.</span><span class="trans">There are a few books on the table.</span>
+* 只有 <em>几</em> 个 人 去 过 那 个 地方。<span class="pinyin">Zhǐyǒu <em>jǐ</em> gè rén qù guo nàge dìfang.</span><span class="trans">Only a few people have been to that place.</span>
+* 从 上海 到 东京 坐 飞机 只 要 <em>几</em> 个 小时。<span class="pinyin">Cóng Shànghǎi dào Dōngjīng zuò fēijī zhǐ yào <em>jǐ</em> gè xiǎoshí.</span><span class="trans">Flying from Shanghai to Tokyo only takes a few hours.</span>
+* 我 每 天 都 要 喝 <em>几</em> 杯 咖啡。<span class="pinyin">Wǒ měi tiān dōu yào hē <em>jǐ</em> bēi kāfēi.</span><span class="trans">Every day I have to drink a couple cups of coffee.</span>
+* 老板 今天 开 了 <em>几</em> 个 重要 的 会。<span class="pinyin">Lǎobǎn jīntiān kāi le <em>jǐ</em> gè zhòngyào de huì.</span><span class="trans">The boss had a few important meetings today.</span>
+</div>
+
+== 几 (jǐ) as "a Few Tens" ==
+
+It is similar to how in English we can say, "a few dozen" or "a couple dozen," though in this case instead of "twelves of something" we are saying "tens of something."
+
+===Structure===
+
+<div class="jiegou">
+
+几 + 十 + Measure Word + Noun
+
+</div>
+
+===Examples===
+
+<div class="liju">
+
+* 他 只 想 学 <em>几 十</em> 个 汉字。<span class="expl pdf-long-expl">"Dozens" is the closest we can get in natural English to the Chinese, which literally means "tens."</span><span class="pinyin">Tā zhǐ xiǎng xué <em>jǐ shí</em> gè Hànzì.</span><span class="trans">He only wants to study a few dozen Chinese characters.</span>
+* 我们 公司 有 <em>几 十</em> 个 员工。<span class="pinyin">Wǒmen gōngsī yǒu <em>jǐ shí</em> gè yuángōng.</span><span class="trans">Our company has a few dozen employees.</span>
+* 他 写 过 <em>几 十</em> 本 书，我 都 喜欢。<span class="pinyin">Tā xiě guo <em>jǐ shí</em> běn shū, wǒ dōu xǐhuan.</span><span class="trans">He wrote a few dozen books. I like them all.</span>
+* 这个 年轻的 演员 演 了 <em>几 十</em> 部 电影。我都喜欢。<span class="pinyin">Zhège niánqīng de yǎnyuán yǎn le <em>jǐ shí</em> bù diànyǐng. Wǒ dōu xǐhuan.</span><span class="trans">This young actor has acted in dozens of movies. I like them all.</span>
+* 老板 在 国外 有 <em>几 十</em> 套 房子。<span class="pinyin">Lǎobǎn zài guówài yǒu <em>jǐ shí</em> tào fángzi.</span><span class="trans">The boss has a few dozen houses abroad.</span>
+
+</div>
+
+== 几 (jǐ) as "a Few Hundred / Thousand / Ten Thousand" ==
+
+In Chinese we can put 几 (jǐ) together with 百 (bǎi), 千 (qiān), or 万 (wàn), just like how in English we might say, "a few hundred" or a "few thousand."
+
+===Structure===
+
+<div class="jiegou">
+
+几 + 百 / 千 / 万 + Measure Word + Noun
+
+</div>
+
+===Examples===
+
+<div class="liju">
+
+* 妈妈 每 个 月 都 给 我 <em>几 百</em> 块 钱。<span class="pinyin">Māma měi gè yuè dōu gěi wǒ <em>jǐ bǎi</em> kuài qián.</span><span class="trans">Mom gives me a couple hundred dollars every month.</span>
+* 这 个 月 我们 卖 了 <em>几 千</em> 本 书。<span class="pinyin">Zhège yuè wǒmen mài le<em> jǐ qiān</em> běn shū.</span><span class="trans">We sold a couple thousand books this month.</span>
+* <em>几 百</em> 家 外国 公司 参加 了 这个 大会。<span class="pinyin"><em>Jǐ bǎi</em> jiā wàiguó gōngsī cānjiā le zhège dàhuì.</span><span class="trans">Several hundred foreign companies attended this conference.</span>
+* 这 篇 文章 有 <em>几 万</em> 个 字，太 长 了。<span class="pinyin">Zhè piān wénzhāng yǒu <em>jǐ wàn</em> gè zì, tài cháng le.</span><span class="trans">This article has tens of thousands of characters. It's too long.</span>
+* 我 认识 一 个 朋友，她 有  <em>几 百</em> 双 鞋。<span class="pinyin">Wǒ rènshi yī gè péngyou, tā yǒu <em>jǐ bǎi</em> shuāng xié.</span><span class="trans">I have a friend that has a couple hundred pairs of shoes.</span>
+
+</div>
+
+== 好几 (hǎojǐ) as "Quite a Few" ==
+
+You can think of 好几 (hǎojǐ) as meaning "quite a few," usually in the range of five to ten.
+
+===Structure===
+
+<div class="jiegou">
+
+好几 + Measure Word + Noun
+
+</div>
+
+===Examples===
+
+<div class="liju">
+
+*他 读 了 <em>好几</em> 遍 。<span class="pinyin">Tā dú le <em>hǎojǐ</em> biàn.</span><span class="trans">He's read quite a few times.</span>
+*我 有  <em>好几</em> 个 室友 。<span class="pinyin">Wǒ yǒu <em>hǎojǐ</em> gè shìyǒu.</span><span class="trans">I have quite a few roommates.</span>
+*我 奶奶 有 <em>好几</em> 个 孩子 。<span class="pinyin">Wǒ nǎinai yǒu <em>hǎojǐ</em> gè háizi.</span><span class="trans">My grandma has quite a few children.</span>
+*他 吃 了 <em>好几</em> 碗 米饭 。<span class="pinyin">Tā chī le <em>hǎojǐ</em> wǎn mǐfàn.</span><span class="trans">He ate quite a few bowls of rice.</span>
+*我们 去 过 <em>好几</em> 次 北京 。<span class="pinyin">Wǒmen qù guo <em>hǎojǐ</em> cì Běijīng.</span><span class="trans">We've been to Beijing quite a few times.</span>
+
+</div>
+
+==See also==
+
+*[[Indicating a number in excess]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|4}}
+=== Dictionaries ===
+* [[现代汉语词典（第5版）]] (p. 641) [http://www.amazon.cn/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E8%AF%8D%E5%85%B8/dp/B001B1RZCI/ref=sr_1_1?ie=UTF8&qid=1345693609&sr=8-1 →buy]
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|几|A2|几 + Measure Word + Noun|桌子 上 有 <em>几</em> 本 书。|grammar point|ASGHC9CA}}
+{{Rel char|好}}
+{{Rel char|十}}
+{{Rel char|百}}
+{{Rel char|千}}
+{{Rel char|万}}
+{{Used for|Expressing quantity}}
+{{Similar|"Some" with "youde"}}
+{{Similar|"Some" using "yixie"}}
+{{Similar|Indicating a number in excess}}
+{{POS|Numbers and Measure Words}}
+{{Translation|few}}
+{{Translation|some}}

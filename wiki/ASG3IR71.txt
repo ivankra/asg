@@ -1,0 +1,56 @@
+<!-- Expressing "can't do without" with "shaobuliao" -->
+{{Grammar Box}} 
+In the phrase 少不了 (shǎobuliǎo), the word 少 represents "being without." So 少不了 means "can't be without" or "can't do without." It is quite colloquial in usage.
+
+==Structure==
+
+<div class="jiegou">
+Subj. + 少不了 + Noun / Verb Phrase
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*每年 春节，<em>少不了</em> 饺子 和 春晚 。<span class="pinyin">Měi nián Chūnjié, <em>shǎobuliǎo</em> jiǎozi hé Chūnwǎn.</span><span class="trans">Every Chinese New Year, it's gotta be dumplings and the Spring Festival Gala.</span>
+*如果 回家 晚 了，<em>少不了</em> 一 顿 骂。<span class="pinyin">Rúguǒ huíjiā wǎn le, <em>shǎobuliǎo</em> yī dùn mà.</span><span class="trans">If I get home late, there's no getting out of getting yelled at.</span>
+*过 生日 <em>少不了</em> 吃 生日 蛋糕 。<span class="pinyin">Guò shēngrì <em>shǎobuliǎo</em> chī shēngrì dàngāo.</span><span class="trans">On someone's birthday we can't not eat birthday cake.</span>
+*学 中文 <em>少不了</em> 学 拼音 和 汉字 。<span class="pinyin">Xué Zhōngwén <em>shǎobuliǎo</em> xué pīnyīn hé hànzì.</span><span class="trans">Studying Chinese always involves studying pinyin and Chinese characters.</span>
+*回家 过年  <em>少不了</em> 带 点 礼物 给 家人 。<span class="pinyin">Huí ji guònián <em>shǎobuliǎo</em> dài diǎn lǐwù gěi jiārén.</span><span class="trans">When you return home for Chinese New Year, you can't fail to bring back some presents for your family.</span>
+*大家 都 是 邻居 ，以后 <em>少不了</em> 麻烦 您 。<span class="pinyin">Dàjiā dōu shì línjū, yǐhòu <em>shǎobuliǎo</em> máfan nín.</span><span class="trans">We're all neighbors, so we'll definitely have to trouble you at some point.</span>
+*他 负责 联系 客户 ，所以 <em>少不了</em> 请 客户 吃饭 。<span class="pinyin">Tā fùzé liánxì kèhù, suǒyǐ <em>shǎobuliǎo</em> qǐng kèhù chīfàn.</span><span class="trans">He is responsible for contacting clients, so he invariably has to treat them to dinner.</span>
+</div>
+
+==Pointing to a Cause with 少不了==
+
+Sometimes the two things that 少不了 connects can be events, saying "It's like A because B happened." This construction is often based on observations or experiences that the speaker has had, so that they can know (or assume) what situations relate to each other. It is often used together with 是.
+
+===Structure===
+
+<div class="jiegou">
+Situation / Result ，少不了 + 是 + Reason
+</div>
+
+Note, however, that in this construction, the reason ''follows'' 少不了.
+
+===Examples===
+
+<div class="liju">
+*看 他 的 样子，<em>少不了</em> 是 跟 女 朋友 吵架 了。<span class="pinyin">Kàn tā de yàngzi, <em>shǎobuliǎo</em> shì gēn nǚpéngyǒu chǎojià le.</span><span class="trans">Look at him. He must have argued with his girlfriend.</span>
+*这么 闷热 ，<em>少不了</em> 是 要 下 暴雨 。<span class="pinyin">Zhème mēnrè, <em>shǎobuliǎo</em> shì yào xià bàoyǔ.</span><span class="trans">It's so stuffy. It must be about to storm.</span>
+*八点 多 了 还 没 回 来，<em>少不了</em> 是 在 加班 。<span class="pinyin">Bā diǎn duō le hái méi huílái, <em>shǎobuliǎo</em> shì zài jiābān.</span><span class="trans">It's past 8 o'clock he still hasn't come back. He must be working overtime.</span>
+</div>
+
+==Sources and Further Reading==
+
+===Books===
+{{Source|卓越汉语－公司实战篇|83}}
+
+[[Category:B2 grammar points]]
+{{Used for|Indicating conditions}}
+{{Used for|Indicating cause and effect}}
+{{Used for|Referring to simultaneous events}}
+{{Basic Grammar|少不了|B2|Subj. + 少不了 + Noun / Verb Phrase|春节 <em>少不了</em> 吃 饺子。|grammar point|ASG3IR71}}
+{{Rel char|少}}
+{{Rel char|不了}}
+{{Rel char|了}}
+{{Structure|Sentence Patterns}}

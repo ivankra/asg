@@ -1,0 +1,87 @@
+<!-- Conceding with "ba" -->
+{{Grammar Box}} 
+
+The particle 吧 (ba) can also be used to ''concede'' a point. That is, 吧 (ba) can be used to accept or agree with something that you're not particularly happy about, the way we might use "all right" or "fine then" in English.
+
+== Structure ==
+
+Similar to [[吧|other uses of 吧]] (ba), this usage is also simply placed on the end of a sentence or statement.
+
+<div class="jiegou">
+
+Statement + 吧
+
+</div>
+
+== Examples ==
+
+To understand what someone is conceding to, it's best to present this usage as a number of super short dialogs which provide a little context.
+
+In this first one, B has to accept that his luxury goods shopping dreams have been shattered.
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>太 贵 了！<span class="pinyin">Tài guì le! </span><span class="trans">That's too expensive! </span></li>
+<li><span class="speaker">B:</span>好 <em>吧</em>，我们 可以 看看 别的。<span class="pinyin"> Hǎo <em> ba</em>, wǒmen kěyǐ kànkan biéde.</span><span class="trans">All right, we can take a look at something else.</span></li>
+</ul>
+</div>
+
+Now B must accept inconvenient schedule changes.
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>下午 我 不 在 家，你 可以 晚上 来 吗？<span class="pinyin">Xiàwǔ wǒ bù zài jiā, nǐ kěyǐ wǎnshang lái ma? </span><span class="trans">This afternoon I won't be home. Can you come by this evening? </span></li>
+<li><span class="speaker">B:</span>行 <em>吧</em>。<span class="pinyin">Xíng <em>ba</em>.</span><span class="trans">All right.</span></li>
+</ul>
+</div>
+
+B is now conceding that going out in this crazy rain doesn't make sense.
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>雨 太 大 了，明天 再 去 买 吧。<span class="pinyin"> Yǔ tài dà le, míngtiān zài qù mǎi ba.</span><span class="trans">It's raining heavily. Let's go buy it tomorrow.</span></li>
+<li><span class="speaker">B:</span>好 <em>吧</em>，但是 明天 一定 要 买到 。<span class="pinyin">Hǎo <em> ba</em>, dànshì míngtiān yídìng yào mǎidào.</span><span class="trans">Fine, but tomorrow we definitely have to buy it.</span></li>
+</ul>
+</div>
+
+Now B is agreeing to let more guys into his secret club.
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>可以 带 朋友 吗？<span class="pinyin"> Kěyǐ dài péngyou ma ?</span><span class="trans"> Can I bring friends? </span></li>
+<li><span class="speaker">B:</span>行 <em>吧</em>， 但是 不 能 带 女孩。<span class="pinyin"> Xíng <em> ba</em>, dànshì bù néng dài nǚhái.</span><span class="trans">All right, but you can't bring girls.</span></li>
+</ul>
+</div>
+
+Now B is having a friend cancel plans on him. Not a good day for B!
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>我 今天 不 太 舒服，你 可以 自己 去 吗？ <span class="pinyin"> Wǒ jīntiān bù tài shūfu, nǐ kěyǐ zìjǐ qù ma?</span><span class="trans">I'm not feeling well today. Can you go by yourself?</span></li>
+<li><span class="speaker">B:</span>好 <em>吧</em>， 那 你 休息 吧。<span class="pinyin"> Hǎo <em>ba</em>, nà nǐ xiūxi ba.</span><span class="trans">All right, rest well then.</span></li>
+</ul>
+</div>
+
+==See also==
+
+*[[Softening speech with "ba"]]
+*[[Suggestions with "ba"]]
+*[[Expressing contrariness with "dao"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级)]] [http://www.amazon.cn/gp/product/B004WA6JSQ/ref%3das_li_ss_tl?ie=UTF8&tag=allset-23&linkCode=as2&camp=536&creative=3132&creativeASIN=B004WA6JSQ →buy]
+{{Source|Short-term Spoken Chinese: Pre-Intermediate (汉语口语速成提高篇)|52-3)
+{{Source|Short-term Spoken Chinese: Elementary (汉语口语速成基础篇)]] (p.98}} 
+{{Source|Boya Chinese Elementary Starter 1 (博雅汉语初经起步篇)|55}}
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|246}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|吧|A2|⋯⋯吧|那 好 <em>吧</em>。|grammar point|ASGJIP2E}}
+{{Similar|Softening speech with "ba"}}
+{{Similar|Suggestions with ba}}    
+{{Used for|Expressing attitude}}
+{{POS|Particles}}

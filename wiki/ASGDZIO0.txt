@@ -1,0 +1,36 @@
+<!-- Indicating a characteristic with "xing" -->
+{{Grammar Box}} 
+
+性 can be added after a word to express a characteristic or property. This is the equivalent of adding a "-ility" or "-ness" to English words, such as turning "possible" to "possibility" or “hard" to "hardness." It is also the equivalent of adding "-ic" to words, such as turing "history" to "historic."
+
+== Structure ==
+
+Since this is a suffix, it can be added to the end of words, similar to [[Making words in "-ize" words with "hua"|化]] Pay attention to the words that can be used with 性. While there is no set rule on what can or cannot be used, there are trends we can look at. 
+
+<div class="jiegou">
+
+Word + 性
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 你 知道 管理 的 <em>科学 性</em> 和 <em>艺术 性</em> 是 指 什么 吗？
+* 你 交 的 这 个 产品 宣传 方案 没有 <em>可行性</em>。
+* 中国 四川 省 的 山区，发生 地震 的 <em>可能性</em> 较 大。
+* 本 公司 对 员工 上班 时间 没有<em> 硬性</em> 规定。
+* 你 的 作品 越 来 越 有 <em>创造 性</em>。
+
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+* [[Contemporary Chinese 4 (当代中文4)]](p.94) [http://www.amazon.com/gp/product/7800529371/ref%3das_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=7800529371 →buy]
+
+[[Category:C1 grammar points]]
+{{Basic Grammar|性|C1|Word + 性|发生 地震 的 可能<em>性</em> 较 大。|grammar point|ASGDZIO0}}
+{{POS|Nouns}}

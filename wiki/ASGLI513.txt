@@ -1,0 +1,74 @@
+<!-- Expressing "even if…" with "jiusuan" -->
+{{Grammar Box}} 
+就算 (jiùsuàn) is an informal way of saying "even if," and is used to introduce a hypothetical statement.  However, unlike [[Expressing "Even if…" with "jishi"|即使]] , [[Expressing "Even if…" with "napa"|哪怕]] and [[Expressing "Even if…" with "jiushi"|就是]], 就算 has more of a feeling that the speaker doesn't believe that the hypothetical statement is reasonable or has much chance of being realized.    
+
+== Basic Pattern ==
+
+=== Structure ===
+
+<div class="jiegou">
+就算 ⋯⋯ ，也 ⋯⋯
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>就算</em> 你 不想 听 ，我 <em>也</em> 要 说 。<span class="pinyin"><em>Jiùsuàn</em> nǐ bù xiǎng tīng, wǒ <em>yě</em> yào shuō.</span><span class="trans">Even if you don't want to listen, I still need to say it.</span>
+*<em>就算</em> 你 说 的 都 是 真的 ，我们 <em>也</em> 没 办法 证明。<span class="pinyin"><em>Jiùsuàn</em> nǐ shuō de dōu shì zhēn de, wǒmen <em>yě</em> méi bànfǎ zhèngmíng.</span><span class="trans">Even if what you say is true, we still don't have any way to prove it.</span>
+*<em>就算</em> 会 失败 ，我 <em>也</em> 不 后悔 。<span class="pinyin"><em>Jiùsuàn</em> huì shībài, wǒ <em>yě</em> bù hòuhuǐ.</span><span class="trans">Even if I fail, I won't regret it.</span>
+*<em>就算</em> 他 说 他 请客 ，我 <em>也</em> 要 买单 。<span class="pinyin"><em>Jiùsuàn</em> tā shuō tā qǐngkè, wǒ <em>yě</em> yāo mǎidān.</span><span class="trans">Even if he says it's his treat, I'm still going to pay.</span>
+*<em>就算</em> 你 通过 了 面试 ，<em>也</em> 不一定 能 被 录用 。<span class="pinyin"><em>Jiùsuàn</em> nǐ tōngguò le miànshì, <em>yě</em> bù yīdìng néng bèi lùyòng.</span><span class="trans">Even if you pass the interview, you still won't necessarily be hired.</span>
+
+</div>
+
+== Advanced Pattern with 再 ==
+
+=== Structure ===
+
+<div class="jiegou">
+就算 + 再 + Adj. ，也 ⋯⋯ 
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>就算</em> <strong>再</strong> 穷 ，她 <em>也</em> 不去 要饭 。<span class="pinyin"><em>Jiùsuàn</em> <strong>zài</strong> qióng, tā <em>yě</em> bù qù yàofàn.</span><span class="trans">She never went on the street to beg for money no matter how poor she was.</span>
+*我 已经 吃饱了 ，<em>就算</em> <strong>再</strong> 好吃 ，我 <em>也</em> 不 想 吃 了 。<span class="pinyin">Wǒ yǐjīng chī bǎo le, <em>jiùsuàn</em> <strong>zài</strong> hǎochī, wǒ <em>yě</em> bù xiǎng chī le.</span><span class="trans">I'm full already. I don't want to eat anymore no matter how good the food tastes.</span>
+*<em>就算</em> <strong>再</strong> 困难 ， 我们 <em>也</em> 要 坚持 。<span class="pinyin"><em>Jiùsuàn</em> <strong>zài</strong> kùnnan, wǒmen <em>yě</em> yào jiānchí.</span><span class="trans">We should carry on no matter how difficult it is.</span>
+*<em>就算</em> 你 给 我 <strong>再</strong> 多 钱 ，我 <em>也</em> 不能 干 违法 的 事情 。<span class="pinyin"><em>Jiùsuàn</em> nǐ gěi wǒ <strong>zài</strong> duō qián, wǒ <em>yě</em> bù néng gàn wéifǎ de shìqing.</span><span class="trans">I can't do anything illegal, no matter how much you pay me.</span>
+
+</div>
+
+== Colloquial Saying ==
+
+This is a great way to express "Even if..., so what?"
+
+<div class="liju">
+
+*<em>就算</em> 他 来 了 ，<strong>又</strong> 怎么样 ？<span class="pinyin"><em>Jiùsuàn</em> tā lái le, <strong>yòu</strong> zěnmeyàng?</span><span class="trans">Even if he came, so what?</span>
+*<em>就算</em> 你 家 有钱 ，<strong>又</strong> 怎么样 ？<span class="pinyin"><em>Jiùsuàn</em> nǐ jiā yǒu qián, <strong>yòu</strong> zěnmeyàng?</span><span class="trans">Even if your family is rich, so what?</span>
+*<em>就算</em> 她 不高兴 ，<strong>又</strong> 怎么样 ？<span class="pinyin"><em>Jiùsuàn</em> tā bù gāoxìng, <strong>yòu</strong> zěnmeyàng?</span><span class="trans">Even if she is unhappy, so what?</span>
+
+</div>
+
+== See also ==
+
+*[[Expressing "even if…" with "jishi"]]
+*[[Expressing "even if…" with "napa"]]
+*[[Expressing "even if…" with "jiushi"]]
+
+== Sources and further reading ==
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|就算|B2|就算⋯⋯ ，也⋯⋯|<em>就算</em> 再 困难 ， 我们 <em>也</em> 要 坚持 到底 。|grammar point|ASGLI513}}
+{{Rel char|就}}
+{{Rel char|也}}
+{{Similar|Expressing "Even if…" with "jishi"}}
+{{Similar|Expressing "Even if…" with "napa"}}
+{{Similar|Expressing "Even if…" with "jiushi"}}
+{{Structure|"Even If" Statements}}
+{{Used for|Expressing determination}}
+{{Used for|Indicating conditions}}
+{{Translation|even if}}

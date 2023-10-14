@@ -1,0 +1,109 @@
+<!-- Result complement "-wan" for finishing -->
+{{Grammar Box}} 
+
+On its own, 完 (wán) means "to finish" or "to complete." Using it in this grammar structure, it expresses the idea of doing some action to completion.
+
+== Basic Usage ==
+
+=== Structure ===
+
+As well as with [[Result complements "dao" and "jian"|到 (dào) and 见 (jiàn)]], you can also form [[result complement]]s with 完 (wán). This indicates that an action is finished or completed.
+
+<div class="jiegou">
+Subj. + Verb + 完
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我们 明天 可以 做 <em>完</em> 。<span class="pinyin">Wǒmen míngtiān kěyǐ zuò <em>wán</em>.</span><span class="trans">We can finish doing it tomorrow.</span>
+*你 能 吃 <em>完</em> 吗 ？<span class="pinyin">Nǐ néng chī <em>wán</em> ma?</span><span class="trans">Can you finish eating all?</span>
+*我 今天 要 写 <em>完</em> 。<span class="pinyin">Wǒ jīntiān yào xiě <em>wán</em>.</span><span class="trans">I need to finish writing it today.</span>
+*我 没 看 <em>完</em> 。 <span class="pinyin">Wǒ méi kàn <em>wán</em>.</span><span class="trans">I didn't finish reading it.</span>
+
+</div>
+
+== Usage of 完了 (wán le) ==
+
+Frequently, you'll also see a 了 (le) at the end, [[expressing completion with "le"|indicating completion]].
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + Verb + 完 + 了
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我 说 <em>完</em> <strong>了</strong> 。<span class="pinyin">Wǒ shuō <em>wán</em> <strong>le</strong>.</span><span class="trans">I am finished talking.</span>
+*你 吃 <em>完</em> <strong>了</strong> 吗 ？ <span class="pinyin">Nǐ chī <em>wán</em> <strong>le</strong> ma?</span><span class="trans">Are you done eating?</span>
+*我 看 <em>完</em> 了 。<span class="pinyin">Wǒ kàn <em>wán</em> <strong>le</strong>.</span><span class="trans">I have finished watching it.</span>
+*卖 <em>完</em> <strong>了</strong> 。<span class="pinyin">Mài <em>wán</em> <strong>le</strong>.</span><span class="trans">It's sold out.</span>
+*我们 打扫 <em>完</em> <strong>了</strong> 。<span class="pinyin">Wǒmen dǎsǎo <em>wán</em> <strong>le</strong>.</span><span class="trans">We finished cleaning.</span>
+
+</div>
+
+== Where to put the object ==
+
+If there is an object followed by the verb, 完 must be placed between the verb and the object. To indicate completion, 了 usually goes after the object.
+
+<div class="jiegou">
+Subj. + Verb + 完 + Obj. + 了
+</div>
+
+A few examples:
+
+<div class="liju">
+
+*我 做 <em>完</em> 作业 <em>了</em> 。<span class="pinyin">Wǒ zuò <em>wán</em> zuòyè <em>le</em>.</span><span class="trans">I finished doing my homework.</span>
+*老板 开 <em>完</em> 会 <em>了</em> 。<span class="pinyin">Lǎobǎn kāi <em>wán</em> huì <em>le</em>.</span><span class="trans">The boss finished having the meeting.</span>
+*我 看 <em>完</em> 这本书 <em>了</em> 。<span class="pinyin">Wǒ kàn <em>wán</em> zhè běn shū <em>le</em>.</span><span class="trans">I finished reading this book.</span>
+*我们 学 <em>完</em> 这 篇 课文 <em>了</em> 。<span class="pinyin">Wǒmen xué <em>wán</em> zhè piān kèwén <em>le</em>.</span><span class="trans">We finished studying this lesson.</span>
+
+</div>
+
+In English we say "I finished the movie," or "I finished supper," but in Chinese you should explicitly use the verb implied in English along with 完了 (wán le) to emphasize that you completed the action: "watch the movie (till the end)" or "eat (all my) supper." 
+
+<div class="liju">
+
+<ul>
+<li class="x">我 <em>完</em> 了 电影 。<span class="pinyin">Wǒ <em>wán</em> le diànyǐng.</span></li>
+<li class="o">我看 <em>完</em> 了 电影 。<span class="expl">To tell us that you watched it till the end.</span><span class="pinyin">Wǒ kàn <em>wán</em> le diànyǐng.</span><span class="trans">I finished watching the movie.</span></li>
+</ul>
+
+</div>
+
+==See also==
+
+* [[Result complements "dao" and "jian"]]
+* [[Result complement "-cuo"]]
+* [[Result complement "-hao"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|A Practical Chinese Grammar For Foreigners (外国人实用汉语语法)|273-84}} 
+{{Source|Chinese: An Essential Grammar, Second Edition|97-9}}
+{{Source|Integrated Chinese: Level 1, Part 2|42}}
+{{Source|Integrated Chinese: Level 1, Part 2|86}}
+{{Source|Integrated Chinese: Level 2, Part 1|152-3}}
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2)|87-8}}
+{{Source|Practicing HSK Grammar (语法精讲精炼)|186-7}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+[[Category:Result complement]]
+{{Used for|Expressing result}}
+{{Used for|Describing actions}}
+{{Used for|Indicating conditions}}
+{{Basic Grammar|完|A2|Verb + 完 (+ 了)|我 说 <em>完</em> 了。|grammar point|ASGNQUC1}}
+{{Rel char|了}}
+{{Similar|Result complements "dao" and "jian"}}
+{{Similar|Result complement "-cuo"}}
+{{Similar|Result complement "-hao"}}
+{{Structure|Complements}}
+{{Subprop|Result complement}}

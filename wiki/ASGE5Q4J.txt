@@ -1,0 +1,54 @@
+<!-- Expressing "now" with "le" -->
+{{Grammar Box}} 
+
+现在 (xiànzài) isn't the only way to express "now."  You'll notice that in many common expressions, [[了|了 (le)]] is used in place of the word for "now."
+
+== Structure ==
+
+This pattern is actually the same as [[change of state with "le"]], but the examples below are somewhat idiomatic and can also easily be confused with a direct translation of "now" in Chinese, so they get special treatment here.
+
+<div class="jiegou">
+[New Situation] + 了
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*知道 <em>了</em> 。<span class="expl">This is something I didn't know before now</span><span class="pinyin">Zhīdào <em>le</em>.</span><span class="trans">Got it. / I see.</span>
+*懂 <em>了</em> 。<span class="pinyin">Dǒng <em>le</em>.</span><span class="trans">Now I understand.</span>
+*我 20 岁 <em>了</em> ！<span class="pinyin">Wǒ èrshí suì <em>le</em>! </span><span class="trans">I'm 20 years old now! </span>
+*吃饭 <em>了</em> ！<span class="pinyin">Chīfàn <em>le</em>!</span><span class="trans">Time to eat!</span>
+*我 走 <em>了</em> 。<span class="pinyin">Wǒ zǒu <em>le</em>.</span><span class="trans">I'm leaving now.</span>
+*他 来 <em>了</em> 。<span class="expl">This can also mean "He's here now." Be careful! </span><span class="pinyin">Tā lái <em>le</em>.</span><span class="trans">He's coming over now. / He's on the way.</span>
+*上课 <em>了</em> ！ <span class="pinyin">Shàngkè <em>le</em>! </span><span class="trans">Class begins now! </span>
+*我 去 睡觉 <em>了</em> 。 <span class="pinyin">Wǒ qù shuìjiào <em>le</em>.</span><span class="trans">I'm going to bed now.</span>
+*快 点儿 ，开会 <em>了</em> ！<span class="pinyin">Kuài diǎnr, kāihuì <em>le</em>! </span><span class="trans">Hurry up, it's time for the meeting now! </span>
+*到 你 <em>了</em> 。<span class="pinyin">Dào nǐ <em>le</em>.</span><span class="trans">It's your turn now.</span>
+
+</div>
+
+== See also ==
+
+* [[Change of state with "le"]]
+* [[Uses of "le"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|32}}
+{{Source|Basic Patterns of Chinese Grammar|68}}
+{{Source|Chinese: An Essential Grammar, Second Edition|126-9}}
+{{Source|Mandarin Chinese: A Functional Reference Grammar|238-99}} 
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2)|217-8}}
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|64-5}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|8}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|239}}
+
+[[Category: A2 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{Basic Grammar|了|A2|New Situation + 了|吃饭 <em>了</em>！|grammar point|ASGE5Q4J}}
+{{Used for|Referring to changes of situation}}
+{{Similar|Uses of "le"}}
+{{POS|Particles}}

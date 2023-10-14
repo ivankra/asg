@@ -1,0 +1,81 @@
+<!-- Expressing "what if" with "wanyi" -->
+{{Grammar Box}} 
+Literally meaning "ten thousand [to] one," 万一 (wànyī) is a word you can use to discuss unlikely possibilities in the sense of "what if," or "in case," or "in the unlikely event that." It's most often used to bring up undesirable situations. 
+
+== Basic Pattern ==
+
+万一 is used for a usually undesirable possibility which the speaker considers highly unlikely. It's often a rhetorical question. (In other words, the speaker is saying, "if this happens, you're screwed.") 
+
+=== Structure ===
+
+There are two common ways to use it in a question:
+
+<div class="jiegou">
+万一 ⋯⋯ 怎么办 ？
+</div>
+
+<div class="jiegou">
+万一 ⋯⋯ 呢 ？
+</div>
+
+Note that 万一 can go before or after the [[subject]] of a sentence. 
+
+=== Examples ===
+
+This use of 万一 has the same basic meaning as in a statement, but because it's a question, there's no solution offered. 
+
+<div class="liju">
+
+*<em>万一</em> 我 父母 不 同意 呢 ？<span class="pinyin"><em>Wànyī</em> wǒ fùmǔ bù tóngyì ne? </span><span class="trans">What if my parents disapprove?</span>
+*<em>万一</em> 被 发现 了 怎么办 ？<span class="pinyin"> <em>Wànyī</em> bèi fāxiàn le zěnme bàn?</span><span class="trans">What if we get caught?</span>
+*带 着 伞 吧 ，<em>万一</em> 下雨 呢 ？<span class="pinyin">Dài zhe sǎn ba, <em>wàn yī</em> xiàyǔ ne?</span><span class="trans">Take an umbrella. What if it rains?</span>
+*你 先 打 电话 问问 。他 <em>万一</em> 不 在 呢 ？<span class="pinyin">Nǐ xiān dǎ diànhuà wènwen. Tā <em>wànyī</em> bù zài ne? </span><span class="trans">You should call first. What if he's not there?</span>
+*开 慢 点 ！<em>万一</em> 撞到 人 怎么办 ？<span class="pinyin">Kāi màn diǎn! <em>Wànyī</em> zhuàngdào rén zěnme bàn? </span><span class="trans">Drive more slowly! What if you hit someone?</span>
+
+</div>
+
+== Fuller Pattern ==
+
+After bringing up the possibility of "disaster," the rest of the sentence normally addresses what "we" should do about it.
+
+=== Structure ===
+
+<div class="jiegou">
+万一 ⋯⋯ ，⋯⋯
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>万一</em> 他 不 喜欢，你 可以 来 换 。<span class="pinyin"><em>Wànyī</em> tā bù xǐhuan, nǐ kěyǐ lái huàn.</span><span class="trans">If he doesn't like it, you can come back and exchange it.</span>
+*我 要 记 下来 ，<em>万一</em> 忘 了，可以 查 。<span class="pinyin">Wǒ yào jì xiàlái, <em>wànyī</em> wàng le, kěyǐ chá.</span><span class="trans">I need to write it down. In case I forget, I can look it up.</span>
+*<em>万一</em> 迷路 了，就 用 地图 导航 。<span class="pinyin"> <em>Wànyī</em> mílù le, jiù yòng dìtú dǎoháng.</span><span class="trans">In case you get lost, use the map's GPS navigation.</span>
+*<em>万一</em> 发生 这种 情况 ，马上 报警 。<span class="pinyin"> <em>Wànyī</em> fāshēng zhè zhǒng qíngkuàng, mǎshàng bàojǐng.</span><span class="trans">In the unlikely event that this happens, call the police immediately.</span>
+
+</div>
+
+== 以防万一(yǐfángwànyī) as "just in case!" ==
+
+This usage is notably less common than the other two, but if you're looking to sophisticate your Chinese, this is a good leader phrase to know. (Later on you will learn more about what's going on with this [[以]].)
+
+<div class="liju">
+
+*北京 现在 特别 冷 ，多 带 几 件 衣服 ，<em>以防万一</em> 。<span class="pinyin">Běijīng xiànzài tèbié lěng, duō dài jǐ jiàn yīfu, <em>yǐfángwànyī</em>.</span><span class="trans">It's especially cold now in Beijing. You should bring a few more pieces of clothing, just in case.</span>
+*多 带 点 现金 吧 ，<em>以防万一</em> 。<span class="pinyin">Duō dài diǎn xiànjīn ba, <em>yǐfángwànyī</em>.</span><span class="trans">Take some extra cash, just in case.</span>
+*多 买 点 吧 ，<em>以防万一</em> 。<span class="pinyin">Duō mǎi diǎn ba, <em>yǐfángwànyī</em>.</span><span class="trans">We should buy some more, just in case.</span>
+
+</div>
+
+== See also ==
+
+=== Books ===
+
+{{Source|卓越汉语－公司实战篇|234}}
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|万一|B2|万一 ⋯⋯ 怎么办 ？|<em>万一</em> 被 发现 了 怎么办 ？|grammar point| ASG25773}}
+{{Similar|Expressing "if… then…" with "yaoshi"}}
+{{Structure|"If" Statements}}
+{{Used for|Expressing possibility}}
+{{Translation|what if}}

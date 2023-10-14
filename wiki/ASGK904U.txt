@@ -1,0 +1,109 @@
+<!-- Ordinal numbers with "di" -->
+{{AKA|序数 (xùshù)|ordinals|sequence numbers}}
+{{Grammar Box}} 
+
+We use ordinal numbers to express things like "number one" or "second," so mastering them in Chinese is important. Fortunately, they are also very easy to learn by just adding the prefix 第 (dì).
+
+== Basic Usage ==
+
+In English, there are four different suffixes for ordinal numbers: ''-st'', ''-nd'', ''-rd'' and ''-th''. Chinese makes things a lot simpler by using one prefix for all ordinal numbers: 第 (dì). This character is simply placed in front of the number:
+
+=== Structure ===
+
+<div class="jiegou">
+
+第 + Number
+
+</div>
+
+=== Examples ===
+
+<table class="table big-text table-striped table-bordered">
+<tr>
+<th style="width:20%">Chinese</th>
+<th style="width:25%">English</th>
+</tr>
+<tr><td>第 一<span class="pinyin">dì-yī</span></td><td>The first</td></tr>
+<tr><td>第 二<span class="pinyin">dì-èr</span></td><td>The second</td></tr>
+<tr><td>第 三<span class="pinyin">dì-sān</span></td><td>The third</td></tr>
+<tr><td>第 四<span class="pinyin">dì-sì</span></td><td>The fourth</td></tr>
+<tr><td>第 五<span class="pinyin">dì-wǔ</span></td><td>The fifth</td></tr>
+<tr><td>第 六<span class="pinyin">dì-liù</span></td><td>The sixth</td></tr>
+<tr><td>第 七<span class="pinyin">dì-qī</span></td><td>The seventh</td></tr>
+<tr><td>第 八<span class="pinyin">dì-bā</span></td><td>The eighth</td></tr>
+<tr><td>第 九<span class="pinyin">dì-jiǔ</span></td><td>The ninth</td></tr>
+<tr><td>第 十<span class="pinyin">dì-shí</span></td><td>The tenth</td></tr>
+</table>
+
+== Full Pattern with Measure Words ==
+
+You can also add in a [[measure word]] and a [[noun]] to make the structure a bit fuller.
+
+=== Structure ===
+
+<div class="jiegou">
+
+第 + Number + Measure Word + Noun
+
+</div>
+
+=== Examples ===
+<div class="liju">
+
+* 我 是 <em>第 一</em> <strong> 个 </strong> 到 公司 的 人。<span class="pinyin">Wǒ shì <em>dì-yī</em>  <strong>gè</strong> dào gōngsī de rén.</span><span class="trans">I'm the first person that came to the office.</span>
+* 他 要 坐 早上 <em>第 一</em> <strong>班</strong> 地铁 去 上班。<span class="pinyin">Tā yào zuò zǎoshang <em>dì-yī</em> <strong> bān</strong> dìtiě qù shàngbān.</span><span class="trans">He needs to take the first train in the morning to go to work.</span>
+* 小李 是 她 的 <em>第 三</em> <strong>个</strong> 男朋友。<span class="pinyin">Xiǎo Lǐ shì tā de <em>dì-sān</em> <strong>gè</strong> nánpéngyou.</span><span class="trans">Little Li is her third boyfriend.</span>
+* 我 的 <em>第 一</em> <strong>个</strong>中文 老师 是 美国 人。<span class="pinyin">Wǒ de <em>dì-yī</em> <strong>gè</strong> Zhōngwén lǎoshī shì Měiguó rén.</span><span class="trans">My first Chinese teacher was American.</span>
+* 爸爸 的 <em>第 一</em> <strong>个</strong>手机 是 NOKIA。<span class="pinyin">Bàba de <em>dì-yī</em> <strong>gè</strong> shǒujī shì NOKIA.</span><span class="trans">Dad‘s first cell phone was a  Nokia.</span>
+* 你 的 <em>第 一</em> <strong>个</strong>工作 是 什么？<span class="pinyin">Nǐ de <em>dì-yī</em> <strong>gè</strong> gōngzuò shì shénme? </span><span class="trans">What was your first job? </span>
+* 到 美国 的 <em>第 二</em><strong>个</strong> 月，我 找到 了 工作。<span class="pinyin">Dào Měiguó de <em>dì-èr</em><strong> gè</strong>  yuè, wǒ  zhǎodào le gōngzuò .</span><span class="trans">I found a job the second month I was in the USA.</span>
+*  <em>第 二</em> <strong>行</strong><em> 第 五</em> <strong>个</strong> 汉字 怎么 读？<span class="pinyin"><em>Dì-èr</em> <strong>háng</strong> <em> dì-wǔ </em> <strong>gè</strong> Hànzì zěnme dú? </span><span class="trans">How do you read the fifth character from the second line? </span>
+* 这 次 考试，我 是 我们 班 <em>第 一</em>。<span class="pinyin">Zhè cì kǎoshì, wǒ shì wǒmen bān <em>dì-yī</em>.</span><span class="trans">On this test, I was first in our class.</span>
+* 这 次 比赛，我们 班 <em>第 一</em>，他们 班 <em>第 二</em>。<span class="pinyin">Zhè cì bǐsài, wǒmen bān <em>dì-yī</em>, tāmen bān <em>dì-èr</em>.</span><span class="trans">In this contest, our class is the first, their class is the second.</span>
+
+</div>
+
+Note that there are some words that don't use measure words because they themselves are already measure words. For example: 天 (tiān), 年 (nián), 周 (zhōu), 次 (cì), etc. 
+
+<div class="liju">
+
+* <em>第 一</em> <strong>天</strong>，我们 在 宾馆 里。<span class="pinyin"><em>Dì-yī</em> <strong>tiān</strong>, wǒmen zài bīnguǎn lǐ.</span><span class="trans">On the first day, we will be in the hotel.</span>
+* 来 上海 以后 的 <em>第 二</em> <strong>年</strong>，他 开 了 这 家 公司。<span class="pinyin">Lái Shànghǎi yǐhòu de <em>dì-èr</em> <strong>nián</strong>,  tā kāi le zhè jiā gōngsī.</span><span class="trans">He started this company his second year after coming to Shanghai.</span>
+* 下 个 月 的 <em>第 一</em> <strong>周</strong> 老板 要 出差。<span class="pinyin">Xià gè yuè de <em>dì-yī</em><strong> zhōu </strong>, lǎobǎn yào chūchāi.</span><span class="trans">The boss needs to go on a business trip the first week of next month.</span>
+* 这 是 我 <em>第 一</em> <strong>次</strong> 去 北京。<span class="pinyin">Zhè shì wǒ <em>dì-yī</em> <strong>cì</strong> qù Běijīng.</span><span class="trans">This is my first time going to Beijing.</span>
+
+</div>
+
+== Exceptions ==
+
+Note that some nouns can form ordinals without 第 (dì). With these, the number can be used directly. For example, 七楼 (qī lóu) is "the seven''th'' floor," even though there is no 第 (dì).
+
+<table class="table big-text table-striped table-bordered">
+<tr>
+<th style="width:15%">Chinese</th>
+<th style="width:50%">English</th>
+<th style="width:20%">Example</th>
+</tr>
+<tr><td>楼<span class="pinyin">lóu</span></td><td>floor (of a building)</td><td>七楼<span class="pinyin">qī lóu</span></td></tr>
+<tr><td>层<span class="pinyin">céng</span></td><td>floor (of a building)</td><td>一层<span class="pinyin">yī céng</span></td></tr>
+</table>
+
+==See also==
+*[[Measure words for counting]]
+
+== Sources and further reading ==
+
+{{Source|HSK Standard Course 2|69}}
+{{Source|A Practical Chinese Grammar For Foreigners (外国人实用汉语语法)|58-73}}
+{{Source|Chinese: An Essential Grammar, Second Edition|17-8}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|183}}
+
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+[[Category:Number words]]
+[[Category:Table]]
+{{Basic Grammar|第|A2|第 + Number (+ Measure Word)|你 是 我 的 <em>第 一</em> <strong>个</strong> 朋友。|grammar point|ASGK904U}}
+{{Similar|Measure words for counting}}
+{{Structure|Numbers and Measure Words}}
+{{Similar|Measure word "ge"}}    
+{{Used for|Expressing order}}
+{{Translation|first}}

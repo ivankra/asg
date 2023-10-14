@@ -1,0 +1,61 @@
+<!-- Expressing possession with "de" -->
+{{Grammar Box}} 
+
+In Chinese, possession is marked with the particle 的 (de), placed after the "owner" noun or noun phrase. This particle works in a similar way to apostrophe-"s" in English, but is used much more broadly in Chinese. This article highlights one of its simplest and most common usages.
+
+== Structure ==
+
+<div class="jiegou">
+
+Noun 1 + 的 + Noun 2
+
+</div>
+
+This means "'''Noun 1's Noun 2'''" (where Noun 2 belongs to Noun 1).
+
+The structure is super simple.  It will take a bit of time before you realize how truly universal this pattern is.  It doesn't matter whether the "Noun 1" is a person, place, or thing, or even if it's a pronoun (like "he," "she," or "it").  The structure stays consistent.
+
+== Examples ==
+
+<div class="liju">
+
+* 我 <em>的</em> 老师 <span class="pinyin">wǒ <em>de</em> lǎoshī</span><span class="trans">my teacher</span>
+* 你 <em>的</em> 手机 <span class="pinyin">nǐ <em>de</em>  shǒujī </span><span class="trans">your cell phone</span>
+* 我们 <em>的</em> 钱 <span class="pinyin">wǒmen <em>de</em> qián</span><span class="trans">our money</span>
+* 他们 <em>的</em> 东西 <span class="pinyin">tāmen <em>de</em> dōngxi</span><span class="trans">their stuff</span>
+* 爸爸 <em>的</em> 车 <span class="pinyin"> bàba <em>de</em> chē </span><span class="trans">dad's car</span>
+*  你们 <em>的</em> 菜 <span class="pinyin"> nǐmen <em>de</em> cài</span><span class="trans">your food</span>
+* 北京 <em>的</em> 空气 <span class="pinyin"> Běijīng <em>de</em> kōngqì </span><span class="trans">Beijing's air</span>
+* 公司 <em>的</em> 老板<span class="pinyin">gōngsī <em>de</em> lǎobǎn</span><span class="trans">the company's boss</span>
+* 上海 <em>的</em> 天气 <span class="pinyin">Shànghǎi <em>de</em>  tiānqì </span><span class="trans">Shanghai's weather</span>
+* 老师 <em>的</em> 朋友<span class="pinyin"> lǎoshī <em>de</em> péngyou</span><span class="trans">teacher's friend</span>
+
+</div>
+
+==See also==
+
+*[[Expressing close possession]]
+*[[Modifying nouns with adjective + "de"]]
+*[[Modifying nouns with phrase + "de"]]
+
+== Sources and further reading ==
+
+{{Source|HSK Standard Course 1|24}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|45}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|87}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)|101-2}}
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2)|64-5}}
+
+[[Category:A1 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{Used for|Expressing possession}}
+{{Basic Grammar|的|A1|Noun 1 + 的 + Noun 2|我 的 <em>老师</em>|grammar point|ASGUHQD2}}
+{{Similar|Expressing close possession without "de"}} 
+{{Similar|Modifying nouns with adjective + "de"}} 
+{{Similar|Modifying nouns with phrase + "de"}}
+{{POS|Particles}}
+{{Translation|My}}
+{{Translation|His}}
+{{Translation|Her}}
+{{Translation|Their}}
+{{Translation|Our}}

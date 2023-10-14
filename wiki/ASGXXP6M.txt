@@ -1,0 +1,95 @@
+<!-- Advanced usages of the contrary "dao" -->
+{{Grammar Box}} 
+
+== Indicating A Rebuking Tone with 倒 ==
+
+When using 倒 this way, link it together with a 得.When using this, usually the speaker has a rebuking tone. It's like saying "what you're saying is the opposite." In other words, something is not as said. 
+
+=== Structure ===
+
+This grammar pattern is most commonly used with  说, sometimes with 想. 主语限于“你、你们、他、他们”等第二或者第三人称。多用于责备他人。
+
+<div class="jiegou">
+Subj. + Verb + 得 + 倒 + Adj.
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*说 得 <em>倒</em> 容易，那 你 来 ！<span class="trans">It's easy for you to just say it. You should give it a try!</span>
+*你 想 得 <em>倒</em> 美 ！不 工作 还 想 拿 工资 ？<span class="trans">You must be talking when you sleep. You want to get paid without doing your job? </span>
+*你 想 得 <em>倒</em> 简单 ！怎么 可能 ？<span class="trans">What you thought is too simple! How could that be possible?</span>
+
+</div>
+
+== Giving An Emphasis with 倒 ==
+
+=== Used in An Affirmative Sentence ===
+
+倒 is mostly used with adjectives in this case to indicate the speaker is a little surprised.
+
+<div class="jiegou">
+Subj. + 倒 + Adj.
+</div> 
+
+A few examples:
+
+<div class="liju">
+*这 个 小 女孩 <em>倒</em> 挺 勇敢 的 。<span class="trans">This little girl is quite brave.</span>
+*你 <em>倒</em> 蛮 会 说话 的 。<span class="trans">You're pretty good at talking.</span>
+</div>
+
+A useful little phrase to admit concession is 那倒也是, something like "I guess so, I hadn't thought of it like that before." Or if on the contrary you are unwilling to concede, the phrases below can be used:
+
+=== Used in A Negative Sentence ===
+
+It's mostly used in these two pattens below:
+
+* ⋯⋯ ，我 倒 不 觉得 。
+* ⋯⋯ ，我 倒 不 这么 + 看 / 想 / 认为 。
+
+A few examples:
+
+<div class="liju">
+
+*你们 都 说 这个 菜 太辣了 ，我 <em>倒</em> 不 觉得 。<span class="trans">You all said this dish is spicy, but I disagree.</span>
+*别人 都 说 他 跟 她 结婚 是 为了 钱 ，我 <em>倒</em> 不 这么 看 。 <span class="trans">A lot of people think that he married her because of her money, but I don't think so.</span>
+*很 多 人 认为 钱 是 最 重要 的 ，我 <em>倒</em> 不 这么 想 。 <span class="trans">A lot of people think that money is the most important, but I don't think so.</span>
+
+</div>
+
+== Using 倒是 in An Imperative Sentence ==
+
+This pattern is used to urge somebody to response quickly. 
+
+=== Structure ===
+
+<div class="jiegou">
+你 + 倒是 + Verb + 呀 / 啊 
+</div> 
+
+=== Examples ===
+
+<div class="liju">
+
+*你 <em>倒是</em> 说话 呀 ！<span class="trans">Please say something!</span>
+*你 <em>倒是</em>  说 呀 ！<span class="trans">Please tell me!</span>
+*你 <em>倒是</em> 走 啊 ！<span class="trans">Walk with me, please!</span>
+*你们 <em>倒是</em> 签 啊 ！ <span class="trans">Please sign it! (Why are you hesitating?)</span>
+
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+* [[Practicing HSK Grammar (语法精讲精炼)]] (p.38) [http://www.amazon.cn/mn/detailApp/ref=as_li_ss_tl?_encoding=UTF8&tag=allset-23&linkCode=as2&asin=B001N6R7DI&camp=536&creative=3132&creativeASIN=B001N6R7DI →buy]
+* [[Common Chinese Patterns 330 (汉语常用格式330例)]] (pp. 64) [http://www.amazon.com/gp/product/7802006473/ref=as_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=7802006473 →buy] 
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|倒|C1|Subject + Verb + 得 + 倒 + Adjective|你 说 得 <em>倒</em> 容易，那 你来！|grammar point|ASGXXP6M}}
+{{Rel char|倒}}
+{{POS|Adverbs}}
+{{Used for|Contrasting}}
+{{Used for|Expressing attitude}}

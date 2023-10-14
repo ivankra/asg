@@ -1,0 +1,55 @@
+<!-- Expressing "then…" with "name" -->
+{{Grammar Box}} 
+
+English speakers often like to connect sentences together with "so..." and also try to do this in Chinese with the word 所以 (suǒyǐ). In reality, they should mostly be using 那么 (nàme).
+
+== Structure ==
+
+When expressing "so...," you can use 那么 or 那 in order to begin a judgment or result from previous context. An example of this in English would be: "so, what should we do?"
+
+<div class="jiegou">
+Situation ，那么 + Suggestion / Decision 
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+* 他 不 听 ，<em>那</em> 我 应该 怎么办 ？<span class="pinyin">Tā bù tīng, <em>nà</em> wǒ yīnggāi zěnme bàn?</span> <span class="trans">He won't listen. So what should I do?</span>
+* 你 说 这个 办法 不行 ，<em>那</em> 你 有 别的 办法 吗 ？<span class="pinyin">Nǐ shuō zhège bànfǎ bù xíng, <em>nà</em> nǐ yǒu bié de bànfǎ ma?</span><span class="trans">You said this idea is not going to work. So do you have any other ideas?</span>
+* 大家 都 到 了 ，<em>那么</em> 我们 开始 吧 。<span class="pinyin">Dàjiā dōu dào le, <em>nàme</em> wǒmen kāishǐ ba.</span><span class="trans">Everybody is here, so let's begin.</span>
+* 雨 停 了 ，<em>那</em> 我们 走 吧 。<span class="pinyin">Yǔ tíng le, <em>nà</em> wǒmen zǒu ba.</span><span class="trans">The rain has stopped, so let's leave.</span>
+* 你 说 得 有 道理 ，<em>那么</em> 就 这么 办 吧 。<span class="pinyin">Nǐ shuō de yǒu dàolǐ, <em>nàme</em> jiù zhème bàn ba.</span><span class="trans">What you said makes sense, so let's just do that.</span>
+* 他 学 过 十 年 中文 ？<em>那</em> 他 的 中文 说 得 很 好 吧 ？<span class="pinyin">Tā xué guo shí nián Zhōngwén? <em>Nà</em> tā de Zhōngwén shuō de hěn hǎo ba?</span><span class="trans">He's studied Chinese for ten years? So he must speak Chinese really well, then?</span>
+* 他 表现 不错 ，<em>那么</em> 让 他 通过 吧 。<span class="pinyin">Tā biǎoxiàn bùcuò, <em>nàme</em> ràng tā tōngguò ba.</span><span class="trans">He performed well, so let's let him pass.</span>
+* 会议 时间 已经 确定 了 ，<em>那</em> 你 快点 去 安排 吧 。<span class="pinyin">Huìyì shíjiān yǐjīng quèdìng le, <em>nà</em> nǐ kuài diǎn qù ānpái ba.</span><span class="trans">The meeting time has been set, so please arrange it soon.</span>
+* 他们 没有 提前 通知 我们 ，<em>那么</em> 这 是 他们 的 责任 。<span class="pinyin">Tāmen méiyǒu tíqián tōngzhī wǒmen, <em>nàme</em> zhè shì tāmen de zérèn.</span><span class="trans">They didn't notify us in advance, so this is their responsibility.</span>
+* 实现 这个 目标 应该 不 难 ，<em>那么</em> 我们 一起 努力 吧 。<span class="pinyin">Shíxiàn zhège mùbiāo yīnggāi bù nán, <em>nàme</em> wǒmen yīqǐ nǔlì ba.</span><span class="trans">It shouldn't be difficult to reach this goal, so let's all really make an effort.</span>
+
+</div>
+
+== See also ==
+
+*[[Explaining results with "suoyi"]]
+*[[Cause and effect with "yinwei" and "suoyi"]]
+
+== Sources and further  reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|5}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|104-5}}
+{{Source|Integrated Chinese: Level 2, Part 1|51-2}}
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|103}} 
+{{Source|卓越汉语－公司实战篇|122}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+[[Category:Connectors]]
+{{Similar|Explaining results with "suoyi"}}
+{{Similar|Cause and effect with "yinwei" and "suoyi"}}
+{{Basic Grammar|那么|B1|那么⋯⋯|他 不 听 ，<em>那</em> 我 应该 怎么办 ？|grammar point|ASGX298Z}}
+{{Rel char|那}}
+{{POS|Conjunctions}}
+{{Translation|then}}
+{{Used for|Connecting ideas}}

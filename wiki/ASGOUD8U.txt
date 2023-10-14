@@ -1,0 +1,58 @@
+<!-- Approximating with sequential numbers -->
+{{Grammar Box}} 
+Expressing approximate numbers in Chinese is quite simple, and this article introduces one of the most basic ways to do so.
+
+== Structure ==
+
+An easy way to express approximate numbers is to use two sequential numbers in a row. 
+
+<div class="jiegou">
+
+Number + (Number + 1)
+
+</div>
+
+This is similar to saying "x or y" or "about x" in English.
+
+== Examples ==
+
+<div class="liju">
+
+* <em>一 两</em> 天 <span class="pinyin"><em>yī liǎng</em> tiān</span><span class="trans">one or two days</span>
+* <em>三 四</em> 个 人 <span class="pinyin"> <em>sān sì</em> gè rén</span><span class="trans">three or four people</span>
+* 老板 昨天 喝 了<em>七 八</em> 瓶 胡萝卜 汁 。 <span class="pinyin">Lǎobǎn zuótiān hē le <em>qī bā</em> píng húluóbo zhī.</span><span class="trans">The boss drank 7 or 8 bottles of carrot juice yesterday.</span>
+* 这 个 词 我们 学 过 <em>两 三</em> 次 了 。 <span class="pinyin">Zhège cí wǒmen xué guo <em>liǎng sān</em> cì le.</span><span class="trans">We've studied this word two or three times now.</span>
+* 我 等 了 你 <em>三 四</em> 个 小时。 <span class="pinyin">Wǒ děng le nǐ <em>sān sì</em> gè xiǎoshí.</span><span class="trans">I waited for you for three or four hours.</span>
+* 他们 <em>七 八</em> 年 没 见面 了 。 <span class="pinyin">Tāmen <em>qī bā</em> nián méi jiànmiàn le.</span><span class="trans">They haven't seen each other for seven or eight years.</span>
+* 要 做 完 这 个 工作 需要 <em>一 两</em> 个 月 。 <span class="pinyin">Yào zuò wán zhège gōngzuò xūyào <em>yī liǎng</em> gè yuè.</span><span class="trans">To complete this work, you need one to two months.</span>
+* 他们 家 的 孩子<em>五 六</em> 岁 了 吧 。 <span class="pinyin">Tāmen jiā de háizi <em>wǔ liù</em> suì le ba.</span><span class="trans">Their child is about five or six years old.</span>
+* 这 件 衣服 只  要 <em>七 八 十</em> 块 钱 。 <span class="pinyin">Zhè jiàn yīfu zhǐ yào <em>qī bā shí</em> kuài qián.</span><span class="trans">This clothing only costs seventy to eighty kuai.</span>
+* 这 几 本 书 花 了 我 <em>两 三 百</em>。 <span class="pinyin">Zhè jǐ běn shū huā le wǒ <em>liǎng sān bǎi</em>.</span><span class="trans">These few books cost me two or three hundred kuai.</span>
+
+</div>
+
+==See also==
+
+*[[Indicating a number in excess]]
+*[[Measure words for counting]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|84}}
+* [[A Practical Chinese Grammar For Foreigners (外国人实用汉语语法) ]] (p. 60) [http://www.amazon.cn/mn/detailApp?_encoding=UTF8&tag=allset-23&linkCode=as2&asin=B001J0ADWA&camp=536&creative=3132&creativeASIN=B001J0ADWA →buy]
+* [[Chinese: An Essential Grammar, Second Edition]] (pp. 19-20) [http://www.amazon.com/gp/product/0415372615/ref=as_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0415372615 →buy]
+*[[40 Lessons for Basic Chinese Course (基础汉语40课下册）]] (p. 459)[http://www.amazon.com/gp/product/B001FTL8D8/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001FTL8D8&linkCode=as2&tag=allset-20 →buy]
+
+
+[[Category:A2 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|none|A2|Number 1 + Number 2|<em>三 四</em>个 人。<em>一 两</em> 天。|grammar point|ASGOUD8U}}
+{{Similar|Indicating a Number in Excess}}      
+{{Similar|Measure words for counting}}
+{{Similar|Structure of numbers}}    
+{{Similar|Counting money}}
+{{Translation|about}}
+{{Used for| Expressing quantity}}
+{{POS|Numbers}}

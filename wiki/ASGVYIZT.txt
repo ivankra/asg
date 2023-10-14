@@ -1,0 +1,55 @@
+<!-- Expressing "not very" with "bu zenme" -->
+{{Grammar Box}} 
+
+When you use 不怎么 (bù zěnme) before an adjective, it means "not very." You might use it to say something like "not very good."  
+
+== Structure ==
+
+When used together with an adjective, 不怎么 becomes similar to [["Not_very"_with_"bu_tai"| 不太]], which means that the degree of the adjective is not very high. 
+
+<div class="jiegou">
+Subj. + 不怎么 + Adj. / [Psychological Verb]
+</div>
+
+Using this grammar structure is a way to indirectly or mildly state something. Instead of saying 他不聪明 (tā bù cōngming) you can say 他不怎么聪明 (tā bù zěnme cōngming), turning a very direct statement to a milder, more inoffensive comment.
+
+== Examples ==
+
+<div class="liju">
+
+*最近 <em>不 怎么</em> 忙 。<span class="pinyin">Zuìjìn <em>bù zěnme</em> máng.</span><span class="trans">It hasn't been very busy lately.</span>
+*这里 的 冬天 <em>不 怎么</em> 冷 。<span class="pinyin">Zhèlǐ de dōngtiān <em>bù zěnme</em> lěng.</span><span class="trans">It's not very cold here in winter.</span>
+*他们 好像 <em>不 怎么</em> 高兴 。<span class="pinyin">Tāmen hǎoxiàng <em>bù zěnme</em> gāoxìng.</span><span class="trans">They don't seem to be very happy.</span>
+*这个 学生 <em>不 怎么</em> 努力 。<span class="pinyin">Zhège xuéshēng <em>bù zěnme</em> nǔlì.</span><span class="trans">This student isn't very hard-working.</span>
+*那 家 餐厅 <em>不 怎么</em> 干净 。<span class="pinyin">Nà jiā cāntīng <em>bù zěnme</em> gānjìng.</span><span class="trans">That restaurant isn't very clean.</span>
+*这个 老师 <em>不 怎么</em> 专业 。<span class="pinyin">Zhège lǎoshī <em>bù zěnme</em> zhuānyè.</span><span class="trans">This teacher isn't very professional.</span>
+*你 是 不 是 昨天 睡 得 <em>不 怎么</em> 好 ？<span class="pinyin">Nǐ shì bu shì zuótiān shuì de <em>bù zěnme</em> hǎo?</span><span class="trans">Did you not sleep very well last night?</span>
+*我 <em>不 怎么</em> 喜欢 咖啡 。<span class="pinyin">Wǒ <em>bù zěnme</em> xǐhuan kāfēi.</span><span class="trans">I'm not very into coffee.</span>
+*他 跟 他 父母 长 得 <em>不 怎么</em> 像 。<span class="pinyin">Tā gēn tā fùmǔ zhǎng de <em>bù zěnme</em> xiàng.</span><span class="trans">He and his parents don't look very much alike.</span>
+*他 去 美国 一 年 多 了 ，不过 <em>不 怎么</em> 想家 。<span class="pinyin">Tā qù Měiguó yì nián duō le, búguò <em>bù zěnme</em> xiǎngjiā.</span><span class="trans">He's been in the USA for more than one year, but he's not very homesick.</span>
+
+</div>
+
+Remember that to make 不怎么 mean "not very" you need to use it with an ''adjective''. Using it with a verb will give it [["Not_often"_with_"bu_zenme" |the meaning of "not often."]]
+
+== See also ==
+
+*[["Not often" with "bu zenme"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Short-term Spoken Chinese: Elementary (汉语口语速成基础篇)|139}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK0}}
+{{Basic Grammar|不怎么|B1|不怎么 + Adj.|这里 的 菜 他 <em>不怎么 好吃</em> ！|grammar point|ASGVYIZT}}
+{{Similar|How to do something with "zenme"}}
+{{Similar|Asking why with "zenme“}}
+{{Similar|"Not often" with "bu zenme"}}
+{{Rel char|不}}
+{{Rel char|怎么}}
+{{Used for|Adding more explanation}}
+{{POS|Adjectives}}
+{{Translation|not very}}

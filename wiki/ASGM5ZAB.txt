@@ -1,0 +1,74 @@
+<!-- Complement "-zhao" -->
+{{Grammar Box}} 
+When used as a resultative complement, -着 (zháo) expresses that the action has reached its purpose or has had an outcome. It can also be used as a potential complement, meaning "able to."
+
+==Resultative Complement -着==
+
+===Structure===
+
+All you have to do is put -着 after the verb. Remember that it should be something that you can reach or achieve. It could be a purpose, or it can be producing an outcome or an influence. 
+
+<div class="jiegou">
+Verb + 着
+</div>
+
+Remember: that 着 is pronounced "[[zhao|zháo]] and ''not'' "[[zhe]]"!
+
+===Examples===
+
+<div class="liju">
+*宝宝 刚 <strong>睡</strong><em>着</em>。<span class="pinyin">Bǎobao gāng <strong>shuì</strong><em>zháo</em>.</span><span class="trans">The baby just fell asleep.</span>
+*你 的 手机 <strong>找</strong><em>着</em> 了 吗？<span class="pinyin">Nǐ de shǒujī <strong>zhǎo</strong><em>zháo</em> le ma?</span><span class="trans">Did you find your cell phone?</span>
+*超市 关门 了 ，你 要 的 东西 我 没 <strong>买</strong><em>着</em> 。<span class="pinyin">Chāoshì guānmén le, nǐ yào de dōngxi wǒ méi <strong>mǎi</strong><em>zháo</em>.</span><span class="trans">The supermarket is closed. I didn't buy things that you need.</span>
+*我 终于 <strong>见</strong><em>着</em> 你 了。<span class="pinyin">Wǒ zhōngyú <strong>jiàn</strong><em>zháo</em> nǐ le.</span><span class="trans">I have finally met you.</span>
+*最近 太 忙 了，他 <strong>累</strong><em>着</em>  了。<span class="pinyin">Zuìjìn tài máng le, tā <strong>lèi</strong><em>zháo</em> le.</span><span class="trans">I've been so busy lately, he's tired.</span>
+</div>
+
+You might be wondering: "''why the heck would I use this instead of [[Result complements "-dao" and "-jian"|到]]?''" Hey, excellent question... we like the way you think! But native speakers ''do'' use 着 fairly often (especially in the north), so it's something you need to know. Also, 睡着 (shuì zháo), meaning "fall asleep," is an exception in that it is ''incorrect'' to say *睡到 to mean "fall asleep."
+
+==Potential Complements -得着 and -不着==
+
+===Structure===
+
+<div class="jiegou">
+
+Verb + 得着 / 不着
+
+</div>
+
+When used with 得 or 不, 着 functions as a [[potential complement]], and denotes that one's one's ability is up (or not) to the task in question.
+
+===Examples===
+
+<div class="liju">
+*现在 <strong>买</strong> <em>不 着</em> 这样 的 衣服 了。<span class="pinyin">Xiànzài <strong>mǎi</strong> <em>buzháo</em> zhèyàng de yīfu le.</span><span class="trans">You can't buy such clothes now.</span>
+*晚上 我 <strong>睡</strong> <em>不 着</em> 的 时候 就 看书。<span class="pinyin">Wǎnshang wǒ <strong>shuì</strong> <em>buzháo</em> de shíhou jiù kànshū.</span><span class="trans">At night when can't get to sleep, I read a book.</span>
+*我 的 手机 <strong>找</strong> <em>不 着</em> 了。<span class="pinyin">Wǒ de shǒujī <strong>zhǎo</strong> <em>buzháo</em> le.</span><span class="trans">I can't find my cell phone.</span>
+*这么 晚 了，<strong>买</strong> <em>得 着</em> 吗？<span class="pinyin">Zhème wǎn le, <strong>mǎi</strong> <em>dezháo</em> ma?</span><span class="trans">It's so late already, can we buy it?</span>
+*我 在 国外 <strong>吃</strong> <em>不 着</em> 地道 的 中国 菜 。<span class="pinyin">Wǒ zài guówài <strong>chī</strong> <em>buzháo</em> dìdao de Zhōngguó cài.</span><span class="trans">Outside of China, I can't get authentic Chinese food.</span>
+
+</div>
+
+==See also==
+
+* [[Resultative Complement "zhu"]]
+* [[Resultative Complement "huai"]]
+* [[Resultative Complement "kai"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|135}}
+
+[[Category: B2 grammar points]]
+[[Category: Result complement]]
+{{Basic Grammar|着|B2|Verb + 着|宝宝 刚 睡 <em>着</em>。|grammar point|ASGM5ZAB}}
+{{Rel char|不着}}
+{{Similar|Resultative Complement "kai"}}
+{{Similar|Resultative Complement "huai"}}
+{{Similar|Resultative Complement "zhu"}}
+{{Similar|Potential complement}}
+{{Used for|Expressing duration}}
+{{Used for|Expressing result}}
+{{Structure|Complements}}

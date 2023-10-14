@@ -1,0 +1,55 @@
+<!-- Providing two options with double "huozhe" -->
+{{Grammar Box}} 
+One easy way to give two options is to precede each one with 或者 (huòzhě). 
+
+== Structure ==
+
+<div class="jiegou">
+或者 A ，或者 B
+</div>
+
+The options A and B are generally verb phrases.
+
+== Examples ==
+
+<div class="liju">
+
+*只 有 一 块 蛋糕，<em>或者</em> 你 吃 <em>或者</em> 我 吃。<span class="pinyin">Zhǐyǒu yīkuài dàngāo, <em>huòzhě</em> nǐ chī <em>huòzhě</em> wǒ chī.</span><span class="trans">There's only one piece of cake. Either you eat it, or I eat it.</span>
+*你 <em>或者</em> 学 汉语 ， <em>或者</em> 学 法律，别的 就 别 学 了。<span class="pinyin">Nǐ <em>huòzhě</em> xué Hànyǔ, <em>huòzhě</em> xué fǎlǜ, bié de jiù bié xué le.</span><span class="trans">Either study Chinese or law. Don't study anything else.</span>
+*咱们 <em>或者</em> 去 爬山 <em>或者</em> 泡 温泉。<span class="pinyin">Zánmen <em>huòzhě</em> qù páshān <em>huòzhě</em> pào wēnquán.</span><span class="trans">Let's either go hiking or go for a soak in the hot springs.</span>
+*咱们 <em>或者</em> 今天 去 <em>或者</em> 明天 去，一定 要 去。<span class="pinyin">Zánmen <em>huòzhě</em> jīntiān qù <em>huòzhě</em> míngtiān qù, yīdìng yào qù.</span><span class="trans">We can either go today or tomorrow, but we must go.</span>
+*你 <em>或者</em> 买 这个 <em>或者</em> 买 那个，其他 的 都 不 好看。<span class="pinyin">Nǐ <em>huòzhě</em> mǎi zhège <em>huòzhě</em> mǎi nàge, qítā de dōu bù hǎokàn.</span><span class="trans">Either buy this one or that one. The others don't look good.</span>
+*他 穿 得 很 正式， <em>或者</em> 是 老板， <em>或者</em> 是 经理 吧。<span class="pinyin">Tā chuān de hěn zhèngshì, <em>huòzhě</em> shì lǎobǎn, <em>huòzhě</em> shì jīnglǐ ba.</span><span class="trans">He is dressed very formally. He's gotta be the boss or a manager.</span>
+*我 想 了 很 久，这个 答案 <em>或者</em> 是 三十， <em>或者</em> 是 四十，对 不 对？<span class="pinyin">Wǒ xiǎng le hěnjiǔ, zhège dá'àn <em>huòzhě</em> shì sānshí, <em>huòzhě</em> shì sìshí, duì bu duì?</span><span class="trans">I've thought about it for a long time. The answer is either thirty or forty, right?</span>
+*要是 你 喜欢 这 本 书， <em>或者</em> 借给 你 看 两天， <em>或者</em> 送给 你 也 行。<span class="pinyin">Yàoshi nǐ xǐhuan zhè běn shū, <em>huòzhě</em> jiègěi nǐ kàn liǎngtiān, <em>huòzhě</em> sònggěi nǐ yě xíng.</span><span class="trans">If you like the book, I can lend it to you for a couple of days, or I can just give it to you.</span>
+*只要 你 有 需要， <em>或者</em> 给 我 发 邮件， <em>或者</em> 给 我 打 电话。<span class="pinyin">Zhǐyào nǐ yǒu xūyào, <em>huòzhě</em> gěi wǒ fā yóujiàn, <em>huòzhě</em> gěi wǒ dǎ diànhuà.</span><span class="trans">If you need anything, you can email me or call me.</span>
+*关于 旅游，我 想 了 两 个 计划，我们 <em>或者</em> 去 山西 <em>或者</em> 去 云南，你 觉得 呢 ？<span class="pinyin">Guānyú lǚyóu, wǒ xiǎng le liǎng gè jìhuà, wǒmen <em>huòzhě</em> qù Shānxī <em>huòzhě</em> qù Yúnnán, nǐ juéde ne?</span><span class="trans">As for travel, I have two plans in mind. We can either go to Shanxi or Yunnan. What do you think?</span>
+</div>
+
+==See also==
+
+*[[Expressing "either ... or ..." with "yaome"]]
+*[[Expressing the only two possibilities]]
+*[["Or" in statements]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|现代汉语八百词（增订本）|238}}
+
+=== Dictionaries ===
+
+{{Source|现代汉语词典（第5版）|623}}
+
+[[Category:B2 grammar points]]
+{{Basic Grammar|或者|B2|或者⋯⋯，或者⋯⋯|只 有 一 块 蛋糕，<em>或者</em> 你 吃 <em>或者</em> 我 吃。|grammar point|ASGYXI5X}}
+{{Similar|Expressing "either... or..." with "yaome"}}
+{{Similar|Expressing "how about" with "yaobu"}}
+{{Similar|Expressing the only two possibilities}}
+{{Similar|"Or" in statements}}
+{{Used for|Giving alternatives}}
+{{Translation|either}}
+{{Translation|or}}
+{{Structure|Sentence Patterns}}
+{{Subprop|Either… or}}

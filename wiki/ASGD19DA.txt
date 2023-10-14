@@ -1,0 +1,67 @@
+<!-- Expressing "related to..." with "you guan de" -->
+{{Grammar Box}} 
+When you need to express one thing in relation to another, the word 有关 (yǒuguān) can be a useful way of making a noun more specific. It comes in two flavors: the "跟……有关的" (gēn... yǒuguān de) structure, which is informal, and the  "与……有关的" (yǔ... yǒuguān de) structure, which is formal.
+
+== Informal Pattern with 跟 or 和 ==
+
+The more casual form uses 跟 or 和. Use this in your spoken Mandarin.
+
+=== Structure ===
+
+<div class="jiegou">
+跟 / 和 + Topic + 有关的 + Noun
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*我 和 他 分手了, <em>跟</em> 他 <em>有关的</em> 事情 我 都 不 想 知道。<span class="pinyin">Wǒ hé tā fēnshǒu le, <em>gēn</em> tā <em>yǒuguān de</em> shìqing wǒ dōu bù xiǎng zhīdào.</span><span class="trans">We broke up, I don't want to know anything related to him.</span>
+*他 对 中国 很 感兴趣, <em>跟</em> 中国 <em>有关的</em> 故事 他 都 很 感兴趣。 <span class="pinyin">Tā duì Zhōngguó hěn gǎn xìngqù, <em>gēn</em> Zhōngguó <em>yǒuguān de</em> gùshi tā dōu hěn gǎn xìngqù. </span><span class="trans">He is very interested in China, he is interested in anything related to Chinese history. </span>
+*<em>和</em> 这个 项目 <em>有关的</em> 资料 都 需要 保密。 <span class="pinyin"><em>hé</em> zhège xiàngmù <em>yǒuguān de</em> zīliào dōu xūyào bǎomì.</span><span class="trans">Any information related to this project needs to be kept confidential.</span>
+*<em>和</em> 这个 人 <em>有关的</em> 一切，我 都 想 了解。<span class="pinyin"><em>hé</em> zhège rén <em>yǒuguān de</em> yīqiè, wǒ dōu xiǎng liǎojiě.</span><span class="trans">I want to know everything about this person.</span> 
+</div>
+
+== Formal Pattern with 与 ==
+
+In more formal contexts, you will see the pattern used with 与 (yǔ).
+
+=== Structure ===
+
+The more casual form is:
+
+<div class="jiegou">
+跟 / 和 + Topic + 有关的 + Noun
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*<em>与</em> 游戏 <em>有关的</em> 活动，我 都 想 参加。<span class="pinyin"><em>Yú</em> yóuxì <em>yǒuguān de</em> huódòng, wǒ dōu xiǎng cānjiā.</span><span class="trans">I would like to participate in any activity related to the game.</span>
+*他 为了 追 小丽，了解 了 很多 <em>与</em> 小丽 <em>有关的</em> 事情。<span class="pinyin">Tā wèile zhuī Xiǎo lì, liǎojiě le hěn duō <em>yú</em> Xiǎo lì <em>yǒuguān de</em> shìqing.</span><span class="trans">He has learned a lot of things about Xiao Li in order to chase her.</span>
+*<em>与</em> 恐龙 <em>有关的</em> 问题，你 都 可以 问 他，他 都 知道。<span class="pinyin"><em>Yú</em> kǒnglóng <em>yǒuguān de</em> wèntí, nǐ dōu kěyǐ wèn tā, tā dōu zhīdào.</span><span class="trans">You can ask him questions about dinosaurs, and he knows everything.</span>
+*<em>与</em> 疫苗 <em>有关的</em> 研究 已经 开始 了。<span class="pinyin"><em>Yú</em> yìmiáo <em>yǒuguān de</em> yánjiū yǐjīng kāishǐ le.</span><span class="trans">Research on the vaccine has already begun.</span>
+*<em>与</em> 虾 <em>有关的</em> 食物 我 都 不能 吃，因为 我 对 虾 过敏。<span class="pinyin"><em>Yú</em> xiā <em>yǒuguān de</em> shíwù wǒ dōu bù néng chī, yīnwèi wǒ duì xiā guòmǐn.</span><span class="trans">I can't eat any food related to shrimp because I'm allergic to shrimp.</span>
+</div>
+
+Finally, to negate 有关 in a formal context, use 无关 (wúguān):
+
+<div class="liju">
+* <em>与</em> 这 次 会议 主题 <em>无关的</em> 事情，我们 就 不 讨论 了。 <span class="pinyin"><em>Yú</em> zhè cì huìyì zhǔtí <em>wúguān de</em> shìqing, wǒmen jiù bù tǎolùn le.</span><span class="trans">We will not discuss matters that are not relevant to the theme of this meeting.</span>
+</div>
+
+==Sources and further reading==
+
+=== Books ===
+
+{{Source|Anything Goes (无所不谈)|17}}
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|有关|B2|跟 / 和 + Topic + 有关的 + Noun| <em>与</em> 他有关的事情，我都不想知道。|grammar point|ASGD19DA}}
+{{Rel char|跟}}
+{{Rel char|和}}
+{{Rel char|与}}
+{{Rel char|无关}}
+{{Rel char|无}}
+{{Used for|Connecting ideas}}
+{{Structure|Sentence Patterns}}
+{{Translation|related to}}

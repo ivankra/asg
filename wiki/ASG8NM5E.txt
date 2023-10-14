@@ -1,0 +1,95 @@
+<!-- Expressing "never" with "conglai" -->
+{{Grammar Box}} 
+
+Although it can also work in the positive, 从来 (cónglái) is usually used when you want to express that you '''''never''' do something'' (as a habit, or as a rule), or that you ''have '''never''' done something'' (it's not a part of your life experience). In either usage, 从来 (cónglái) may be shortened to just 从 (cóng) in casual speech.
+
+== "To Never Do" with 从来 (cónglái) + 不 (bù) ==
+
+When you follow 从来 (cónglái) with 不 (bù), you are expressing that you '''''never''' do something'' (as a habit, or as a rule).  It's often used as a way to refuse something, as in "I never drink."
+
+=== Structure ===
+
+The structure is:
+
+<div class="jiegou">
+
+Subj. + 从来 + 不 + [Verb Phrase]
+
+</div>
+
+Keep in mind that 从来 (cónglái) may be shortened to just 从 (cóng) in casual speech.
+
+=== Examples ===
+
+<div class="liju">
+
+* 她 <em>从来 不</em> 喝酒。 <span class="pinyin">Tā <em>cónglái bù</em> hējiǔ.</span><span class="trans">She never drinks.</span>
+*我 女朋友 <em>从 不</em> 给 我 打 电话。<span class="expl pdf-simple-expl">来 has been omitted here.</span><span class="pinyin">Wǒ nǚpéngyou <em>cóng bù</em> gěi wǒ dǎ diànhuà.</span><span class="trans">My girlfriend never calls me.</span>
+*这 个 人 很 奇怪，他 <em>从来 不</em> 笑。<span class="pinyin">Zhège rén hěn qíguài, tā <em>cónglái bù</em> xiào.</span><span class="trans">This person is very strange. He never laughs.</span>
+*你 父母 <em>从来 不</em> 打 你 吗？<span class="expl pdf-simple-expl">"hit" can mean "spank"</span><span class="pinyin">Nǐ fùmǔ <em>cónglái bù</em> dǎ nǐ ma?</span><span class="trans">Your parents never hit you?</span>
+*他 <em>从 不</em> 关心 别人。<span class="expl pdf-simple-expl">来 has been omitted here.</span><span class="pinyin">Tā <em>cóng bù</em> guānxīn biérén.</span><span class="trans">He never cares about other people.</span>
+
+</div>
+
+== "To Have Never Done" with 从来 (cónglái) + 没有 (méiyǒu) ==
+
+Use 从来 (cónglái) with 没 (méi) or 没有 (méiyǒu) (and 过 (guo) after the verb) to indicate that you ''have '''never''' done something'' (it's not a part of your life experience).  You're talking about the past now, because you're talking about what you haven't done before, so 没有 (méiyǒu) is appropriate.  过 (guo) also makes sense, because you're making a statement about your life experience.
+
+=== Structure ===
+
+The structure is:
+
+<div class="jiegou">
+
+Subj. + 从来 + 没(有) + Verb + 过
+
+</div>
+
+Again, 从来 (cónglái) may be shortened to just 从 (cóng) in casual speech. Note that you can have an object or other information after the verb, but the 过 (guo) needs to come immediately after the verb.
+
+=== Examples ===
+
+<div class="liju">
+
+* 你 <em>从来 没有</em> 想 <em>过</em> 这 个 问题 吗？<span class="pinyin">Nǐ <em>cónglái méiyǒu</em> xiǎng <em>guo</em> zhège wèntí ma? </span><span class="trans">Have you never thought about this question? </span>
+* 她 <em>从来 没</em> 见 <em>过</em> 她 妈妈。<span class="pinyin">Tā <em>cónglái méi</em> jiàn <em>guo</em> tā māma.</span><span class="trans">She has never met her mother.</span>
+* 我 <em>从没</em> 学 <em>过</em> 这 个 词。<span class="expl pdf-simple-expl">来 has been omitted here.</span><span class="pinyin">Wǒ <em>cóngméi</em> xué <em>guo</em> zhège cí.</span><span class="trans">I have never before studied this word.</span>
+* 你们 <em>从来 没有</em> 听说 <em>过</em> 这 个 地方 吗？<span class="pinyin">Nǐmen <em>cónglái méiyǒu</em> tīngshuō <em>guo</em> zhège dìfang ma? </span><span class="trans">Have you never heard about this place before? </span>
+* 很 多 中国人 <em>从来 没</em> 出 <em> 过</em> 国。<span class="pinyin">Hěn duō Zhōngguó rén <em>cónglái méi</em> chū <em> guo</em> guó.</span><span class="trans">A lot of Chinese people have never been abroad.</span>
+
+</div>
+
+== See Also ==
+
+*[[Expressing experiences with "guo" ]]
+*[[Comparing "bu" and "mei" ]]
+*[["meiyou" as a Verb ]]
+*[[Standard negation with "bu"]]
+*[["Always" with "conglai"]]
+
+== Sources and further reading ==
+
+===Books===
+{{Source|HSK Standard Course 4上|5}}
+*[[BRIDGE (桥梁 实用汉语中级教程上)]] (p.40)  [http://www.amazon.cn/gp/product/B003AKZFFC/ref=as_li_ss_tl?ie=UTF8&camp=536&creative=3132&creativeASIN=B003AKZFFC&linkCode=as2&tag=allset-23 →buy]
+* [[Integrated Chinese: Level 2, Part 2]] (p. 59) [http://www.amazon.com/gp/product/0887276881/ref=as_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0887276881 →buy]
+
+===Websites===
+
+* Yale Chinese Usage Dictionary: [http://comet.cls.yale.edu/chineseusagedictionary/0119.html Usage of 从来]
+
+[[Category:A2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|从来|A2|从来 + 不 / 没(有) + Verb|她 <em>从来 不</em> 喝酒。我 <em>从来 没有</em> 去<em> 过</em> 美国。|grammar point|ASG8NM5E}}
+{{Rel char|从不}}
+{{Rel char|从没}}
+{{Rel char|没有}}
+{{Rel char|不}}
+{{Similar|"Always" with "conglai"}}
+{{Similar|Expressing "always previously" with "xianglai"}}
+{{POS|Verbs}}
+{{Subprop|Verb phrases}}
+{{Used for| Expressing frequency}}
+{{Used for|Referring to the past}}
+{{Used for|Referring to habitual actions}}
+{{Translation|Never}}

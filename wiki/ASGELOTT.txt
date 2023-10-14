@@ -1,0 +1,38 @@
+<!-- Reviewing options with "ba" -->
+{{Grammar Box}}
+
+When 吧 (ba) is used twice in a sentence, it is used to list two options that the speaker is debating. It gives the sentence an indecisive feel, as though the speaker doesn't know which one to choose. This construction often has a negative connotation, since the options usually are not ideal.
+
+== Structure ==
+
+<div class="jiegou">
+Option 1 + 吧 ，⋯⋯ ；Option 2 + 吧 ，⋯⋯ 
+</div>
+
+If this structure doesn't seem clear to you, the examples will help.
+
+== Examples ==
+
+<div class="liju">
+ 
+*冬天 去 <em>吧</em> ，太 冷 ；夏天 去 <em>吧</em> ，太 热 。<span class="pinyin">Dōngtiān qù <em>ba</em>, tài lěng; xiàtiān qù <em>ba</em>, tài rè.</span><span class="trans">If we go in the winter, it's too cold. If we go in the summer, it's too hot.</span>
+*早 点 去 <em>吧</em> ，要 等 ；晚 点 去 <em>吧</em> ，会 堵车 。<span class="pinyin">Zǎo diǎn qù <em>ba</em>, yào děng; wǎn diǎn qù <em>ba</em>, huì dǔchē.</span> <span class="trans">If we go early, we'll have to wait. If we go later, there will be bad traffic.</span>
+*穿 得 多 一点 <em>吧</em> ，会 热 ；穿 得 少 一点 <em>吧</em> ，会 冷 。<span class="pinyin">Chuān de duō yīdiǎn <em>ba</em>, huì rè; chuān de shǎo yīdiǎn <em>ba</em>, huì lěng.</span><span class="trans">If I wear a little more, it will be hot. If I wear a little less, it will be cold.</span>
+*去 <em>吧</em> ，要 给 红包 ；不 去 <em>吧</em> ，他 没 面子 。<span class="pinyin">Qù <em>ba</em>, yào gěi hóngbāo; bù qù <em>ba</em>, tā méi miànzi.</span><span class="trans"> I need to give a red envelope if I go early. If I don't go, he will lose face.</span>
+*不 说 <em>吧</em> ，他 还 会 做 错 ；说 <em>吧</em> ，他 肯定 不 高兴 。<span class="pinyin">Bù shuō <em>ba</em>, tā hái huì zuò cuò; shuō <em>ba</em>, tā kěndìng bù gāoxìng.</span><span class="trans">If I don't tell him, he will still do it wrong next time. If I do tell him, he will get upset.</span>
+*回去 <em>吧</em> ，机票 太 贵 ；不 回去 <em>吧</em> ，家人 肯定 会 想 我 。<span class="pinyin">Huíqù <em>ba</em>, jīpiào tài guì; bù huíqù <em>ba</em>, jiārén kěndìng huì xiǎng wǒ.</span><span class="trans">If I go back, the plane ticket is too expensive. If I don't go back, my family will definitely miss me.</span>
+*带 你 去 <em>吧</em> ，你 总是 不 听话 ；不 带 你 去 <em>吧</em> ，你 一个人 肯定 无聊 。<span class="pinyin">Dài nǐ qù <em>ba</em>, nǐ zǒngshì bù tīnghuà; bù dài nǐ qù <em>ba</em>, nǐ yīgèrén kěndìng wúliáo.</span><span class="trans">If I take you with me, you will be naughty like always. If I don't take you with me, you will definitely be bored.</span>
+*见面 <em>吧</em> ，常常 吵架 ；不 见面 <em>吧</em> ，还是 会 想 他 。<span class="pinyin">Jiànmiàn <em>ba</em>, chángcháng chǎojià; bù jiànmiàn <em>ba</em>, háishì huì xiǎng tā.</span><span class="trans">If we see each other, we fight a lot. If we don't see each other, I miss him anyway.</span>
+*不 说 真 话 <em>吧</em> ，老婆 不 高兴 ；说 真 话 <em>吧</em> ，老婆 也 不 高兴 。<span class="pinyin">Bù shuō zhēn huà <em>ba</em>, lǎopo bù gāoxìng; shuō zhēn huà <em>ba</em>, lǎopo yě bù gāoxìng.</span><span class="trans">If I don't speak the truth, my wife will be upset. If I tell her the truth, my wife will also be upset.</span>
+*这个 老 房子 ，卖 <em>吧</em> ，怕 父母 不 同意 ；不 卖 <em>吧</em> ，就 没 钱 买 新 车 。<span class="pinyin">Zhège lǎo fángzi, mài <em>ba</em>, pà fùmǔ bù tóngyì; bù mài <em>ba</em>, jiù méi qián mǎi xīn chē.</span><span class="trans">If I sell this old house, I'm afraid my parents will disagree. If I don't sell it, I don't have money to buy a new car.</span>
+
+</div>
+
+[[Category:B1 grammar points]]
+{{Basic Grammar|吧|B1|Option 1吧 ，⋯⋯ ；Option 2 吧 ，⋯⋯ |不 说 <em>吧</em> ，他 还 会 做 错 ；说 <em>吧</em>，他 肯定 不 高兴 。|grammar point|ASGELOTT}}
+{{Similar|Suggestions with ba}}
+{{Similar|Conceding with "ba"}}
+{{Similar|Offering choices with "haishi"}}
+{{Similar|Providing two options with double "huozhe"}}
+{{Used for|Expressing attitude}}
+{{POS|Particles}}

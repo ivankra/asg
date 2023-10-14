@@ -1,0 +1,115 @@
+<!-- Expressing "about to happen" with "le" -->
+{{Grammar Box}} 
+
+Remember that 了 (le) is not only for the past! When something is ''about to happen,'' you can also indicate this using 了 (le).  Normally it is paired with a 快 (kuài), 快要(kuàiyào) or a 要 (yào). This is a special form of [[Change of state with "le"|using 了 to indicate a change of situation]].
+
+== 快⋯⋯了 (kuài... le) with Verbs ==
+
+When using 快 ⋯⋯了 (kuài... le) with [[verb]]s, it takes on a meaning similar to the English "just about to." Normally you can add 要 (yào) before the verb.
+
+=== Structure ===
+
+<div class="jiegou">
+快+ Verb + 了
+</div>
+
+<div class="jiegou">
+快要 + Verb + 了
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我们 <em>快</em> 到 <em>了</em>。<span class="pinyin">Wǒmen <em>kuài</em> dào <em>le</em>.</span><span class="trans">We're almost there.</span>
+*<em>快</em> 下雨 <em>了</em> 。<span class="pinyin"><em>Kuài</em> xiàyǔ <em>le</em>.</span><span class="trans">It's going to rain soon.</span>
+*<em>快 要</em> 过年 <em>了</em>，你 什么 时候 回家？<span class="pinyin"><em>Kuài yào</em> guònián <em>le</em>, nǐ shénme shíhou huíjiā? </span><span class="trans">It's almost Chinese New Year. When are you going back to your hometown?</span>
+*我 女朋友 <em>快 要</em> 过 生日 <em>了</em>。<span class="pinyin"> Wǒ nǚpéngyou <em>kuài yào</em> guò shēngrì <em>le</em>.</span><span class="trans">My girlfriend is about to have her birthday.</span>
+*<em>快</em> 下车 <em>了</em> ，你 再 等 一会儿 。<span class="pinyin"><em>Kuài</em> xiàchē <em>le</em>, nǐ zài děng yīhuìr.</span><span class="trans">We're about to get off. Just wait a little while.</span>
+
+</div>
+
+Notice that for some translations, it's more natural to use the English word "almost" instead of "soon."
+
+== 快⋯⋯了 (kuài... le) with Adjectives ==
+
+In this structure, 快⋯⋯了 (kuài... le) is closer to the meaning of "[[almost]]" in English.
+
+=== Structure ===
+
+<div class="jiegou">
+快 + Adj. + 了
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 天 <em>快</em> 黑 <em>了</em>。<span class="pinyin">Tiān <em>kuài</em> hēi <em>le</em>.</span><span class="trans">It’s almost getting dark.</span>
+* 我 <em>快</em> 好 <em>了</em>。<span class="pinyin">Wǒ <em>kuài</em> hǎo <em>le</em>.</span><span class="trans">I'm almost ready.</span>
+* 饭 <em>快</em> 凉 <em>了</em>。<span class="pinyin">Fàn <em>kuài</em> liáng <em>le</em>.</span><span class="trans">The food is about to be cold.</span>
+* 这些 脏 衣服 <em>快</em> 臭 <em>了</em>。<span class="pinyin">Zhèxiē zāng yīfu <em>kuài</em> chòu <em>le</em>.</span><span class="trans">These dirty clothes are about to smell bad.</span>
+* 不 能 再 喝 了，我 <em>快</em> 醉 <em>了</em>。<span class="pinyin">Bù néng zài hē le, wǒ <em>kuài</em> zuì <em>le</em>.</span><span class="trans">I can't drink another, I am almost drunk.</span>
+
+</div>
+
+== 要⋯⋯了 (yào... le) with Verbs ==
+
+=== Structure ===
+
+You can also just use 要 (yào) before the verb, without 快 (kuài).
+
+<div class="jiegou">
+
+Subj. + 要 + Verb / Adj. + 了
+
+</div>
+
+Note that occasionally you'll see [[adjective]]s (instead of verbs) in this pattern as well.
+
+=== Examples ===
+
+<div class="liju">
+
+*我 <em>要</em> 生气 <em>了</em>！<span class="pinyin">Wǒ <em>yào</em> shēngqì <em>le</em>!</span><span class="trans">I'm going to get angry! </span>
+*他们 的 孩子 <em>要</em> 出生 <em>了</em>。<span class="pinyin">Tāmen de háizi <em>yào</em> chūshēng <em>le</em>.</span><span class="trans">Their child is about to be born.</span>
+*9 点 了，超市 <em>要</em> 关门 <em>了</em>。<span class="pinyin">Jiǔ diǎn le, chāoshì <em>yào</em> guānmén <em>le</em>.</span><span class="trans">It's 9 o'clock. The supermarket is about to close.</span>
+*我 最好 的 朋友 <em>要</em> 结婚 <em>了</em>！<span class="pinyin">Wǒ zuìhǎo de péngyou <em>yào</em> jiéhūn <em>le</em>!</span><span class="trans">My best friend is about to get married! </span>
+*圣诞节 <em>要</em> 到 <em>了</em> ，你 有 什么 打算 ？<span class="pinyin">Shèngdànjié <em>yào</em> dào <em>le</em>, nǐ yǒu shénme dǎsuàn?</span><span class="trans">It's almost Christmas. What plans do you have?</span>
+
+</div>
+
+== See also ==
+
+*[[Expressing "nearly" with "jihu"]]
+*[[Approximations with "chabuduo"]]
+*[[Expressing future with "jiang"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|116}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|267-8}}
+{{Source|Boya Chinese Elementary Starter 1 (博雅汉语初经起步篇)|183}}
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2)|196-7}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|271}}
+
+=== Websites ===
+
+* ChinesePod: [http://chinesepod.com/lessons/%E4%BA%86-le-somethings-about-to-happen Qing Wen - 了 (le): Something's About to Happen] (free podcast content)
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|快|A2|快 + Verb / Adj. + 了|<em>快</em> 下雨 <em>了</em> 。|grammar point|ASGNGEU8}}
+{{Rel char|了}}
+{{Rel char|要}}
+{{Similar|Expressing "be going to" with "yao"}}
+{{Similar|Expressing "nearly" with "jihu"}}
+{{Similar|Expressing "about to" with "jiuyao"}}
+{{Similar|Auxiliary verb "yao" and its multiple meanings}}   
+{{Used for|Expressing time and date}}
+{{Used for|Sequencing events in time}}
+{{Used for|Referring to changes of situation}}
+{{Structure|Sentence Patterns}}
+{{Translation|about}}

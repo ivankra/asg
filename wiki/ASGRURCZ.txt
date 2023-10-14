@@ -1,0 +1,85 @@
+<!-- Expressing "not at all" with "yidianr ye bu" -->
+{{Grammar Box}} 
+
+Sometimes we may want to say something is "not even the least bit [adjective]." For example, we might say in English: "I am not at all hungry."  In Chinese, we can use 一点(儿)也不 (yīdiǎnr yě bù) or 一点(儿)都不 (yīdiǎnr dōu bù) to express "not at all [adjective]."
+
+== Used with Adjectives == 
+
+The phrases 一点(儿)也不 and 一点(儿)都不 can both be used to express "not at all." 
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 一点(儿) + 也 / 都 + 不 + Adj.
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*那个 问题 <em>一点儿 也 不</em> 难 。<span class="pinyin">Nàge wèntí <em>yīdiǎnr yě bù</em> nán.</span><span class="trans">That question isn't difficult at all.</span>
+*这个 菜 <em>一点 都 不</em> 好吃 。<span class="pinyin">Zhège cài <em>yīdiǎn dōu bù</em> hǎochī.</span><span class="trans">This dish isn't tasty at all.</span>
+*我 同事 <em>一点 都 不</em> 幽默 。<span class="pinyin">Wǒ tóngshì <em>yīdiǎn dōu bù</em> yōumò.</span><span class="trans">My colleague is not humorous at all.</span>
+*这个 笑话 <em>一点 也 不</em> 好笑 。<span class="pinyin">Zhège xiàohua <em>yīdiǎn yě bù</em> hǎoxiào.</span><span class="trans">This joke isn't funny at all.</span>
+
+</div>
+
+== Used with Verbs ==
+
+This describes the subject as being "not at all ''adjective''" or "not even slightly ''adjective''." [[Psychological verbs]] can also appear in place of the adjective in this structure.
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 一点 + 也 / 都 + 不 + [Verb Phrase]
+</div>
+
+If the verb has an object, it sometimes gets moved to the front of the sentence.
+
+=== Examples ===
+
+<div class="liju">
+
+*我 <em>一点 也 不</em> 喜欢 奶酪 。<span class="pinyin">Wǒ <em>yīdiǎn yě bù</em> xǐhuan nǎilào.</span><span class="trans">I don't like cheese at all.</span>
+*你 <em>一点 也 不</em> 会 说 吗 ？<span class="pinyin">Nǐ <em>yīdiǎn yě bù</em> huì shuō ma?</span><span class="trans">You can't speak at all?</span>
+*她 <em>一点 都 不</em> 知道 这 件 事 。<span class="pinyin">Tā <em>yīdiǎn dōu bù</em> zhīdào zhè jiàn shì.</span><span class="trans">She doesn't know about this at all.</span>
+*我 儿子 <em>一点 都 不</em> 爱 玩 游戏 。<span class="pinyin">Wǒ érzi <em>yīdiǎn dōu bù</em> ài wán yóuxì.</span><span class="trans">My son doesn't like to play games at all.</span>
+
+</div>
+
+The phrases "一点也没 " and "一点都没 " can also be used to express "not at all ." This is used when the statement uses or implies the verb [[Negation_of_"you"| negative form of 有]] in the past. 
+
+<div class="liju">
+
+*我 <em>一点 也</em> <strong>没</strong> 生气 。<span class="pinyin">Wǒ <em>yīdiǎn yě</em> <strong>méi</strong> shēngqì.</span><span class="trans">I wasn't angry at all.</span>
+*她 <em>一点 都</em> <strong>没</strong> 准备 。<span class="pinyin">Tā <em>yīdiǎn dōu</em> <strong>méi</strong> zhǔnbèi.</span><span class="trans">She didn't prepare at all.</span>
+*作业 他 <em>一点 都</em> <strong>没</strong> 做 ？<span class="expl">The object 作业 got moved to the front</span><span class="pinyin">Zuòyè tā <em>yīdiǎn dōu</em> <strong>méi</strong> zuò?</span><span class="trans">He didn't do his homework at all?</span>
+*这个 菜 你们 怎么 <em>一点 也</em> <strong>没</strong> 吃 ？<span class="expl">The object 这个菜 got moved to the front</span><span class="pinyin">Zhège cài nǐmen zěnme <em>yīdiǎn yě</em> <strong>méi</strong> chī?</span><span class="trans">Why didn't you eat this dish at all?</span>
+
+</div>
+
+== See also ==
+
+*[[Expressing "not even one"]]
+*[[Expressing "everything" with "shenme dou"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Basic Patterns of Chinese Grammar|36-7}} 
+{{Source|Integrated Chinese: Level 1, Part 2|37- 9}}
+
+[[Category:B1 grammar points]]
+
+{{Basic Grammar|一点|B1|Subj. + 一点 + 也 / 都 + 不 + Adj.|你 <em>一点 也 不</em> 胖 。|grammar point|ASGRURCZ}}
+{{Rel char|点}}
+{{Rel char|也}}
+{{Rel char|不}}
+{{Rel char|都}}
+{{Used for|Denying and refusing}}
+{{Similar|Expressing "all" with "shenme dou"}}
+{{Similar|Expressing "not even one"}}
+{{Similar|Comparing "youdian" and "yidian"}}
+{{Structure|Sentence Patterns}}
+{{Subprop|Basic/Simple Sentence Patterns}}

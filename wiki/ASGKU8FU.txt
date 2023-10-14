@@ -1,0 +1,48 @@
+<!-- Expressing "at the same time" with "jian" -->
+{{Grammar Box}} 
+{{stub}}
+
+兼（jiān）can be used to express doing two or more different jobs or identities.
+
+== Structure ==
+
+Usually this grammar structure is used to express two (or more) simultaneous jobs or identities. It's kind of like saying "I'm a student. At the same time, I'm a programmer." The structure itself is pretty simple, you can put the 兼 after or before the verb. 
+
+<div class="jiegou">
+
+Subj. + 兼 + Verb + Noun 1 + 和 + Noun 2
+
+</div>
+
+Or
+
+<div class="jiegou">
+
+Subj. + 是 + Noun 1 + 兼 +  Noun 2
+
+</div>
+
+==Examples==
+
+<div class="liju">
+
+* 这 首 歌 的 主唱 <em>兼</em>  词 作者 就 是 他 。
+* 在 那 部 电影 里，他 <em>兼</em> 做 导演 和 男主角 。
+* 你 的 职责 是 日常 行政 工作 <em>兼</em> 人事 招聘。
+
+</div>
+
+==See Also==
+* [[Simultaneous tasks with "yibian"]]
+
+== Sources and further reading ==
+
+=== Dictionaries ===
+
+* [[现代汉语词典（第5版）]] (pp. 663) [http://www.amazon.cn/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E8%AF%8D%E5%85%B8/dp/B001B1RZCI/ref=sr_1_1?ie=UTF8&qid=1345693609&sr=8-1 →buy]
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|兼|C1|Subject + 兼 + Verb + A + 和 + B|这 首 歌 的 主唱 <em>兼</em>  词 作者 就 是 他 。|grammar point|ASGKU8FU}}
+{{Rel char|兼}}
+{{POS|Sentence patterns}}
+{{Translation|same}}

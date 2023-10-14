@@ -1,0 +1,85 @@
+<!-- Measure word "ge" -->
+{{Grammar Box}} 
+个 (gè) is the most commonly used [[measure word]]. It can be used in a pinch for any noun if you can't think of a more precise measure word. (Although you might not sound quite as smart, you'll still get your point across). Also, for many nouns, 个 (gè) ''is'' the only correct measure word.
+
+== Counting Nouns ==
+
+=== Structure === 
+
+The general structure for 个 (gè) and measure words in general is:
+
+<div class="jiegou">
+
+Number + 个 + Noun
+
+</div>
+
+Any time you want to state ''how many'' of a noun in Chinese, you probably need a measure word.  First get used to how they are used with 个 (gè).
+
+=== Examples ===
+
+<div class="liju">
+
+* 一 <em>个</em> 人 <span class="pinyin">yī <em>gè</em> rén</span><span class="trans">one person</span>
+* 四 <em>个</em> 朋友 <span class="pinyin">sì <em>gè</em> péngyou</span><span class="trans">four friends</span>
+* 三 <em>个</em> 苹果 手机 <span class="pinyin">sān <em>gè</em> Píngguǒ shǒujī</span><span class="trans">three iPhones</span>
+* 五 <em>个</em> 星期 <span class="pinyin">wǔ <em>gè</em> xīngqī</span><span class="trans">five weeks</span>
+* 六 <em>个</em> 月 <span class="pinyin">liù <em>gè</em> yuè </span><span class="trans">six months</span>
+* 两 <em>个</em> 老婆<span class="pinyin">liǎng <em>gè</em>  lǎopo </span><span class="trans">two wives</span>
+* 十 <em>个</em> 男人， 七 <em>个</em> 傻， 八 <em>个</em> 坏。<span class="expl pdf-simple-expl">A line from a song</span><span class="pinyin">Shí <em>gè</em> nánrén, qī <em>gè</em> shǎ, bā <em>gè</em> huài.</span><span class="trans">Ten men: seven are fools, and eight are bad.</span>
+
+</div>
+
+== Omitting the Number ==
+
+=== Structure === 
+
+<div class="jiegou">
+
+Verb + 个 + Noun
+
+</div>
+
+If the number is one (1), you can omit it and use 个 (gè) by itself. This is similar to "a" or "an" in English, for example in "a person" or "an idiot." (The tone on 个 (gè) is normally somewhat de-emphasized in this usage, but still written as fourth tone. You don't need to stress about it, though.)
+
+=== Examples ===
+
+<div class="liju">
+
+* 他 是 <em>个</em> 老外。<span class="pinyin">Tā shì <em>gè</em> lǎowài.</span><span class="trans">He is a foreigner.</span>
+* 我 有 <em>个</em> 儿子。<span class="pinyin">Wǒ yǒu <em>gè</em> érzi.</span><span class="trans">I have a son.</span>
+* 她 是 <em>个</em> 好 老师。<span class="pinyin">Tā shì <em>gè</em> hǎo lǎoshī.</span><span class="trans">She is a good teacher.</span>
+* 你 想 吃 <em>个</em> 包子 吗？<span class="pinyin">Nǐ xiǎng chī <em>gè</em> bāozi ma?</span><span class="trans">Would you like to eat a stuffed steamed bun?</span>
+* 老师 ， 我 有 <em>个</em> 问题。<span class="pinyin">Lǎoshī, wǒ yǒu <em>gè</em> wèntí.</span><span class="trans">Teacher, I have a question.</span>
+
+</div>
+
+==See also==
+* [[Counting money]]
+* [[Measure words in quantity questions]]
+* [[Measure words for counting]]
+* [[Measure words to differentiate]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|58}}
+{{Source|Chinese: An Essential Grammar, Second Edition|21-2}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|45-6}}
+{{Source|Chinese: An Essential Grammar, Second Edition|21}}
+
+=== Websites ===
+* [http://en.wikipedia.org/wiki/Chinese_classifier Chinese classifier] (Wikipedia)
+
+[[Category:A1 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{Basic Grammar|个|A1|Number + 个 + Noun|一 <em>个</em> 人 。|grammar point|ASGI0T9S}}
+{{Similar|Measure words in quantity questions}}  
+{{Similar|Measure words for counting}}  
+{{Similar|Measure words to differentiate}}
+{{Similar|Age with "sui"}}
+{{Similar|Ordinal numbers with "di"}}    
+{{Rel char|个}}
+{{POS|Numbers}}
+{{Used for| Expressing quantity}}

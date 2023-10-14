@@ -1,0 +1,94 @@
+<!-- Structure of days of the week -->
+{{Grammar Box}} 
+
+星期 (xīngqī) means "week" in Chinese. This is also used to indicate which weekday you are talking about.
+
+== Structure ==
+
+Days of the week in Chinese are formed by the word "week" followed by a number:
+
+<table class="table big-text table-striped table-bordered">
+<tr>
+<th style="width:25%">English</th>
+<th style="width:25%">Chinese</th>
+</tr>
+<tr>
+<td>Monday</td>
+<td>星期一<span class="pinyin">Xīngqīyī</span></td>
+</tr>
+<tr>
+<td>Tuesday</td>
+<td>星期二<span class="pinyin">Xīngqī'èr</span></td>
+</tr>
+<tr>
+<td>Wednesday</td>
+<td>星期三<span class="pinyin">Xīngqīsān</span></td>
+</tr>
+<tr>
+<td>Thursday</td>
+<td>星期四<span class="pinyin">Xīngqīsì</span></td>
+</tr>
+<tr>
+<td>Friday</td>
+<td>星期五<span class="pinyin">Xīngqīwǔ</span></td>
+</tr>
+<tr>
+<td>Saturday</td>
+<td>星期六<span class="pinyin">Xīngqīliù</span></td>
+</tr>
+<tr>
+<td>Sunday</td>
+<td>星期天<span class="pinyin">Xīngqītiān</span></td>
+</tr>
+</table>
+
+Notice that Sunday is the only exception. Rather than a number, 天 (tiān) is used. More formally, Sunday is also referred to as 星期日 (Xīngqīrì).
+
+One other implication of this system that you may not have noticed: "day one" is Monday. In Chinese culture, the first day of the week is Monday, and ''not'' Sunday.
+
+== Examples ==
+
+<div class="liju">
+
+*今天 是 <em>星期一</em> 吗？<span class="expl">是 is optional</span><span class="pinyin">Jīntiān shì <em>Xīngqīyī</em> ma?</span><span class="trans">Is today Monday?</span>
+*明天 <em>星期五</em>，太 高兴 了。<span class="expl">Optional 是 omitted</span><span class="pinyin">Míngtiān <em>Xīngqīwǔ</em>, tài gāoxìng le.</span><span class="trans">Tomorrow is Friday. I'm so happy.</span>
+* <em>星期三</em> 我 不在 上海。<span class="pinyin"><Em>Xīngqīsān</em> wǒ bù zài Shànghǎi.</span><span class="trans">I'm not here in Shanghai on Wednesday.</span>
+* <em>星期二</em> 早上 我 很 忙。<span class="pinyin"><Em>Xīngqī'èr</em> zǎoshang wǒ hěn máng.</span><span class="trans">I am busy on Tuesday morning.</span>
+* 你 <em>星期天</em> 要 做 什么？<span class="pinyin">Nǐ <em>Xīngqītiān</em> yào zuò shénme?</span><span class="trans">What are you doing on Sunday?</span>
+* 上 个 <em>星期五</em> 我 跟 他 见面 了。<span class="pinyin">Shàng gè <em>Xīngqīwǔ</em> wǒ gēn tā jiànmiàn le.</span><span class="trans">I met him last Friday.</span>
+* 这 个 <em>星期三</em> 晚上 你 有空 吗？<span class="pinyin">Zhège <em>Xīngqīsān</em> wǎnshang nǐ yǒu kòng ma?</span><span class="trans">Are you free this Wednesday evening?</span>
+* 下 个 <em>星期四</em> 是 我 的 生日。<span class="pinyin">Xià gè <em>Xīngqīsì</em> shì wǒ de shēngrì.</span><span class="trans">My birthday is on next Thursday.</span>
+* 这个 <em>星期五</em> 晚上 我们 要 去 酒吧。<span class="pinyin">Zhège <em>Xīngqīwǔ</em> wǎnshang wǒmen yào qù jiǔbā.</span><span class="trans">We're going to a bar this Friday night.</span>
+* <em>星期六</em> 和 <em>星期天</em> 我们 不 上班。<span class="pinyin"> <em>Xīngqīliù</em> hé <em>Xīngqītiān</em> wǒmen bù shàngbān.</span><span class="trans">Saturday and Sunday we don't work.</span>
+</div>
+
+== Other Words for "Week" ==
+
+Hopefully this doesn't freak you out, but there are actually two other ways to say "week" in Chinese. You should still learn 星期 (xīngqī) first, and that's really all you need as a beginner. 
+
+The other words for "week" are 礼拜 (lǐbài) and 周 (zhōu). Skip them for now unless you really need them.
+
+== See Also ==
+*[[Structure of numbers]]
+*[[Structure of dates]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|50}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|123}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)|142}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|72}}
+
+[[Category:A1 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+[[Category:Table]]
+{{Used for|Expressing time and date}}
+{{Basic Grammar|星期|A1|星期 + Number|今天 <em>星期三</em> 。|grammar point|ASGVH4Q5}}
+{{Rel char|星期}}
+{{Rel char|礼拜}}
+{{Rel char|周}}
+{{Similar|Structure of numbers}}  
+{{Similar|Structure of dates}}
+{{POS|Numbers}}

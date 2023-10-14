@@ -1,0 +1,90 @@
+<!-- Sequencing with "xian" and "zai" -->
+{{Grammar Box}} 
+
+The word [[再|再 (zài)]] actually has a lot of uses, beyond just [[Again in the future with "zai"|"again,"]] and in this pattern it means something like "and then."  先⋯⋯，再⋯⋯ (xiān..., zài...) is a pattern used for sequencing events, much like "first..., then..." in English. This pattern can also include 然后 (ránhòu), meaning "and after that." 
+
+== Basic Usage ==
+
+In the pattern below, 先 means "first" and 再 has a meaning of "then" or "and then."
+
+=== Structure ===
+
+<div class="jiegou">
+先 ⋯⋯ ，再 ⋯⋯
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>先</em> 洗 手 <em>再</em> 吃。<span class="pinyin"><em>Xiān</em> xǐ shǒu <em>zài</em> chī.</span><span class="trans">Wash your hands first, and then eat.</span>
+*我 喜欢 <em>先</em> 洗澡 ，<em>再</em> 睡觉 。<span class="pinyin">Wǒ xǐhuan <em>xiān</em> xǐzǎo, <em>zài</em> shuìjiào.</span><span class="trans">I prefer to take a bath first and then go to bed.</span>
+*请 你 <em>先</em> 买 票 <em>再</em> 进去。<span class="pinyin">Qǐng nǐ <em>xiān</em> mǎi piào <em>zài</em> jìnqù.</span><span class="trans">Please buy a ticket first and then enter.</span>
+*你 要 <em>先</em> 做 作业 ，<em>再</em> 看 电视。<span class="pinyin">Nǐ yào <em>xiān</em> zuò zuòyè, <em>zài</em> kàn diànshì.</span><span class="trans">You need to do your homework first, and then watch TV.</span>
+*我 想 <em>先</em> 找 工作 ，<em>再</em> 搬家 。<span class="pinyin">Wǒ xiǎng <em>xiān</em> zhǎo gōngzuò, <em>zài</em> bānjiā.</span><span class="trans">I want to find a job first, and then move.</span>
+
+</div>
+
+== Colloquial Usage with 再说 ==
+
+You may have learned that [["In addition" with "zaishuo"|再说 can mean "in addition."]] Well, the usage of 再 here is a more literal combination of 再说, fitting into the 先⋯⋯再⋯⋯ pattern.
+
+So in this usage, 再说 doesn't really mean "in addition."  Rather, it most literally means, "and then we'll talk."  In other words, "let's just do this now," and then after we see the result, we can talk some more about next steps. There's a "let's see how this goes first" feeling to the expression.
+
+=== Structure ===
+
+Note that in the pattern below, the sentence normally ends with 再说.
+
+<div class="jiegou">
+先 + [Verb Phrase] + 再说
+</div>
+
+=== Examples ===
+
+The 再说 part in the following sentences can be a little tricky to translate into English.
+
+<div class="liju">
+
+*<em>先</em> 吃饭 <em>再 说</em> 。<span class="pinyin"><em>Xiān</em> chīfàn <em>zài shuō</em>.</span><span class="trans">Let's eat first, then we'll talk.</span>
+*<em>先</em> 休息 一下 <em>再说</em> 。<span class="pinyin"><em>Xiān</em> xiūxi yīxià <em>zàishuō</em>.</span><span class="trans">Let's rest a little first, then we'll see.</span>
+*你 <em>先</em> 看 完 <em>再说</em> 。<span class="pinyin">Nǐ <em>xiān</em> kàn wán <em>zàishuō</em>.</span><span class="trans">Finish reading first, and then we'll see.</span>
+*我 <em>先</em> 问 一下 老板 <em>再说</em> 。<span class="pinyin">Wǒ <em>xiān</em> wèn yīxià lǎobǎn <em>zàishuō</em>.</span><span class="trans">I'm going to ask the boss first before doing anything else.</span>
+*你们 <em>先</em> 讨论 一下 <em>再说</em> 。<span class="pinyin">Nǐmen <em>xiān</em> tǎolùn yīxià <em>zàishuō</em>.</span><span class="trans">You guys discuss a little first, then we'll figure out what to do next.</span>
+
+</div>
+
+== "and then..." with 接着 ==
+
+When describing a series of actions, steps, or consecutive events, your Chinese will sound more natural if you can diversify your conjunctions. [[然后]] (ránhòu) is most commonly used, a conjunction which means "[[and then]]." Alternatively, you can use 接着 (jīezhe), as a conjunction that means "next," or "afterwards."
+
+A longer example to help you understand how they can all work together:
+
+<div class="liju">
+*今天 早上 我 起床 以后 <em>先</em> 准备 早饭 ，<em>再</em> 叫 孩子们 起床 ，<strong>接着</strong> 我们 一起 吃早饭 ，<em>然后</em> 我 送 他们 去 学校 。<span class="pinyin">Jīntiān zǎoshang wǒ qǐchuáng yǐhòu <em>xiān</em> zhǔnbèi zǎofàn, <em>zài</em> jiào háizi men qǐchuáng, <strong>jiēzhe</strong> wǒmen yīqǐ chī zǎofàn, <em>ránhòu</em> wǒ sòng tāmen qù xuéxiào.</span><span class="trans">After I got up this morning, I first prepared breakfast, and then I woke up the kids. Next, we ate breakfast together. After that, I took them to school. </span>
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|119}}
+{{Source|HSK Standard Course 4下|105}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|258-9}} 
+{{Source|Integrated Chinese: Level 2, Part 2|19-20}}
+{{Source|卓越汉语－公司实战篇|172}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+{{HSK|HSK4}}
+{{Basic Grammar|先|B1|先⋯⋯ ，再⋯⋯|<em>先</em> 洗 手 ，<em>再</em> 吃饭 。|grammar point|ASGLJM55}}
+{{Rel char|再}}
+{{Rel char|然后}}
+{{Similar|"Never again" with "zai ye bu"}}
+{{Similar|Again in the future with "zai"}}
+{{Similar|Comparing "zai" and "you"}}
+{{Used for|Sequencing events in time}}
+{{Used for|Expressing order}}
+{{Used for|Listing}}
+{{POS|Adverbs}}
+{{Translation|then}}
+{{Translation|first}}

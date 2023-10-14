@@ -1,0 +1,62 @@
+<!-- Using "always" as a complaint with "laoshi" -->
+{{Grammar Box}} 
+
+We have a few ways to say "[[always]]" in Chinese, and one of them is to use the word 老是 (lǎoshì). 老是 is usually used in the context of a complaint, like how your sister is "always" hogging the bathroom.
+
+== Structure ==
+
+老是 is an adverb, usually translated into English as "always." It expresses that an action or a condition constantly repeats or continues and can be interchanged with [["Always" with "zongshi"|the word 总是]]. However, 老是 also has an unsatisfied or frustrated tone.
+
+<div class="jiegou">
+老 (是) + Predicate
+</div>
+
+You can also use 老 instead of 老是. The [[predicate]] part of the pattern can be a [[verb]] or an adjective. 
+
+When 老是 is used together with an [[adjective]], 老是 is usually followed by an [[adverb]] such as 不, 很, 非常, 这么, 那 etc.
+
+== Examples ==
+
+<div class="liju">
+
+*你 怎么 <em>老是</em> 加班 ？<span class="pinyin">Nǐ zěnme <em>lǎoshì</em> jiābān?</span><span class="trans">Why are you always working late?</span>
+*那个 孩子 <em>老</em> 说 脏话 。<span class="pinyin">Nàge háizi <em>lǎo</em> shuō zānghuà.</span><span class="trans">That kid always says bad words.</span>
+*你 怎么 <em>老是</em> 不 高兴 ？<span class="pinyin">Nǐ zěnme <em>lǎoshì</em> bù gāoxìng? </span><span class="trans">How are you always unhappy?</span>
+*你 儿子 上课 的 时候 <em>老是</em> 说话 。<span class="pinyin">Nǐ érzi shàngkè de shíhou <em>lǎoshì</em> shuōhuà.</span><span class="trans">Your son talks all the time in class.</span>
+*这个 老师 <em>老是</em> 这么 严肃 。<span class="pinyin">Zhège lǎoshī <em>lǎoshì</em> zhème yánsù.</span><span class="trans">This teacher is always so serious.</span>
+*别 <em>老是</em> 抱怨 。<span class="pinyin">Bié <em>lǎoshì</em> bàoyuàn.</span><span class="trans">Stop complaining all the time.</span>
+*这个 机器 <em>老是</em> 出 问题 。<span class="pinyin">Zhège jīqì <em>lǎoshì</em> chū wèntí.</span><span class="trans">There is always something wrong with this machine.</span>
+*他 经常 迟到 ，还 <em>老是</em> 找 借口 。<span class="pinyin">Tā jīngcháng chídào, hái <em>lǎoshì</em> zhǎo jièkǒu.</span><span class="trans">He's always late. And he always makes excuses.</span>
+*奶奶 <em>老是</em> 忘 带 钥匙 。<span class="pinyin">Nǎinai <em>lǎoshì</em> wàng dài yàoshi.</span><span class="trans">Grandma forgets to take her keys all the time.</span>
+*你 <em>老是</em> 这么 凶 干吗 ？<span class="pinyin">Nǐ <em>lǎoshì</em> zhème xiōng gànmá?</span><span class="trans">Why are you always so mean?</span>
+*他 真 讨厌 ，<em>老是</em> 跟 朋友 借钱 。<span class="pinyin">Tā zhēn tǎoyàn, <em>lǎoshì</em> gēn péngyou jièqián.</span><span class="trans">He's such a nuisance. He's always borrowing money from his friends.</span>
+
+</div>
+
+== See also ==
+
+*[["Always" with "conglai"]]
+*[["Never" with "conglai"]]
+
+== Sources and  further reading ==
+
+=== Websites ===
+
+* [http://chinesepod.com/lessons/always-in-chinese-%E6%80%BB%E6%98%AF-z%C7%92ngshi-and-%E8%80%81%E6%98%AF-l%C7%8Eoshi Qingwen: Always in Chinese: 总是 (zǒngshì) and 老是]
+
+=== Dictionaries ===
+
+{{Source|现代汉语词典（第5版）|145}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|老是|B1|Subj. + 老 (是 ) + Verb|你 怎么 <em>老是</em> 加班 ？|grammar point|ASGII66E}}
+{{Rel char|老}}
+{{Rel char|是}}
+{{Similar|"Always" with "conglai" }} 
+{{Similar|"Always" with "zongshi"}} 
+{{Similar|Comparing "buduan" and "buting"}}
+{{Used for|Expressing frequency}}
+{{Used for|Expressing attitude}}
+{{POS|Adverbs}}
+{{Translation|always}}

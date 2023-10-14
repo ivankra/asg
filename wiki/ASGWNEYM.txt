@@ -1,0 +1,99 @@
+<!-- Emphasizing quantity with "dou" -->
+{{Grammar Box}} 
+
+都 (dōu) is one of those words that on the surface may seem simple, but actually has many different subtle uses. In this article, we will look at using [[都]] (dōu) to emphasize quantity. 
+
+== Structure ==
+
+You can use 都 (dōu) to emphasize the large quantity of something. The subject should be some sort of large group (like a majority of people or things), e.g. 很多人 (hěn duō rén) or 大家 (dàjiā). 
+
+<div class="jiegou">
+
+Subj. + 都 + Verb + Obj.
+
+</div>
+
+== Examples with 很多 (hěn duō) ==
+
+First let's look at some typical examples using 很多 (hěn duō) to emphasize that it's "a lot."  Note that in English, it would be totally redundant and unnecessary to add "all" into these sentences, but in Chinese it's ''totally natural'' (and kind of weird not to).  If you remember to follow the rule and keep using the 都 (dōu), eventually it will become more natural for you too.
+
+<div class="liju">
+
+* <strong>很 多</strong> 地方 <em>都</em> 有 wifi。<span class="pinyin"><strong>Hěn duō</strong> dìfang <em>dōu</em> yǒu wifi.</span><span class="trans">A lot of places have wifi.</span>
+*我 的 <strong>很 多</strong> 朋友 <em>都</em> 有 车。<span class="pinyin">Wǒ de <strong> hěn duō</strong> péngyou <em>dōu</em> yǒu chē.</span><span class="trans">A lot of my friends have cars.</span>
+* <strong>很 多</strong> 美国人 <em>都</em> 喜欢 喝 咖啡 。 <span class="pinyin"><strong>Hěn duō </strong> Měiguó rén <em>dōu</em> xǐhuan hē kāfēi.</span><span class="trans">A lot of Americans like drinking coffee.</span>
+* <strong>很 多</strong> 孩子 <em>都</em> 不 喜欢 上学。<span class="pinyin"><strong>Hěn duō</strong> háizi <em>dōu</em> bù xǐhuan shàngxué.</span><span class="trans">A lot of kids don't like to go to school.</span>
+* <strong>很 多</strong> 年轻人 <em>都</em> 想 在 大 城市 工作。<span class="pinyin"><strong>Hěn duō</strong> niánqīng rén <em>dōu</em> xiǎng zài dà chéngshì gōngzuò.</span><span class="trans">A lot of young people want to go to work in big cities.</span>
+
+</div>
+
+== Examples with 大家 (dàjiā) ==
+
+Now let's look at some examples using 大家 (dàjiā) or "everyone." Again, in English, it would be totally redundant and unnecessary to add "all" into these sentences, but in Chinese it's ''totally natural'' (and kind of weird not to).  You just have to get used to it.
+
+<div class="liju">
+ 
+*<strong>大家</strong> <em>都</em> 来 了 吗？<span class="pinyin"><strong>Dàjiā</strong> <em>dōu</em> lái le ma?</span><span class="trans">Is everyone here?</span>
+*<strong>大家</strong> <em>都</em> 应该 知道。<span class="pinyin"><strong>Dàjiā</strong> <em>dōu</em> yīnggāi zhīdào.</span><span class="trans">Everyone should know.</span>
+*<strong>大家</strong> <em>都</em> 说 你 很 聪明。<span class="pinyin"><strong>Dàjiā </strong> <em>dōu</em> shuō nǐ hěn cōngming.</span><span class="trans">Everyone says you're smart.</span>
+*<strong>大家</strong> <em>都</em> 忘 了 他 的 名字。<span class="pinyin"><strong>Dàjiā</strong> <em>dōu</em> wàng le tā de míngzi.</span><span class="trans">Everyone forgot his name.</span>
+*<strong>大家</strong> <em>都</em> 喜欢 吃辣 吗？<span class="pinyin"><strong>Dàjiā</strong> <em>dōu</em> xǐhuan chī là ma?</span><span class="trans">Does everyone like eating spicy food? 
+</span>
+
+</div>
+
+== Examples with 每天 (měi tiān) ==
+
+One other common way to use 都 (dōu) is when you're talking about something that happens really often, such as "every day": 每天 (měi tiān).  Use 都 (dōu) here in Chinese, even if it feels unnatural. (Fake it 'til you make it!)
+
+<div class="liju">
+
+* 我 <strong>每天</strong> <em>都</em> 要 上班 。 <span class="pinyin">Wǒ <strong>měi tiān </strong> <em>dōu</em> yào shàngbān.</span><span class="trans">I have to go to work every day.</span>
+* 老师 <strong>每天</strong> <em>都</em> 迟到。 <span class="pinyin"> Lǎoshī <strong>měi tiān </strong> <em>dōu</em> chídào.</span><span class="trans"> The teacher comes late every day.</span>
+* 她 <strong>每天</strong> <em>都</em> 不 吃 早饭。 <span class="pinyin">Tā <strong>měi tiān</strong> <em>dōu</em> bù chī zǎofàn.</span><span class="trans">Every day, she does not eat breakfast.</span>
+* 我 女朋友 <strong>每天</strong> <em>都</em> 上 淘宝 。 <span class="expl pdf-long-expl">''Taobao'' is China's biggest online shopping website.</span><span class="pinyin">Wǒ  nǚpéngyou <strong>měi tiān</strong> <em>dōu</em> shàng Táobǎo.</span><span class="trans">My girlfriend goes on ''Taobao'' every day.</span>
+* 妈妈 <strong>每天</strong> <em>都</em> 给 我们 做 晚饭。 <span class="pinyin">Māma <strong>měi tiān</strong> <em>dōu</em> gěi wǒmen zuò wǎnfàn.</span><span class="trans">Mom cooks dinner for us every day.</span>
+
+</div>
+
+For more uses with 每 (měi), see also: [[Expressing "every" with "mei"]].
+
+== Other Examples ==
+
+Here are some other examples that don't use 很多 (hěn duō) or 大家 (dàjiā) or 每天 (měi tiān), but are still quite typical:
+
+<div class="liju">
+
+*美国人 <em>都</em> 说 英文。<span class="pinyin">Měiguó rén <em>dōu</em> shuō Yīngwén.</span><span class="trans">Americans all speak English.</span>
+*我们 五 个 人 <em>都</em> 去。 <span class="pinyin">Wǒmen wǔ gè rén <em>dōu</em> qù.</span><span class="trans">All five of us are going.</span>
+*四川人 <em>都</em> 喜欢 吃辣。<span class="pinyin">Sìchuān rén <em>dōu</em> xǐhuan chī là.</span><span class="trans">Sichuanese people all like eating spicy food.</span>
+*我 的 家人 <em>都</em> 没 去 过 中国。<span class="pinyin">Wǒ de jiārén <em>dōu</em> méi qù guo Zhōngguó.</span><span class="trans">None of my family members has been to China.</span>
+*我 的 学生 <em>都</em> 喜欢 问 问题。 <span class="pinyin">Wǒ de xuéshēng <em>dōu</em> xǐhuan wèn wèntí.</span><span class="trans">My students all like to ask questions.</span>
+
+</div>
+
+==See also==
+
+* [[The "all" adverb]]
+* [[Expressing "every" with "mei"]]
+
+== Sources  and  further reading ==
+
+=== Books ===
+
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级)|313}}
+{{Source|卓越汉语－公司实战篇|210}}
+{{Source|Basic Patterns of Chinese Grammar|34}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+[[Category: Adverbs]]
+
+{{Basic Grammar|都|A2|大家 / 很多人 + 都⋯⋯|很 多 地方 <em>都</em> 有 wifi。|grammar point|ASGWNEYM}}
+{{Similar|The "all" adverb}}
+{{Similar|Expressing "every" with "mei"}}
+{{Similar|Expressing "every time" with "mei" and "dou"}}
+{{Similar|Referring to "all" using "suoyou"}}
+{{POS|Adverbs}}
+{{Used for| Expressing quantity}}
+{{Used for|Emphasizing}}

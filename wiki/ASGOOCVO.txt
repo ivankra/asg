@@ -1,0 +1,60 @@
+<!-- Expressing possession with "you" -->
+{{Grammar Box}} 
+
+有 (yǒu) [[有|can be used in various ways]], but the most basic meaning of this [[verb]] you need to know is "to have."
+
+== Structure ==
+
+<div class="jiegou">
+
+Subj. + 有 + Obj.
+
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+* 我 <em>有</em> 钱。<span class="pinyin">Wǒ <em>yǒu</em> qián.</span><span class="trans">I have money.</span>
+* 你 <em>有</em> 房子 吗？<span class="pinyin">Nǐ <em>yǒu</em> fángzi ma?</span><span class="trans">Do you have a house?</span>
+* 她 没 <em>有</em> 车。<span class="pinyin">Tā méi <em>yǒu</em> chē.</span><span class="trans">She doesn't have a car.</span>
+* 他 <em>有</em> 女 朋友 吗？ <span class="pinyin">Tā <em>yǒu</em> nǚpéngyou ma?</span><span class="trans">Does he have a girlfriend?</span>
+* 我们 <em>有</em> 三 个 女儿 。<span class="pinyin">Wǒmen <em>yǒu</em> sān gè nǚ'ér.</span><span class="trans">We have three daughters.</span>
+* 我们 家 <em>有</em> 两 个 公司 。<span class="pinyin">Wǒmen jiā <em>yǒu</em> liǎng  gè gōngsī.</span><span class="trans">Our family has two companies.</span>
+* 你 <em>有</em> 一百 块 钱 吗？<span class="pinyin">Nǐ <em>yǒu</em> yī bǎi kuài qián ma?</span><span class="trans">Do you have 100 kuài RMB?</span>
+* 你 的 老师 <em>有</em> iPad 吗？<span class="pinyin">Nǐ de lǎoshī <em>yǒu</em> iPad ma?</span><span class="trans">Does your teacher have an iPad?</span>
+*我爸爸 没 <em>有</em> 工作。<span class="pinyin">Wǒ bàba méi <em>yǒu</em> gōngzuò.</span><span class="trans">My dad doesn't have a job.</span>
+* 今天 你 <em>有</em> 课 吗？<span class="pinyin">Jīntiān nǐ <em>yǒu</em>  kè ma?</span><span class="trans">Do you have classes today?</span>
+</div>
+
+== Negating 有 (yǒu) ==
+
+The verb 有 (yǒu) is negated in a special way. Unlike most verbs, it is negated with 没 (méi) instead of 不 (bù). The negative form of 有 (yǒu) then, is 没有 (méiyǒu). For more on that topic, see our article on [[negation of "you" with "mei"|negation of "you" with "mei."]]
+
+== See also ==
+
+*[[Expressing existence with "you"]]
+*[[Negation of "you" with "mei"]]
+
+== Sources and further reading ==
+
+{{Source|HSK Standard Course 1|74}}
+{{Source|Chinese: An Essential Grammar, Second Edition|87-8}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|53}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|105}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)|122-3}}
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2)|155}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课下册）|300-1}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|62, 73}} 
+
+[[Category:A1 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{Used for|Expressing possession}}
+{{Basic Grammar|有|A1|Subj. + 有 + Obj.|我 <em>有</em> 钱。|grammar point|ASGOOCVO}}
+{{Similar|Negation of "you" with "mei"}}
+{{Similar|Expressing existence with "you"}}
+{{Similar|Expressing possession with "de"}}
+{{Similar|Expressing close possession without "de"}}
+{{POS|Verbs}}
+{{Subprop|Verbs}}
+{{Translation|have}}

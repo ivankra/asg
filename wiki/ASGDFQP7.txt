@@ -1,0 +1,82 @@
+<!-- Expressing "how about" with "yaobu" -->
+{{Grammar Box}} 
+
+Colloquially, 要不 (yàobù) can be used for making suggestions, like how we use "[[how about]]" in English.
+
+== Structure ==
+
+要不 can be used as an indirect way of giving a suggestion, as the speaker is using 要不 to seek consent of the listener. When using 要不 in this way, it can come either at the beginning of the sentence or in the middle, after explaining the situation.
+
+<div class="jiegou">
+Reason / Situation ，要不 + Suggestion
+</div>
+
+or 
+
+<div class="jiegou">
+要不 + Suggestion ，Reason / Situation 
+</div>
+
+== Examples ==
+
+<div class="liju">   
+
+*大家 都 有点 累 了，<em>要不</em> 休息 一会儿 <strong>吧</strong> 。<span class="pinyin">Dàjiā dōu yǒudiǎn lèi le, <em>yàobù</em> xiūxi yīhuìr <strong>ba</strong>.</span><span class="trans">Everyone is a little tired. Let's rest for a while.</span>
+*<em>要不</em> 我们 一起 去 <strong>吧</strong> ，一个人 去 没 意思 。<span class="pinyin"><em>Yàobù</em> wǒmen yīqǐ qù <strong>ba</strong>, yīgèrén qù méi yìsi.</span><span class="trans">How about we go together? It's no fun to go by myself.</span>
+*这个 星期 我 比较 忙 ，<em>要不</em> 下 个 星期 见 ？<span class="pinyin">Zhège xīngqī wǒ bǐjiào máng, <em>yàobù</em> xià gè xīngqī jiàn?</span><span class="trans">I'm pretty busy this week. How about we meet up next week?</span>
+*<em>要不</em> 我们 换 个 地方 <strong>吧</strong> ，这里 太 吵 了 。<span class="pinyin"><em>Yàobù</em> wǒmen huàn gè dìfang <strong>ba</strong>, zhèlǐ tài chǎo le.</span><span class="trans">How about we go to somewhere else? It's too loud here.</span>
+*<em>要不</em> 你 先 走 <strong>吧</strong> ，我 还没 做完 。<span class="pinyin"><em>Yàobù</em> nǐ xiān zǒu <strong>ba</strong>, wǒ hái méi zuò wán.</span><span class="trans">How about you leave first? I haven't finished yet.</span>
+*下雨 了，<em>要不</em> 明天 去 <strong>吧</strong> 。<span class="pinyin">Xiàyǔ le, <em>yàobù</em> míngtiān qù <strong>ba</strong>.</span><span class="trans">It's raining. How about we go tomorrow?</span>
+*这么 远 ，<em>要不</em> 我 开车 送 你 去 ？<span class="pinyin">Zhème yuǎn, <em>yàobù</em> wǒ kāichē sòng nǐ qù?</span><span class="trans">It's so far. How about I drive you there?</span>
+
+</div>
+
+== Multiple Meanings ==
+
+When 要不 (yàobù) is used to mean "[[otherwise]],” it's a shortened form of 要不然 (yàobùrán), which literally means "if that's not the case."
+
+Note 要不 (yàobù) can also be used to offer "either/or" choices to others, similar to [[Expressing "either... or..." with "yaome"|要么]] (yàome). 
+
+Here are a few examples of  要不 used as "otherwise":
+
+<div class="liju">   
+
+*你 先 吃 吧 ，<em>要 不然</em> 饭 就 凉 了 。<span class="pinyin">Nǐ xiān chī ba, <em>yàobùrán</em> fàn jiù liáng le.</span><span class="trans">You should eat; otherwise, the food will get cold.</span>
+*打车 吧 ，<em>要不</em> 会 迟到 的 。<span class="pinyin">Dǎchē ba, <em>yàobù</em> huì chídào de.</span><span class="trans">Take a taxi. Otherwise, you'll be late.</span>
+*快 回家 吧 ，<em>要不</em> 你 爸妈 会 担心 的 。<span class="pinyin">Kuài huíjiā ba, <em>yàobù</em> nǐ bà mā huì dānxīn de.</span><span class="trans">Hurry home, or your parents will worry about you.</span>
+
+</div>
+
+== See  also ==
+
+* [["Or" in statements]] 
+* [[Suggestions with "ba"]]
+* [[Expressing "had better" with "haishi"]] 
+
+== Sources  and further reading ==
+
+=== Books ===
+
+{{Source|Home With Kids1 (家有儿女1)|50}}
+{{Source|BRIDGE (桥梁 实用汉语中级教程下)|187}}
+{{Source|Integrated Chinese: Level 2, Part 1|123-4}}
+{{Source|卓越汉语－公司实战篇|166-7}}
+{{Source|HSK Standard Course 5上|66}} 
+
+[[Category:B1 grammar points]]
+{{HSK|HSK5}}
+[[Category:Prepositions]]
+{{Basic Grammar|要不|B1|Reason / Situation，要不 + Suggestion + 吧|下雨 了，<em>要不</em> 明天 再 去 吧 。|grammar point|ASGDFQP7}}
+{{Rel char|吧}}
+{{Similar|"Or" in statements}}
+{{Similar|Suggestions with "ba"}}
+{{Similar|Expressing "had better" with "haishi"}}
+{{Similar|Expressing "either... or..." with "yaome"}}
+{{Similar|Providing two options with double "huozhe"}}
+{{Used for|Giving alternatives}}
+{{Used for|Indicating cause and effect}}
+{{Translation|otherwise}}
+{{Translation|either}}
+{{Translation|or}}
+{{Translation|how about}}
+{{POS|Conjunctions}}

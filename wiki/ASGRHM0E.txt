@@ -1,0 +1,79 @@
+<!-- Expressing a learned skill with "hui" -->
+{{Grammar Box}} 
+
+The word 会 (huì) can be used to express an ability that has been learned (a skill). In this case 会 (huì) is an [[auxiliary verb]].
+
+== Basic Usage ==
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + 会 + Verb + Obj.
+
+</div>
+
+This structure is the easiest way to express all kinds of skills, from languages, to sports, to skills in daily life such as cooking and driving.
+
+=== Examples ===
+
+<div class="liju">
+
+* 他 <em>会</em> 说 中文。<span class="pinyin">Tā <em>huì</em> shuō Zhōngwén.</span><span class="trans">He can speak Chinese.</span>
+* 我 <em>会</em> 写 汉字。<span class="pinyin">Wǒ <em>huì</em> xiě Hànzì.</span><span class="trans">I can write Chinese characters.</span>
+* 你 <em>会</em> 做饭 吗？<span class="pinyin">Nǐ <em>huì</em> zuòfàn ma?</span><span class="trans">Can you cook food？</span>
+* 狗 <em>会</em> 唱 歌 吗？<span class="pinyin">Gǒu <em>huì</em> chànggē ma?</span><span class="trans">Can dogs sing？</span>
+* 爸爸 <em>会</em> 开车。<span class="pinyin">Bàba <em>huì</em> kāichē.</span><span class="trans"> Dad can drive.</span>
+
+</div>
+
+== Negating 会 (huì) Sentences ==
+
+=== Structure ===
+
+会 (huì) sentences are [[Standard negation with "bu"|negated with 不 (bù)]], which is inserted in front of 会 (huì):
+
+<div class="jiegou">
+
+Subj. + 不 + 会 + Verb + Obj.
+
+</div>
+
+Again, this is the simplest way to express the lack of a learned ability. So while "can't" is a natural translation for "不会" (bù huì) in English, "don't know how to" is equally correct (and perhaps more helpful).
+
+Also, due to a [http://resources.allsetlearning.com/chinese/pronunciation/Tone_change_rules tone change rule] for "不" (bù), the phrase "不会" (bù huì) is actually pronounced "bú huì."
+
+=== Examples ===
+
+<div class="liju">
+
+* 我 <em>不会</em> 说 英文。<span class="pinyin"> Wǒ <em>bù huì</em> shuō Yīngwén.</span><span class="trans">I can't speak English.</span>
+* 妈妈 <em>不会</em> 做 中国 菜。<span class="pinyin">Māma <em>bù huì</em> zuò Zhōngguó cài.</span><span class="trans">Mom can't cook Chinese food.</span>
+* 你 <em>不会</em>  游泳 吗？<span class="pinyin"> Nǐ <em>bù huì</em> yóuyǒng ma?</span><span class="trans">You can't swim?</span>
+* 我 奶奶 <em>不会</em> 用 电脑。<span class="pinyin">Wǒ nǎinai <em>bù huì</em> yòng diànnǎo.</span><span class="trans">My grandmother can't use a computer.</span>
+* 你 <em>不会</em> 开车 吗？<span class="pinyin">Nǐ <em>bù huì</em>  kāichē ma?</span><span class="trans">You can't drive a car?</span>
+
+</div>
+
+Note that if we say 我不能说中文 (wǒ bù néng shuō Zhōngwén), the speaker is saying that he can't speak Chinese [[Expressing ability or possibility with "neng"|for some reason other than his own ability]], perhaps because speaking Chinese in English class is forbidden.
+
+==See also==
+*[[Expressing ability or possibility with "neng"]]
+
+== Sources and further reading ==
+
+{{Source|HSK Standard Course 1|42}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|219-20}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|160-1, 200}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)|185-7, 228}}
+
+[[Category:A1 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{Used for|Expressing ability}}
+{{Basic Grammar|会|A1|会 + Verb|他 <em>会 说</em> 中文 。|grammar point|ASGRHM0E}}
+{{Similar|Expressing ability or possibility with "neng"}}
+{{Similar|Auxiliary verb "hui" for "will"}}   
+{{POS|Verbs}}
+{{Subprop|Auxiliary verbs}}
+{{Translation|Can}}
+{{Translation|Able}}

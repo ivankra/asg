@@ -1,0 +1,38 @@
+<!-- Expressing "thus" with "cong'er" -->
+{{Grammar Box}} 
+{{stub}}
+
+从而 roughly translates to "thus" or "thereby". It is used to express the consequent results of an action. 
+== Structure ==
+
+<div class="jiegou">
+⋯⋯ ， 从而 ⋯⋯
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*不断 挖掘 潜在 客户 ， 扩大 客户 群 ，<em>从而</em> 迅速 占领 市场 。<span class="pinyin">Bùduàn wājué qiánzài kèhù, kuòdà kèhù qún, <em>cóng'ér</em> xùnsù zhànlǐng shìchǎng.</span><span class="trans">By continuously uncovering potential customers and expanding the client base, you thereby quickly occupy the market.</span>
+*公司 要 加大 宣传 力度 ，<em>从而</em> 提高 品牌 知名度 。<span class="pinyin">Gōngsī yào jiā dà xuānchuán lìdù, <em>cóng'ér</em> tígāo pǐnpái zhīmíngdù.</span><span class="trans">The company should increase publicity to improve brand awareness.</span>
+*他查找了很多资料，也问了很多人，<em>从而</em>解决了这个问题 。<span class="trans">Tā cházhǎo le hěn duō zīliào, yě wèn le hěn duō rén, cóngér jiějué le zhège wèntí.</span>
+*这样做我们可以更快地完成这个项目，<em>从而</em>节省时间。<span class="trans">Zhèyàng zuò wǒmen kěyǐ gèng kuài de wánchéng zhège xiàngmù cóngér jiéshěng shíjiān.</span>
+*这次他控制住了自己的脾气，<em>从而</em>避免了一场争斗。<span class="trans">Zhè cì tā kòngzhì zhù le zìjǐ de píqi, cóngér bìmiǎn le yī cháng zhēngdòu.</span>
+
+</div>
+
+== See also ==
+
+*[[Using "because" with "er" to indicate effect]]
+
+== Sources and further reading ==
+
+=== Books ===
+{{Source|HSK Standard Course 5上|38}}
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|从而|C1|⋯⋯ ，从而 ⋯⋯|公司 要 加大 宣传 力度 ，<em>从而</em> 提高 品牌 知名度 。|grammar point|ASG610D0}}
+{{Rel char|而}}
+{{Used for|Indicating cause and effect}}
+{{Used for|Sequencing events in time}}
+{{Translation|thus}}

@@ -1,0 +1,81 @@
+<!-- Expressing "never again" with "zai ye bu" -->
+{{Grammar Box}} 
+Sometimes you may do something or experience something that you ''never'' ever want to do again. How do we express that in Chinese? One of the ways is to use this quirky combination of three little words: 再也不 (zài yě bù)!
+
+== Using 再也 with 不 ==
+
+=== Structure ===
+
+To express that something will ''never'' be done again, or never happen again, you can use this structure:
+
+<div class="jiegou">
+Subj. + 再也 + 不 (+ Auxiliary Verb) + Verb Phrase + 了
+</div>
+
+Notice that 了 is used. In this case it's [[Change of state with "le"|"change of state 了"]]. This is because ''it is now the case that'' the action will not be done again. It indicates some kind of determination or decision. 
+
+=== Examples ===
+
+<div class="liju">
+
+*我 <em>再也不</em> 想 看到 你 了 ！<span class="pinyin">Wǒ <em>zài yě bù</em> xiǎng kàndào nǐ le!</span><span class="trans">I never want to see you again!</span>
+*我 <em>再也不</em> 想 跟 你 说话 了 。<span class="pinyin">Wǒ <em>zài yě bù</em> xiǎng gēn nǐ shuōhuà le.</span><span class="trans">I don't want to talk with you ever again.</span>
+*我们 <em>再也不</em> 会 相信 你 了 ！<span class="pinyin">Wǒmen <em>zài yě bù</em> huì xiāngxìn tā le!</span><span class="trans">We're not going to believe you ever again!</span>
+*医生 说 她 <em>再也不</em> 能 跳舞 了 。<span class="pinyin">Yīshēng shuō tā <em>zài yě bù</em> néng tiàowǔ le.</span><span class="trans">The doctor said she will never be able to dance again.</span>
+*我 <em>再也不</em> 要 离开 你 了 。<span class="pinyin">Wǒ <em>zài yě bù</em> yào líkāi nǐ le.</span> <span class="trans">I'm not going to leave you ever again.</span>
+
+</div>
+
+== Using 再也 with 没 ==
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + 再也 + 没 + Verb + 过 + Obj.
+
+</div>
+
+Notice that 过 is used. This pattern expresses that during a certain period of time in the ''past'', or ''from'' a certain point in the past up ''until now'', something ''hasn't been done'' again.
+
+=== Examples ===
+
+<div class="liju">
+
+*从 那 以后 ，我 <em>再也没</em> 去 过 酒吧 。<span class="pinyin">Cóng nà yǐhòu, wǒ <em>zài yě méi</em> qù guo jiǔbā.</span><span class="trans">Since then, I've never been to a bar again.</span>
+*出国 以后 ，我 <em>再也没</em> 吃 过 地道 的 中国 菜 。<span class="pinyin">Chūguó yǐhòu, wǒ <em>zài yě méi</em> chī guo dìdao de Zhōngguó cài.</span><span class="trans">Since leaving my country, I've never eaten any authentic Chinese food.</span>
+*分手 以后 ，他们 <em>再也没</em> 见 过 。<span class="pinyin">Fēnshǒu yǐhòu, tāmen <em>zài yě méi</em> jiàn guo.</span><span class="trans">They haven't seen each other ever since they broke up.</span>
+*毕业 以后，她 <em>再也没</em> 花 过 父母 的 钱 。<span class="pinyin">Bìyè yǐhòu, tā <em>zài yě méi</em> huā guo fùmǔ de qián.</span><span class="trans">She has never spent her parents' money since she graduated.</span>
+*考 完 试 以后，我 <em>再也没</em> 碰 过 那些 书 。<span class="pinyin">Kǎo wán shì yǐhòu, wǒ <em>zài yě méi</em> pèng guo nàxiē shū.</span><span class="trans">Since finishing exams I haven't touched those books again.</span>
+
+</div>
+
+== See Also ==
+
+* [[Sequencing with "xian" and "zai"]]
+* [[Again in the future with "zai"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Common Chinese Patterns 330 (汉语常用格式330例)|299}} 
+{{Source|Boya Chinese Elementary Starter 2 (博雅汉语初经起步篇)|174}}
+{{Source|Integrated Chinese: Level 2, Part 2|265}}
+
+[[Category:B2 grammar points]]
+[[Category: Adverbs]]
+
+{{Basic Grammar|再也不|B2|Subj. + 再也 + 不 + Verb Phrase + 了|我 <em>再也 不</em> 想 跟 你 说话 了 。|grammar point|ASG7R8US}}
+{{Rel char|了}}
+{{Rel char|再}}
+{{Rel char|也}}
+{{Rel char|不}}
+{{Used for|Expressing time and date}}
+{{Used for|Referring to the future}}
+{{Similar|Sequencing with "xian" and "zai"}}
+{{Similar|Again in the future with "zai"}}
+{{Similar|Expressing a last chance with "zaibu... jiu..."}}
+{{POS|Adverbs}}
+{{Translation|never}}
+{{Translation|again}}

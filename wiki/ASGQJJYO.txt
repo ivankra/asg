@@ -1,0 +1,82 @@
+<!-- Expressing "just" with "gang" -->
+{{Grammar Box}} 
+
+For events that happened in the immediate past, in English we use the word "just." For example, if you pass a turn you were supposed to make, you might say, "I ''just'' passed it!" In Chinese, "just" can be expressed with 刚 (gāng) or 刚刚 (gānggāng).
+
+== Expressing "Just" Happened ==
+
+=== Structure ===
+
+刚 (gāng) expresses an action that happened not long ago. 刚刚 (gānggāng) is used the same way, with the same meaning. 
+
+<div class="jiegou">
+Subj. + 刚 + Verb
+</div>
+
+or
+
+<div class="jiegou">
+Subj. + 刚刚 + Verb
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*我们 <em>刚</em> 知道。<span class="pinyin">Wǒmen <em>gāng</em> zhīdào.</span><span class="trans">We just found out.</span>
+*她们 <em>刚</em> 走。<span class="pinyin">Tāmen <em>gāng</em> zǒu.</span><span class="trans">They just left.</span>
+*老板 <em>刚刚</em> 到 办公室。<span class="pinyin"> Lǎobǎn <em>gānggāng</em> dào bàngōngshì.</span><span class="trans">The boss just arrived at the office.</span>
+*我 老婆 <em>刚</em> 生 完 孩子。<span class="pinyin">Wǒ lǎopo <em>gāng</em> shēng wán háizi.</span><span class="trans">My wife just finished giving birth to our baby.</span>
+*你 <em>刚刚</em> 下班 吗？<span class="pinyin">Nǐ <em>gānggāng</em> xiàbān ma? </span><span class="trans">Did you just get off work?</span>
+
+</div>
+
+== "Just" Within a Specific Time Period ==
+
+This more complicated use of 刚 (gāng) is not nearly as essential as the one above, but you may find it useful to specify just ''when'' the event "just" occurred, specifically.
+
+=== Structure ===
+
+刚 (gāng) can also express "from the time an action happens until the present time."
+
+<div class="jiegou">
+Subj. + 刚 + Verb (+ Obj.)  + Duration
+</div>
+
+Note that although we need to say "ago" in English, in this pattern there's no need for a word that means "ago."
+
+=== Examples ===
+
+<div class="liju">
+
+*我 <em>刚</em> 认识 她 <strong> 十 天</strong>。<span class="pinyin">Wǒ <em>gāng</em> rènshi tā <strong>shí tiān</strong>.</span><span class="trans">I just met her ten days ago.</span>
+*他 <em>刚</em> 来 中国 <strong>两 个 月</strong>。<span class="pinyin">Tā <em>gāng</em> lái Zhōngguó <strong>liǎng gè yuè</strong>.</span><span class="trans">He just got to China two months ago.</span>
+*我 弟弟 <em>刚</em> 工作 <strong>半年</strong>。<span class="pinyin">Wǒ dìdi <em>gāng</em> gōngzuò <strong> bàn nián </strong>.</span><span class="trans">My younger brother just started working half a year ago.</span>
+*她  <em>刚</em> 结婚 <strong> 三 个 月 </strong>。 <span class="pinyin">Tā <em>gāng</em> jiéhūn <strong>sān gè yuè</strong>.</span><span class="trans">She just got married three months ago.</span>
+*我 的 车 <em>刚</em> 买 <strong>两 天</strong>，开 的时候 小心 点。<span class="pinyin">Wǒ de chē <em>gāng</em> mǎi <strong>liǎng tiān</strong>, kāi de shíhou xiǎoxīn diǎn.</span><span class="trans">I just bought the car two days ago. Be careful when you drive.</span>
+
+</div>
+
+==See also==
+
+*[["Just now" with "gangcai"]]
+*[[Comparing "gang" and "gangcai"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|6}}
+{{Source|现代汉语八百词（增订本）|216}}
+{{Source|卓越汉语－公司实战篇|239}}
+{{Source|Chinese: An Essential Grammar, Second Edition|81}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|刚|A2|Subj. + 刚 + Verb|他 <em>刚</em> 走。|grammar point|ASGQJJYO}}
+{{Rel char|刚刚}}
+{{Similar|"Just now" with "gangcai"}}   
+{{Similar|Comparing "gang" and "gangcai"}}
+{{Used for|Expressing time and date}}
+{{Used for|Sequencing events in time}}
+{{POS|Adverbs}}
+{{Translation|Just}}

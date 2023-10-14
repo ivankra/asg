@@ -1,0 +1,60 @@
+<!-- Moderating positive adjectives with "hai" -->
+{{Grammar Box}} 
+
+Whenever you want to imply that something is "good," but also kind of "meh," you can use 还 (hái) in front of the "good" adjective.
+
+== Commonly Used Expressions ==
+
+Besides expressing [[Continuation with "hai"|continuation]], 还 (hái) can also be used to weaken positive adjectives. Used with the adjective "good," this is similar to saying "fairly good" or "pretty good" in English. It's also sometimes used by a speaker to be more modest. Below are some of the most common adjectives that get "toned down" by 还 (hái) in this structure.
+
+== Structure ==
+
+<div class="jiegou">
+
+Subj. + 还 + 好 / 可以 / 行 / 不错
+
+</div>
+
+In this pattern, 好 (hǎo), 可以 (kěyǐ), 行 (xíng), and 不错 (bùcuò) combined with 还 ()hái can all be taken to mean "pretty good" or "all right" or "decent" (but also kind of ''meh''... not ''great''). As in English, intonation and facial expressions help convey the meaning. If expectations were already low to begin with, 还可以 (hái kěyǐ) can have the sense of "pretty darn good;" it all depends on context and tone of voice.
+
+== Examples ==
+
+<div class="liju">
+
+* 我 <em>还 好</em>。 <span class="pinyin">Wǒ <em>hái hǎo</em>.</span><span class="trans">I'm OK.</span>
+* 爸爸 做 的 菜  <em>还 可以</em>。<span class="pinyin">Bàba zuò de cài <em>hái kěyǐ</em>.</span><span class="trans">The food that dad cooks is OK.</span>
+* 我们 老板 <em>还 不错</em>。<span class="pinyin">Wǒmen lǎobǎn <em>hái bùcuò</em>.</span><span class="trans">Our boss is not too bad.</span>
+* 这 家 店 <em>还 行</em>，不太 贵。<span class="pinyin">Zhè jià diàn <em>hái xíng</em>, bù tài guì.</span><span class="trans">This shop is OK. It's not too expensive.</span>
+* 我 男朋友 的 工资 <em>还 可以</em>。<span class="pinyin">Wǒ nánpéngyou de gōngzī <em>hái kěyǐ</em>.</span><span class="trans">My boyfriend's salary is OK.</span>
+* 新 的 办公室 <em>还 不错</em>。<span class="pinyin">Xīn de bàngōngshì <em>hái bùcuò</em>.</span><span class="trans">The new office is OK.</span>
+* 我 觉得 这里 的 菜 <em>还 可以</em>，没有 那么 难吃。<span class="pinyin">Wǒ juéde zhèlǐ de cài <em>hái kěyǐ</em>, méiyǒu nàme nánchī.</span><span class="trans">I think the food here is OK, it is not too bad-tasting.</span>
+* 这 个 牌子  <em>还 不错</em>，很 多 年轻 人 喜欢。<span class="pinyin">Zhège páizi <em>hái bùcuò</em>，hěn duō niánqīng rén xǐhuan.</span><span class="trans">This brand is not too bad. Many young people like it.</span>
+* 房子 <em>还 可以</em>，但是 有 点 贵。<span class="pinyin">Fángzi <em>hái kěyǐ</em>, dànshì yǒudiǎn guì.</span><span class="trans">The apartment is not too bad, but it is a bit expensive.</span>
+
+</div>
+
+== See also ==
+
+*[[Continuation with "hai"]]
+*[[Expressing "rather" with "bijiao"]]
+*[[The "zui" superlative]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|36}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|302}}
+{{Source|Exemplification of Common Sentence Patterns in Spoken Chinese 汉语口语常用句式例解|106-7}} 
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|366}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|还|A2|还 + Adj.|<em>还</em> 可以。<em>还</em> 好。|grammar point|ASGAY164}}
+{{Similar|Continuation with "hai"}}  
+{{Similar|Expressing "rather" with "bijiao"}}  
+{{Similar|The "zui" superlative}}
+{{Similar|Expressing "and also" with "hai"}}
+{{Used for|Adding more explanation}}
+{{Used for|Expressing quality}}
+{{POS|Adverbs with Adjectives}}

@@ -1,0 +1,193 @@
+<!-- Comparing "gang" and "gangcai" -->
+{{Grammar Box}} 
+
+刚 (gāng) and 刚才 (gāngcái) have similar meanings of "[[just]] (now)," but they differ on a few key uses.
+
+== 刚 as "Just Happened" ==
+
+刚 is actually an [[adverb]], and it is placed in front of the verb. It emphasizes that the action ''just'' happened a short time ago. Unsurprisingly, it is similar to the English "just." 刚刚 and 刚 are interchangeable in this case. 
+
+The key here is that "a short time ago" is relative and determined by the speaker. For this reason, 刚 can indicate that something "just" happened 1 second ago, 5 minutes ago, 2 hours ago, 3 weeks ago, or even a year ago. The absolute time is flexible, but from the speaker's perspective, it ''feels'' recent.
+
+=== 刚 Before a Verb ===
+
+One thing that confuses a lot of learners is that when you use 刚 with a verb, ''you normally don't need 了''. Keep that in mind while reading the following examples, and look for the explanation below.
+
+A few examples:
+
+<div class="liju">
+
+<ul>
+<li class="o">他 <em>刚</em> 到 。<span class="expl">This gives the impression that not only did he just get here, but he should still be here.</span><span class="pinyin">Tā <em>gāng</em> dào.</span><span class="trans">He just arrived.</span>
+<li class="o">我们 昨天 <em>刚</em> 到 。<span class="pinyin">Wǒmen zuótiān <em>gāng</em> dào.</span><span class="trans">We just arrived yesterday.</span>
+<li class="o">真 不巧 ，老板 <em>刚</em> 走 。<span class="pinyin">Zhēn bùqiǎo, lǎobǎn <em>gāng</em> zǒu.</span><span class="trans">What bad timing. The boss just left.</span>
+</ul>
+
+</div>
+
+It would be wrong to use 刚才 instead:
+
+<div class="liju">
+
+<ul>
+<li class="x">他 <em>刚才</em> 到 。<span class="pinyin">Tā <em>gāngcái</em> dào.</span></li>
+<li class="x">我们 昨天 <em>刚才</em> 到 。<span class="expl">刚才 should be used for events a lot closer in time than 昨天.</span><span class="pinyin">Wǒmen zuótiān <em>gāngcái</em> dào.</span></li>
+<li class="x">真 不巧 ，老板 <em>刚才</em> 走 。<span class="pinyin">Zhēn bùqiǎo, lǎobǎn <em>gāngcái</em> zǒu.</span></li>
+</ul>
+
+</div>
+
+And if you mean to say "when I first arrived in Shanghai," use 刚 instead of 刚才:
+
+<div class="liju">
+*我 <em>刚</em> 到 上海 的 时候 ，谁 都 不 认识 。<span class="pinyin">Wǒ <em>gāng</em> dào Shànghǎi de shíhou, shéi dōu bù rènshi.</span><span class="trans">I didn't know anyone when I had just arrived in Shanghai.</span>
+</div>
+
+=== 刚 or 刚刚 Before an Adjective ===
+
+刚, as an adverb, can also be placed in front of an adjective, while 刚才 can't be used this way. 刚 can also be used interchangeably with 刚刚.
+
+A few examples:
+
+<div class="liju">
+
+*他 的 感冒 <em>刚刚</em> 好 。<span class="pinyin">Tā de gǎnmào <em>gānggāng</em> hǎo.</span><span class="trans">He just recovered from his cold.</span>
+*天 <em>刚</em> 晴 。<span class="pinyin">Tiān <em>gāng</em> qíng.</span><span class="trans">The sky just became clear.</span>
+*牛肉 <em>刚</em> 熟 。 <span class="pinyin">Niúròu <em>gāng</em> shú.</span><span class="trans">The beef just got cooked.</span>
+
+</div>
+
+== 刚才 as "Just Now" ==
+
+刚才 is a [[time noun]] (like 今天 and 现在), and it expresses that the time elapsed is really short, in near-absolute terms.  We're talking no more than 1-30 minutes in most situations, and often less than 5 minutes. When used before a verb, 刚才 emphasizes something happened "''just now''."
+
+A few examples:
+
+<div class="liju">
+
+*他 <em>刚才</em> 哭 <strong>了</strong> 。<span class="expl">He was crying a moment ago but he stopped.</span><span class="pinyin">Tā <em>gāngcái</em> kū <strong>le</strong>.</span><span class="trans">He was crying just now.</span>
+*我 <em>刚才</em> 看到 他 <strong>了</strong> 。<span class="expl">Sounds like he's not here anymore; I just saw him, but don't see him now.</span><span class="pinyin">Wǒ <em>gāngcái</em> kàndào tā <strong>le</strong>.</span><span class="trans">I just now saw him.</span>
+*现在 我 感觉 比 <em>刚才</em> 好 一点 <strong>了</strong> 。<span class="pinyin">Xiànzài wǒ gǎnjué bǐ <em>gāngcái</em> hǎo yīdiǎn <strong>le</strong>.</span><span class="trans">I feel a little better now than just before.</span>
+
+</div>
+
+刚才, as a time noun, can directly modify a noun to indicate it is that one from "just now" or "just before," while 刚 can't be used this way. 
+
+<div class="liju">
+
+<ul>
+<li class="x"><em>刚</em> <strong>的 事情</strong> 太 让 人 生气 了 。<span class="pinyin"><em>Gāng</em> <strong>de shìqing</strong> tài ràng rén shēngqì le.</span><span class="trans">What just happened is really upsetting.</span></li>
+<li class="o"><em>刚才</em> <strong>的 事情</strong> 太 让 人 生气 了 。<span class="pinyin"><em>Gāngcái</em> <strong>de shìqing</strong> tài ràng rén shēngqì le.</span><span class="trans">What just happened is really upsetting.</span></li>
+</ul>
+
+</div>
+
+== 刚 and 刚才 with 了 ==
+
+You may have noticed that something interesting is going on with regards to [[了]] in the sentences with 刚 and 刚才. Namely, 了 is not usually required in sentences with 刚, but it is usually required in sentences with 刚才. This is because 刚才 refers to a time in the ''recent past'', and you're usually indicated that something ''happened just now'' (started and finished).
+
+Take these sentences for example:
+
+<div class="liju">
+*我 昨天 看 了 。<span class="pinyin">Wǒ zuótiān kàn le.</span><span class="trans">I looked at it yesterday.</span>
+*我 <em>刚才</em> 看 了 。<span class="pinyin">Wǒ gāngcái kàn le.</span><span class="trans">I looked at it just now.</span>
+</div>
+
+So these are both simple "subject + verb" sentences. Notice that when they refer to the ''past'' (including the one with 刚才), the action is completed and you need 了. You don't need 了 for things that haven't happened yet (they're just plans, and nothing is completed). And remember that 刚才 ''always refers to the past.''
+
+OK, now what about 刚? ''Why does it not need 了?'' The key is that you don't need a 了 in a sentence with 刚 if the verb ''already indicates a clear result''. So, to use the 看 example from above:
+
+<div class="liju">
+
+<ul>
+<li class="o">我 <em>刚</em> <strong>看到</strong> 。<span class="expl">Adding a 到 to 看 gives the verb a meaning of the result of "looking at."</span><span class="pinyin">Wǒ <em>gāng</em> <strong>kàndào</strong>.</span><span class="trans">I just saw it.</span></li>
+<li class="x">我 <em>刚</em> 看到 <strong>了</strong> 。<span class="expl">了 is not needed here as 看到 includes the result of "looking at."</span><span class="pinyin">Wǒ <em>gāng</em> kàndào <strong>le</strong>.</span><span class="trans">I just saw it.</span></li>
+<li class="o">我 <em>刚才</em> 看到 <strong>了</strong> 。<span class="expl">了 is needed with 刚才 because it feels so recent and unresolved.</span><span class="pinyin">Wǒ <em>gāngcái</em> kàndào <strong>le</strong>.</span><span class="trans">I saw it just now.</span></li>
+</ul>
+
+</div>
+
+A few more examples:
+
+<div class="liju">
+
+<ul>
+<li class="o">我 <em>刚</em> <strong>到</strong> 。<span class="expl">The verb 到 includes a clear result.</span><span class="pinyin">Wǒ <em>gāng</em> <strong>dào</strong>.</span><span class="trans">I just arrived.</span></li>
+<li class="o">你 <em>刚</em> <strong>知道</strong> 吗 ？<span class="expl">The verb 知道 always includes the result of "knowing."</span><span class="pinyin">Nǐ <em>gāng</em>
+ <strong>zhīdào</strong> ma?</span><span class="trans">You just found out?</span></li>
+<li class="o">宝宝 <em>刚</em> <strong>醒</strong> 。<span class="pinyin">Bǎobao <em>gāng</em> <strong>xǐng</strong>.</span><span class="expl">The verb 醒 includes a clear enough indication of result.</span><span class="trans">The baby just woke up.</span></li>
+</ul>
+
+</div>
+
+== 刚 and 刚才 with 没 ==
+
+There's also something going on with [[没]] in sentences with 刚 and 刚才. The deal here is that you can say something ''didn't happen '''just now''''' (刚才), but you can't say that something '''''just''' didn't happen'' (刚). [Saying that something "just didn't happen" only works in English if you interpret "just" to mean "simply."]
+
+The takeaway? Just don't use 刚 in sentences where you use 没 to negate the past.
+
+<div class="liju">
+
+<ul>
+<li class="x">我 <em>刚</em> <strong>没</strong> 看到 。<span class="pinyin">Wǒ <em>gāng</em> <strong>méi</strong> kàndào.</span><span class="expl">Don't use 刚 with 没 in the past.</span><span class="trans">I just didn't see it.</span></li>
+<li class="x">我 <em>刚</em> <strong>没</strong> 听懂 。<span class="pinyin">Wǒ <em>gāng</em> <strong>méi</strong> tīngdǒng.</span><span class="trans">I didn't understand just now.</span></li>
+</ul>
+
+</div>
+
+Use 没 with 刚才 (and no 了) to negate the past.
+
+<div class="liju">
+
+<ul>
+<li class="o">我 <em>刚才</em> <strong>没</strong> 看到 。<span class="pinyin">Wǒ <em>gāngcái</em> <strong>méi</strong> kàndào.</span><span class="trans">I didn't see it just now.</span></li>
+<li class="o">我 <em>刚才</em> <strong>没</strong> 听懂 。<span class="pinyin">Wǒ <em>gāngcái</em> <strong>méi</strong> tīngdǒng.</span><span class="trans">I didn't understand just now.</span></li>
+</ul>
+
+</div>
+
+== Example Dialog ==
+
+<div class="liju">
+
+<ul class="dialog">
+<li><span class="speaker">A:</span> 你 <em>刚才</em> 去 哪儿 了 ？<span class="pinyin">Nǐ <em>gāngcái</em> qù nǎr le?</span><span class="trans">Where did you go just now?</span></li>
+<li><span class="speaker">B:</span> 我 去 上 厕所 了 。<em>刚</em> 回来 。<span class="pinyin">Wǒ qù shàng cèsuǒ le. <em>Gāng</em> huílái.</span><span class="trans">I went to the bathroom. I just got back.</span></li>
+</ul>
+
+</div>
+
+== See also ==
+
+*[["Just now" with "gangcai"]] 
+*[["Just" with "gang"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|50}}
+{{Source|现代汉语八百词（增订本）|216}}
+{{Source|现代汉语虚词例释|190}}
+{{Source|现代汉语八百词（增订本）|217}}
+{{Source|对外汉语教学语法释疑201例|28}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|40- 2}}
+{{Source|卓越汉语－公司实战篇|239}}
+
+=== Dictionaries ===
+
+{{Source|HSK Standard Course 4上|6}}
+{{Source|现代汉语词典（第5版）|446}}
+
+[[Category:grammar comparison]]
+{{HSK|HSK3}}
+{{HSK|HSK4}}
+{{Basic Grammar|刚|B1|刚 vs. 刚才|你 <em>刚才</em> 去 哪儿 了？我  <em>刚</em> 回来 。|grammar point|ASGJFFWG}}
+{{Rel char|刚才}}
+{{Similar|"Just now" with "gangcai"}}
+{{Similar|"Just" with "gang"}}
+{{Used for|Describing actions}}
+{{Used for|Expressing time and date}}
+{{Translation|just}}
+{{Translation|just now}}
+{{Comparison|Adverbs}}

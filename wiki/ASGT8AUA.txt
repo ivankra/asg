@@ -1,0 +1,67 @@
+<!-- Comparing "zongsuan" and “zhongyu" -->
+{{Grammar Box}} 
+[[Adverb]]s is 总算 (zǒngsuàn) and 终于 (zhōngyú) both can be translated as "finally" or "in the end," but they subtly different in tone. 
+
+== Same Grammatical Structure ==
+
+Grammatically, 总算 and 终于 are used basically the same way. They are both adverbs, and they can be placed before the subject or after the subject. However, in comparison to 终于, 总算 is seldom used ''before'' the subject. In the simple sentences given below, however, they are fully interchangeable.
+
+<div class="jiegou">
+Subj. + 总算 / 终于 + Verb
+</div>
+
+== Examples ==
+
+<div class="liju">
+*你 <em>总算</em> 来了 ！<span class="pinyin">Nǐ <em>zǒngsuàn</em> lái le!</span><span class="trans">You finally came!</span>
+*我 <em>终于</em> 懂 了 。<span class="pinyin">Wǒ <em>zhōngyú</em> dǒng le.</span><span class="trans">I finally understood it.</span>
+*雨 <em>总算</em> 停 了 。<span class="pinyin">Yǔ <em>zǒngsuàn</em> tíng le.</span><span class="trans">The rain finally stopped.</span>
+*我 <em>终于</em> 找到 你 了 ！<span class="pinyin">Wǒ <em>zhōngyú</em> zhǎodào nǐ le!</span><span class="trans">I finally found you!</span>
+*飞机 <em>总算</em> 起飞 了 ！<span class="pinyin">Fēijī <em>zǒngsuàn</em> qǐfēi le!</span><span class="trans">The plane is finally taking off!</span>
+</div>
+
+== 总算 is More Informal and Impatient ==
+
+Both 总算 and 终于 express that an action has ''finally'' happened after a long wait, however 总算 implies that the speaker had a bit of an agonizing wait, and it has a heavier tone better suited to complaints. 
+
+== Examples ==
+
+<div class="liju">
+* 谢天谢地，你 <em>总算</em> 来 了。<span class="pinyin">Xiè tiān xiè dì, nǐ <em>zǒngsuàn</em> lái le.</span><span class="trans">Thank God, you ''finally'' came.</span>
+* <em>总算</em> 没 迟到。<span class="pinyin"><em>Zǒngsuàn</em> méi chídào.</span><span class="trans">You ''finally'' didn't arrive late.</span>
+* 她 的 感冒 <em>总算</em> 好 了。<span class="pinyin">Tā de gǎnmào <em>zǒngsuàn</em> hǎo le.</span><span class="trans">She ''finally'' got over her cold.</span>
+</div>
+
+== 终于 is more formal and objective ==
+
+终于 is more formal than 总算 (in other words, 总算 is more for spoken Chinese), and it also has a more objective feel (meaning that the speaker isn't just being impatient and there was indeed a very long wait for this thing that ''finally'' happened).
+
+<div class="liju">
+*你 <em>终于</em> 决定 了！<span class="pinyin">Nǐ <em>zhōngyú</em> juédìng le!</span><span class="trans">You finally decided!</span>
+*<em>终于</em> 要 放假 了，开心 吧？<span class="pinyin"><em>Zhōngyú</em> yào fàngjià le, kāixīn ba?</span><span class="trans">You're finally going on vacation. You're happy about it, aren't you?</span>
+*你们 合作 的 项目 <em>终于</em> 成功 了!<span class="pinyin">Nǐmen hézuò de xiàngmù <em>zhōngyú</em> chénggōng le!</span><span class="trans">This project you've been working on together has finally succeeded!</span>
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|现代汉语八百词（增订本）|687}}
+
+{{Source|现代汉语虚词例释| 653}}
+
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|18}}
+
+=== Dictionaries ===
+
+{{Source|现代汉语词典（第5版）|1814, 1767}}
+
+=== Websites ===
+* Chinesegrammar.info: [http://chinesegrammar.info/vocabulary/zhong1yu2-zui4hou4-difference/ A blog with some information on 终于 by comparing it to 最后.]
+
+[[Category:grammar comparison]]
+{{Basic Grammar|总算|B2|总算 vs 终于|今天 的 会 <em>终于</em> 开 完 了！你 <em>总算</em> 来 了。|grammar point|ASGT8AUA}}
+{{Rel char|终于}}
+{{Similar|Expressing "finally" with "zhongyu"}}
+{{Used for|Describing actions}}
+{{Comparison|Auxiliary Words}}

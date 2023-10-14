@@ -1,0 +1,52 @@
+<!-- Expressing "then" with "jiu" -->
+{{Grammar Box}} 
+The adverb [[就]] (jiù) has quite a few uses in Chinese, and appears in several common patterns. This is the first and simplest usage you need to know, though, and it means something similar to "[[then]]."
+
+== Structure ==
+
+Usually the first part of the sentence will set up a situation. Then the second part, with 就 (jiù) leading the way, indicates what should be done as a result.
+
+<div class="jiegou">
+
+..., 就 + Verb Phrase
+
+</div>
+
+== Examples ==
+
+Not always easy to translate, you could think of 就 (jiù) as meaning "just" or "then."
+
+<div class="liju">
+
+* 你 喜欢 喝 奶茶，我们 <em>就</em> 买 奶茶 吧。<span class="pinyin">Nǐ xǐhuan hē nǎichá, wǒmen <em>jiù</em> mǎi nǎichá ba.</span><span class="trans">So you like milk tea. Then we'll buy milk tea.</span>
+* 你 最 有 经验，<em>就</em> 听 你的 吧。<span class="pinyin">Nǐ zuì yǒu jīngyàn,  <em>jiù</em> tīng nǐ de ba.</span><span class="trans">You have the most experience. We'll just listen to you.</span>
+* 我 听到 这个 坏 消息，<em>就</em> 给 你 打 电话 了。<span class="pinyin">Wǒ tīngdào zhège huài xiāoxi, <em>jiù</em> gěi nǐ dǎ diànhuà le.</span><span class="trans">As soon as I heard this bad news, I called you.</span>
+* 你 现在 身体 不 好，<em>就</em> 不 要 喝酒 了。<span class="pinyin">Nǐ xiànzài shēntǐ bù hǎo, <em>jiù</em> bùyào hē jiǔ le.</span><span class="trans">Your health isn't good now. So just stop drinking.</span>
+* 他 最近 太 累 了，<em>就</em> 生病 了。<span class="pinyin">Tā zuìjìn tài lèi le, <em>jiù</em> shēngbìng le.</span><span class="trans">He's been too tired recently, and then he got sick.</span>
+* 今天 下雨，我们 <em>就</em> 不 出去 了。<span class="pinyin">Jīntiān xiàyǔ, wǒmen <em>jiù</em> bù chūqù le.</span><span class="trans">It's going to rain today. So let's just not go out.</span>
+* 他 妈妈 没有 给 他 买 书包，他 <em>就</em> 哭 了。<span class="pinyin">Tā māma méiyǒu gěi tā mǎi shūbāo, tā <em>jiù</em> kū le.</span><span class="trans">His mom didn't buy him the backpack, and then he just started crying.</span>
+* <em>就</em> 在 这 家 店 吃饭 吧，那 家 店 人 太 多 了。<span class="pinyin"><em>Jiù</em> zài zhè jiā diàn chīfàn ba, nà jiā diàn rén tài duō le .</span><span class="trans">Let's just eat at this restaurant. That one is too crowded.</span>
+* <em>就</em> 去 看 电影 吧。<span class="pinyin"><em>Jiù</em> qù kàn diànyǐng ba.</span><span class="trans">Let's just go watch a movie.</span>
+
+</div>
+
+== See also ==
+
+*[[就]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|36}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|就|A2|就 + Verb Phrase|我们 现在 有 时间，<em>就</em> 去吧。|grammar point|ASGEB54D}}
+{{Similar|Expressing "as one likes" with "jiu"}}  
+{{Similar|Expressing "if... then..." with "ruguo... jiu..."}}  
+{{Similar|Expressing "if" with "ruguo... dehua"}}  
+{{Similar|Expressing earliness with "jiu"}}  
+{{Used for|Expressing attitude}}
+{{POS|Adverbs}}
+{{Translation|then}}

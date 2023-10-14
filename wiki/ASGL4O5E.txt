@@ -1,0 +1,67 @@
+<!-- Expressing indifference with "jiu" -->
+{{Grammar Box}} 
+
+One of the many uses of 就 (jiù) is to add emphasis to indifference. This is similar to when we say in English "if you want to do it, then just do it!" and swapping out the "do" in that sentence for some other verb. 
+
+== Affirmative Form ==
+
+If you've learned to [[Expressing "as one likes" with "jiu"|express "as one likes" with 就]], then this pattern should feel familiar. It has a very different tone, however, better suited to higher-level learners.
+
+=== Structure ===
+
+This structure will usually add emphasis to what are saying, and it often expresses that the speaker has an "I don't care" attitude. 
+
+<div class="jiegou">
+Verb + 就 + Verb 
+</div>
+
+Note that the verb in this pattern is the same one repeating.
+
+=== Examples ===
+
+<div class="liju">
+*坏了 <em>就</em> 坏了 ，再 买 新的 。<span class="pinyin">Huài le <em>jiù</em> huài le, zài mǎi xīn de.</span><span class="trans">If it's broken, leave it there. We can buy a new one.</span>
+*走 <em>就</em> 走 ，我 早就 不 想 干 了 ！<span class="pinyin">Zǒu <em>jiù</em> zǒu, wǒ zǎo jiù bù xiǎng gàn le!</span><span class="trans">Sure, I'll leave. I wanted to quit a long time ago!</span>
+*反对 <em>就</em> 反对 ，我 不 在乎 。<span class="pinyin">Fǎnduì <em>jiù</em> fǎnduì, wǒ bù zàihu.</span><span class="trans">If they oppose it, let them oppose it. I don't care.</span>
+*赌 <em>就</em> 赌 ，谁 怕 谁 ？<span class="pinyin">Dǔ <em>jiù</em> dǔ, shéi pà shéi?</span><span class="trans">If you want to take a bet, let's take a bet. You think you scare me?</span>
+*离婚 <em>就</em> 离婚 ，我 早就 想 离 了 ！<span class="pinyin">Líhūn <em>jiù</em> líhūn, wǒ zǎo jiù xiǎng lí le!</span><span class="trans">If you want to get a divorce, let's do it. I wanted to do this a long time ago!</span>
+</div>
+
+== Negative Form ==
+
+=== Structure ===
+
+<div class="jiegou">
+不 + Adj. / Verb + 就 + 不 + Adj. / Verb 
+</div>
+
+The 不 in this pattern can also be replaced with 没. 
+
+=== Examples ===
+
+<div class="liju">
+*她 <strong>不</strong> 高兴 <em>就</em> <strong>不</strong> 高兴 ，不 是 我 的 错 。<span class="pinyin">Tā <strong>bù</strong> gāoxìng <em>jiù</em> <strong>bù</strong> gāoxìng, bù shì wǒ de cuò.</span><span class="trans">If she's unhappy, she's unhappy. It's not like it's my fault.</span>
+*<strong>不</strong> 吃 <em>就</em> <strong>不</strong> 吃 ，你 以为 我 很 想 吃 啊 ？<span class="pinyin"><strong>Bù</strong> chī <em>jiù</em> <strong>bù</strong> chī, nǐ yǐwéi wǒ hěn xiǎng chī a?</span><span class="trans">I'm fine with not eating. You think I really want to eat?</span>
+*<strong>不</strong> 帮 <em>就</em> <strong>不</strong> 帮 ，我 又 不 是 只有 你 一 个 朋友 ！<span class="pinyin"><strong>Bù</strong> bāng <em>jiù</em> <strong>bù</strong> bāng, wǒ yòu bù shì zhǐyǒu nǐ yīgè péngyou!</span><span class="trans">Fine, don't help if you don't want to. You're not the only friend that I've got.</span>
+*你们 <strong>不</strong> 懂 <em>就</em> <strong>不</strong> 懂 ，我 说 那么 多 也 没 用 。<span class="pinyin">Nǐmen <strong>bù</strong> dǒng <em>jiù</em> <strong>bù</strong> dǒng, wǒ shuō nàme duō yě méi yòng.</span><span class="trans">You just really don't get it. There's no point in me explaining so much.</span>
+*他 <strong>没</strong> 来 <em>就</em> <strong>没</strong> 来 ，我 一个人 可以 搞定 。<span class="pinyin">Tā <strong>méi</strong> lái <em>jiù</em> <strong>méi</strong> lái, wǒ yīgèrén kěyǐ gǎodìng.</span><span class="trans">It's fine that he didn't show up. I can handle it by myself.</span>
+</div>
+
+== See also ==
+
+*[[Comparing "cai" and "jiu"]]
+*[[Events in quick succession with "yi... jiu"]]
+*[[Expressing earliness with "jiu" ]]
+*[[Limiting scope with "jiu"]]
+*[["If…, then…" with "ruguo…, jiu…"]]
+
+== Sources and further reading ==
+
+{{Source|现代汉语八百词|316-317}}
+
+[[Category:B2 grammar points]]
+{{Basic Grammar|就|B2|Verb + 就 + Verb|走 <em>就</em> 走 ，我 早就 不 想 干 了 ！|grammar point|ASGL4O5E}}
+{{Similar|Conditions with "yao" and "jiu"}}
+{{Similar|Expressing "as one likes" with "jiu"}}
+{{Used for|Expressing attitude}}
+{{Structure|Sentence Patterns}}

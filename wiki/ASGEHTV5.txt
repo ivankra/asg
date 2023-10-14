@@ -1,0 +1,51 @@
+<!-- Expressing "a bit too" -->
+{{Grammar Box}} 
+了一点儿 (le yīdiǎnr), can be added after an adjective to mean "just a little bit too...." It is softer in tone than [[Expressing "excessively" with tai|using 太]], and so is often used when the speaker doesn't want to insult the listener by criticizing too bluntly.
+
+== Structure ==
+
+In this structure, the overall effect of the pattern depends on the preceding adjective. If the adjective in the structure has a negative meaning, then it is used to show the speaker’s dissatisfaction (a sort of complaint). If the adjective in the structure has a positive meaning, then it usually reflects a change.
+
+<div class="jiegou">
+Adj. + 了（一）点儿
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*这 条 牛仔裤 好像 <strong>短</strong> <em>了 点儿</em>。<span class="pinyin">Zhè tiáo niúzǎikù hǎoxiàng <strong>duǎn</strong> <em>le diǎnr</em>.</span><span class="trans">This pair of jeans seems a little short for me.</span>
+*那个 地方 离 我 家 <strong>远</strong> <em>了 一点儿</em>。<span class="pinyin">Nàge dìfang lí wǒ jiā <strong>yuǎn</strong> </em>le yīdiǎnr</em>.</span><span class="trans">That place is a little too far from my home.</span>
+*这 件 衬衫 <strong>小</strong> <em>了 点儿</em> ，我 想 换 一 件。<span class="pinyin">Zhè jiàn chènshān <strong>xiǎo</strong> <em>le diǎnr</em>, wǒ xiǎng huàn yī jiàn.</span><span class="trans">This shirt is a little small. I want to exchange it for another one.</span>
+*他 给 的 这个 红包 好像 <strong>少</strong> <em>了 点儿</em> 。<span class="pinyin">Tā gěi de zhège hóngbāo hǎoxiàng <strong>shǎo</strong> <em>le diǎnr</em>.</span><span class="trans">The amount of money he gave in the red envelope seems a bit small.</span>
+*你 管 得 是 不 是 <strong>多</strong> <em>了 点儿</em> ？<span class="pinyin">Nǐ guǎn de shì bu shì <strong>duō</strong> <em>le diǎnr</em>?</span><span class="trans">Don't you think you're getting a little too involved?</span>
+*现在 说 “对不起” 是 不 是 <strong>晚</strong> <em>了 点儿</em> ？<span class="pinyin">Xiànzài shuō “duìbùqǐ” shì bu shì <strong>wǎn</strong> <em>le diǎnr</em>?</span><span class="trans">Isn't it a little too late to say sorry now?</span>
+*私立 学校 是 <strong>贵</strong> <em>了 点儿</em> ，不过 老师 很 优秀 。<span class="pinyin">Sīlì xuéxiào shì <strong>guì</strong> <em>le diǎnr</em>, bùguò lǎoshī hěn yōuxiù.</span><span class="trans">Private schools are a little expensive, but the teachers are excellent.</span>
+*你 这么 高 ，你 这个 男朋友 是 不 是 <strong>矮</strong> <em>了 点儿</em> ？<span class="pinyin">Nǐ zhème gāo, nǐ zhège nánpéngyou shì bu shì <strong>ǎi</strong> <em>le diǎnr</em>?</span><span class="trans">You are so tall. Isn't your boyfriend a little short for you?</span>
+*这 道 菜 <strong>咸</strong> <em>了 点儿</em> ，可以 换 一 盘 吗？<span class="pinyin">Zhè dào cài <strong>xián</strong> <em>le diǎnr</em>, kěyǐ huàn yī pán ma?</span><span class="trans">This dish is a little too salty, could you make another one?</span>
+*对 五 岁 的 孩子 来说 ，这 个 问题 稍微 <strong>复杂</strong> <em>了 一点儿</em> 。<span class="pinyin">Duì wǔ suì de háizi lái shuō, zhège wèntí shāowēi <strong>fùzá</strong> <em>le yīdiǎnr</em>.</span><span class="trans">This question is just a bit complicated for a five-year-old child.</span>
+
+</div>
+
+稍微 (shāowēi) can also be added before the adjective to further soften the tone.
+
+==See also==
+*[[Expressing "much more" in comparisons]]
+*[[Expressing "excessively" with tai]]
+
+== Sources  and further reading ==
+
+=== Books ===
+
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|6- 8}}
+
+[[Category: B2 grammar points]]
+[[Category: Adjectives]]
+{{Basic Grammar|一点|B2|Adj. + 了 + (一) 点儿|那个 地方 离 我家 <strong>远</strong> <em>了 点儿</em> 。|grammar point|ASGEHTV5}}
+{{Rel char|点}}
+{{Similar|Expressing "much more" in comparisons}}
+{{Similar|Comparing "youdian" and "yidian"}}
+{{Similar|Expressing "excessively" with tai}}
+{{Similar|Expressing "rather" with "bijiao"}}    
+{{POS|Adjectives}}
+{{Used for| Expressing quality}}

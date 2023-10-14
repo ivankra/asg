@@ -1,0 +1,285 @@
+<!-- Separable verb -->
+{{Grammar Box}} 
+
+{{AKA|离合词 (líhécí)|verb-object phrase}}
+
+"Separable verbs" get their name from their ability to "separate" into two parts (a [[verb]] part and an [[object]] part), with other words in between. In fact, you could also simply call separable verbs "verb-object [[phrase]]s."
+
+== What Are Separable Verbs? ==
+
+Separable verbs are "verb-object [[phrase]]s." They consist of two characters: the first is the verb, and the second is the object. Very often, these two will appear together, seemingly acting as a single verb, as in 吃饭, "to eat," 见面, "to meet," or 睡觉, "to sleep." But the two can also separate, and the verb can also be used without the object.
+
+=== Structure ===
+
+<div class="jiegou">
+Verb + Object
+</div>
+
+<div class="jiegou">
+Verb... [Other Stuff]... Object
+</div>
+
+=== The Typical Learner Mistake ===
+
+Let's look at a typical example in Chinese, using the verb 见面, meaning "to meet." 见 is the verb; 面 is the object, which literally means "face," but is never translated as such. The mistake everyone makes is to put an object after 见面. You can't do this, though, because 见面 ''already has its own object''.
+
+<div class="liju">
+
+<ul>
+<li class="o">我 没有 时间 <em>见面</em> 。<span class="expl">It may seem like it has no object, but 面 is the object.</span><span class="pinyin">Wǒ méiyǒu shíjiān <em>jiànmiàn</em>.</span><span class="trans">I don't have time to meet.</span></li>
+<li class="o">我 没有 时间 <em>见</em> <strong>你</strong> 。<span class="expl">Here, 见 is the verb and 你 is the object.</span><span class="pinyin">Wǒ méiyǒu shíjiān <em>jiàn</em> <strong>nǐ</strong>.</span><span class="trans">I don't have time to meet you.</span></li>
+<li class="x">我 没有 时间 <em>见面</em> <strong>你</strong> 。<span class="expl">面 is the object, so adding 你 after it is wrong.</span><span class="pinyin">Wǒ méiyǒu shíjiān <em>jiànmiàn</em> <strong>nǐ</strong>.</span></li>
+</ul>
+
+</div>
+
+The key features of separable verbs are:
+
+# Many separable verbs can't be easily translated into other languages in a way that makes both the verb and the object part clear. For instance, 见面 ("to meet"), 睡觉 ("to sleep"), and 游泳 ("to swim") are such examples. In these examples, it's just not easy to think of the objects as a separate word.
+# The relationship between the verb and the object in a separable verb pair is very close; adding the object to the verb is sort of the "default form" of the verb, even if the verb part can be used without the object.
+# Separable verbs are a source of frequent errors from learners of Chinese because you can't add an object after a separable verb. Many learners don't know if a verb is a regular two-character verb like 工作 or a verb-object construct like 开会. ''If you don't know, you're sure to use it wrong.''
+
+'''The key to using separable verbs correctly is to remember that they are "Verb + Object" constructs.'''  The verb alone must be treated as a verb, and the object cannot be treated as part of the verb.
+
+== How to Use Separable Verbs ==
+
+''The first step in mastering separable verbs is knowing [[List of separable verbs|which verbs are actually separable verbs]].''
+
+Some of the more common separable verbs you should already know include: 吃饭 (chīfàn), 出差 (chūchāi), 读书 (dúshū), 过年 (guònián), 见面 (jiànmiàn), 讲话 (jiǎnghuà), 开车 (kāichē), 开会 (kāihuì), 看病 (kànbìng), 聊天 (liáotiān), 生气 (shēngqì), 谈话 (tánhuà), 洗澡 (xǐzǎo), 游泳 (yóuyǒng).
+
+Slightly less common (but still useful for intermediate learners) separable verbs include: 帮忙 (bāngmáng), 分手 (fēnshǒu), 结婚 (jiéhūn), 请假 (qǐngjià), 离婚 (líhūn), 跑步 (pǎobù), 报名 (bàomíng), 道歉 (dàoqiàn), 散步 (sànbù), 排队 (páiduì).
+
+Perhaps the most common examples of separable verbs that beginners first struggle with are 见面 and 睡觉. What makes them especially hard is that the "object" part of each word seem to have no counterpart in English. "Meet face?" "Sleep a sleep?" It all feels very odd. 
+
+Below we will introduce separable verbs in more detail, provide more examples, and also offer more specific cases which can trip up learners.
+
+=== Using 跟 with Separable Verbs ===
+
+A few verbs allow you to effectively add an additional object by using a 跟 (or 和) phrase before the verb.
+
+==== Structure ====
+
+<div class="jiegou">
+跟 + Person + Verb + Object
+</div>
+
+In this pattern, the verb-object construct remains unseparated.
+
+==== Examples ====
+
+<div class="liju">
+
+*我 明天 <strong>跟</strong> 他 <em>见面</em> 。<span class="pinyin">Wǒ míngtiān <strong>gēn</strong> tā <em>jiànmiàn</em>.</span><span class="trans">I'll meet him tomorrow.</span>
+*我 不要 <strong>跟</strong> 她 <em>结婚</em> 。<span class="pinyin">Wǒ bùyào <strong>gēn</strong> tā <em>jiéhūn</em>.</span><span class="trans">I don't want to marry her.</span>
+*你 还 没有 <strong>跟</strong> 我 <em>道歉</em> 。<span class="pinyin">Nǐ hái méiyǒu <strong>跟</strong> wǒ <em>dàoqiàn</em>.</span><span class="trans">You still haven't apologized to me.</span>
+
+</div>
+
+You'll have to learn which separable verbs allow this pattern on a case-by-case basis.
+
+=== Where to put 了, 过, 着 with Separable Verbs ===
+
+Hint: they go after the verb, ''not'' the object.
+
+==== Structure ====
+
+<div class="jiegou">
+Verb + 了 / 过 / 着 + Object
+</div>
+
+==== Examples ====
+
+见面  (jiànmiàn)
+
+<div class="liju">
+
+*我们 昨天 <em>见</em> <strong>了</strong> <em>面</em> 。<span class="expl">separated, 了 inserted</span><span class="pinyin">Wǒmen zuótiān <em>jiàn</em> <strong>le</strong> <em>miàn</em>.</span><span class="trans">We met yesterday.</span>
+*我们 <em>见</em> <strong>过</strong> <em>面</em> 。<span class="expl">separated, 过 inserted</span><span class="pinyin">Wǒmen <em>jiàn</em> <strong>guo</strong> <em>miàn</em>.</span><span class="trans">We've met.</span>
+
+</div>
+
+开会 (kāihuì)
+
+<div class="liju">
+
+*我们 早上 <em>开</em> <strong>了</strong> <em>会</em> 。<span class="pinyin">Wǒmen zǎoshang <em>kāi</em> <strong>le</strong> <em>huì</em>.</span><span class="trans">We had a meeting in the morning.</span>
+*你们 <em>开</em> <strong>过</strong> <em>会</em> 了 吗 ？<span class="pinyin">Nǐmen <em>kāi</em> <strong>guo</strong> <em>huì</em> le ma?</span><span class="trans">Have you had the meeting yet?</span>
+*我们 正 <em>开</em> <strong>着</strong> <em>会</em> 呢 。<span class="pinyin">Wǒmen zhèng <em>kāi</em> <strong>zhe</strong> <em>huì</em> ne.</span><span class="trans">We're having a meeting right now.</span>
+
+</div>
+
+吃饭 (chīfàn)
+
+<div class="liju">
+
+*他 昨天 来 我 家 了 ，还 <em>吃</em> <strong>了</strong> <em>饭</em> 。<span class="pinyin">Tā zuótiān lái wǒ jiā le, hái <em>chī</em> <strong>le</strong> <em>fàn</em>.</span><span class="trans">He came to my house yesterday and he ate a meal with us.</span>
+*他 <em>吃</em> <strong>过</strong> <em>饭</em> 了 吗 ？<span class="pinyin">Tā <em>chī</em> <strong>guo</strong> <em>fàn</em> le ma?</span><span class="trans">Has he eaten yet?</span>
+*他 正 <em>吃</em> <strong>着</strong> <em>饭</em> 呢 。<span class="pinyin">Tā zhèng <em>chī</em> <strong>zhe</strong> <em>fàn</em> ne.</span><span class="trans">He's eating a meal right now.</span>
+
+</div>
+
+''Note: unlike the particles 过 and 着, the particle 了 is especially tricky, and [[Advanced "le" after an object|it can also appear after the object]]. So it can be correct in multiple places.''
+
+=== Where to Put Measure Words with Separable Verbs ===
+
+You guessed it: they go after the verb, ''not'' the object.
+
+==== Structure ====
+
+<div class="jiegou">
+Verb + [Measure Word Phrase] + Object
+</div>
+
+==== Examples ====
+
+见面 (jiànmiàn)
+
+<div class="liju">
+*我们 <em>见</em> <strong>个</strong> <em>面</em> 吧 。<span class="pinyin">Wǒmen <em>jiàn</em> <strong>gè</strong> <em>miàn</em> ba.</span><span class="trans">Let's meet.</span>
+*我们 <em>见</em> 过 <strong>几 次</strong> <em>面</em>。<span class="pinyin">Wǒmen <em>jiàn</em> guo <strong>jǐ cì</strong> <em>miàn</em>.</span><span class="trans">We've met a few times.</span>
+</div>
+
+吃饭 (chīfàn)
+
+<div class="liju">
+*我们 一起 <em>吃</em> 过 <strong>几 次</strong> <em>饭</em> 。<span class="pinyin">Wǒmen yīqǐ <em>chī</em> guo <strong>jǐ cì</strong> <em>fàn</em>.</span><span class="trans">We've had several meals together.</span>
+*老板 请 大家 <em>吃</em> 了 <strong>一 顿</strong> <em>饭</em>  。<span class="pinyin">Lǎobǎn qǐng dàjiā <em>chī</em> le <strong>yī dùn</strong> <em>fàn</em>.</span><span class="trans">The boss treated everyone to dinner.</span>
+</div>
+
+睡觉 (shuìjiào)
+
+<div class="liju">
+*晚安！<em>睡</em> <strong>个</strong> <em>好 觉</em> 。<span class="pinyin">Wǎn'ān! <em>Shuì</em> <strong>gè</strong> <em>hǎo jiào</em>.</span><span class="trans">Good night! I hope you have a good sleep.</span>
+*昨晚 我 只 <em>睡</em> 了 <strong>两 个 小时</strong> <em>觉</em> 。<span class="pinyin">Zuówǎn wǒ zhǐ <em>shuì</em> le <strong>liǎng gè xiǎoshí</strong> <em>jiào</em>.</span><span class="trans">I only slept two hours last night.</span>
+</div>
+
+=== How to Reduplicate Separable Verbs ===
+
+[[Verb reduplication|Reduplication]] is a way to express the casual nature of a verb or that it happens only briefly. When it comes to separable verbs, ''only the verb part reduplicates.''
+
+==== Structure ====
+
+<div class="jiegou">
+Verb + Verb + Object
+</div>
+
+==== Examples ====
+
+<div class="liju">
+
+<ul>
+<li class="o">见<em>见</em> 面<span class="pinyin">jiàn<em>jian</em> miàn</span></li>
+<li class="o">吃<em>吃</em> 饭<span class="pinyin">chī<em>chi</em> fàn</span></li>
+<li class="o">聊<em>聊</em> 天<span class="pinyin">liáo<em>liao</em> tiān</span></li>
+</ul>
+
+<ul>
+<li class="x">吃 <strong>饭</strong> 吃饭<span class="expl">饭 is the object; it should not be repeated.</span><span class="pinyin">chī <strong>fàn</strong> chīfàn</span></li>
+<li class="x">聊 <strong>天</strong> 聊天<span class="expl">天 is the object; it should not be repeated.</span><span class="pinyin">liáo <strong>tiān</strong> liáotiān</span></li>
+</ul>
+
+</div>
+
+Note that you can't put 一下 after separable verbs to express that it happened briefly. 
+
+<div class="liju">
+
+<ul>
+<li class="x">见面 <strong>一下</strong><span class="pinyin">jiànmiàn <strong>yīxià</strong></span></li>
+</ul>
+
+</div>
+
+== Common Examples and Common Mistakes with Separable Verbs ==
+
+'''帮忙 (bāngmáng) to help; to do a favor.''' 帮 is the verb; 忙 is the object, meaning "a favor."
+
+<div class="liju">
+
+<ul>
+<li class="x">我们 可以 <em>帮忙</em> 你 。<span class="pinyin">Wǒmen kěyǐ <em>bāngmáng</em> nǐ.</span></li>
+<li class="o">我们 可以 <em>帮 你</em> 。<span class="pinyin">Wǒmen kěyǐ <em>bāng nǐ</em>.</span><span class="trans">We can help you.</span></li>
+<li class="o">我们 可以 <em>帮忙</em> 。<span class="pinyin">Wǒmen kěyǐ <em>bāngmáng</em>.</span><span class="trans">We can do (you) this favor.</span></li>
+</ul>
+
+If you want to ask someone to do you a favor, check this out:
+
+<ul>
+<li class="o">你 可以 <em>帮</em> 我 <strong>一个 忙</strong> 吗 ？<span class="pinyin">Nǐ kěyǐ <em>bāng</em> wǒ <strong>yī gè máng</strong> ma?</span><span class="trans">Can you do me a favor?</span></li>
+</ul>
+
+</div>
+
+'''结婚 (jiéhūn) to get married.''' 结 is the verb; 婚 acts as the object, meaning "marriage." However, 婚 cannot typically be used as a noun by itself.
+
+<div class="liju">
+
+<ul>
+<li class="x">我 想 <em>结婚</em> 她 。<span class="pinyin">Wǒ xiǎng <em>jiéhūn</em> tā.</span></li>
+<li class="o">我 想 <strong>跟</strong> 她 <em>结婚</em> 。<span class="expl">the prepositional phrase, literally "with her," comes before the verb</span><span class="pinyin">Wǒ xiǎng <strong>gēn</strong> tā <em>jiéhūn</em>.</span><span class="trans">I want to get married to her.</span></li>
+</ul>
+
+</div>
+
+'''聊天 (liáotiān) to chat; to talk (about things in general).''' 聊 is the verb; 天 acts as the object.
+
+<div class="liju">
+
+<ul>
+<li class="x">他 很 喜欢 <em>聊天</em> 女生 。<span class="pinyin">Tā hěn xǐhuan <em>liáotiān</em> nǚshēng.</span></li>
+<li class="o">他 很 喜欢 <em>聊</em> 女生 。<span class="pinyin">Tā hěn xǐhuan <em>liáo</em> nǚshēng.</span><span class="trans">He loves talking about girls.</span></li>
+<li class="o">他 很 喜欢 <strong>跟</strong> 女生 <em>聊天</em> 。<span class="expl">the prepositional phrase, literally "with you," comes before the verb</span><span class="pinyin">Tā hěn xǐhuan <strong>gēn</strong> nǚshēng <em>liáotiān</em>.</span><span class="trans">He loves talking with girls.</span></li>
+</ul>
+
+Literally, 天 doesn't mean anything. The object needs to be something specific if you want to make the topic  clear.
+
+<ul>
+<li class="x">爸爸 不 喜欢 <em>聊天</em> 他 的 工作 。<span class="pinyin">Bàba bù xǐhuan <em>liáotiān</em> tā de gōngzuò.</span>
+<li class="o">爸爸 不 喜欢 <em>聊</em> 他 的 工作 。<span class="pinyin">Bàba bù xǐhuan <em>liáo</em> tā de gōngzuò.</span><span class="trans">My father doesn't like to talk about his work.</span></li>
+</ul>
+
+</div>
+
+== Why Use Them ==
+
+If separable verbs are simply verb-object phrases, then why the special name? It's because there are some special features of Chinese verb-object phrases worth special attention, and the name "separable verbs" helps call attention to this. Mastering separable verbs can be a little tricky and is an essential objective of the intermediate ([[B1]]) level learner of Chinese.
+
+Separable verbs are just one of those things you can't avoid.  Many extremely common verbs, such as "to sleep" (睡觉) or "to meet" (见面) are separable verbs, and until you understand which verbs are separable verbs and how they work, you'll forever be making mistakes with these words, even in very basic sentences. In addition, you will continue to encounter new separable verbs, and being already familiar with the concept makes mastering new words much easier.
+
+== Academic debate ==
+
+There is some debate as to how useful the concept of separable verbs really is.  For our purposes, we're only concerned with whether or not separable verbs are a useful concept ''for the student of Mandarin Chinese''.  Many learners do, in fact, find the concept to be quite useful in helping them speak more natural Chinese.
+
+== See also ==
+
+* [[List of separable verbs]] (categorized by difficulty level)
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|83}}
+{{Source|Chinese Grammar Without Tears (简明汉语语法学习手册)|208}} 
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|16-7}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|113}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|111}}
+
+=== Websites ===
+
+* The Canadian TCSL Association: [http://www.canadiantcslassociation.ca/PDF/jor0852037.pdf 离合词教学的理论与实践]
+* 北京语言大学网络教育学院: [http://media.eblcu.cn/cls/demo/401053/course/1/1/sid003.htm 离合词及其教学]
+* 百度百科: [http://baike.baidu.com/view/165257.htm 离合词]
+* Sinosplice.com: [http://www.sinosplice.com/life/archives/2008/10/13/syntactic-anguish-of-the-verb-object-modifier-variety Syntactic Anguish of the Verb-Object-Modifier Variety]
+* ChinesePod (free content): [http://chinesepod.com/lessons/separable-verbs Qing Wen - Separable Verbs]
+* Mandarin Friend: [https://mandarinfriend.wordpress.com/2015/02/12/separable-verbs-a-misleading-concept-for-chinese-learners/ “Separable Verbs” – A Misleading and Unnecessary Concept]
+
+[[Category:Verbs]]
+{{HSK|HSK4}}
+{{Basic Grammar|none|B1|Verb-Obj.|我们 <em>见</em> 过 <em>面</em> 。|grammar point|ASG4GVRX}}
+{{Used for|Describing actions}}
+{{Used for|Referring to past experiences}}
+{{Used for|Referring to changes of situation}}
+{{Used for|Referring to the past}}
+{{Used for|Referring to the present}}
+{{POS|Verbs}}
+{{Subprop|Verb phrases}}

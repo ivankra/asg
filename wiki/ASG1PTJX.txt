@@ -1,0 +1,97 @@
+<!-- Result complement "-xiaqu" -->
+{{Grammar Box}} 
+
+下去 (xiàqù) can be used as a [[result complement]] to talk about things ''continuing'' or ''carrying on''. Think of it as a figurative way of "keeping the ball rolling" (downhill).
+
+== Affirmative Form ==
+
+Structure-wise, this pattern is the same as other [[result complement]]s.
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + Verb + 下去
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<strong>说</strong> <em>下去</em> 。<span class="pinyin"><strong>Shuō</strong> <em>xiàqù</em>.</span><span class="trans">Keep talking.</span>
+*这 本 书 你 一定 要 认真 地 <strong>看</strong> <em>下去</em> 。<span class="pinyin">Zhè běn shū nǐ yīdìng yào rènzhēn de <strong>kàn</strong> <em>xiàqù</em>.</span><span class="trans">You must keep reading this book carefully.</span>
+*这样 做 很 有 意义 ，你 应该 <strong>做</strong> <em>下去</em> 。<span class="pinyin">Zhèyàng zuò hěn yǒu yìyì, nǐ yīnggāi <strong>zuò</strong> <em>xiàqù</em>.</span><span class="trans">It's very meaningful to do this. You should keep doing it.</span>
+*他 走 了 ，因为 他 没脸 <strong>待</strong> <em>下去</em> 了 。<span class="pinyin">Tā zǒu le, yīnwèi tā méiliǎn <strong>dāi</strong> <em>xiàqù</em> le.</span><span class="trans">He left because he felt shame if he stayed.</span>
+*你 不能 这样 <strong>生活</strong> <em>下去</em> 了 。<span class="pinyin">Nǐ bù néng zhèyàng <strong>shēnghuó</strong> <em>xiàqù</em> le.</span><span class="trans">You can't keep living like this.</span>
+
+</div>
+
+== Negative Form ==
+
+Strictly speaking, simply adding 不 in front of the main verb is all it takes to create the negative form. But it's actually more common to use this negative [[potential complement]] form. So it's not just "not go on" (doing something), but actually "''can't'' go on" (doing something).
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + Verb + 不 + 下去 (+ 了)
+</div>
+
+Note that 了 is often used when it's negated.
+
+=== Examples ===
+
+<div class="liju">
+
+*这个 故事 太 无聊 了 ，我 听 <em>不 下去</em> <strong>了</strong> 。<span class="pinyin">Zhège gùshi tài wúliáo le, wǒ tīng <em>bu xiàqù</em> <strong>le</strong>.</span><span class="trans">This story is too boring, I can't keep listening.</span>
+*这个 电影 太 暴力 了 ，我 看 <em>不 下去</em> <strong>了</strong> 。<span class="pinyin">Zhège diànyǐng tài bàolì le, wǒ kàn <em>bu xiàqù</em> <strong>le</strong>.</span><span class="trans">This movie is too violent. I can't keep watching it.</span>
+*你 说话 太 恶心 了 ，我 吃 <em>不 下去</em> <strong>了</strong> 。<span class="pinyin">Nǐ shuōhuà tài ěxīn le, wǒ chī <em>bu xiàqù</em> <strong>le</strong>.</span><span class="trans">The way you talk is so disgusting. I can't continue eating my food.</span>
+*这个 宾馆 太 脏 了 ，我 待 <em>不 下去</em> <strong>了</strong> 。<span class="pinyin">Zhège bīnguǎn tài zāng le, wǒ dāi <em>bu xiàqù</em> <strong>le</strong>.</span><span class="trans">This hotel is too dirty. I can't stay here any longer.</span>
+*我 跟 他 过 <em>不 下去</em> <strong>了</strong> ，我 要 离婚 。<span class="pinyin">Wǒ gēn tā guò <em>bu xiàqù</em> <strong>le</strong>, wǒ yào líhūn.</span><span class="trans">I can't go on like this with him. I want a divorce.</span>
+
+</div>
+
+== Used with 再 ==
+
+When the adverb [[再]] comes before the verb, there's an implication that if "things keep going on this way," then something bad is going to happen.
+
+A few examples:
+
+<div class="liju">
+
+*你 <strong>再</strong> 赌 <em>下去</em> <strong>会</strong> 输光 的 。<span class="pinyin">Nǐ <strong>zài</strong> dǔ <em>xiàqù</em> <strong>huì</strong> shūguāng de.</span><span class="trans">If you keep gambling, you're going to lose all your money.</span>
+*你 <strong>再</strong> 喝 <em>下去</em> <strong>就</strong> 醉 了 。 <span class="pinyin">Nǐ <strong>zài</strong> hē <em>xiàqù</em> <strong>jiù</strong> zuì le.</span><span class="trans">If you keep drinking you're going to get drunk.</span>
+
+</div>
+
+== See also ==
+
+* [[Potential complement "bu xia"]]
+* [[Result complement "-qilai"]] (起来)
+* [[Resultative Complement "chu(lai)"]](出来)
+* [[Direction complement]]
+
+== Sources and  further  reading ==
+
+=== Books ===
+
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|184}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|232-3}}
+{{Source|Boya Chinese Lower Intermediate 2 (博雅汉语准中级加速篇)|137}}
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|184}} 
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课下册）|429}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+[[Category:Result complement]]
+
+{{Basic Grammar|下去|B1|Verb + 下去|这个 故事 太 无聊 了 ，我 听 <em>不 下去</em> <strong>了</strong> 。|grammar point|ASG1PTJX}}
+{{Rel char|下}}
+{{Rel char|去}}
+{{Similar|Potential complement "bu xia"}}
+{{Similar|Result complement "-qilai"|起来}}
+{{Similar|Resultative Complement "chu(lai)"|出来}}
+{{Similar|Direction complement}}
+{{Similar|Further Uses of Resultative Complement "qilai"}}
+{{Used for|Expressing result}}
+{{Used for|Describing actions}}
+{{Structure|Complements}}
+{{Subprop|Result complement}}

@@ -1,0 +1,52 @@
+<!-- Expressing "while you're at it" with "shunbian" -->
+{{Grammar Box}} 
+Although sometimes translated as "in passing" or even "conveniently," the most common way that the idea of [[adverb]] 顺便 (shùnbiàn) is expressed in English is "while you're at it" (or "while I'm at it," etc.). It's the idea of doing something at a convenient and logical time to save effort. Now you just have to get used to expressing this concept as an adverb.
+
+== General Usage of 顺便 ==
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + Verb Phrase 1, 顺便 + Verb Phrase 2
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*你 去 买 早饭 的 时候 <em>顺便</em> 帮 我 带 杯 咖啡 吧。<span class="pinyin">Nǐ qù mǎi zǎofàn de shíhou <em>shùnbiàn</em> bāng wǒ dài bēi kāfēi ba.</span><span class="trans">When you go out to get breakfast can you also bring me a cup of coffee?</span>
+*你 去 超市 能 不 能 <em>顺便</em> 帮 我 买 一 瓶 牛奶？<span class="pinyin">Nǐ qù chāoshì néng bu néng <em>shùnbiàn</em> bāng wǒ mǎi yī píng niúnǎi?</span><span class="trans">Could you pick me up a bottle of milk while you're at the supermarket?</span>
+*老板 去 见 客户，<em>顺便</em> 吃 了 午饭。<span class="pinyin">Lǎobǎn qù jiàn kèhù, <em>shùnbiàn</em> chī le wǔfàn.</span><span class="trans">The boss went to see the client and also ate lunch while he was at it.</span>
+*我 下周 去 北京 出差，<em>顺便</em> 去 看 一 个 朋友。<span class="pinyin">Wǒ xià zhōu qù Běijīng chūchāi, <em>shùnbiàn</em> qù kàn yī gè péngyou.</span><span class="trans">I'm going to Beijing on a business trip next week. I'll go to visit a friend while I'm there.</span>
+*我 出门 的 时候 都 会 <em>顺便</em> 扔 垃圾。<span class="pinyin">Wǒ chūmén de shíhou dōu huì <em>shùnbiàn</em> rēng lājī.</span><span class="trans">I take the trash out as I leave the house.</span>
+*你 见 他 的 时候 <em>顺便</em> 问 一下 他 周末 来 不 来。<span class="pinyin">Nǐ jiàn tā de shíhou <em>shùnbiàn</em> wèn yīxià tā zhōumò lái bu lái.</span><span class="trans">Ask him if he's coming this weekend when you see him.</span>
+</div>
+
+== Colloquial Usage of 顺便 ==
+
+Here 顺便 means something like "by the way, I'd like to...."
+
+=== Common phrases === 
+
+<div class="jiegou">
+顺便 说 一下……
+</div>
+
+<div class="jiegou">
+顺便 问 一下……
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*<em>顺便</em> 说 一下，我 最近 搬家 了。<span class="pinyin"><em>Shùnbiàn</em> shuō yīxià, wǒ zuìjìn bānjiā le.</span><span class="trans">By the way, I moved recently.</span>
+*<em>顺便</em> 问 一下，你 下周 什么 时候 回来？<span class="pinyin"><em>Shùnbiàn</em> wèn yīxià, nǐ xià zhōu shénme shíhou huílái?</span><span class="trans">By the way, when next week are you coming back?</span>
+*<em>顺便</em> 说 一下，电脑 已经 修 好 了。<span class="pinyin"><em>Shùnbiàn</em> shuō yīxià, diànnǎo yǐjīng xiū hǎo le.</span><span class="trans">By the way, the computer's been fixed.</span>
+*<em>顺便</em> 打听 一下，你 觉得 小王 这 个 人 怎么样？<span class="pinyin"><em>Shùnbiàn</em> dǎtīng yīxià, nǐ juéde Xiǎo Wáng zhège rén zěnmeyàng?</span><span class="trans">By the way, I just wanted to ask you: what do you think of Xiao Wang?</span>
+</div>
+
+[[Category:B2 grammar points]]
+[[Category: Adverbs]]
+
+{{Basic Grammar|顺便|B2|Subj. ＋Verb Phrase 1，顺便 + Verb Phrase 2|你 出去 的 时候<em>顺便</em> 帮 我 买 杯 咖啡。|grammar point|ASG5334C}}
+{{Used for|Describing actions}}
+{{POS|Adverbs}}

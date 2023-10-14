@@ -1,0 +1,48 @@
+<!-- Expressing "within (it/them)" with "qizhong" -->
+{{Grammar Box}} 
+In classical Chinese, 其 (qí) means 那个, 那, or 那些, and refers to people or things previously mentioned in the sentence. It stands to reason therefore, that  其中 (qízhōng）means "among the aforementioned" or 那里面, and denotes that something belongs to, is or is part of a bigger group. This is a little like "of which" in English, where you can say, "I have three ties, of which two feature Batman." 
+
+==Structure==
+
+<div class="jiegou">
+Category / Group / Context + 其中
+</div>
+
+==Examples==
+
+<div class="liju">
+* 我 有 四 辆 汽车，<em>其中</em> 三 辆 都 是 宝马。<span class="pinyin">Wǒ yǒu sì liàng qìchē, <em>qízhòng</em> sān liàng dōu shì Bǎomǎ.</span><span class="trans">I have four cars. Of them, three are BMW's.</span>
+* 到处 都 有 孤独 的 人，我 只 是 <em>其中</em> 一 个。<span class="pinyin">Dàochù dōu yǒu gūdú de rén, wǒ zhǐ shì <em>qízhōng</em> yī gè.</span><span class="trans">There are lonely people everywhere. I am just one of them.</span>
+* 这么 多 项目，<em>其中</em> 最 难 做的 就是 环境的 项目。<span class="pinyin">Zhème duō xiàngmù, <em>qízhōng</em> zuì nán zuò de jiùshì huánjìng de xiàngmù.</span><span class="trans">Of these many projects, the most difficult is the environmental project.</span>
+* 你的 书房 有 那么 多 书，你 能 把 <em>其中</em> 的 一 本 书 给 我 吗？<span class="pinyin">Nǐ de shūfáng yǒu nàme duō shū, nǐ néng bǎ <em>qízhōng</em> de yī běn shū gěi wǒ ma?</span><span class="trans">You have so many books in your study. Can you give me one of those books?</span>
+* 公司 里 有 三 把 伞，<em>其中</em> 两 把 是 老板 的。<span class="pinyin">Gōngsī li yǒu sān bǎ sǎn, <em>qízhōng</em> liǎng bǎ shì lǎobǎn de.</span><span class="trans">Of the three umbrellas in the office, two are the boss's.</span>
+* 这么 多人，我 只 认识 <em>其中</em> 的 一 个。<span class="pinyin">Zhème  duō rén, wǒ zhǐ rènshí <em>qízhōng </em> de yī gè.</span><span class="trans">Of the many people, I only know one of them.</span>
+* 你 没有 做 过 生意，不 知道 <em>其中</em> 的 辛苦。<span class="pinyin">Nǐ méiyǒu zuò guo shēngyì, bù zhīdào <em>qízhōng</em> de xīnkǔ.</span><span class="trans">You have never done business before, so you don't know the hardship of it.</span>
+* 不要 笑话 跳 广场舞 的大妈，以后 你 可能 成为 <em>其中</em> 的 一 个。<span class="pinyin">Bù yào xiàohua tiào guǎngchǎng wǔ de dàmā, yǐhòu nǐ kěnéng chéngwéi <em>qízhōng</em> de yī gè.</span><span class="trans">Don't laugh at the square dancing aunties. Someday you may become one of them.</span>
+* 人类 21 世纪 面临 许多 问题，<em>其中</em> 最 严重 的 是 环境 问题。<span class="pinyin">Rénlèi èrshí-yī shìjì miànlín xǔduō wèntí, <em>qízhōng</em> zuì yánzhòng de shì huánjìng wèntí.</span><span class="trans">Humankind faces many challenges in the 21st century. Among them, the most serious is the problem of the environment.</span>
+* 工作 虽然 有时 枯燥，但是 我 乐在 <em>其中</em>。<span class="pinyin">Gōngzuò suīrán yǒushí kūzào, dànshì wǒ lè zài <em>qízhōng</em>.</span><span class="trans">Although work is sometimes dull, I do find joy in it.</span>
+</div>
+
+In the last example sentence, 乐在其中 means "to find pleasure in" or maybe "there is joy involved with." This sounds awkward in English, but 其中 is often used in this abstract way.
+
+==See also==
+*[["Among" as "dangzhong"]]
+*[["One of" with "…zhi yi"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|73}}
+{{Source|Boya Chinese Lower Intermediate 2 (博雅汉语准中级加速篇)|169}}
+{{Source|Integrated Chinese: Level 2, Part 1|353}} 
+{{Source|Integrated Chinese: Level 2, Part 2|259-60}}
+{{Source|New Practical Chinese Reader 6 (新实用汉语课本6)|29}} 
+
+[[Category: B2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|其中|B2|其中|有 五 个 人 报名 了 ， <em>其中</em> 两 个 是 女生 。|grammar point|ASGD1LNT}}
+{{Similar|"Among" as "dangzhong"}}
+{{Similar|"One of" with "…zhi yi"}}
+{{POS|Nouns}}
+{{Translation|among}}

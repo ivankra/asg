@@ -1,0 +1,49 @@
+<!-- Repeated actions in the past with "you" -->
+{{Grammar Box}} 
+To emphasize that an action is being repeated again and again, we can place 又 after a verb, then repeat the same verb again.
+
+== Structure ==
+
+In the pattern below, 又, together with a repeating verb, indicates that the speaker did something repeatedly (and probably not just twice) in the past. Note that the verb used here must be a single-syllable verb, usually a verb such as 看, 想, 问, 找, or 试. 了 is placed right after the first verb.
+
+<div class="jiegou">
+
+Subj. ＋ Verb + 了 + 又 + Verb， (还是 / 就是) ……
+
+</div>
+
+Note that "还是" or "就是" is often used to emphasize that "nothing changed" after all.
+
+== Examples ==
+
+<div class="liju">
+
+*这 个 人 我 <strong>看</strong> 了 <em>又</em> 看，<strong>还是</strong> 觉得 我 不 认识 他。<span class="pinyin">Zhège rén wǒ kàn le <em>yòu</em>  kàn, <strong>háishì</strong> juéde wǒ bù rènshi tā.</span><span class="trans">I looked at him again and again, but I still think I don't know him.</span>
+* 我 <strong>想</strong> 了<em>又</em> 想，<strong>还是</strong> 觉得 不 能 这样 做 。<span class="pinyin">Wǒ xiǎng le <em>yòu</em>  xiǎng, <strong>háishì</strong> juéde bù néng zhèyàng zuò.</span><span class="trans">I thought it over again and again, but I still feel I can't do this.</span>
+*他 <strong>找</strong>了<em>又</em> <strong>找</strong>，<strong>还是</strong> 没 找到 他 的 钱 包。<span class="pinyin">Tā <strong>zhǎo</strong> le <em>yòu</em> <strong>zhǎo</strong>, háishì méi zhǎodào tā de qiánbāo.</span><span class="trans">He searched again and again, and still couldn't find his wallet.</span>
+*他 <strong>想</strong>了<em>又</em> <strong>想</strong>，<strong>还是</strong> 不 同意。<span class="pinyin">Tā <strong>xiǎng</strong> le <em>yòu</em> <strong>xiǎng</strong>, háishì bù tóngyì.</span><span class="trans">He thought it over again and again, and he still disagrees.</span>
+*我们 <strong>问</strong> 了 <em>又</em> 问，她 <strong>就是</strong> 不 说。<span class="pinyin">Wǒmen wèn le <em>yòu</em> wèn, tā <strong>jiùshì</strong> bù shuō.</span><span class="trans">We asked again and again, but she wouldn't tell us.</span>
+*他 <strong>试</strong> 了 <em>又</em> 试，<strong>就是</strong> 打 不 开 门。<span class="pinyin">Tā shì le <em>yòu</em> shì, <strong>jiùshì</strong> dǎ bù kāi mén.</span><span class="trans">He tried again and again, but he still couldn't open the door.</span>
+*我 <strong>想</strong> 了 <em>又</em> 尝，<strong>还是</strong> 觉得 这些 菜 坏 了。<span class="pinyin">Wǒ cháng le <em>yòu</em> cháng, <strong>háishì</strong> juéde zhèxiē cài huài le.</span><span class="trans">I tasted it again and again, but I still think the food has gone bad.</span>
+*他 <strong>闻</strong> 了 <em>又</em> 闻，<strong>还是</strong> 什么 都 没 闻到。<span class="pinyin">Tā wén le <em>yòu</em> wén, <strong>háishì</strong> shénme dōu méi wéndào.</span><span class="trans">He sniffed again and again, but he still didn't smell anything.</span>
+*这 个 方案 <strong>改</strong>了<em>又</em> <strong>改</strong>，终于 通过 了。<span class="pinyin">Zhège fāng'àn <strong>gǎi</strong> le <em>yòu</em> <strong>gǎi</strong>, zhōngyú tōngguò le.</span><span class="trans">This plan was changed again and again, and finally it was approved.</span>
+*这 件 衣服 妈妈 <strong>洗</strong> 了 <em>又</em> <strong>洗</strong>，终于 洗 干净 了。<span class="pinyin">Zhè jiàn yīfu māma <strong>xǐ</strong> le <em>yòu</em> <strong>xǐ</strong>, zhōngyú xǐ gānjìng le.</span><span class="trans">Mother washed this clothing again and again, and it's finally clean.</span>
+
+</div>
+
+==See also==
+
+*[[Expressing "both A and B" with "you" ]]
+*[[Expressing "again" in the past with "you"]]
+*[[Comparing "zai" and "you"]]
+*[[Emphasizing negation with "you"]]
+
+[[Category:B2 grammar points]]
+{{Basic Grammar|又|B2|Subj. + Verb + 了 + 又 + Verb |他 <strong>找</strong> 了 <em>又</em> <strong>找</strong>，还 是 没 找到 他 的 钱 包。|grammar point|ASGF08B6}}
+{{Similar|Reduplication of verbs}} 
+{{Similar|Expressing "again" in the past with "you"}} 
+{{Similar|Comparing "zai" and "you"}} 
+{{Similar|Emphasizing negation with "you"}} 
+{{Rel char|又}}
+{{Used for|Describing actions}}
+{{POS|Adverbs}}

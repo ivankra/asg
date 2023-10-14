@@ -1,0 +1,81 @@
+<!-- Appearance with "kanqilai" -->
+{{Grammar Box}} 
+
+One of the most common ways to express how something "looks" is to use 看起来 (kànqilai). This is what we would use if we wanted to express something like "he looks tired."
+
+== Used for Judgement ==
+
+This pattern is most commonly followed by an adjectival phrase. This can include regular [[adverb]]s of degree like [[很]], or negative adverbs like [[不]].
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 看起来 + Adj.
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*蛋糕 <em>看起来</em> 很 好吃 。<span class="pinyin">Dàngāo <em>kànqilai</em> hěn hǎochī.</span><span class="trans">The cake looks really tasty.</span>
+*这 家 餐厅 <em>看起来</em> 不错。<span class="pinyin">Zhè jiā cāntīng <em>kànqilai</em> bùcuò.</span><span class="trans">This restaurant looks good.</span>
+*你 男朋友 <em>看起来</em> 很 成熟 。<span class="pinyin">Nǐ nánpéngyou <em>kànqilai</em> hěn chéngshú.</span><span class="trans">Your boyfriend looks very mature.</span>
+*老板 <em>看起来</em> 有点 不 高兴 。<span class="pinyin">Lǎobǎn <em>kànqilai</em> yǒudiǎn bù gāoxìng.</span><span class="trans">The boss looks a little unhappy.</span>
+*你们 <em>看起来</em> 差不多 高 。<span class="pinyin">Nǐmen <em>kànqilai</em> chàbuduō gāo.</span><span class="trans">You look to be about the same height.</span>
+
+</div>
+
+== Used for Analogy ==
+
+If you want to state ''what'' something looks ''like'', you'll also need to follow 看起来 with 像 (xiàng), and then the noun phrase.
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 看起来 + 像 + Noun Phrase
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*你 妈妈 真 年轻 ！<em>看起来</em> <strong>像</strong> 你 姐姐 。<span class="pinyin">Nǐ māma zhēn niánqīng! <em>Kànqǐlái</em> <strong>xiàng</strong> nǐ jiějie.</span><span class="trans">Your mother is so young! She looks like your older sister.</span>
+*我 <em>看起来</em> <strong>像</strong> 不 <strong>像</strong> 大 老板 ？<span class="pinyin">Wǒ <em>kànqilai</em> <strong>xiàng</strong> bu <strong>xiàng</strong> dà lǎobǎn.</span><span class="trans">Do I look like a big boss?</span>
+*你们 俩 <em>看起来</em> <strong>像</strong> 情侣 。<span class="pinyin">Nǐmen liǎ <em>kànqilai</em> <strong>xiàng</strong> qínglǚ.</span><span class="trans">You two look like a couple. </span>
+*他们 <em>看起来</em> 不 <strong>像</strong> 有钱 人 。<span class="pinyin">Tāmen <em>kànqilai</em> bù <strong>xiàng</strong> yǒuqián rén.</span><span class="trans">They don't look like rich people.</span>
+*那 个 喝醉 的 男人 <em>看起来</em> <strong>像</strong> 你 老公 。<span class="pinyin">Nàge hēzuì de nánrén <em>kànqilai</em> <strong>xiàng</strong> nǐ lǎogōng.</span><span class="trans">That drunk guy looks like your husband.</span>
+
+</div>
+
+== See also ==
+
+* [[Result complement "-qilai"]]
+* [["It seems" with "haoxiang"]]
+* [[Expressing "as if" with "sihu"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Integrated Chinese: Level 2, Part 1|241-2}}
+
+=== Websites ===
+
+* [http://chinesepod.com/lessons/using-%E7%9C%8B-kan-and-%E7%9C%8B%E8%B5%B7%E6%9D%A5-kan-qilai Using 看 (kàn) and 看起来 (kàn qilai)]
+
+=== Videos ===
+
+* Yoyo Chinese: [https://www.youtube.com/watch?v=VZBduBkV1CA "You look Pretty"]
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|看起来|B1|看起来⋯⋯|这 家 餐厅 <em>看起来</em> 不错 。|grammar point|ASG9K0F8}}
+{{Rel char|看}}
+{{Rel char|起来}}
+{{Used for|Describing things}}
+{{Used for|Expressing attitude}}
+{{Similar|Result complement "-qilai"}}
+{{Similar|"It seems" with "haoxiang"}}
+{{Similar|Expressing "as if" with "sihu"}}
+{{Similar|Comparing "kanqilai" and "kanlai"}}
+{{POS|Verbs}}

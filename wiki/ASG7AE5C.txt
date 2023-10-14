@@ -1,0 +1,63 @@
+<!-- Defining upper and lower limits -->
+{{Grammar Box}} 
+To specify "more than" or "less than" a certain amount, or "within" a certain amount, you're going to want to use some of these common words: 以上 (yǐshàng), 以下 (yǐxià), 以内 (yǐnèi), and 以外 (yǐwài). All are "nouns of locality," or 方位词 in Chinese.
+
+== 以上 and 以下 ==
+
+以上 and 以下 mean "more than"/"above" and "less than"/"below," respectively. Generally they are non-inclusive, meaning that when you say 十岁以下 you mean "less than ten years of age," up to ten, but not including ten years old. In actual usage, however, this fine point may sometimes be fudged a little.
+
+=== Structure ===
+
+<div class="jiegou">
+Amount / Level + 以上 / 以下  
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*十 岁 <em>以下</em> 的 孩子 不用 买 票 。<span class="pinyin">Shí suì <em>yǐxià</em> de háizi bùyòng mǎi piào.</span><span class="trans">Children under the age of 10 do not need to buy tickets.</span>
+*我们 需要 有 两 年 <em>以上</em> 工作 经验 的 人 。<span class="pinyin">Wǒmen xūyào yǒu liǎng nián <em>yǐshàng</em> gōngzuò jīngyàn de rén.</span><span class="trans">We need people with two years of working experience or more.</span>
+*我 老家 空气 还 不错，PM2.5 一般 在 五十 <em>以下</em> 。<span class="pinyin">Wǒ lǎojiā kōngqì hái bùcuò, PM èr diǎn wǔ yībān zài wǔshí <em>yǐxià</em>.</span><span class="trans">The air in my hometown is good. The PM 2.5 level is generally under 50.</span>
+*这里 的 冬天 气温 都 在 零度 <em>以下</em> 。<span class="pinyin">Zhèlǐ de dōngtiān qìwēn dōu zài língdù <em>yǐxià</em>.</span><span class="trans">The winter temperatures here go below zero.</span>
+*我们 出差 都 住 三 星级 <em>以上</em> 的 酒店。<span class="expl pdf-long-expl">This could possibly be inclusive of 3-star hotels. Real-world usage is sometimes imprecise!</span><span class="pinyin">Wǒmen chūchāi dōu zhù sān xīngjí <em>yǐshàng</em> de jiǔdiàn.</span><span class="trans">When we go on business trips, we stay at hotels with above a 3-star rating.</span>
+*<em>以下</em> 就 谈谈 这个 问题 应该 怎么 解决。<span class="expl">This could be written or spoken.</span><span class="pinyin"><em>Yǐxià</em> jiù tántán zhège wèntí yīnggāi zěnme jiějué.</span><span class="trans">Following, we will discuss how we should resolve this problem.</span>
+*<em>以上</em> 只 是 我 个人 的 看法 。<span class="expl">This could be written or spoken.</span><span class="pinyin"><em>Yǐshàng</em> zhī shì wǒ gèrén de kànfǎ.</span><span class="trans">The above is just my personal opinion.</span>
+
+</div>
+
+== 以内 and 以外 ==
+
+Literally, 以内 and 以外 mean "within" and "outside." This spatial meaning can be extended to all kinds of abstracted meanings, as you will see below. Note that 以外 often combines with [[除了]].
+
+=== Structure ===
+
+<div class="jiegou">
+[Amount / Time / Place / Scope] + 以内 / 以外  
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*两 天 <em>以内</em> 必须 完成 。<span class="pinyin">Liǎng tiān <em>yǐnèi</em> bìxū wánchéng.</span><span class="trans">Must be completed within two days.</span>
+*半 小时 <em>以内</em> 能 送到 吗 ？<span class="pinyin">Bàn xiǎoshí <em>yǐnèi</em> néng sòng dào ma?</span><span class="trans">Can you deliver in 30 minutes or less?</span>
+*这个 大楼 50 米 <em>以内</em> 不 能 停车 。<span class="pinyin">Zhège dàlóu wǔshí mǐ <em>yǐnèi</em> bù néng tíng chē.</span><span class="trans">You cannot park within 50 meters of this building.</span>
+*请 你 站 在 两 米 <em>以外</em> 的 地方 。<span class="pinyin">Qǐng nǐ zhàn zài liǎng mǐ <em>yǐwài</em> de dìfang.</span><span class="trans">Please stand 2 meters or more from this place.</span>
+</div>
+
+=== Books ===
+
+[[Category:B2 grammar points]]
+{{Basic Grammar|以上|B2|级别 / 次序 / 数目 + 以上 / 以下|十 岁 <em>以下</em> 的 孩子 不用 买 票 。|grammar point|ASG7AE5C}}
+{{Rel char|以下}}
+{{Rel char|上}}
+{{Rel char|下}}
+{{Rel char|以}}
+{{Rel char|内}}
+{{Rel char|外}}
+{{Similar|Expressing "except" and "in addition" with "chule… yiwai"}}
+{{POS|Prepositional Phrase}}
+{{Used for|Defining scope}}
+{{Translation|above}}
+{{Translation|below}}
+{{Translation|within}}
+{{Translation|beyond}}

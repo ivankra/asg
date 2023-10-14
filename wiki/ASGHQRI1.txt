@@ -1,0 +1,57 @@
+<!-- Expressing "in addition" with "haiyou" -->
+{{Grammar Box}} 
+
+还有 (háiyǒu) is used to express "in addition..." or "and also..." in a conversation. It is for introducing new information as an afterthought. 
+
+== Structure ==
+
+It's as simple as using 还有 before the new clause or sentence. 还有 can also be used with a comma, similar to how we can say "in addition..." in English.
+
+<div class="jiegou">
+⋯⋯ ，还有 ，⋯⋯
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*你 需要 吃 药 。<em>还有</em> ，要 多 休息 。<span class="pinyin">Nǐ xūyào chī yào. <em>Háiyǒu</em>, yào duō xiūxi.</span><span class="trans">You need to take medicine. Also, you should get more rest.</span>
+*我 要 大杯 ，不要 冰 ，<em>还有</em> ，少 放 糖 。<span class="pinyin">Wǒ yào dà bēi,bùyào bīng. <em>Háiyǒu</em>, shǎo fàng táng.</span><span class="trans">I want a large drink, no ice. Also, just a little sugar, please.</span>
+*不要 一边 吃饭 一边 说话 。<em>还有</em> ，别 吃 那么 快 。<span class="pinyin">Bùyào yībiān chīfàn yībiān shuōhuà. <em>Háiyǒu</em>, bié chī nàme kuài.</span><span class="trans">Don't talk while you eat. Also, don't eat so fast.</span>
+*考试 的 时候 不要 说话 。<em>还有</em> ，不要 用 手机 。<span class="pinyin">Kǎoshì de shíhou bùyào shuōhuà. <em>Háiyǒu</em>, bùyào yòng shǒujī.</span><span class="trans">No talking while taking a test. Also, no using your cell phones.</span>
+*他们 不 想 要 孩子 。<em>还有</em> ，他们 也 没 时间 照顾 孩子 。<span class="pinyin">Tāmen bù xiǎng yào háizi. <em>Háiyǒu</em>, tāmen yě méi shíjiān zhàogù háizi.</span><span class="trans">They don't want to have kids. Plus, they wouldn't have time to look after a kid.</span>
+*酒店 谁 来 订？<em>还有</em> ，机票 买 了 吗 ？<span class="pinyin">Jiǔdiàn shéi lái dìng? <em>Háiyǒu</em>, jīpiào mǎi hǎo le ma?</span><span class="trans">Who's going to book the hotel room? Also, did you buy the plane tickets?</span>
+*下班 以后 早点 回来 。<em>还有</em> ，回来 的 路上 买 点 水果 。<span class="pinyin">Xiàbān yǐhòu zǎo diǎn huílái. <em>Háiyǒu</em>, huílái de lùshang mǎi diǎn shuǐguǒ.</span><span class="trans">Come back early after work. Also, buy some fruit on your way back.</span>
+*今天 要 做 完 这个 报告 。<em>还有</em> ，明天 开会 前 打印 三 份 。<span class="pinyin">Jīntiān yào zuò wán zhège bàogào. <em>Háiyǒu</em>, míngtiān kāihuì qián dǎyìn sān fèn.</span><span class="trans">You need to finish this report today. In addition, print three copies before the meeting tomorrow.</span>
+*入住 前 要 付 押金 。<em>还有</em> ，不能 带 宠物 。<span class="pinyin">Rùzhù qián yào fù yājīn. <em>Háiyǒu</em>, bù néng dài chǒngwù.</span><span class="trans">You need to pay the deposit before using the room. Also, you're not allowed to have pets here.</span>
+*先生 ，这里 不能 抽烟 。<em>还有</em> ，请 你们 声音 小 一点 。<span class="pinyin">Xiānsheng, zhèlǐ bù néng chōuyān. <em>Háiyǒu</em>, qǐng nǐmen shēngyīn xiǎo yīdiǎn.</span><span class="trans">Sir, you can't smoke in here. Also, lower your voices, please.</span>
+
+</div>
+
+== See also ==
+
+*[["In addition" as "lingwai"]]
+*[["In addition" with "zaishuo"]]
+*[[Expressing "not only… but also"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|252}} 
+
+[[Category: B1 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|还有|B1|⋯⋯ ，还有 ，⋯⋯|你 需要 吃 药 。<em>还有</em>，要 多 休息 。|grammar point|ASGHQRI1}}
+{{Rel char|还}}
+{{Rel char|有}}
+{{Similar|Expressing "not only… but also"}}
+{{Similar|"In Addition" with "zaishuo"}}
+{{Similar|"In Addition" as "lingwai"}}
+{{Similar|Expressing "except" and "in addition" with "chule… yiwai"}}
+{{Similar|Expressing "and also" with "hai"}}
+{{POS|Conjunctions}}
+{{Used for| Expressing quantity}}
+{{Used for|Listing}}
+{{Translation|and}}
+{{Translation|also}}

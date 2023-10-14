@@ -1,0 +1,75 @@
+<!-- Questions with "le ma" -->
+{{Grammar Box}} 
+Asking questions about completed actions will involve using both 了 (le) and 吗 (ma). These are simply added to the end of a sentence or statement. Just make sure that 了 (le) comes first, followed by 吗 (ma).
+
+== Basic Usage ==
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + Verb + Obj. + 了吗?
+
+</div>
+
+Note the order of 了 (le) and 吗 (ma).
+
+=== Examples ===
+
+<div class="liju">
+
+*你 吃饭 <em>了 吗</em> ？<span class="pinyin">Nǐ chīfàn <em>le ma</em>? </span><span class="trans">Did you eat? </span>
+*老板 走 <em>了 吗</em> ？<span class="pinyin">Lǎobǎn zǒu <em>le ma</em>? </span><span class="trans">Did the boss leave? </span>
+*你男朋友 找到 新 工作 <em>了 吗</em> ？<span class="pinyin">Nǐ nánpéngyou zhǎodào xīn gōngzuò <em>le ma</em>? </span><span class="trans">Has your boyfriend found a new job yet? </span>
+*妈妈 ，你 昨天 给 我 打电话 <em>了 吗</em> ？<span class="pinyin">Māma, nǐ zuótiān gěi wǒ dǎ diànhuà <em>le ma</em>? </span><span class="trans">Mom, did you call me yesterday? </span>
+*你 今天 去 上班 <em>了 吗</em> ？<span class="pinyin">Nǐ jīntiān qù shàngbān <em>le ma</em>? </span><span class="trans">Did you go to work today? </span>
+
+</div>
+
+==With a Topic==
+
+=== Structure ===
+
+<div class="jiegou">
+Topic (+ Subj.) + Verb + 了吗?
+</div>
+
+NOTE: in this structure, the topic is also the object for the verb.
+
+=== Examples ===
+
+<div class="liju">
+
+*晚饭 你 吃 <em>了 吗</em> ？<span class="pinyin">Wǎnfàn nǐ chī <em>le ma</em>? </span><span class="trans">Did you eat dinner? </span>
+*衣服 你 洗 好 <em>了 吗</em> ？<span class="pinyin">Yīfu nǐ xǐ hǎo <em>le ma</em>? </span><span class="trans">Have you finished washing the clothes? </span>
+*作业 你 写 完 <em>了 吗</em> ？<span class="pinyin">Zuòyè nǐ xiě wán <em> le ma</em>? </span><span class="trans">Have you finishing doing homework? </span>
+*这 个 电影 你 看 <em>了 吗</em> ？<span class="pinyin">Zhège diànyǐng nǐ kàn <em>le ma</em>? </span><span class="trans">Have you seen this movie? </span>
+*我 的 邮件 你 收到 <em>了 吗</em> ？ <span class="pinyin">Wǒ de yóujiàn nǐ shōudào <em>le ma</em>? </span><span class="trans">Have you received my email? </span>
+
+</div>
+
+Finally, please note that this pattern is nothing more than the combination of the [[expressing completion with "le"]] pattern and the [[Yes-no questions with "ma"|yes/no questions with "ma"]] pattern.
+
+== See also ==
+
+*[[Yes-no questions with "ma"]]
+*[[Expressing completion with "le"]] 
+*[[Rhetorical Questions with "nandao"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|229}}
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2)|17}}
+{{Source|A Practical Chinese Grammar For Foreigners (外国人实用汉语语法)|429}} 
+
+[[Category:A2 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{Basic Grammar|了|A2|Verb + 了 + 吗？|你 吃饭 <em>了 吗</em> ？|grammar point|ASGYKDNF}}
+{{Rel char|吗}}
+{{Similar|Yes - no questions with ma}} 
+{{Similar|Yes - Expressing completion with le}}
+{{Similar|Yes - Rhetorical Questions with "nandao"}}
+{{Used for|Asking questions}}
+{{Structure|Question Forms}}

@@ -1,0 +1,67 @@
+<!-- Expressing actions in progress with "zai" -->
+{{Grammar Box}} 
+在 (zài) and 正在 (zhèngzài) can be used as [[auxiliary verb|auxiliary verbs]] to express that an action is ''ongoing'' or ''in progress''. This is often the equivalent of ''present continuous'' in English, which is how we express that an activity is happening ''now''.
+
+You can use 正在 (zhèngzài) instead of just 在 (zài) to put a little more emphasis on an action that is ''in progress '''right now'''''.
+
+== Structure ==
+
+<div class="jiegou">
+
+Subj. + 在 + Verb + Obj.
+
+</div>
+
+or
+
+<div class="jiegou">
+
+Subj. + 正在 + Verb + Obj.
+
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*她 <em>在</em> 看 书。<span class="pinyin">Tā <em>zài</em> kànshū.</span><span class="trans">She is reading.</span>
+*妈妈 <em>在</em> 打 电话。<span class="pinyin">Māma <em>zài</em> dǎ diànhuà.</span><span class="trans">Mom is making a phone call.</span>
+*谁 <em>在</em> 里面 洗澡？<span class="pinyin">Shéi <em>zài</em> lǐmiàn xǐzǎo?</span><span class="trans">Who is taking a shower in there?</span>
+*阿姨 <em>正在</em> 打扫 我们 的 房间。<span class="pinyin">Āyí <em>zhèngzài</em> dǎsǎo wǒmen de fángjiān.</span><span class="trans">The cleaning lady is cleaning our room right now.</span>
+*昨天 晚上 七点，我们 <em>在</em> 吃饭。<span class="pinyin">Zuótiān wǎnshang qīdiǎn, wǒmen <em>zài</em> chīfàn.</span><span class="trans"> Yesterday at 7pm, we were eating dinner.</span>
+*老板 <em>在</em> 开会，没有 时间 见 你。<span class="pinyin">Lǎobǎn <em>zài</em> kāihuì, méiyǒu shíjiān jiàn nǐ.</span><span class="trans">The boss is currently in a meeting. He doesn't have time to see you.</span>
+*我 现在 <em>在</em> 上班，不方便 离开。<span class="pinyin">Wǒ xiànzài <em>zài</em> shàngbān, bù fāngbiàn líkāi.</span><span class="trans">I am working now. It's not convenient for me to leave.</span>
+*我们 <em>正在</em> 上课，请 你 等 一会儿。<span class="pinyin">Wǒmen <em>zhèngzài</em> shàngkè, qǐng nǐ děng yīhuìr.</span><span class="trans">We are in class right now; please wait a moment.</span>
+*你 <em>正在</em> 开车，不 可以 玩 手机。<span class="pinyin">Nǐ <em>zhèngzài</em> kāichē, bù kěyǐ wán shǒujī.</span><span class="trans">You're driving right now; you can't play with your cell phone.</span>
+*你 给 我 打 电话 的时候，我 <em>正在</em> 跟 朋友 打 游戏 。<span class="pinyin">Nǐ gěi wǒ dǎ diànhuà de shíhou, wǒ <em>zhèngzài</em> gēn péngyou dǎ yóuxì.</span><span class="trans">When you called me, I was playing video games with friends.</span>
+
+</div>
+
+There is no need to worry too much about when to use 在 (zài) or 正在 (zhèngzài), since they basically mean the same thing. 正在 (zhèngzài) usually shows that the action is in progress (''right now''). "在 (zài) + Verb" is more commonly used than "正在 (zhèngzài) + Verb," but both are fine to use.
+
+== See Also ==
+
+*[[Aspect particle "zhe"]]
+*[[Expressing actions in progress (full form)]] (more advanced usage)
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|100}}
+{{Source|Basic Patterns of Chinese Grammar|41-2}} 
+{{Source|Chinese: An Essential Grammar, Second Edition|60-1}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|209-10}}
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2)|218-9}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{Used for|Referring to the present }}
+{{Used for|Indicating conditions}}
+{{Used for|Describing actions}}
+{{Basic Grammar|在|A2|(正) 在 + Verb|我们 <em>正在</em> 吃饭。|grammar point|ASG846EA}}
+{{Rel char|正在}}
+{{Rel char|正}}
+{{Similar|Aspect particle "zhe"}}
+{{Similar|Expressing actions in progress (full form)}}  
+{{POS|Adverbs}}

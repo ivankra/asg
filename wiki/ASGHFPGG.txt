@@ -1,0 +1,87 @@
+<!-- Expressing "except" and "in addition" with "chule… yiwai" -->
+{{Grammar Box}} 
+
+Using 除了 (chúle)--often with 以外 (yǐwài)--will help you spruce up your sentences when you want to express the meanings of "except," "besides," or "in addition." You may feel that "except" has a pretty different meaning from the other two. Well, read on!
+
+== Used as "Except" ==
+
+除了⋯⋯ (以外), 都⋯⋯ is a pattern used to express "except." Make a special note of the 都 (dōu)!
+
+=== Structure ===
+
+<div class="jiegou">
+除了 ⋯⋯ (+ 以外) ，Subj. + 都 ⋯⋯
+</div>
+
+以外 can be omitted from the pattern without changing its meaning.
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>除了</em> 他 ，我们 <em>都</em> 去 过 。<span class="pinyin"><em>Chúle</em> tā , wǒmen <em>dōu</em> qù guo.</span><span class="trans">Except for him, we've all been there.</span>
+*<em>除了</em> 白酒 ，别的 酒 他 <em>都</em> 喝 。<span class="pinyin"><em>Chúle</em> báijiǔ, biéde jiǔ tā <em>dōu</em> hē.</span><span class="trans">He drinks all kinds of alcohol except baijiu.</span>
+*<em>除了</em> 周末 ，老板 每天 <em>都</em> 加班 。<span class="pinyin"><em>Chúle</em> zhōumò, lǎobǎn měi tiān <em>dōu</em> jiābān.</span><span class="trans">Except for weekends, the boss works overtime every day.</span>
+*<em>除了</em> 价格 <em>以外</em> ，其他 方面 我们 <em>都</em> 很 满意 。 <span class="pinyin"><em>Chúle</em> jiàgé  <em>yǐwài</em>, qítā fāngmiàn wǒmen <em>dōu</em> hěn mǎnyì.</span><span class="trans">We're satisfied with all aspects except for the price.</span>
+*<em>除了</em> 政治 新闻 <em>以外</em> ，其他 新闻 我 <em>都</em> 看 。<span class="pinyin"><em>Chúle</em> zhèngzhì xīnwén <em>yǐwài</em>, qítā xīnwén wǒ <em>dōu</em> kàn.</span><span class="trans">I read all types of news except for political news.</span>
+
+</div>
+
+== Used as "in Addition" ==
+
+除了⋯⋯ (以外), 也/还⋯⋯ is used to express "in addition." Make a special note of the 也 or 还!
+
+=== Structure ===
+
+<div class="jiegou">
+除了 ⋯⋯ (+ 以外) ，Subj. + 也 / 还 ⋯⋯
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>除了</em> 英语 ，我 <em>也</em> 会 说 法语 和 西班牙语 。<span class="pinyin"><em>Chúle</em> Yīngyǔ, wǒ <em>yě</em> huì shuō Fǎyǔ hé Xībānyáyǔ.</span><span class="trans">In addition to English, I can also speak French and Spanish.</span>
+*<em>除了</em> 运动 <em>以外</em> ，你 <em>还</em> 有 什么 爱好 ？<span class="pinyin"><em>Chúle</em> yùndòng <em>yǐwài</em>, nǐ <em>hái</em> yǒu shénme àihào?</span><span class="trans">In addition to sports, what other hobbies do you have?</span>
+*<em>除了</em> 猫 和 狗 ，我 <em>还</em> 养 过 兔子 。<span class="pinyin"><em>Chúle</em> māo hé gǒu, wǒ <em>hái</em> yǎng guo tùzi.</span><span class="trans">In addition to a cat and a dog, I also had a rabbit.</span>
+*<em>除了</em> 海鲜 ，你 <em>还</em> 对 什么 过敏 ？<span class="pinyin"><em>Chúle</em> hǎixiān, nǐ <em>hái</em> duì shénme guòmǐn?</span><span class="trans">In addition to seafood, what else are you allergic to?</span>
+*中国 的 功夫 明星 ，<em>除了</em> 李小龙 和 成龙 <em>以外</em> ，李连杰 <em>也</em> 很 有名。<span class="pinyin">Zhōngguó de gōngfu míngxīng, <em>chúle</em> Lǐ Xiǎolóng hé Chéng Lóng <em>yǐwài</em>,  Lǐ Liánjié <em>yě</em> hěn yǒumíng.</span><span class="trans">In addition to Bruce Lee and Jackie Chan, Jet Li is also a very famous Chinese kung fu star.</span>
+
+</div>
+
+== See also ==
+
+*[[Expressing "in addition" with "lingwai"]]
+*[[Expressing "in addition" with "haiyou"]]
+*[[Expressing "and also" with "hai"]]
+
+== Sources  and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|128}}
+{{Source|Basic Patterns of Chinese Grammar|80}} 
+{{Source|Common Chinese Patterns 330 (汉语常用格式330例)|50, 52}} 
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|218-9}} 
+{{Source|Integrated Chinese: Level 2, Part 1|16-7}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|355-6}} 
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|170}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|271}} 
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|除了|B1|除了 ⋯⋯ (+ 以外) ，Subj. + 都 / 也 / 还 ⋯⋯|<em>除了</em> 他 ，我们 <strong>都</strong> 去 过 。|grammar point|ASGHFPGG}}
+{{Rel char|还}}
+{{Rel char|以外}}
+{{Rel char|都}}
+{{Rel char|外}}
+{{Rel char|也}}
+{{Rel char|还}}
+{{Similar|Expressing "and also" with "hai"}}
+{{Similar|Expressing "not only... but also"}}
+{{Similar|Expressing "in addition" with "zaishuo"}}
+{{Similar|Expressing "in addition" with "haiyou"}}
+{{Similar|Expressing "in addition" with "lingwai"}}
+{{Structure|Sentence Patterns}}
+{{Subprop|Complex Sentence Patterns}}
+{{Used for|Giving alternatives}}

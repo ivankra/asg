@@ -1,0 +1,40 @@
+<!-- Expressing "therefore" with "yinci" -->
+{{Grammar Box}} 
+因此 (yīncǐ), literally "because of this," is a conjunction meaning "therefore," and is used in formal writing.
+
+==Structure==
+<div class="jiegou">
+Cause， + 因此 + Effect
+</div>
+
+==Examples==
+<div class="liju">
+* 我 病 了 ， <em>因此</em> 心情 不好。<span class="pinyin">Wǒ bìng le, <em>yīncǐ</em> xīnqíng bù hǎo.</span><span class="trans">I am sick, therefore I am not in a good mood.</span>
+* 昨天 下雨 了， <em>因此</em> 我 没有 出门。<span class="pinyin">Zuótiān xiàyǔ le, <em>yīncǐ</em> wǒ méiyǒu chūmén.</span><span class="trans">It rained yesterday, therefore I did not go out.</span>
+* 她 在 农村 长大， <em>因此</em> 很 了解 农民 的 生活。<span class="pinyin">Tā zài nóngcūn zhǎngdà, <em>yīncǐ</em> hěn liǎojiě nóngmín de shēnghuó.</span><span class="trans">She grew up in the country, so she understands the country people's way of life.</span>
+* 我 没有 准备 好 所有 的 东西， <em>因此</em> 有些 紧张。<span class="pinyin">Wǒ méiyǒu zhǔnbèi hǎo suǒyǒu de dōngxi, <em>yīncǐ</em> yǒuxiē jǐnzhāng.</span><span class="trans">I didn't fully prepare everything, so I was a little nervous.</span>
+* 小王 说话 不 好听， <em>因此</em> 他 得罪 了 很 多 人 。<span class="pinyin">Xiǎo Wáng shuōhuà bù hǎotīng, <em>yīncǐ</em> tā dézuì le hěn duō rén.</span><span class="trans">Xiao Wang spoke overly bluntly, so he offended many people.</span>
+* 下个 月 考试， <em>因此</em> 这个 月 我 没有 出去 玩，在 好好 准备。<span class="pinyin">Xiàgè yuè kǎoshì, <em>yīncǐ</em> zhège yuè wǒ méiyǒu chūqù wán, zài hǎohāo zhǔnbèi.</span><span class="trans">I will have an exam next month, therefore this month I am not going out to play. I am preparing well.</span>
+* 韩寒 的 文笔 好， <em>因此</em> 他 写 的 小说 很 受 欢迎。<span class="pinyin">Hán Hán de wénbǐ hǎo, <em>yīncǐ</em> tā xiě de xiǎoshuō hěn shòu huānyíng.</span><span class="trans">Han Han's writing style is very good, therefore the novels that he writes are very popular.</span>
+* 工厂 已经 停产 很 久 了， <em>因此</em>  无法 给 工人 发 工资。<span class="pinyin">Gōngchǎng yǐjīng tíngchǎn hěn jiǔ le, <em>yīncǐ</em> wúfǎ gěi gōngrén fā gōngzī.</span><span class="trans">The factory has long since ceased production, and therefore is unable to give its workers their wages.</span>
+* 上海 的 冬天 经常 下雨， <em>因此</em> 在 我的 印象 中，上海的 冬天 湿冷 湿冷 的。<span class="pinyin">Shànghǎi de dōngtiān jīngcháng xiàyǔ, <em>yīncǐ</em> zài wǒde yìnxiàng zhōng, Shànghǎi de dōngtiān shīlěng-shīlěng de.</span><span class="trans">It often rains in winter in Shanghai, therefore my impression is that winter in Shanghai is wet and cold.</span>
+* 希腊 政府 决定 停止 使用 自动 取款机 ， <em>因此</em> ， 取款机 外面 有 很 多 人 排队 取钱 。 <span class="pinyin">Xīlà zhèngfǔ juédìng tíngzhǐ shǐyòng zìdòng qǔkuǎnjī, <em>yīncǐ</em>, qǔkuǎnjī wàimiàn yǒu hěn duō rén páiduì qǔqián.</span><span class="trans">The Greek government decided to end the use of automated teller machines. As a result, there were lots of people outside lined up to withdraw money from the ATMs.</span>
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+{{Source|HSK Standard Course 4上|96}}
+{{Source|New Practical Chinese Reader 5 (新实用汉语课本5)|29}}
+{{Source|卓越汉语－公司实战篇|67}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课下册）|430}}
+
+[[Category: B2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|因此|B2|⋯⋯，因此⋯⋯|这 家 饭店 涨价 了 ， <em>因此</em> 顾客 也 少 了 。|grammar point|ASGUEFAL}}
+{{Used for|Indicating cause and effect}}
+{{Similar|Explaining results with "suoyi"}}
+{{Similar|Expressing "as a result" with "jieguo"}}
+{{Similar|Cause and effect with "yinwei" and "suoyi"}}
+{{Translation|therefore}}
+{{Structure|Cause/Effect Statements}}

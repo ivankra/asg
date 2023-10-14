@@ -1,0 +1,52 @@
+<!-- Expressing "again and again" with "yizai" -->
+{{Grammar Box}} 
+{{stub}} 
+
+
+== Structure ==
+
+“一再”可以用于口语，但如果直接修饰谓语，动词一般都比较书面语的双音节动词。
+
+<div class="jiegou">
+Subj. + 一再 + Verb
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*我 <em>一再</em> 跟 你 说 ，出门在外 要 小心 。<span class="trans">.</span>
+*他 总是 犹犹豫豫 ，<em>一再</em> 错失良机 。<span class="trans">.</span>
+* <em>一再</em> 强调 。<span class="trans">.</span>
+* <em>一再</em> 请求 。<span class="trans">.</span>
+* <em>一再</em> 狡辩 。<span class="trans">.</span>
+
+</div>
+
+“一再”和谓语之间也可以加“地”。
+
+<div class="liju">
+
+*他 <em>一再</em> <strong>地</strong> 解释 自己 不是 故意 的 。<span class="trans">.</span>
+* <em>一再</em> <strong>地</strong> 嘱咐 你 ，。<span class="trans">.</span>
+* <em>一再</em> <strong>地</strong>提醒 。<span class="trans">.</span>
+
+</div>
+
+== See also ==
+
+*[[Expressing "all along" with "yizhi"]]
+*[[Expressing "over and over again" with "zaisan"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|一再|C1|Subj. + 一再 + Verb| 我 <em>一再</em>  跟 你 说 ，出门在外 要 小心 。|grammar point|ASG47D26}}
+{{Rel char|再}}
+{{Used for|Emphasizing}}
+{{Similar|Expressing "over and over again" with "zaisan"}} 
+{{Similar|Expressing "all along" with "yizhi"}}
+{{POS|Adverbs}}
+{{Translation|again and again}}

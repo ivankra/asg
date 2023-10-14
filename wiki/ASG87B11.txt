@@ -1,0 +1,48 @@
+<!-- Using "budan... geng" to express "not only... but also" -->
+{{stub}}
+
+We've seen multiple ways to express "not only... but also..." 不但 can be followed by 而且 (ér qiě), 还 (hái), or 也 (yě). This structure expresses an equal degree of importance between the two scenarios and situations. However, 不但 followed by 更 (gèng) expresses a different degree of importance between the two situations mentioned. The situation following 更 (gèng) has a greater impact or degree of importance than the situation following 不但. 
+
+== Structure ==
+
+<div class="jiegou">
+
+Subj. + 不但 + …… , 更 + ……
+
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+* 老师<em>不但</em>教给我们知识，<em>更</em>教会了我们做人的道理。 <span class="trans">The teacher not only taught us knowledge but even more, about how to behave. </span class="trans">
+* 我<em>不但</em>喜欢你的性格，<em>更</em>喜欢你笑的样子。 <span class="trans"> I not only like your character but also the way you laugh. </span class="trans">
+* 现在撤资<em>不但</em>会对贸易造成危害，<em>更</em>会对股市造成影响。 <span class="trans"> The divestment will not only harm trade but also will affect the stock market even more so. </span class="trans">
+* 我<em>不但</em>想换电脑，<em>更</em>想换手机。
+* 网上买东西<em>不但</em>不贵，<em>更</em>方便。
+* 她<em>不但</em>聪明，<em>更</em>比其他人努力。
+* 养宠物<em>不但</em>要有爱心，<em>更</em>要有耐心。
+* 这部电影<em>不但</em>口碑好，票房<em>更</em>高。
+* 新工作<em>不但</em>离家近，薪水<em>更</em>比较高。
+* 查字典的好处很多，<em>不但</em>可以清楚地知道读音，<em>更</em>可以查到字词的解释。
+
+
+</div>
+
+== Sources and further reading ==
+=== Books ===
+
+{{Source|Anything Goes (无所不谈)|17}}
+
+[[Category:B2 grammar points]]
+{{Basic Grammar|不但|B2|不但⋯⋯，更⋯⋯|他 <em>不但</em> 喜欢他笑的样子，<em>更</em> 喜欢他的性格。|grammar point|ASG87B11}}
+{{Rel char|更}}
+{{Similar|Expressing "not only... but also"}}
+{{Similar|"In Addition" as "lingwai"}}
+{{Similar|Many types of "not only... but also..."}}
+{{Similar|Expressing "in addition" with "haiyou"}}
+{{Used for|Connecting ideas}}
+{{Used for|Adding more explanation}}
+{{Used for|Additional degree}}
+{{Translation|not}}
+{{Translation|also}}

@@ -1,0 +1,73 @@
+<!-- Expressing "be going to" with "yao" -->
+{{Grammar Box}}
+
+The [[auxiliary verb]] 要 (yào) has [[Auxiliary verb "yao" and its multiple meanings|several different meanings]], and here we'll tackle the "be going to" meaning. You'll use this when you are discussing your plans with someone.
+
+== Structure ==
+
+The idea behind this usage of 要 (yào) is that someone is "planning to" or "going to" or "preparing to" do something.  It's not that they just ''want to'', or ''have to'', it's that they fully expect to do it.  It's in their plan.
+
+This usage of 要 (yào) typically includes a [[time noun|time word]] of some sort, which may be placed before or after the subject. This is fairly logical; if you're discussing plans for the future, you're quite likely to say when you plan to do things.
+
+<div class="jiegou">
+
+Subj. + Time + 要 + Verb
+
+</div>
+
+<div class="jiegou">
+
+Time + Subj. + 要 + Verb
+
+</div>
+
+Note that the time word is not strictly required, and when it's missing, you may at first find yourself wondering [[Auxiliary verb "yao" and its multiple meanings|which usage of 要 (yào)]] you're dealing with. This is normal; it just takes some getting used to.
+
+== Examples ==
+
+<div class="liju">
+
+*我  <strong>明天</strong> <em>要</em> 买 一 个  iPhone。 <span class="pinyin">Wǒ <strong>míngtiān</strong> <em>yào</em> mǎi yī gè iPhone.</span><span class="trans">I am going to buy an iPhone tomorrow.</span>
+* 你们 <strong>现在</strong> <em>要</em> 出去 吗？ <span class="pinyin">Nǐmen <strong>xiànzài</strong> <em>yào</em> chūqù ma?</span><span class="trans">Are you all going out now?</span>
+*我们 <strong>今年</strong> <em>要</em> 去 美国 。 <span class="pinyin">Wǒmen <strong>jīnnián</strong> <em>yào</em> qù Měiguó.</span><span class="trans">We are planning to go to the U.S. this year.</span>
+*他 <strong>下 个 月</strong> <em>要</em> 来 中国 工作。 <span class="pinyin">Tā <strong>xià gè yuè</strong> <em>yào</em> lái Zhōngguó gōngzuò.</span><span class="trans">He is coming to China to work next month.</span>
+*你 <strong>下 个 星期</strong> <em>要</em> 去 她 家 吃 晚饭 吗？<span class="pinyin"> Nǐ xià gè xīngqī <em>yào</em> qù tā jiā chī wǎnfàn ma?</span><span class="trans">Are you going to her place for dinner next week?</span>
+*这 个 <strong>星期天</strong> 你 <em>要</em> 做 什么？<span class="pinyin">Zhège <strong>Xīngqītiān</strong> nǐ <em>yào</em> zuò shénme?</span><span class="trans">What are you doing this Sunday?</span>
+*我 <strong>晚上</strong> <em>要</em> 给 妈妈 打电话。  <span class="pinyin">Wǒ <strong> wǎnshang</strong> <em>yào</em> gěi māma dǎ diànhuà.</span><span class="trans">I am going to call my mom this evening.</span>
+*<strong>下午</strong> 老师 <em>要</em>  来 我家。 <span class="pinyin"><strong>Xiàwǔ</strong> lǎoshī <em>yào</em>  lái wǒ jiā.</span><span class="trans">The teacher is coming to my place this afternoon.</span>
+*老板 <strong>明天</strong> <em>要</em> 见 他们 吗？ <span class="pinyin">Lǎobǎn <strong>míngtiān</strong> <em>yào</em> jiàn tāmen ma?</span><span class="trans">Is the boss going to meet them tomorrow? </span>
+*<strong>下班 以后</strong> 你 <em>要</em> 回家 吗？ <span class="pinyin"><strong>Xiàbān yǐhòu</strong> nǐ <em>yào</em> huíjiā ma?</span><span class="trans">Are you planning to go home after getting off work?</span>
+
+</div>
+
+==See also==
+
+*[[About to happen with "le"]]
+*[[Wanting to do something with "yao"]]
+*[[Auxiliary verb "hui" for "will"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|4}}
+{{Source|现代汉语八百词（增订本）|}}
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级)]][http://www.amazon.cn/gp/product/B004WA6JSQ/ref%3das_li_ss_tl?ie=UTF8&tag=allset-23&linkCode=as2&camp=536&creative=3132&creativeASIN=B004WA6JSQ →buy]
+
+=== Dictionaries ===
+* [[现代汉语词典（第5版）]] (p. ) [http://www.amazon.cn/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E8%AF%8D%E5%85%B8/dp/B001B1RZCI/ref=sr_1_1?ie=UTF8&qid=1345693609&sr=8-1 →buy]
+
+[[Category:A1 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|要|A1|Subj. + 要 + Verb (+ 了)|我 <em>要</em> 去 吃饭，你 去 吗？|grammar point|ASGVT2KN}}
+{{Similar|Expressing "about to" with "jiuyao"}}
+{{Similar|About to happen with "le"}}
+{{Similar|"Would like to" with "xiang"}}
+{{Used for|Expressing desires}}
+{{Used for|Expressing determination}}
+{{Used for|Referring to the future}}
+{{Used for|Referring to changes of situation}}
+{{POS|Verbs}}
+{{Subprop|Auxiliary verbs}}
+{{Translation|want}}
+{{Translation|be going to}}

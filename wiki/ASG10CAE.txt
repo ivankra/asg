@@ -1,0 +1,70 @@
+<!-- Expressing "less than" with "budao" -->
+{{Grammar Box}} 
+
+The word 到 (dào) means "arrive," but it can also mean "to reach" or "to get to" in an abstract sense. So in this pattern, 不到 (bùdào) means "to not reach (the amount of)," or, to put it another way, "to be less than."
+
+== Basic Pattern ==
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 不到 + Number + [Measure Word] + Noun
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我 女儿 <em>不到</em> 三 岁 。<span class="pinyin">Wǒ nǚ'ér <em>bùdào</em> sān suì.</span><span class="trans">My daughter is not yet three years old.</span>
+*我 昨天 睡 了 <em>不到</em> 五 个 小时 。<span class="pinyin">Wǒ zuótiān shuì le <em>bùdào</em> wǔ gè xiǎoshí.</span><span class="trans"> Yesterday I slept for almost five hours.</span>
+*这 件 衣服 花 了 <em>不到</em> 一 百 块 。<span class="pinyin">Zhè jiàn yīfu huā le <em>bùdào</em> yī bǎi kuài.</span><span class="trans">On this piece of clothing I spent less than 100 RMB.</span>
+*我 家 到 公司 <em>不到</em> 五 百 米 。<span class="pinyin">Wǒ jiā dào gōngsī <em>bùdào</em> wǔ bǎi mǐ.</span><span class="trans">My house is less than 500 meters from the office.</span>
+*在 美国 ，<em>不到</em> 21 岁 不 能 喝酒 。<span class="pinyin">Zài Měiguó, <em>bùdào</em> èrshí-yī suì, bù néng hējiǔ.</span><span class="trans">In the US, if you're under 21 you can't drink alcohol.</span>
+
+</div>
+
+== Advanced Pattern ==
+
+=== Structure ===
+
+When 不到 (bùdào) is put before a time or a duration of time, it needs to be followed with 就 (jiù). This shows that something (usually referring to the past) has happened earlier than expected. 
+
+<div class="jiegou">
+Subj. + 不到 + Time + 就 + Predicate + 了
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*她 的 病 <em>不到</em> 一个 星期 <strong>就</strong> 好 <strong>了</strong> 。<span class="pinyin">Tā de bìng <em>bùdào</em> yī gè xīngqī <strong>jiù</strong> hǎo <strong>le</strong>.</span><span class="trans">Her sickness got better in less than a week.</span>
+*他们 认识 <em>不到</em> 两 个 月 <strong>就</strong> 结婚 <strong>了</strong> 。<span class="pinyin">Tāmen rènshi <em>bùdào</em> liǎng gè yuè <strong>jiù</strong> jiéhūn <strong>le</strong>.</span><span class="trans">After knowing each other for less than two months they got married.</span>
+*李 医生 <em>不到</em> 55 岁 <strong>就</strong> 退休 <strong>了</strong> 。<span class="pinyin">Lǐ yīshēng <em>bùdào</em> wǔshí-wǔ suì <strong>jiù</strong> tuìxiū <strong>le</strong>.</span><span class="trans">Dr. Li retired at under the age of 55.</span>
+*爷爷 <em>不到</em> 60 岁 <strong>就</strong> 去世 <strong>了</strong> 。<span class="pinyin">Yéye <em>bùdào</em> liùshí suì <strong>jiù</strong> qùshì <strong>le</strong>.</span><span class="trans">My grandpa was less than 60 years old when he died.</span>
+*老板 <em>不到</em> 30 岁 <strong>就</strong> 有 白 头发 <strong>了</strong> 。<span class="pinyin">Lǎobǎn <em>bùdào</em> sānshí suì <strong>jiù</strong> yǒu bái tóufa <strong>le</strong>.</span><span class="trans">My boss is less than 30 years old and already has some gray hair.</span>
+
+</div>
+
+For other similar uses of 就, see also [[expressing earliness with "jiu"|expressing earliness with "jiu."]]
+
+== See also ==
+
+*[[Emphasizing quantity with "dou"]]
+*[[Referring to "all" using "suoyou"]]
+*[[Indicating a number in excess]]
+*[[Indicating the whole with "quan"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+[[Category:Comparing]]
+[[Category:B1 grammar points]]
+{{HSK|HSK0}}
+{{Basic Grammar|不到|B1|不到 + Number + Measure Word + Noun|我 女儿 <em>不到</em> 三 岁 。|grammar point|ASG10CAE}}
+{{Similar|Referring to "all" using "suoyou"}}
+{{Similar|Indicating a number in excess}}
+{{Similar|Indicating the whole with "quan"}}
+{{Used for|Expressing quantity}}
+{{POS|Prepositions}}
+{{Translation|less than}}

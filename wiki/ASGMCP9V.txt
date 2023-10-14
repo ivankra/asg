@@ -1,0 +1,62 @@
+<!-- Rhetorical questions with "nandao" -->
+{{Grammar Box}} 
+Rhetorical questions use the form of a question to emphasize a point, thus do not require an answer. A typical English rhetorical question might be: "you're not saying you actually believe him, are you?" or "just how stupid are you?" In Chinese, 难道 (nándào) is used as a marker to form this kind of question. Since we don't "mark" our rhetorical questions like this in English, this can take some getting used to in Chinese.
+
+==Structure==
+
+<div class= "jiegou">
+
+难道 + [Rhetorical Question] + 吗？
+
+</div>
+
+==Examples==
+
+<div class="liju">
+
+* <em>难道</em> 你 真的 相信 他 <strong>吗</strong>？ <span class="pinyin"><em>Nándào</em> nǐ zhēn de xiāngxìn tā <strong>ma</strong>?</span><span class="trans">You don't actually believe him, do you?</span>
+* <em>难道</em> 你 是 我 妈 <strong>吗</strong>？ <span class="pinyin"><em>Nándào</em> nǐ shì wǒ mā <strong>ma</strong>?</span><span class="trans">What are you, my mother or something?</span>
+* 今天 是 我 的 生日，<em>难道</em> 你 不 知道 <strong>吗</strong>？ <span class="pinyin">Jīntiān shì wǒ de shēngrì, <em>nándào</em> nǐ bù zhīdào <strong>ma</strong>?</span><span class="trans">Today's my birthday; you're telling me you didn't know?</span>
+* <em>难道</em> 你 今天 没 去 上班 <strong>吗</strong>？<span class="pinyin"><em>Nándào</em> nǐ jīntiān méi qù shàngbān <strong>ma</strong>?</span><span class="trans">Did you not go to work today?</span> 
+* 你 这么 冷静，<em>难道</em> 不 知道 发生 了 什么 <strong>吗</strong>？ <span class="pinyin">Nǐ zhème lěngjìng, <em>nándào</em> bù zhīdào fāshēng le shénme <strong>ma</strong>?</span><span class="trans">You are so calm. Do you not know what happened?</span>
+* 你 父母 这么 关心 你， <em>难道</em> 你 一点 都 感觉 不到 <strong>吗</strong>？<span class="pinyin">Nǐ fùmǔ zhème guānxīn nǐ, <em>nándào</em> nǐ yīdiǎn dōu gǎnjué bù dào <strong>ma</strong>?</span><span class="trans">Your parents care so much about you. Don't tell me that you don't feel it at all?</span>
+* 他 这么 帅，又 这么 有钱，<em>难道</em> 你 不 想 嫁 给 他 <strong>吗</strong>？<span class="pinyin">Tā zhème shuài, yòu zhème yǒu qián, <em>nándào</em> nǐ bù xiǎng jià gěi tā <strong>ma</strong>?</span><span class="trans">He's so handsome and rich! Are you telling me that you don't want to marry him?</span>
+</div>
+
+Note that 难道 can only be used for rhetorical questions which could be answered with yes or no, and generally end with 吗. 
+
+<div class="liju">
+
+<ul>
+<li class="x"><em>难道</em> 我 应该 给 你 多少 钱 ？<span class="expl">Not a 吗 question</span><span class="pinyin"><em>Nándào</em> wǒ yīnggāi gěi nǐ duōshao qián?</span><span class="trans">How much money should I give you?</span></li>
+<li class="x"><em>难道</em>他们 还 要 等 多长 时间 ？<span class="expl">Not a 吗 question</span><span class="pinyin"><em>Nándào</em> tāmen hái yào děng duōcháng shíjiān?</span><span class="trans">How long do they still have to wait?</span></li>
+<li class="x"><em>难道</em>你 还 想 在 这 种 公司 工作 多少 年 ？<span class="pinyin"><em>Nándào</em> nǐ hái xiǎng zài zhè zhǒng gōngsī gōngzuò duōshao nián?</span><span class="trans">How many more years do you want to work for this kind of  company?</span></li>
+</ul>
+</div>
+
+==See Also==
+
+*[["Could it be that" with "qibushi"]]
+*[[Expressing "could it be possible that" with "mofei"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|105}}
+{{Source|Boya Chinese Elementary Starter 2 (博雅汉语初经起步篇)|132-3}} 
+{{Source|Boya Chinese Upper Intermediate 1 (博雅汉语中级冲刺篇)|91-2}} 
+{{Source|Integrated Chinese: Level 2, Part 1|120}}
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|83}}
+
+=== Websites ===
+
+* http://en.wikipedia.org/wiki/Rhetorical_question
+
+[[Category: B2 grammar points]]
+{{HSK|HSK4}}
+[[Category: Adverbs]]
+{{Basic Grammar|难道|B2|难道⋯⋯？|这 都 是 你 引起 的 ， <em>难道</em> 你 就 不 内疚 ？|grammar point|ASGMCP9V}}
+{{POS|Adverbs}}
+{{Used for|Asking questions}}
+{{Used for|Asking rhetorical questions}}

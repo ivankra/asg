@@ -1,0 +1,69 @@
+<!-- Expressing "a little too" with "you dian" -->
+{{Grammar Box}} 
+
+At times you may want to politely diss something using the phrase "a little too."  For example, if you are getting lunch with a friend who wants to be seated outside, you might say, "It is a little too hot" to suggest you sit inside. In a case like this, you can use 有一点 (yǒuyīdiǎn) or 有点 (yǒudiǎn). The two are interchangeable.
+
+== Structure == 
+
+To say that something is "a little ''too''..." or "a bit ''too''...," 有一点 (yǒuyīdiǎn) is often used. Its northern Chinese version is 有一点儿 (yǒuyīdiǎnr). 
+
+<div class="jiegou">
+Subj. + 有一点(儿) + Adj.
+</div>
+
+In spoken Chinese, the 一 (yī) in 有一点 (yǒuyīdiǎn) is often dropped, leaving 有点 (yǒudiǎn).  In northern China, that's usually pronounced 有点儿 (yǒudiǎnr).
+
+<div class="jiegou">
+Subj. + 有点(儿) + Adj.
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*我 <em>有点</em> 饿 。<span class="pinyin">Wǒ <em>yǒudiǎn</em> è.</span><span class="trans">I'm a little hungry.</span>
+*这个 菜 <em>有点</em> 辣 。<span class="pinyin">Zhège cài <em>yǒudiǎn</em> là.</span><span class="trans">This dish is a little too spicy.</span>
+*昨天 <em>有一点</em> 热 。<span class="pinyin">Zuótiān <em>yǒuyīdiǎn</em> rè.</span><span class="trans">Yesterday it was a little too hot.</span>
+*上海 的 冬天 <em>有一点</em> 冷。 <span class="pinyin">Shànghǎi de dōngtiān <em>yǒuyīdiǎn</em> lěng.</span><span class="trans">Winter in Shanghai is a bit too cold.</span>
+*我弟弟 <em>有点</em> 胖 。<span class="pinyin">Wǒ dìdi <em>yǒudiǎn</em> pàng.</span><span class="trans">My younger brother is a bit fat.</span>
+*今天 <em>有点</em> 累 。<span class="pinyin">Jīntiān <em>yǒudiǎn</em> lèi.</span><span class="trans">Today I am a little bit tired.</span>
+*这个 月 公司 <em>有点</em>  忙 。<span class="pinyin">Zhège yuè gōngsī <em>yǒudiǎn</em> máng.</span><span class="trans">This month the company is a little bit busy.</span>
+*这 个 地方 <em>有点</em> 吵 ，我们 走吧 。<span class="pinyin">Zhège dìfang <em>yǒudiǎn</em>  chǎo, wǒmen zǒu ba.</span><span class="trans">This place is a little too noisy. Let's go.</span>
+* 爸爸 回来 <em>有点</em> 晚 ，妈妈 <em>有点</em> 不高兴 。<span class="pinyin">Bàba huílái <em>yǒudiǎn</em> wǎn, māma <em>yǒudiǎn</em> bù gāoxìng.</span><span class="trans">Dad came back home a bit too late, so mom was a little unhappy.</span>
+*老师 今天 <em>有点</em> 不 舒服 ，所以 没 来上课 。<span class="pinyin">Lǎoshī jīntiān <em>yǒudiǎn</em> bù shūfu, suǒyǐ méi lái shàngkè.</span><span class="trans">Today, the teacher felt a little unwell, so she didn't come to class.</span>
+
+</div>
+
+== Negative Connotation ==
+
+Note that for the speaker, the adjective after 有点 (yǒudiǎn) expresses an unpleasant or undesirable meaning, so you won't hear things like 有点高兴 (yǒudiǎn gāoxìng), 有点舒服 (yǒudiǎn shūfu), 有点好玩儿 (yǒudiǎn hǎowánr), etc., because "happy," "comfortable," and "fun" are all adjectives with positive connotations.
+
+== See Also ==
+
+* [[Expressing "excessively" with "tai"]]
+* [[Expressing "a bit too"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|36}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|183-4}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|有点|A2|有点(儿) + Adj.|我 <em>有点</em> 饿 。|grammar point|ASGPM3MY}}
+{{Rel char|有点儿}}
+{{Rel char|一点}}
+{{Rel char|一点儿}}
+{{Rel char|有}}
+{{Similar|Expressing "excessively" with "tai"}} 
+{{Similar|Expressing "A bit too"}}
+{{Similar|Simple "noun + adjective sentences}}
+{{Similar|Expressing "much more" in comparisons}}
+{{Similar|Expressing "rather" with "bijiao"}}    
+{{Similar|Comparing "youdian" and "yidian"}}    
+{{Used for|Adding more explanation}}
+{{Used for|Expressing quality}}
+{{POS|Adverbs with Adjectives}}
+{{Translation|too}}

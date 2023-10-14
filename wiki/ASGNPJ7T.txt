@@ -1,0 +1,129 @@
+<!-- Comparing "yihou" "ranhou" "houlai" -->
+{{Grammar Box}} 
+While both 以后 (yǐhòu) and 后来 (hòulái) can mean "later," they have distinct uses. 然后 (ránhòu) means "and then." Don't let yet another 后 word confuse you!
+
+== 然后 as "And Then" ==
+
+然后 is a conjunction, which is always used in the middle of a sequence of events. It is often used with 先 (xiān, meaning "first"). Neither 以后 nor 后来 can be used this way.
+
+<div class="liju">
+*我们 <strong>先</strong> 复习 一下 ，<em>然后</em> 上 新 课 。<span class="pinyin">Wǒmen <strong>xiān</strong> fùxí yīxià, <em>ránhòu</em> shàng xīn kè.</span><span class="trans">Let's do some review first and then study a new lesson.</span>
+</div>
+
+=== Common Mistakes ===
+
+<div class="liju">
+
+<ul>
+<li class="x">我们 <strong>先</strong> 复习 一下 ，<em>以后</em> 上 新 课 。<span class="pinyin">Wǒmen <strong>xiān</strong> fùxí yīxià, <em>yǐhòu</em> shàng xīn kè.</span><span class="trans">Let's do some review first and then study a new lesson.</span></li>
+<li class="x">我 打算 先 住 朋友家 ，<em>以后</em> 找 房子 。<span class="pinyin">Wǒ dǎsuàn xiān zhù péngyou jiā, <em>yǐhòu</em> zhǎo fángzi.</span><span class="trans">My plan is to stay at my friend's friend, and then find a place to live.</span></li>
+<li class="x">我们 下周 去 北京 出差 ，<em>以后</em> 去 欧洲 度假 。<span class="pinyin">Wǒmen xiàzhōu qù Běijīng chūchāi, <em>yǐhòu</em> qù Ōuzhōu dùjià.</span><span class="trans">We're going to Beijing on a business trip, and after that we'll go to Europe on vacation.</span></li>
+</ul>
+
+</div>
+
+Simply swapping 以后 for 然后 in each of these sentences would make them correct.
+
+=== 然后 without 先 ===
+
+<div class="liju">
+*我们 在 楼下 见 ，<em>然后</em> 一起 走 。<span class="pinyin">Wǒmen zài lóuxià jiàn, <em>ránhòu</em> yīqǐ zǒu.</span><span class="trans">We'll meet downstairs and then we go together.</span>
+*宝宝 醒了 ，哭 了 一会儿 ，<em>然后</em> 又 睡着 了 。<span class="pinyin">Bǎobao xǐng le, kū le yīhuìr, <em>ránhòu</em> yòu shuìzháo le.</span><span class="trans">The baby woke up. He cried for a little while and then fell asleep again.</span>
+*中国 是 人口 最多 的 发展中 国家 ，<em>然后</em> 是 印度 。<span class="pinyin">Zhōngguó shì rénkǒu zuì duō de fāzhǎn zhōng guójiā, <em>ránhòu</em> shì Yìndù.</span><span class="trans">China is the biggest developing country and then it's India.</span>
+</div>
+
+== Usage of 以后 ==
+
+=== 以后 as "In the Future" ===
+
+以后 is a time noun, which can be used to talk about things that happen at some unspecified point in the future while 然后 and 后来 can't be used this way.
+
+A few examples:
+
+<div class="liju">
+*我 <em>以后</em> 想 开 公司 。<span class="pinyin">Wǒ <em>yǐhòu</em> xiǎng kāi gōngsī.</span><span class="trans">I want to start up my own business in the future.</span>
+*请 你 <em>以后</em> 别 来 了 。<span class="pinyin">Qǐng nǐ <em>yǐhòu</em> bié lái le.</span><span class="trans">Please stop coming here in the future.</span>
+</div>
+
+=== 以后 as "After" ===
+
+Note that the time can be specific (like a date or time) or broad (like an event, action, or occurrence). 
+
+A few examples:
+
+<div class="liju">
+*我 一 个 小时 <em>以后</em> 回来 。<span class="pinyin">Wǒ yī gè xiǎoshí <em>yǐhòu</em> huílái.</span><span class="trans"> I will come back in an hour.</span>
+*毕业 <em>以后</em> 他 出国 了 。<span class="pinyin">Bìyè <em>yǐhòu</em> tā chūguó le.</span><span class="trans">He went abroad after he graduated.</span>
+</div>
+
+== 后来 as "Afterwards" ==
+
+后来 is used to sequence two events that have already occurred. It is the Chinese equivalent of the English word "afterward." 
+
+=== Structure ===
+
+<div class="jiegou">
+[Past Event 1] ，后来 + [Past Event 2]
+</div>
+
+=== Examples ===
+
+<div class="liju">
+<ul>
+<li class="x">他 在 我们 公司 干 过 两 年 ，<em>以后</em> 跳槽 <strong>了</strong>  。<span class="pinyin">Tā zài wǒmen gōngsī gàn guo liǎng nián, <em>yǐhòu</em> tiàocáo <strong>le</strong>.</span></li>
+<li class="o">他 在 我们 公司 干 过 两 年 ，<em>后来</em> 跳槽 <strong>了</strong>  。<span class="pinyin">Tā zài wǒmen gōngsī gàn guo liǎng nián, <em>hòulái</em> tiàocáo <strong>le</strong>.</span><span class="trans">He worked for our company for two years, and then he jumped ship.</span></li>
+<li class="x"><em>以后</em> 他 去 <strong>了</strong> 美国 ，<em>然后</em> 他 的 父母 也 搬 过去 <strong>了</strong> 。<span class="pinyin"><em>Yǐhòu</em> tā qù <strong>le</strong> Měiguó. <em>Ránhòu</em> tā de fùmǔ yě bān guòqù <strong>le</strong>.</span>
+<li class="o"><em>后来</em> 他 去 <strong>了</strong> 美国 ，<em>然后</em> 他 的 父母 也 搬 过去 <strong>了</strong> 。<span class="pinyin"><em>Hòulái</em> tā qù <strong>le</strong> Měiguó. <em>Ránhòu</em> tā de fùmǔ yě bān guòqù <strong>le</strong>.</span><span class="trans">Afterwards he moved to the US. And then his parents also moved over there.</span></li>
+<li class="x">他们 大学 的时候 在一起 过 ，<em>以后</em> 分手了 。 <span class="pinyin">Tāmen dàxué de shíhou zài yīqǐ guo, <em>yǐhòu</em> fēnshǒu le.</span></li>
+<li class="o">他们 大学 的时候 在一起 过 ，<em>后</em> 分手了 。 <span class="pinyin">Tāmen dàxué de shíhou zài yīqǐ guo, <em>hòulái</em> fēnshǒu le.</span></li>
+</ul>
+</div>
+
+== Example Dialog ==
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span> 我 <strong>先</strong> 去 你 家 ，<em>然后</em> 我们 一起 去 见 她 。<span class="pinyin">Wǒ <strong>xiān</strong> qù nǐ jiā, <em>ránhòu</em> wǒmen yīqǐ qù jiàn tā.</span><span class="trans">I'll go to your house first, then we can go together to see her.</span></li>
+<li><span class="speaker">B:</span> 好的 。我 好久 没 见 她 了 ！ 她 出国 <em>以后</em> 你们 见过面 吗 ？<span class="pinyin">Hǎo de. Wǒ hǎojiǔ méi jiàn tā le! Tā chūguó <em>yǐhòu</em> nǐmen jiàn guo miàn ma?</span><span class="trans">Sure. I haven't seen her in so long! Have you seen each other since she went abroad?</span></li>
+<li><span class="speaker">A:</span> 见 过 一次  ，<em>后来</em> 再也 没见过 。<span class="pinyin">Jiàn guo yī cì, <em>hòulái</em> zài yě méi jiàn guo.</span><span class="trans">We met once, but I haven't seen her since then.</span></li>
+</ul>
+</div>
+
+== See also ==
+
+*[[In the future in general]]
+*[[Sequencing past events with "houlai"]]
+*[[After a specific time]]
+*[[Comparing "houlai" and "ranhou"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|对外汉语教学语法释疑201例|5}}
+{{Source|对外汉语教学语法释疑201例|7}}
+{{Source|现代汉语八百词（增订本）|461}}
+{{Source|现代汉语八百词（增订本）|614}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|268}}
+{{Source|Basic Patterns of Chinese Grammar|26 - 27}}
+{{Source|Integrated Chinese: Level 1, Part 2|294}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|267}} 
+
+=== Dictionaries ===
+
+{{Source|现代汉语词典（第5版）|570}}
+
+[[Category:grammar comparison]]
+{{HSK|HSK3}}
+{{Basic Grammar|以后|B2|以后 vs. 然后 vs. 后来|我 <em>以后</em> 想 开 公司 。/ <em>后来</em> 他 去 了 美国 ，<em>然后</em> 他 的 父母 也 搬 过去 了 。|grammar point|ASGNPJ7T}}
+{{Rel char|然后}}
+{{Rel char|后来}}
+{{Similar|in the future in general}}
+{{Similar|Sequencing past events with "houlai"}}
+{{Similar|After a specific time}}
+{{Used for|Expressing time and date}}
+{{Used for|Sequencing events in time}}
+{{Used for|Expressing order}}
+{{Translation|later}}
+{{Translation|after}}
+{{Comparison|Time Words}}

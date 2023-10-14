@@ -1,0 +1,32 @@
+<!-- Declaring the only option with "zhihao" -->
+{{Grammar Box}} 
+只好 (zhǐhǎo) is an adverb used to express that one "has no choice but to" or "has no other option but to." The option is one the speaker is not fond of.
+
+== Structure ==
+
+<div class="jiegou">
+⋯⋯ ，(Subj. +) 只好 + [Verb Phrase]
+</div>
+
+== Examples ==
+
+<div class="liju">
+*餐厅 都 关门 了 ，我们 <em>只好</em> 去 吃 KFC 。<span class="pinyin">Cāntīng dōu guānmén le, wǒmen <em>zhǐhǎo</em> qù chī KFC.</span><span class="trans">The other restaurants are all closed, so we didn't have a choice but go to KFC to eat.</span>
+*我 忘 了 预约 ，<em>只好</em> 去 排队 。<span class="pinyin">Wǒ wàngle yùyuē, <em>zhǐhǎo</em> qù páiduì.</span><span class="trans">I forgot to make an appointment, so I had to wait in line.</span>
+*他 没有 时间 去 ，<em>只好</em> 我 去 。<span class="pinyin">Tā méiyǒu shíjiān qù, <em>zhǐhǎo</em> wǒ qù.</span><span class="trans">He doesn't have time to go, so I have to go.</span>
+*老板 不 给 我 涨 工资 ，我 <em>只好</em> 去 干私活 。<span class="pinyin">Lǎobǎn bù gěi wǒ zhǎng gōngzī, wǒ <em>zhǐhǎo</em> qù gàn sīhuó.</span><span class="trans">The boss wouldn't give me a raise, so I have to take on some side work.</span>
+*她 实在 受不了 那么 吵闹 的 邻居 ，<em>只好</em> 搬走 了 。<span class="pinyin">Tā shízài shòubuliǎo nàme chǎonào de línjū, <em>zhǐhǎo</em> bān zǒu le.</span><span class="trans">She really couldn't stand such noisy neighbors, so she had to move away.</span>
+*那天 突然 下雨 了 ，我们 <em>只好</em> 取消 。<span class="pinyin">Nà tiān tūrán xià yǔ le, wǒmen <em>zhǐhǎo</em> qǔxiāo.</span><span class="trans">It suddenly rained that day, so we had to cancel it.</span>
+*警察 给 小偷 看 了 监控 ，小偷 <em>只好</em> 承认 了 。<span class="pinyin">Jǐngchá gěi xiǎotōu kàn le jiānkòng, xiǎotōu <em>zhǐhǎo</em> chéngrèn le.</span><span class="trans">The police showed the surveillance to the thief, so he had to admit it.</span>
+*公司 付 不起 房租 了 ，我们 <em>只好</em> 在家工作 。<span class="pinyin">Gōngsī fù bùqǐ fángzū le, wǒmen <em>zhǐhǎo</em> zài jiā gōngzuò.</span><span class="trans">The company can't afford the rent, so we have to work at home.</span>
+*票价 太 贵 了，我 <em>只好</em> 放弃 了 。<span class="pinyin">Piàojià tài guì le, wǒ <em>zhǐhǎo</em> fàngqì le.</span><span class="trans">The fare was too expensive, so I gave up.</span>
+*最近 工作 太 忙 了，我 <em>只好</em> 取消 了 我 和 朋友 的 旅行。<span class="pinyin">Zuìjìn gōngzuò tài máng le, wǒ <em>zhǐhǎo</em> qǔxiāo le wǒ hé péngyou de lǚxíng.</span><span class="trans">Work has been too busy lately, so I had no choice but to cancel my trip with my friend.</span>
+</div>
+
+[[Category:B2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|只好|B2|只好 + Verb Phrase|上 个 周末 下雨 了 ，我们 <em>只好</em> 待 在 家。|grammar point|ASG767A2}}
+{{Similar|Expressing "have to" with budebu}}
+{{Similar|Expressing "must" with "dei"}}
+{{Used for|Describing attitude}}
+{{POS|Adverbs}}

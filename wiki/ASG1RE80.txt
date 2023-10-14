@@ -1,0 +1,76 @@
+<!-- Expressing contrariness with "dao" -->
+{{Grammar Box}} 
+倒 (dào) can be used to express something is contrary to expectations, acting as a turning point in the sentence. It is generally followed by a positive comment.
+
+== Using 倒 as "However" ==
+
+倒 can be used to express an unexpected situation. Note that 倒 is often followed by 也 or 又 to add further emphasis.
+
+=== Structure ===
+
+<div class="jiegou">
+⋯⋯ ，Subj. + 倒 +  (也 / 又) ⋯⋯
+</div>
+
+=== Examples ===
+
+Sometimes "actually" works well in translations to indicate the contrast between expectation and reality.
+
+<div class="liju">
+
+*我 帮 他， <em>倒</em> 不 是 因为 喜欢 他，是 因为 他 工作 很 努力 。<span class="pinyin">Wǒ bāng tā, <em>dào</em> bù shì yīnwèi xǐhuan tā, shì yīnwèi tā gōngzuò hěn nǔlì.</span><span class="trans">I helped him not because I liked him, but because he worked very hard.</span>
+*他 不 是 很 努力 ，成绩 <em>倒</em> 也 不错 。<span class="pinyin">Tā bù shì hěn nǔlì, chéngjì <em>dào</em> yě bùcuò.</span><span class="trans">He's not very hard-working, but his scores also aren't bad.</span>
+*已经 是 春天 了，<em>倒</em> 又 冷 起来 了。<span class="pinyin">Yǐjīng shì chūntiān le, <em>dào</em> yòu lěng qǐlái le.</span><span class="trans">It's already spring, but it's actually getting colder.</span>
+*不 吃 药 ，病 <em>倒</em> 慢慢 好 了。<span class="pinyin">Bù chī yào, bìng <em>dào</em> mànman hǎo le.</span><span class="trans">Without taking any medicine, I'm actually slowly getting better.</span>
+*英语 不 是 他 的 母语 ，他 说 得 <em>倒</em> 挺 地道 的 。<span class="pinyin">Yīngyǔ bù shì tā de mǔyǔ, tā shuō de <em>dào</em> tǐng dìdao de.</span><span class="trans">English is not his mother language, but he speaks quite native-like.</span>
+
+</div>
+
+== Using 倒 as "Despite" ==
+
+=== Structure ===
+
+倒 can also be used to express a concession, mostly emphasizing the positive side. 就是、但是、可是、不过 are often used to precede the undesirable reality the speaker is calling attention to.
+
+<div class="jiegou">
+Subj. + 倒 ⋯⋯ ，不过 / 但是 / 就是 ⋯⋯
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*我 <em>倒</em> 是 想 去 旅游 ，<strong>但是</strong> 现在 太 忙 了，没有 时间 。<span class="pinyin">Wǒ <em>dào</em> shì xiǎng qù lǚyóu, dànshì xiànzài tài máng le, méiyǒu shíjiān.</span><span class="trans">I do want to go on a trip, but I am too busy to do so now.</span>
+*这 篇 文章 的 内容 <em>倒</em> 不错 ，<strong>就是</strong> 太 长 了 。<span class="pinyin">Zhè piān wénzhāng de nèiróng <em>dào</em> bùcuò, <strong>jiùshì</strong> tài cháng le.</span><span class="trans">The content of this article is great, but it's just too long.</span>
+*这 件 衣服 的 样式 和 大小 <em>倒</em> 都 合适 ，<strong>可是</strong> 我 不 喜欢 这 个 颜色 。<span class="pinyin">Zhè jiàn yīfu de yàngshì hé dàxiǎo <em>dào</em> dōu héshì, <strong>kěshì</strong> wǒ bù xǐhuan zhège yánsè.</span><span class="trans">The style and size of this piece of clothing actually work well, but I don't like the color.</span>
+*你们 的 服务 <em>倒</em> 不错 ，<strong>但是</strong> 对 我 来说 太 贵 了 。<span class="pinyin">Nǐmen de fúwù <em>dào</em> bùcuò, <strong>dànshì</strong> duì wǒ lái shuō tài guì le.</span><span class="trans">Your service is great, but it's too expensive for me.</span>
+*我 <em>倒</em> 想 陪 你 一起 去 ，<strong>不过</strong> 要 等 到 周末 。<span class="pinyin">Wǒ <em>dào</em> xiǎng péi nǐ yīqǐ qù, <strong>bùguò</strong> yào děngdào zhōumò.</span><span class="trans">I really would like to go with you, but you would need to wait until the weekend.</span>
+
+</div>
+
+For more on [[倒]], be sure to check our C1 grammar point on even more [[Advanced usages of the contrary "dao"|advanced uses of 倒]].
+
+== See also ==
+
+*[[Expressing contrariness with "dao"]]
+*[[The "However" Adverb "que"]]
+*[["On the Contrary" with "fan'er"]]
+*[[Conceding a Point with "shi"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4下|89}}
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级) |140-3}}
+{{Source|New Practical Chinese Reader 5 (新实用汉语课本5)|52}}  
+{{Source|HSK Standard Course 5上|64}} 
+
+[[Category: B2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|倒|B2|倒⋯⋯|雨 没有 停 ， <em>倒</em> 大 起来 了 。|grammar point|ASG1RE80}}
+{{Similar|The "However" Adverb "que"}}
+{{Similar|"On the Contrary" with "fan'er"}}
+{{Similar|Conceding a Point with "shi"}}
+{{Used for|Contrasting}}
+{{Structure|"But" Statements}}
+{{Translation|however}}

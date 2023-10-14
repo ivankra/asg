@@ -1,0 +1,60 @@
+<!-- Expressing "although" with "jinguan" -->
+{{Grammar Box}} 
+尽管 (jǐnguǎn)  means "although," and is a little stronger than [[Expressing "although" with "suiran" and "danshi"|虽然]], perhaps more like "despite" or "even though" in English. 
+
+== Structure ==
+
+<div class="jiegou">
+尽管⋯⋯ ，(可是 / 但是 +) Subj. + 还是⋯⋯
+</div>
+
+可是 or 但是 can be added to further emphasize the shift in meaning in the second phrase.
+
+== Examples ==
+
+<div class="liju">
+
+*<em>尽管</em> 很 多 人 批评 他 ，他 <strong>还是</strong>  坚持 这么 做。<span class="pinyin"><em>Jǐnguǎn</em> hěn duō rén pīpíng tā, tā <strong>háishì</strong> jiānchí zhème zuò.</span><span class="trans">Despite the fact that many people criticize him, he still insists on doing it.</span>
+*<em>尽管</em> 老板 最近 不 在 ，我们 <strong>还是</strong> 不 能 偷懒。<span class="pinyin"><em>Jǐnguǎn</em> lǎobǎn zuìjìn bù zài, wǒmen <strong>háishì</strong> bù néng tōulǎn.</span><span class="trans">Despite the fact that the boss hasn't been around lately, we still can't get lazy.</span>
+*<em>尽管</em> 困难 很 多 ，<strong>但是</strong> 我们 不能 放弃。<span class="pinyin"><em>Jǐnguǎn</em> kùnnan hěn duō, <strong>dànshì</strong> wǒmen bù néng fàngqì.</span><span class="trans">Even though there are many difficulties, we can't just give up.</span>
+*<em>尽管</em> 我 很 生气 ，<strong>但是</strong> 我 没 发脾气。<span class="pinyin"><em>Jǐnguǎn</em> wǒ hěn shēngqì, <strong>dànshì</strong> wǒ méi fā píqì.</span><span class="trans">Even though I was angry, I didn't lose my temper.</span>
+*<em>尽管</em> 警察 已经 找到 了 一些 证据 ，<strong>但是</strong> 他们 <strong>还是</strong> 不能 抓 那个 嫌疑人。<span class="pinyin"><em>Jǐnguǎn</em> jǐngchá yǐjīng zhǎodào le yīxiē zhèngjù, <strong>dànshì</strong> tāmen <strong>háishì</strong> bù néng zhuā nàge xiányírén.</span><span class="trans">Even though the police have already found some evidence, they still can't arrest the suspect.</span>
+*<em>尽管</em> 他 的 书 很 有 争议 ，<strong>但</strong> 它 <strong>还是</strong> 出版 了。<span class="pinyin"><em>Jǐnguǎn</em> tā de shū hěn yǒu zhēngyì, <strong>dàn</strong> tā <strong>háishì</strong> chūbǎn le.</span><span class="trans">Even though his book is very controversial, it was still published.</span>
+*<em>尽管</em> 当时 很 危险 ，消防员 <strong>还是</strong> 勇敢 地 冲 了 进去。<span class="pinyin">Jǐnguǎn dāngshí hěn wēixiǎn, xiāofángyuán <strong>háishì</strong> yǒnggǎn de chōng le jìnqù.</span><span class="trans">Even though it was very dangerous, the firefighters still bravely charged right in.</span>
+
+</div>
+
+== A Note on Pronunciation ==
+
+You may hear the word 尽管 pronounced as both "jǐnguǎn" and "jìnguǎn." Although "jǐnguǎn" is technically correct and "jìnguǎn" is incorrect, many educated native speakers will pronounce 尽量 exclusively as "jìnguǎn."
+
+==See also==
+
+*[["Although" with "suiran" and "danshi"]]
+*[["Not… But Rather…" with "er shi"]]
+
+==Sources and further reading==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|19}}
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|206}}
+{{Source|卓越汉语－公司实战篇|5}}
+
+=== Websites ===
+
+* [https://resources.allsetlearning.com/chinese/pronunciation/Pronunciation_variant Pronunciation variant (尽管)]
+
+[[Category: B2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|尽管|B2|尽管⋯⋯，但是⋯⋯|<em>尽管</em> 我 很 生气 ，<em>但是</em> 
+我 没 发脾气 。|grammar point|ASGW863F}}
+{{Rel char|但是}}
+{{Rel char|还是}}
+{{Similar|"Although" with "suiran" and "danshi"}}
+{{Similar|"Not… But Rather…" with "er shi"}}
+{{Structure|"But" Statements}}
+{{Used for|Connecting ideas}}
+{{Used for|Contrasting}}
+{{Translation|although}}
+{{Translation|despite}}

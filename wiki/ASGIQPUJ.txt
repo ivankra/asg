@@ -1,0 +1,53 @@
+<!-- Expressing future with "jiang" -->
+{{Grammar Box}} 
+将 (jiāng) can be used to denote something is about to happen in the near future, similar to [[Auxiliary verb "hui" for "will"|会]], or "will" in English. It is generally used in formal contexts.
+
+== Structure ==
+
+将 is often combined with other [[auxiliary verb]]s like 会 and 要, which doesn't significantly change the meaning.
+
+<div class="jiegou">
+Subj. + 将 / 将要 / 将会 + [Verb Phrase]
+</div>
+
+== Examples ==
+
+<div class="liju">
+*他 <em>将</em> 成为 一个 好 爸爸。<span class="pinyin">Tā <em>jiāng</em> chéngwéi yī gè hǎo bàba.</span><span class="trans">He will become a good father.</span>
+*我 <em>将</em> 永远 记得 你 对 我 的 帮助。<span class="pinyin">Wǒ <em>jiāng</em> yǒngyuǎn jìde nǐ duì wǒ de bāngzhù.</span><span class="trans">I will forever remember the help you have given me.</span>
+*这 次 世界杯 <em>将</em> 在 莫斯科 举行 。<span class="pinyin">Zhè cì Shìjièbēi <em>jiāng</em> zài Mòsīkē jǔxíng.</span><span class="trans">This World Cup will be held in Moscow.</span>
+*比赛 结果 <em>将</em> 在 月底 公布 。<span class="pinyin">Bǐsài jiéguǒ <em>jiāng</em> zài yuèdǐ gōngbù.</span><span class="trans">The results of the competition will be announced at the end of the month.</span>
+*他 <em>将 会</em> 成为 一 个 成功 的 企业家 。<span class="pinyin">Tā <em>jiāng huì</em> chéngwéi yī gè chénggōng de qǐyè jiā.</span><span class="trans">He will become a successful entrepreneur.</span>
+*如果 政府 不 批准 ，我们 <em>将 会</em> 举行 抗议 。<span class="pinyin">Rúguǒ zhèngfǔ bù pīzhǔn, wǒmen <em>jiāng huì</em> jǔxíng kàngyì.</span><span class="trans">If the government doesn't approve it, we will hold protests.</span>
+*这个 政策 <em>将 会</em> 大大 改善 农民 的 收入 。<span class="pinyin">Zhège zhèngcè <em>jiāng huì</em> dàdà gǎishàn nóngmín de shōurù.</span><span class="trans">This policy will vastly improve the income of farmers.</span>
+*我们 公司 明年 <em>将 要</em> 推出 一 系列 新 产品 。<span class="pinyin">Wǒmen gōngsī míngnián <em>jiāngyào</em> tuīchū yī xìliè xīn chǎnpǐn.</span><span class="trans">Our company will release a series of new products next year.</span>
+*政府 <em>将</em> 制定 新 的 行业 法规 ，管理 股票 市场 。<span class="pinyin">Zhèngfǔ <em>jiāng</em> zhìdìng xīn de hángyè fǎguī, guǎnlǐ gǔpiào shìchǎng.</span><span class="trans">The government will institute new industry requirements to regulate the stock market.</span>
+*这里 <em>将</em> 变成 一个 旅游 的 好 地方。<span class="pinyin">Zhèlǐ <em>jiàng</em> biànchéng yī gè lǚyóu de hǎo dìfang.</span><span class="trans">This place will become a tourist destination.</span>
+</div>
+
+== See also ==
+
+*[[Auxiliary verb "hui" for "will"]]
+*[[Wanting to do something with yao]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|New Practical Chinese Reader 5 (新实用汉语课本5) |92}} 
+{{Source|卓越汉语－公司实战篇|89-90}}
+
+[[Category: B2 grammar points]]
+[[Category: Verbs]]
+{{Basic Grammar|将|B2|Subj. + 将 / 将要 / 将会 + Verb Phrase|比赛 结果 <em>将</em> 在 月底 公布 。|grammar point|ASGIQPUJ}}
+{{Rel char|将要}}
+{{Rel char|将会}}
+{{Similar|Auxiliary verb "hui" for "will"}}
+{{Similar|Using "jiang" as a formal "ba"}}
+{{Similar|Wanting to do something with yao}}
+{{Similar|In the future in general}}
+{{Used for|Referring to the future}}
+{{Used for|Sequencing events in time}}
+{{Translation|will}}
+{{POS|Verbs}}
+{{Subprop|Auxiliary verbs}}

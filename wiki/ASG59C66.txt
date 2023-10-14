@@ -1,0 +1,137 @@
+<!-- Comparing "li" and "cong" -->
+{{Grammar Box}}
+
+Both [[离|离 (lí)]] and [[从|从 (cóng)]] can be translated into English as "[[from]]." In Chinese, however, their meanings are different. 从 is used in cases where the subject's position relative to a fixed location changes. 离 expresses a "static" distance, or a distance that is unchanging. Both can be used in defining distance or time, however 从 has more meanings than 离.
+
+== 从 as "from" (Time or Event) ==
+
+=== Structure ===
+
+<div class="jiegou">
+从 + Time / Event + 开始 / 起
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>从</em> 下 个 月 <strong>起</strong> ，公司 会 越来越 忙 。<span class="pinyin"><em>Cóng</em> xiàge yuè <strong>qǐ</strong>, gōngsī huì yuèláiyuè máng.</span><span class="trans">Starting from next month, the company will be busier and busier.</span>
+*<em>从</em> 我 上 小学 <strong>开始</strong>，就 特别 喜欢 画画 。<span class="pinyin"><em>Cóng</em> wǒ shàng xiǎoxué <strong>kāishǐ</strong>, jiù tèbié xǐhuan huà huà.</span><span class="trans">I have really liked drawing since starting elementary school.</span>
+
+</div>
+
+=== Colloquial Sayings ===
+
+从那以后 means "ever since then," while 从今以后 means "from now on." 
+
+A few examples:
+
+<div class="liju">
+
+*<em>从 那</em> <strong>以后</strong> ，我们 就 没有 联系 了 。<span class="pinyin"><em>Cóng nà</em> <strong>yǐhòu</strong>, wǒmen jiù méiyǒu liánxì le.</span><span class="trans">Ever since then, we haven't been in touch.</span>
+*<em>从 今 </em><strong>以后</strong> ，我 不用 再 加班 了 。<span class="pinyin"><em>Cóng jīn</em> <strong>yǐhòu</strong>, wǒ bùyòng zài jiābān le.</span><span class="trans">I don't need to work late from now on.</span>
+
+</div>
+
+== 从 as "From" (a Place, Somebody, or Something) ==
+
+=== Structure ===
+
+<div class="jiegou">
+从 + Place + 上 / 里
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*你 是 不 是 <em>从</em> <strong>我 包 里</strong> 拿 了 一百块钱 ？<span class="pinyin">Nǐ shì bu shì <em>cóng</em> <strong>wǒ bāo lǐ</strong> ná le yī bǎi kuài qián?</span><span class="trans">Did you take one hundred RMB from my purse?</span>
+*我 <em>从</em> <strong>他 身上</strong> 学到 了 很多 东西 。<span class="pinyin">Wǒ <em>cóng</em> <strong>tā shēnshang</strong>  xuédào le hěn duō dōngxi.</span><span class="trans">I learned a lot from him.</span>
+*<em>从</em> <strong>这 件 事</strong> 可以 看出 你 的 工作 态度 。<span class="pinyin"><em>Cóng</em> <strong>zhè jiàn shì</strong> kěyǐ kànchū nǐ de gōngzuò tàidu.</span><span class="trans">From this incident, we can see your attitude toward work.</span>
+
+</div>
+
+== 离 as "Distance from" ==
+
+=== Structure ===
+
+<div class="jiegou">
+Place 1 + 离 + Place 2 + 远 / 近
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+<ul>
+<li class="o">你 家 <em>离</em> 公司 <strong>多 远</strong> ？<span class="pinyin">Nǐ jiā <em>lí</em> gōngsī <strong>duō yuǎn</strong>?</span><span class="trans">How far is your home from your company?</span></li>
+<li class="o">我 家 <em>离</em> 公司 <strong>很 远</strong> 。<span class="pinyin">Wǒ jiā <em>lí</em> gōngsī <strong>hěn yuǎn</strong>.</span><span class="trans">My home is far from my office.</span></li>
+</ul>
+
+</div>
+
+Try not to say:
+
+<div class="liju">
+
+<ul>
+<li class="x">我 家 <strong>很 远</strong> <em>从</em> 公司 。<span class="pinyin">Wǒ jiā  <strong>hěn yuǎn</strong> <em>cóng</em> gōngsī.</span></li>
+<li class="x">我 家 <em>从</em> 公司 <strong>很 远</strong> 。<span class="pinyin">Wǒ jiā <em>cóng</em> gōngsī <strong>hěn yuǎn</strong>.</span></li>
+</ul>
+
+</div>
+
+== 离 as "From" (a Time or Event) ==
+
+=== Structure ===
+
+<div class="jiegou">
+Past Event 1 + 离 + Time + Duration
+</div>
+
+If you want to say "from now," try this pattern:
+
+<div class="jiegou">
+离 + Future Event + 还有 + Duration
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*上次 见面 <em>离</em> 今天 快 十 年 了 。<span class="pinyin">Shàng cì jiànmiàn <em>lí</em> jīntiān kuài shí nián le.</span><span class="trans">It's been about 10 years since we met last time.</span>
+*<em>离</em> 我们 的 婚礼 <strong>还有</strong> 两个 星期 。<span class="pinyin"><em>Lí</em> wǒmen de hūnlǐ <strong>háiyǒu</strong> liǎng gè xīngqī.</span><span class="trans">We still have two weeks until our wedding.</span>
+*<em>离</em> 毕业 <strong>还有</strong> 几 个 月 。<span class="pinyin"><em>Lí</em> bìyè <strong>háiyǒu</strong> jǐ gè yuè.</span><span class="trans">I am a few months away from graduation.</span>
+
+</div>
+
+== Colloquial Saying 离⋯⋯还远呢 ==
+
+离⋯⋯还远呢 expresses that something is very far off in terms of time. 
+
+<div class="liju">
+
+*我们 刚刚 开始 谈 恋爱 ，<em>离</em> 结婚 <strong>还远</strong>  呢 。<span class="pinyin">Wǒmen gānggāng kāishǐ tán liàn’ài, <em>lí</em> jiéhūn <strong>háiyuǎn</strong> ne.</span><span class="trans">We've just started our relationship. It's too soon to talk about marriage.</span>
+
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|现代汉语虚词例释|335}}
+{{Source|实用对外汉语教学语法|263}}
+
+[[Category:grammar comparison]]
+{{Basic Grammar|从|B1|离 vs. 从|<em>从</em> 明天 开始，我 不 抽烟 了。|grammar point|ASG59C66}}
+{{Comparison|Prepositions}}
+{{Rel char|离}}
+{{Similar|Expressing "from… to…" with "cong… dao…"}}
+{{Similar|Expressing distance with "li"}}
+{{Similar|Expressing "ever since" with "yilai"}}
+{{Similar|Expressing "ever since" with "zicong"}}
+{{Used for|Expressing distance}}
+{{Used for|Expressing location}}
+{{Used for|Giving directions}}
+{{Used for|Describing places}}
+{{Translation|from}}

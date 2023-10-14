@@ -1,0 +1,40 @@
+<!-- Expressing "from" with "cong... zhong" -->
+{{Grammar Box}}
+从……中 (cóng... zhōng) is another way to express "from," and differs from the similar 从……到 (cóng... dào) which expresses "from" in relation to time and place. 从……中 tells a source of information, and then tells what knowledge, information, or experience was gained from it.
+
+== Structure ==
+
+<div class="jiegou">
+从  + Source + 中 + Result 
+</div>
+
+The result is the knowledge, information, or experience gained from the "source."
+
+== Examples ==
+
+<div class="liju">
+* 我 <em>从</em> 书 <em>中</em> 学习 了 很 多 知识 。<span class="pinyin">Wǒ <em>cóng</em> shū <em>zhōng</em> xuéxí le hěn duō zhīshi.</span><span class="trans">I learned a lot from the book.</span class="trans">
+*我们 <em>从</em> 聊天 <em>中</em> 知道 小王 不 喜欢 咖啡 。<span class="pinyin">Wǒmen <em>cóng</em> liáotiān <em>zhōng</em> zhīdào Xiǎo Wáng bù xǐhuan kāfēi.</span><span class="trans">We know from chatting that Xiao Wang doesn't like coffee. </span class="trans">
+*<em>从</em> 这 件 事 <em>中</em> 小王 明白 了 诚实 的 重要 。<span class="pinyin"><em>Cóng</em> zhè jiàn shì <em>zhōng</em> Xiǎo Wáng míngbai le chéngshí de zhòngyào.</span><span class="trans">Xiao Wang knows the importance of honesty from this matter.</span class="trans">
+*<em>从</em> 老 房子 <em>中</em> 我们 找 出来 很 多 九十 年代 的 东西。<span class="pinyin"><em>Cóng</em> lǎo fángzi <em>zhōng</em> wǒmen zhǎo chūlai hěn duō jiǔshí niándài de dōngxi.</span><span class="trans">We found a lot of stuff from the nineties in the old house.</span>
+*<em>从</em> 电话 <em>中</em> 我 听出 他 不 是 很 开心 。<span class="pinyin"><em>Cóng</em> diànhuà <em>zhōng</em> wǒ tīng chū tā bù shì hěn kāixīn.</span><span class="trans">I could tell from the phone that he wasn't very happy.</span>
+*丽丽 <em>从</em> 微信 <em>中</em> 发现 了 她 丈夫 和 别的 女人 聊天 。<span class="pinyin">Lìlì <em>cóng</em> Wēixìn <em>zhōng</em> fāxiàn le tā zhàngfu hé biéde nǚrén liáotiān.</span><span class="trans">Lili found out from WeChat that her husband was talking to another woman.</span>
+*我 <em>从</em> 文章 <em>中</em> 找到 一 个 错误 。<span class="pinyin">Wǒ <em>cóng</em> wénzhāng <em>zhōng</em> zhǎodào yī gè cuòwù.</span><span class="trans">I found an error in the article.</span>
+*我 <em>从</em> 这 次 旅行 <em>中</em> 学习 了 很 多 道理 。<span class="pinyin">Wǒ <em>cóng</em> zhè cì lǚxíng <em>zhōng</em> xuéxí le hěn duō dàolǐ.</span><span class="trans">I've learned a lot of things from this trip.</span>
+*<em>从</em> 这 杯 水 <em>中</em> 你 能 看到 什么 ？<span class="pinyin"><em>Cóng</em> zhè bēi shuǐ <em>zhōng</em> nǐ néng kāndào shénme?</span><span class="trans">What do you see in this glass of water?</span>
+*<em>从</em> 这 次 的 比赛 <em>中</em> 我 收获 了 友谊 。<span class="pinyin"><em>Cóng</em> zhè cì de bǐsài <em>zhōng</em> wǒ shōuhuò le yǒuyì.</span><span class="trans">I gained a lot of friendship from this competition.</span>
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Anything Goes (无所不谈)|8}}
+[[Category:B2 grammar points]]
+{{Used for|Expressing from}}
+{{Used for|Explaining}}
+{{Basic Grammar|从|B2|从 + noun + 中 + result| 我<em>从</em> 书<em>中</em>学习了很多知识。|grammar point|ASGEB7F5}}
+{{Rel char|中}}
+{{Similar|Expressing "from… to…" with "cong… dao…"}}
+{{Structure|Sentence Patterns}}
+{{Translation|from}}

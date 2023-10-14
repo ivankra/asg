@@ -1,0 +1,157 @@
+<!-- Structural particle "de" -->
+{{Grammar Box}} 
+
+The structural particle "de" has three written forms in modern Chinese, each with its own uses:
+
+* 的 (de), most often used for modifying [[noun]]s
+* 得 (de), most often used with [[complement]]s
+* 地 (de), most often used with [[adverbial phrase]]s
+
+There is also a [[Using "de" (modal particle)|modal particle 的]] (de), not covered in this grammar point.
+
+== 的 (de) Before Nouns ==
+
+Before nouns, 的 (de) is used to mark '''possession''' or '''modification'''. One way to think about 的 (de) is that it works like apostrophe-"s" in English.  Think of this one as the "possessive ''de''" or "noun-modifying ''de''."
+
+<div class="liju">
+
+* 小李 <em>的</em> 房子 <span class="pinyin">Xiǎo Lǐ <em>de</em> fángzi</span><span class="trans">Xiao Li's house</span>
+
+</div>
+
+This comparison works very well for possession, as it shows how English and Chinese handle possession in a similar way. Just remember that Chinese uses this "possession" far more widely than English. Modifying, describing qualities, and assigning attributes are all handled in the same way as possession, by using 的 (de).
+
+Another way to use 的 (de) is as an [[attributive]]. It's just a way of connecting adjectives or other words with a noun. It gives us more information about the noun, and the 的 (de) makes it clear that the extra information is connected to the noun.  Here's an example:
+
+<div class="liju">
+
+* 红色 <em>的</em> 自行车 <span class="pinyin">hóngsè <em>de</em> zìxíngchē</span><span class="trans">red bicycle</span>
+
+</div>
+
+Here 的 (de) is used to modify "bicycle" with the color "red." It attributes the color "red" to the "bicycle."
+
+=== Structure ===
+
+Although certainly not complete for all uses, this simple structure should help as a general guideline:
+
+<div class="jiegou">
+
+的 + Noun
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 我 <em>的</em> 手机<span class="pinyin">wǒ <em>de</em> shǒujī</span><span class="trans">my cell phone</span>
+* 我们 <em>的</em> 老师<span class="pinyin">wǒmen <em>de</em> lǎoshī</span><span class="trans">our teacher</span>
+* 漂亮 <em>的</em> 衣服<span class="pinyin">piàoliang <em>de</em> yīfu</span><span class="trans">beautiful clothes</span>
+* 热闹 <em>的</em> 酒吧<span class="pinyin"> rènao <em>de</em> jiǔbā</span><span class="trans">a boisterous bar</span>
+* 我 女朋友 <em>的</em> 公司 <span class="pinyin"> wǒ nǚpéngyou <em>de</em> gōngsī</span><span class="trans">my girlfriend's company</span>
+
+</div>
+
+For you nerdier learners, 的 (de) is known to the Chinese as 白勺的 (bái-sháo de) as it's composed of the characters 白 (bái) and 勺 (sháo).
+
+== 得 (de) After Verbs ==
+
+This ''de'' is probably the trickiest to crack for English speakers as it has no obvious equivalent in English.  得 (de) is used to construct various kinds of [[complement]]s and is usually associated with verbs. You can think of it as the "complement ''de''."
+
+=== Structure ===
+
+Although certainly not complete for all uses, this simple structure should help:
+
+<div class="jiegou">
+
+Verb + 得
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 做 <em>得</em> 很 好 <span class="pinyin">zuò <em>de</em> hěn hǎo</span><span class="trans">do very well</span>
+* 说 <em>得</em> 太 快 <span class="pinyin">shuō <em>de</em> tài kuài</span><span class="trans">speak too fast</span>
+* 玩 <em>得</em> 很 开心 <span class="pinyin">wán <em>de</em> hěn kāixīn</span><span class="trans">play very happily</span>
+* 开 <em>得</em> 很 快 <span class="pinyin">kāi <em>de</em> hěn kuài </span><span class="trans">drive very fast</span>
+* 住 <em>得</em> 很 舒服 <span class="pinyin">zhù <em>de</em> hěn shūfu </span><span class="trans">live very comfortably</span>
+
+</div>
+
+For you nerdier learners, 得 (de) is known as 双人得 (shuāngrén de), as the character component 彳 is often referred to as 双人 (shuāngrén), or the "double person" component.
+
+=== Not an Adverb? ===
+
+You might be wondering how the examples using 得 (de) above are different from adverbs. That's actually a really good question, but it's one that you should defer until later in your studies. [[Complement]]s are a bit tricky, and you'll be learning a lot more about them at the [[B1|intermediate level]], so be patient!
+
+== 地 (de) Before Verbs ==
+
+地 (de) is used to turn [[adjective]]s into [[adverb]]s, and can be thought of as equivalent to the [[suffix]] ''-ly'' in English.  You could call it the "adverb ''de''" or "adverbial ''de''," since it precedes [[verb]]s like adverbs do.
+
+=== Structure ===
+
+Although not complete for all uses, this simple structure should help:
+
+<div class="jiegou">
+
+Adj. + 地 +  Verb
+
+</div>
+
+Note that it's the "adjective + 地 (de)" structure that makes the adjective into an "adverb phrase" (called an [[adverbial]]). If it's a straight-up adverb you're using (instead of an adjective), then you don't need 地 (de) at all.
+
+This pattern is also the least common of the three; you'll be using 的 (de) and 得 (de) a lot more in everyday communication than this one.
+
+=== Examples ===
+
+<div class="liju">
+
+* 生气 <em>地</em> 说  <span class="pinyin">shēngqì <em>de</em> shuō</span><span class="trans">angrily say</span>
+* 开心 <em>地</em> 笑 <span class="pinyin">kāixīn <em>de</em> xiào</span><span class="trans">happily laugh</span>
+* 慢慢 <em>地</em> 走 <span class="pinyin">mànmàn <em>de</em> zǒu </span><span class="trans">slowly walk</span>
+* 伤心 <em>地</em> 哭 <span class="pinyin">shāngxīn <em>de</em> kū</span><span class="trans">sadly cry</span>
+* 认真 <em>地</em> 听 <span class="pinyin">rènzhēn <em>de</em> tīng</span><span class="trans">carefully listen</span>
+
+</div>
+
+Again, you don't have to know this, but this 地 (de) is known in Chinese as 土也地 (tǔ-yě de), as it's composed of the 土 (tǔ) component on the left with a 也 (yě) on the right.
+
+== Using All Three "de"s ==
+
+This example is naturally going to be a little more difficult than the ones above, since we're cramming all three usages into one sentence, but you may find this useful.
+
+<div class="liju">
+
+*今天  <em>的</em> 作业 你 做 <em>得</em> 不好，因为 你 没 认真 <em>地</em> 听课。<span class="pinyin">Jīntiān <em>de</em> zuòyè nǐ zuò <em>de</em> bù hǎo, yīnwèi nǐ méi rènzhēn <em>de</em> tīngkè.</span><span class="trans">You didn't do today's homework well because you didn't listen attentively in class.</span>
+
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|A Practical Chinese Grammar For Foreigners (外国人实用汉语语法)|133-135}} 
+{{Source|Basic Patterns of Chinese Grammar|72}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|291-3}}
+{{Source|Integrated Chinese: Level 2, Part 1|193 - 195}}
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|50-1, 99-101}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|189}}
+
+=== Websites ===
+
+* Blog post (Chinese): [http://blog.sina.com.cn/s/blog_5375d4df0100azfv.html “的”与“地”“得”]
+* Online document (Chinese): [http://wenku.baidu.com/view/3ce1a977a417866fb84a8eca.html “的”“地”“得”的用法区别] explains and shares a song about the three de's
+* Sinosplice: [http://www.sinosplice.com/life/archives/2011/08/16/the-three-de-song The Three De Song]
+* ChinesePod blog: [http://blog.chinesepod.com/2011/05/18/the-three-musketeers-%E7%9A%84-%E5%BE%97-and-%E5%9C%B0/ The Three Musketeers (的, 得, and 地)] on ChinesePod.com
+
+[[Category:A2 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|的|A2|的 / 得 / 地|红色的车，跑得很快，慢慢地走|grammar point|ASG5MOMM}}
+{{Rel char|的}}
+{{Rel char|得}}
+{{Rel char|地}}
+[[Category:Particles]]
+{{POS|Particles}}

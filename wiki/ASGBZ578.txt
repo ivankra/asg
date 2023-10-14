@@ -1,0 +1,52 @@
+<!-- Using "lai" to connect two verb phrases -->
+{{Grammar Box}} 
+
+The word 来 (lái) can be used to connect two verb phrases, relating the actions to each other. It can be translated as "in order to" or "so that," and it can help in explaining reasoning.
+
+== Structure ==
+
+Connecting two verb phrases is very straightforward. All you need to do is place 来 in between them. This has the meaning of doing the first verb to achieve the second verb and is often used with words expressing a way or a method, e.g. 通过 (tōngguò) or 用 (yòng).
+
+<div class="jiegou">
+通过 / 用 + Method + 来 + [Verb Phrase]
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*<strong>用</strong> 这 种 方法 <em>来</em> 赚钱 ，真 丢人 。<span class="pinyin"><strong>Yòng</strong> zhè zhǒng fāngfǎ <em>lái</em> zhuànqián, zhēn diūrén.</span><span class="trans">It's shameful to earn money in this way.</span>
+*很 多 年轻 人 <strong>用</strong> 手机 APP <em>来</em> 点 外卖 。<span class="pinyin">Hěn duō niánqīng rén <strong>yòng</strong> shǒujī APP <em>lái</em> diǎn wàimài.</span><span class="trans">A lot of young people use apps on their cell phones to order food.</span>
+*父母 不 应该 经常 <strong>用</strong> 钱 <em>来</em> 奖励 孩子 。<span class="pinyin">Fùmǔ bù yīnggāi jīngcháng <strong>yòng</strong> qián <em>lái</em> jiǎnglì háizi.</span><span class="trans">Parents shouldn't often use money to reward their children.</span>
+*<strong>用</strong> 这个 APP <em>来</em> 学 汉字 更 容易 。<span class="pinyin"><strong>Yòng</strong> zhège APP <em>lái</em> xué Hànzì gèng róngyì.</span><span class="trans">It's easier to use this app to study Chinese characters.</span>
+*你 可以 <strong>通过</strong> 微信 <em>来</em> 关注  我们 。<span class="pinyin">Nǐ kěyǐ <strong>tōngguò</strong> Wēixìn <em>lái</em> guānzhù wǒmen.</span><span class="trans">You can follow us on WeChat.</span>
+*很 多 人 都 是 <strong>通过</strong> 这个 网站 <em>来</em> 找 工作 的 。<span class="pinyin">Hěn duō rén dōu shì <strong>tōngguò</strong> zhège wǎngzhàn <em>lái</em> zhǎo gōngzuò de.</span><span class="trans">A lot of people look for a job through this website.</span>
+*商店 经常 <strong>通过</strong> 打折 <em>来</em> 吸引 顾客 。<span class="pinyin">Shāngdiàn jīngcháng <strong>tōngguò</strong> dǎzhé <em>lái</em> xīyǐn gùkè.</span><span class="trans">Shops often use discounts to attract customers.</span>
+*你们 是 <strong>通过</strong>什么 平台 <em>来</em> 推广 新 产品 的 ？<span class="pinyin">Nǐmen shì <strong>tōngguò</strong> shénme píngtái <em>lái</em> tuīguǎng xīn chǎnpǐn de?</span><span class="trans">What platform did you use to promote the new product?</span>
+*我们 需要 <strong>通过</strong> 培训 <em>来</em> 提高 服务 质量 。<span class="pinyin">Wǒmen xūyào <strong>tōngguò</strong> péixùn <em>lái</em> tígāo fúwù zhìliàng.</span><span class="trans">We need to improve our service quality through training.</span>
+*双方 都 希望 <strong>通过</strong> 谈判 <em>来</em> 解决 问题 。<span class="pinyin">Shuāngfāng dōu xīwàng <strong>tōngguò</strong> tánpàn <em>lái</em> jiějué wèntí.</span><span class="trans">Both sides hope to work out the issues through negotiation.</span>
+
+</div>
+
+== See also ==
+
+*[[Expressing purpose with "weile"]]
+*[[Facilitating an Outcome with "yibian"]]
+*[[Expressing Purpose with "hao"]]
+*[[Expressing "through" with "tongguo"]]
+
+== Sources and further reading ==
+
+{{Source|HSK Standard Course 4下|66}}
+{{Source|Integrated Chinese: Level 2, Part 1|268}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|来|B1|通过 / 用 + Method + 来 + Verb Phrase|<strong>用</strong> 这 种 方法 <em>来</em> 赚钱 ，真 丢人 。|grammar point|ASGBZ578}}
+{{Similar|Expressing purpose with "weile"}}   
+{{Similar|Facilitating an Outcome with "yibian"}} 
+{{Similar|Expressing purpose with "haorang"}}
+{{Similar|Expressing "through" with "tongguo"}}
+{{POS|Conjunctions}}
+{{Used for|Expressing Purpose}}
+{{Translation|to}}

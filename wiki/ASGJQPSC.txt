@@ -1,0 +1,417 @@
+<!-- Placement of question words -->
+{{Grammar Box}} 
+
+''Who'', ''what'', ''when'', ''where'', ''why'', and ''how'': these question words are all used when forming questions in Chinese. The important thing to remember is that [[word order]] is the same in Chinese for questions and statements.
+ 
+== Overview ==
+
+=== Common Question Words List ===
+
+In English, question words are also known as ''wh-words'', as the majority of them begin with ''wh'':
+
+<div class="liju">
+
+* 什么 <span class="pinyin">shénme</span><span class="trans">what</span>
+* 哪里 、 哪儿 <span class="pinyin">nǎlǐ, nǎr</span><span class="trans">where</span>
+* 哪个<span class="pinyin">nǎge</span><span class="trans">which</span>
+* 谁 <span class="expl">In spoken Chinese, people normally say "shéi," not "shuí"</span><span class="pinyin">shéi</span><span class="trans">who</span>
+* 什么时候 <span class="pinyin">shénme shíhou</span><span class="trans">when</span>
+* 为什么 <span class="pinyin">wèishénme</span><span class="trans">why</span>
+* 怎么 <span class="pinyin">zěnme</span><span class="trans">how</span>
+* 多少 <span class="pinyin">duōshao</span><span class="trans">how many / how much</span>
+
+</div>
+
+=== Rules ===
+
+In English, question words have to be placed at the beginning of the sentence. This involves changing the [[word order]] to allow this rearrangement. In Chinese, using question words is a lot simpler. You simply place a question word in the place of the thing you want to ask about. ''Nothing needs to be rearranged.''
+
+So if the statement is
+
+<div class="liju">
+
+* 我 是 <em>小李</em> 。 <span class="pinyin">Wǒ shì <em>Xiǎo Lǐ</em>.</span><span class="trans">I am Xiao Li.</span>
+
+</div>
+
+the question form - "who are you?" - has the same word order:
+
+<div class="liju">
+
+* 你 是 <em>谁</em>？<span class="pinyin">Nǐ shì <em>shéi</em>?</span><span class="trans">Who are you? (you are who?)</span>
+
+</div>
+
+This works for whatever it is you want to ask about. The question form has the same word order as the statement form.
+
+== Expressing "What" with 什么 (shénme) ==
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + Verb + 什么 + (Noun) ?
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span> 这 是 <em>什么</em>？<span class="pinyin">Zhè shì <em>shénme</em>?</span><span class="trans">What is this?</span></li>
+<li><span class="speaker">B:</span>这 是 <em>我 的 iPad</em>。<span class="pinyin">Zhè shì <em>wǒ de iPad</em>.</span><span class="trans">This is my iPad.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>你 喜欢 吃 <em>什么</em> 菜？<span class="pinyin"> Nǐ xǐhuan chī <em>shénme</em> cài?</span><span class="trans">What kind of food do you like?</span></li>
+<li><span class="speaker">B:</span>我 喜欢 吃 <em>中国 菜</em>。<span class="pinyin"> Wǒ xǐhuan chī <em>Zhōngguó cài</em>.</span><span class="trans">I like Chinese food.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>你 用 <em>什么</em> 手机？<span class="pinyin">Nǐ yòng <em>shénme</em> shǒujī?</span><span class="trans">What kind of cell phone do you use?</span></li>
+<li><span class="speaker">B:</span>我 用 <em>iPhone</em>。<span class="pinyin">Wǒ yòng <em>iPhone</em>.</span><span class="trans">I use an iPhone.</span></li>
+</ul>
+</div>
+ 
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>你 在 看 <em>什么</em> 书？<span class="pinyin">Nǐ zài kàn <em>shénme</em> shū?</span><span class="trans">What kind of book are you reading?</span></li>
+<li><span class="speaker">B:</span>我 在 看 <em>小说</em>。<span class="pinyin">Wǒ zài kàn <em>xiǎoshuō</em>.</span><span class="trans">I am reading a novel.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>他 开 <em>什么</em> 车？<span class="pinyin">Tā kāi <em>shénme</em> chē?</span><span class="trans"> What kind of car does he drive?</span></li>
+<li><span class="speaker">B:</span>他 开 <em>宝马</em>。<span class="pinyin"> Tā kāi <em>Bǎomǎ</em>.</span><span class="trans">He drives a BMW.</span></li>
+</ul>
+</div>
+
+== Expressing "Where" with 哪里 (nǎlǐ) / 哪儿 (nǎr) ==
+
+The words 哪里 (nǎlǐ) and 哪儿 (nǎr) mean the same thing. The difference is simply regional preference: 哪里 (nǎlǐ) is preferred in the south (Shanghai, Taiwan), whereas 哪儿 (nǎr) is preferred in the north (Beijing, Xi'an).
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + Verb + 哪里 / 哪儿 ?
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>你 在 <em>哪里</em>？<span class="pinyin">Nǐ zài <em>nǎlǐ</em>?</span><span class="trans">Where are you?</span></li>
+<li><span class="speaker">B:</span>我 在 <em>家</em>。<span class="pinyin">Wǒ zài <em>jiā</em>.</span><span class="trans">I'm at home.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>你 要 去 <em>哪儿</em>？<span class="pinyin">Nǐ yào qù <em>nǎr</em>?</span><span class="trans">Where are you going now?</span></li>
+<li><span class="speaker">B:</span>我 要 去 <em>洗手间</em>。<span class="pinyin">Wǒ yào qù <em>xǐshǒujiān</em>.</span><span class="trans">I'm going to the bathroom.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>我们 在 <em>哪儿</em>？<span class="pinyin">Wǒmen zài <em>nǎr</em>?</span><span class="trans">Where are we?</span></li>
+<li><span class="speaker">B:</span>我们 在 <em>南京西路</em>。<span class="pinyin">Wǒmen zài <em>Nánjīng Xī Lù</em>.</span><span class="trans">We are at West Nanjing road.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span> 这 个 周末 你 想 去 <em>哪儿</em>？<span class="pinyin">Zhège zhōumò nǐ xiǎng qù <em>nǎr</em>?</span><span class="trans">Where do you want to go this weekend?</span></li>
+<li><span class="speaker">B:</span>我 想 去 <em>公园</em>。<span class="pinyin">Wǒ xiǎng qù <em>gōngyuán</em>.</span><span class="trans">I want to go to the park.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span> 你好，你 要 去 <em>哪儿</em>？<span class="pinyin">Nǐhǎo, nǐ yào qù <em>nǎr</em>?</span><span class="trans">Hello, where do you want to go?</span></li>
+<li><span class="speaker">B:</span>我 要 去 <em>外滩</em>。<span class="pinyin">Wǒ yào qù <em>Wàitān</em>.</span><span class="trans">I want to go to the Bund.</span></li>
+</ul>
+</div>
+
+== Expressing "Which" with 哪个 (nǎge) ==
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + Verb + 哪个 (+ Noun) ?
+</div>
+
+=== Examples ===
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>你 要 <em>哪个</em>？<span class="pinyin">Nǐ yào <em>nǎge</em>?</span><span class="trans">Which one do you want?</span></li>
+<li><span class="speaker">B:</span>我 要 <em>这个</em>。<span class="pinyin">Wǒ yào <em>zhège</em>.</span><span class="trans">I want this one.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>你 喜欢 <em>哪 个 菜</em>？<span class="pinyin">Nǐ xǐhuan <em>nǎge cài</em>?</span><span class="trans">Which dish do you like?</span></li>
+<li><span class="speaker">B:</span>我 喜欢 <em>这 个 菜</em>。<span class="pinyin">Wǒ xǐhuan <em>zhège cài</em>.</span><span class="trans">I like this dish.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span> 我们 去 <em>哪 个 饭店</em>？<span class="pinyin">Wǒmen qù <em>nǎge fàndiàn</em>? </span><span class="trans">Which restaurant are we going to? </span></li>
+<li><span class="speaker">B:</span> 我们 去 <em>你 妈妈 的 饭店</em>。<span class="pinyin">Wǒmen qù <em>nǐ māma de fàndiàn</em>.</span><span class="trans">We are going to your mom's restaurant.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span> 你 在 <em>哪 个 房间</em>？<span class="pinyin">Nǐ zài <em>nǎge fángjiān</em>? </span><span class="trans">Which room are you in? </span></li>
+<li><span class="speaker">B:</span> 我 在 <em>你 的 房间</em>。<span class="pinyin">Wǒ zài <em> nǐ de fángjiān</em>.</span><span class="trans">I'm in your room.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span> 你 住 在 <em>哪 个 区</em>？<span class="pinyin">Nǐ zhù zài <em>nǎge qū</em>? </span><span class="trans">Which district do you live in? </span></li>
+<li><span class="speaker">B:</span> 我 住 在 <em>静安 区</em>。<span class="pinyin">Wǒ zhù zài <em> Jìng'ān Qū </em>.</span><span class="trans">I live in Jing'an District.</span></li>
+</ul>
+</div>
+
+== Expressing "Who" with 谁 (shéi) ==
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 是 + 谁 ?
+</div>
+
+<div class="jiegou">
+谁 + Verb ?
+</div>
+
+=== Examples ===
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>你 是 <em>谁</em>？<span class="pinyin">Nǐ shì <em>shéi</em>?</span><span class="trans">Who are you?</span></li>
+<li><span class="speaker">B:</span>我 是 <em>他 女朋友</em>。<span class="pinyin">Wǒ shì <em>tā nǚpéngyou</em>.</span><span class="trans">I'm his girlfriend.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>她 是 <em>谁</em>？<span class="pinyin">Tā shì <em>shéi</em>?</span><span class="trans">Who is she?</span></li>
+<li><span class="speaker">B:</span>她 是 <em>我的老师</em>。<span class="pinyin">Tā shì <em>wǒ de lǎoshī</em>.</span><span class="trans">She‘s my teacher.</span></li>
+</ul>
+</div>
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>你 不 喜欢 <em>谁</em>？<span class="pinyin">Nǐ bù xǐhuan  <em>shéi</em>?</span><span class="trans">Who do you not like?</span></li>
+<li><span class="speaker">B:</span>我 不 喜欢 <em>我 的 老板</em>。<span class="pinyin">Wǒ bù xǐhuan <em>wǒ de lǎobǎn</em>.</span><span class="trans">I don't like my boss.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span><em>谁</em> 想 去？<span class="pinyin"><em>Shéi</em> xiǎng qù?</span><span class="trans">Who wants to go? </span></li>
+<li><span class="speaker">B:</span><em>我</em> 想 去。<span class="pinyin"><em>Wǒ</em> xiǎng qù.</span><span class="trans">I want to go.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span><em>谁</em> 想 喝 咖啡？<span class="pinyin"><em>Shéi</em> xiǎng hē kāfēi?</span><span class="trans">Who wants to drink coffee?</span></li>
+<li><span class="speaker">B:</span><em>我</em> 想 喝 咖啡。<span class="pinyin"><em>Wǒ</em> xiǎng hē kāfēi.</span><span class="trans">I want to drink coffee.</span></li>
+</ul>
+</div>
+
+== Expressing "When" with 什么时候 (shénme shíhou) ==
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + 什么时候 + Predicate ?
+
+</div>
+
+Examples for asking and telling ''when'' (to keep things simple, we'll just include questions about the future; asking questions about the past can be slightly more complicated and may involve the [[Using the "shi... de" construction|"shi... de" construction]]).
+
+=== Examples ===
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>你 <em>什么时候</em> 来 ？ <span class="pinyin">Nǐ shénme shíhou lái?</span><span class="trans">When are you coming?</span></li>
+<li><span class="speaker">B:</span>我 <em>明天</em> 来。<span class="pinyin">Wǒ míngtiān lái.</span><span class="trans">I'm coming tomorrow.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>你们 <em>什么时候</em> 走？<span class="pinyin">Nǐmen shénme shíhou zǒu?</span><span class="trans">When are you guys leaving?</span></li>
+<li><span class="speaker">B:</span>我们 <em>下 个 月</em> 走。<span class="pinyin">Wǒmen xià gè yuè  zǒu.</span><span class="trans">We're leaving next month.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>我们 <em>什么时候</em> 吃饭？<span class="pinyin">Wǒmen shénme shíhou chīfàn?</span><span class="trans">When are we eating?</span></li>
+<li><span class="speaker">B:</span>我们 <em>6 点</em> 吃饭。<span class="pinyin">Wǒmen liù diǎn chīfàn.</span><span class="trans">We're eating at 6:00.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>爸爸 <em>什么时候</em> 回来？<span class="pinyin">Bàba shénme shíhou huílái?</span><span class="trans">When is dad coming back?</span></li>
+<li><span class="speaker">B:</span>爸爸 <em>周末</em> 回来。<span class="pinyin">Bàba zhōumò huílái.</span><span class="trans">Dad is coming back this weekend.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>你 的 飞机 <em>什么时候</em> 到 上海？<span class="pinyin">Nǐ de fēijī shénme shíhou dào Shànghǎi?</span><span class="trans">When is your airplane arriving in Shanghai?</span></li>
+<li><span class="speaker">B:</span><em>晚上 八点</em>。<span class="pinyin"> Wǎnshang bā diǎn.</span><span class="trans">Eight o'clock this evening.</span></li>
+</ul>
+</div>
+
+== Expressing "Why" with 为什么 (wèishénme) ==
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + 为什么 + Predicate ?
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>你 <em>为什么</em> 学 中文？<span class="pinyin">Nǐ <em>wèishénme</em> xué Zhōngwén?</span><span class="trans">Why do you study Chinese?</span></li>
+<li><span class="speaker">B:</span><em>因为</em> 我 在 中国 工作。<span class="pinyin"><em>Yīnwèi</em> wǒ zài Zhōngguó gōngzuò.</span><span class="trans"> Because I'm working in China.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>他们 <em>为什么</em> 不 喝 咖啡？<span class="pinyin">Tāmen <em>wèishénme</em> bù hē kāfēi?</span><span class="trans">Why don't you drink coffee?</span></li>
+<li><span class="speaker">B:</span><em>因为</em> 咖啡 很 苦。<span class="pinyin"><em>Yīnwèi</em> kāfēi hěn kǔ.</span><span class="trans">Because coffee is bitter.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>他 <em>为什么</em> 不 来？<span class="pinyin">Tā <em>wèishénme</em> bù lái?</span><span class="trans">Why isn't he coming?</span></li>
+<li><span class="speaker">B:</span><em>因为</em> 他 很 忙。<span class="pinyin"><em>Yīnwèi</em> tā hěn máng.</span><span class="trans">Because he is busy.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>你 早上 <em>为什么</em> 不 在？<span class="pinyin">Nǐ zǎoshang <em>wèishénme</em> bù zài?</span><span class="trans">Why were you not here this morning? </span></li>
+<li><span class="speaker">B:</span><em>因为</em> 我 出去 见 朋友 了。<span class="pinyin"><em>Yīnwèi</em> wǒ chūqù jiàn péngyou le.</span><span class="trans">Because I went out to meet some friends.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>这些 外国人 <em>为什么</em> 不 喜欢 中国？<span class="pinyin">Zhèxiē wàiguó rén <em>wèishénme</em> bù xǐhuan Zhōngguó?</span><span class="trans">Why do these foreigners not like China? </span></li>
+<li><span class="speaker">B:</span><em>因为</em> 中国 人 太多。<span class="pinyin"><em>Yīnwèi</em> Zhōngguó rén tài duō.</span><span class="trans">Because China has a lot of people.</span></li>
+</ul>
+</div>
+
+== Expressing "How" with 怎么 (zěnme) ==
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + 怎么 + Verb (+ Obj.) ?
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>你 <em>怎么</em> 学习 中文？<span class="pinyin">Nǐ <em>zěnme</em> xuéxí Zhōngwén?</span><span class="trans">How do you study Chinese?</span></li>
+<li><span class="speaker">B:</span>我 <em>用  <span class="spaced">Grammar Wiki</span></em> 学习 中文 。<span class="pinyin">Wǒ <em>yòng Grammar Wiki</em> xuéxí Zhōngwén.</span><span class="trans">I use the Grammar Wiki to study Chinese.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>你 <em>怎么</em> 上网？<span class="pinyin">Nǐ <em>zěnme</em> shàngwǎng?</span><span class="trans">How do you go online?</span></li>
+<li><span class="speaker">B:</span>我 <em>用 手机</em> 上网。<span class="pinyin">Wǒ <em>yòng shǒujī</em> shàngwǎng.</span><span class="trans">I use my cell phone to go online.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>你 <em>怎么</em> 去 北京？<span class="pinyin">Nǐ <em>zěnme</em> qù Běijīng?</span><span class="trans">How do you go to Beijing? </span></li>
+<li><span class="speaker">B:</span>我 <em>坐 火车</em> 去。<span class="pinyin">Wǒ <em>zuò huǒchē</em> qù.</span><span class="trans">I take the train.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>你们 <em>怎么</em> 回家 ？<span class="pinyin">Nǐmen <em>zěnme</em> huíjiā?</span><span class="trans">How are you guys going to get home?</span></li>
+<li><span class="speaker">B:</span>我 <em>开车</em> 回家。<span class="pinyin">Wǒ <em>kāichē</em> huíjiā.</span><span class="trans">I‘m driving home.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>你 <em>怎么</em>  买 票 ？<span class="pinyin"> Nǐ <em>zěnme</em> mǎi piào?</span><span class="trans"> How do you buy tickets?</span></li>
+<li><span class="speaker">B:</span>我 <em>上网</em> 买 票 。<span class="pinyin">Wǒ <em>shàngwǎng</em> mǎi piào.</span><span class="trans">I go online to buy tickets.</span></li>
+</ul>
+</div>
+
+==See also==
+
+*[[Word order]]
+*[[Affirmative-negative questions]]
+*[[Yes-no questions with "ma"]]
+
+== Sources and further reading ==
+
+{{Source|HSK Standard Course 1|15, 23, 66}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|57}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)|66, 251}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|46}}
+{{Source|Basic Patterns of Chinese Grammar|23}} 
+{{Source|Chinese: An Essential Grammar, Second Edition|132-5}}
+
+[[Category:A1 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+[[Category:Dialogs]]
+{{Basic Grammar|什么|A1|什么 / 什么时候 / 谁 / 哪儿 / 为什么 / 怎么|你 是 <em>谁</em> ？你 在 <em>哪儿</em> ？|grammar point|ASGJQPSC}}
+{{Rel char|什么}}
+{{Rel char|什么时候}}
+{{Rel char|谁}}
+{{Rel char|哪儿}}
+{{Rel char|为什么}}
+{{Rel char|怎么}}
+{{Similar|Word order}} 
+{{Similar|Affirmative-negative question}}
+{{Similar|Yes-no questions with "ma"}}
+{{Similar|Basic sentence order}}    
+{{Similar|How to do something with "zenme"}}
+{{Used for|Asking questions}}
+{{Used for|Sentence Patterns}}
+{{Translation|who}}
+{{Translation|what}}
+{{Translation|where}}
+{{Translation|when}}
+{{Translation|why}}
+{{Translation|how}}
+{{Structure|Question Forms}}

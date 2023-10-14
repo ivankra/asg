@@ -1,0 +1,42 @@
+<!-- Facilitating an outcome with "yibian" -->
+{{Grammar Box}} 
+以便 (yǐbiàn)  is a formal way to say "in order to" or "to facilitate," and is generally used to show that an outcome is the result of a particular action.
+
+==Structure==
+
+<div class="jiegou">
+[Action] +  以便 （+ 能） + [Outcome]
+</div>
+
+==Examples==
+
+<div class="liju">
+* 我们 很 早 就 去 了 机场，<em>以便</em> 能 赶上 最早 的飞机。<span class="pinyin">Wǒmen hěn zǎo jiù qù le jīchǎng, <em>yǐbiàn</em> néng gǎnshàng zuì zǎo de fēijī.</span><span class="trans">We got to the airport very early so we could make the earliest flight.</span>
+* 我 正在 存钱，<em>以便</em> 我 能 买 一 套 房子。<span class="pinyin">Wǒ zhèngzài cúnqián, <em>yǐbiàn</em> wǒ néng mǎi yī tào fángzi.</span><span class="trans">We're saving money so we can buy a house.</span>
+* 公司 准备 派 人 去 客户 那里，<em>以便</em> 能 和 客户 更 好 地 沟通。<span class="pinyin">Gōngsī zhǔnbèi pài rén qù kèhù nàlǐ, <em>yǐbiàn</em> néng hé kèhù gèng hǎo de gōutōng.</span><span class="trans">The company is preparing to send someone to the clients so as to be able to better communicate with them.</span>
+* 我国 提倡 垃圾 分类，<em>以便</em> 回收 再利用。<span class="pinyin">Wǒguó tíchàng lājī fēnlèi, <em>yǐbiàn</em> huíshōu zài lìyòng.</span><span class="trans">My country advocates garbage sorting to help with reuse and recycling.</span>
+* 老李 买 了 一 辆 折叠式 的 自行车，<em>以便</em> 携带。<span class="pinyin">Lǎo Lǐ mǎi le yī liàng zhédié-shì de zìxíngchē, <em>yǐbiàn</em> xiédài.</span><span class="trans">Lao Li bought a folding bike to make it easier to carry around.</span>
+* 老师 减慢 了 语速，<em>以便</em> 学生 能 听懂。<span class="pinyin">Lǎoshī jiǎnmàn le yǔsù, <em>yǐbiàn</em> xuéshēng néng tīngdǒng.</span><span class="trans">The teacher slowed down her rate of speech so that the students could understand her.</span>
+* 我 把 所有 的 资料 都 进行 了 分类，<em>以便</em> 以后 查找 。<span class="pinyin">Wǒ bǎ suǒyǒu de zīliào dōu jìnxíng le fēnlèi, <em>yǐbiàn</em> yǐhòu cházhǎo.</span><span class="trans">We sorted all the data so that we can find it later.</span>
+* 请 您 及时 告诉 我 您的 时间，<em>以便</em> 我们 尽快 安排 好 您的 课程。<span class="pinyin">Qǐng nín jíshí gàosù wǒ nín de shíjiān, <em>yǐbiàn</em> wǒmen jìnkuài ānpái hǎo nín de kèchéng.</span><span class="trans">Please tell me the times that work for you soon so I can schedule your classes.</span>
+* 他 选择 了 一 个 简单 的 工作，<em>以便</em> 下班 以后 可以 陪 孩子。<span class="pinyin">Tā xuǎnzé le yī gè jiǎndān de gōngzuò, <em>yǐbiàn</em> xiàbān yǐhòu kěyǐ péi háizi.</span><span class="trans">He chose a simple job so that he can spend more time with the children after work.</span>
+* 你 为什么 不 往前 一点，<em>以便</em> 看 得 更 清楚 些？<span class="pinyin">Nǐ wèishénme bù wǎng qián yīdiǎn, <em>yǐbiàn</em> kàn de gèng qīngchu xiē?</span><span class="trans">Why didn't you move forward a little to get a somewhat clearer view?</span>
+</div>
+
+==See also==
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|BRIDGE (桥梁 实用汉语中级教程下)|95}}
+{{Source|发展汉语 中级汉语上|81-82}} 
+
+[[Category: C1 grammar points]]
+[[Category: Verbs]]
+{{Basic Grammar|以便|C1|以便 + Verb|用 普通话 说 ， <em>以便</em> 我 能 听懂 。|grammar point|ASGXU2H4}}
+{{Similar|"lai" used to connect two verb phrases}}
+{{Used for|Expressing purpose}}
+{{Translation|to}}
+{{POS|Verbs}}
+{{Subprop|Verb phrases}}

@@ -1,0 +1,37 @@
+<!-- Using "jiang" as a formal "ba" -->
+{{Grammar Box}} 
+将 (jiāng) is a formal alternative for [[Using "ba" sentences|把 (bǎ)]] but marks an object in the same way, and is generally used in formal contexts.
+
+== Structure ==
+
+<div class="jiegou">
+Subj. + <strong>将 + Obj.</strong> + [Verb Phrase]
+</div>
+
+== Examples ==
+
+<div class="liju">
+*他 <em>将</em> 这些 蛋糕 都 吃完 了。<span class="pinyin">Tā <em>jiāng</em> zhèxiē dàngāo dōu chī wán le.</span><span class="trans">He has eaten all the cake.</span>
+*政府 <em>将</em> 这个 房子 收回 了。<span class="pinyin">Zhèngfǔ <em>jiāng</em> zhège fángzi shōuhuí le.</span><span class="trans">The government has reclaimed the house.</span>
+*我们 <em>将</em> 竞争 对手 打败 了。<span class="pinyin">Wǒmen <em>jiāng</em> jìngzhēng duìshǒu dǎbài le.</span><span class="trans">We have defeated our competitors.</span>
+*公司 <em>将</em> 经常 迟到 的 人 解雇 了。<span class="pinyin">Gōngsī <em>jiāng</em> jīngcháng chídào de rén jiěgù le.</span><span class="trans">The company dismissed the people who are always late.</span>
+*Oscar <em>将</em> 最佳 女主角 这个 奖 颁给 了 一个 很 年轻 的 演员 。<span class="pinyin">Oscar <em>jiāng</em> zuì jiā nǚ zhǔjué zhège jiǎng bān gěi le yī gè hěn niánqīng de yǎnyuán.</span><span class="trans">The Oscar for Best Actress was awarded to a very young actress.</span>
+*学校 <em>将</em> 那些 经常 逃学 的 学生 都 开除 了 。<span class="pinyin>Xuéxiào <em>jiāng</em> nàxiē jīngcháng táoxué de xuéshēng dōu kāichú le.</span><span class="trans">The school expelled those students who frequently skipped school.</span>
+*老板 决定 <em>将</em> 公司 20% 的 股份 卖 给 一个 美国 公司 。<span class="pinyin">Lǎobǎn juédìng <em>jiāng</em> gōngsī bǎifēnzhī èrshí de gǔfèn mài gěi yī gè Měiguó gōngsī.</span><span class="trans">The boss decided to a sell 20% share of the company to an American company.</span>
+*政府 要求 这些 官员 <em>将</em> 赃款 归还 给 国家 。<span class="pinyin">Zhèngfǔ yāoqiú zhèxiē guānyuán <em>jiāng</em> zāngkuǎn guīhuán gěi guójiā.</span><span class="trans">The government demanded that these officials return illicit funds.</span>
+*哥哥 希望 我们 <em>将</em> 这个 房子 给 他。<span class="pinyin">Gēge xīwàng wǒmen <em>jiāng</em> zhège fángzi gěi tā.</span><span class="trans">My older brother hopes that we will give him this house.</span>
+*你 <em>将</em> 这个 礼物 带 回去。<span class="pinyin">Nǐ <em>jiāng</em> zhège lǐwù dài huíqù.</span><span class="trans">You take this gift back with you.</span>
+</div>
+
+== See also ==
+
+*[[Expressing future with "jiang"]]
+*[[Using "ba" sentences]]
+
+[[Category: B2 grammar points]]
+[[Category: Verbs]]
+{{Basic Grammar|将|B2|Subj. + 将 + Obj. + Verb Phrase|学校 <em>将</em> 那些 经常 逃学 的 学生 都 开除 了 。|grammar point|ASG68DA5}}
+{{Similar|Expressing future with "jiang"}}
+{{Similar|Using "ba" sentences}}
+{{Used for|Expressing active voice}}
+{{POS|Sentence Patterns}}

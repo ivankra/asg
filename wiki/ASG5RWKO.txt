@@ -1,0 +1,74 @@
+<!-- Time words and word order -->
+{{Grammar Box}} 
+
+Remembering where to put the time words, such as "yesterday," "tomorrow," "this week," etc. in a sentence is really important in order to speak Chinese correctly. In Chinese you get two equally correct choices.
+
+== Structure ==
+
+Time words can appear in one of two positions in the sentence in Chinese: either at the beginning of the sentence (before the subject), or directly after the subject. The structures are:
+
+<div class="jiegou">
+
+'''Time''' + Subj. + Verb + Obj.
+
+</div>
+
+<div class="jiegou">
+
+Subj. + '''Time''' + Verb + Obj.
+
+</div>
+
+So if you start speaking with "time first" English word order, you can carry on and get away with it.  If, however, you're saving the time word for the ''end'' of the sentence, you can be pretty sure that it doesn't sound at all natural to your Chinese audience.
+
+== Examples ==
+
+<div class="liju">
+
+* <em>昨天</em> <strong>我</strong> 去 了 酒吧 。 <span class="pinyin"><em>Zuótiān</em> <strong>wǒ</strong> qù le jiǔbā.</span><span class="trans">Yesterday I went to the bar.</span>
+* <strong>我</strong> <em>昨天</em> 去 了 酒吧 。 <span class="pinyin"><strong>Wǒ</strong> <em>zuótiān</em> qù le jiǔbā.</span><span class="trans">I went to the bar yesterday.</span>
+</div>
+<div class="liju">
+* <em>下 个 星期</em> <strong>他</strong> 要 回 国 。 <span class="pinyin"><em>Xià gè xīngqī</em> <strong>tā</strong> yào huí guó.</span><span class="trans">Next week he is going back to his country.</span>
+* <strong>他</strong> <em>下 个 星期</em> 要 回 国 。 <span class="pinyin"><strong>Tā</strong> <em>xià gè xīngqī</em> yào huí guó.</span><span class="trans">He is going back to his country next week.</span>
+</div>
+<div class="liju">
+* <em>明年</em> <strong>我</strong> 要 开 一 个 公司 。 <span class="pinyin"><em>Míngnián</em> <strong>wǒ</strong> yào kāi yī gè gōngsī.</span><span class="trans">Next year I want to open a company.</span>
+* <strong>我</strong> <em>明年</em> 要 开 一 个 公司 。 <span class="pinyin"><strong>Wǒ</strong> <em>míngnián</em> yào kāi yī gè gōngsī.</span><span class="trans">I want to open a company next year.</span>
+</div>
+<div class="liju">
+* <em>下 个 月</em> <strong>我们</strong> 结婚 吧 ？ <span class="pinyin"><em>Xià gè yuè</em> <strong>wǒmen</strong> jiéhūn ba?</span><span class="trans">Next month shall we get married?</span>
+* <strong>我们</strong> <em>下 个 月</em> 结婚 吧 ？ <span class="pinyin"><strong>Wǒmen</strong> <em>xià gè yuè</em> jiéhūn ba?</span><span class="trans">Shall we get married next month?</span>
+</div>
+<div class="liju">
+* <em>现在</em> <strong>你</strong> 能 来 我 办公室 吗 ？ <span class="pinyin"><em>Xiànzài</em> <strong>nǐ</strong> néng lái wǒ bàngōngshì ma?</span><span class="trans">Now you can come to my office?</span>
+* <strong>你</strong> <em>现在</em> 能 来 我 办公室 吗 ？ <span class="pinyin"><strong>Nǐ</strong> <em>xiànzài</em> néng lái wǒ bàngōngshì ma?</span><span class="trans">Can you come to my office now?</span>
+</div>
+
+==See also==
+*[[Word order]]
+*[[Using "zai" with verbs]]
+*[[Wanting to do something with yao]]
+*[[Expressing completion with le]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|84}}
+{{Source|Chinese: An Essential Grammar, Second Edition|75-7}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|205-6}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|98}} 
+
+[[Category:A2 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{Used for|Expressing time and date}}
+{{Used for|Sentence Patterns}}
+{{Used for|Sequencing events in time}}
+{{Basic Grammar|none|A2|Subj. + Time⋯⋯ / Time + Subj.⋯⋯|我 <em>明天</em> 有 空。/ <em>明天</em> 我 有 空。|grammar point|ASG5RWKO}}
+{{Similar|Word order}}
+{{Similar|Using "zai" with verbs}}
+{{Similar|Wanting to do something with yao}}
+{{Similar|Expressing completion with le}}
+{{Similar|Wanting to do something with yao}}    
+{{POS|Nouns}}

@@ -1,0 +1,67 @@
+<!-- Expressing "double negation" -->
+{{Grammar Box}} 
+
+There are two main methods for double negation. The simpler method is to use a double negative with [[modal verb]]s like 会 or 能. The more complicated method is to negate both the subject and the predicate. 
+
+== Negation Before a Negative Word ==
+
+=== Structure ===
+
+This pattern just uses 不是 right before a negated predicate:
+
+<div class="jiegou">
+Subj. + 不是 + 不 / 没 + Predicate
+</div>
+
+This pattern uses modal verbs like 会, 能, or 可能, which are negated before a negated predicate:
+
+<div class="jiegou">
+Subj. + 不 + 会 / 能 / 可能 + 不 / 没 + Predicate
+</div>
+
+The [[predicate]] part of either pattern can be a verb or an adjective.
+
+=== Examples ===
+
+<div class="liju">
+
+*他 <em>不</em> 会 <em>不</em> 来 的 。<span class="pinyin">Tā <em>bù</em> huì <em>bù</em> lái  de.</span><span class="trans">There is no way he's not coming.</span>
+*她 <em>不</em> 可能 <em>不</em> 知道 。<span class="pinyin">Tā <em>bù</em> kěnéng <em>bù</em> zhīdào.</span><span class="trans">There is no way she doesn't know about this.</span> 
+*她 太 害羞 了 ，<em>不是</em> <em>不</em> 礼貌 。<span class="pinyin">Tā tài hàixiū le, <em>bù shì</em> <em>bù</em> lǐmào.</span><span class="trans">She's too shy; It's not that she's not polite.</span>
+*他 <em>不是</em> <em>没有</em> 钱 ，是 不 想 乱 花 钱 。<span class="pinyin">Tā <em>bù shì</em> <em>méiyǒu</em> qián, shì bù xiǎng luàn huā qián.</span><span class="trans">It's not that he doesn't have money; it's just he doesn't want to spend it recklessly.</span>
+*我 知道 你 想 减肥 ，但是 <em>不</em> 能 <em>不</em> 吃 早饭 。<span class="pinyin">Wǒ zhīdào nǐ xiǎng jiǎnféi, dànshì <em>bù</em> néng <em>bù</em> chī zǎofàn.</span><span class="trans">I know you want to lose weight, but you can't not eat breakfast.</span>
+
+</div>
+
+== Negation Before a Singular Noun ==
+
+This structure is used for saying things like "not a single one," often with [[Topic-comment sentences|topic comments]]. 没有一个人 ("not a single person") is equivalent to 没有谁 ("not anyone"). 
+
+=== Structure ===
+
+<div class="jiegou">
+(Topic +) 没有 + [Singular Noun] + 不 / 没 + Predicate + 的
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>没有</em> 一 个 人 <em>不</em> 讨厌 他 <strong>的</strong> 。 <span class="pinyin"><em>Méiyǒu</em> yī gè rén <em>bù</em> tǎoyàn tā <strong>de</strong>.</span><span class="trans">There is not one person who doesn't dislike him.</span>
+*这些 菜 <em>没有</em> 一 个 <em>不</em> 辣 <strong>的</strong> 。<span class="pinyin">Zhèxiē cài <em>méiyǒu</em> yī gè <em>bù</em> là <strong>de</strong>.</span><span class="trans">There is no single one that is not spicy among these dishes.</span>
+*我们 公司 的 员工 <em>没有</em> 一 个 <em>不</em> 会 说 英语 <strong>的</strong> 。<span class="pinyin">Wǒmen gōngsī de yuángōng <em>méiyǒu</em> yī gè <em>bù</em> huì shuō Yīngyǔ <strong>de</strong>.</span><span class="trans">Our company doesn't have a single employee who can't speak English.</span>
+*他 的 女朋友 <em>没有</em> 一 个 <em>不</em> 漂亮 <strong>的</strong> 。<span class="pinyin">Tā de nǚpéngyou <em>méiyǒu</em> yī gè <em>bù</em> piàoliang <strong>de</strong>.</span><span class="trans">None of his girlfriends were not beautiful.</span>
+*我们 学校 的 学生 <em>没有</em> 一 个 <em>没</em> 参加 高考 <strong>的</strong> 。<span class="pinyin">Wǒmen xuéxiào de xuéshēng <em>méiyǒu</em> yī gè <em>méi</em> cānjiā gāokǎo <strong>de</strong>.</span><span class="trans">In our school there wasn't a single student who didn't take the national college entrance exam.</span>
+
+</div>
+
+[[Category:B1 grammar points]]
+{{HSK|HSK0}}
+{{Basic Grammar|不|B1|Subj. + 不是 + 不 / 没 + Predicate|我 <em>不</em> 是 <em>不</em> 知道 怎么 做 。|grammar point|ASGEEA2D}}
+{{Rel char|没}}
+{{Similar|Expressing "all" with "suoyou"}}
+{{Similar|Indicating the whole with "quan"}}
+{{Used for|Describing actions}}
+{{Used for|Expressing quantity}}
+{{Structure|Sentence Patterns}}
+{{Subprop|Basic/Simple Sentence Patterns}}

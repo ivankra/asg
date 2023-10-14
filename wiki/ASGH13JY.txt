@@ -1,0 +1,101 @@
+<!-- Idiomatic phrases with "zai" -->
+{{Grammar Box}} 
+
+You probably already know how to [[Expressing location with "zai... shang / xia / li"|express location with 在]]. In this article, we'll go more in depth as to how you can make idiomatic phrases using that construction. This kind of form is actually similar to some that we have in English, so it won't be too difficult.
+
+== Used with 上 ==
+
+This construction can be translated as "on the topic of" or "in regards to." It can be used to comment on an idea or concept. The examples below will help.
+
+=== Structure ===
+
+<div class="jiegou">
+在 + Topic + 上 ，Subj. ⋯⋯
+</div class>
+
+Note that the subject can also be put before 在.
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>在</em> 这 个 问题 <strong>上</strong> ，我们 的 看法 是 一样 的 。<span class="pinyin"><em>Zài</em> zhège wèntí <strong>shàng</strong>, wǒmen de kànfǎ shì yīyàng de.</span><span class="trans">In regards to this problem, our opinions are the same.</span>
+*<em>在</em> 美国 历史 <strong>上</strong> ，谁 是 最 重要 的 总统 ？<span class="pinyin"><em>Zài</em> Měiguó lìshǐ <strong>shàng</strong>, shéi shì zuì zhòngyào de zǒngtǒng ?</span><span class="trans">In regards to American history, who is the most important president?</span>
+*这个 句子 <em>在</em> 语法 <strong>上</strong> 没 什么 问题 ，但是 不 太 自然 。<span class="pinyin">Zhège jùzi <em>zài</em> yǔfǎ <strong>shàng</strong> méi shénme wèntí, dànshì bù tài zìrán.</span><span class="trans">This sentence is okay to say in terms of grammar, it's just not very natural.</span>
+*南方人 和 北方人 <em>在</em> 生活 习惯 <strong>上</strong> 有 很多 差异 。<span class="pinyin">Nánfāng rén hé běifāng rén <em>zài</em> shēnghuó xíguàn <strong>shàng</strong> yǒu hěn duō chāyì.</span><span class="trans">There are many differences between northern and southern people when it comes to living habits.</span>
+
+</div>
+
+== Used with 下 ==
+
+This construction can be translated (rather directly) as "under" and expresses conditions that affected the comment that comes after.
+
+=== Structure ===
+
+<div class="jiegou">
+在 ⋯⋯ 下 ，⋯⋯
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>在</em> 这样 的 环境 <strong>下</strong> 长大 ，孩子 会 快乐 吗 ？<span class="pinyin"><em>Zài</em> zhèyàng de huánjìng <strong>xià</strong> zhǎngdà, háizi huì kuàilè ma?</span><span class="trans">Do you think kids will be happy growing up in this kind of environment?</span>
+*<em>在</em> 这 种 情况 <strong>下</strong> ，你们 会 怎么 做 ？<span class="pinyin"><em>Zài</em> zhè zhǒng qíngkuàng <strong>xià</strong>, nǐmen huì zěnme zuò?</span><span class="trans">Under these kinds of circumstances, what would you do?</span>
+*<em>在</em> 紧急 情况 <strong>下</strong> ，你 可以 这样 做 。<span class="pinyin"><em>Zài</em> jǐnjí qíngkuàng <strong>xià</strong>, nǐ kěyǐ zhèyàng zuò.</span><span class="trans">In an emergency situation, you can do this.</span>
+*<em>在</em> 那么 困难 的 条件 <strong>下</strong> ，她 还是 坚持 让 孩子们 都 上学 。<span class="pinyin"><em>Zài</em> nàme kùnnan de tiáojiàn <strong>xià</strong>, tā háishì jiānchí ràng háizi men dōu shàngxué.</span><span class="trans">Under dire financial conditions, she still insisted that the children should all attend school.</span>
+
+</div>
+
+== Used with 方面 ==
+
+This construction is similar to the 在⋯⋯上 above, which translates to "in relation to" or "on the topic of."
+
+=== Structure ===
+
+<div class="jiegou">
+在 + Topic + 方面 ，Subj. ⋯⋯
+</div class>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>在</em> 事业 <strong>方面</strong> ，我 老板 很 成功 。<span class="pinyin"><em>Zài</em> shìyè <strong>fāngmiàn</strong>, wǒ lǎobǎn hěn chénggōng.</span><span class="trans">With regards to career, my boss is very successful.</span>
+*<em>在</em> 技术 <strong>方面</strong> ，他 是 专家 。<span class="pinyin"><em>Zài</em> jìshù <strong>fāngmiàn</strong>, tā shì zhuānjiā.</span><span class="trans">When it comes to technology, he's an expert.</span>
+*<em>在</em> 管理 <strong>方面</strong> ，你 比 我 有经验 。<span class="pinyin"><em>Zài</em> guǎnlǐ <strong>fāngmiàn</strong>, nǐ bǐ wǒ yǒu jīngyàn.</span><span class="trans">When it comes to management, you have more experience than I do.</span>
+*中西方 文化 <em>在</em> 很多 <strong>方面</strong> 都 有 共同点 。<span class="pinyin">Zhōng-xīfāng wénhuà <em>zài</em> hěn duō <strong>fāngmiàn</strong> dōu yǒu gòngtóngdiǎn.</span><span class="trans">In certain aspects, Chinese and Western culture have a lot in common.</span>
+
+</div>
+
+== See also ==
+
+*[[Using "zai" with verbs]]
+*[["Zai" following verbs]]
+*[[Expressing existence in a place]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|10, 74}}
+{{Source|Integrated Chinese: Level 2, Part 1|191}}
+{{Source|Integrated Chinese: Level 2, Part 2|264, 325}}
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|40-1, 164-5, 185}}
+{{Source|卓越汉语－公司实战篇|42, 145}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|在|B1|在 + Topic + 上 ，Subj. ⋯⋯|<em>在</em>美国 历史 <strong>上</strong> ，最重要 的 总统 是 谁 ？|grammar point|ASGH13JY}}
+{{Rel char|上}}
+{{Rel char|下}}
+{{Rel char|方面}}
+{{Similar|Expressing existence in a place}}
+{{Similar|Expressing location with "zai... shang / xia / li"}}
+{{Similar|Expressing various aspects with "yi fangmian"}}
+{{Used for|Expressing location}}
+{{Used for|Indicating conditions}}
+{{POS|Prepositions}}
+{{Translation|in}}
+{{Translation|at}}
+{{Translation|on}}

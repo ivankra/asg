@@ -1,0 +1,68 @@
+<!-- Doing something more with "duo" -->
+{{Grammar Box}} 
+
+In China, you often hear you should do this or that more (eat more, drink more water, wear more warm clothing, etc.), and they often use the word 多 (duō). What's not intuitive to learners is that the word 多 should come ''before the verb.''
+
+== Structure ==
+
+This structure is often used in commands or suggestions.  Note the position of 多:
+
+<div class="jiegou">
+多 + Verb 
+</div>
+
+This structure is not used exclusively as a command, so you could also include a subject if you needed to.
+
+== Examples ==
+
+In English we like to say things like "eat ''more''," "drink ''more'' beer," and "I need to exercise ''more''."  Notice that in every one of these cases, the word "more" (equivalent to this use of 多) comes ''after'' the verb in English.  In Chinese, it's more natural to put the 多 ''before'' the verb.
+
+<div class="liju">
+
+*<em>多</em> 吃 点 。<span class="pinyin"><em>Duō</em> chī diǎn.</span><span class="trans">Eat a little more.</span>
+*<em>多</em> 放 点 辣 。<span class="pinyin"><em>Duō</em> fàng diǎn là.</span><span class="trans">Add a little more spiciness.</span>
+*<em>多</em> 拿 一点 。<span class="pinyin"><em>Duō</em> ná yīdiǎn.</span><span class="trans">Take more.</span>
+*爷爷 ，你 要 <em>多</em> 出去 走走 。<span class="pinyin">Yéye, nǐ yào <em>duō</em> chūqù zǒuzou.</span><span class="trans">Gramps, you need to go out and take walks more often.</span>
+*<em>多</em> 给 他 点 时间 吧 。<span class="pinyin"><em>Duō</em> gěi tā diǎn shíjiān ba.</span><span class="trans">Give him a little more time.</span>
+*我 想 <em>多</em> 陪陪 家人 。<span class="pinyin">Wǒ xiǎng <em>duō</em> péipei jiārén.</span><span class="trans">I want to spend more time with my family.</span>
+*感冒 的 时候 要 <em>多</em> 喝 水 。<span class="pinyin">Gǎnmào de shíhou yào <em>duō</em> hē shuǐ.</span><span class="trans">Drink more water when you have a cold.</span>
+*医生 让 我 <em>多</em> 运动 。<span class="pinyin">Yīshēng ràng wǒ <em>duō</em> yùndòng.</span><span class="trans">The doctor told me to exercise more.</span>
+*他 比 你 有 经验 ，你 应该 <em>多</em> 向 他 学习 。<span class="pinyin">Tā bǐ nǐ yǒu jīngyàn, nǐ yīnggāi <em>duō</em> xiàng tā xuéxí.</span><span class="trans">He's more experienced than you. You should learn from him more.</span>
+*想 提高 汉语 口语 ，就要 <em>多</em> 练习 。<span class="pinyin">Xiǎng tígāo Hànyǔ kǒuyǔ, jiùyào <em>duō</em> liànxí.</span><span class="trans">If you want to improve your spoken Chinese, you need to practice more.</span>
+
+</div>
+
+== Counter-Examples ==
+
+Just to be completely clear, the following uses of 多 are not as natural as the ones above.  They'll be understood, and they might not be technically ''wrong'', but you can do better!
+
+<div class="liju">
+
+<ul>
+<li class="q">吃 <em>多</em> 点。<span class="pinyin">Chī <em>duō</em> diǎn.</span></li>
+<li class="q"> 我 要 回家<em>多</em>点！<span class="pinyin">Wǒ yào huíjiā <em>duō</em> diǎn!</span></li>
+<li class="q">我 应该 运动 <em>多</em> 点。<span class="pinyin">Wǒ yīnggāi yùndòng <em>duō</em> diǎn.</span></li>
+</ul>
+
+</div>
+
+The opposite of 多 is, of course, 少.  It is further explained in the article [[doing something less with "shao"]].
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|39}}
+{{Source|发展汉语 中级汉语口语上|72}}
+
+[[Category:B1 grammar points]]
+
+{{Basic Grammar|多|B1|多 + Verb|<em>多</em> 吃 点 。|grammar point|ASGLKGZP}}
+{{Used for|Adding more explanation}}
+{{Similar|Indicating a number in excess}}
+{{Similar|Doing something less with "shao"}}
+{{Similar|Intensifying with "duo"}}
+{{Similar|Asking about degree with "duo"}}
+{{Translation|more}}
+{{POS|Verbs}}
+{{Subprop|Verb phrases}}

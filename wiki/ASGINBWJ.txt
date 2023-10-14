@@ -1,0 +1,57 @@
+<!-- Expressing "as much as possible" with "jinliang" -->
+{{Grammar Box}} 
+尽量 (jǐnliàng) is an adverb meaning "as much as possible" or "to the greatest extent." In this article, we will do our best to explain how to use it!
+
+== Structure ==
+
+Using 尽量 is as simple as adding it before a verb (or adjective). 
+
+<div class="jiegou">
+
+尽量 + Verb / Adj.
+
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+* 我 会 <em>尽量</em> 想 办法 帮 你 的。<span class="pinyin">Wǒ huì <em>jǐnliàng</em> xiǎng bànfǎ bāng nǐ de.</span><span class="trans">I will try my best to figure out something to help you.</span>
+* 我 会 把 我 知道 的 <em>尽量</em> 告诉 你 。 <span class="pinyin">Wǒ huì bǎ wǒ zhīdào de <em> jǐnliàng </em> gàosu nǐ.</span><span class="trans">I'll do my best to tell you everything I know.</span>
+* 你 看 书 吧，我 <em>尽量</em> 不 打扰 你。<span class="pinyin">Nǐ kàn shū ba, wǒ <em>jǐnliàng</em> bù dǎrǎo nǐ.</span><span class="trans">Go ahead and study, I'll do my best to not disturb you.</span>
+* 你 是 哥哥，要 <em>尽量</em> 照顾 好 妹妹。<span class="pinyin">Nǐ  shì gēge, yào <em>jǐnliàng</em>  zhàogù hǎo mèimei .</span><span class="trans">You are the big brother and you should try your best to look after your little sister.</span>
+* 父母 应该 <em>尽量</em> 多 陪 陪 孩子。<span class="pinyin"> Fùmǔ yīnggāi <em>jǐnliàng</em> duō péipei háizi.</span><span class="trans">Parents should spend as much time as possible with their children.</span>
+* 我们 要 <em>尽量</em>  避免 问 这 种 问题，有的 客户 会 感觉 很 不 舒服 的。<span class="pinyin">Wǒmen yào <em>jǐnliàng</em> bìmiǎn wèn zhè zhǒng wèntí, yǒude kèhù huì gǎnjué hěn bù shūfu de.</span><span class="trans">We should avoid asking this kind of questions, which could make some clients very uncomfortable.</span>
+* 我 <em>尽量</em> 在 这个 星期天 以前 完成 这个 项目 。 <span class="pinyin">Wǒ <em> jǐnliàng </em> zài zhège xīngqītiān yǐqián wánchéng zhège xiàngmù.</span><span class="trans">I will do my best to complete the project by this Sunday.</span>
+* 我们 要 <em>尽量</em> 满足 客户 的 需求 。 <span class="pinyin">Wǒmen yào <em> jǐnliàng </em> mǎnzú kèhù de xūqiú.</span><span class="trans">We have to try our best to meet the client's needs.</span>
+* 老板 生气 了 ， 你 和 他 说话 要 <em>尽量</em> 委婉 点 。 <span class="pinyin">Lǎobǎn shēngqì le, nǐ hé tā shuōhuà yào <em> jǐnliàng </em> wěiwǎn diǎn.</span><span class="trans">The boss is angry. Be as tactful as possible with him.</span>
+* 这 个 项目 预算 很 紧张 ， 我们 要 控制 成本 ， <em>尽量</em> 不 要 超出 预算。 <span class="pinyin">Zhège xiàngmù yùsuàn hěn jǐnzhāng, wǒmen yào kòngzhì chéngběn, <em> jǐnliàng </em> bùyào chāochū yùsuàn.</span><span class="trans">The budget for this project is very tight, so we have to control the cost and try not to exceed the budget.</span>
+</div>
+
+== A Note on Pronunciation ==
+
+You may hear the word 尽量 pronounced as both "jǐnliàng" and "jìnliàng." Although "jǐnliàng" is technically correct and "jìnliàng" is supposed to be a verb (not an adverb like the word above), many educated native speakers will pronounce 尽量 exclusively as "jìnliàng."
+
+== Sources and further reading ==
+
+* [https://resources.allsetlearning.com/chinese/pronunciation/Pronunciation_variant Pronunciation variant (尽量)]
+
+=== Books ===
+
+{{Source|Boya Chinese Lower Intermediate 1 (博雅汉语准中级加速篇) |212}}
+{{Source|现代汉语八百词（增订本）|308}}
+
+=== Dictionaries ===
+
+{{Source|现代汉语词典（第5版）|709}}
+
+=== Websites ===
+
+*ChinesePod [http://chinesepod.com/tools/glossary/entry/%E5%B0%BD%E9%87%8F Jinliang]
+
+[[Category:B2 grammar points]]
+{{Basic Grammar|尽量|B2|尽量 + Verb| 我 会 <em>尽量</em> 想 办法 帮 你 的。|grammar point|ASGINBWJ}}
+{{Similar|}}   
+{{Used for|Describing actions}}
+{{Used for|Expressing attitude}}
+{{POS|Adverbs}}

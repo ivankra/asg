@@ -1,0 +1,108 @@
+<!-- Expressing "small quantity" with "jiu" -->
+{{Grammar Box}} 
+
+就 (jiù) is often translated simply as "just" or "only," but there are some nuances to how it is used.
+
+== Used as "Only" ==
+
+就 can also be used to express one person or thing, similar to how we say in English "just one person" or "just one left." It is often paired with 一个 or similar in order to emphasize the small quantity.
+
+=== Used Before the Subject ===
+
+==== Structure ====
+
+<div class="jiegou">
+就 + Subj. + Predicate
+</div>
+
+The [[predicate]] part of the pattern can be a verb or an adjective.
+
+==== Examples ====
+
+<div class="liju">
+
+*这 件 事 <em>就</em> 我 知道 。<span class="pinyin">Zhè jiàn shì <em>jiù</em> wǒ zhīdào.</span><span class="trans">I'm the only person that knows about this.</span>
+*我们 都 忘 了 ，<em>就</em> 他 还 记得 。<span class="pinyin">Wǒmen dōu wàng le, <em>jiù</em> tā hái jìde.</span><span class="trans">We all forgot. Only he still remembers it.</span>
+*大家 都 下班 了 ，<em>就</em> 老板 还 没 走 。<span class="pinyin">Dàjiā dōu xiàbān le, <em>jiù</em> lǎobǎn hái méi zǒu.</span><span class="trans">Everyone finished work and left. Only the boss hasn't left.</span>
+*其他 的 菜 都 很 好吃，<em>就</em> 这 两 个 菜 有点 咸 。<span class="pinyin">Qítā de cài dōu hěn hǎochī, <em>jiù</em> zhè liǎng gè cài yǒudiǎn xián.</span><span class="trans">The other dishes are great. Just these two dishes are a little salty.</span>
+*你 觉得 别人 都 是 傻子 吗？<em>就</em> 你 聪明 ？<span class="pinyin">Nǐ juéde biérén dōu shì shǎzi ma? <em>Jiù</em> nǐ cōngming?</span><span class="trans">Do you think everyone else is an idiot? That only you are smart?</span>
+
+</div>
+
+In this case, the 就 comes before the verb, and what's being emphasized as "small quantity" comes after the verb, either as an object or some other kind of small quantity.
+
+=== Used Before the Predicate ===
+
+==== Structure ====
+
+<div class="jiegou">
+Subj. + 就 + [Verb Phrase]
+</div>
+
+In this structure, the verb phrase is going to include some kind of [[measure word]].
+
+==== Examples ====
+
+<div class="liju">
+
+*我 <em>就</em> 去 过 一 次 。<span class="pinyin">Wǒ <em>jiù</em> qù guo yī cì.</span><span class="trans">I've only been there once.</span>
+*我 早饭 <em>就</em> 吃 了 一 片 面包。<span class="pinyin">Wǒ zǎofàn <em>jiù</em> chī le yī piàn miànbāo.</span><span class="trans">I only had a piece of bread for breakfast.</span>
+*你 <em>就</em> 点 了 两 个 菜 ？<span class="pinyin">Nǐ <em>jiù</em> diǎn le liǎng gè cài?</span><span class="trans">You ordered only two dishes?</span>
+*他 的 事 ，我们 <em>就</em> 知道 一点点 。<span class="pinyin">Tā de shì, wǒmen <em>jiù</em> zhīdào yīdiǎndiǎn.</span><span class="trans">We only know a little about his business.</span>
+*她 在 我们 公司 <em>就</em> 工作 了 两个 月。<span class="pinyin">Tā zài wǒmen gōngsī <em>jiù</em> gōngzuò le liǎng gè yuè.</span><span class="trans">She has worked at our company for only two months.</span>
+
+</div>
+
+== Used as "Only Have" ==
+
+In this case, 就 means "only have," similar in meaning to [[只有]]. (In these cases, however, 就有 would not be correct. Just use 就.)
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 就 + Number + [Measure Word] + Noun  
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*这里 <em>就</em> 一 个 厕所 ？<span class="pinyin">Zhèlǐ <em>jiù</em> yī gè cèsuǒ?</span><span class="trans">Does this place only have one bathroom?</span>
+*你们 家 <em>就</em> 一 个 孩子 吗 ？<span class="pinyin">Nǐmen jiā <em>jiù</em> yī gè háizi ma?</span><span class="trans">Does your family only have one child?</span>
+*我 <em>就</em> 一 个 哥哥 。<span class="pinyin">Wǒ <em>jiù</em> yī gè gēge.</span><span class="trans">I only have one brother.</span>
+*他 在 上海 <em>就</em> 一 个 朋友 。<span class="pinyin">Tā zài Shànghǎi <em>jiù</em> yī gè péngyou.</span><span class="trans">He only has one friend in Shanghai.</span>
+*我们 公司 <em>就</em> 三 个 员工 。<span class="pinyin">Wǒmen gōngsī <em>jiù</em> sān gè yuángōng.</span><span class="trans">There are only three employees in our company.</span>
+
+</div>
+
+== See also ==
+
+*[[Comparing "cai" and "jiu"]]
+*[[Events in quick succession with "yi... jiu"]]
+*[[Expressing earliness with "jiu" ]]
+*[[Expressing indifference with "jiu"]]
+*[[Limiting scope with "jiu"]]
+*[["If…, then…" with "ruguo…, jiu…"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|现代汉语虚词例释|315}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|175-6}}
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|120}}
+{{Source|A Practical Chinese Grammar For Foreigners (外国人实用汉语语法) |570}}
+
+=== Dictionaries ===
+
+* [[现代汉语词典（第5版）]] (p. 733) [http://www.amazon.cn/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E8%AF%8D%E5%85%B8/dp/B001B1RZCI/ref=sr_1_1?ie=UTF8&qid=1345693609&sr=8-1 →buy]
+
+[[Category:B1 grammar points]]
+{{Basic Grammar|就|B1|就 + Subject + Predicate|这 件 事 <em>就</em> 我 一 个 人 知道 。|grammar point|ASGPW8PP}}
+{{Used for|Describing actions}}
+{{Used for|Describing things}}
+{{Similar|"cai" used for small numbers}}
+{{Similar|Expressing "only" with "zhi"}}
+{{POS|Adverbs}}
+{{Translation|just}}
+{{Translation|only}}

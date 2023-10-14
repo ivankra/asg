@@ -1,0 +1,105 @@
+<!-- Adding emphasis with "fei....buke" -->
+{{Grammar Box}}
+
+Most advanced Chinese learners know how to express [[Auxiliary verb "yao" and its multiple meanings|"wanting to do something" with 要]], but sometimes you need to turn it up a degree and express "absolutely insist on doing something." In that case, you can use 一定要 or 非要. Most time 非要 appears with a  self-willed emotional color while一定要 is just a expression of  "absolutely wanting " or "absolutely insist" without any emotional color.
+
+== Expressing Determination ==
+
+=== Structure ===
+
+When used before a verb, 非⋯⋯ 不可 expresses that the speaker has strong desire and determination to do that thing.
+
+<div class="jiegou">
+Subj. + 非(要) + [Verb Phrase] + 不可
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*气 死 我 了 ，我 <em>非要</em> 打 死 你 <em>不可</em> 。<span class="trans"> .</span>
+*我们 <em>非</em> 问 清楚 <em>不可</em> 。<span class="trans"> .</span>
+*我 <em>非</em> 抓到 他 <em>不可</em> 。<span class="trans"> .</span>
+
+</div>
+
+不可 is often omitted when the speaker dislike the action or disagree on the action.
+
+<div class="liju">
+
+*今天 那么 冷，<strong>可是</strong> 我 女儿 <em>非要</em> 穿 裙子 。<span class="trans">It's so cold today, but my daughter is determined to wear skirt.</span>
+*我 不 让 他 喝 那么 多 ，<strong>可是</strong> 他 <em>非要</em> 喝 。<span class="trans">I don't want him to drink so much, but he had to.</span>
+*我 不 想 去 ，<strong>可是</strong>  她 <em>非要</em> 让 我 去 。<span class="trans">I didn't want to go, but she made me go.</span>
+*情人节 那天 ，我 女朋友 <em>非要</em> 让 我 送 她 玫瑰花 。<span class="trans">My girlfriend made me give her roses on Valentine's Day.</span>
+
+</div>
+
+== Used as "Must" ==
+
+It can be also used to emphasize something must be done or must be someone. Actually it has the similar meaning with 必须 in this case.
+
+=== Structure ===
+
+<div class="jiegou">
+非 + Subj. + [Verb Phrase] + 不可
+</div>
+
+Note that 要 is not necessary in this pattern.
+
+=== Examples ===
+
+<div class="liju">
+
+*这 个 项目 <em>非</em> <strong>他</strong> 来 做 <em>不可</em> 。<span class="trans"> .</span>
+*这 个 文件 <em>非</em> <strong>大老板</strong> 签字 <em>不可</em> 。<span class="trans"> .</span>
+*这 张 电影 票 明天 就 到期 了 ，<em>非</em> <strong>今天</strong> 去 看 <em> 不可</em> 。<span class="trans"> .</span>
+
+</div>
+
+== Predicating Future Events ==
+
+=== Structure ===
+
+In that case, you can use 一定会 instead.
+
+<div class="jiegou">
+非(要) + Subj. + [Verb Phrase] + 不可
+</div>
+
+Note 不可 can't be omitted in this sentence pattern.
+
+=== Examples ===
+
+<div class="liju">
+
+*要是 被 老板 发现 了 ，<em>非</em> 炒 你 鱿鱼 <em>不可</em> 。<span class="trans"> .</span>
+*你 再 说 下去 ，他 <em>非</em> 生气 <em>不可</em> 。<span class="trans"> .</span>
+*我们 再 不 出发 ，<em>非</em> 迟到 <em>不可</em> 。<span class="trans"> .</span>
+*天气 这么 冷 ，你 穿 这么 少 ，<em>非</em> 感冒 <em>不可</em> 。<span class="trans"> .</span>
+
+</div>
+
+== See also ==
+
+*[[Expressing determination with "feiyao"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+* [[现代汉语八百词（增订本）]] (p.205) [http://www.amazon.cn/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E5%85%AB%E7%99%BE%E8%AF%8D/dp/B001198GSW/ref=sr_1_1?ie=UTF8&qid=1345693275&sr=8-1 →buy]
+* [[Integrated Chinese: Level 2, Part 1]] (p. 124) [http://www.amazon.com/gp/product/0887276792/ref%3das_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0887276792 →buy]
+* [[Common Chinese Patterns 330 (汉语常用格式330例)]] (pp. 82) [http://www.amazon.com/gp/product/7802006473/ref=as_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=7802006473 →buy] 
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|非|C1|Subj. + 非(要) + Verb Phrase (+ 不可)|我 <em>非</em> 学 好 汉语 <em>不可</em> 。|grammar point|ASG50DR1}}
+{{Rel char|不可}}
+{{Rel char|非要}}
+{{Similar|Auxiliary verb "yao" and its multiple meanings}}
+{{Similar|"Must" modal "dei"}}
+{{Similar|Expressing "have to" with budebu}}
+{{Similar|Expressing “must" with "feidei"}}
+{{POS|Sentence patterns}}
+{{Used for|Emphasizing}}
+{{Used for|Giving commands}}
+{{Used for|Expressing obligations}}

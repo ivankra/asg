@@ -1,0 +1,43 @@
+<!-- Expressing purpose with "hao" -->
+{{Grammar Box}} 
+好 (hǎo) can mean "in order to or "for the sake of" when coming before a verb phrase, and therefore expresses the purpose. You might think of it as a more advanced version of the [[Easy to do something|"easy to [verb]" 好]].
+
+== Structure ==
+
+<div class="jiegou"> 
+Action ，好 + Purpose
+</div>
+
+== Examples ==
+
+<div class="liju">
+*她 睡前 常常 喝 牛奶 ，<em>好</em> 入睡 。<span class="pinyin">Tā shuì qián chángcháng hē niúnǎi, <em>hǎo</em> rùshuì.</span><span class="trans">She often drinks milk before bedtime to help her fall asleep.</span>
+*老师 ，请 说 慢 点儿 ，我们 <em>好</em> 做 笔记 。<span class="pinyin">Lǎoshī, qǐng shuō màn diǎnr, wǒmen <em>hǎo</em> zuò bǐjì.</span><span class="trans">Teacher, you need to speak a little slower so that we can take notes.</span>
+*请 把 车 停 到 里面 ，<em>好</em> 让 别人 走路 。<span class="pinyin">Qǐng bǎ chē tíng dào lǐmiàn, <em>hǎo</em> ràng biérén zǒulù.</span><span class="trans">Please park the car inside so that other people can walk here.</span>
+*他 学习 非常 努力，<em>好</em> 考 个 好 大学。<span class="pinyin">Tā xuéxí fēicháng nǔlì, <em>hǎo</em> kǎo gè hǎo dàxué.</span><span class="trans">He is studying very hard so that he can get into a good university.</span>
+*她 在 学 中文，<em>好</em> 听得懂 别人 说 什么。<span class="pinyin">Tā zài xué Zhōngwén, <em>hǎo</em> tīng de dǒng biérén shuō shénme.</span><span class="trans">She is learning Chinese so that she can understand what people say.</span>
+*小明 今天 把 自己 打扮 得 很 帅气 ，<em>好</em> 给 别人 留 一个 好 印象。<span class="pinyin">Xiǎo Míng jīntiān bǎ zìjǐ dǎbàn de hěn shuàiqì, <em>hǎo</em> gěi biérén liú yī gè hǎo yìnxiàng.</span><span class="trans">Xiao Ming has dressed himself up very handsomely today to give others a good impression of him.</span>
+*我 准备 了 详细 的 分析 报告，这样 <em>好</em> 让 客户 满意。<span class="pinyin">Wǒ zhǔnbèi le xiángxì de fēnxī bàogào, zhèyàng <em>hǎo</em> ràng kèhù mǎnyì</span><span class="trans">I prepared a detailed analysis report in order to satisfy the client.</span>
+*我 已经 定 好了 闹钟，<em>好</em> 抢 票。<span class="pinyin">Wǒ yǐjīng dìnghǎo le nàozhōng, <em>hǎo</em> qiǎng piào.</span><span class="trans">I've already set my alarm clock so that I can buy tickets early before they sell out.</span>
+*公司 整理 了 最近 几个 月 的 资金 记录，<em>好</em> 制定 下一 季度 的 计划。<span class="pinyin">Gōngsī zhěnglǐ le zuìjìn jǐgè yuè de zījīn jìlù, <em>hǎo</em> zhìdìng xià yī jìdù de jìhuà.</span><span class="trans">The company has compiled the financial records of the last few months in order to make a plan for the next quarter.</span>
+*导游 给 每个人 都 发了 一个 帽子，这样 <em>好</em> 找到 每个人。<span class="pinyin">Dǎoyóu gěi měi gè rén dōu fā le yī gè màozi, zhèyàng <em>hǎo</em> zhǎodào měi gè rén.</span><span class="trans">The tour guide has given everyone a hat so that it's easy to find everyone.</span>
+</div>
+
+==See also==
+
+*[[Easy to do something]]
+*[[Result complement "-hao"]]
+*[["lai" used to connect two verb phrases]]
+
+==Sources and Further Reading==
+===Books===
+
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课下册) |569 }}
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|好|B2|Action ，好 + Purpose|她 睡前 常常 喝 牛奶 ，<em>好</em> 入睡 。|grammar point|ASG18JOA}}
+{{Similar|Easy to do something}}
+{{Similar|Expressing purpose with "weile"}}
+{{Similar|"lai" used to connect two verb phrases}}
+{{Used for|Expressing Purpose}}
+{{Structure|Sentence Patterns}}

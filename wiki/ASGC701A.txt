@@ -1,0 +1,78 @@
+<!-- Asking how something is with "zenmeyang" -->
+{{Grammar Box}} 
+
+You may know that [[How to do something with "zenme"|怎么 (zěnme) can mean "how"]], but by adding to it and making it 怎么样 (zěnmeyàng), you can ask ''how something is'', or ''what it is like''. This is useful in all manner of conversations, and is essential for building conversation skills.
+
+== Basic Usage ==
+
+=== Structure ===
+
+This question form is super simple. It is similar to asking  the question, "how is...?"
+
+<div class="jiegou">
+
+Subj. + 怎么样 ?
+
+</div>
+
+=== Examples ===
+
+Many of these sample sentences are super common in everyday life, so it's a good idea to get familiar with them.
+
+<div class="liju">
+
+* 你 最近 <em>怎么样</em> ？<span class="pinyin">Nǐ zuìjìn <em>zěnmeyàng</em> ? </span><span class="trans">How have you been recently?</span>
+* 中国 <em>怎么样</em> ？<span class="pinyin">Zhōngguò <em>zěnmeyàng</em> ? </span><span class="trans">How is China?</span>
+* 北京 冬天 <em>怎么样</em> ？<span class="pinyin">Běijīng dōngtiān <em>zěnmeyàng</em> ? </span><span class="trans">How is Beijing in the winter?</span>
+* 今天 天气 <em>怎么样</em> ？<span class="pinyin">Jīntiān tiānqì <em>zěnmeyàng</em> ? </span><span class="trans">How is the weather today?</span>
+* 你 妹妹 的 工作 <em>怎么样</em> ？<span class="pinyin">Nǐ mèimei dē gōngzuò <em>zěnmeyàng</em> ? </span><span class="trans">How is your little sister's job going?</span>
+* 你的 新 手机 <em>怎么样</em> ？<span class="pinyin">Nǐ de xīn shǒujī <em>zěnmeyàng</em> ? </span><span class="trans">How's your new phone?</span>
+* 这里 的 菜 <em>怎么样</em> ？好吃 吗 ？<span class="pinyin">Zhèlǐ de cài <em>zěnmeyàng</em> ? Hǎochī ma?</span><span class="trans">How is the food here? Is it good?</span>
+
+</div>
+
+== Asking Opinions ==
+
+=== Structure ===
+
+In this pattern,  you're directly asking for an opinion in an open-ended way.
+
+<div class="jiegou">
+
+你 觉得 + Topic + 怎么样 ?
+
+</div>
+
+This is like asking, "what do you think of...?"
+
+=== Examples ===
+
+<div class="liju">
+
+* <strong>你 觉得</strong> 上海 <em>怎么样</em> ？<span class="pinyin"><strong>Nǐ juéde</strong> Shànghǎi  <em>zěnmeyàng</em> ? </span><span class="trans">What do you think of Shanghai?</span>
+* <strong>你 觉得</strong> 我 <em>怎么样</em> ？<span class="pinyin"><strong>Nǐ juéde</strong>  wǒ <em>zěnmeyàng</em> ? </span><span class="trans">What do you think of me?</span>
+* <strong>你 觉得</strong> 中文 <em>怎么样</em> ？ 难学 吗 ？<span class="pinyin"><strong>Nǐ juéde</strong> Zhōngwén <em>zěnmeyàng</em>?  Nánxué ma? </span><span class="trans">What do you think of Chinese? Is it difficult to learn?</span>
+
+</div>
+
+==See also==
+
+*[[Placement of question words]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|92}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{Basic Grammar|怎么样|A2|⋯⋯怎么样？|你 最近 <em>怎么样</em> ？|grammar point|ASGC701A}}
+{{Rel char|怎么}}
+{{Similar|How to do something with "zenme"}}
+{{Similar|Asking why with "zenme"}}
+{{Similar|Placement of question words}}
+{{Used for|Asking questions}}
+{{Used for|Expressing attitude}}
+{{Translation|how}}
+{{Structure|Question Forms}}

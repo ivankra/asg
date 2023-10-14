@@ -1,0 +1,135 @@
+<!-- Comparing "dui" and "duiyu" -->
+{{Grammar Box}}
+对 (duì) and 对于 (duìyú) can be confusing because they overlap quite a bit in usage, but they are not entirely interchangeable.
+
+== 对 and 对于 Are Equivalent When Used as Prepositions ==
+
+When 对 and 对于 are used as [[prepositions]] to modify a verb, they are basically the same. As a matter of fact, when used this way 对 is just the simplification of 对于! 对于 sounds a bit more formal.
+
+=== Structure ===
+
+<div class="jiegou">
+对／对于 + Object + Verb
+</div>
+
+=== Examples ===
+
+In the following example sentences, 对 and 对于 are interchangeable.
+
+<div class="liju">
+* <em>对(于)</em> 这 种 事情，你 有 什么 看法？<span class="pinyin"><em>Duì(yú)</em> zhè zhǒng shìqing, nǐ yǒu shénme kànfǎ?</span><span class="trans">As for this kind of thing, what's your perspective?</span>
+* 我 <em>对(于)</em> 上海 从来 没 喜欢 过 也 没 讨厌 过。<span class="pinyin">Wǒ <em>duì(yú)</em> Shànghǎi cónglái méi xǐhuan guo yě méi tǎoyàn guo.</span><span class="trans">I've never liked or disliked Shanghai.</span>
+</div>
+
+== 对 Is More Versatile within a Sentence ==
+
+Both 对 and 对于 can be placed before or after the subject in a sentence. Unlike 对, however, 对于 cannot be placed after the adverb in the middle of a sentence. 
+
+=== Examples ===
+
+They can both go in the very front:
+
+<div class="liju">
+<ul>
+<li class="o"><em>对</em> 这 个 问题，<strong>我们</strong> 都 很 感兴趣。<span class="pinyin"><em>Duì</em> zhège wèntí, <strong>wǒmen</strong> dōu hěn gǎn xìngqù.</span></li>
+<li class="o"><em>对于</em> 这 个 问题，<strong>我们</strong> 都 很 感兴趣。<span class="pinyin"><em>Duìyú</em> zhège wèntí, <strong>wǒmen</strong> dōu hěn gǎn xìngqù.</span></li>
+</ul>
+</div>
+
+They can both go right after the subject:
+
+<div class="liju">
+<ul>
+<li class="o"><strong>我们</strong> <em>对</em> 这 个 问题 都 很 感兴趣。<span class="pinyin"><strong>Wǒmen</strong> <em>duì</em> zhège wèntí dōu hěn gǎn xìngqù.</span></li>
+<li class="o"><strong>我们</strong> <em>对于</em> 这 个 问题 都 很 感兴趣。<span class="pinyin"><strong>Wǒmen</strong> <em>duìyú</em> zhège wèntí dōu hěn gǎn xìngqù.</span></li>
+</ul>
+</div>
+
+Only one can go right before the predicate:
+
+<div class="liju">
+<ul>
+<li class="o">我们 <strong>都</strong> <em>对</em> 这 个 问题 很 感兴趣。<span class="pinyin">Wǒmen <strong>dōu</strong> <em>duì</em> zhège wèntí hěn gǎn xìngqù.</span></li>
+<li class="x">我们 <strong>都</strong> <em>对于</em> 这 个 问题 很 感兴趣。<span class="pinyin">Wǒmen <strong>dōu</strong> <em>duìyú</em> zhège wèntí hěn gǎn xìngqù.</span></li>
+</ul>
+</div>
+
+All of the above examples mean "we are all interested in this problem."
+
+== 对 Can Be Used as a Verb ==
+
+=== As a Verb Meaning "to face" ===
+
+When 对 is used as a verb, it expresses "to face" or "to point at," and you will often see it in the form 对着. It can also be used in verb phrases which refer to "matching," like 对上 and 对不上.
+
+<div class="jiegou">
+Subj. + 对着 ／ 对上 ／ 对不上
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 枪口 不 要 <em>对 着</em> 人。<span class="pinyin">Qiāng kǒu bùyào <em>duìzhe</em> rén.</span><span class="trans">Don't point the gun at people.</span>
+* 我 喜欢 <em>对 着</em> 镜子 笑。<span class="pinyin">Wǒ xǐhuan <em>duìzhe</em> jìngzi xiào.</span><span class="trans">I like to laugh at the mirror.</span>
+* 这 两 个 数字 <em>对 上</em> 了 吗？<span class="pinyin">Zhè liǎng gè shùzì <em>duì shàng</em> le ma? </span><span class="trans">Did the two numbers match up?</span>
+* 这 两 本 账 <em>对 不上</em>。<span class="pinyin">Zhè liǎng běn zhàng <em>duì bu shàng</em>.</span><span class="trans">These two accounts don't match up.</span>
+</div>
+
+== 对 Can Be Used with Emotional Adjectives ==
+
+To indicate to whom an emotional response is directed, you can use 对 but not 对于.
+
+=== Structure ===
+
+<div class="jiegou">
+A + 对 + B + Adj.
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 他 <em>对</em> 工作 很 认真。<span class="pinyin">Tā <em>duì</em> gōngzuò hěn rènzhēn.</span><span class="trans">He treats his work very seriously.</span>
+* 我 的 男 朋友 <em>对</em> 我 很 好。<span class="pinyin">Wǒ de nán péngyǒu <em>duì</em> wǒ hěn hǎo.</span><span class="trans">My boyfriend is very good to me.</span>
+</div>
+
+== Common Mistakes ==
+
+<div class="liju">
+<ul>
+<li class="x">我们 都 <em>对于</em> 这个 人 很 怀疑。<span class="pinyin">Wǒmen dōu <em>duìyú</em> zhège rén hěn huáiyí.</span></li>
+<li class="o">我们 都 <em>对</em> 这个 人 很 怀疑。<span class="pinyin">Wǒmen dōu <em>duì</em> zhège rén hěn huáiyí.</span><span class="trans">We are all very suspicious of this guy.</span></li>
+<li class="x">他 <em>对于</em> 工作 很 认真。<span class="pinyin">Tā <em>duìyú</em> gōngzuò hěn rènzhēn.</span></li>
+<li class="o">他 <em>对</em> 工作 很 认真。<span class="pinyin">Tā <em>duì</em> gōngzuò hěn rènzhēn.</span><span class="trans">He's very serious about his work.</span></li>
+</ul>
+</div>
+
+== Example Dialog ==
+
+<div class="liju">
+* A: <em>对于</em> 这 件 事，你 怎么 看？<span class="pinyin">A: <em>Duìyú</em> zhè jiàn shì, nǐ zěnme kàn?</span><span class="trans">What do you think about this?</span>
+* B: 我 <em>对</em> 她 很 了解，她 不 会 这么 做 的。<span class="pinyin">B: Wǒ <em>duì</em> tā hěn liǎojiě, tā bù huì zhème zuò de.</span><span class="trans">I understand her completely. She can't do it like this.</span>
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|对外汉语教学语法释疑201例|81}}
+{{Source|现代汉语八百词（增订本）|463}}
+{{Source|卓越汉语－公司实战篇|134}}
+
+=== Dictionaries ===
+
+{{Source|现代汉语词典（第5版）|343, 344}}
+
+[[Category:grammar comparison]]
+{{Basic Grammar|对|B2|对 vs. 对于|我 <em>对</em> 她 很 了解 ，她 不 会 这么 做 的 。|grammar point|ASG3JELV}}
+{{Rel char|对于}}
+{{Rel char|于}}
+{{Used for|Describing things}}
+{{Used for|Describing people}}
+{{Used for|Expressing attitude}}
+{{Similar|Using "dui" with verbs}}
+{{Similar|Comparing "guanyu" "duiyu" and "zhiyu"}}
+{{Similar|Comparing "guanyu" and "duiyu"}}
+{{Comparison|Prepositions}}

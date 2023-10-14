@@ -1,0 +1,101 @@
+<!-- Advanced yes-no questions with "ma" -->
+{{Grammar Box}} 
+
+The question particle 吗 (ma) is a very simple way to [[Yes-no questions with "ma"|convert simple statements into "yes/no" questions]], and beginners will learn ''not to use 吗 with other question words'', because it's redundant. More advanced students, however, will note that 吗 has some more complicated structures that ''do'' involve combining 吗 with question words in order to ask very specific types of confirming questions. 
+
+== Structure ==
+
+You'll remember that this is the simple pattern for yes/no questions:
+
+<div class="jiegou">
+Statement + 吗 ？
+</div>
+
+If you embed a ''question that uses a question word'' instead of a statement, you can create a more complex kind of "confirming" 吗 (ma) question:
+
+<div class="jiegou">
+Confirmation + Question + 吗 ？
+</div>
+
+The "Confirmation" part include typically contains some kind of "verb of understanding" such as 知道 (zhīdào),了解 (liǎojiě), 明白 (míngbai), 认识 (rènshi), etc. Examples of common question words to use in the "Question" part include 什么 (shénme), 谁 (shéi), and 哪里 (nǎlǐ). Then "吗" (ma) can still be added at the end of the question, turning the whole structure into a kind of confirmation yes/no question.
+
+== Examples ==
+
+<div class="liju">
+*这 是 什么 ？<span class="pinyin">Zhè shì shénme?</span><span class="trans">What is this?</span>
+*你 <strong>知道</strong> 这 是 什么 <em>吗</em>？<span class="pinyin">Nǐ <strong>zhīdào</strong> zhè shì shénme <em>ma</em>?</span><span class="trans">Do you know what this is?</span>
+</div>
+
+<div class="liju">
+*他 是 谁 ？<span class="pinyin">Tā shì shéi?</span><span class="trans">Who is he?</span>
+*你 <strong>知道</strong> 他 是 谁 <em>吗</em>？<span class="pinyin">Nǐ <strong>zhīdào</strong> tā shì shéi <em>ma</em>?</span><span class="trans">Do you know who he is?</span>
+</div>
+
+<div class="liju">
+*他 叫 什么 名字 ？<span class="pinyin">Tā jiào shénme míngzi?</span><span class="trans">What is his name?</span>
+*你 <strong>知道</strong> 他 叫 什么 名字 <em>吗</em>？<span class="pinyin">Nǐ <strong>zhīdào</strong> tā jiào shénme míngzi <em>ma</em>?</span><span class="trans">Do you know what his name is?</span>
+</div>
+
+<div class="liju">
+*她 住 在 哪儿 ？<span class="pinyin">Tā zhù zài nǎr?</span><span class="trans">Where does she live?</span>
+*她 <strong>说 过</strong> 她 住 在 哪儿 <em>吗</em> ？<span class="pinyin">Tā <strong>shuō guo</strong> tā zhù zài nǎr <em>ma</em>?</span><span class="trans">Did she say where she lives?</span>
+</div>
+
+<div class="liju">
+*这个 标志 是 什么 意思 ？<span class="pinyin">Zhège biāozhì shì shénme yìsi?</span><span class="trans">What does this symbol mean?</span>
+*你们 <strong>明白</strong> 这个 标志 是 什么 意思 <em>吗</em>？<span class="pinyin">Nǐmen <strong>míngbai</strong> zhège biāozhì shì shénme yìsi <em>ma</em>?</span><span class="trans">Do you all understand what this symbol means?</span>
+</div>
+
+<div class="liju">
+*我们 想 要 什么 ？<span class="pinyin">Wǒmen xiǎng yào shénme?</span><span class="trans">What do we want?</span>
+*他 <strong>问 过</strong> 我们 想 要 什么 <em>吗</em>？<span class="pinyin">Tā <strong>wèn guo</strong> wǒmen xiǎng yào shénme <em>ma</em>?</span><span class="trans">Did he ask what we want?</span>
+</div>
+
+<div class="liju">
+*你 的 问题 是 什么 ？<span class="pinyin">Nǐ de wèntí shì shénme?</span><span class="trans">What is your question?</span>
+*你 能 <strong>再 说 一 遍</strong> 你 的 问题 是 什么 <em>吗</em> ？<span class="pinyin">Nǐ néng <strong>zài shuō yī biàn</strong> nǐ de wèntí shì shénme <em>ma</em>?</span><span class="trans">Can you repeat what your question is?</span>
+</div>
+
+<div class="liju">
+*他 是 什么 时候 开始 学 中文 的 ？<span class="pinyin">Tā shì shénme shíhou kāishǐ xué Zhōngwén de?</span><span class="trans">When did he start to learn Chinese?</span>
+*你 <strong>知道</strong> 他 是 什么 时候 开始 学 中文 的 <em>吗</em> ？<span class="pinyin">Nǐ <strong>zhīdào</strong> tā shì shénme shíhou kāishǐ xué Zhōngwén de <em>ma</em>?</span><span class="trans">Do you know when he started to learn Chinese?</span>
+</div>
+
+<div class="liju">
+*这 是 在 哪儿 买 的 ？<span class="pinyin">Zhè shì zài nǎr mǎi de?</span><span class="trans">Where did you buy this?</span>
+*你 能 <strong>告诉</strong> 我 这 是 在 哪儿 买 的 <em>吗</em> ？<span class="pinyin">Nǐ néng <strong>gàosu</strong> wǒ zhè shì zài nǎr mǎi de <em>ma</em>?</span><span class="trans">Can you tell me where you bought this?</span>
+</div>
+
+<div class="liju">
+*老板 的 孩子 多大 了？<span class="pinyin">Lǎobǎn de háizi duō dà le?</span><span class="trans">How old is the boss's child now?</span>
+*你 <strong>知道</strong> 老板 的 孩子 多大 了 <em>吗</em>？<span class="pinyin">Nǐ <strong>zhīdào</strong> lǎobǎn de háizi duō dà le <em>ma</em>?</span><span class="trans">Do you know how old the boss's child is now?</span>
+</div>
+
+== See also ==
+
+*[[Tag questions with "ma"]]
+*[[Affirmative-negative questions]]
+*[[Questions with "ne"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Chinese: An Essential Grammar, Second Edition|138-40}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|29-30}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|21}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)|23, 250}}
+
+[[Category:B1 grammar points]]
+{{Used for|Asking questions}}
+{{Used for|Requesting}}
+{{Basic Grammar|吗|B1|Confirmation + Question + 吗 ？|你 要 什么 <em>吗</em> ?|grammar point|ASGI9WXT}}
+{{Rel char|什么}}
+{{Rel char|谁}}
+{{Rel char|哪里}}
+{{Similar|Tag questions with ma}}
+{{Similar|Positive negative questions}}
+{{Similar|Questions with ne}}
+{{Similar|Questions with "le ma"}}
+{{Similar|Expressing the self-evident with "ma"}}     
+{{POS|Particles}}

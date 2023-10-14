@@ -1,0 +1,62 @@
+<!-- Expressing "after all" with "bijing" -->
+{{Grammar Box}} 
+毕竟 (bìjìng) can be used to emphasize a reason or characteristic, and is like "after all" where you might say, "he is, after all, only a child." 毕竟 is used both in spoken and written Chinese. 
+
+== Basic Form ==
+
+In its most basic form, you just need to add the "after all" stuff after the 毕竟, and it could be a reason or a characteristic. 
+
+=== Structure ===
+
+<div class="jiegou">
+毕竟 ⋯⋯
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*别 骂 他 了 ，他 <em>毕竟</em> 是 孩子 。<span class="pinyin">Bié mà tā le, tā <em>bìjìng</em> shì háizi.</span><span class="trans">Stop yelling at him. He's only a kid, after all.</span>
+*<em>毕竟</em> 是 冬天 ，你 还是 多 穿 点 吧 。<span class="pinyin"><em>Bìjìng</em> shì dōngtiān, nǐ háishì duō chuān diǎn ba.</span><span class="trans">It's winter, after all. You'd better dress more warmly.</span>
+*他 不知道 也 很 正常，<em>毕竟</em> 他 不 是 本地 人。<span class="pinyin">Tā bù zhīdào yě hěn zhèngcháng, <em>bìjìng</em> tā bù shì běndì rén.</span><span class="trans">It's not strange that he doesn't know. He's not a local, after all.</span>
+*有的 玩笑 不 能 再 开 了，<em>毕竟</em> 他们 都 是 大 孩子 了 。<span class="pinyin">Yǒu de wánxiào bù néng zài kāi le, <em>bìjìng</em> tāmen dōu shì dà háizi le.</span><span class="trans">Some things shouldn't be joked about anymore. After all, they're not little kids anymore.</span>
+*我们 不太 想 搬 ，<em>毕竟</em> 在 这儿 住 了 好 几 年 了 。<span class="pinyin">Wǒmen bù tài xiǎng bān, <em>bìjìng</em> zài zhèr zhù le hǎo jǐ nián le.</span><span class="trans">We don't really want to move. After all, we've lived here for so many years.</span>
+</div>
+
+== Fuller Form==
+
+===Structure===
+
+<div class="jiegou">
+虽然 ⋯⋯ ，但 + 毕竟 ⋯⋯ ，(as a result) ⋯⋯
+</div>
+
+In this structure, the parts after 虽然 (suīrán) and 毕竟 are reasons or characteristics, and the part after (as a result) is a result or conclusion. It's a bit more complex, so pay attention to the different parts in the example sentences below.
+
+=== Examples ===
+
+<div class="liju">
+
+*<strong>虽然</strong> 他 做错 了，<strong>但</strong> <em>毕竟</em> 他 还是 小，你 就 别 打 他 了 。<span class="pinyin">Suīrán tā zuòcuò le, dàn <em>bìjìng</em> tā háishì xiǎo, nǐ jiù bié dǎ tā le.</span><span class="trans">Although he made a mistake, he is, after all, still young. So stop hitting him.</span>
+*<strong>虽然</strong> 我 穿 了 不 少 衣服，<strong>但</strong> <em>毕竟</em> 是 北方 的 冬天，所以 我 还是 觉得 挺 冷 的。<span class="pinyin">Suīrán wǒ chuān le bùshǎo yīfu, dàn <em>bìjìng</em> shì běifāng de dōngtiān, suǒyǐ wǒ háishì juéde tǐng lěng de.</span><span class="trans">Although I'm dressed really warmly, it is, after all, winter in the north. I still feel quite cold.</span>
+*<strong>虽然</strong> 我 跟 他 认识，<strong>但</strong> <em>毕竟</em> 不 太 熟，还是 不要 去 麻烦 人家 了。<span class="pinyin">Suīrán wǒ gēn tā rènshí, dàn <em>bìjìng</em> bùtài shú, háishì bùyào qù máfan rénjiā le.</span><span class="trans">Although I know him, we're not close, after all. We'd better not bother him.</span>
+*<strong>虽然</strong> 我 小时候 奶奶 对 我 不 好，<strong>但</strong> <em>毕竟</em> 她 是 我 奶奶，所以 我 还是 会 照顾 她。<span class="pinyin">Suīrán wǒ xiǎoshíhou nǎinai duì wǒ bù hǎo, dàn <em>bìjìng</em> tā shì wǒ nǎinai, suǒyǐ wǒ háishì huì zhàogù tā.</span><span class="trans">Although my grandma didn't treat me well when I was little, she is my grandma, after all, so I will still take care of her.</span>
+*<strong>虽然</strong> 你们 已经 离婚 了，<strong>但</strong> <em>毕竟</em> 还有 一个 孩子 ，跟 孩子 在 一起 的 时候 别 吵架。<span class="pinyin">Suīrán nǐmen yǐjīng líhūn le, dàn <em>bìjìng</em> hái yǒu yī ge háizi, gēn háizi zài yīqǐ de shíhou bié chǎojià.</span><span class="trans">Although you are divorced, you still have a child together, after all. So don't fight when you're with the child.</span>
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Boya Chinese Upper Intermediate 1 (博雅汉语中级冲刺篇) |155}} 
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级) |127-30}} 
+{{Source|Integrated Chinese: Level 2, Part 2|151-2}}
+{{Source|New Practical Chinese Reader 5 (新实用汉语课本5) |92}} 
+{{Source|HSK Standard Course 5上|82}}  
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|毕竟|B2|毕竟|别 怪 他 了 ， <em>毕竟</em> 他 还 小 。|grammar point|ASG4V36Q}}
+{{Rel char|虽然}}
+{{Similar|Expressing "In the End" with "daodi"}}
+{{Similar|Expressing "In the End" with "jiujing"}}
+{{Similar|Expressing "although" with "suiran" and "danshi"}}
+{{POS|Adverbs}}

@@ -1,0 +1,53 @@
+<!-- Expressing the self-evident with "ma" -->
+{{Grammar Box}} 
+
+The particle 嘛 (ma) is a sentence-final particle identical in pronunciation to the simple [[Yes - no questions with ma|"yes/no question" particle 吗 (ma)]] you learned back in the day, but with a rather different function. It can be used when the speaker feels what he is saying is obvious (from his point of view).
+
+== Structure ==
+
+<div class="jiegou">
+Statement + 嘛
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*你 妹妹 很 漂亮 <em>嘛</em> 。<span class="expl">She's clearly pretty.</span><span class="pinyin">Nǐ mèimei hěn piàoliang <em>ma</em>.</span><span class="trans">Your sister is pretty.</span>
+*他 挺 有钱 的 <em>嘛</em> 。<span class="expl">He has shown that's he's rich.</span><span class="pinyin">Tā tǐng yǒuqián de <em>ma</em>.</span><span class="trans">He is pretty rich.</span>
+*不 想 去 就 不要 去 <em>嘛</em> 。<span class="expl">Clearly you don't have to.</span><span class="pinyin">Bù xiǎng qù jiù bùyào qù <em>ma</em>.</span><span class="trans">If you don't wanna go, don't go.</span>
+*你 别 太 谦虚 <em>嘛</em> 。<span class="expl">Obviously you're being super modest.</span><span class="pinyin">Nǐ bié tài qiānxū <em>ma</em>.</span><span class="trans">Don't be too modest.</span>
+*大家 有 话 就 说 <em>嘛</em> 。<span class="expl">Clearly you can just say it.</span><span class="pinyin">Dàjiā yǒu huà jiù shuō <em>ma</em>.</span><span class="trans">Guys, just say whatever you have to say.</span>
+*你 跟 他 很 熟 <em>嘛</em> 。<span class="expl">You two are obviously well acquainted.</span><span class="pinyin">Nǐ gēn tā hěn shú <em>ma</em>.</span><span class="trans">You two know each other well.</span>
+*开 慢 点 ，安全 第一 <em>嘛</em> 。<span class="expl">We all know: safety first!</span><span class="pinyin">Kāi màn diǎn, ānquán dì-yī <em>ma</em>.</span><span class="trans">Drive slowly. Safety first.</span>
+*不用 塑料袋 更 环保 <em>嘛</em> 。<span class="expl">You know you should be eco-friendly!</span><span class="pinyin">Bùyòng sùliàodài gèng huánbǎo <em>ma</em>.</span><span class="trans">It's more environmentally friendly not to use plastic bags.</span>
+*这个 外国人 很 了解 中国 文化 <em>嘛</em> 。<span class="expl">He has amazed us all.</span><span class="pinyin">Zhège wàiguórén hěn liǎojiě Zhōngguó wénhuà <em>ma</em>.</span><span class="trans">This foreigner knows a lot about Chinese culture.</span>
+*别 担心 ，一边 工作 一边 学 <em>嘛</em> 。<span class="expl">Clearly this takes time to learn.</span><span class="pinyin">Bié dānxīn, yībiān gōngzuò yībiān xué <em>ma</em>.</span><span class="trans">Don't worry. You can learn as you work.</span>
+
+</div>
+
+== See  also ==
+
+*[[Marking a topic with "ma"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Common Chinese Patterns 330 (汉语常用格式330例)|225}} 
+{{Source|Integrated Chinese: Level 2, Part 2|19}}
+{{Source|Intermediate Chinese - A Grammar and Workbook|}}
+
+=== Websites ===
+
+*[http://www.sinosplice.com/life/archives/2012/01/31/the-other-ma-on-a-bag/ Three Simple Uses of the Other "Ma" on a Bag]
+
+[[Category:B1 grammar points]]
+{{HSK|HSK6}}
+[[Category:Particles]]
+
+{{Basic Grammar|嘛|B1|Statement + 嘛|大家 有 话 就 说 <em>嘛</em> 。|grammar point|ASGVMC4B}}
+{{Used for|Expressing attitude}}
+{{Similar|Marking a topic with "ma"}}
+{{Similar|Sentence-final interjection "a"}}
+{{POS|Particles}}

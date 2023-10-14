@@ -1,0 +1,74 @@
+<!-- Expressing "not very" with "bu tai" -->
+{{Grammar Box}} 
+You may be familiar with using [[Expressing "excessively" with tai|太 (tài) to express "too,"]] such as when something is "too expensive" or "too hot." 不太 (bù tài) is a similar pattern for the negative, which just means "not very" or "not so" (literally "not too").  Note that this pattern does not normally use 了 (le).
+
+== 不太 (bù tài) with Adjectives ==
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + 不太 + Adj.
+
+</div>
+
+Note: This pattern can also be used with non-adjectives.  See below for more info.
+
+=== Examples ===
+
+<div class="liju">
+
+*我 家 <em>不 太</em> 大。<span class="pinyin">Wǒ jiā <em>bù tài</em> dà.</span><span class="trans">My house is not too big.</span>
+*那 个 地方 <em>不 太</em> 远。<span class="pinyin">Nàge dìfang <em>bù tài</em> yuǎn.</span><span class="trans">That place is not very far away.</span>
+*老板 今天 <em>不 太</em> 高兴。<span class="pinyin"> Lǎobǎn jīntiān <em>bù tài</em> gāoxìng.</span><span class="trans">The boss is not very happy today.</span>
+*这 个 店 的 衣服 <em>不 太</em> 贵。<span class="pinyin">Zhège diàn de yīfu <em>bù tài</em> guì.  </span><span class="trans">The clothes in this shop are not too expensive.</span>
+*我 觉得 他 <em>不 太</em> 聪明。<span class="pinyin">Wǒ juéde tā <em>bù tài</em> cōngming.</span><span class="trans">I think he is not too smart.</span>
+
+</div>
+
+== 不太 (bù tài) with Verbs ==
+
+=== Structure ===
+
+This pattern can be used with some [[psychological verb]]s (e.g. 喜欢 (xǐhuan), 想 (xiǎng), 明白 (míngbai)), as is the case with the next examples. These verbs are relatively limited.
+
+<div class="jiegou">
+
+Subj. + 不太 + Verb
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我 <em>不 太</em> 懂 。<span class="pinyin">Wǒ <em>bù tài</em> dǒng.</span><span class="trans">I don't really understand.</span>
+*我 <em>不 太</em> 会 说 英语 。<span class="pinyin">Wǒ <em>bù tài</em> huì shuō Yīngyǔ.</span><span class="trans">I can't really speak English.</span>
+*他们 <em>不 太</em> 想 去 。 <span class="pinyin">Tāmen <em>bù tài</em> xiǎng qù.</span><span class="trans">They don't really want to go.</span>
+*我 哥哥 <em>不 太</em> 喜欢 他 的 工作 。<span class="pinyin">Wǒ gēge <em>bù tài</em> xǐhuan tā de gōngzuò.</span><span class="trans">My older brother doesn't really like his job.</span>
+*他 <em>不 太</em> 明白 老板 的 意思 。<span class="pinyin">Tā <em>bù tài</em> míngbai lǎobǎn de yìsi.  </span><span class="trans">He didn't really understand what the boss meant.</span>
+
+</div>
+
+==See also==
+
+* [[Expressing "excessively" with tai]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Chinese: An Essential Grammar, Second Edition|200}}
+{{Source|Integrated Chinese: Level 1, Part 1|180-181)　[http://www.amazon.com/gp/product/0887276385/ref=as_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0887276385 →buy]
+{{Source|A Practical Chinese Grammar For Foreigners (外国人实用汉语语法)|109}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+[[Category:Adverbs]]
+{{Basic Grammar|太|A2|不太 + Adj.|他 <em>不太</em> 高兴 。我 <em>不太</em> 喜欢。|grammar point|ASGUNMHU}}
+{{Rel char|不}}
+{{Similar|Expressing "excessively" with tai}}
+{{Used for|Adding more explanation}}
+{{POS|Adverbs with Adjectives}}
+{{Translation|not}}
+{{Translation|too}}

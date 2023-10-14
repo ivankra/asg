@@ -1,0 +1,68 @@
+<!-- Expressing "had better" with "haishi" -->
+{{Grammar Box}} 
+
+One of the ways to use 还是 (háishì) is to have it mean "you had better," after having compared two options. Usually there's even a bit of deliberation before the speaker announces what "it would be better" to do, using 还是.
+
+== Structure ==
+
+还是 as an [[adverbs|adverb]] can express "had better" or "it would be better to."  The idea is that the speaker has given the matter some thought, and after considering it, has finally come to a decision.  The announcement of this decision will frequently include 还是, and it usually comes before a verb or a subject.
+
+<div class="jiegou">
+Subj. + 还是 + [Verb Phrase] + 吧
+</div>
+
+吧 is often placed after this structure, [[Softening speech with "ba"|as it's a suggestion]].
+
+== Examples ==
+
+<div class="liju">
+
+*<em>还是</em> 明天 去 吧 。<span class="pinyin"><em>Háishì</em> míngtiān qù ba.</span><span class="trans">We'd better go tomorrow.</span>
+*<em>还是</em> 让 她 进来 吧 。<span class="pinyin"><em>Háishì</em> ràng tā jìnlái ba.</span><span class="trans">We'd better let her come in.</span>
+*你 <em>还是</em> 快点 走 吧 。<span class="pinyin">Nǐ <em>háishì</em> kuài diǎn zǒu ba.</span><span class="trans">You'd better leave now.</span>
+*我们 <em>还是</em> 帮帮 他 吧 。<span class="pinyin">Wǒmen <em> háishì</em> bāngbang tā ba.</span><span class="trans">We'd better help him.</span>
+*太 晚 了 ，<em>还是</em> 先 回家 吧 。<span class="pinyin">Tài wǎn le, <em>háishì</em> xiān huíjiā ba.</span><span class="trans">It's too late. We'd better go home now.</span>
+*这里 太 脏 了，我们 <em>还是</em> 走 吧 。<span class="pinyin">Zhèlǐ tài zāng le, wǒmen <em>háishì</em> zǒu ba.</span><span class="trans">It's too dirty here; we'd better leave.</span>
+*快 迟到 了 ，我们 <em>还是</em> 打车 吧 。<span class="pinyin">Kuài chídào le, wǒmen <em>háishì</em> dǎchē ba.</span><span class="trans">We're running late. Let's take a taxi.</span>
+
+</div>
+
+When the part after 还是 is a negative verb phrase, it's OK to drop the 吧 at the end.
+
+<div class="liju">
+
+*太 贵 了 ，<em>还是</em> 别 买 了 。<span class="pinyin">Tài guì le, <em>háishì</em> bié mǎi le.</span><span class="trans">It's too expensive. You'd better not buy it.</span>
+*她 不 想 说 ，<em>还是</em> 不要 再 问 了 。<span class="pinyin">Tā bù xiǎng shuō, <em>háishì</em> bùyào zài wèn le.</span><span class="trans">She doesn't want to say. We'd better not ask again.</span>
+*他 一定 不 同意 ，<em>还是</em> 别 跟 他 说 了 。<span class="pinyin">Tā yīdìng bù tóngyì, <em>háishì</em> bié gēn tā shuō le.</span><span class="trans">He will definitely not agree to it. We'd better not say anything to him.</span>
+
+</div>
+
+== See also ==
+
+* [[Offering choices with haishi]]
+* [["Yinggai" for should]]
+* [[Expressing "how about" with "yaobu"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Chinese: An Essential Grammar, Second Edition|144}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|259-60}}
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|103}}
+{{Source|卓越汉语－公司实战篇|211}}
+
+[[Category:B1 grammar points]]
+[[Category: Adverbs]]
+
+{{Basic Grammar|还是|B1|还是 + Verb|我们 <em>还是</em> 先 吃饭 吧。|grammar point|ASGWAR65}}
+{{Rel char|还}}
+{{Rel char|是}}
+{{Rel char|吧}}
+{{Similar|"Yinggai" for should}}
+{{Similar|Expressing "had better" with "zuihao"}}
+{{Similar|Expressing "how about" with "yaobu"}}
+{{Used for|Expressing quality}}
+{{Used for|Expressing obligations}}
+{{POS|Adverbs}}
+{{Translation|had better}}

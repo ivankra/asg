@@ -1,0 +1,72 @@
+<!-- Expressing "rather" with "bijiao" -->
+{{Grammar Box}} 
+
+The word 比较 (bǐjiào) can be a verb which means "to compare." But it can also be an [[adverb]] meaning "comparatively" or "rather."
+
+== Used with Adjectives ==
+
+=== Structure ===
+
+The adverb 比较 can be used to express "quite," "rather," or "relatively."
+
+<div class="jiegou">
+Subj. + 比较 + Adj.
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*这个 问题 <em>比较</em> 简单 。<span class="pinyin">Zhège wèntí <em>bǐjiào</em> jiǎndān.</span><span class="trans">This question is quite easy.</span>
+*我 觉得 这个 价格 <em>比较</em> 贵 。<span class="pinyin">Wǒ juéde zhège jiàgé <em>bǐjiào</em> guì.</span><span class="trans">I think this price is rather expensive.</span>
+*我 家 离 市中心 <em>比较</em> 近 。<span class="pinyin">Wǒ jiā lí shìzhōngxīn <em>bǐjiào</em> jìn.</span><span class="trans">My place is relatively close to downtown.</span>
+*大 城市 的 工作 压力 <em>比较</em> 大 。<span class="pinyin">Dà chéngshì de gōngzuò yālì <em>bǐjiào</em> dà.</span><span class="trans">Jobs in big cities have quite a lot of pressure.</span>
+*你 上班 坐 地铁 <em>比较</em> 方便 吧 ？<span class="pinyin">Nǐ shàngbān zuò dìtiě <em>bǐjiào</em> fāngbiàn ba?</span><span class="trans">To get to work, it's quite convenient for you to take the subway, right?</span>
+
+</div>
+
+== Used with Verbs ==
+
+比较 can also be used with [[psychological verb]]s.
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 比较 + [Verb Phrase]
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我 <em>比较</em> 讨厌 男人 说 脏话 。<span class="pinyin">Wǒ <em>bǐjiào</em> tǎoyàn nánrén shuō zānghuà.</span><span class="trans">I quite hate it when men use foul language.</span>
+*你 <em>比较</em> 喜欢 用 Gmail 还是 Hotmail ？<span class="expl">Note that for this phrase, the translation is a totally different verb.</span><span class="pinyin">Nǐ <em>bǐjiào</em> xǐhuan yòng Gmail háishì Hotmail?</span><span class="trans">Do you prefer to use Gmail or Hotmail?</span>
+*我 父母 <em>比较</em> 反对 我 找 外国 男朋友 。<span class="pinyin">Wǒ fùmǔ <em>bǐjiào</em> fǎnduì wǒ zhǎo wàiguó nánpéngyou.</span><span class="trans">My parents rather object to me seeking a foreign boyfriend.</span>
+*民众 <em>比较</em> 支持 新 的 就业 政策 。<span class="pinyin">Mínzhòng <em>bǐjiào</em> zhīchí xīn de jiùyè zhèngcè.</span><span class="trans">The public rather supports the new employment policy.</span>
+*老板 通常 <em>比较</em> 关注 结果 ，不 是 过程 。<span class="pinyin">Lǎobǎn tōngcháng <em>bǐjiào</em> guānzhù jiéguǒ, bù shì guòchéng.</span><span class="trans">The boss usually pays more attention to results and not process.</span>
+
+</div>
+
+== See also ==
+
+* [[Expressing "a little too" with "you dian"]]
+* [[The "zui" superlative]]
+* [[Special verbs with "hen"]]
+* [[Expressing "a bit too"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Integrated Chinese: Level 2, Part 1|49-50}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|比较|B1|Subj. + 比较 + Adj.|这个 问题 <em>比较</em> 简单 。|grammar point|ASG72HKP}}
+{{Rel char|比}}
+{{Similar|Expressing "a bit too"}}  
+{{Similar|Expressing "quite" with "ting"}}  
+{{Similar|Expressing "a little too" with "you dian"}}    
+{{Similar|Expressing "much more" in comparisons}}    
+{{Used for|Comparing}}
+{{POS|Adverbs with Adjectives}}

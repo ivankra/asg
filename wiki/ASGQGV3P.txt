@@ -1,0 +1,98 @@
+<!-- Expressing experiences with "guo" -->
+{{Grammar Box}} 
+The [[aspect particle]] 过 (guo) is used to indicate that an '''action has been experienced''' in the past. 
+
+== Basic Usage ==
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + Verb + 过 + Obj.
+
+</div>
+
+What this expresses is that the verb ''has been'' done at least once before, without specifying a particular time. 过 (guo) is used to talk about whether something has ''ever'' happened - whether it ''has been experienced''.
+
+=== Examples ===
+
+In English, if you're asking a question and really trying to figure out if someone has ''ever'' done something before, we tend to use the words "ever" and "before."  In Chinese, 过 (guo) alone expresses this, without the need for additional words.
+
+<div class="liju">
+
+* 你 学 <em>过</em> 中文 吗？ <span class="pinyin">Nǐ xué <em>guo</em> Zhōngwén ma?</span><span class="trans">Have you ever studied Chinese?</span>
+* 你 见 <em>过</em> 那 个 人 吗？ <span class="pinyin">Nǐ jiàn <em>guo</em> nàge rén ma?</span><span class="trans">Have you seen that person before?</span>
+* 我们 来 <em>过</em> 这 个 地方。<span class="pinyin">Wǒmen lái <em>guo</em> zhège dìfang.</span><span class="trans">We've been to this place before.</span>
+* 我 也 吃 <em>过</em> 日本菜。 <span class="pinyin">Wǒ yě chī <em>guo</em> Rìběn cài.</span><span class="trans">I've also eaten Japanese food before.</span>
+* 你 看 <em>过</em> 这 个 电影 吗 ？ <span class="pinyin">Nǐ kàn <em>guo</em> zhège diànyǐng ma?</span><span class="trans">Have you seen this movie?</span>
+
+</div>
+
+== Negating a 过 (guo) Sentence ==
+
+Because 过 (guo) is used to talk about past actions, it should be [[Negation of past actions with "meiyou"|negated with 没]] (méi). 
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + 没 + Verb + 过 + Obj.
+
+</div>
+
+=== Examples ===
+
+Note that when you translate these examples into English, "have ''never''" [done something] is often more natural, indicating that someone ''lacks the '''experience''' of having done something'', rather than just "have not" [done something].
+
+<div class="liju">
+
+* 我 <em>没</em> 想 <em>过</em> 这 个 问题。<span class="pinyin">Wǒ <em>méi</em> xiǎng  <em>guo</em> zhège wèntí.</span><span class="trans"> I've never thought about this question before.</span>
+* 我 <em>没</em> 学 <em>过</em> 这 个 词 。 <span class="pinyin">Wǒ <em>méi</em> xué <em>guo</em> zhège cí.</span><span class="trans">I have never studied this word before.</span>
+*  妈妈 <em>没</em> 买 <em>过</em> 很 贵 的 衣服。 <span class="pinyin">Māma <em>méi</em> mǎi <em>guo</em>  hěn guì de yīfu.</span><span class="trans">Mom has never bought any expensive clothes before.</span>
+* 我们 都 <em>没</em> 坐 <em>过</em> 飞机。 <span class="pinyin">Wǒmen dōu <em>méi</em> zuò <em>guo</em> fēijī.</span><span class="trans">None of us has ever been on a airplane before.</span>
+* 你们 <em>没</em> 见 <em>过</em> 美女 吗？<span class="pinyin">Nǐmen <em>méi</em> jiàn <em>guo</em> měinǚ ma? </span><span class="trans">Have you never seen beautiful girls before?  </span>
+
+</div>
+
+To emphasize "never" even more, you can also [[Expressing "never" with "conglai"|use the word 从来 (cónglái)]].
+
+== Using 过 (guo) with 了 (le) ==
+
+You'll sometimes see 过 (guo) used together with 了 (le).  This can be a little confusing, as it doesn't seem to be following the rules laid out above.  For more on this special usage of 过 (guo), see the article on [[Using "guo" with "le"|using 过 (guo) with 了 (le)]].
+
+== See also ==
+
+*[[Expressing "once" with "cengjing"]]
+*[[Expressing completion with "le"]]
+*[[Aspect particle "zhe"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|108}}
+{{Source|A Practical Chinese Grammar For Foreigners (外国人实用汉语语法) |138}} 
+{{Source|Chinese: An Essential Grammar, Second Edition|59-60}}
+{{Source|Chinese Grammar Without Tears (简明汉语语法学习手册) |73-4}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|83- 4}} 
+{{Source|Integrated Chinese: Level 2, Part 1|345-7}}
+{{Source|Integrated Chinese: Level 2, Part 2|49-51}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|76-7, 230-2}} 
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2)|175-6}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|188}}
+
+=== Websites ===
+
+* ChinesePod: [http://chinesepod.com/lessons/%E8%BF%87guo Qing Wen - 过(guo)] (free podcast content)
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Used for|Referring to the past}}
+{{Used for|Referring to past experiences}}
+{{Basic Grammar|过|A2|Verb + 过|我 去 <em>过</em> 中国 。|grammar point|ASGQGV3P}}
+{{Similar|Taiwanese "you"}}
+{{Similar|Expressing "once" with "cengjing"}}
+{{Similar|Uses of le}}
+{{Similar|Expressing completion with "le"}}
+{{Translation|have}}
+{{POS|Particles}}

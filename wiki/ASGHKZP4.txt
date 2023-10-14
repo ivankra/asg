@@ -1,0 +1,164 @@
+<!-- Comparing "turan" and "huran" -->
+{{Grammar Box}} 
+Both 突然 (tūrán) and 忽然 (hūrán) express the something happens in a very short time or is unexpected. Both can be translated as "suddenly." However, 突然 is a bit harsher in tone while 忽然 is a bit softer (you might say 突然 is more 突然 than 忽然), and only 突然 can be used as an adjective meaning "sudden."
+
+== Both 突然 and 忽然 can be used as Adverbs ==
+ 
+突然 and 忽然 both can put in the sentence as [[adverb]]s. Just make sure to put them before the verb or adjective they modify!
+
+=== Before a Verb===
+
+<div class="jiegou">
+突然／忽然 + Verb
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 睡觉 的 时候，我 的 电话 <em>突然</em> 响了。<span class="pinyin">Shuìjiào de shíhou, wǒ de diànhuà <em>tūrán</em> xiǎng le.</span>
+* 睡觉 的 时候，我 的 电话 <em>忽然</em> 响了。<span class="pinyin">Shuìjiào de shíhou, wǒ de diànhuà <em>hūrán</em> xiǎng le.</span><span class="trans">While I was sleeping, my phone suddenly started to ring.</span>
+* 他 说着 说着 <em>突然</em> 不 说 了。<span class="pinyin">Tā shuōzhe shuōzhe <em>tūrán</em> bù shuō le.</span>
+* 他 说着 说着 <em>忽然</em> 不 说 了。<span class="pinyin">Tā shuōzhe shuōzhe <em>hūrán</em> bù shuō le.</span><span class="trans">He was talking and talking, and suddenly stopped.</span>
+</div>
+
+=== Before an Adjective ===
+
+<div class="jiegou">
+突然／忽然 + Adj.
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 天 <em>突然</em> 暗 了。<span class="pinyin">Tiān <em>tūrán</em> àn le.</span>
+* 天 <em>忽然</em> 暗 了。<span class="pinyin">Tiān <em>hūrán</em> àn le.</span><span class="trans">The sky suddenly got dark.</span>
+* 灯 <em>突然</em> 不 亮 了。<span class="pinyin">Dēng <em>tūrán</em> bù liàng le.</span>
+* 灯 <em>忽然</em> 不 亮 了。<span class="pinyin">Dēng <em>hūrán</em> bù liàng le.</span><span class="trans">The lights suddenly went out.</span>
+</div>
+
+=== At the Beginning of a Sentence ===
+
+You can place 突然 and 忽然 at the beginning of a sentence, just make sure to add a comma after it!
+
+=== Structure ===
+
+<div class="jiegou">
+突然／忽然，⋯⋯
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* <em>突然</em>，他 进来 了。<span class="pinyin"><em>Túrán</em>, tā jìnlái le.</span>
+* <em>忽然</em>，他 进来 了。<span class="pinyin"><em>Hūrán</em>, tā jìnlái le.</span><span class="trans">Suddenly, he entered.</span>
+</div>
+
+== 突然 can be used as an Adjective ==
+
+突然 can be used as an [[adjective]] (directly modifying [[noun]]s), while 忽然 ''cannot''.
+
+=== Structure as an Adjective===
+
+<div class="jiegou">
+突然 + (的) + Noun
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 这 是 一 场 <em>突然</em> 事故，我们 都 没 想到。<span class="pinyin">Zhè shì yī chǎng <em>tūrán</em> shìgù, wǒmen dōu méi xiǎngdào.</span><span class="trans">This was a sudden accident. None of us thought it could happen.</span>
+* 你 知道 怎么 处理 这 种 <em>突然</em> 的 情况 吗？<span class="pinyin">Nǐ zhīdào zěnme chǔlǐ zhè zhǒng <em>tūrán</em> de qíngkuàng ma?</span><span class="trans">Do you know how to handle this kind of sudden situation?</span>
+</div>
+
+== 突然 can be used as a complement ==
+
+突然 as an adjective can also be used as a [[complement]] (called 补语 in Chinese). 忽然 cannot be used as a complement. 
+
+=== Structure for verb and complement===
+
+<div class="jiegou">
+Subj. +  Verb + 得 + 突然
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 事情 发生 得 太 <em>突然</em>，我们 不 知道 怎么 办。<span class="pinyin">Shìqing fāshēng de tài <em>tūrán</em>, wǒmen bù zhīdào zěnme bàn.</span><span class="trans">Things happened so suddenly, we didn't know what to do.</span>
+* 这 场 雨 下 得 太 <em>突然</em>，都 淋湿 了。<span class="pinyin">Zhè chǎng yǔ xià de tài <em>tūrán</em>, dōu lín shī le.</span><span class="trans">This rain fell so suddenly, everything got soaked.</span>
+</div>
+
+== 突然 can be used as the predicate ==
+
+Just like other adjectives, 突然 can be used as the predicate of a sentence. It is usually added with a modifier like 很, 非常, 不 etc. It can also end with complements like [[Adjectival complement "de hen"|得很]], [[Expressing "much more" in comparisons|得多]], [[Adjectives with "-ji le"|极了]], etc.
+
+=== Structure with modifier + 突然 ===
+
+<div class="jiegou">
+Subj. +  Modifier + 突然
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 这 个 决定 太 <em>突然</em> 了。<span class="pinyin">Zhège juédìng tài <em>tūrán</em>  le.</span><span class="trans">This decision was too sudden.</span>
+* 对 她 来说，这 次 升职 其实 不 <em>突然</em>。<span class="pinyin">Duì tā lái shuō, zhè cì shēng zhí qíshí bù <em>tūrán</em>.</span><span class="trans">To her, this promotion wasn't actually surprising.</span>
+</div>
+
+=== Structure with 突然 + modifier===
+
+<div class="jiegou">
+Subj. +  突然 + Modifier
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 她 离开 上海 <em>突然</em> 得 很。<span class="pinyin">Tā líkāi Shànghǎi <em>tūrán</em> de hěn.</span><span class="trans">Her leaving Shanghai was really sudden.</span>
+* 这 次 生病 比 上 次 <em>突然</em> 得 多。<span class="pinyin">Zhè cì shēngbìng bǐ shàng cì <em>tūrán</em> de duō.</span><span class="trans">Getting sick this time was much more sudden than the last time.</span>
+</div>
+
+== Example of right and wrong sentences ==
+
+<div class="liju">
+<ul>
+<li class="x">这 个 决定 很 <em>忽然</em>。</li>
+<li class="o">这 个 决定 很 <em>突然</em>。 <span class="expl">突然 can be a predicate, while 忽然 cannot.</span><span class="pinyin>Zhège juédìng hěn <em>tūrán</em>.</span><span class="trans">This decision is very sudden.</span></li> 
+<li class="x">一切 发生 得 太 <em>忽然</em>。</li>
+<li class="o">一切 发生 得 太 <em>突然</em>。 <span class="expl">突然 can be a complement, but 忽然 cannot.</span><span class="pinyin>Yīqiè fāshēng de tài <em>tūrán</em>.</span><span class="trans">Everything happened too suddenly.</span></li> 
+</ul>
+</div>
+
+== Example Dialog ==
+
+<div class="liju">
+* A: 我 正在 睡觉，<em>忽然</em> 电话 响 了 ，是 Amy 打 来 的。<span class="pinyin">Wǒ zhèngzài shuìjiào, <em>hūrán</em> diànhuà xiǎng le, shì Amy dǎ lái de.</span><span class="trans">I was sleeping, when suddenly the phone rang. It was Amy.</span>
+* B: 她 说 什么 ？<span class="pinyin">Tā shuō shénme?</span><span class="trans">What did she say?</span>
+* A: 她 结婚 了 。<span class="pinyin">Tā jiéhūn le.</span><span class="trans">She got married.</span>
+* B: 啊，这 个 消息 太 <em>突然</em> 了。<span class="pinyin">Zhège xiāoxī tài <em>tūrán</em> le.</span><span class="trans">Oh, this news is really sudden.</span>
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|现代汉语八百词（增订本）|540}}
+
+{{Source|现代汉语虚词例释|247}}
+
+{{Source|Integrated Chinese: Level 2, Part 2|231-2}}
+
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级)|113}}
+
+{{Source|HSK Standard Course 5上|59}}
+
+=== Dictionaries ===
+* [[现代汉语词典（第5版）]] (忽然p.574 突然p.1378) [http://www.amazon.cn/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E8%AF%8D%E5%85%B8/dp/B001B1RZCI/ref=sr_1_1?ie=UTF8&qid=1345693609&sr=8-1 →buy]
+
+[[Category:grammar comparison]]
+{{Basic Grammar|突然||突然 vs 忽然|我的 电话 <em>忽然</em> 响了。 事情 发生 得 太 <em>突然</em>。|grammar point|ASGHKZP4}}
+{{Rel char|忽然}}
+{{Used for|Expressing time and date}}
+{{Used for|Describing actions}}
+{{Used for|Expressing attitude}}
+{{Used for|Referring to changes of situation}}
+{{Comparison|Adverbs}}

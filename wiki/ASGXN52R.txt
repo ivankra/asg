@@ -1,0 +1,118 @@
+<!-- Expressing "and" with "he" (advanced) -->
+{{Grammar Box}} 
+You probably learned early on that 和 (hé) is used as an "[[and]]" word to connect [[noun]]s and noun phrases,  but ''not'' sentences or clauses. This rule is fine for a while but eventually you will begin encountering what appears to be non-nouns linked by 和. This article addresses how you may see 和 used in other ways.
+
+It's worth mentioning that none of these uses of 和 ''needs'' to be ''used''. You could do just fine only using 和 to connect nouns and noun phrases, and native speakers may prefer ''not'' to use 和 in some of the examples sentences given below. Still, uses like these ''do'' exist.
+
+== Linking Verbs with 和 ==
+
+Rather than give absolute rules, it's more helpful to give trends, because it's very difficult to provide a rule for using 和 with non-nouns which is never broken. There are just too many gray areas.
+
+In ''most cases'', the following trends apply when 和 is used to connect verbs:
+
+# The two verbs are very similar in nature. This could include characteristics such as level of formality, structure, and scope. Often you'll find that the verbs even overlap a little in meaning or are frequently used together. Thus 唱歌和跳舞 is natural (both are [[separable verb]]s, equally informal, frequently used together), whereas 玩游戏和跑 (the structure of the two is very different) is quite awkward.
+# Both verbs share the same object (e.g. 管理和运营一家公司) or are both modified by the same adverbial phrase (e.g. 进一步地了解和交流).
+# Normally (but not always) both verbs are two-syllable verbs, such as 维护, 修理.
+
+=== Structure ===
+
+<div class="jiegou">
+Verb 1 + 和 + Verb 2
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 政府 每年 都 会 维护  <em>和</em> 修理 这些 建筑 。<span class="pinyin">Zhèngfǔ měi nián dōu huì wéihù <em>hé</em> xiūlǐ zhèxiē jiànzhù.</span><span class="trans">Every year the government maintains and fixes these buildings.</span>
+* 我们 需要 进一步 地 了解 <em>和</em> 交流。<span class="pinyin">Wǒmen xūyào jìnyībù de liǎojiě <em>hé</em> jiāoliú.</span><span class="trans">We must further improve in understanding and communicating.</span>
+* 他 十八岁 的 时候 就 管理 <em>和</em> 运营 着 一 家 公司。<span class="pinyin">Tā shíbā suì de shíhou jiù guǎnlǐ <em>hé</em> yùnyíng zhe yī jiā gōngsī.</span><span class="trans">When he was eighteen years old, he managed and operated a company.</span>
+* 这 种 材料 可以 无限 地 回收 <em>和</em> 利用。<span class="pinyin">Zhè zhǒng cáiliào kěyǐ wúxiàn de huíshōu <em>hé</em> lìyòng.</span><span class="trans">This type of material can be endlessly recycled and reused.</span>
+* 预防 <em>和</em> 治理 污染 需要 所有 人 共同 的 努力。<span class="pinyin">Yùfáng <em>hé</em> zhìlǐ wūrǎn xūyào suǒyǒu rén gòngtóng de nǔlì.</span><span class="trans">Preventing and regulating pollution requires everyone to work together.</span>
+</div>
+
+== Linking Adjectives with 和 ==
+
+In ''most cases'', at least one of the following trends apply when 和 is used to connect adjectives:
+
+# The two adjectives often act as an [[attributive]] (coming before a noun), [[object]] (coming after a verb), or other sentence element.
+# If the two adjectives act as the [[predicate]] of the sentence, there will be some kind of modifier before the adjectives; they won't just be used "bare"
+
+=== Structure ===
+
+<div class="jiegou">
+Adj. 1 + 和 + Adj. 2
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 我 就是 喜欢 她 任性 <em>和</em> 调皮，怎么了？<span class="expl">Acting as objects</span><span class="pinyin">Wǒ jiùshì xǐhuan tā rènxìng <em>hé</em> tiáopí, zěnme le?</span><span class="trans">I just like her headstrong and  mischievous. What's wrong with that?</span>
+* 她 安静 <em>和</em> 甜美 的 笑容 让 我 觉得 温暖 。<span class="expl">Acting as an attributive</span><span class="pinyin">Tā ānjìng <em>hé</em> tiánměi de xiàoróng ràng wǒ juéde wēnnuǎn.</span><span class="trans">Her quiet and sweet smile makes me feel warm.</span>
+* 这种 恐惧 <em>和</em> 担心 不 是 没有 道理。<span class="expl">Acting as subjects, and with modifier 这种</span><span class="pinyin">Zhè zhǒng kǒngjù <em>hé</em> dānxīn bù shì méiyǒu dàolǐ.</span><span class="trans">Such worries and fears are not unreasonable.</span>
+* 你 什么时候 才 可以 像 他 那样 冷静 <em>和</em> 理性？<span class="expl">with modifier 那样</span><span class="pinyin">Nǐ shénme shíhou cái kěyǐ xiàng tā nàyàng lěngjìng <em>hé</em> lǐxìng?</span><span class="trans">When will you be as calm and rational as he is?</span>
+* 她 那么 单纯 <em>和</em> 天真，你 怎么 可以 这样 对 她？<span class="expl">Acting as predicate, with with modifier 那么</span><span class="pinyin">Tā nàme dānchún <em>hé</em> tiānzhēn, nǐ zěnme kěyǐ zhèyàng duì tā?</span><span class="trans">She is so innocent and naive, how can you treat her like this?</span>
+</div>
+
+== Incorrect uses of 和 ==
+
+Don't forget that in addition to 和, there are all kinds of other ways to express the "[[and]]" meaning, such as the words [[并]], [[并且]], and [[还有]], or the patterns [["Both A and B" with "you"|又⋯⋯又⋯⋯]] or [["Both… and…" with "ji...you"|既⋯⋯又⋯⋯]]. Below are some sentences that don't follow the trends laid out above, and are thus not good sentences. 
+
+In this first group, the "bare" (unmodified) adjectives don't sound good when using 和:
+
+<div class="liju">
+<ul>
+<li class="x">你 <strong>自私</strong> <em>和</em> <strong>冷漠</strong>，怎么 会 有 人 喜欢 你 ？！<span class="pinyin">Nǐ <strong>zìsī</strong> <em>hé</em> <strong>lěngmò</strong>, zěnme huì yǒu rén xǐhuan nǐ?!</span></li>
+<li class="o">你 <strong>这么 自私</strong> <em>和</em> <strong>冷漠</strong> ， 怎么 会 有 人 喜欢 你 ？！<span class="pinyin">Nǐ zhème zìsī hé lěngmò, zěnme huì yǒu rén xǐhuan nǐ?!</span><span class="trans">You're so selfish and cold, how could anyone like you?</span></li>
+</ul>
+</div>
+
+In this second group, using 和 to group two totally different verbs with different objects sounds bad. It's actually better to just drop the 和 completely!
+
+<div class="liju">
+<ul>
+<li class="x">我 <strong>去 了 超市</strong> <em>和</em> <strong>买 了 水果</strong> 。<span class="pinyin">Wǒ <strong>qù le chāoshì</strong>, <em>hé</em> <strong>mǎi le shuǐguǒ</strong>.</span></li>
+<li class="o">我 去 了 超市 ， 买 了 水果 。<span class="pinyin">Wǒ qù le chāoshì, mǎi le shuǐguǒ.</span><span class="trans">I went to the supermarket and bought fruit.</span></li>
+</ul>
+</div>
+
+Finally, in this last group the verbs share an object, and they're both monosyllabic verbs. While perhaps not blatantly incorrect, this sentence just sounds weird to most Chinese. Using 和 with two-syllable verbs rather than one-syllable verbs sounds more natural:
+
+<div class="liju">
+<ul>
+<li class="q">你 需要 <strong>买</strong> <em>和</em> <strong>装</strong> 杀毒 软件 。<span class="pinyin">Nǐ xūyào <strong>mǎi</strong> <em>hé</em> <strong>zhuāng</strong> shādú ruǎnjiàn.</span></li>
+<li class="o">你 需要 <strong>购买</strong> <em>和</em> <strong>安装</strong> 杀毒 软件 。<span class="pinyin">Nǐ xūyào <strong>gòumǎi</strong> <em>hé</em> <strong>ānzhuāng</strong> shādú ruǎnjiàn.</span><span class="trans">You need to purchase and install anti-virus software.</span></li>
+</ul>
+</div>
+
+==See also==
+
+*[[and|Translations of "and"]]
+*[[Expressing "in addition" with "haiyou"]]
+*[["In addition" as "lingwai"]]
+*[[Expressing "not only… but also"]]
+*[[Combining verbs with "bing"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Basic Patterns of Chinese Grammar|74-5}} 
+{{Source|Chinese: An Essential Grammar, Second Edition|14-5}}
+{{Source|现代汉语虚词例释|236}}
+{{Source|现代汉语八百词|265}}
+{{Source|实用现代汉语语法|317}}
+
+=== Websites ===
+
+* Sinosplice: [http://www.sinosplice.com/life/archives/2008/10/13/syntactic-anguish-of-the-verb-object-modifier-variety Syntactic Anguish of the Verb-Object-Modifier Variety]
+
+{{Basic Grammar|和||Verb 1 + 和 + Verb 2|政府 每年 都 会 维护 <em>和</em> 修理 这些 建筑 。|grammar point|ASGXN52R}}
+{{Similar|Expressing "and" with "he"}} 
+{{Similar|Expressing "in addition" with "haiyou"}} 
+{{Similar|"In Addition" as "lingwai"}} 
+{{Similar|Expressing "Not Only… But Also"}} 
+{{Similar|Combining Verbs with "bing"}}
+{{Similar|Expressing "moreover" with "bingqie"}}
+{{POS|Conjunctions}}
+{{Used for|Listing}}
+{{Translation|and}}

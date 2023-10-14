@@ -1,0 +1,66 @@
+<!-- Expressing "even more" with "geng" or "hai" -->
+{{Grammar Box}} 
+
+When used in a comparison, 更 (gèng) or 还 (hái) can kick up an adjective to an even higher degree. For example, New York City is America's biggest city with a population of around 9 million. Shanghai is China's biggest city, with a population of more than 20 million. So even though NYC's population is big, Shanghai's is even bigger. You'd use 更 or 还 to express this in Chinese.
+
+== Structure ==
+
+<div class="jiegou">
+Noun 1 + 比 + Noun 2 + 更 / 还 + Adj. 
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*上海 <em>比</em> 纽约 人口 <strong>更</strong> 多 。<span class="pinyin">Shànghǎi <em>bǐ</em> Niǔyuē rénkǒu <strong>gèng</strong> duō.</span><span class="trans">Shanghai's population is even bigger than New York's.</span>
+*我 妹妹 <em>比</em> 我 <strong>更</strong> 瘦 。<span class="pinyin">Wǒ mèimei <em>bǐ</em> wǒ <strong>gèng</strong> shòu.</span><span class="trans">My younger sister is even skinnier than me.</span>
+*我 的 猫 <em>比</em> 我 的 狗 <strong>更</strong> 淘气 。<span class="pinyin">Wǒ de māo <em>bǐ</em> wǒ de gǒu <strong>gèng</strong> táoqì.</span><span class="trans">My cat is even naughtier than my dog.</span>
+*有时候 动物 <em>比</em> 人类 <strong>更</strong> 聪明 。<span class="pinyin">Yǒushíhou dòngwù <em>bǐ</em> rénlèi <strong>gèng</strong> cōngming.</span><span class="trans">Sometimes animals are even smarter than human beings.</span>
+*大 城市 的 工作 机会 <em>比</em> 我 老家 <strong>更</strong> 多 。<span class="pinyin">Dà chéngshì de gōngzuò jīhuì <em>bǐ</em> wǒ lǎojiā <strong>gèng</strong> duō.</span><span class="trans">There are even more job opportunities in big cities than in my hometown.</span>
+*他 <em>比</em> 姚明 <strong>还</strong> 高 。<span class="pinyin">Tā <em>bǐ</em> Yáo Míng <strong>hái</strong> gāo.</span><span class="trans">He is even taller than Yao Ming.</span>
+*昨天 38 度 ，今天 <em>比</em> 昨天<strong>还</strong> 热 。<span class="expl">38 ºC = 100 ºF</span><span class="pinyin">Zuótiān sānshí-bā dù, jīntiān <em>bǐ</em> zuótiān <strong>hái</strong> rè.</span><span class="trans">It was 38 degrees yesterday, and it's even hotter today.</span>
+*这个 外国人 的 汉语 说 得 <em>比</em> 中国 人 <strong>还</strong> 地道 。<span class="pinyin">Zhège wàiguó rén de Hànyǔ shuō de <em>bǐ</em> Zhōngguó rén <strong>hái</strong> dìdao.</span><span class="trans">This foreigner speaks even more authentic Chinese than native speakers do.</span>
+
+</div>
+
+还 has a more intense tone, and it usually carries a tone of surprise and skepticism. Therefore, using the form of a rhetorical question with 还 can be understood as "how can it be?"
+
+Also note that 更 can be used with 了 in this pattern, indicating change of situation or state, while 还 can't  be used in this way.
+
+<div class="liju">
+<ul>
+<li class="x">这个 地方 <em>比</em> 以前 <strong>还</strong> 热闹 <strong>了</strong> 。<span class="pinyin">Zhège dìfang <em>bǐ</em> yǐqián <strong>hái</strong> rènao <strong>le</strong>.</span></li>
+<li class="o">这个 地方 <em>比</em> 以前 <strong>更</strong> 热闹 <strong>了</strong> 。<span class="pinyin">Zhège dìfang <em>bǐ</em> yǐqián <strong>gèng</strong> rènao <strong>le</strong>.</span><span class="trans">This place is even livelier than before.</span></li>
+</ul>
+</div>
+
+== See also ==
+
+* [[Expressing "a bit too"]]
+* [[Basic comparisons with "bi"]]
+* [[Basic comparisons with "bu bi"]]
+* [[Expressing "compared with" with "gen"]]
+* [[Expressing comparable degree with "you"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Basic Grammar|比|B1|Noun 1 + 比 + Noun 2 + 更 / 还 + Adj. |他 <em>比</em> 姚明 <strong>还</strong> 高 。|grammar point|ASG64E96}}
+{{HSK|HSK3}}
+{{Rel char|更}}
+{{Rel char|还}}
+{{Similar|Basic comparisons with "bi"}}
+{{Similar|Expressing "a little too" with "you dian"}}
+{{Similar|Expressing comparable degree with "you"}}
+{{Similar|Expressing "compared with" with "gen"}}
+{{Similar|Basic comparisons with "bu bi"}}
+{{Used for|Comparing}}
+{{Used for|Adding more explanation}}
+{{Used for|Expressing degree}}
+{{Structure|Sentence Patterns}}
+{{Subprop|Comparison Patterns}}
+{{Translation|even more}}
+{{Translation|even}}
+{{Translation|more}}

@@ -1,0 +1,85 @@
+<!-- Expressing "about" with "guanyu" -->
+{{Grammar Box}} 
+
+关于 (guānyú) means "about." It can be used in a few ways, often marking a topic of a statement or modifying a noun. 
+
+== Used for Topic-Marking ==
+
+=== Structure ===
+
+As an adverb/adverbial clause, it can only be placed at the beginning of the sentence.
+
+<div class="jiegou">
+关于 + Obj. ，⋯⋯
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>关于</em> 中国 历史，我 知道 的 不 多。<span class="pinyin"><em>Guānyú</em> Zhōngguó lìshǐ, wǒ zhīdào de bù duō.</span><span class="trans">As for Chinese history, I don't know a lot.</span>
+*<em>关于</em> 这 次 考试，我 还 有 几 个 问题 要 问。<span class="pinyin"><em>Guānyú</em> zhè cì kǎoshì, wǒ hái yǒu jǐ gè wèntí yào wèn.</span><span class="trans">As for this exam, I still have a few questions that I need to ask.</span>
+*<em>关于</em> 这个 问题，你们 还是 问 他 吧。<span class="pinyin"><em>Guānyú</em> zhège wèntí, nǐmen háishì wèn tā ba.</span><span class="trans">As for this question, you'd better ask him.</span>
+*<em>关于</em> 你 的 建议，老板 还 在 考虑 。<span class="pinyin"><em>Guānyú</em> nǐ de jiànyì, lǎobǎn hái zài kǎolǜ.</span><span class="trans">As for your suggestion, the boss is still thinking it over.</span>
+*<em>关于</em> 调查 结果，我们 也 不 太 清楚 。<span class="pinyin"><em>Guānyú</em> diàochá jiéguǒ, wǒmen yě bù tài qīngchu.</span><span class="trans">As for the result of that investigation, we don't know much either.</span>
+
+</div>
+
+== Used as Part of a Modifier ==
+
+As an attributive modifier, 关于 (guānyú) is placed before the noun phrase (rather than after, as in English), and you should always add a 的.
+
+=== Structure ===
+
+<div class="jiegou">
+关于 ⋯⋯ 的 + Noun
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*网上 有 很 多 <em>关于</em> 这 件 事情 的 评论 。<span class="pinyin">Wǎngshang yǒu hěn duō <em>guānyú</em> zhè jiàn shìqing de pínglùn.</span><span class="trans">There are lots of comments about this matter online.</span>
+*他 写 过 很 多 <em>关于</em> 男女 平等 的 文章 。<span class="pinyin">Tā xiě guo hěn duō <em>guānyú</em> nánnǚ píngděng de wénzhāng.</span><span class="trans">He wrote many articles about gender equality.</span>
+*汉语 有 很 多 <em>关于</em> 饮食 的 成语 。<span class="pinyin">Hànyǔ yǒu hěn duō <em>guānyú</em> yǐnshí de chéngyǔ.</span> <span class="trans">There are lots of idioms about food in Chinese.</span>
+*我 昨天 看 了 一 部 <em>关于</em> 动物 保护 的 纪录片 。<span class="pinyin">Wǒ zuótiān kàn le yī bù <em>guānyú</em> dòngwù bǎohù de jìlùpiàn.</span><span class="trans">I saw a documentary about animal protection yesterday.</span>
+*这 是 一 份 <em>关于</em> 中国 奢侈品 市场 的 报告 。<span class="pinyin">Zhè shì yī fèn <em>guānyú</em> Zhōngguó shēchǐpǐn shìchǎng de bàogào.</span><span class="trans">This is a report about the Chinese luxury market.</span>
+
+</div>
+
+== The Unspoken "About" ==
+
+The word "about" often follows verbs in English, such as "talk about" or "ask about." In Chinese, however, this "about" meaning is built into the verb and no additional "about" word is needed, much like we don't say "discuss about" in English.
+
+A few examples:
+
+<div class="liju">
+
+*我们 聊聊 你 的 新 工作 吧 。<span class="pinyin">Wǒmen liáoliao nǐ de xīn gōngzuò ba.</span><span class="trans">Let's talk about your new job.</span>
+*今天 开会 要 说说 公司 下 个 月 的 培训 。<span class="pinyin">Jīntiān kāihuì yào shuōshuo gōngsī xià gè yuè de péixùn.</span><span class="trans">Today, we need to hold a meeting about the company training next month.</span>
+
+</div>
+
+== See also ==
+
+* [[Comparing "dui" and "duiyu"]]
+* [[Comparing "guanyu" and "duiyu"]]
+* [[Comparing "duiyu" and "zhiyu"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|154}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|关于|B1|关于 + Obj. ，⋯⋯|<em>关于</em> 中国 历史 ，我 知道 的 不 多 。|grammar point|ASG49889}}
+{{Used for|Expressing attitude}}
+{{Similar|Comparing "dui" and "duiyu"}}
+{{Similar|Comparing "guanyu" and "duiyu"}}
+{{Similar|Comparing "duiyu" and "zhiyu"}}
+{{Similar|Expressing "related to..." with "you guan de"}}
+{{POS|Prepositions}}
+{{Translation|about}}
+{{Translation|as for}}

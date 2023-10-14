@@ -1,0 +1,119 @@
+<!-- Comparing "chao" "xiang" and "wang" -->
+{{Grammar Box}} 
+All three of these, 朝 (cháo), 向 (xiàng), and 往 (wǎng) can be used to indicate direction or position. When these preposition phrases are used before a verb, the three have the same structure and their meaning is the same. Although they are often interchangeable, there are also cases when they are not.
+
+== When 朝, 向, and 往 Are All Appropriate ==
+
+=== Structure ===
+
+Just put one of the three before the direction and the verb!
+
+<div class="jiegou">
+向 / 朝 / 往 + Direction + Verb
+</div>
+
+=== Examples ===
+
+The three are interchangeable in these types of "purely directional" usage.
+
+<div class="liju">
+* 从 这里 <em>向</em> / <em>朝</em> / <em>往</em> 北 走 两 百 米 就 到 了。<span class="pinyin">Cóng zhèlǐ <em>xiàng</em>/ <em>cháo</em>/ <em>wǎng</em> běi zǒu liǎng bǎi mǐ jiù dào le.</span><span class="trans">From here, go one hundred meters north, and you'll get there.</span>
+* 这 个 小 女孩 <em>向</em> 左 看看 又 <em>向</em> 右 看看 才 过 马路。<span class="pinyin">Zhège xiǎo nǚhái <em>xiàng</em> zuǒ kànkan yòu <em>xiàng</em> yòu kànkan cái guò mǎlù.</span><span class="trans">This little girl looked left and then looked right before crossing the street.</span>
+* 我 看见 他 <em>朝</em> 你们 家 去 了。<span class="pinyin">Wǒ kànjiàn tā <em>cháo</em> nǐmen jiā qù le.</span><span class="trans">I saw him going towards your house.</span>
+* <em>往</em> 前 走 十 分 钟。<span class="pinyin"><em>Wǎng</em> qián zǒu shí fēnzhōng.</span><span class="trans">Walk forward for ten minutes.</span>
+
+</div>
+
+== When to Use 向 and 往 ==
+
+向 and 往 can sometimes be placed after a verb, however not just any verb will do. Oft-used verbs are 开, 飞, 发, 运, 送, 寄, 带, 驶 etc. As you can see, these are words that imply some sort of motion. In addition, compared to 向, 往 is used more often with those verbs, because 往 indicates the destination while 向 merely expresses a direction,. 朝 is not used this way.
+
+=== Structure ===
+
+<div class="jiegou">
+Verb + 向 / 往 + Direction
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 这 趟 火车 <strong>开</strong><em>往</em> 沈阳。<span class="pinyin">Zhè tàng huǒchē <strong>kāi</strong><em>wǎng</em> Shěnyáng.</span><span class="trans">This train is heading towards Shenyang.</span>
+* 这 趟 航班 <strong>飞</strong><em>往</em> 纽约。<span class="pinyin">Zhè tàng hángbān <strong>fēi</strong><em>wǎng</em> Niǔyuē.</span><span class="trans">This plane is bound for New York.</span>
+* 一 辆 黑色 的 小 轿车 慢慢 地 从 东 <strong>驶</strong><em>向</em> 西。<span class="pinyin">Yī liàng hēisè de xiǎo jiàochē mànmàn de cóng dōng <strong>shǐ</strong><em>xiàng</em> xī.</span><span class="trans">A small black sedan slowly drove from east to west.</span>
+* 像 鸟儿 一样 <strong>飞</strong><em>向</em> 蓝天。<span class="pinyin">Xiàng niǎoér yīyàng <strong>fēi</strong><em>xiàng</em> lántiān.</span><span class="trans">Like a bird, it flew into the blue yonder.</span>
+</div>
+
+== When to Use "向" and "朝" ==
+
+When a concrete action has a specific ''target'' (not a ''destination''), use 向 or 朝. 往 cannot be used this way.
+
+=== Structure ===
+
+<div class="jiegou">
+向 / 朝 + Target + Concrete Verb
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 他 <em>向</em> / <em>朝</em> 我 笑 了 笑。<span class="pinyin">Tā <em>xiàng</em> / <em>cháo</em> wǒ xiào le xiào.</span><span class="trans">He chuckled at me.</span>
+* 我 <em>朝</em> 他 开 了 一 枪。<span class="pinyin">Wǒ <em>cháo</em> tā kāi le yī qiāng.</span><span class="trans">I took a shot at him.</span>
+* 他 已经 <em>向</em> 全体 员工 解释 过 了。<span class="pinyin">Tā yǐjīng <em>xiàng</em> quántǐ yuángōng jiěshì guo le.</span><span class="trans">He has already explained it to all the employees.</span>
+</div>
+
+== When Only "向" Is Correct ==
+
+When a verb and or the target of the verb is abstract, you can only use 向 to indicate the target, and cannot use 朝.
+
+=== Structure ===
+
+<div class="jiegou">
+向 + Target + Abstract Verb
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 他 是 优秀 员工，我们 都 要 <em>向</em> 他 学习。 <span class="pinyin">Tā shì yōuxiù yuángōng, wǒmen dōu yào <em>xiàng</em> tā xuéxí.</span><span class="trans">He is an exemplary employee, we should all learn from him.</span>
+* 我们 要 <em>向</em> 环保 部门 要求 严查 工厂 排污。<span class="pinyin">Wǒmen yào <em>xiàng</em> huánbǎo bùmén yāoqiú yán chá gōngchǎng páiwū.</span><span class="trans">We are going to demand that the Environmental Safety Department closely inspect the factory's sewage.</span>
+</div>
+
+== Common Mistakes ==
+
+<div class="liju">
+<ul>
+<li class="x">这 个 地铁 是 <strong>开</strong><em>朝</em> 浦东 机场 的 吗 ？<span class="pinyin">Zhège dìtiě shì <strong>kāi</strong><em>cháo</em> Pǔdōng jīchǎng de ma?</span></li>
+<li class="o">这 个 地铁 是 <strong>开</strong><em>往</em> 浦东 机场 的 吗 ？<span class="pinyin">Zhège dìtiě shì <strong>kāi</strong><em>wǎng</em> Pǔdōng jīchǎng de ma?</span><span class="trans">Is this subway heading towards Pudong Airport?</span></li>
+<li class="x">你 要 多 <em>往</em> 雷锋 同志 学习 。<span class="pinyin">Nǐ yào duō <em>wǎng</em> Léi Fēng tóngzhì xuéxí.</span></li>
+<li class="x">你 要 多 <em>朝</em> 雷锋 同志 学习 。<span class="pinyin">Nǐ yào duō <em>cháo</em> Léi Fēng tóngzhì xuéxí.</span></li>
+<li class="o">你 要 多 <em>向</em> 雷锋 同志 学习 。<span class="pinyin">Nǐ yào duō <em>xiàng</em> tā xuéxí xuéxí.</span><span class="trans">You need to go to him to learn.</span></li>
+<li class="x">帅哥 <em>往</em> 我 笑 了 一下 。<span class="pinyin">Shuàigē <em>wǎng</em> wǒ xiào le yīxià.</span><span class="trans">When the handsome guy headed my way I smiled.</span></li>
+<li class="o">帅哥 <em>朝</em> 我 笑 了 一下 。<span class="pinyin">Shuàigē <em>cháo</em> wǒ xiào le yīxià.</span><span class="trans">When the handsome guy headed my way I smiled.</span></li>
+<li class="o">帅哥 <em>向</em> 我 笑 了 一下 。<span class="pinyin">Shuàigē <em>xiàng</em> wǒ xiào le yīxià.</span><span class="trans">The cute guy smiled at me.</span></li>
+</ul>
+</div>
+
+== Example dialog ==
+
+<div class="liju">
+* A: 他 <em>往</em> 南 走 了 。<span class="pinyin">A: Tā <em>wǎng</em> nán zǒu le.</span><span class="trans">He walked south.</span>
+* B: 笨蛋 ！ 你 怎么 让 他 <em>往</em> 南 走 呢 ？南边 很 危险 ！<span class="pinyin">B: Bèndàn! Nǐ zěnme ràng tā <em>wǎng</em> nán zǒu ne? Nánbiān hěn wēixiǎn!</span><span class="trans">Idiot! Why did you let him go south? Going south is dangerous!</span>
+* A: 你 <em>朝</em> 我 发 什么 火 ？我 说 了 他 不 听 。<span class="pinyin">A: Nǐ <em>cháo</em> wǒ fā shénme huǒ? Wǒ shuō le tā bù tīng.</span><span class="trans">Why are you getting mad at me? I told him but he didn't listen</span>
+* B: 不好意思 ，我 应该 <em>向</em> 你 道歉 。<span class="pinyin">B: Bù hǎoyìsi, wǒ yīnggāi <em>xiàng</em> nǐ dàoqiàn.</span><span class="trans">I'm sorry. I should apologize to you.</span>
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|现代汉语八百词（增订本）|196}}
+{{Source|现代汉语虚词例释|79, 505}}
+
+[[Category:grammar comparison]]
+{{Basic Grammar|朝|B2|朝 vs 向 vs 往|<em>往</em> 前 走 十 分 钟。<em>向</em> 雷锋 同志 学习！他 <em>朝</em> 我 笑 了 笑。|grammar point|ASGIHS2L}}
+{{Rel char|向}}
+{{Rel char|往}}
+{{Used for|Describing things}}
+{{Used for|Describing actions}}
+{{Similar|Expressing "toward" with "wang"}}
+{{Comparison|Prepositions}}

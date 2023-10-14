@@ -1,0 +1,63 @@
+<!-- An additional step with "jin yi bu" -->
+{{Grammar Box}} 
+进一步 (jìnyībù), is an adverb literally meaning "go a step forward," usually used to mean "further." It is most common in formally written Chinese, though it can be spoken as well. 
+
+== 进一步: Core Structure ==
+
+=== Structure ===
+
+It is simply placed before the verb of the sentence.
+
+<div class="jiegou">
+
+Subj. + 进一步 + Verb
+
+</div>
+
+===Examples===
+
+<div class="liju">
+
+* 我们 准备 <em>进一步</em> 扩大 中国 市场。<span class="pinyin">Wǒmen zhǔnbèi <em>jìnyībù</em> kuòdà Zhōngguó shìchǎng.</span><span class="trans">We are preparing to further expand the Chinese market.</span>
+* 这 件 事情 需要 <em>进一步</em> 调查。<span class="pinyin">Zhè jiàn shìqing xūyào <em>jìnyībù</em> diàochá.</span><span class="trans">This incident requires further investigation.</span>
+* 这 次 开会 的 内容 是 <em>进一步</em> 研究 这个 项目。<span class="pinyin">Zhè cì kāihuì de nèiróng shì <em>jìnyībù</em> yánjiū zhège xiàngmù.</span><span class="trans">The content of this meeting is to further research this project.</span>
+* 如果 你 要 在 中国 工作 ， 你 最好 <em>进一步</em> 学 汉语。<span class="pinyin">Rúguǒ nǐ yào zài Zhōngguó gōngzuò， nǐ zuìhǎo <em>jìnyībù</em> xué Hànyǔ.</span><span class="trans">If you are going to work in China, you had better further study Chinese.</span>
+* 在 一起 旅游 后 ， 我们 的 友谊 有 了 <em>进一步</em> 的 发展 。<span class="pinyin">Zài yīqǐ lǚyóu hòu, wǒmen de yǒuyì yǒu le <em>jìnyībù</em> de fāzhǎn.</span><span class="trans">After traveling together, our friendship developed further.</span>
+
+</div>
+
+== 进一步 with 又, 再, 才能, 并 ==
+
+The adverbs 又, 再, 才能, and 并 also can also be added in front of 进一步.
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + Adverb + 进一步 + Verb
+
+</div>
+
+===Examples===
+
+<div class="liju">
+
+* 这 项 设计 完成 以后 ，他们 <strong>又</strong> <em>进一步</em> 致力于 另 一 项 工程 的 设计 。<span class="pinyin">Zhè xiàng shèjì wánchéng yǐhòu, tāmen <strong>yòu</strong> <em>jìnyībù</em> zhìlì yú lìng yī xiàng gōngchéng de shèjì.</span><span class="trans">After this design was completed, they worked further on a different engineering design.</span>
+* 我们 先 在 一 所 学校 进行 教学 改革 的 试点 ， <strong>并</strong> <em>进一步</em> 推广 到 全市 的 中学 。<span class="pinyin">Wǒmen xiān zài yī suǒ xuéxiào jìnxíng jiàoxué gǎigé de shìdiǎn, <strong>bìng</strong> <em>jìnyībù</em> tuīguǎng dào quánshì de zhōngxué.</span><span class="trans">We first tested our education reform in one school, and then we further extended it to the rest of the city's middle schools.</span>
+* 先 学好 第一 外语 ，<strong>再</strong> <em>进一步</em> 学好 第二 外语 。<span class="pinyin">Xiān xuéhǎo dì-yī wàiyǔ, <strong>zài</strong> <em>jìnyībù</em> xuéhǎo dì èr wàiyǔ.</span><span class="trans">First learn your first foreign language well, then you can go on to master a second foreign language.</span>
+* 弄懂 这个 问题 之后 ，<strong>才 能</strong> <em>进一步</em> 研究 其他 问题 。<span class="pinyin">Nòng dǒng zhège wèntí zhīhòu, <strong>cái néng</strong> <em>jìnyībù</em> yánjiū qítā wèntí.</span><span class="trans">Only after you've worked out this problem can you go further and research the other problems.</span>
+* 这 篇 文章 主要 是 对 视频 进行 讨论，<strong>并</strong> <em>进一步</em> 介绍 了 这个 视频 的 拍摄 方法。<span class="pinyin">Zhè piān wénzhāng zhǔyào shì duì shìpín jìnxíng tǎolùn, <strong>bìng</strong> <em>jìnyībù</em> jièshào le zhège shìpín de pāishè fāngfǎ.</span><span class="trans">This article mainly discusses the video and also introduces the method in which the video was shot.</span>
+</div>
+
+==See also==
+
+*[["In addition" with "zaishuo" ]]
+
+== Sources and further reading ==
+
+=== Books ===
+{{Source|现代汉语八百词|309}}
+
+{{Basic Grammar|进一步||Subj. + 进一步 + Verb|我们 准备 <em>进一步</em> 扩大 中国 市场。|grammar point|ASGET76G}}
+{{Used for|Expressing degree}}
+{{POS|Adverbs}}

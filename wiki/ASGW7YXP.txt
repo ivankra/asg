@@ -1,0 +1,88 @@
+<!-- Softening the tone of questions with "ne" -->
+{{Grammar Box}} 
+We have seen before that 吧 can be used to [[Softening speech with "ba"|soften the tone of statements]],  or [[Suggestions with ba|make commands feel more like suggestions]]. 呢 works in same way, but it is used to make questions more indirect and uncertain in tone. 
+
+==呢 Used Successively with 还是==
+
+呢 can be used successively in questions using 还是.
+
+===Structure===
+
+<div class="jiegou">
+Option 1 + 呢 + 还是 + Option 2 + 呢？
+</div>
+
+===Examples===
+
+<div class="liju">
+* 我 去 缅甸 <em>呢</em>，<em>还是</em> 泰国<em>呢</em>？我 得 想 一 想！<span class="pinyin">Wǒ qù Miǎndiàn <em>ne</em>, háishì Tàiguó <em>ne</em>? Wǒ děi xiǎng yi xiǎng!</span><span class="trans">Should I go to Myanmar or Thailand? I have to think a bit!</span>
+*咱们 打 游戏 <em>呢</em> ，<em>还是</em> 泡吧 <em>呢</em> ，我 都 可以！<span class="pinyin">Zánmen dǎ yóuxì <em>ne</em>, háishì pào bā <em>ne</em>, wǒ dōu kěyǐ!</span><span class="trans">Should we play video games or go to the bar? I'm OK with either!</span>
+</div>
+
+The example sentences above almost have a tone that the speaker is talking to him/herself, as the question is not directly asked of the listener. A second verb is only necessary if different from the first verb.
+
+== 呢 with Questions Involving Interrogative Pronouns ==
+
+Interrogative pronouns, of course, include 哪儿，谁，怎么，什么, 为什么, 什么时候, etc.
+
+===Structure===
+
+<div class="jiegou">
+⋯⋯Interrogative Pronoun⋯⋯ + 呢？
+</div>
+
+===Examples===
+
+<div class="liju">
+* 这 是 谁 的 笔 <em>呢</em>?<span class="pinyin">Zhè shì shéi de bǐ <em>ne</em>?</span><span class="trans">I wonder whose pen this is?</span>
+* 他 去 哪儿 <em>了 呢</em>？<span class="pinyin">Tā qù nǎr le <em>ne</em>?</span><span class="trans">I wonder where he's going?</span>
+* 怎么 会 <em>呢</em>？<span class="pinyin">Zěnme huì <em>ne</em>?</span><span class="trans">How could that be?</span>
+</div>
+
+In the previous examples, the speaker has a tone of conjecture, a bit like saying "I wonder" in English. Again, as in the first usage, the question is not directly asked of the listener. Overusing 呢 in your questions can sound a bit feminine, though, so keep this in mind.
+
+== 呢 with "Verb 不 Verb" Questions ==
+
+If a "verb 不 verb" question is posed ''without'' 呢, it can appear as though the speaker is a bit impatient, or is ordering the listener to do something. Tone of voice used is also an important factor here, and adding 呢 can give a tone of uncertainty, which sounds less demanding and more polite.
+
+===Structure===
+
+<div class="jiegou">
+Subj. + Verb 1 + 不 + Verb 1 + (Verb 2) + 呢？
+</div>
+
+===Examples===
+
+<div class="liju">
+* 你 <strong>去 不 去</strong> 逛街 ？<span class="expl">Said as though demanding an answer, potentially in a hurry.</span><span class="pinyin">Nǐ <strong>qù bu qù</strong> guàngjiē?</span><span class="trans">Well are you going to go shopping or what?</span>
+* 你 <strong>去 不 去</strong> 逛街 <em>呢</em>？<span class="expl">Less intense, just asking a question.</span><span class="pinyin">Nǐ <strong>qù bu qù</strong> guàngjiē <em>ne</em>?</span><span class="trans">Are you going to go shopping?</span>
+
+* 牛奶 你 <strong>喝 不 喝</strong> ？<span class="expl">Said to a child, with the implication that if the milk isn't drunk, there will be consequences, with emphasis placed on 喝</span><span class="pinyin">Niúnǎi nǐ <strong>hē bu hē</strong>?</span><span class="trans">Are you gonna drink the milk or not?</span>
+* 牛奶 你 <strong>喝 不 喝</strong> <em>呢</em>？<span class="expl">Perhaps said to a friend, with no implication of coercion. Perhaps you want to clear away their cup.</span><span class="pinyin">Niúnǎi nǐ <strong>hē bu hē</strong> <em>ne</em>?</span><span class="trans">Did you want to drink that milk?</span>
+
+* 你 周末 <strong>加 不 加班</strong> ？<span class="expl">Perhaps a manager asking a subordinate. This seems like an order, perhaps implying there will be consequences for not working overtime.</span><span class="pinyin">Nǐ zhōumò <strong>jiā bu jiābān</strong>?</span><span class="trans">You're working this weekend, right?</span>
+* 你 周末 <strong>能 不 能</strong> 加班 ？<span class="expl">Perhaps a manager asking a subordinate. This is not super direct, as 能 has been added.</span><span class="pinyin">Nǐ zhōumò <strong>néng bu néng</strong> jiābān?</span><span class="trans">Can you come into work on the weekend?</span>
+* 你 周末 <strong>能 不 能</strong> 加班 <em>呢</em> ？<span class="expl">Much more indirect than the above example, implying the person really does have a choice.</span><span class="pinyin">Nǐ zhōumò <strong>néng bu néng</strong> jiābān <em>ne</em>?</span><span class="trans">Would you mind coming in on the weekend?")</span>
+</div>
+
+Remember: the exact meaning of the above sentences depends on the full context, and tone of voice is very important as well. The interpretations given are just possible examples.
+
+==See also==
+* [[Interrogative pronouns]]
+* [[Questions with "ne"]]
+* [[Sentence-final interjection "a"]]
+
+== Sources and further reading ==
+
+{{Source|A Practical Chinese Grammar For Foreigners (外国人实用汉语语法) |139-41}}
+
+[[Category: B2 grammar points]]
+[[Category: Particles]]
+{{Basic Grammar|呢|B2|⋯⋯呢？|他 人 在 哪 <em>呢</em> ？|grammar point|ASGW7YXP}}
+{{Similar|Interrogative pronouns}}
+{{Similar|Questions with ne}}
+{{Similar|Modal particle "ne"}} 
+{{Similar|Sentence-final interjection "a"}}
+{{Similar|Softening speech with "ba"}}
+{{Used for|Expressing attitude}}
+{{POS|Particles}}

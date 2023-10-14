@@ -1,0 +1,65 @@
+<!-- Expressing fractions with "fenzhi" -->
+{{Grammar Box}} 
+
+分之 (fēn zhī) is used to express fractions in Chinese. When expressing a fraction, the denominator is always said before the numerator. This pattern is also the way percentages are expressed in Chinese.
+
+So "½" is read 二分之一 (èr fēn zhī yī), literally "1 of 2 portions." Note the order: it's ''NOT'' 一分之二 (yī fēn zhī èr). So "¾" is 四分之三 (sì fēn zhī sān), and "⅚"  is 六分之五 (liù fēn zhī wǔ). To say a percentage, for example, 50 percent, you would say 百分之五十 (bǎi fēn zhī wǔshí), which is literally the same as how you would pronounce the equivalent fraction "50 hundredths."
+
+== Basic Pattern ==
+
+=== Structure ===
+
+<div class="jiegou">
+Denominator + 分之 + Numerator
+</div>
+
+Remember that the ''denominator'' is the ''bottom'' number in a fraction, but it comes ''first'' in spoken Chinese. Knowing that this order actually totally fits the overall "big to small" Chinese cultural pattern might help you to remember.
+
+=== Examples ===
+
+<div class="liju">
+
+*我 的 手机 电量 只 有 百 <em>分 之</em> 五 了 。<span class="pinyin">Wǒ de shǒujī diànliàng zhǐ yǒu bǎi <em>fēn zhī</em> wǔ le.</span><span class="trans">My phone only has 5% power left.</span>
+*这个 文件 已经 下载 了 三 <em>分 之</em> 二 。<span class="pinyin">Zhège wénjiàn yǐjīng xiàzǎi le sān <em>fēn zhī</em> èr.</span><span class="trans">This document is two-thirds downloaded.</span>
+*这 篇 文章 有 五 <em>分 之</em> 三 是 抄 别人 的 。<span class="pinyin">Zhè piān wénzhāng yǒu wǔ <em>fēn zhī</em> sān shì chāo biérén de.</span><span class="trans">Three fifths of this article has been copied from others.</span>
+*差不多 三 <em>分 之</em> 一 的 美国 人 有 护照 。<span class="pinyin">Chàbuduō sān <em>fēn zhī</em> yī de Měiguó rén yǒu hùzhào.</span><span class="trans">About one third of Americans have passports.</span>
+*我们 学校 四 <em>分 之</em> 三 的 老师 都 是 男 老师 。<span class="pinyin">Wǒmen xuéxiào sì <em>fēn zhī</em> sān de lǎoshī dōu shì nán lǎoshī.</span><span class="trans">Three fourths of the teachers at our school are male teachers.</span>
+
+</div>
+
+== Advanced Pattern ==
+
+=== Structure ===
+
+This structure is what you'll often see in news stories that use statistics. The word 占 (zhàn) is a bit more formal, and means something like "comprises" or "makes up" or "accounts for."
+
+<div class="jiegou">
+A + 是 / 占 + B + 的 + Denominator + 分之 + Numerator
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我们 公司 的 外国 员工 <strong>占</strong> 三 <em>分 之</em> 一 。<span class="pinyin">Wǒmen gōngsī de wàiguó yuángōng <strong>zhàn</strong> sān <em>fēn zhī</em> yī.</span><span class="trans">One third of our company's employees are foreigners.</span>
+*美国 人口 <strong>是</strong> 中国 的 五 <em>分 之</em> 一 。<span class="pinyin">Měiguó rénkǒu <strong>shì</strong> Zhōngguó de wǔ <em>fēn zhī</em> yī.</span><span class="trans">The USA's population is one fifth of China's.</span>
+*押金 <strong>是</strong> 房租 的 百 <em>分 之</em> 二十 。<span class="pinyin">Yājīn <strong>shì</strong> fángzū de <em>bǎifēn zhī</em> èrshí.</span><span class="trans">The deposit is 20% of the rent.</span>
+*期末 考试 成绩 <strong>占</strong> 总 成绩 的 百 <em>分 之</em> 三十 。 <span class="pinyin">Qīmò kǎoshì chéngjì <strong>zhàn</strong> zǒng chéngjì de bǎi <em>fēn zhī</em> sānshí.</span><span class="trans">The final exam grade accounts for 30% of the final grade.</span>
+*在 美国 ，全职 妈妈 差不多 <strong>占</strong> 五 <em>分 之</em> 二 。<span class="pinyin">Zài Měiguó, quánzhí māma chàbuduō <strong>zhàn</strong> wǔ <em>fēn zhī</em> èr.</span><span class="trans">In the US, full-time mothers are about two fifths of all mothers.</span>
+
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Chinese: An Essential Grammar, Second Edition|18}}
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|152-3}} 
+
+[[Category: B1 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|分之|B1|Denominator + 分之 + Numerator|在 我们 班 ，外国 学生 占 三 <em>分 之</em> 一 。|grammar point|ASG84RE9}}
+{{Rel char|之}}
+{{Used for|Expressing quantity}}
+{{Similar|Expressing "multiples" with "bei"}}
+{{POS|Numbers}}

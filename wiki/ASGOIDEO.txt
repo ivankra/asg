@@ -1,0 +1,161 @@
+<!-- Aspect particle "zhe" -->
+{{Grammar Box}} 
+
+The particle 着 (zhe) is one way of indicating the ''continuous aspect'' in Mandarin Chinese (another common way is [[Expressing actions in progress|using the adverb 在 in front of verbs]]).  You may have heard that the Chinese particle 着 added onto the end of verbs is similar to the use of ''-ing'' in English.  This isn't particularly helpful, however, because the use of 着 in Chinese is not nearly so commonly used, and can also be quite idiomatic.
+
+== Basic Usage ==
+
+The main idea here is that the action won't just happen and stop immediately; it will continue for a while.
+
+=== Structure ===
+
+<div class="jiegou">
+Verb + 着
+</div>
+
+=== Examples ===
+
+This basic pattern is often used with commands involving certain verbs where the action persists for a while.
+
+<div class="liju">
+
+*我 读 ，你 听 <em>着</em> 。<span class="pinyin">Wǒ dú, nǐ tīng <em>zhe</em>.</span><span class="trans">I'll read, and you listen.</span>
+*我们 做 ，你们 看 <em>着</em> 。<span class="pinyin">Wǒmen zuò, nǐmen kàn <em>zhe</em>.</span><span class="trans">We will do it, and you all watch.</span>
+*你们 坐 <em>着</em> ，我 马上 回来 。<span class="pinyin">Nǐmen zuò <em>zhe</em>, wǒ mǎshàng huílái.</span><span class="trans">Sit for a while. I'll be right back.</span>
+*我 出去 一下 ，你 帮 我 看 <em>着</em> 行李 。<span class="pinyin">Wǒ chūqù yīxià, nǐ bāng wǒ kān <em>zhe</em> xíngli.</span><span class="trans">I'll go out for a second, and you watch the luggage for me.</span>
+
+</div>
+
+== Used for Manner or State in which an Action is Performed ==
+
+This pattern is used when you want to use one verb to describe how ''another'' action is performed.
+
+=== Structure ===
+
+<div class="jiegou">
+Verb 1 + 着 + Verb 2
+</div>
+
+Note that the '''first verb''' (followed by 着) describes the '''state'''; the second verb is the action verb. In this case, the "-ing" translation can be useful for the state.
+
+=== Examples ===
+
+<div class="liju">
+
+*她 喜欢 站 <em>着</em> 吃饭 。<span class="expl">"standing + eat = eating while standing"</span><span class="pinyin">Tā xǐhuan zhàn <em>zhe</em> chīfàn.</span><span class="trans">She likes to eat standing up.</span>
+*他 笑 <em>着</em> 说 “对不起” 。<span class="expl">"smiling + say = saying "I'm sorry" while smiling</span><span class="pinyin">Tā xiào <em>zhe</em> shuō "duìbuqǐ".</span><span class="trans">Smiling, he said, "I'm sorry."</span>
+*孩子 抱 <em>着</em> 爸爸 哭 了 起来 。<span class="expl">"hugging + cry = crying while hugging</span><span class="pinyin">Háizi bào <em>zhe</em> bàba kū le qǐlái.</span><span class="trans">Hugging his daddy, the child started to cry.</span>
+
+</div>
+
+'''Note:''' If you want to make a sentence where both verbs are action verbs (neither is truly a state), then you don't want this pattern; you want [[Simultaneous tasks with "yibian"|一边⋯⋯，一边⋯⋯ (yībiān..., yībiān...)]].
+
+== Used for Continuous State ==
+
+While it's true that the "[[Expressing actions in progress (full form)|full progressive pattern]]" can make use of 着, this is not a pattern you're going to want to use all the time. 
+
+=== Usage Examples ===
+
+The verbs most commonly used with 着 are the ones below:
+
+*开 (kāi) alone can mean "to open" or "to turn on." Adding 着 allows one to express that something "is open" or "is on."
+
+*关 (guān) alone can mean "to close" or "to turn off." Adding 着 allows one to express that something "is closed" or "is off."
+
+*穿 (chuān) alone means "to wear." Adding 着 allows one to express that one "is wearing" something (on one's person).
+
+*戴 (dài) alone means "to wear" (an accessory). Adding 着 allows one to express that one "is wearing" a hat, jewelry, or accessory (on one's person).
+
+*躺 (tǎng) alone means "to lie on one's back." Adding 着 allows one to express that someone "is lying down."
+
+=== Sentence Examples ===
+
+<div class="liju">
+
+<ul>
+<li class="o">公司 的 门 开 <em>着</em> ，可是 没 人 在 。<span class="expl">"Being open" is a state, so using 着 is natural.)</span><span class="pinyin">Gōngsī de mén kāi <em>zhe</em>, kěshì méi rén zài.</span><span class="trans">The office door is open but no one is in there.</span></li>
+<li class="x">公司 的 门 <em>在</em> 开 ，可是 没 人 在 。<span class="expl">"Being open" is not an action, so don't use 在.)</span><span class="pinyin">Gōngsī de mén <em>zài</em> kāi, kěshì méi rén zài.</span></li>
+</ul>
+
+<ul>
+<li class="o">她 穿 <em>着</em> 一 条 小 黑 裙 。<span class="expl">"Be wearing" is a state, so using 着 is natural.)</span><span class="pinyin">Tā chuān <em>zhe</em> yī tiáo xiǎo hēi qún.</span><span class="trans">She's wearing a little black dress.</span></li>
+<li class="x">她 <em>在</em> 穿 一 条 小 黑 裙 。<span class="expl">"Be wearing" is not an action, so don't use 在.)</span><span class="pinyin">Tā <em>zài</em> chuān yī tiáo xiǎo hēi qún.</span></li>
+</ul>
+
+<ul>
+<li class="o">躺 <em>着</em> 最 舒服 。<span class="expl">"Lying down" is a state, so using 着 is natural.)</span><span class="pinyin">Tǎng <em>zhe</em> zuì shūfu.</span><span class="trans">It's most comfortable just lying down.</span></li>
+<li class="x"><em>在</em> 躺 最 舒服 。<span class="expl">"Lying here" is not strictly an action, so don't use 在.)</span><span class="pinyin"><em>Zài</em> tǎng zuì shūfu.</span></li>
+</ul>
+
+</div>
+
+== Colloquial Sayings ==
+
+Certain verbs tend to take 着 more frequently than others, and what the 着 exactly is ''doing'' might not be apparent at all.  It's best to think of these usages as set phrases.
+
+=== Examples ===
+
+<div class="liju">
+
+*听 <em>着</em> ! <span class="expl">"to listen and keep listening"</span><span class="pinyin">Tīng <em>zhe</em>!</span>
+*别 客气 ，拿 <em>着</em> 吧 。<span class="expl">"to take and keep it"</span><span class="pinyin">Bié kèqi, ná <em>zhe</em> ba.</span>
+*你们 等 <em>着</em> ! <span class="expl">"to wait and keeping waiting"</span><span class="pinyin">Nǐmen děng <em>zhe</em>!</span>
+
+</div>
+
+=== Verb + 着 + 玩 "For Fun" ===
+
+There's also one colloquial usage of 着 that's often chosen for special treatment by Chinese textbooks, so we'll cover it here as well:
+
+<div class="jiegou">
+Subj. + 是 + Verb + 着 + 玩 + 的
+</div>
+
+This pattern may look like that "doing an action in a particular state" pattern already covered above, but in practice it doesn't really work that way.  It just means "[Verb] for fun" or "[Verb] as a joke."
+
+=== Examples of Verb + 着 + 玩  ===
+
+<div class="liju">
+
+*你 不要 生气 ，我 是 说 <em>着</em> 玩 的 。<span class="pinyin">Nǐ bùyào shēngqì, wǒ shì shuō <em>zhe</em> wán de!</span><span class="trans">Don't be mad. I was just joking.</span>
+*我 听不懂 英文 歌 ，只 是 听 <em>着</em> 玩 的 。<span class="pinyin">Wǒ tīng bu dǒng Yīngwén gē, zhǐshì tīng <em>zhe</em> wán de.</span><span class="trans">I don't understand English songs. I just listen to them for fun.</span>
+
+</div>
+
+== See also ==
+
+* [[Expressing actions in progress]]
+* [[Expressing actions in progress (full form)]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|100}}
+{{Source|HSK Standard Course 3|32}}
+{{Source|A Practical Chinese Grammar For Foreigners (外国人实用汉语语法) |414 - 423}} 
+{{Source|Chinese: An Essential Grammar, Second Edition|89}}
+{{Source|Mandarin Chinese: A Functional Reference Grammar|217 - 225}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|242-3}}
+{{Source|Integrated Chinese: Level 2, Part 2|17}}
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2)|238-9}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|255}}
+
+=== Websites ===
+
+* About.com: [http://mandarin.about.com/od/grammar/a/aspect.htm Mandarin Chinese Aspect]
+* ChinesePod: [http://chinesepod.com/lessons/the-%E7%9D%80-zhe-chronicles-how-we-verb Qing Wen - The 着 (zhe) Chronicles: How We Verb] (free content)
+* ChinesePod: [http://chinesepod.com/lessons/the-%E7%9D%80-zhe-chronicles-actions-in-progress Qing Wen - The 着 (zhe) Chronicles: Actions in Progress] (free content)
+* ChinesePod: [http://chinesepod.com/lessons/the-%E7%9D%80-zhe-chronicles-verbs-as-states Qing Wen - The 着 (zhe) Chronicles: Verbs as States] (free content)
+
+[[Category:B1 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{HSK|HSK3}}
+{{Basic Grammar|着|B1|Verb + 着|我 读 ，你 听 <em>着</em> 。|grammar point|ASGOIDEO}}
+{{Similar|Expressing actions in progress}}
+{{Similar|"Verbing away" using "zhe"}}
+{{Similar|Simultaneous tasks with "yibian"}}
+{{Similar|Expressing actions in progress (full form)}}
+{{Used for|Expressing duration}}
+{{Used for|Indicating conditions}}
+{{POS|Particles}}

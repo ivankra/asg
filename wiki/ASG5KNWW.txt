@@ -1,0 +1,51 @@
+<!-- Topic-comment sentences -->
+{{Grammar Box}} 
+
+In a topic-comment sentence, the usual [[word order]] is rearranged a bit, in order to emphasize a certain part of a sentence.  The part that is to be emphasized becomes the topic and moves to the beginning of the sentence, with the comment on the topic coming after the topic has been stated.
+
+== Structure ==
+
+<div class="jiegou">
+Topic ，Comment
+</div>
+
+== Examples ==
+
+Just make sure to put a comma after the topic if you are writing the sentence down!
+
+<div class="liju">
+
+*<em>水果</em> ，我 最爱 吃 草莓 。<span class="pinyin"><em>Shuǐguǒ</em>, wǒ zuì ài chī cǎoméi.</span><span class="trans">Fruit, I like strawberries best.</span>
+*不 好意思 ，<em>咖啡</em> ，我 都 喝完 了 。<span class="pinyin">Bù hǎoyìsi, <em>kāfēi</em>, wǒ dōu hē wán le.</span><span class="trans">I'm sorry. I finished all the coffee.</span>
+*你好 ，<em>票</em> ，还有 吗 ？<span class="pinyin">Nǐhǎo, <em>piào</em>, háiyǒu ma?</span><span class="trans">Hello. Are there any tickets left?</span>
+*<em>这个 问题 </em> ，你 一个人 没办法 解决 。<span class="pinyin"><em>Zhège wèntí</em>, nǐ yīgèrén méi bànfǎ jiějué.</span><span class="trans">There is no way that you can solve this problem all by yourself.</span>
+*<em>那 部 电影 </em> ，看 过 的 人 都 喜欢 。<span class="pinyin"><em>Nà bù diànyǐng</em>, kàn guo de rén dōu xǐhuan.</span><span class="trans">All the people that have watched that movie like it.</span>
+*<em>这个 新 项目</em> ，公司 打算 让 我 来 负责 。<span class="pinyin"><em>Zhège xīn xiàngmù</em>, gōngsī dǎsuàn ràng wǒ lái fùzé.</span><span class="trans">The company plans to let me take charge of this new project.</span>
+*<em>你 借 我 的 钱</em> ，还没 还 吧 ？<span class="pinyin"><em>Nǐ jiè wǒ de qián</em>, hái méi huán ba?</span><span class="trans">You haven't returned the money you borrowed from me, right?</span>
+*<em>他 的 事</em> ，我 不 想 管 那么 多 。<span class="pinyin"><em>Tā de shì</em>, wǒ bù xiǎng guǎn nàme duō.</span><span class="trans">I don't want to be so involved in his business.</span>
+*<em>明天 下午 要 开会</em> ，你 记得 吧 ？<span class="pinyin"><em>Míngtiān xiàwǔ yào kāi huì</em>, nǐ jìde ba?</span><span class="trans">You have a meeting tomorrow afternoon. You remember, don't you?</span>
+*<em>我 的 笔</em> ，弟弟 弄坏 了 。<span class="pinyin"><em>Wǒ de bǐ</em>, dìdi nòng huài le.</span><span class="trans">My younger brother broke my pen.</span>
+
+</div>
+
+== See also ==
+
+* [[Marking a topic with "de hua"]]
+* [[Marking a topic with "ma"]]
+
+== Sources and  further reading ==
+
+=== Books ===
+
+{{Source|Chinese: An Essential Grammar, Second Edition|149-50}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|260}}
+{{Source|Integrated Chinese: Level 2, Part 1|83-4}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|353-4}} 
+
+[[Category:B1 grammar points]]
+{{HSK|HSK0}}
+{{Basic Grammar|none|B1|Topic，Comment|<em>那 部 电影 </em> ，看 过 的 人 都 喜欢 。|grammar point|ASG5KNWW}}
+{{Similar|Marking a topic with "de hua"}}
+{{Similar|Marking a topic with "ma"}}
+{{Used for|Marking a topic}}
+{{Structure|Sentence Patterns}}

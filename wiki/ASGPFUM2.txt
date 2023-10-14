@@ -1,0 +1,62 @@
+<!-- Expressing "both A and B" with "you" -->
+{{Grammar Box}} 
+When you're getting descriptive, you may find yourself wanting to use multiple [[adjective]]s at a time. The character 又 (yòu) can be used to give two qualities to something. Using the double 又 (yòu) structure is like saying that something is "both… and…" in English. 
+
+== Structure ==
+
+The structure in Chinese is:
+
+<div class="jiegou">
+
+Subj. + 又 + Adj. 1 + 又 + Adj. 2
+
+</div>
+
+The two words shouldn't contrast in feeling. It is important to note they must both be bad or both be good.
+
+== Examples ==
+
+<div class="liju">
+
+*她 男朋友 <em>又</em> 高 <em>又</em> 帅。<span class="pinyin">Tā nánpéngyou <em>yòu</em> gāo <em>yòu</em> shuài.</span><span class="trans">Her boyfriend is both tall and handsome.</span>
+*这 个 房子 <em>又</em> 大 <em>又</em> 亮。<span class="pinyin">Zhège fángzi <em>yòu</em> dà <em>yòu</em> liàng.</span><span class="trans">This house is both big and bright.</span>
+*妈妈 的 头发 <em>又</em>  黑 <em>又</em> 亮。<span class="pinyin">Māma de tóufa <em>yòu</em> hēi <em>yòu</em> liàng.</span><span class="trans">Mom's hair is both black and shiny.</span>
+*我 姐姐 <em>又</em> 聪明 <em>又</em> 漂亮。<span class="pinyin">Wǒ jiějie <em>yòu</em> cōngming <em>yòu</em> piàoliang.</span><span class="trans">My older sister is both smart and beautiful.</span>
+*中国 菜 <em>又</em> 便宜 <em>又</em> 好吃。<span class="pinyin">Zhōngguó cài <em>yòu</em>  piányi <em>yòu</em> hǎochī.</span><span class="trans">Chinese food is both cheap and good-tasting.</span>
+*你们 老板 <em>又</em>  年轻 <em>又</em> 有钱。<span class="pinyin">Nǐmen lǎobǎn <em>yòu</em> niánqīng <em>yòu</em> yǒuqián.</span><span class="trans">Your boss is both young and rich.</span>
+*这里 的 咖啡 <em>又</em>  贵 <em>又</em> 难喝。<span class="pinyin">Zhèlǐ de kāfēi <em>yòu</em> guì <em>yòu</em> nánhē.</span><span class="trans">The coffee here is both expensive and bad-tasting.</span>
+*我 家 小狗 <em>又</em> 可爱 <em>又</em> 听话。<span class="pinyin">Wǒ jiā xiǎogǒu <em>yòu</em> kě'ài <em>yòu</em> tīnghuà.</span><span class="trans">My family's dog is both cute and obedient.</span>
+*上海 的 冬天 <em>又</em> 冷 <em>又</em> 湿。<span class="pinyin">Shànghǎi de dōngtiān <em>yòu</em> lěng <em>yòu</em> shī.</span><span class="trans">Winter here in Shanghai is both cold and humid.</span>
+*她 小时候 <em>又</em>  矮 <em>又</em> 瘦。<span class="pinyin">Tā xiǎoshíhou <em>yòu</em> ǎi <em>yòu</em> shòu.</span><span class="trans">She was both short and thin when she was young.  </span>
+
+</div>
+
+==See also==
+
+*[[Simultaneous tasks with "yibian"]]
+*[[Expressing "not only… but also"]]
+*[["Both… and…" with "ji"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|32}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|122}}
+{{Source|Integrated Chinese: Level 2, Part 1|87}}
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|66}} 
+
+[[Category:A2 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|又|A2|又⋯⋯ 又⋯⋯|他 <em>又</em> 高 <em>又</em> 帅。|grammar point|ASGPFUM2}}
+{{Rel char|又}}
+{{Similar|Simultaneous tasks with "yibian"}}      
+{{Similar|Expressing "Not Only… But Also"}}      
+{{Similar|"Both… and…" with "ji"}}
+{{Similar|Simple "noun + adjective" sentences}}
+{{Similar|Repeated actions in the past with "you"}}
+{{POS|Adverbs with Adjectives}}
+{{Used for| Expressing quality}}
+{{Used for|Describing things}}
+{{Translation|both}}
+{{Translation|and}}

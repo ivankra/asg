@@ -1,0 +1,53 @@
+<!-- Using "because" with "er" to indicate effect -->
+{{Grammar Box}} 
+因为⋯⋯，而⋯⋯ (yīnwèi... ér...) is another structure that can express cause and effect.
+
+== Structure ==
+
+<div class="jiegou">
+Subj. + 因(为) + Cause + 而 + Result
+</div>
+
+Sometimes, 因为 can be shortened to just 因. This is used more in sentences that are meant to be shorter and more succinct.
+
+== Examples ==
+
+<div class="liju">
+* 我 <em>因为</em> 生病 <em>而</em> 请假。<span class="pinyin>Wǒ <em>yīnwèi</em> shēngbìng <em>ér</em> qǐngjià.</span><span class="trans">Because I got sick, I asked for time off.</span>
+* 欧洲 的 经济 <em>因为</em> 债务 危机 <em>而</em> 陷入 衰退。<span class="pinyin>Ōuzhōu de jīngjì <em>yīnwèi</em> zhàiwù wéijī <em>ér</em> xiànrù shuāituì.</span><span class="trans">Because Europe is suffering a debt crisis, it is falling into decline.</span>
+* 外婆 只是 <em>因为</em> 孩子 顽皮 <em>而</em> 想 吓唬 他 一下 。<span class="pinyin">Wàipó zhǐshì <em>yīnwèi</em> háizi wánpí <em>ér</em> xiǎng xiàhu tā yīxià.</span><span class="trans">Because the kid was being so naughty, granny just wanted to scare him a little.</span>
+* 男 女朋友 之间 经常 <em>因为</em> 吃醋 <em>而</em> 吵架 。<span class="pinyin">Nán-nǚpéngyou zhījiān jīngcháng <em>yīnwèi</em> chīcù <em>ér</em> chǎojià.</span><span class="trans">Boyfriends and girlfriends frequently argue because of jealousy.</span>
+* 首相 <em>因为</em> 受贿 丑闻 <em>而</em> 下 了 台。<span class="pinyin>Shǒuxiàng <em>yīnwèi</em> shòuhuì chǒuwén <em>ér</em> xià le tái.</span><span class="trans">Because the prime minister's bribery scandal, he fell from power.</span>
+* 伦敦 地铁 <em>因</em> 罢工 <em>而</em> 处于 瘫痪 状态。<span class="pinyin>Lúndūn dìtiě <em>yīn</em> bàgōng <em>ér</em> chǔyú tānhuàn zhuàngtài.</span><span class="trans">Because of the London Underground strike, it's in a state of paralysis.</span>
+* 妈妈 <em>因</em> 小朋友 的 陪伴， <em>而</em> 忘记 了 生活 的 不 愉快 。<span class="pinyin">Māma <em>yīn</em> xiǎopéngyou de péibàn, <em>ér</em> wàngjì le shēnghuó de bù yúkuài.</span><span class="trans">Because her children are with her, Mom can forget the unpleasantness of life.</span>
+* 他 <em>因为</em> 熬夜 <em>而</em> 精神 不 能 集中。<span class="pinyin">Tā <em>yīnwéi</em> áoyè <em>ér</em> jīngshén bù néng jízhōng.</span><span class="trans">He stayed up too late and thus could not concentrate.</span>
+* 这 家 餐厅 <em>因</em> 火锅 <em>而</em> 出名。<span class="pinyin">Zhè jiā cāntīng <em>yīn</em> huǒguō <em>ér</em> chūmíng.</span><span class="trans">This restaurant is famous for its hotpot.</span>
+* 生活 <em>因</em> 你 <em>而</em> 精彩。<span class="pinyin">Shēnghuó <em>yīn</em> nǐ <em>ér</em> jīngcǎi.</span><span class="trans">Life is wonderful because of you.</span>
+</div>
+
+==See also==
+
+*[[Cause and effect with "yinwei" and "suoyi"]]
+*[[Explaining results with "suoyi"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|New Practical Chinese Reader 5 (新实用汉语课本5)|92}}
+
+=== Websites ===
+
+* Yale Chinese Usage Dictionary: [http://comet.cls.yale.edu/chineseusagedictionary/0235.html Usage of 而]
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|因为|C1|因为⋯⋯ ，而⋯⋯|饭店 <em>因为</em> 物价 上涨 <em>而</em> 涨价 。|grammar point|ASGL1V0A}}
+{{Rel char|而}}
+{{Similar|Cause and effect with "yinwei" and "suoyi"}}
+{{Similar|Expressing "as a result" with "jieguo"}}
+{{Similar|"Since" with "jiran"}}  
+{{Used for|Indicating cause and effect}}
+{{Used for|Indicating conditions}}
+{{Used for|Sequencing events in time}}
+{{Translation|because}}
+{{Structure|Cause/Effect Statements}}

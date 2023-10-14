@@ -1,0 +1,74 @@
+<!-- Expressing "all" with "fanshi" -->
+{{Grammar Box}} 
+凡是(fánshì)，副词，指在某个范围内的所有事物或情况，没有例外，意思是"只要是"。用于句子的开头，用来修饰名词或名词性词组，口语中常和"就、都、一律"等搭配使用。
+
+== Basic Pattern ==
+
+=== Structure ===
+
+<div class="jiegou">
+凡是 + Noun + 都 / 就 / 一律 + Predicate
+</div>
+
+=== Examples ===
+
+*凡是 with 都:
+
+<div class="liju">
+*<em>凡是</em> 用 鸡蛋 做 的 菜 ，他 <strong>都</strong> 不 喜欢 。<span class="trans">As long as the food is made of egg, he wouldn't like.</span>
+*<em>凡是</em> 不 听话 的 孩子 <strong>都</strong> 没有 糖 吃 。<span class="trans">As long as the kid doesn't behave well, he won't get any candy to eat.</span>
+*<em>凡是</em> 会员 <strong>都</strong> 有 折扣 。<span class="trans">As long as you have a membership, you can benefit from a discount.</span>
+</div>
+
+*凡是 with 就:
+
+<div class="liju">
+*<em>凡是</em> 美国 公民 <strong>就</strong> 可以 投票 ，这 是 真的 吗 ？<span class="trans">As long as you're an American citizen, you can vote. Is this true?</span>
+*<em>凡是</em> 提前 三天 报名 的 人 <strong>就</strong> 可以 免费 入场 。<span class="trans">As long as you sign up three days in advance, you can enter free of charge.</span>
+</div>
+
+*凡是 with 一律:
+
+<div class="liju">
+*<em>凡是</em> 没有 体检 的 人 <strong>一律</strong> 不能 献血 。<span class="trans">As long as you haven't take an physical examination, you can't donate blood.</span>
+*<em>凡是</em> 杀 了 人 的 人 <strong>一律</strong> 判死刑 ，这是 真的 吗 ？<span class="trans">As long as you kill someone, you will be sentenced to death. Is that true?</span>
+</div>
+
+== Advaned Pattern ==
+
+=== Structure ===
+
+凡是 can also be used with 无不 and 均. 无不 literally means 没有一个不, which gives a stronger tone of emphasis. 均 simply means 都 in written language. 
+
+凡 is used more in written language than 凡是. 
+
+<div class="jiegou">
+凡(是) + Noun + 无不 / 均 + Predicate
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*<em>凡是</em> 听说 这件事 的 人 <strong>无不</strong> 惊讶 。<span class="trans">Everyone is surprised as long as they've heard about this.</span>
+*<em>凡是</em> 看 过 他 的 表演 的 人 <strong>无不</strong> 赞叹 他 的 演技 。<span class="trans">Everyone are amazed by his acting skills as long as they've seen his acting.</span>
+*<em>凡</em> 质量 不合格 的 产品 <strong>均</strong> 须 退回 。<span class="trans">The product must be returned as long as it's not qualified.</span>
+*<em>凡</em> 使用 兴奋剂 的 运动员 <strong>均</strong> 会 受到 严重 惩罚 。<span class="trans">As long as the athletes take stimulants, they will be punished very seriously.</span>
+</div>
+
+== See also ==
+
+*[[Expressing "as long as" with "zhiyao"]]
+*[[Expressing "every" with "mei"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+[[Category:C1 grammar points]]
+[[Category: Adverbs]]
+{{Basic Grammar|凡是|C1|凡是 + Noun 都 / 就 / 一律 + Predicate|<em>凡是</em> 不 听话 的 孩子 <strong>都</strong> 没有 糖 吃 。|grammar point|ASG38F8A}}
+{{Translation|all}}
+{{Translation|whenever}}
+{{Similar|Expressing "as long as" with "zhiyao"}}
+{{Similar|Expressing "every" with "mei"}}
+{{POS|Adverbs}}

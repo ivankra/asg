@@ -1,0 +1,105 @@
+<!-- Making judgments with "suan" -->
+{{Grammar Box}} 
+
+The word 算 (suàn) has a number of uses which can be translated in a number of ways. The common theme is that 算 indicates some kind of judgment and may be thought of as "counts as" or "is considered to be."
+
+== Used with a Noun ==
+
+This essentially expresses that one "considers" something to be something else, as in, "I consider her a genius." 
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. (+ 不) + 算 + Noun
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*她 <em>算</em> 天才 。<span class="pinyin">Tā <em>suàn</em> tiāncái.</span><span class="trans">She is considered a genius.</span>
+*这 <em>算</em> 秘密 吗 ？<span class="pinyin">Zhè <em>suàn</em> mìmì ma?</span><span class="trans">Is this considered a secret?</span>
+*她 <em>算</em> 不 <em>算</em> 你 女朋友 ？<span class="pinyin">Tā <em>suàn</em> bu <em>suàn</em> nǐ nǚpéngyou?</span><span class="trans">Can she be considered your girlfriend or not?</span>
+*美国 的 中国 菜 <em>算</em> 中国 菜 吗 ？<span class="pinyin">Měiguó de Zhōngguó cài <em>suàn</em> Zhōngguó cài ma?</span><span class="trans">Can American Chinese food be considered Chinese food?</span>
+*我们 认识 ，但是 不 <em>算</em> 朋友 。<span class="pinyin">Wǒmen rènshi, dànshì bù <em>suàn</em> péngyou.</span><span class="trans">We know each other, but can't be considered friends.</span>
+
+</div>
+
+== Used with an Adjective ==
+
+=== Affirmative Form ===
+
+算 can also be used with an adjective. It adds a sense of "comparatively speaking," as in, "in the grand scheme of things, this counts as...."
+
+==== Structure ====
+
+<div class="jiegou">
+Subj. + 算 + Adj. + 的
+</div>
+
+==== Examples ====
+
+<div class="liju">
+
+*这 家 店 的 东西 <em>算</em> 便宜 <strong>的</strong> 。<span class="pinyin">Zhè jiā diàn de dōngxi <em>suàn</em> piányi <strong>de</strong>.</span><span class="trans">The things in this shop are pretty cheap.</span>
+*我 女儿 <em>算</em> 听话 <strong>的</strong> 。<span class="pinyin">Wǒ nǚér <em>suàn</em> tīnghuà <strong>de</strong>.</span><span class="trans">My daughter pretty much does what she's told.</span>
+*在 我们 公司 ，我 <em>算</em> 年轻 <strong>的</strong> 。<span class="pinyin">Zài wǒmen gōngsī, wǒ <em>suàn</em> niánqīng <strong>de</strong>.</span><span class="trans">I'm considered young in our company.</span>
+*你 老板 <em>算</em> 大方 <strong>的</strong> ，我 老板 更 小气 。<span class="pinyin">Nǐ lǎobǎn <em>suàn</em> dàfang <strong>de</strong>, wǒ lǎobǎn gèng xiǎoqì.</span><span class="trans">Your boss could be said to be generous. My boss is even stingier.</span>
+
+</div>
+
+=== Negative Form ===
+
+This is essentially a straight negation of the affirmative form, but because it's so commonly used, it's worth giving providing extra examples. 
+
+==== Structure ====
+
+<div class="jiegou">
+Subj. + 不 + 算 + Adj.
+</div>
+
+Note that you don't need add a 的 here.
+
+==== Examples ====
+
+<div class="liju">
+
+*这 次 考试 <em>不 算</em> 难 。<span class="pinyin">Zhè cì kǎoshì <em>bù suàn</em> nán.</span><span class="trans">This exam isn't that difficult.</span>
+*三十 岁 结婚 <em>不 算</em> 晚 。<span class="pinyin">Sānshí suì jiéhūn <em>bù suàn</em> wǎn.</span><span class="trans">Getting married when you're 30 can't be considered late. </span>
+*他 才 一 米 七 五 ，<em>不 算</em> 高 。<span class="pinyin">Tā cái yī mǐ qī wǔ, <em>bù suàn</em> gāo.</span><span class="trans">He's only 1.75 meters tall. He can't be considered very tall.</span>
+*剪 个 头发 五十 块 ，<em>不 算</em> 贵 。<span class="pinyin">Jiǎn gè tóufa wǔshí kuài, <em>bù suàn</em> guì.</span><span class="trans">Fifty kuai for a haircut. It can't be considered expensive.</span>
+
+</div>
+
+== Adding a Tone of Reluctance with 算是 ==
+
+For both the noun and adjective patterns above, the "judgment" indicated by 算 can be made more reluctant by following 算 immediately with a 是.
+
+<div class="liju">
+<ul>
+<li class="o">他 <em>算</em> 天才 。<span class="pinyin">Tā <em>suàn</em> tiāncái.</span><span class="trans">He is considered a genius.</span></li>
+<li class="o">他  <em>算</em> <strong>是</strong> 天才 。<span class="pinyin">Tā <em>suàn</em> <strong>shì</strong> tiāncái.</span><span class="trans">You could say he's a genius (I guess).</span></li>
+</ul>
+</div>
+
+== Colloquial Sayings ==
+
+A few common examples:
+
+<div class="liju">
+
+*<em>算</em> 你 狠！<span class="pinyin"><em>Suàn</em> nǐ hěn!</span><span class="trans">Well aren't you tough!</span>
+*你 <em>算</em> 老几 ？<span class="pinyin">Nǐ <em>suàn</em> lǎojǐ?</span><span class="trans">So you think you're some kind of big shot?</span>
+*这 <em>不 算</em> 什么 。<span class="pinyin">Zhè <em>bù suàn</em> shénme.</span><span class="trans">It's no big deal.</span>
+
+</div>
+
+[[Category:B1 grammar points]]
+{{HSK|HSK5}}
+{{Basic Grammar|算|B1|Subj. + 算 + Adj. + 的|在 我们 公司 ，我 <em>算</em> 年轻 的 。|grammar point|ASGWDWFN}}
+{{Similar|Expressing "rather" with "bijiao"}}  
+{{Used for|Adding more explanation}}
+{{Used for|Expressing quality}}
+{{POS|Verbs}}
+{{Translation|consider}}
+{{Translation|count}}

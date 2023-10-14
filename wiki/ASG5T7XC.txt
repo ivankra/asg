@@ -1,0 +1,77 @@
+<!-- Causative verbs -->
+{{Grammar Box}} 
+
+Causative verbs are used to cause or influence people to do things. In English, these are verbs like "make," "let," "have," and "get," when used in a sentence like "get Billy to eat a live worm." 
+
+The most common causative verbs in Chinese are:
+
+* 让 (ràng)
+* 叫 (jiào)
+* 请 (qǐng)
+* 使 (shǐ)
+
+== Structure ==
+
+<div class="jiegou">
+Subj. + [Causative Verb] + Person + Predicate
+</div>
+
+The [[predicate]] part of the pattern can be a verb or an adjective.
+
+使 (shǐ) and 让 (ràng), when used as causative verbs, basically mean the same thing ("to make"), but 使 (shǐ) is used in more formal or written Chinese, while 让 (ràng) is used more in spoken Chinese.
+
+== "Make" vs. "Let" ==
+
+It's worth noting that 让 is the most common causative verb in spoken Mandarin and is often translated into English as either "make" or "let." It may seem strange to speakers of English that these two very different words are the same word in Chinese. "Make" is kind of like forcing, and "let" is kind of like allowing, right? But in Chinese, the context generally makes clear how willing the object of the causative verb is. It's just something that takes time for learners to get used to.
+
+== Examples ==
+
+<div class="liju">
+
+*你 为什么 不 <em>让</em> 我 去 ？<span class="pinyin">Nǐ wèishénme bù <em>ràng</em> wǒ qù?</span><span class="trans">Why won't you let me go?</span>
+*这 部 电影 <em>让</em> 人 很 感动 。<span class="pinyin">Zhè bù diànyǐng <em>ràng</em> rén hěn gǎndòng.</span><span class="trans">This movie really moves people.</span>
+*那个 老人 <em>让</em> 我 想到 了 我 爷爷 。<span class="pinyin">Nàge lǎorén <em>ràng</em> wǒ xiǎng dào le wǒ yéye.</span><span class="trans">That old man made me think of my grandpa.</span>
+*他 不 听话 ，你 <em>叫</em> 我 怎么办 ？<span class="pinyin">Tā bù tīnghuà, nǐ <em>jiào</em> wǒ zěnmebàn?</span><span class="trans">He won't listen. What would you have me do?</span>
+*他 偷偷 约 别的 女孩 ，你 <em>叫</em> 我 怎么 想 ？<span class="pinyin">Tā tōutōu yuē bié de nǚhái, nǐ <em>jiào</em> wǒ zěnme xiǎng?</span><span class="trans">He secretly asked other girls out. Tell me what I'm supposed to think.</span>
+*你 儿子 在 学校 的 表现 <em>叫</em>  老师 很 头疼 。<span class="pinyin">Nǐ érzi zài xuéxiào de biǎoxiàn <em>jiào</em> lǎoshī hěn tóuténg.</span><span class="trans">Your son's behavior at school gives the teacher quite a headache.</span>
+*我 想 <em>请</em> 你 帮 我 一 个 忙 。<span class="pinyin">Wǒ xiǎng <em>qǐng</em> nǐ bāng wǒ yī gè máng.</span><span class="trans">I want to ask you to do me a favor.</span>
+*能 不 能 <em>请</em> 你 明天 照顾 一下 我 的 狗 ？<span class="pinyin">Néng bu néng <em>qǐng</em> nǐ míngtiān zhàogù yīxià wǒ de gǒu?</span><span class="trans">Can I ask you to look after my dog tomorrow?</span>
+*他 的 演讲 <em>使</em> 听众 们 非常 激动 。<span class="pinyin">Tā de yǎnjiǎng <em>shǐ</em> tīngzhòng men fēicháng jīdòng.</span><span class="trans">His speech made the audience very excited.</span>
+*经济 危机 <em>使</em> 很多 公司 倒闭 了 ，也 <em>使</em> 很多 人 失去 了 工作 。<span class="pinyin">Jīngjì wēijī <em>shǐ</em> hěn duō gōngsī dǎobì le, yě <em>shǐ</em> hěn duō rén shīqù le gōngzuò.</span><span class="trans">The financial crisis caused lot of companies to go out of business and also caused many people to lose their jobs.</span>
+
+</div>
+
+Obviously, not every causative verb maps perfectly to an English causative verb. You can see from these examples than in some cases the natural English translation doesn't even need a causative verb.
+
+== See also ==
+
+* [[Passive voice]]
+
+== Sources and further reading ==
+
+===Videos===
+
+* Yoyo Chinese: [http://www.youtube.com/watch?v=7qNgtnMWOd8&list=PL94A5E422FB99CDDD The word "rang"]
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|163}}
+{{Source|HSK Standard Course 4上|93}}
+{{Source|Chinese: An Essential Grammar, Second Edition|170-2}}
+{{Source|Integrated Chinese: Level 2, Part 2|120-1}}
+{{Source|卓越汉语－公司实战篇|19}}
+
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+{{HSK|HSK4}}
+[[Category:Verbs]]
+{{Basic Grammar|让|B1|Subj. + 让 / 叫 / 请 / 使 + Person + Predicate|你 为什么 不 <em>让</em> 我 去 ？|grammar point|ASG5T7XC}}
+{{Rel char|叫}}
+{{Rel char|请}}
+{{Rel char|使}}
+{{Similar|Using the verb "jiao"}}    
+{{Used for|Giving commands}}
+{{Used for|Sentence Patterns}}
+{{POS|Verbs}}
+{{Subprop|Verbs}}

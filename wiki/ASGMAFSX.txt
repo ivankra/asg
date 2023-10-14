@@ -1,0 +1,52 @@
+<!-- Turning adjectives into adverbs -->
+{{Grammar Box}} 
+
+You can easily convert most Chinese [[adjective]]s into adverbs with the particle [[地]] (de). This usage is very similar to the [[Suffixes|suffix]] ''-ly'' in English.
+
+== Structure ==
+
+In Chinese, we place the structural particle 地 (de) after the adjective to make it function as an adverb. 
+
+<div class="jiegou">
+Subj. + Adj. + 地 + Verb
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*你 要 <em>努力</em> <strong>地</strong> 学习 。<span class="pinyin">Nǐ yào <em>nǔlì</em> <strong>de</strong> xuéxí.</span><span class="trans">You must study hard.</span>
+*雨天 地 滑 ，<em>慢 慢</em> <strong>地</strong> 走 。<span class="pinyin">Yǔtiān dì huá, <em>màn màn</em> <strong>de</strong> zǒu.</span><span class="trans">The floor is very slippery on rainy days. Walk slowly.</span>
+*他 <em>顺利</em> <strong>地</strong> 通过 考试 了。<span class="pinyin">tā <em>shùnlì</em> <strong>de</strong> tōngguò kǎoshì le.</span><span class="trans">He passed the exam successfully.</span>
+*他 <em>认真</em> <strong>地</strong> 对 我 说 ：“我 喜欢 你 。“<span class="pinyin">Tā <em>rènzhēn</em> <strong>de</strong> duì wǒ shuō: "wǒ xǐhuan nǐ."</span><span class="trans">In all seriousness, he said to me: "I like you."</span>
+*他 <em>热情</em> <strong>地</strong> 拥抱 了 我 。<span class="pinyin">Tā <em>rèqíng</em> <strong>de</strong> yōngbào le wǒ.</span><span class="trans">He gave me a very warm embrace.</span>
+*她 <em>激动</em> <strong>地</strong> 对 我 说 “谢谢 ” 。<span class="pinyin">Tā <em>jīdòng</em> <strong>de</strong> duì wǒ shuō "xièxie."</span><span class="trans">She said "thank you" to me excitedly.</span>
+*老师 <em>生气</em> <strong>地</strong> 看 着 我们 。<span class="pinyin">Lǎoshī <em>shēngqì</em> <strong>de</strong> kàn zhe wǒmen.</span><span class="trans">The teacher is looking at us angrily.</span>
+*孩子 们 <em>开心</em> <strong>地</strong> 唱 了 起来 。<span class="pinyin">Háizi men <em>kāixīn</em> <strong>de</strong> chàng le qǐlai.</span><span class="trans">The children started to sing happily.</span>
+*大家 都 在 教室 里 <em>安安静静</em> <strong>地</strong> 看书 。<span class="pinyin">Dàjiā dōu zài jiàoshì lǐ <em>ānān-jìngjìng</em> <strong>de</strong> kàn shū.</span><span class="trans">Everybody is reading quietly in the classroom.</span>
+*我 希望 你 <em>快快乐乐</em> <strong>地</strong> 长大 。<span class="pinyin">Wǒ xīwàng nǐ <em>kuàikuài-lèlè</em> <strong>de</strong> zhǎngdà.</span><span class="trans">I hope that you grow up happily.</span>
+
+</div>
+
+== See also ==
+
+*[[Structural particle "de"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Basic Patterns of Chinese Grammar|72}} 
+{{Source|Integrated Chinese: Level 2, Part 1|192}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+[[Category:Adjectives]]
+[[Category:Adverbs]]
+
+{{Basic Grammar|地|B1|Adj. + 地 + Verb|你 要 认真 <em>地</em> 学习。|grammar point|ASGMAFSX}}
+{{Used for|Indicating conditions}}
+{{Similar|Structural particle "de"}}
+{{Similar|Modifying nouns with adjective + "de"}}
+{{Used for|Describing actions}}
+{{POS|Adjectives}}

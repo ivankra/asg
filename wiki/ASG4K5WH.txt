@@ -1,0 +1,185 @@
+<!-- Advanced "le" after an object -->
+{{Grammar Box}} 
+You may have learned that 了 (le) follows immediately after a verb to indicate completion (AKA [[了1]]), and comes at the end of a sentence when it indicates a "[[Change of state with "le"|change of state]]" (AKA [[了2]]). But 了1 also frequently follows not the verb, but the object ''after'' the verb. What are the rules for this? When is it natural and when is it not? That's what this grammar point is about: bringing a bit more depth to your understanding of [[expressing completion with "le"]].
+
+== Two Possible Structures ==
+
+Both of these basic structures are possible (and correct), even when 了 is ''only'' indicating completion. 
+
+<div class="jiegou">
+Subj. + Verb + 了 + Obj.
+</div>
+
+<div class="jiegou">
+Subj. + Verb + Obj. + 了
+</div>
+
+If it's a rather short and simple sentence, putting 了 directly after the verb, while not technically incorrect, can make the sentence feel incomplete. For example:
+
+<div class="liju">
+<ul>
+<li class="q">我 上 <em>了</em> 课 。<span class="pinyin">Wǒ shàng <em>le</em> kè.</span><span class="trans">I had class....</span> </li>
+<li class="q">老师 问 <em>了</em> 问题。<span class="pinyin">Lǎoshī wèn <em>le</em> wèntí.</span><span class="trans">The teacher asked questions....</span> </li>
+</ul>
+</div>
+
+So for these short sentences, it would be more natural to put 了 after the ''object''. So what are the rules for when to put 了 directly after the verb, and when to put it after the object? That is the point of this article.
+
+== When 了 Goes After the Object ==
+
+So the question now is ''when'' it's OK to move the 了 to after the object. It ''often'' is. Let's look more closely at the circumstances. Unfortunately, 了 is notorious for evading nice clear rules, but we'll do our best here to provide reliable guidelines for usage.
+
+=== Structure === 
+
+<div class="jiegou">
+Subj. + Verb + Obj. + 了
+</div>
+
+=== When the Object is Short, Put 了 After the Object  === 
+
+For these examples where the object is short, it sounds better to put 了 after the object. It's not ''wrong'' to put the 了 after the verb, but it sounds a little strange to do so. (It may sound stranger for some examples than others, and native speakers will have varying opinions about which sound the strangest. Ask them!)
+
+<div class="liju">
+<ul>
+<li class="q">我 上 <em>了</em> 课 。<span class="pinyin">Wǒ shàng <em>le</em> kè.</span></li>
+<li class="o">我 上 课 <em>了</em> 。<span class="pinyin">Wǒ shàng kè <em>le</em>.</span><span class="trans">I had class.</span></li>
+</ul>
+<ul>
+<li class="q">老师 问 <em>了</em> 问题 。<span class="pinyin">Lǎoshī wèn <em>le</em> wèntí.</span>
+<li class="o">老师 问 问题 <em>了</em> 。<span class="pinyin">Lǎoshī wèn wèntí <em>le</em>.</span><span class="trans">The teacher asked questions.</span></li>
+</ul>
+<ul>
+<li class="q">丽丽 到 <em>了</em> 火车站  。 <span class="pinyin">Lìlì dào <em>le</em> huǒchēzhàn.
+<li class="o">丽丽 到 火车站 <em>了</em>  。 <span class="pinyin">Lìlì dào huǒchēzhàn <em>le</em>.</span><span class="trans">Lili has arrived at the train station.</span></li>
+</ul>
+</div>
+
+=== When the Object is Medium-Length, Put 了 After the Verb or Object  === 
+
+Once the object gets a bit longer, it starts to sound OK again to put the 了 immediately after the verb, but it also sounds good to put it after the (not ''too'' long) object.
+
+<div class="liju">
+<ul>
+<li class="o">他 提交 <em>了</em> 那些 报告 。<span class="pinyin">Tā tíjiāo <em>le</em> nàxiē bàogào.</span></li>
+<li class="o">他 提交 那些 报告 <em>了</em> 。<span class="pinyin">Tā tíjiāo nàxiē bàogào <em>le</em>.</span><span class="trans">He filed those reports.</span></li>
+</ul>
+<ul>
+<li class="o">我 今天 见 <em>了</em> 老 朋友 。<span class="pinyin">Wǒ jīntiān jiàn <em>le</em> lǎo péngyou.</span></li>
+<li class="o">我 今天 见 老朋友 <em>了</em> 。<span class="pinyin">Wǒ jīntiān jiàn lǎopéngyou <em>le</em>.</span><span class="trans">I met my old friend today.</span></li>
+</ul>
+<ul>
+<li class="o">我 发现 <em>了</em> 那个 秘密 。<span class="pinyin">Wǒ fāxiàn <em>le</em> nàge mìmì.</span></li>
+<li class="o">我 发现 那个 秘密 <em>了</em> 。<span class="pinyin">Wǒ fāxiàn nàge mìmì <em>le</em>.</span><span class="trans">I discovered the secret.</span></li>
+</div>
+
+=== When the Object is Long, Put 了 After the Verb ===
+
+Once the object gets long enough, it gets awkward to put 了 at the end. The listener has to wait too long to find out if the verb already spoken has been completed or not. So save your listener the suspense; for long objects, it sounds more natural to put the 了 directly after the verb.
+
+<div class="liju">
+<ul>
+<li class="o">他 提交 <em>了</em> 今天 所有 的 报告。<span class="pinyin">Tā tíjiāo <em>le</em> jīntiān suǒyǒu de bàogào.</span></li>
+<li class="q">他 提交 今天 所有 的 报告 <em>了</em> 。<span class="pinyin">Tā tíjiāo jīntiān suǒyǒu de bàogào <em>le</em>.</span><span class="trans">He has submitted all the reports for today.</span></li>
+</ul>
+<ul>
+<li class="o">我 今天 见 <em>了</em> 我 二十 年 没 见 的 老 朋友。<span class="pinyin">Wǒ jīntiān jiàn <em>le</em> wǒ èrshí nián méi jiàn de lǎo péngyou.</span></li>
+<li class="q">我 今天 见 我 二十 年 没 见 的 老 朋友 <em>了</em> 。<span class="pinyin">Wǒ jīntiān jiàn wǒ èrshí nián méi jiàn de lǎo péngyou <em>le</em>.</span><span class="trans">I met my old friend today whom I haven't seen for 20 years.</span></li>
+</ul>
+<ul>
+<li class="o">我 听说 <em>了</em> 昨天 在 地铁站 发生 的 事情。<span class="pinyin">Wǒ tīngshuō <em>le</em> zuótiān zài dìtiězhàn fāshēng de shìqing.</span></li>
+<li class="q">我 听说 昨天 在 地铁站 发生的 事情 <em>了</em>。<span class="pinyin">Wǒ tīngshuō zuótiān zài dìtiězhàn fāshēng de shìqing <em>le</em>.</span><span class="trans">I heard about what happened yesterday at the subway station.</span></li>
+</div>
+
+== 了 After a Verb with an Object ==
+
+You may remember these from your original studies of 了 to indicate completion, but it's worth revisiting them to remind you that there are cases when you shouldn't move 了 to after the object, even when your verbs and objects are relatively short.
+
+=== Structure === 
+
+<div class="jiegou">
+Subj. + Verb + 了 + Obj.
+</div>
+
+When the following conditions are met, 了 is typically placed before the object, which completes the sentence and gives it a tone of completion.
+
+=== Examples Specifying the Object === 
+
+When the object has modifiers, such as an [[Expressing completion with "le"|indication of quantity]] or an adjective, it's not weird to put 了 immediately after the verb.
+
+<div class="liju">
+*他 买 <em>了</em> <strong>一辆</strong> 车 。<span class="pinyin">Tā mǎi <em>le</em> <strong>yī liàng</strong> chē.</span><span class="trans">He bought a car.</span>
+*妈妈 做 <em>了</em> <strong>很 多</strong> 菜 。<span class="pinyin">Māma zuò <em>le</em> <strong>hěn duō</strong> cài.</span><span class="trans">Mom made many dishes.</span>
+*她 穿 <em>了</em> <strong>最 漂亮 的</strong> 裙子 。<span class="pinyin">Tā chuān <em>le</em> <strong>zuì piàoliang de</strong> qúnzi.</span><span class="trans">She wore the most beautiful dress.</span>
+</div>
+
+=== Examples Specifying the Time, Place, Purpose, etc. ===
+
+When time, place, manner, or purpose are specified in a sentence, 了 can be used immediately after the verb [[Expressing completion with "le"|to indicate completion]].
+
+<div class="liju">
+*我 <strong>昨天</strong> 看 <em>了</em> 电影 。<span class="pinyin">Wǒ <strong>zuótiān</strong> kàn <em>le</em> diànyǐng.</span><span class="trans">I saw a movie yesterday.</span>
+*我 <strong>和 同事 一起</strong> 吃 <em>了</em> 饭 。<span class="pinyin">Wǒ <strong>hé tóngshì yīqǐ</strong> chī <em>le</em> fàn.</span><span class="trans">I had dinner together with my colleagues.</span>
+*我们 <strong>在 动物园 和 熊猫</strong> 拍 <em>了</em> 照 。<span class="pinyin">Wǒmen <strong>zài dòngwùyuán hé xióngmāo</strong> pāi <em>le</em> zhào.</span><span class="trans">We took photos with pandas in the zoo.</span>
+*他 女朋友 <strong>为了 他</strong> 辞 <em>了</em> 工作 。<span class="pinyin">Tā nǚpéngyou <strong>wèile tā</strong> cí <em>le</em> gōngzuò.</span><span class="trans">His girlfriend quit her job for him.</span>
+*他们 <strong>顺利 地</strong> 到 <em>了</em> 南极 。<span class="pinyin">Tāmen <strong>shùnlì de</strong> dào <em>le</em> Nánjí.</span><span class="trans">They arrived at the South Pole without incident.</span>
+</div>
+
+=== Examples Involving Result Complements === 
+
+When the object has modifiers, such as an [[Expressing completion with "le"|indication of quantity]] or an adjective, it's not weird to put 了 immediately after the verb.
+
+<div class="liju">
+*我 买到 <em>了</em> 票。 
+*我 做完 <em>了</em> 工作。
+*小明 花光 <em>了</em> 钱。
+</div>
+
+== Completion in the Future ==
+
+了 (le) can also indicate that one action is completed before another in the ''future'', and this type of 了 is often placed directly after a verb with an object.
+
+<div class="liju">
+*你 到 <em>了</em> 家 给 我 打 电话 。<span class="expl">future action</span><span class="pinyin">Nǐ dào <em>le</em> jiā gěi wǒ dǎ diànhuà.</span><span class="trans">After you have arrived home, call me.</span>
+*我 下 <em>了</em> 课 去 找 你 。<span class="expl">future action</span><span class="pinyin">Wǒ xià <em>le</em> kè qù zhǎo nǐ.</span><span class="trans">I will go find you after I get out of class.</span>
+*她 想 毕 <em>了</em> 业 就 结婚 。<span class="expl">future action</span><span class="pinyin">Tā xiǎng bì <em>le</em> yè jiù jiéhūn.</span><span class="trans">She wants to get married after she graduates.</span>
+*我 打算 生 <em>了</em> 孩子 就 回去 <em>工作</em> 。<span class="expl">future action</span><span class="pinyin">Wǒ dǎsuàn shēng <em>le</em> háizi jiù huíqù <em>gōngzuò</em>.</span><span class="trans">I plan to go back to work after having the baby.</span>
+</div>
+
+== Usage of Double 了 == 
+
+In this case, 了 follows both the verb ''and'' the object.
+
+=== Emphasizing "Big Quantity" === 
+
+If another 了 is added at the end of the sentence, implies that the number in front of the object is ''already'' a big number, and that this number could continue to grow.
+
+<div class="liju">
+*他们 生 <em>了</em> <strong>四 个</strong> 孩子 <em>了</em> 。<span class="pinyin">Tāmen shēng <em>le</em> <strong>sì gè</strong> háizi <em>le</em>.</span><span class="trans">They've had four children already.</span>
+*你 吃 <em>了</em> <strong>五 个</strong> 包子 <em>了</em> 。<span class="pinyin">Nǐ chī <em>le</em> <strong>wǔ gè</strong> bāozi <em>le</em>.</span><span class="trans">You've eaten five baozi already.</span>
+</div>
+
+=== Giving a Tone of Strong Confirmation === 
+
+If there is another 了 placed at the end of the sentence, it can add a ''stronger emphasis'' that the action ''was already'' completed, in the same way we might say we "''did'' finish the work" or "''already'' finished the work" instead of just saying we "finished the work."
+
+<div class="liju">
+*我 做 <em>了</em> 作业 <em>了</em> ，你 要 检查 吗 ？<span class="pinyin">Wǒ zuò <em>le</em> zuòyè <em>le</em>, nǐ yào jiǎnchá ma?</span><span class="trans">I already finished my homework. Do you want to check it?</span>
+*他 问 <em>了</em> 经理 <em>了</em> ，经理 说 行 。<span class="pinyin">Tā wèn <em>le</em> jīnglǐ <em>le</em>, jīnglǐ shuō xíng.</span><span class="trans">He already asked the manager, and the manager said yes.</span>
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+* 赵元任.汉语口语语法[M]（吕叔湘译）.商务印书馆,1979
+* 王媛.“了”的使用机制及教学策略[J].语言教学与研究，2011（03）
+* 祁晓倩.“了1”和“了2”的语义相似性及对外汉语教学[J].乐山师范学院学报,2007(11)
+
+[[Category:B2 grammar points]]
+{{Basic Grammar|了|B2|Verb + Obj. + 了|我 吃 <em>了</em> 早饭 。|grammar point|ASG4K5WH}}
+{{Similar|Expressing completion with "le"}}
+{{Similar|Advanced "le" with complements}}
+{{Used for|Expressing completion}}
+{{Used for|Describing actions}}
+{{Used for|Referring to the past}}
+{{POS|Particles}}

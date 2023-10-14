@@ -1,0 +1,38 @@
+<!-- Expressing "just" do it with "gancui" -->
+{{Grammar Box}} 
+干脆 is an adverb meaning "you might as well" or "just," and is normally used by the speaker to propose a straightforward course of action within a difficult situation. The idea is "stop overthinking it and ''just do this!''"
+
+== Structure ==
+
+<div class="jiegou">
+
+Subj. + 干脆 + Verb Phrase
+
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+* 家里 什么 都 没有，<em>干脆</em> 出去 吃 吧。<span class="pinyin">Jiālǐ shénme dōu méiyǒu, <em>gāncuì</em> chūqù chī ba.</span><span class="trans">There is nothing in the house, let's just go out to eat.</span>
+* 既然 学 不好 ，<em>干脆</em> 别 学 了 。<span class="pinyin">Jìrán xué bù hǎo, <em>gāncuì</em> bié xué le.</span><span class="trans">Since you can't learn it, just stop studying.</span>
+* 这 台 破 电脑 又 坏 了 ，<em>干脆</em> 别 修 了 ， 买 台 新 的 吧 。<span class="pinyin">Zhè tái pò diànnǎo yòu huài le, <em>gāncuì</em> bié xiū le, mǎi tái xīn de ba.</span><span class="trans">This crappy old computer broke again. Might as well not fix it and just buy a new one.</span>
+* 苹果 很 贵，我 <em>干脆</em> 没 买 ， 只 买 了 点 香蕉 。<span class="pinyin">Píngguǒ hěn guì, wǒ <em>gāncuì</em> méi mǎi, zhǐ mǎi le diǎn xiāngjiāo.</span><span class="trans">Apples are too expensive. I didn't buy them, and just bought some bananas.</span>
+* 这 个 人 不 诚实，<em>干脆</em> 不 要 和 他 做 朋友 了。<span class="pinyin">Zhège rén bù chéngshí, <em>gāncuì</em> bùyào hé tā zuò péngyou le.</span><span class="trans">This person is not honest. Just don't be friends with him.</span>
+* 这里 没 什么 好玩 的 ，我们 <em>干脆</em> 回家 吧。<span class="pinyin">Zhèlǐ méi shénme hǎowán de, wǒmen <em>gāncuì</em> huíjiā ba.</span><span class="trans">It's no fun here. Let's just go home.</span>
+* 既然 你 也 喜欢 这个 沙发 ，我们 <em>干脆</em> 买 回家 吧。<span class="pinyin">Jìrán nǐ yě xǐhuan zhège shāfā, wǒmen <em>gāncuì</em> mǎi huíjiā ba.</span><span class="trans">Since you like this sofa too, let's just buy it and take it home.</span>
+* <em>干脆</em> 听 你 的，我 也 没 做 什么 攻略 。<span class="pinyin">Gāncuì tīng nǐ de, wǒ yě méi zuò shénme gōnglüè.</span><span class="trans">I'll just listen to you. I haven't made any sort of plan anyway.</span>
+* 现在 每天 都 要 戴 口罩 ，<em>干脆</em> 不 要 出门 了。<span class="pinyin">Xiànzài měitiān dōu yào dài kǒuzhào, <em>gāncuì</em> bùyào chūmén le.</span><span class="trans">Now that we have to wear a mask every day, I simply don't want to go out.</span>
+* 既然 你 都 喜欢，<em>干脆</em> 都 买 回来 。<span class="pinyin">Jìrán nǐ dōu xǐhuan, <em>gāncuì</em> dōu mǎi huílái.</span><span class="trans">Since you like them all, we might as well buy all of them.</span>
+</div>
+
+== Sources and further reading ==
+
+=== Dictionaries ===
+{{Source|现代汉语词典（第5版）|439}}
+
+[[Category:B2 grammar points]]
+{{Basic Grammar|干脆|B2|Subj. + 干脆 + Verb Phrase|家里什么都没有，<em>干脆</em>出去吃吧。|grammar point|ASGZ8MJM}}
+{{Similar|}}   
+{{Used for|Requesting}}
+{{POS|Adverbs}}

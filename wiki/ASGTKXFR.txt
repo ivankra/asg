@@ -1,0 +1,82 @@
+<!-- Expressing "all along" with "yuanlai" -->
+{{Grammar Box}} 
+
+原来 (yuánlái) means "originally" (similar to [[本来]]) as an [[adverb]], or "original" or "former" as an [[adjective]]. As an adverb it can also mean "all along" and can be used to indicate a sudden realization of something previously unknown—a bit like, "so it's been like that all along... how could I have not realized?"
+
+== Used as "Original" or "Originally" ==
+
+===Structure===
+
+When used as an adjective:
+
+<div class="jiegou">
+原来 + 的 + Noun
+</div>
+
+When used as an adverb:
+
+<div class="jiegou">
+Subj. + 原来 + Predicate
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*你 <em>原来</em> 的 发型 也 很 可爱 。<span class="pinyin">Nǐ <em>yuánlái</em> de fàxíng yě hěn kě'ài.</span><span class="trans">Your original hairstyle was also very cute.</span>
+*这 件 衣服 <em>原来</em> 的 价格 是 999 块 。<span class="pinyin">Zhè jiàn yīfu <em>yuánlái</em> de jiàgé shì jiǔbǎi jiǔshí-jiǔ kuài.</span><span class="trans">The original price of this piece of clothing was 999 RMB.</span>
+*她们 <em>原来</em> 只是 邻居 ，现在 是 很好 的 朋友 。<span class="pinyin">Tāmen <em>yuánlái</em> zhǐ shì línjū, xiànzài shì hěn hǎo de péngyou.</span><span class="trans">Originally they were just neighbors. Now they're very good friends.</span>
+*我们 <em>原来</em> 住 在 浦东 ，几 个 月 以前 搬 到 了 这里 。<span class="pinyin">Wǒmen <em>yuánlái</em> zhù zài Pǔdōng, jǐ gè yuè yǐqián bān dào le zhèlǐ.</span><span class="trans">Originally we lived in Pudong. We moved here a few months ago.</span>
+*<em>原来</em> 她 是 他 的 中文 老师，现在 是 他 老婆 。<span class="pinyin"><em>Yuánlái</em> tā shì tā de Zhōngwén lǎoshī, xiànzài shì tā lǎopo.</span><span class="trans">She was originally his Chinese teacher. She is now his wife.</span>
+
+</div>
+
+== Used as "All along" ==
+
+=== Structure ===
+
+<div class="jiegou">
+原来 + [New Information]
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>原来</em> 是 你 ！<span class="pinyin"><em>Yuánlái</em> shì nǐ!</span><span class="trans">So it was you all along!</span>
+*<em>原来</em> 你们 认识 ！<span class="pinyin"><em>Yuánlái</em> nǐmen rènshi!</span><span class="trans"> So you both knew each other this whole time!</span>
+*<em>原来</em> 是 这样 ！<span class="pinyin"><em>Yuánlái</em> shì zhèyàng!</span><span class="trans">Oh, so it's like that!</span>
+*<em>原来</em> 你 这么 有钱！<span class="pinyin"><em>Yuánlái</em> nǐ zhème yǒuqián!</span><span class="trans">It turns out you are so rich!</span>
+*<em>原来</em> 你 在 骗 我 ！ 我 怎么 那么 傻 ？ <span class="pinyin"><em>Yuánlái</em> nǐ zài piàn wǒ! Wǒ zěnme nàme shǎ?</span><span class="trans">You have been tricking me all along. How could I be so stupid?</span>
+
+</div>
+
+The more formal expression 原来如此 (yuánlái rúcǐ) can be used like 原来是这样 in example 3.
+
+== See also ==
+
+* [[Expressing "originally" with "benlai"]]
+* [[Expressing "no wonder"]]
+* [[Comparing "benlai" and "yuanlai"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|43}}
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级) |94-6}} 
+{{Source|Integrated Chinese: Level 2, Part 1|195-6}}
+{{Source|New Practical Chinese Reader 5 (新实用汉语课本5)|29}}
+{{Source|Short-term Spoken Chinese: Elementary (汉语口语速成基础篇)|22-23}}
+
+[[Category: B1 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|原来|B1|Subj. + 原来 + Predicate|<em>原来</em> 昨天 那个 人 是 你 啊 。|grammar point|ASGTKXFR}}
+{{Similar|Expressing "originally" with "benlai"}}
+{{Similar|Expressing "no wonder"}}
+{{Similar|Comparing "benlai" and "yuanlai"}}
+{{POS|Adverbs}}
+{{Used for|explaining}}
+{{Used for|justifying}}
+{{Translation|all along}}
+{{Translation|originally}}

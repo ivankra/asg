@@ -1,0 +1,89 @@
+<!-- Comparing "yishi" and "yidu" -->
+{{Grammar Box}} 
+{{stub}}
+
+一时(yī shí) and 一度(yī dù) both look like they have the same meaning, and the way they are used structurally is the same, but in actuality they are pretty different.
+
+== 一度 can mean "only once" ==
+
+When 一度 means "once," it is used in a set phrase, like "一年一度."
+
+当一度表示一次时，一般有个固定用法“一年一度”。
+
+===Structure===
+
+<div class="jiegou">
+一年一度 + 的 + N 
+</div>
+
+===Examples===
+
+<div class="liju">
+* 春节 是 <em>一年一度</em> 的 节日。
+* <em>一年一度</em> 的 樱花节 又 要 开幕 了。
+* 今年 6月，北京大学 将 要 举办 <em>一年一度</em> 的 文学沙龙 活动。
+</div>
+
+==一度 can also mean a time period that has passed==
+
+一度 can also express diong something in a period of time that has passed. It is often a bad thing, and it often is placed with a verb or verb phrase. 
+
+表示过去一段时间一直做了某件事，大多数是不好的事情。常常后面接动词或动词短语
+
+===Structure===
+
+<div class="jiegou">
+Subject+一度+Verb/Verbal Phrase
+</div>
+
+===Examples===
+
+<div class="liju">
+* 他 过去 <em>一度</em> 沉溺 于 网络游戏，不 好好 学习。
+* 他 过去 <em>一度</em> 想 自杀。
+* 2004年，他 <em>一度</em> 在 从事 反政府 的 活动。
+</div>
+
+==一时 can mean "a short while" ==
+
+一时 can express doing something in a period of time whether it has passed or not.
+
+===Examples===
+
+<div class="liju">
+* 这种 现象 只是 <em>一时</em> 的。
+* 这 雨 <em>一时</em> 半会儿 停 不 了。
+* 听到 太太 这么 说，他 <em>一时</em> 没 反应 过来。
+* 这 个 问题 确实 很 难， <em>一时</em> 理解 不 了 没 关系。
+* 亚里士多德 的 理论 早已 盛行<em>一时</em>。
+</div>
+
+==一时 can also mean "sometimes, temporary or suddenly" ==
+
+===Structure===
+<div class="jiegou">
+Subject+一时+Verb/Verbal Phrase
+</div>
+
+===Examples===
+
+<div class="liju">
+* 我 <em>一时</em> 想不起 他 是 谁。
+* 他 <em>一时</em> 头晕目眩，动弹不了。
+* 他 <em>一时</em> 冲动，对 母亲 说 了 不该说 的 话，伤 了 母亲 的 心。
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+* [[Short-term Spoken Chinese: Pre-Intermediate (汉语口语速成提高篇)]](P.84) [http://www.amazon.com/Short-term-Spoken-Chinese-Pre-Intermediate-Edition/dp/7561916167/ref=sr_1_1?ie=UTF8&qid=1347864370&sr=8-1&keywords=short+term+spoken+chinese%3A+pre+intermediate →buy]
+* [[New Practical Chinese Reader 5 (新实用汉语课本5)]] (P.200)[http://www.amazon.com/gp/product/7561914083/ref%3das_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=7561914083 →buy]
+* [[Boya Chinese Upper Intermediate 2 (博雅汉语中级冲刺篇)]](p.137) [http://www.amazon.com/Boya-Chinese-Intermediate-English-Edition/dp/B001149Q8Q/ref=sr_1_1?ie=UTF8&qid=1347865719&sr=8-1&keywords=Boya+Chinese%3A+Intermediate+Spurt+2 →buy]
+* [[Boya Chinese Lower Intermediate 2 (博雅汉语准中级加速篇)]](p.24)[http://www.amazon.com/gp/product/B00112ZL5A/ref%3das_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=B00112ZL5A →buy]
+* [[New Practical Chinese Reader 6 (新实用汉语课本6)]](p.28) [http://www.amazon.com/gp/product/7561925271/ref%3das_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=7561925271 →buy]
+
+[[Category:grammar comparison]]
+{{Basic Grammar|一时|C1|一度 vs 一时|他 过去 <em>一度</em> 想 自杀。这 雨 <em>一时</em> 半会儿 停 不 了。|grammar point|ASGBVSWQ}}
+{{Rel char|一度}}
+{{Rel char|时}}
+{{Comparison|Adverbs}}

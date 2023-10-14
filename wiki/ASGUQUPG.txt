@@ -1,0 +1,52 @@
+<!-- Emphasizing a negation with "bing" -->
+{{Grammar Box}} 
+One of the many uses of [[并]] (bìng) is to add emphasis to a negative sentence that uses [[不]] or [[没]]. Because you're emphasizing a negation, 并 is often used when expressing disagreement or pointing out a flaw in someone's argument. While the word 并 is not inherently combative, it can certainly be used that way.
+
+==Structure==
+
+You can take pretty much any sentence with a negated verb and give it a little extra kick with 并. Just put it before the 不 or 没. Note that when used with 不, you can negate an adjective as well. 
+
+<div class="jiegou">
+Subj. + 并 + 不 + Verb / Adj.
+</div>
+
+<div class="jiegou">
+Subj. + 并 + 没（有) + Verb
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+* 在 中国 创业 <em>并</em> <strong>不</strong> 容易，有 很 多 的 挑战。<span class="pinyin">Zài Zhōngguó chuàngyè <em>bìng</em> <strong>bù</strong> róngyì, yǒu hěn duō de tiǎozhàn.</span><span class="trans">In China, starting a business really isn't easy. There are a lot of challenges.</span>
+* 我 在 大学 读 金融 专业，但是 当 金融 分析 人员 <em>并</em> <strong>不</strong> 是 我 的 梦想。<span class="pinyin">Wǒ zài dàxué dú jīnróng zhuānyè, dànshì dāng jīnróng fēnxī rényuán <em>bìng</em> <strong>bù</strong> shì wǒ de mèngxiǎng.</span><span class="trans">I'm majoring in finance at the university, but being a financial analyst is not at all my dream.</span>
+* 她 结婚 五年 了，也 生 了 一个 孩子，但 她 <em>并</em> <strong>不</strong> 爱 她 丈夫。<span class="pinyin">Tā jiéhūn wǔ nián le, yě shēng le yī gè háizi, dàn tā <em>bìng</em> <strong>bù</strong> ài tā zhàngfu.</span><span class="trans">She's been married for five years and she has a baby, but she doesn't love her husband at all.</span>
+*你 这样 做 其实 <em>并</em> <strong>没有</strong> 解决 客户 的 问题。<span class="pinyin">Nǐ zhèyàng zuò qíshí <em>bìng</em> <strong>méiyǒu</strong> jiějué kèhù de wèntí.</span><span class="trans">What you did didn't actually solve our clients' problems at all.</span>
+*我 弹 钢琴 十年 多 了，但 我 <em>并</em> <strong>不</strong> 喜欢 这 种 乐器 。<span class="pinyin">Wǒ tán gāngqín shí nián duō le, dàn wǒ <em>bìng</em> <strong>bù</strong> xǐhuan zhè zhǒng yuèqì.</span><span class="trans">I've been playing the piano for more than ten years, but I really don't like this musical instrument.</span>
+*我 虽然 和 他 讨论 了，但 我们 <em>并</em> <strong>没有</strong> 找到 问题。<span class="pinyin">Wǒ suīrán hé tā tǎolùn le, dàn wǒmen <em>bìng</em> <strong>méiyǒu</strong> zhǎodào wèntí.</span><span class="trans">Although I've discussed it with him, we haven't found the problem at all.</span>
+*我 <em>并</em> <strong>不</strong> 知道 你 昨天 给 我 打电话 了。<span class="pinyin">Wǒ <em>bìng</em> <strong>bù</strong> zhīdào nǐ zuótiān gěi wǒ dǎ diànhuà le.</span><span class="trans">I didn't know at all that you called me yesterday.</span>
+*昨天 下 的 雨 很 大 ，但是 天气 <em>并</em> <strong>不</strong> 凉快 。<span class="pinyin">Zuótiān xià de yǔ hěn dà, dànshì tiānqì <em>bìng</em> <strong>bù</strong> liángkuai.</span><span class="trans">It rained heavily yesterday, but the weather didn't cool off at all.</span>
+*虽然 你 说 了 很 过分 的 话，但是 我 <em>并</em> <strong>没有</strong> 生气 。<span class="pinyin">Suīrán nǐ shuō le hěn guòfèn de huà, dànshì wǒ <em>bìng</em> <strong>méiyǒu</strong> shēngqì.</span><span class="trans">Although you said some very harsh things, I didn't get angry at all.</span>
+*你 送的 礼物 很 贵，但是 我 <em>并</em> <strong>不</strong> 喜欢。<span class="pinyin">Nǐ sòng de lǐwù hěn guì, dànshì wǒ <em>bìng</em> <strong>bù</strong> xǐhuan.</span><span class="trans">The gift you gave was very expensive, but I didn't like it at all.</span>
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|45}}
+{{Source|Boya Chinese Lower Intermediate 1 (博雅汉语准中级加速篇)|158}}
+{{Source|Boya Chinese Upper Intermediate 1 (博雅汉语中级冲刺篇)|11}}
+{{Source|Integrated Chinese: Level 2, Part 1|304-5}}
+{{Source|卓越汉语－公司实战篇|19}}
+{{Source|现代汉语虚词例释|41}}
+{{Source|现代汉语虚词手册|25}}
+
+[[Category: B2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|并|B2|Subj. + 并 + 不 + Verb / Adj.|当 金融 分析 人员 <em>并</em> 不是 我 的 梦想。|grammar point|ASGUQUPG}}
+{{Rel char|不}}
+{{Rel char|没}}
+{{Similar|Emphasizing negation with "you"}}
+{{POS|Sentence Patterns}}
+{{Used for|Emphasizing Negation}}

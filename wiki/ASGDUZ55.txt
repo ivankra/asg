@@ -1,0 +1,82 @@
+<!-- Expressing_"as_one_likes"_with_"jiu" -->
+{{Grammar Box}} 
+When we want to express "to do something as one pleases," we can use the "想 (xiǎng) ''verb'' 就 (jiù) ''verb''" pattern. 
+
+== Basic Pattern ==
+
+This structure is similar to how we would say in English, "whatever I want to eat, I eat" or, "wherever I want to go, I go." The verb that comes after the 想 and the 就 are the same verb. 
+
+=== Structure ===
+
+<div class="jiegou">
+想 + Verb + 就 + Verb 
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>想</em> 吃 <em>就</em> 吃 。<span class="pinyin"><em>Xiǎng</em> chī <em>jiù</em> chī.</span><span class="trans">If you want to eat, help yourself.</span>
+*<em>想</em> 走 <em>就</em> 走 吧 。<span class="pinyin"><em>Xiǎng</em> zǒu <em>jiù</em> zǒu ba. </span><span class="trans">Leave if you want to.</span>
+*<em>想</em> 买 <em>就</em> 买 ，不用 问 我 。<span class="pinyin"><em>Xiǎng</em> mǎi <em>jiù</em> mǎi, bùyòng wèn wǒ.</span><span class="trans">If you want to buy it, go ahead. You don't need to ask me.</span>
+*别 害怕 ，<em>想</em> 说 <em>就</em> 说 。<span class="pinyin">Bié hàipà, <em>xiǎng</em> shuō <em>jiù</em> shuō.</span><span class="trans">Don't be afraid. If you want to say, say it.</span>
+*<em>想</em> 做 <em>就</em> 做 ，考虑 那么 多 干吗 ？<span class="pinyin"><em>Xiǎng</em> zuò <em>jiù</em> zuò, kǎolǜ nàme duō gànmá?</span><span class="trans">If you want to do it, do it. Why do you need to think about it so much?</span>
+
+</div>
+
+== Advanced Pattern ==
+
+You can also add in a question word, like 什么, 哪儿, or 怎么. When this is the case, the pronouns don't necessarily refer to anything specific. They can be seen more as words like "whatever" or "wherever." This way, question pronouns (什么,谁,什么时候,etc) serve as "indefinite references."
+
+=== Structure === 
+
+<div class="jiegou">
+想 + Verb + [Question Word] + 就 + Verb + [Question Word]
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>想</em> 去 <strong>哪儿</strong> <em>就</em> 去 <strong>哪儿</strong> 。<span class="pinyin"><em>Xiǎng</em> qù <strong>nǎr</strong> <em>jiù</em> qù <strong>nǎr</strong>.</span><span class="trans">You can go wherever you'd like to go.</span>
+*<em>想</em> 请 <strong>谁</strong> <em>就</em> 请 <strong>谁</strong> 。<span class="pinyin"><em>Xiǎng</em> qǐng <strong>shéi</strong> <em>jiù</em> qǐng <strong>shéi</strong>.</span><span class="trans">You can invite whoever you like.</span>
+*<em>想</em> <strong>什么 </strong>时候 来 <em>就</em> <strong>什么 </strong> 时候来 。<span class="pinyin"><em>Xiǎng</em> <strong>shénme shíhou</strong> lái <em>jiù</em> <strong>shénme shíhou</strong> lái.</span><span class="trans">You can come whenever you like.</span>
+*<em>想</em> 点 <strong>什么</strong> <em>就</em> 点 <strong>什么</strong> ，我 请客 。<span class="pinyin"><em>Xiǎng</em> diǎn <strong>shénme</strong> <em>jiù</em> diǎn <strong>shénme</strong>, wǒ qǐngkè.</span><span class="trans">You can order whatever you like. I'm buying.</span>
+*这些 钱 我 <em>想</em> <strong>怎么</strong> 花 <em>就</em> <strong>怎么</strong> 花 。<span class="pinyin">Zhèxiē qián wǒ <em>xiǎng</em> <strong>zěnme</strong> huā <em>jiù</em> <strong>zěnme</strong> huā.</span><span class="trans">I will spend this money however I like.</span>
+
+</div>
+
+== See also ==
+
+* [["If…, then…" with "ruguo…, jiu…"]]
+* [[Expressing "Anyway" as "fanzheng"]]
+* [[Conditions with "yao" and "jiu"]]
+* [[Expressing indifference with "jiu"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|67}}
+{{Source|现代汉语虚词例释|305}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|272}}
+{{Source|卓越汉语－公司实战篇|59, 104-5}} (Indefinite References)
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课下册）|414}} (Indefinite References)
+
+=== Dictionaries ===
+
+{{Source|现代汉语词典（第5版）|145}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|就|B1|想 + Question Word + 就 + Question Word|<em>想</em> 去 <strong>哪儿</strong> <em>就</em> 去 <strong>哪儿</strong> 。|grammar point|ASGDUZ55}}
+{{Rel char|想}}
+{{Rel char|如果}}
+{{Similar|Expressing indifference with "jiu"}}
+{{Similar|Expressing "then" with "jiu"}}
+{{Similar|"If…, then…" with "ruguo…, jiu…"}} 
+{{Similar|Conditions with "yao" and "jiu"}}   
+{{Used for|Expressing desires}}
+{{Used for|Expressing attitude}}
+{{Structure|Sentence Patterns}}
+{{Subprop|Basic/Simple Sentence Patterns}}

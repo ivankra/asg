@@ -1,0 +1,82 @@
+<!-- Expressing "would like to" with "xiang" -->
+{{Grammar Box}} 
+
+If you want to express something that you "would like to do," 想 (xiǎng) will be a very helpful auxiliary verb to know. Although similar to 要 (yào), 想 (xiǎng) will give you another more tactful option when you want to articulate a desire.
+
+== Basic Usage ==
+
+=== Structure ===
+
+The verb 想 (xiǎng) can be used to express "would like to." In this case it's an [[auxiliary verb]]. The structure is:
+
+<div class="jiegou">
+
+Subj. + 想 + Verb (+ Obj.)
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 你 <em>想</em> <strong>去</strong> 吗？<span class="pinyin">Nǐ <em>xiǎng</em> <strong>qù</strong> ma? </span><span class="trans">Would you like to go? </span>
+* 我 <em>想</em> <strong>吃</strong> 面。<span class="pinyin">Wǒ <em>xiǎng</em>  <strong>chī</strong> miàn.</span><span class="trans">I would like to eat noodles.</span>
+* 你 <em>想</em> <strong>喝</strong> 水 吗？<span class="pinyin">Nǐ <em>xiǎng</em> <strong>hē</strong> shuǐ ma? </span><span class="trans">Would you like to drink some water? </span>
+* 我们 <em>想</em> <strong>看</strong> 电视。<span class="pinyin">Wǒmen <em>xiǎng</em> <strong>kàn</strong> diànshì.</span><span class="trans">We would like to watch TV.</span>
+* 他 <em>想</em> <strong>买</strong> 一 个 大 房子。 <span class="pinyin">Tā <em>xiǎng</em> <strong>mǎi</strong> yī gè dà fángzi.</span><span class="trans">He would like to buy a big apartment.</span>
+
+</div>
+
+== Negate 想 (xiǎng) with 不 (bù) ==
+
+No surprises here: [[Standard negation with "bu"|use 不 (bù) to negate]] 想 (xiǎng).
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + 不 + 想 + Verb + Obj.
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 他们 <em>不 想</em> 去 酒吧。 <span class="pinyin">Tāmen <em>bù xiǎng</em> qù jiǔbā.</span><span class="trans">They wouldn't like to go to the bar.</span>
+* 你 <em>不 想</em> 认识 这个 美女 吗？<span class="pinyin">Nǐ  <em>bù xiǎng</em> rènshi zhège měinǚ ma? </span><span class="trans">Would you not like to know this beautiful lady? </span>
+* 我 <em>不 想</em> 回家。<span class="pinyin">Wǒ <em>bù xiǎng</em> huíjiā.</span><span class="trans">I wouldn't like to return home.</span>
+* 那个 地方 很 近，我 <em>不 想</em> 开车。<span class="pinyin">Nàge dìfang hěn jìn, wǒ <em>bù xiǎng</em> kāichē.</span><span class="trans">That place is so close. I would not like to drive.</span>
+* 他  <em>不 想</em> 花 父母 的 钱。 <span class="pinyin">Tā <em>bù xiǎng</em> huā  fùmǔ de qián.</span><span class="trans">He would not like to spend his parents' money.</span>
+
+</div>
+
+==See also==
+* [[Wanting to do something with yao]]
+
+== Sources and Further Reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|58}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|112-13}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|179-80}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)|207}}
+
+===Websites===
+* Yale Chinese Usage Dictionary: [http://comet.cls.yale.edu/chineseusagedictionary/0133.html The Uses of 想]
+
+[[Category:A2 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{Used for|Expressing desires}}
+{{Used for|Expressing purpose}}
+{{Basic Grammar|想|A2|想 + Verb|我 <em>想</em> 去。|grammar point|ASGT97VF}}
+{{Similar|Wanting to do something with yao}}
+{{Similar|Expressing "be going to" with "yao"}}
+{{Similar|"Yinggai" for should}}
+{{Similar|"Must" modal "dei"}}
+{{POS|Verbs}}
+{{Subprop|Auxiliary verbs}}
+{{Translation|would}}
+{{Translation|like}}
+{{Translation|want}}

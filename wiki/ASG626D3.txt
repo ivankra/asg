@@ -1,0 +1,39 @@
+<!-- Expressing "feel free" with "jinguan" -->
+{{Grammar Box}} 
+尽管 (jǐnguǎn) is an [[adverb]] which means "feel free to," and can be used to encourage someone to not be shy about doing something.
+
+== Structure ==
+
+<div class="jiegou">
+尽管 + Verb
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+* 大家 有 话 <em>尽管</em> 说 。 <span class="pinyin">Dàjiā yǒu huà <em> jǐnguǎn</em> shuō.</span><span class="trans">Feel free to speak up if you have anything to say.</span>
+* 有 什么 问题 <em>尽管</em> 问 。 <span class="pinyin">Yǒu shénme wèntí <em> jǐnguǎn</em> wèn.</span><span class="trans">Feel free to ask if you have any questions.</span>
+* 有 什么 事 <em>尽管</em> 找 我 。 <span class="pinyin">Yǒu shénme shì <em> jǐnguǎn</em> zhǎo wǒ.</span><span class="trans">Feel free to ask me for help if you need anything.</span>
+* 这些 饮料 是 免费 的 ， <em>尽管</em> 喝 。 <span class="pinyin">Zhèxiē yǐnliào shì miǎnfèi de, <em> jǐnguǎn</em> hē.</span><span class="trans">Feel free to help yourself to these drinks. They are all free of charge.</span>
+* 想 吃 什么 <em>尽管</em> 点 ， 我 请客 。 <span class="pinyin">Xiǎng chī shénme <em>jǐnguǎn</em> diǎn, wǒ qǐngkè.</span><span class="trans">Feel free to order anything you like. My treat.</span>
+* <em>尽管</em> 去 做，不 要 担心 结果。<span class="pinyin"><em>Jǐnguǎn</em> qù zuò, bùyào dānxīn jiéguǒ.</span><span class="trans">Feel free to just do it. Don't worry about the result.</span> 
+* 有 什么 意见 <em>尽管</em> 提 ，我 不 会 生气 的。<span class="pinyin">Yǒu shénme yìjiàn <em>jǐnguǎn</em> tí, wǒ bù huì shēngqì de.</span><span class="trans">Feel free to offer any opinion. I won't get angry.</span>  
+* 想 买 什么 <em>尽管</em> 买 ， 几 件 衣服 我 还是 买得起 的。<span class="pinyin">Xiǎng mǎi shénme <em>jǐnguǎn</em> mǎi, jǐ jiàn yīfu wǒ háishì mǎi deqǐ de.</span><span class="trans">Feel free to buy whatever you want,I can afford a few pieces of clothing.</span>  
+* 想 去 哪里 <em>尽管</em> 去 ，现在 旅游 很 方便。<span class="pinyin">Xiǎng qù nǎlǐ <em>jǐnguǎn</em> qù, xiànzài lǚyóu hěn fāngbiàn.</span><span class="trans">Feel free to go wherever you want. Travel is really convenient right now.</span>  
+* 想要 什么 <em>尽管</em> 说 ，妈妈 都 会 满足 你 的 要求。<span class="pinyin">Xiǎngyào shénme <em>jǐnguǎn</em> shuō, māma dōu huì  mǎnzú nǐ de yāoqiú.</span><span class="trans">Feel free to say what you want. Mom will meet your demands.</span>  
+</div>
+
+== A Note on Pronunciation ==
+
+You may hear the word 尽管 pronounced as both "jǐnguǎn" and "jìnguǎn." Although "jǐnguǎn" is technically correct and "jìnguǎn" is incorrect, many educated native speakers will pronounce 尽量 exclusively as "jìnguǎn."
+
+== Sources and further reading ==
+
+* [https://resources.allsetlearning.com/chinese/pronunciation/Pronunciation_variant Pronunciation variant (尽管)]
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|尽管|B2|尽管 + Verb|有 什么 事 ，<em>尽管</em> 找 我 。|grammar point|ASG626D3}}
+{{POS|Adverbs}}
+{{Used for|Encouraging}}
+{{Translation|feel free to}}

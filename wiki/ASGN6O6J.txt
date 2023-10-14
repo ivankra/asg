@@ -1,0 +1,121 @@
+<!-- Comparing "zhijian" and “zhongjian" -->
+{{Grammar Box}} 
+
+When describing spatial relationships, the words 之间 (zhījiān) and 中间 (zhōngjiān) will come in handy to express the concepts of "[[between]]" and "[[among]]."  Both have a few particular uses, though.
+
+== Both as "Between... and..." ==
+
+之间 and 中间 can both refer to a space "in the middle" between two points, as long as we're talking about physical space. 
+
+=== Structure ===
+
+<div class="jiegou">
+A + 和 + B + 之间／中间
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*上海 在 江苏 省 和 浙江 省 <em>之间</em> / <em>中间</em> 。<span class="pinyin">Shànghǎi zài Jiāngsū Shěng hé Zhèjiāng Shěng <em>zhījiān</em> / <em>zhōngjiān</em>.</span><span class="trans">Shanghai is between Jiangsu Province and Zhejiang Province.</span>
+*我 家 客厅 和 卧室 <em>中间</em> 是 洗手间 。<span class="pinyin">Wǒ jiā kètīng hé wòshì <em>zhōngjiān</em> shì xǐshǒujiān.</span><span class="trans">Our bathroom is between the bedroom and the living room.</span>
+
+</div>
+
+Grammatically, both 之间 and 中间 are nouns ([[location noun]]s, to be precise). One difference between the two, however, is that 中间 can be used all by itself, but 之间 is always used together with other words.
+
+<div class="liju">
+
+<ul>
+<li class="x">明天 早上 我 有 两 个 考试 ，<em>之间</em> 有 20 分钟 的 休息 时间 。<span class="pinyin">Míngtiān zǎoshang wǒ yǒu liǎng gè kǎoshì, <em>zhījiān</em> yǒu èrshí fēnzhōng de xiūxi shíjiān.</span></li>
+<li class="o">明天 早上 我 有 两 个 考试 ，<em>中间</em> 有 20 分钟 的 休息 时间 。<span class="pinyin">Míngtiān zǎoshang wǒ yǒu liǎng gè kǎoshì, <em>zhōngjiān</em> yǒu èrshí fēnzhōng de xiūxi shíjiān.</span><span class="trans">I have two exams tomorrow morning. There is a 20 minute break in between.</span></li>
+</ul>
+
+</div>
+
+== Usages of 中间 ==
+
+=== 中间 as "In the Middle of" ===
+
+中间 can be used for describing location within an object. This "within" could be "inside" a space, like inside a house, in the middle (center) of a table, or in the middle of the screen. You can't use 之间 in this way.
+
+==== Structure ====
+
+<div class="jiegou">
+Place (+ 的) + 中间 
+</div>
+
+==== Examples ====
+
+<div class="liju">
+
+*<strong>客厅 的</strong> <em>中间</em> 有 一 个 沙发 。<span class="pinyin"><strong>Kètīng de</strong> <em>zhōngjiān</em> yǒu yī gè shāfā.</span><span class="trans">There is a sofa in the middle of the living room.</span>
+*我 的 座位 在 <strong>第 七 排</strong> <em>中间</em> 。<span class="pinyin">Wǒ de zuòwèi zài <strong>dì-qī pái</strong> <em>zhōngjiān</em>.</span><span class="trans">My seat is in the middle of Row 7.</span>
+*把 花 放 在 <strong>桌子</strong> <em>中间</em> 。<span class="pinyin">Bǎ huā fàng zài <strong>zhuōzi </strong> <em>zhōngjiān</em>.</span><span class="trans">Put the flowers in the middle of the table.</span>
+
+</div>
+
+Try not to say:
+
+<div class="liju">
+
+<ul>
+<li class="x"><strong>大厅</strong> <em>之间</em> 有 很多 人 。<span class="pinyin"><strong>Dàtīng</strong> <em>zhījiān</em> yǒu hěn duō rén.</span><span class="trans">There are many people in the middle of the lobby.</span></li>
+</ul>
+
+</div>
+
+=== 中间 as "Among" ===
+
+中间 is used when referring to one (or more) "among many."
+
+A few examples:
+
+<div class="liju">
+*<strong>你们</strong> <em>中间</em> 有 会 唱歌 的 吗 ？<span class="pinyin"><strong>Nǐmen</strong><em>zhōngjiān</em> yǒu huì chànggē de ma?</span><span class="trans">Can anyone among you sing?</span>
+*<strong>这些 人</strong> <em>中间</em> 我 只 认识 一 个 。<span class="pinyin"><strong>Zhèxiē rén</strong> <em>zhōngjiān</em> wǒ zhī rènshi yī gè.</span><span class="trans">Among these people, I only know one person.</span>
+</div>
+
+之间 can't be used to mean "among" like this.
+
+== Usages of 之间 ==
+
+=== 之间 as "Ranging from... to..." ===
+
+This usage refers to examples like "between 8am and 3pm" or "between 20 and 30".
+
+==== Structure ====
+
+<div class="jiegou">
+A + 到 + B + 之间
+</div>
+
+==== Examples ====
+
+<div class="liju">
+
+*你 可以 明天 早上 八 点 <strong>到</strong> 十 点 <em>之间</em> 过来 。<span class="pinyin">Nǐ kěyǐ míngtiān zǎoshang bā diǎn <strong>dào</strong> shí diǎn <em>zhījiān</em> guòlái.</span><span class="trans">You can come between 8am and 10am tomorrow.</span>
+*45 岁 <strong>到</strong> 60 岁 <em>之间</em> 的 人 很 容易 得 这种病 。<span class="pinyin">Sìshí-wǔ suì <strong>dào</strong> liùshí suì <em>zhījiān</em> de rén hěn róngyì dé zhè zhǒng bìng.</span><span class="trans">People aged 45 to 60 years old are susceptible to this disease.</span>
+
+</div>
+
+=== 之间 for Describing Relationships ===
+
+The idea is that the relationship is "between" two or more people, with the abstract "between" part indicated by 之间. This usage of 之间 can also refer to relationships between two (or more) companies, countries, etc., but mostly it's used between people. 中间 can't be used in this way.
+
+A few examples:
+
+<div class="liju">
+*<strong>夫妻</strong> <em>之间</em> 应该 多 交流 。<span class="pinyin"><strong>Fūqī</strong> <em>zhījiān</em> yīnggāi duō jiāoliú.</span><span class="trans">There should be plenty of communication between husband and wife.</span>
+*<strong>你们</strong> <em>之间</em> 到底 发生了 什么 事情 ？<span class="pinyin"><strong>Nǐmen</strong> <em>zhījiān</em> dàodǐ fāshēng le shénme shìqing?</span><span class="trans">What exactly happened between the two of you?</span>
+*她 不 太 会 处理 <strong>上下 级</strong> <em>之间</em> 的 关系 。<span class="pinyin">Tā bù tài huì chǔlǐ <strong>shàng-xià jí</strong> <em>zhījiān</em> de guānxi.</span><span class="trans">She doesn't really understand how to handle the relationships between superiors and subordinates.</span>
+</div>
+
+[[Category:grammar comparison]]
+{{HSK|HSK0}}
+{{Basic Grammar|之间|B1|之间 vs. 中间| 八 点 到 十 点 <em>之间</em> 我 都 有空 。客厅 的 <em>中间</em> 有 一 个 沙发 。|grammar point|ASGN6O6J}}
+{{Rel char|中间}}
+{{Rel char|中}}
+{{Rel char|之}}
+{{Translation|between}}
+{{Translation|among}}
+{{Comparison|Nouns}}

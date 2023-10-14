@@ -1,0 +1,101 @@
+<!-- Standard negation with "bu" -->
+{{Grammar Box}}
+
+不 (bù) is generally used to negate a [[verb]] in the present or future, or to talk about what you do not do, as a habit. So expressing things like "I don't want to go" or "I'm not going" or "I don't eat meat" would be typical uses of 不 (bù).
+
+== Negating Verbs ==
+
+=== Structure ===
+
+The standard way to negate verbs in Chinese is with 不 (bù). To negate a verb, simply place 不 (bù) before it:
+
+<div class="jiegou">
+
+Subj. + 不 + Verb + Obj.
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 他们 <em>不</em> <strong>是</strong> 坏 孩子。<span class="pinyin">Tāmen <em>bù</em> <strong>shì </strong> huài háizi.</span><span class="trans">They are not bad kids.</span>
+*我们 <em>不</em> <strong>喝</strong> 酒。<span class="pinyin">Wǒmen <em>bù</em> <strong>hē</strong>jiǔ.</span><span class="trans">We don't drink alcohol.</span>
+* 我 今天 <em>不</em> <strong>想 工作</strong>。<span class="pinyin">Wǒ jīntiān <em>bù</em> <strong>xiǎng gōngzuò</strong>.</span><span class="trans">I don't want to work today.</span>
+* 你 <em>不</em> <strong>喜欢</strong> 我 吗？<span class="pinyin"> Nǐ <em>bù</em> <strong>xǐhuan </strong> wǒ ma?</span><span class="trans">Do you not like me?</span>
+* 为什么 你 <em>不</em> <strong>喜欢 喝</strong> 咖啡？<span class="pinyin">Wèishénme nǐ <em>bù</em> <strong>xǐhuan hē </strong> kāfēi?</span><span class="trans">Why don't you like to drink coffee?</span>
+
+</div>
+
+Almost all verbs can be negated with 不 (bù) ([[Negation of past actions with "meiyou"|unless you're talking about the past]]). The only verb that can never be negated with 不 (bù) is [[Negation of "you" with "mei"|有 (yǒu)]].
+
+<div class="liju">
+<ul>
+<li class="x">我 <em>不</em><strong>有</strong>时间。<span class="pinyin">Wǒ <em>bù </em><strong>yǒu</strong> shíjiān.</span></li>
+<li class="o">我 <em>没</em><strong>有</strong>时间。<span class="pinyin">Wǒ <em>méi</em><strong>yǒu</strong> shíjiān.</span><span class="trans">I don't have time.</span></li>
+</ul>
+</div>
+
+== Negating Adjectives ==
+
+As it turns out, the structure with an [[adjective]] is basically the same as the one with a verb.
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + 不 + Adj.
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 我 <em>不</em> <strong>饿</strong>。<span class="pinyin">Wǒ <em>bù</em> <strong>è</strong>.</span><span class="trans">I'm not hungry.</span>
+* 这 个 <em>不</em> <strong>贵</strong>。<span class="pinyin">Zhège <em>bù</em> <strong>guì</strong>.</span><span class="trans">This is not expensive.</span>
+* 公司 <em>不</em> <strong>大</strong>。<span class="pinyin">Gōngsī <em>bù</em> <strong>dà</strong>.</span><span class="trans">The company is not big.</span>
+* 老板 今天 很 <em>不</em> <strong>高兴</strong>。<span class="pinyin">Lǎobǎn jīntiān hěn <em>bù</em> <strong>gāoxìng </strong>.</span><span class="trans">The boss is very unhappy today.</span>
+* 我 哥哥 <em>不</em> <strong>高</strong>，但是 很 帅。<span class="pinyin">Wǒ gēge <em>bù</em> <strong>gāo </strong>, dànshì hěn shuài.</span><span class="trans">My older brother is not tall, but he is very handsome.</span>
+
+</div>
+
+==See also==
+*[[Negation of "you" with "mei"]]
+*[[Negation of past actions with "meiyou"]]
+
+== Sources and Further Reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|16}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|31}}
+{{Source|Chinese: An Essential Grammar, Second Edition|45}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|146-150}}
+
+=== Websites ===
+
+* FluentU: [https://www.fluentu.com/blog/chinese/2018/10/24/basic-chinese-grammar/ 5 Totally Uncomplicated Tips to Master Basic Chinese Grammar]
+
+===Videos===
+
+* Yoyo Chinese: [https://www.youtube.com/watch?v=340G2Sw4Z50&list=PL94A5E422FB99CDDD Negation word 不]
+
+[[Category:A1 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+[[Category:Verbs]]
+[[Category:Adverbs]]
+{{Used for|Negating}}
+{{Used for|Describing actions}}
+{{Used for|Denying and refusing}}
+{{Used for|Referring to the present}}
+{{Used for|Referring to the future}}
+{{Used for|Referring to habitual actions}}
+{{Basic Grammar|不|A1|不 + Verb / Adj.|他们 <em>不</em> 是 坏 孩子。|grammar point|ASGIPYFV}}
+{{Similar|Negation of "you" with "mei"}}  
+{{Similar|Negation of past actions with "meiyou"}}
+{{Similar|Connecting nouns with "shi"}}    
+{{Similar|Basic sentence order}} 
+{{Similar|Comparing "bu" and "mei"}}       
+{{POS|Adverbs}}
+{{Translation|not}}

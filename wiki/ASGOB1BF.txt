@@ -1,0 +1,48 @@
+<!-- Expressing good luck with "haihao" -->
+{{Grammar Box}} 
+
+还好 (háihǎo) can mean "fortunately" or "luckily." Another good translation would be "it's a good thing that...." It is often followed with [[不然]], which precedes the bad thing that ''could have'' happened if not for the stroke of luck.
+
+== Structure ==
+
+<div class="jiegou">
+还好 + [Lucky Incident] ，不然 + [Bad Outcome] 
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*<em>还好</em> 我们 打车 来 的 ，<strong>不然</strong> 就 迟到 了 。<span class="pinyin"><em>Háihǎo</em> wǒmen dǎchē lái de, <strong>bùrán</strong> jiù chídào le.</span><span class="trans">Luckily, we came by taxi. Otherwise we would have been late.</span>
+*<em>还好</em> 我 妈 没 看到 ，<strong>不然</strong> 她 肯定 要 生气 。<span class="pinyin"><em>Háihǎo</em> wǒ mā méi kàndào, <strong>bùrán</strong> tā kěndìng yào shēngqì.</span><span class="trans">It's a good thing that my mother didn't see it. Otherwise she would definitely be mad.</span>
+*<em>还好</em> 有 你 在 ，<strong>不然</strong> 我 真 不 知道 怎么 办 。<span class="pinyin"><em>Háihǎo</em> yǒu nǐ zài, <strong>bùrán</strong> wǒ zhēn bù zhīdào zěnme bàn.</span><span class="trans">Fortunately you're here. Otherwise I really wouldn't have known what to do.</span>
+*<em>还好</em> 带 伞 了 ，<strong>不然</strong> 肯定 淋湿 了 。<span class="pinyin"><em>Háihǎo</em> dài sǎn le, <strong>bùrán</strong> kěndìng línshī le.</span><span class="trans">It's a good thing I brought the umbrella. Otherwise, I would have definitely gotten soaked.</span>
+*<em>还好</em> 我们 买 了 很多 ，<strong>不然</strong> 肯定 不够 。 <span class="pinyin"><em>Háihǎo</em> wǒmen mǎi le hěn duō, <strong>bùrán</strong> kěndìng bù gòu.</span><span class="trans">Luckily, we bought a lot. Otherwise, there wouldn't have been enough.</span>
+*<em>还好</em> 我 没 听 他 的 话，<strong>不然</strong> 就 输 了 。<span class="pinyin"><em>Hái hǎo</em> wǒ méi tīng tā de huà, <strong>bùrán</strong> jiù shū le.</span><span class="trans">It's a good thing I didn't listen to him. Otherwise, I would have lost.</span>
+*<em>还好</em> 我 保存 了，<strong>不然</strong> 文件 都 丢 了 。<span class="pinyin"><em>Háihǎo</em> wǒ bǎocún le, <strong>bùrán</strong> wénjiàn dōu diū le.</span><span class="trans">Luckily, I saved it. Otherwise, I would have lost all of the documents.</span>
+*<em>还好</em> 我 没 点 那么 多 菜 ，<strong>不然</strong> 都 浪费 了 。<span class="pinyin"><em>Háihǎo</em> wǒ méi diǎn nàme duō cài, <strong>bùrán</strong> dōu làngfèi le.</span><span class="trans">It's a good thing I didn't order that much food. Otherwise, it would have all been wasted.</span>
+*<em>还好</em> 老板 不 知道 ，<strong>不然</strong> 你 肯定 被 炒 鱿鱼 。<span class="pinyin"><em>Háihǎo</em> lǎobǎn bù zhīdào, <strong>bùrán</strong> nǐ kěndìng bèi chǎo yóuyú.</span><span class="trans">Luckily, the boss doesn't know about it. Otherwise, you would definitely get fired.</span>
+*<em>还好</em> 你 提醒 我 了 ，<strong>不然</strong> 我 肯定 忘 了。<span class="pinyin"><em>Háihǎo</em> nǐ tíxǐng wǒ le, <strong>bùrán</strong> wǒ kěndìng wàng le.</span><span class="trans">It's a good thing you reminded me. Otherwise, I would have definitely forgotten.</span>
+
+</div>
+
+== See also ==
+
+* [[Expressing "thanks to" with "duokui"]]
+* [[Expressing "how about" with "yaobu"]]
+
+== Sources and further  reading ==
+
+=== Books ===
+
+[[Category:B1 grammar points]]
+{{HSK|HSK0}}
+{{Basic Grammar|还好|B1|还好 + Lucky Incident ，不然 + Bad Outcome|<em>还好</em> 有 你 在 ，<strong>不然</strong> 我 真 不 知道 怎么办 。|grammar point|ASGOB1BF}}
+{{Rel char|还好}}
+{{Rel char|不然}}
+{{Similar|Expressing "thanks to" with "duokui"}}    
+{{Similar|Expressing "how about" with "yaobu"}}    
+{{Structure|Sentence Patterns}}
+{{Subprop|Complex Sentence Patterns}}
+{{Translation|luckily}}
+{{Translation|thanks to}}

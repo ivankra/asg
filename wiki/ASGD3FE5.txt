@@ -1,0 +1,48 @@
+<!-- Expressing "the other" with "lingwai" -->
+{{Grammar Box}} 
+
+另外 (lìngwài) or 另 (lìng) is often used as a pronoun to denote "the other." There is no need to add 的 after 另外, but it's often followed by 一个.
+
+== Structure ==
+
+<div class="jiegou">
+另外 + Number + [Measure Word] + Noun
+</div>
+
+另 can be used instead of 另外 when the following noun is singular (frequently as part of the phrase "另一个").
+
+== Examples ==
+
+<div class="liju">
+
+*我 有 两 个 手机 ，一 个 是 小米 ，<em>另</em> 一 个 是 iPhone 。<span class="pinyin">Wǒ yǒu liǎng gè shǒujī, yī gè shì Xiǎomǐ, <em>lìng</em> yī gè shì iPhone.</span><span class="trans">I have two cell phones. One is a Xiaomi, and the other is an iPhone.</span>
+*她 有 两 套 房子 ，一 套 自己 住 ，<em>另</em> 一 套 租 给 别人 了 。<span class="pinyin">Tā yǒu liǎng tào fángzi, yī tào zìjǐ zhù, <em>lìng</em> yī tào zū gěi biérén le.</span><span class="trans">She has two houses. She lives in one and rents the other one to other people.</span>
+*我 买 了 三 张 票 ，一 张 是 我的 ，<em>另外</em> 两 张 是 给 朋友 的。<span class="pinyin">Wǒ mǎi le sān zhāng piào, yī zhāng shì wǒ de, <em>lìngwài</em> liǎng zhāng shì gěi péngyou de.</span><span class="trans">I bought three tickets. One is for myself, and the other two are for my friends.</span>
+*这 几 本 书 我 今天 拿走 ，<em>另外</em> 几 本 下 次 再 拿 。<span class="pinyin">Zhè jǐ běn shū wǒ jīntiān názǒu, <em>lìngwài</em> jǐ běn xià cì zài ná.</span><span class="trans">I will take these books today. I can get the others next time.</span>
+*这个 蛋糕 一半 是 你 的 ，<em>另</em> 一半 是 妹妹 的 。<span class="pinyin">Zhège dàngāo yībàn shì nǐ de, <em>lìng</em> yībàn shì mèimei de.</span><span class="trans">Half of this cake is yours. The other half is your little sister's.</span>
+*跟 他 一起 去 的 <em>另外</em> 两 个 人 已经 死 了 。<span class="pinyin">Gēn tā yīqǐ qù de <em>lìngwài</em> liǎng gè rén yǐjīng sǐ le.</span><span class="trans">The other two people who went with him already died.</span>
+*她 打算 在 北京 待 五 天 。三 天 出去 玩 ，<em>另外</em> 两天 去 看 朋友 。<span class="pinyin">Tā dǎsuàn zài Běijīng dāi wǔ tiān. Sān tiān chūqù wán, <em>lìngwài</em> liǎng tiān qù kàn péngyou.</span><span class="trans">She plans to stay in Beijing for five days. Three of the days are for going out and having fun. The other two days for visiting friends.</span>
+*我们 公司 和 <em>另外</em> 两 家 公司 共用 一个 办公室 。<span class="pinyin">Wǒmen gōngsī hé <em>lìngwài</em> liǎng jiā gōngsī gòngyòng yī gè bàngōngshì.</span><span class="trans">Our company shares the office with two other companies.</span>
+*他 的 两 个 女儿 一个 嫁给 了 法国人 ，<em>另</em> 一个 嫁给 了 德国 人 。 <span class="pinyin">Tā de  liǎng gè nǚ'ér yī gè jià gěi le Fǎguó rén, <em>lìng</em> yī gè jià gěi le Déguó rén.</span><span class="trans">He has two daughters, one of which married a French guy and the other married a German guy.</span>
+*一些 人 总是 对 <em>另外</em> 一些 人 有 偏见 。<span class="pinyin">Yīxiē rén zǒngshì duì <em>lìngwài</em> yīxiē rén yǒu piānjiàn.</span><span class="trans">Some people always have prejudices against other people.</span>
+
+</div>
+
+== See also ==
+
+* [[Expressing "again" in the future with "zai"]]
+* [[Expressing "in addition" with "lingwai"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+[[Category:B1 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|另外|B1|另外 + Number + Measure Word + Noun|我 有 两 个 手机 ，一 个 是 小米 ，<em>另</em> 一 个 是 iPhone 。|grammar point|ASGD3FE5}}
+{{Similar|Expressing "again" in the future with "zai"}}
+{{Similar|Expressing "in addition" with "lingwai"}}
+{{Structure|Noun Phrases}}
+{{Translation|other}}
+{{Translation|the other}}
+{{Translation|another}}

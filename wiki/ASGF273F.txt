@@ -1,0 +1,66 @@
+<!-- Advanced uses of "lian" -->
+{{Grammar Box}} 
+[[Expressing "even" with "lian" and "dou"|连⋯⋯都⋯⋯ (lián... dōu...)]] is a pattern that can be used to emphasize certain unexpected or surprising events or information, like "even" in English.
+
+== 连 as "Not at All" ==
+
+Using this type of sentence structure emphasizes "not even... at all...."
+
+=== Structure ===
+
+<div class="jiegou">
+连 + Verb + 都 + 不 / 没 + Verb (，就 ⋯⋯)
+</div>
+
+Note that the two verbs in this pattern are the ''same verb''. It repeats.
+
+=== Examples ===
+
+<div class="liju">
+
+*朋友 ？这个 人 我 <em>连</em> 见 <strong>都</strong> 没 见 过 。<span class="pinyin">Péngyou? Zhège rén wǒ <em>lián</em> jiàn <strong>dōu</strong> méi jiàn guo.</span><span class="trans">Friends? I've never even met this person.</span>
+*你 怎么 <em>连</em> 问 <strong>都</strong> 不 问  <strong>就</strong> 拿 别人 的 东西 ？<span class="pinyin">Nǐ zěnme <em>lián</em> wèn <strong>dōu</strong> bù wèn <strong>jiù</strong> ná biérén de dōngxi?</span><span class="trans">Why are you taking other people's stuff without even asking?</span>
+*他 <em>连</em> 说 <strong>都</strong> 不 说 <strong>就</strong> 走 了 。<span class="pinyin">Tā <em>lián</em> shuō <strong>dōu</strong> bù shuō <strong>jiù</strong> zǒu le.</span><span class="trans">He just left without even saying anything.</span>
+*你们 <em>连</em> 尝 <strong>都</strong> 没 尝 <strong>就</strong> 说 不 好吃 ？<span class="pinyin">Nǐmen <em>lián</em> cháng <strong>dōu</strong> méi cháng <strong>jiù</strong> shuō bù hǎochī?</span><span class="trans">You guys didn't even taste it at all and you say it's not good?</span>
+*这 本 书，你 <em>连</em> 看 <strong>都</strong> 不 看 <strong>就</strong> 送人 了 。<span class="pinyin">Zhè běn shū, nǐ <em>lián</em> kàn <strong>dōu</strong> bù kàn <strong>jiù</strong> sòng rén le.</span><span class="trans">You gave this book away without even reading it first.</span>
+</div>
+
+== 连 as "Not Even One" ==
+
+Here 连 serves as an adverb to add emphasis. It [[Expressing "not even one"|can also be omitted]].
+
+=== Structure ===
+
+<div class="jiegou">
+连 + 一 + Measure Word (+ Noun) + 都 + 不 / 没 + Verb
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*两 年 前，他 <em>连</em> 一 句 中文 <strong>都</strong> 不 会 说 。<span class="pinyin">Liǎng nián qián, tā <em>lián</em> yī jù Zhōngwén <strong>dōu</strong> bù huì shuō.</span><span class="trans">He couldn't even say a sentence in Chinese two years ago.</span>
+*他 <em>连</em> 一 套 西服 <strong>都</strong> 没有 ？<span class="pinyin">Tā <em>lián</em> yī  tào xīfú <strong>dōu</strong> méiyǒu?</span><span class="trans">He doesn't even have a single suit?</span>
+*我们 <em>连</em> 一 次 <strong>都</strong> 没 见 过 。<span class="pinyin">Wǒmen <em>lián</em> yī cì <strong>dōu</strong> méi jiàn guo.</span><span class="trans">We haven't met even once.</span>
+*我 <em>连</em> 一 口 蛋糕 <strong>都</strong> 没 吃 到 。<span class="pinyin">Wǒ <em>lián</em> yī kǒu dàngāo <strong>dōu</strong> méi chī dào.</span><span class="trans">I haven't gotten even a single bite of cake.</span>
+*小明 <em>连</em> 一 次 火车 <strong>都</strong> 没 坐 过 。 <span class="pinyin">Xiǎo Míng <em>lián</em> yī cì huǒchē <strong>dōu</strong> méi zuò guo.</span><span class="trans">Xiao Ming has never taken a train even once.</span>
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4下|5}}
+
+[[Category:B2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|连|B2|连 + Verb + 都 + 不 / 没 + Verb (，就 ⋯⋯)|朋友 ？这个 人 我 <em>连</em> 见 <strong>都</strong> 没 见 过 。|grammar point|ASGF273F}}
+{{Rel char|都}}
+{{Used for|Expressing attitude}}
+{{Used for|Adding more explanation}}
+{{Similar|Expressing "not even one"}}
+{{Similar|Expressing "even" with "shenzhi"}}
+{{Similar|Expressing "let alone" with "bie shuo"}}
+{{Similar|Expressing "let alone" with "geng buyong shuo"}}
+{{Structure|Sentence Patterns}}
+{{Translation|even}}

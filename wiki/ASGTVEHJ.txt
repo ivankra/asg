@@ -1,0 +1,95 @@
+<!-- Expressing "in the end" with "daodi" -->
+{{Grammar Box}} 
+到底 (dàodǐ) literally means "to the bottom," and often is used where the speaker wants to get to the bottom of a problem or issue, emphasizing or questioning what the real reason for something is. 
+
+== 到底 as 毕竟 or "In the End" ==
+
+It is often used like [[毕竟]], to mean "after all" or "in the end." When used in this way, 到底 is used to emphasize a reason or characteristic the speaker considers to be most important.
+
+===Structure===
+
+<div class="jiegou">
+到底 ⋯⋯ ，Reason / Characteristic
+</div>
+
+===Examples===
+
+<div class="liju">
+*<em>到底</em> 是 个 大 老板，出手 就是 大方 。 <span class="pinyin"><em>Dàodǐ</em> shì ge dà lǎobǎn, chūshǒu jiùshì dàfang.</span><span class="trans">Look how generous he is with money. He is a high-level boss, after all....</span>
+*<em>到底</em> 是 个 高手，这么 快 就 把 问题 解决 了！<span class="pinyin"><em>Dàodǐ</em> shì ge gāoshǒu, zhème kuài jiù bǎ wèntí jiějué le!</span><span class="trans">"He is a master, after all. Look how quickly he solved the problem.</span>
+*<em>到底</em> 还 是 孩子，有些 事情 他 不 懂 是 很 正常 的。<span class="pinyin"><em>Dàodǐ</em> háishì háizi, yǒuxiē shìqing tā bù dǒng shì hěn zhèngcháng de.</span><span class="trans">"He is a kid, after all. It's normal for him to not understand some things.</span>
+</div>
+
+== 到底 as 究竟 or "On Earth" ==
+
+到底 can be used to mean "on earth" (as in "what on earth?!") where it is used to add emphasis or urgency to a question. In this sense, 到底 is similar to [[Expressing "In the End" with "jiujing"|究竟]].
+
+===Structure===
+
+<div class="jiegou">
+到底 + Question Word
+</div>
+
+<div class="jiegou">
+到底 + Verb ＋ 不 / 没 ＋ Verb
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*你 <em>到底</em> 怎么 了？<span class="pinyin">Nǐ <em>dàodǐ</em> zěnme le?</span><span class="trans">What on earth is up with you?</span>
+*<em>到底</em> 怎么 走？<span class="pinyin"><em>Dàodǐ</em> zěnme zǒu?</span><span class="trans">How on earth do we get there?</span>
+*快 说 啊！你 男友 <em>到底</em> 是 谁？<span class="pinyin">Kuài shuō a! Nǐ nányǒu <em>dàodǐ</em> shì shéi?</span><span class="trans">Speak up! Who on earth is your boyfriend?</span>
+*你 <em>到底</em> 说 不 说？<span class="pinyin">Nǐ <em>dàodǐ</em> shuō bu shuō?</span><span class="trans">Are you going to tell me or not?</span>
+*你 <em>到底</em> 喜 不 喜欢 我？<span class="pinyin">Nǐ <em>dàodǐ</em> xǐ bu xǐhuan wǒ?</span><span class="trans">Do you like me or not?</span>
+*他们 <em>到底</em> 离 没 离婚？<span class="pinyin">Tāmen <em>dàodǐ</em> lí méi líhūn?</span><span class="trans">Did they get divorced or not?</span>
+</div>
+
+Note that 到底 can't appear in an answer to a question. Also, 吗 can't appear in a question formed with 到底 but 没有 can be used instead:
+
+<div class="liju">
+<ul>
+<li class="x"> 你 到底 吃 了 <strong>吗</strong> ？<span class="pinyin">Nǐ <em>dàodǐ</em> chī le <strong>ma</strong>?</span></li>
+<li class="o"> 你 到底 吃 了 <strong>没有</strong> ？<span class="pinyin">Nǐ <em>dàodǐ</em> chī le <strong>méiyǒu</strong>?</span><span class="trans">Have you eaten or not?</span></li>
+</ul>
+</div>
+
+== 到底 as 终于 or "Finally" ==
+
+到底 can be used to mean "finally." In this sense, 到底 is similar to [[Expressing "finally" with "zhongyu"|终于]].
+
+=== Structure ===
+
+<div class="jiegou">
+到底 ＋ Verb ＋ 了
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*天气 <em>到底</em> 暖和 了。<span class="pinyin">Tiānqì <em>dàodǐ</em> nuǎnhuo le.</span><span class="trans">The weather is finally warm.</span>
+*他 <em>到底</em> 想 明白 了。<span class="pinyin">Tā <em>dàodǐ</em> xiǎng míngbai le.</span><span class="trans">He finally understood.</span>
+*经过 两 年 多 的 努力，我们 的 项目 <em>到底</em> 成功 了。<span class="pinyin">Jīngguò liǎng nián duō de nǔlì, wǒmen de xiàngmù <em>dàodǐ</em> chénggōng le.</span><span class="trans">After working on it for over two years, our project finally succeeded.</span>
+</div>
+
+==See also==
+
+* [[Expressing "After All" with "bijing"]]
+* [[Expressing "In the End" with "jiujing"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4下|78, 132}}
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级) |127-33}}
+{{Source|Boya Chinese Lower Intermediate 2 (博雅汉语准中级加速篇) |183-5}}
+
+{{HSK|HSK4}}
+{{Basic Grammar|到底|B2|到底|事情 <em>到底</em> 是 办 成 了 。|grammar point|ASGTVEHJ}}
+{{Similar|Expressing "After All" with "bijing"}}
+{{Similar|Expressing "In the End" with "jiujing"}}
+{{Rel char|毕竟}}
+{{Rel char|究竟}}
+{{Used for|Exclaiming}}
+{{POS|Adverbs}}

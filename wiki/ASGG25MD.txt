@@ -1,0 +1,173 @@
+<!-- The "also" adverb "ye" -->
+{{Grammar Box}} 
+
+The English adverb "too" or "also" is expressed in Chinese as 也 (yě). In Chinese, it ''always'' needs to come before the verb (or adjective).
+
+== 也 (yě) with Verb Phrases ==
+
+=== Structure ===
+
+Since it is an [[adverb]], 也 (yě) is inserted after the subject, before the [[verb]] or [[verb phrase]].
+
+<div class="jiegou">
+
+Subj. + 也 + Verb / [Verb Phrase]
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我 <em>也</em> 喜欢。 <span class="pinyin"> Wǒ <em>yě</em> xǐhuan.</span><span class="trans">I also like it.</span>
+*我 <em>也</em> 是 学生 。 <span class="pinyin"> Wǒ <em>yě</em> shì xuésheng.</span><span class="trans">I am a student too.</span>
+*她 <em>也</em> 有 一个 儿子。 <span class="pinyin"> Tā <em>yě</em> yǒu yī gè érzi.</span><span class="trans">She also has a son.</span>
+*他们 <em>也</em> 是 法国 人 吗？ <span class="pinyin">Tāmen <em>yě</em> shì Fǎguó rén ma?</span><span class="trans">Are they also French?</span>
+*我 <em>也</em> 想 学 中文。 <span class="pinyin">Wǒ <em>yě</em> xiǎng xué Zhōngwén.</span><span class="trans">I also want to study Chinese.</span>
+*他们 <em>也</em> 会 去吗？ <span class="pinyin">Tāmen <em>yě</em> huì qù ma?</span><span class="trans">Are they also going?</span>
+*我 妈妈 <em>也</em> 喜欢 吃 饺子。 <span class="pinyin">Wǒ māma <em>yě</em> xǐhuan chī jiǎozi.</span><span class="trans">My mother likes to eat boiled dumplings too.</span>
+*孩子 <em>也</em> 可以 喝酒 吗？ <span class="pinyin"> Háizi <em>yě</em>  kěyǐ hējiǔ ma?</span><span class="trans">Can kids drink alcohol too?</span>
+*你 <em>也</em> 想 来 我 家 吗？ <span class="pinyin">Nǐ <em>yě</em>  xiǎng lái wǒ jiā ma?</span><span class="trans">Do you want to come to my house too?</span>
+*她 <em>也</em> 觉得 这 个 老师 不 好。<span class="pinyin"> Tā <em>yě</em> juéde zhège lǎoshī bù hǎo.</span><span class="trans">She also thinks this teacher isn't good.</span>
+
+</div>
+
+Let's take one more look at two different English sentences which mean the same thing, but can result in bad Chinese if you translate word-for-word.
+
+<div class="liju">
+
+<ul>
+<li class="o"> 我<em>也</em><strong>喜欢</strong>。<span class="pinyin"> Wǒ <em>yě</em><strong> xǐhuan</strong>.</span><span class="trans">I also like it.</span></li>
+<li class="x"> 我 <strong>喜欢</strong> <em>也</em>。 <span class="pinyin"> Wǒ xǐhuan <em>yě</em>.</span><span class="trans">I like it too.</span></li>
+</ul>
+
+</div>
+
+Note that the translation for the first sentence is "I also like it." The translation of the second sentence is "I like it too," which is equally correct in English, but translated word-for-word into Chinese, the 也 (yě) comes at the end of the sentence, which is ''100% wrong'' in Chinese.
+
+=== A Note on the Negative Form ===
+
+Please note that in English, we replace the word "too" with "either" in negative sentences.  For example:
+
+<div class="liju liju-en">
+
+<ul class="dialog">
+<li><span class="speaker">A:</span>I like cats.</li>
+<li><span class="speaker">B:</span>I like cats ''too''.</li>
+</ul>
+
+<ul class="dialog">
+<li><span class="speaker">A:</span> I ''don't'' like cats.</li>
+<li><span class="speaker">B:</span>  I don't like cats ''either''.</li>
+</ul>
+
+</div>
+
+In Chinese, regardless of whether the sentence is positive ("I like them '''too'''") or negative ("I '''don't''' like them '''either'''"), 也 (yě) is used the same way.  Just make sure you put the 也 (yě) ''before'' the 不 (bù) or other negative part that comes before the verb.
+
+<div class="liju">
+
+*我 <em>也</em> <strong>不</strong> 喜欢。 <span class="pinyin"> Wǒ <em>yě</em> bù xǐhuan.</span><span class="trans">I don't like it either.</span>
+*我 <em>也</em> <strong>不</strong> 知道。 <span class="pinyin"> Wǒ <em>yě</em> bù zhīdào.</span><span class="trans">I don't know either.</span>
+*他 <em>也</em> <strong>没</strong> 有。 <span class="pinyin">Tā <em>yě</em> méiyǒu.</span><span class="trans">He doesn't have it either.</span>
+*你 <em>也</em> <strong>不</strong> 想 来 我 家 吗？ <span class="pinyin">Nǐ <em>yě</em> bù xiǎng lái wǒ jiā ma?</span><span class="trans">You don't want to come to my house either?</span>
+
+</div>
+
+== 也 (yě) with Adjectives ==
+
+=== Structure ===
+
+也 (yě) can also be used with adjectives. Remember that for [[simple "noun + adjective" sentences]] you normally need to include an adverb like 很 (hěn) before the adjective. In that case, just put the 也 (yě) before the adverb.
+
+<div class="jiegou">
+
+Subj. + 也 (+ Adv.) + Adj.
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*你 <em>也</em> <strong>很</strong> 高。 <span class="pinyin">Nǐ <em>yě</em> <strong>hěn</strong> gāo.</span><span class="trans">You are also tall.</span>
+*他 <em>也</em> <strong>很</strong> 胖。 <span class="pinyin"> Tā <em>yě</em> <strong>hěn</strong>  pàng.</span><span class="trans">He is also fat.</span>
+*我 爸爸 <em>也</em> <strong>很</strong> 帅。 <span class="pinyin">Wǒ bàba <em>yě</em> <strong>hěn</strong>  shuài.</span><span class="trans">My dad is also handsome.</span>
+*湖南 菜 <em>也</em> <strong>很</strong> 辣。 <span class="pinyin">Húnán cài <em>yě</em> <strong>hěn</strong> là.</span><span class="trans">Hunan food is very spicy too.</span>
+*这 种 酒 <em>也</em> <strong>很</strong> 好喝。 <span class="pinyin">Zhè zhǒng jiǔ <em>yě</em> <strong>hěn</strong> hǎohē.</span><span class="trans">This kind of alcohol is also good.</span>
+*这 个 地方 <em>也</em> <strong>很</strong> 漂亮。 <span class="pinyin"> Zhège dìfang <em>yě</em> <strong>hěn</strong> piàoliang.</span><span class="trans">This place is also pretty.</span>
+*昨天 很 冷 ， 今天 <em>也</em> <strong>很</strong> 冷。 <span class="pinyin">Zuótiān hěn lěng, jīntiān <em>yě</em> <strong>hěn</strong> lěng.</span><span class="trans">Yesterday was cold, and today is also cold.</span>
+*他 生气 了 ？ 我 <em>也</em> <strong>很</strong> 生气！ <span class="pinyin">Tā shēngqì le?  Wǒ <em>yě</em> <strong>hěn</strong> shēngqì!</span><span class="trans">He got angry? I'm also angry!</span>
+*这 个 问题 <em>也</em> <strong>很</strong> 麻烦。 <span class="pinyin">Zhège wèntí <em>yě</em> <strong>hěn</strong> máfan.</span><span class="trans">This problem is also very troublesome.</span>
+*我 觉得 这 个 餐厅 <em>也</em> <strong>很</strong> 好 。 <span class="pinyin">Wǒ juéde zhège cāntīng <em>yě</em> <strong>hěn</strong> hǎo.</span><span class="trans">I think that this restaurant is also good.</span>
+
+</div>
+
+== Expressing "Me Too" with 也 (yě) ==
+
+It can be tricky to know how to say "me too" when you first study 也 (yě), as you can't say "wǒ yě" all by itself. That's not a complete sentence; you can't just leave 也 (yě) hanging there with nothing after it.
+
+The all-purpose correct sentence is "wǒ yě shì," which literally means, "I am too," but can also stand in for "me too."
+
+=== Structure ===
+
+The correct structure uses the verb 是 (shì):
+
+<div class="liju">
+
+<ul>
+<li class="o">我 <em>也</em> <strong>是</strong>。<span class="expl">The 是 fills in for whatever was just said.</span><span class="pinyin">Wǒ <em>yě</em> <strong>shì</strong>.</span><span class="trans">I am too. / Me too.</span></li>
+<li class="x">我 <em>也</em> 。 <span class="expl">Always put something after 也! It never ends a sentence.</span><span class="pinyin">Wǒ <em>yě</em>.</span></li>
+</ul>
+
+</div>
+
+=== Examples ===
+
+The "me too" structure works with other subjects, as well. But for these simple examples, we'll stick to the classic 我 (wǒ) subject.
+
+<div class="liju">
+
+<ul class="dialog">
+<li><span class="speaker">A:</span> 我 是 美国人 。<span class="pinyin"> Wǒ shì Měiguó rén.</span><span class="trans">I am an American.</span></li> 
+<li><span class="speaker">B:</span> 我 <em>也</em><strong> 是</strong>。<span class="pinyin"> Wǒ <em>yě</em><strong> shì</strong>.</span><span class="trans">Me too. / I am too.</span></li>
+</ul>
+
+For this next one, you'll notice that the "me too" reply repeats the original verb 喜欢 (xǐhuan) instead of using 是 (shì). Both ways are possible.
+
+<ul class="dialog">
+<li><span class="speaker">A:</span> 我 喜欢 看 书 。<span class="pinyin">Wǒ xǐhuan kàn shū.</span><span class="trans">I like to read.</span></li> 
+<li><span class="speaker">B:</span> 我 <em> 也</em> <strong>喜欢</strong>。<span class="pinyin"> Wǒ <em>yě </em><strong>xǐhuan</strong>.</span><span class="trans">Me too. / So do I.</span></li>
+</ul>
+</div>
+
+You'll notice that some of those English translations use "so do I."  The Chinese works exactly the same; they're just translated that way to produce more natural-sounding English.
+
+==See also==
+
+*[["Ye" and "dou" together]]
+*[[Expressing "and also" with "hai"]]
+*[[The "all" adverb "dou"]]
+*[[Expressing "and also" with "hai"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|98}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|31-2}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|88}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|73}} 
+
+[[Category:A1 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+[[Category:Dialogs]]
+{{Basic Grammar|也|A1|也 + Verb / Adj.|昨天 很 冷，今天 <em>也</em> <strong>很</strong> 冷。|grammar point|ASGG25MD}}
+{{Used for|Adding more explanation}}
+{{Similar|"Ye" and "dou" together}} 
+{{Similar|Expressing "and also" with "hai"}} 
+{{Similar|The all adverb "dou"}}
+{{Similar|Simple "noun + adjective" sentences}}
+{{Translation|too}}
+{{Translation|also}}
+{{POS|Adverbs}}

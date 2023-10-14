@@ -1,0 +1,79 @@
+<!-- Alternative existential sentences -->
+{{Grammar Box}}
+
+Expressing something's existence in a certain place or location is not just limited to 在 (zài) and 有 (yǒu). The word order may be a little different from what you are used to, but 着 (zhe) and 是 (shì) are also ways to make everyday statements such as, "There is a book lying on the desk."
+
+== Pattern with 着 ==
+
+Verbs that are paired with 着 are usually [[stative verb]]s. So unlike with [[action verb]]s, you're going to be describing an action that is kind of like just sitting there. It could be standing there, lying there, sitting there hanging there... the point is it isn't actively expending energy ''doing'' anything. 
+
+=== Structure ===
+
+<div class="jiegou">
+Place + Verb + 着 + [Noun Phrase]
+</div>
+
+=== Examples ===
+
+<div class= "liju">
+
+*桌子 上 放 <em>着</em> 一 本 书 。<span class="pinyin">Zhuōzi shàng fàng <em>zhe</em> yī běn shū .</span><span class="trans">There is a book on the desk.</span>
+*大厅 里 站 <em>着</em> 一些 警察 。<span class="pinyin">Dàtīng lǐ zhàn <em>zhe</em> yīxiē jǐngchá.</span><span class="trans">There are several policemen standing in the hall.</span>
+*教室 里 坐 <em>着</em> 两 百 多 个 学生 。<span class="pinyin">Jiàoshì lǐ zuò <em>zhe</em> liǎng bǎi duō gè xuéshēng.</span><span class="trans">There are more than two hundred students sitting in the classroom.</span>
+*地下室 里 堆 <em>着</em> 很 多 旧 东西 。<span class="pinyin">Dìxiàshì lǐ duī <em>zhe</em> hěn duō jiù dōngxi.</span><span class="trans">There is lots of old stuff piled up in the basement.</span>
+*楼下 停 <em>着</em> 几 辆 车 。<span class="pinyin">Lóuxià tíng <em>zhe</em> jǐ liàng chē.</span><span class="trans">A few cars are parked downstairs.</span>
+
+</div>
+
+Note that in English we sometimes use a verb in its "-ing" form, and sometimes use the passive "-ed" form of the verb.
+
+== Pattern with 是 ==
+
+The subject in the 是 sentence pattern indicates the location or area. The object that comes after 是 is the only thing (worth mentioning) in that area. It's worth noting that there's no real time indication for most sentences like this. It could be setting a scene in a story (in the past), or it could be describing the current state of things (in the present).
+
+=== Structure ===
+
+<div class="jiegou">
+Place + 是 + [Noun Phrase]
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*洗衣机 里 <em>是</em> 一些 脏 衣服 。<span class="expl">There is nothing in the washing machine other than the dirty clothes.</span><span class="pinyin">Xǐyījī lǐ <em>shì</em> yīxiē zāng yīfu.</span><span class="trans">There are dirty clothes inside the washing machine.</span>
+*袋子 里 <em>是</em> 我 的 午饭 。<span class="expl">The only thing in the bag is my lunch.</span><span class="pinyin">Dàizi lǐ <em>shì</em> wǒ de wǔfàn.</span><span class="trans">My lunch is in the bag.</span>
+*墙 上 都 <em>是</em> 他 家人 的 照片 。<span class="expl">His family's photos are all over the wall, and nothing else is on he wall.</span><span class="pinyin">Qiáng shàng dōu <em>shì</em> tā jiārén de zhàopiàn.</span><span class="trans">His family's photos are hanging on the wall.</span>
+*盒子 里 <em>是</em> 你 的 礼物 。<span class="expl">Other than your gift, there is nothing else in the box.</span><span class="pinyin">Hézi lǐ <em>shì</em> nǐ de lǐwù.</span><span class="trans">Your gift is in the box.</span>
+*桌子 上 <em>是</em> 昨天 没 吃完 的 菜 。<span class="expl">The food that was left over from yesterday is the only thing on the table.</span><span class="pinyin">Zhuōzi shàng <em>shì</em> zuótiān méi chī wán de cài.</span><span class="trans">The food that was left over from yesterday is on the table.</span>
+
+</div>
+
+Note that 是 is used to describe a singular object existing somewhere, while 有 can refer to multiple objects/people.
+
+== See also ==
+
+*[[Indicating location with "zai" before verbs]]
+*[[Special cases of "zai" following verbs]]
+*[[Expressing existence in a place with "zai"]]
+
+== Sources and Further Reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|23}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|128}}
+{{Source|Integrated Chinese: Level 2, Part 1|191}}
+{{Source|Integrated Chinese: Level 2, Part 2|264, 325}}
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|40-1, 164-5, 185}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|着|B1|Place + Verb + 着 + Noun Phrase|桌子 上 放 <em>着</em> 一 本 书 。|grammar point|ASGAC619}}
+{{Rel char|是}}
+{{Similar|Aspect particle "zhe"}}
+{{Similar|Using "zhe" when "verbing away"}}
+{{Similar|Expressing actions in progress (full form)}}
+{{Structure|Sentence Patterns}}
+{{Subprop|Basic/Simple Sentence Patterns}}
+{{Used for|Expressing existence}}

@@ -1,0 +1,141 @@
+<!-- Taiwanese "you" -->
+{{Grammar Box}} 
+Taiwanese Mandarin differs slightly from Mainland Mandarin. (Don't be surprised if a Beijinger tells you these patterns are 100% ''wrong''.) A characteristic of Taiwanese Mandarin is the extensive usage of 有 as in the examples that follow.
+
+NOTE: we're talking about ''regional usage'' of ''Mandarin Chinese'' here, not other Taiwanese dialects/topolects. It's good for upper intermediate learners to know about these patterns simply because at this level you don't want to be confused by the basic grammar of a Taiwanese speaker's Mandarin.
+
+== Basic Usage ==
+
+Some verbs, especially when followed by certain complements, indicate completeness. When 有 is used with these verbs, it's a clear reference to the past.
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 有 + [Verb Phrase]
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*我们 <em>有</em> 听懂 你 的 话 。<span class="pinyin">Wǒmen <em>yǒu</em> tīng dǒng nǐ dehuà.</span><span class="trans">We understood what you said.</span>
+*我们 都 <em>有</em> 听到 宝宝 哭 。<span class="pinyin">Wǒmen dōu <em>yǒu</em> tīng dào bǎobao kū.</span><span class="trans">We all heard the baby cry.</span>
+*我 <em>有</em> 看到 他们 吵架 。<span class="pinyin">Wǒ <em>yǒu</em> kàn dào tāmen chǎojià.</span><span class="trans">I saw them fighting.</span>
+</div>
+
+When 有 is put in front of action verbs in Taiwanese Mandarin, it can indicate that the verb is still continuing.
+
+<div class="liju">
+
+*他 <em>有</em> 学 ，而且 很 喜欢 。<span class="pinyin">Tā <em>yǒu</em> xué, érqiě hěn xǐhuan.</span><span class="trans">He's studying it and he likes it very much.</span>
+*我 <em>有</em> 吃 ，但是 不太 饿 。<span class="pinyin">Wǒ <em>yǒu</em> chī, dànshì bù tài è.</span><span class="trans">I am eating, but I'm not too hungry.</span>
+
+</div>
+
+== Adjectives after 有 ==
+
+Adjectives can also follow 有. This pattern is used for statement about the past, and a 到 must follow the adjectives.
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 有 + Adj. + 到
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*昨天 搬家 ，真的 <em>有</em> 累 <strong>到</strong> 。<span class="pinyin">Zuótiān bānjiā, zhēn de <em>yǒu</em> lèi <strong>dào</strong>.</span><span class="trans">I was moving yesterday and I was so tired.</span>
+*他 突然 要 分手 ，我 真的 <em>有</em> 伤 <strong>到</strong> 。<span class="pinyin">Tā tūrán yào fēnshǒu, wǒ zhēn de <em>yǒu</em> shāng <strong>dào</strong>.</span><span class="trans">He asked to break up out of nowhere. I was so hurt.</span>
+*你们 突然 大叫 着 跑 出来 ，我 真的 <em>有</em> 吓 <strong>到</strong> ！<span class="pinyin">Nǐmen tūrán dà jiàozhe pǎo chūlai, wǒ zhēn de <em>yǒu</em> xià <strong>dào</strong>!</span><span class="trans">You guys suddenly came running out screaming loudly. I was so scared!</span>
+
+</div>
+
+== Adj. not in the past tense using 有 ==
+
+Some adjectives can follow 有 when not referring to past events. 
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 有 + Adj.
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*大家 都 <em>有</em> 激动 。<span class="pinyin">Dàjiā dōu <em>yǒu</em> jīdòng.</span><span class="trans">Everyone is excited.</span>
+*我 <em>有</em> 紧张 吗 ？<span class="pinyin">Wǒ <em>yǒu</em> jǐnzhāng ma?</span><span class="trans">Do I look like I'm nervous?</span>
+*你 说话 <em>有</em> 不 礼貌 。<span class="pinyin">Nǐ shuōhuà <em>yǒu</em> bù lǐmào.</span><span class="trans">The way you speak is impolite.</span>
+
+</div>
+
+== Used with Verb + 过 ==
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + 有 + Verb + 过 + Obj.
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我 <em>有</em> 去 <strong>过</strong> 中国 。<span class="pinyin">Wǒ <em>yǒu</em> qù <strong>guò</strong> Zhōngguó.</span><span class="trans">I have been to China.</span>
+*我 <em>有</em> 学 <strong>过</strong> 这 个 词 。<span class="pinyin">Wǒ <em>yǒu</em> xué <strong>guò</strong> zhège cí.</span><span class="trans">I have studied this word.</span>
+*你 <em>有</em> 见 <strong>过</strong> 那 个 人 吗？<span class="pinyin">Nǐ <em>yǒu</em> jiàn <strong>guò</strong> nàge rén ma?</span><span class="trans">Have you seen that person before?</span>
+*你 <em>有</em> 自己 做 <strong>过</strong> 饭 吗 ？<span class="pinyin">Nǐ <em>yǒu</em> zìjǐ zuò <strong>guò</strong> fàn ma?</span><span class="trans">Have you ever cooked for yourself?</span>
+
+</div>
+
+== 在 after 有 ==
+
+In Standard Mandarin, using 在 before a verb is similar to adding -ing after a verb in English. When used with 有 in front of it, it is usually referring to habitual action, or an action that can be stopped. This is not referring to the past, but rather a continuing action. 
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 有 + 在 + Verb
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*你 <em>有</em> <strong>在</strong> 做 兼职 吗？<span class="pinyin">Nǐ <em>yǒu</em> <strong>zài</strong> zuò jiānzhí ma?</span><span class="trans">Are you doing a part time job?</span>
+*我 <em>有</em> <strong>在</strong> 考虑 跟 她 分手 。<span class="pinyin">Wǒ <em>yǒu</em> <strong>zài</strong> kǎolǜ gēn tā fēnshǒu.</span><span class="trans">I am considering breaking up with her.</span>
+*我 妈妈 <em>有</em> <strong>在</strong> 吃素 。<span class="pinyin">Wǒ māma <em>yǒu</em> <strong>zài</strong> chīsù.</span><span class="trans">My mom eats vegetarian.</span>
+
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|A Practical Chinese Grammar For Foreigners (外国人实用汉语语法)|}}
+{{Source|Chinese: An Essential Grammar, Second Edition|59-60}}
+{{Source|Chinese Grammar Without Tears (简明汉语语法学习手册) |73-4}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|83- 4}} 
+{{Source|Integrated Chinese: Level 2, Part 1|345-7}}
+{{Source|Integrated Chinese: Level 2, Part 2|49-51}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|76-7, 230-2}} 
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2)|175-6}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|188}}
+
+=== Websites ===
+
+*ChinesePod: [http://chinesepod.com/lessons/%E8%BF%87guo Qing Wen - 过(guo)] (free podcast content)
+*[http://nccur.lib.nccu.edu.tw/bitstream/140.119/60384/1/101501.pdf]
+
+{{Used for|Referring to the past}}
+{{Used for|Referring to past experiences}}
+[[Category:Taiwanese Mandarin]]
+{{Basic Grammar|有||有 + Verb + 过|我 <em>有</em> 去 过 中国。|grammar point|ASGY2D79}}
+{{Rel char|过}}
+{{Similar|Expressing experiences with "guo"}}
+{{Translation|have}}
+{{POS|Particles}}

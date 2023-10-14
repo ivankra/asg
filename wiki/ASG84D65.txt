@@ -1,0 +1,101 @@
+<!-- Comparing "bici" and "duifang" -->
+{{Grammar Box}} 
+彼此 (bǐcǐ) and 对方 (duìfāng) are both personal pronouns, and both can sometimes be translated as "each other" in English. 对方 (duìfāng), however, points to the "opposite" or "other" side. 彼此 (bǐcǐ), however, stresses "between" or "among each other".
+
+彼此 (bǐcǐ) can be used after personal pronouns like 你们, 我们, and 大家. 对方 (duìfāng) cannot be used in this way.
+
+== Used before a Verb ==
+
+Before a verb, you can use 彼此 to mean "each other," but not 对方. This is similar to using [[Expressing "each other" with "huxiang"|互相 (hùxiàng) before a verb]].
+
+=== Structure ===
+
+<div class="jiegou">
+彼此 + Verb
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*你们 这样 做 其实 是 <em>彼此</em> 伤害。<span class="pinyin">Nǐmen zhèyàng zuò qíshí shì <em>bǐcǐ</em> shānghài.</span><span class="trans">You both did this to hurt each other.</span>
+*结婚 以前 夫妻 应该 多 花 时间 <em>彼此</em> 了解。<span class="pinyin">Jiéhūn yǐqián fūqī yīnggāi duō huā shíjiān <em>bǐcǐ</em> liǎojiě.</span><span class="trans">Before they get married, the bride and groom should spend more time getting to know each other.</span>
+*我们 是 一 个 部门 的，工作 上 要 <em>彼此</em> 配合。<span class="pinyin">Wǒmen shì yī gè bùmén de, gōngzuò shàng yào <em>bǐcǐ</em> pèihé.</span><span class="trans">We are from the same department. We should cooperate with each other in our work.</span>
+*如果 你们 不 能 <em>彼此</em> 信任，这 次 合作 不 太 可能 成功。<span class="pinyin">Rúguǒ nǐmen bù néng <em>bǐcǐ</em> xìnrèn, zhè cì hézuò bù tài kěnéng chénggōng.</span><span class="trans">If you can't trust each other, this partnership probably won't succeed.</span>
+
+</div>
+
+== Used after a Verb ==
+
+Both can be used as an object after a verb. The verbs are usually two-syllable ones. 对方 usually refers to "the other side," except when ''addressing multiple people at once''. When addressing several people, 对方 is often translated into English as "each other." 彼此 feels a bit literary in style than 对方.
+
+=== Structure ===
+
+<div class="jiegou">
+Verb + 彼此 / 对方
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*他们 可以 照顾 <em>彼此</em>，你 不 要 担心。 <span class="pinyin">Tāmen kěyǐ zhàogu <em>bǐcǐ</em>, nǐ bùyào dānxīn.</span><span class="trans">They can take care of each other, you don't have to worry.</span>
+*你们 两 个 应该 原谅 <em>对方</em>。 <span class="pinyin">Nǐmen liǎng gè yīnggāi yuánliàng <em>duìfāng</em>.</span><span class="trans">You two should forgive each other.</span>
+*你 觉得 我们 能 信任 <em>彼此</em> 吗？ <span class="pinyin">Nǐ juéde wǒmen néng xìnrèn <em>bǐcǐ</em> ma?</span><span class="trans">Do you think we can trust each other?</span>
+*丽丽 和 小明 一点也不 尊重 <em>对方</em>，所以 他们 经常 吵架。 <span class="pinyin">Lìlì hé Xiǎo míng yīdiǎn yě bù zūnzhòng <em>duìfāng</em>, suǒyǐ tāmen jīngcháng chǎojià.</span><span class="trans">Lili and Xiao Ming did not respect each other at all, so they fought a lot.</span>
+
+</div>
+
+== Used before a Noun ==
+
+Both can be placed before a noun, as attributive modifiers. Again, 对方 normally refers to "the other side's," but when addressing several people, 对方 is often translated into English as "each other's."
+
+=== Structure ===
+
+<div class="jiegou">
+彼此 / 对方 + 的 + Noun
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*你们 应该 多 关注 <em>彼此</em> 的 优点。<span class="pinyin">Nǐmen yīnggāi duō guānzhù <em>bǐcǐ</em> de yōudiǎn.</span><span class="trans">You should both pay more attention to each other's strengths.</span>
+*他们 都 讨厌 对方 的 亲戚。<span class="pinyin">Tāmen dōu tǎoyàn <em>duìfāng</em> de qīnqi.</span><span class="trans">They both hate each other's relatives.</span>
+*他 跟 人 说话 的时候 常常 忽视 <em>对方</em> 的 感受。<span class="pinyin">Tā gēn rén shuōhuà de shíhou chángcháng hūshì <em>duìfāng</em> de gǎnshòu.</span><span class="trans">He often ignores others' feelings when he talks to people.</span>
+
+</div>
+
+== 对方 used as "the other side" ==
+
+对方 can also mean "the other side," whereas 彼此 cannot. This one is straightforward.
+
+=== Structure ===
+
+<div class="jiegou">
+对方 + Predicate
+</div>
+
+==== Examples ====
+
+<div class="liju">
+
+*我 道歉 了 ，但是 <em>对方</em> 不 接受。<span class="pinyin">Wǒ dàoqiàn le, dànshì <em>duìfāng</em> bù jiēshòu.</span><span class="trans">I apologized to him, but he didn't accept it.</span>
+*我 问 了 人家 ，但是 <em>对方</em> 不 同意 。<span class="pinyin">Wǒ wèn le rénjiā, dànshì <em>duìfāng</em> bù tóngyì.</span><span class="trans">I asked, but they didn't agree.</span>
+*你 那样 说 会 让 <em>对方</em> 很 不 舒服 的 。<span class="pinyin">Nǐ nàyàng shuō huì ràng <em>duìfāng</em> hěn bù shūfu de.</span><span class="trans">Talking like that is going to make them very uncomfortable.</span>
+*跟 朋友 吵架 的时候 ，我们 都 希望 <em>对方</em> 能 先 道歉 。<span class="pinyin">Gēn péngyou chǎojià de shíhou, wǒmen dōu xīwàng <em>duìfāng</em> néng xiān dàoqiàn.</span><span class="trans">When we have an argument with a friend, we all hope the other side will apologize first.</span>
+</div>
+
+== See also ==
+
+== Sources and further reading ==
+
+=== Books ===
+
+[[Category:grammar comparison]]
+{{Basic Grammar|彼此|C1|彼此 + Verb|太 吵 了，我们 都 听不到 <em>对方</em> 在 说 什么。|grammar point|ASG84D65}}
+{{Rel char|对方}}
+{{Similar|Expressing "each other" with "huxiang"}}
+{{Translation|each other}}
+{{Translation|the other side}}
+{{Comparison|Nouns}}

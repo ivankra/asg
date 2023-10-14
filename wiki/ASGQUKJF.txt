@@ -1,0 +1,89 @@
+<!-- Age with "sui" -->
+{{Grammar Box}} 
+
+Use 岁 (suì) to give a person's age, similar to how we say "years old" in English. There are a details that work differently from English, however.
+
+== Basic Structure for 岁 (suì) ==
+
+=== Structure ===
+
+The structure for telling someone's age with 岁 (suì) is:
+
+<div class="jiegou">
+
+Subj. + Number + 岁
+
+</div>
+
+This is equivalent to someone "'''is''' x years old" in English. Notice that you don't need to include any verb when you use 岁 (suì).
+
+=== Examples ===
+
+<div class="liju">
+
+* 我 20 <em>岁</em> 。<span class="pinyin">Wǒ èrshí <em>suì</em>.</span><span class="trans">I am 20 years old.</span>
+* 我 儿子 一 <em>岁</em> 。<span class="pinyin">Wǒ érzi yī <em>suì</em>.</span><span class="trans">My son is one year old.</span>
+* 我 妈妈 今年 45 <em>岁</em> 。<span class="pinyin">Wǒ māma jīnnián sìshí-wǔ <em>suì</em>.</span><span class="trans">My mother is 45 years old this year.</span>
+* 你 爷爷 今年 80 <em>岁</em> 吗？<span class="pinyin">Nǐ yéye jīnnián bāshí <em>suì</em> ma？</span><span class="trans">Is your grandpa eighty years old this year?</span>
+* 他 女朋友 也 20 <em>岁</em> 吗？<span class="pinyin">Tā nǚpéngyou yě èrshí <em>suì</em> ma?</span><span class="trans">Is his girlfriend also twenty years old?</span>
+
+</div>
+
+Note that you shouldn't use either the verb [[是]] (shì) or the [[measure word]] like [[个]] (gè)  in any of these sentences.
+
+<div class="liju">
+
+<ul>
+<li class="x">我 的 孩子 一 <strong>个</strong> <em>岁</em> 。<span class="pinyin">Wǒ de háizi yī <strong>gè</strong> <em>suì</em>.</span></li>
+<li class="x">我 的 孩子 <strong>是</strong> 一 <em>岁</em> 。<span class="pinyin">Wǒ de háizi <strong>shì</strong> yī <em>suì</em>.</span></li>
+<li class="o">我 的 孩子 一 <em>岁</em> 。<span class="pinyin">Wǒ de háizi yī <em>suì</em>.</span><span class="trans">My child is one year old.</span></li>
+</ul>
+
+</div>
+
+== Adding "And a Half" to an Age ==
+
+=== Structure ===
+
+The word for "half" in Chinese is 半 (bàn), and you simply add this after 岁 (suì).
+
+<div class="jiegou">
+
+Subj. + Number + 岁 + 半
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 她两岁半。 <span class="pinyin">Tā liǎng <em>suì</em> <strong>bàn</strong>.</span><span class="trans">She is two and a half years old.</span>
+* 我 儿子 一 <em>岁</em> 半。<span class="pinyin">Wǒ érzi yī <em>suì</em> <strong>bàn</strong>.</span><span class="trans">My son is one and a half years old.</span>
+
+
+</div>
+
+== See Also ==
+
+* [[Word order]]
+* [[Simple "noun + adjective" sentences]]
+
+== Sources and further reading ==
+
+{{Source|HSK Standard Course 1|32}}
+* [[ Short-term Spoken Chinese: Intermediate (汉语口语速成中级篇) ]] Chapter 10
+* [[ New Concept Chinese (新概念汉语 初级本I) ]] Chapter 5
+
+[[Category:A1 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{Basic Grammar|岁|A1|Subj. + Number + 岁|我 20 <em>岁</em> 。|grammar point|ASGQUKJF}}
+{{Rel char|岁}}
+{{Similar|Measure word "ge"}}
+{{Similar|Measure words in quantity questions}}  
+{{Similar|Measure words for counting}}  
+{{Similar|Ordinal numbers with "di"}}    
+{{Similar|Simple "noun + adjective" sentences}}
+{{POS|Numbers}}
+{{Used for|Introducing people}}
+{{Used for|Describing people}}
+{{Translation|years old}}

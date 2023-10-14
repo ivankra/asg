@@ -1,0 +1,142 @@
+<!-- Approximations with "chabuduo" -->
+{{Grammar Box}} 
+
+差不多 (chàbuduō), translated literally, means "the difference is not much." In practice it means something like "more or less," and is useful for expressing rough approximations.
+
+== 差不多 (chàbuduō) as a Predicate ==
+
+As a [[predicate]], 差不多 can be used pretty much all by itself to complete a sentence after you tell us what subject we're talking about. When several things are 差不多 (chàbuduō), it means they are "more or less ''the same''." So actually 差不多 (chàbuduō) is often understood to mean 差不多一样 (chàbuduō yīyàng), but you don't say the 一样 (yīyàng) part. You just say 差不多 (chàbuduō).
+
+=== Simple Subject ===
+
+Let's first assume that the subject is an easily understood group of people or things.
+
+==== Structure ====
+
+<div class="jiegou">
+
+Subj. + 差不多 
+
+</div>
+
+You might also add a [[都]] (dōu) in before 差不多 (chàbuduō) if there are more than two things being compared.
+
+==== Examples ====
+
+<div class="liju">
+
+* 这 几 个 地方 都 <em>差不多</em> 。<span class="pinyin">Zhè jǐ gè dìfang dōu <em>chàbuduō</em>.</span><span class="trans">These places are all pretty much the same.</span>
+* 这 两 个 词 的 意思 <em>差不多</em> 。<span class="pinyin">Zhè liǎng gè cí de yìsi <em>chàbuduō</em>.</span><span class="trans">The meanings of these two words are pretty much the same.</span>
+* 我们 的 想法 <em>差不多</em> 。<span class="pinyin">Wǒmen de xiǎngfǎ <em>chàbuduō</em>.</span><span class="trans">Our ways of thinking are pretty much the same.</span>
+* 那 两 家 餐厅 的 菜 <em>差不多</em> 。<span class="pinyin">Nà liǎng jiā cāntīng de cài <em>chàbuduō</em>.</span><span class="trans">Those two restaurants' dishes are almost the same.</span>
+* 你们 的 中文 水平 <em>差不多</em> 。<span class="pinyin">Nǐmen de Zhōngwén shuǐpíng <em>chàbuduō</em>.</span><span class="trans">Your Chinese levels are almost the same.</span>
+
+</div>
+
+=== Several Subjects ===
+
+Let's add in a few different subjects now, using the Chinese word for "[[and]]."
+
+==== Structure ====
+
+Another often used structure is:
+
+<div class="jiegou">
+
+A + 跟 / 和 +  B + 差不多 
+
+</div>
+
+==== Examples ====
+
+<div class="liju">
+
+* 上海 <em>和</em> 纽约 <em>差不多</em>。<span class="pinyin">Shànghǎi <em>hé</em> Niǔyuē <em>chàbuduō</em>.</span><span class="trans">Shanghai and New York are basically the same.</span>
+* Starbucks <em>和</em> Costa <em>差不多</em>。<span class="pinyin"> Starbucks <em>hé</em> Costa <em>chàbuduō</em>.</span><span class="trans">Starbucks and Costa are almost the same.</span>
+* 这里 的 天气 <em>跟</em> 台湾 的 天气 <em>差不多</em>。<span class="pinyin"> Zhèlǐ de tiānqì <em>gēn</em> Táiwān de tiānqì <em>chàbuduō</em>.</span><span class="trans">The weather here is pretty much like Taiwan's.</span>
+* 你的 工作 <em>跟</em> 我的 工作 <em>差不多</em>。<span class="pinyin"> Nǐ de gōngzuò <em>gēn</em> wǒ de gōngzuò <em>chàbuduō</em>.</span><span class="trans">Your job and my job are almost the same.</span>
+* 你的 新 手机 <em>跟</em> 我的 旧 手机 <em>差不多</em>。<span class="pinyin">Nǐ de xīn shǒujī <em>gēn</em> wǒ de jiù shǒujī <em>chàbuduō</em>.</span><span class="trans">Your new cell phone is pretty much like my old cell phone.</span>
+</div>
+
+== 差不多 (chàbuduō) as an Adverb ==
+
+When using 差不多 (chàbuduō) as an adverb, place it before the adjective or verb.
+
+=== Structure ===
+
+<div class="jiegou">
+
+差不多 + Adj. / Verb
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*这 两 个 孩子 <em>差不多</em> 大。<span class="pinyin">Zhè liǎng gè háizi <em>chàbuduō</em> dà.</span><span class="trans">These two children are more or less the same age.</span>
+*我 <em>跟</em> 我哥哥 <em>差不多</em> 高。<span class="pinyin">Wǒ <em>gēn</em> wǒ gēge <em>chàbuduō</em> gāo.</span><span class="trans">My older brother and I are more or less the same height.</span>
+*我 <em>差不多</em> 到 公园 门口 了。<span class="pinyin">Wǒ <em>chàbuduō</em> dào gōngyuán ménkǒu le.</span><span class="trans">I'm almost at the entrance of the park.</span>
+*电影 <em>差不多</em> 要 开始 了。<span class="pinyin">Diànyǐng <em>chàbuduō</em> yào kāishǐ le.</span><span class="trans">The movie is almost about to start.</span>
+*今天 的 工作 <em>差不多</em> 做 完 了。<span class="pinyin">Jīntiān de gōngzuò <em>chàbuduō</em> zuò wán le.</span><span class="trans">Today's work is almost done.</span>
+
+</div>
+
+== 差不多 (chàbuduō) with a Quantity or Time Phrase ==
+
+After 差不多 (chàbuduō) you can also add a phrase that expresses quantity or time. This makes it clear that you're giving a rough estimate.
+
+=== Structure ===
+
+<div class="jiegou">
+差不多 ＋ [Quantity Phrase] / [Time Phrase]
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*你 儿子 <em>差不多</em> 五 岁 了 吧？<span class="pinyin">Nǐ érzi <em>chàbuduō</em> wǔ suì le ba?</span><span class="trans">Your son should be about 5 years old, right?</span>
+*他 住 在 上海 <em>差不多</em> 三 个 月 了。<span class="pinyin">Tā zhù zài Shànghǎi <em>chàbuduō</em> sān gè yuè le.</span><span class="trans">He has lived in Shanghai for about three months.</span>
+*我 在 这 家 公司 工作 了 <em>差不多</em> 十 年 了。<span class="pinyin">Wǒ zài zhè jiā gōngsī gōngzuò le <em>chàbuduō</em> shí nián le.</span><span class="trans">I've worked for this company for almost ten years.</span>
+*我 父母 结婚 <em>差不多</em> 二十 年 了。<span class="pinyin">Wǒ fùmǔ jiéhūn <em>chàbuduō</em> èrshí nián le.</span><span class="trans">My parents have been married for about twenty years.</span>
+*<em>差不多</em> 两 个 星期 以前，我 在 北京 见 过 他。<span class="pinyin"><Em>Chàbuduō</em> liǎng gè xīngqī yǐqián, wǒ zài Běijīng jiàn guo tā.</span><span class="trans">About two weeks ago I met with him in Beijing.</span>
+
+</div>
+
+== 差不多 Video ==
+
+<div class="YT-container"><youtube>leitNR3rRDc</youtube></div>
+
+== See also ==
+
+*[[Expressing "almost" using "chadian mei"]]
+*[[Expressing "almost" using "chadian"]]
+*[["Nearly" with "jihu"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|17}}
+{{Source|现代汉语八百词（增订本）|111}}
+{{Source|Integrated Chinese: Level 2, Part 1|54-5}}
+{{Source|Basic Patterns of Chinese Grammar|116}}
+
+=== Dictionaries ===
+
+* [[现代汉语词典（第5版）]] (p. 145) [http://www.amazon.cn/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E8%AF%8D%E5%85%B8/dp/B001B1RZCI/ref=sr_1_1?ie=UTF8&qid=1345693609&sr=8-1 →buy]
+
+[[Category:A2 grammar points]]
+{{HSK|HSK4}}
+[[Category:Comparing]]
+{{Basic Grammar|差不多|A2|Subj. + 差不多|我们 的 中文 水平 <em>差不多</em>。|grammar point|ASG1NAXO}}
+{{Rel char|差}}
+{{Rel char|不}}
+{{Rel char|多}}
+{{Similar|"Nearly" with "jihu"}}  
+{{POS|Adverbs}}
+{{Used for|Expressing degree}}
+{{Used for|Expressing similarity}}
+{{Used for|Comparing}}
+{{Translation|almost}}

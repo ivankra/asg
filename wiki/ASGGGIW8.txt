@@ -1,0 +1,87 @@
+<!-- Expressing "from… to…" with "cong… dao…" -->
+{{Grammar Box}} 
+
+从⋯⋯ 到⋯⋯(cóng... dào...) is used in the same way as "from... to..." is used in English, and can be used both for times and places.
+
+== Used for Times ==
+
+To express from one time to another, the following structure is used:
+
+=== Structure ===
+
+<div class="jiegou">
+从 + Time 1 + 到 + Time 2
+</div>
+
+The "time" here does not necessarily have to be a standard time word; it can be any event or action.
+
+=== Examples ===
+
+<div class="liju">
+
+* <em>从</em> 2004 年 <em>到</em> 2008 年<span class="pinyin"><em>cóng</em> èr-líng-líng-sì nián <em>dào</em> èr-líng-líng-bā nián</span><span class="trans">from 2004 to 2008</span>
+* <em>从</em> 一号 <em>到</em> 五号 都 在 下雨。<span class="pinyin"><em>Cóng</em> yī hào <em>dào</em> wǔ hào dōu zài xiàyǔ.</span><span class="trans">From the first to the fifth, it's been raining non-stop.</span>
+*老板 <em>从</em> 周二 <em>到</em> 周五 都 要 出差。<span class="pinyin">Lǎobǎn <em>cóng</em> Zhōuèr <em>dào</em> Zhōuwǔ dōu yào chūchāi.</span><span class="trans">From Tuesday until Friday the boss will go on a business trip.</span>
+*她 <em>从</em> 18岁 <em>到</em> 现在 都 一个人 住。<span class="pinyin">Tā <em>cóng</em> shíbā suì <em>dào</em> xiànzài dōu yīgèrén zhù.</span><span class="trans">She's lived alone since she was 18 until now.</span>
+*你 不 能 <em>从</em> 早 <em>到</em> 晚 不 吃 东西。<span class="pinyin">Nǐ bù néng <em>cóng</em> zǎo <em>dào</em> wǎn bù chī dōngxi.</span><span class="trans">You can't eat nothing from morning to night.</span>
+
+</div>
+
+Remember that there are two options for the [[Time words and word order|word order of time words]].
+
+== Used for Places ==
+
+The same structure can also be used to express "from" one place "to" another.
+
+===Structure===
+
+<div class="jiegou">
+从 + Place 1 + 到 + Place 2
+</div>
+
+===Examples===
+
+<div class="liju">
+
+* <em>从</em> 南京 西 路 <em>到</em> 南京 东 路<span class="pinyin"><em>cóng</em> Nánjīng Xī Lù <em>dào</em>  Nánjīng Dōng Lù</span><span class="trans">from West Nanjing Road to East Nanjing Road</span>
+* <em>从</em> 酒店 <em>到</em> 机场 不太 远。<span class="pinyin"><em>Cóng</em> jiǔdiàn <em>dào</em> jīchǎng bù tài yuǎn.</span><span class="trans">From the hotel to the airport is not too far.</span>
+* <em>从</em> 上海  <em>到</em> 北京 要 几 个 小时。<span class="pinyin"><em>Cóng</em> Shànghǎi <em>dào</em> Běijīng yào jǐ gè xiǎoshí.</span><span class="trans">From Shanghai to Beijing it takes a few hours.</span>
+* <em>从</em> 你 家 <em>到</em> 机场 可以 坐 地铁 吗？<span class="pinyin"><em>Cóng</em> nǐ jiā <em>dào</em> jīchǎng kěyǐ zuò dìtiě ma? </span><span class="trans">From your place  to the airport, can I take the subway?</span>
+* <em>从</em> 这里 <em>到</em> 我们 公司，你 会 看见 很 多 美女。<span class="pinyin"><em>Cóng</em> zhèlǐ <em>dào</em> wǒmen gōngsī, nǐ huì kànjiàn hěn duō měinǚ.</span><span class="trans">From here to our company, you'll see many beautiful girls.</span>
+
+</div>
+
+== See also ==
+
+* [[Comparing "li" and "cong"]]
+* [[Using "dao" to mean "to go to"]]
+* [[Expressing distance with "li"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|69}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|84-5}} 
+{{Source|Basic Patterns of Chinese Grammar|112-3}}
+{{Source|Boya Chinese Elementary Starter 1 (博雅汉语初经起步篇)|89}}
+{{Source|Integrated Chinese: Level 2, Part 1|237-8}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Used for|Giving directions}}
+{{Used for|Expressing distance}}
+{{Used for|Expressing duration}}
+{{Used for|Referring to the past}}
+{{Basic Grammar|从|A2|从⋯⋯到⋯⋯|<em>从</em>1 号 <em>到</em> 5 号 我 在 上海。|grammar point|ASGGGIW8}}
+{{Rel char|到}}
+{{Similar|Using "dao" to mean "to go to"}}   
+{{Similar|Comparing "li" and "cong"}}
+{{Similar|Expressing distance with "li"}}
+{{Similar|Use "cong...zhong" to express "from"}}
+{{Similar|Expressing "from (a certain time) on" using "zi……qi"}}
+{{Similar|Expressing "to come from" with "laizi"}}
+{{POS|Prepositions}}
+{{Translation|from}}
+{{Translation|to}}
+{{Translation|until}}

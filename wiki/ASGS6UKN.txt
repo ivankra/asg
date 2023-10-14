@@ -1,0 +1,62 @@
+<!-- Making "-ize" and "-ify" verbs with "hua" -->
+{{Grammar Box}} 
+The [[suffix]] -化 (-huà) can be  added to the end of many Chinese words to make them into verbs, the equivalent of "-ize" or "-ify" in English.
+
+== Structure ==
+
+You can take some Chinese [[noun]]s and [[adjective]]s and add a -化 to the end of them to "-ize" or "-ify" them. Basically, -化 takes the noun or adjective and makes it into a verb. One example of how we do that in English is to take the adjective "modern" and add "-ize" to turn it into the verb "modernize." Most of the time, the Chinese words that -化 is added to are two-character words.
+
+<div class="jiegou">
+Noun / Adj. + 化
+</div>
+
+== Examples ==
+
+The following is a short list of -化 words and sentences. Note that while the suffix -化 most often corresponds to "-ize" or "-ify" in English, these are not the ''only'' options in English. (Ah, you gotta love the endless variety of the English language!)
+
+=== With a Noun ===
+
+<div class="liju">
+
+* 中国<em>化</em>、美国<em>化</em>、个性<em>化</em>、数字<em>化</em>、城市<em>化</em>、两极<em>化</em>、边缘<em>化</em><span class="pinyin">Zhōngguó-<em>huà</em>, Měiguó-<em>huà</em>, gèxìng-<em>huà</em>, shùzì-<em>huà</em>, chéngshì-<em>huà</em>, liǎngjí-<em>huà</em>, biānyuán-<em>huà</em></span><span class="trans">sinicize/Chinese-ify, Americanize, personalize, digitize, urbanize, polarize, marginalize</span>
+* 我们 将 净<em>化</em> 整个 行业 。<span class="pinyin">Wǒmen jìng-<em>huà</em> zhěnggè hángyè.</span><span class="trans">We will purify the entire industry.</span>
+* KFC 的 中国 本土<em>化</em> 经营 做 得 非常 成功。<span class="pinyin">KFC de Zhōngguó běntǔ-<em>huà</em> jīngyíng zuò de fēicháng chénggōng.</span><span class="trans">KFC's Chinese localization has been implemented very successfully.</span>
+* 邓小平 提出了 四 个 现代<em>化</em>：工业现代<em>化</em>、农业现代<em>化</em>、国防现代<em>化</em>、科学技术现代<em>化</em>。<span class="pinyin">Dèng Xiǎopíng tíchū le Sì Gè Xiàndài-<em>huà</em>: Gōngyè xiàndài-<em>huà</em>, nóngyè xiàndài<em>huà</em>, guófáng xiàndài-<em>huà</em>, kēxué jìshù xiàndài-<em>huà</em>.</span><span class="trans">Deng Xiaoping set forth the Four Modernizations: industrial modern<em>ization</em>, agricultural modern<em>ization</em>, national defense modernization, and scientific technology modernization.</span>
+* 现在 我们 公司 的工作 流程 和 人事 管理 已经 初步 制度<em>化</em>  了。<span class="pinyin">Xiànzài wǒmen gōngsī de gōngzuò liúchéng hé rénshì guǎnlǐ yǐjīng chūbù zhìdù<em>huà</em> le.</span><span class="trans">These days our company's workflows and HR management have already started to be systemat<em>ize</em>d.</span>
+</div>
+
+=== With an Adjective ===
+
+<div class="liju">
+
+* 美<em>化</em>、绿<em>化</em>、软<em>化</em>、现代<em>化</em>、自然<em>化</em>、多元<em>化</em><span class="pinyin">měi<em>huà</em>, lǜ<em>huà</em>, ruǎn<em>huà</em>, xiàndài-<em>huà</em>, zìrán-<em>huà</em>, duōyuán-<em>huà</em></span><span class="trans">beautify, "greenify", soften, modernize, naturalize. diversify</span>
+* 你 不要 把 真相 浪漫<em>化</em> ！<span class="pinyin">Nǐ bùyào bǎ zhēnxiàng làngmàn-<em>huà</em>!</span><span class="trans">Don't romanticize the truth!</span>
+* 你 应该 让 黄油 软<em>化</em>，然后 跟 面包 一起 吃。<span class="pinyin">Nǐ yīnggāi ràng huángyóu ruǎn<em>huà</em>, ránhòu gēn miànbāo yīqǐ chī.</span><span class="trans">You should allow the butter to soft<em>en</em>, then eat it with bread.</span>
+* 我们 保护 环境 是 为了 美<em>化</em> 我们 的 城市。<span class="pinyin">Wǒmen bǎohù huánjìng shì wèile měi<em>huà</em> wǒmen de chéngshì.</span><span class="trans">We protect the environment in order to beaut<em>ify</em> our city.</span>
+* 每年 我们 的 绿<em>化</em> 面积 都 在 扩大。<span class="pinyin">Měinián wǒmen de lǜ<em>huà</em> miànjī dōu zài kuòdà.</span><span class="trans">Every year our green<em>[ified]</em> area is expanding.</span>
+
+</div>
+
+== From Verb to Noun ==
+
+Part of speech can be quite fluid in Chinese, and using the suffix -化 to change a noun or an adjective into a verb does not mean that verb can't also be used as a noun! So keep in mind that -化 can be not only "-ize" and "-ify," but also "-ization" and "-ification."
+
+<div class="liju">
+
+* 个性<em>化</em><span class="pinyin">gèxìng-<em>huà</em></span><span class="trans">personalize, personalization</span>
+* 现代<em>化</em><span class="pinyin">xiàndài-<em>huà</em></span><span class="trans">modernize, modernization</span>
+* 美<em>化</em><span class="pinyin">měi<em>huà</em></span><span class="trans">beautify, beautification</span>
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|卓越汉语－公司实战篇|68}} 
+{{Source|Contemporary Chinese 4 (当代中文4)|17}}
+{{Source|Short-term Spoken Chinese: Intermediate (汉语口语速成中级篇)|90}}
+
+[[Category:B2 grammar points]]
+{{Basic Grammar|化|B2| Noun / Adj. + 化|KFC 的 中国 本土<em>化</em> 经营 做 得 非常 成功。|grammar point|ASGS6UKN}}
+{{Used for|Describing actions}}
+{{POS|Verbs}}

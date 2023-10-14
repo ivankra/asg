@@ -1,0 +1,61 @@
+<!-- Tag questions with "ma" -->
+{{Grammar Box}} 
+
+As well as [[Yes-no questions with "ma"|yes/no questions]], you can also form tag questions with 吗 (ma). Tag questions are quick questions that are tagged on the end of a sentence to ask for confirmation. In English, this is often done with "right?" or negatively with "isn't it?"
+
+The easiest way to do this in Chinese is to add some kind of confirmation word and 吗 (ma) on the end of the sentence. 
+
+== Structure ==
+
+As you can see below, the pattern typically involves words like 好 (hǎo), 对 (duì), 是 (shì), or 可以 (kěyǐ), followed by 吗 (ma).
+
+<div class="jiegou">
+
+⋯⋯， 好 / 对 / 是 / 可以 +  吗？
+
+</div>
+
+By placing these on the end of a sentence, you can soften a suggestion or request confirmation.
+
+== Examples ==
+
+<div class="liju">
+
+* 这样 做，<em>对 吗</em> ？ <span class="pinyin">Zhèyàng zuò, <em>duì ma</em>?</span><span class="trans">Do it like this, right?</span>
+* 你们 见 过，<em>对 吗</em> ？ <span class="pinyin">Nǐmen jiàn guo, <em>duì ma</em>?</span><span class="trans">You’ve met, right?</span>
+* 他们 昨天 都 没 去， <em>是 吗</em> ？ <span class="pinyin">Tāmen zuótiān dōu méi qù, <em>shì ma</em>?</span><span class="trans">They didn't go yesterday, right?</span>
+* 你 没 来 过， <em>是 吗</em> ？ <span class="pinyin">Nǐ méi lái guo, <em>shì ma</em>?</span><span class="trans">You haven't been here, right?</span>
+* 你 喜欢 我妹妹， <em>是 吗</em> ？ <span class="pinyin">Nǐ xǐhuan wǒ mèimei, <em>shì ma</em>?</span><span class="trans">You like my younger sister, huh?</span>
+* 我们 去 你 家 ， <em>好 吗</em> ？ <span class="pinyin">Wǒmen qù nǐ jiā, <em>hǎo ma</em>?</span><span class="trans">Let's go to your place, OK?</span>
+* 不要 告诉 他 ， <em>好 吗</em> ？ <span class="pinyin"> Bùyào gàosu tā, <em>hǎo ma</em>?</span><span class="trans">Don't tell him, OK?</span>
+* 今天 我们 都 不 喝酒， <em>好 吗</em> ？ <span class="pinyin">Jīntiān wǒmen dōu bù hējiǔ​, <em>hǎo ma</em>?</span><span class="trans">Let's all not drink alcohol today, OK?</span>
+* 我 现在 想 去 洗手间， <em>可以 吗</em> ？<span class="pinyin">Wǒ xiànzài xiǎng qù xǐshǒujiān, <em>kěyǐ ma</em>?</span><span class="trans">I want to go to the bathroom now. Is that OK?</span>
+* 妈妈，我 要 吃 巧克力 ， <em>可以 吗</em> ？ <span class="pinyin">Māma, wǒ yào chī qiǎokèlì, <em>kěyǐ ma</em>?</span><span class="trans">Mom, I want to eat chocolate. May I?</span>
+
+</div>
+
+==See also==
+
+* [[Yes-no questions with "ma"]]
+* [[Tag questions with "bu"]]
+* [[Questions with "ne"]]
+
+== Sources and Further Reading ==
+
+{{Source|HSK Standard Course 2|60}}
+{{Source|Chinese: An Essential Grammar, Second Edition|144-45}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|218}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|106}}
+
+[[Category:A1 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Used for|Asking questions}}
+{{Used for|Requesting}}
+{{Basic Grammar|吗|A1|⋯⋯是吗 / 对吗 / 好吗 ?|这样 做， <em>对 吗</em> ?|grammar point|ASGSJYZ2}}
+{{Rel char|对}}
+{{Rel char|好}}
+{{Rel char|是}}
+{{Similar|Yes - no questions with ma}} 
+{{Similar|Tag questions with bu}} 
+{{Similar|Questions with ne}}
+{{Structure|Question Forms}}

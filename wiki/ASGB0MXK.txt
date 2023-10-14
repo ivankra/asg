@@ -1,0 +1,50 @@
+<!-- Marking a topic with "de hua" -->
+{{Grammar Box}} 
+You probably already know that 的话 (dehuà) can be put at the end of a phrase [[Expressing "if" with "ruguo... dehua"|to express the meaning of "if."]] It can be used independently, or with 如果, both meaning "if."  But it can also be used to simply identify a topic, sort of like saying "when it comes to...."
+
+== Structure ==
+
+的话 can also be used to introduce a topic which the speaker intends to say more about.
+
+<div class="jiegou">
+Topic + 的话 ，Comment
+</div>
+
+== Examples ==
+
+Sometimes it's a fine line between an "if" statement and an "as for..." statement, as you'll see in some of the sentences below.
+
+<div class="liju">
+
+*北京 <em>的话</em>，秋天 去 最好 。<span class="pinyin">Běijīng <em>dehuà</em>, qiūtiān qù zuì hǎo.</span><span class="trans">As for Beijing, autumn is the best time to go.</span>
+*晚上 <em>的话</em>，当然 方便 啦 。<span class="pinyin">Wǎnshang <em>dehuà</em>, dāngrán fāngbiàn la.</span><span class="trans">The evening? Of course that's convenient.</span>
+*这个 问题 <em>的话</em>，我 不 太 方便 说 。<span class="pinyin">Zhè ge wèntí <em>dehuà</em>, wǒ bù tài fāngbiàn shuō.</span><span class="trans">As for this question, it's not convenient for me to talk about it.</span>
+*葡萄 <em>的话</em>，一定 要 吃 最 新鲜 的。<span class="pinyin">Pútao <em>dehuà</em>, yīdìng yào chī zuì xīnxiān de.</span><span class="trans">For grapes, always eat the freshest ones.</span>
+*我 肯定 能 去 。 他 <em>的话</em> ，我 就 不知道 了。<span class="pinyin">Wǒ kěndìng néng qù. Tā <em>dehuà</em>, wǒ jiù bù zhīdào le.</span><span class="trans">I can definitely go. As for him, I don't know.</span>
+*回 老家 <em>的话</em>，还是 坐 高铁 比较 方便。<span class="pinyin">Huí lǎojiā <em>dehuà</em>, háishì zuò gāotiě bǐjiào fāngbiàn.</span><span class="trans">If you want to go back to your hometown, it's more convenient to take the high-speed train.</span>
+*买 相机 <em>的话</em>，我 觉得 Sony相机 不错。<span class="pinyin">Mǎi xiāngjī <em>dehuà</em>, wǒ juéde Sony xiāngjī bùcuò.</span><span class="trans">If you want to buy a camera, I think Sony cameras are good.</span>
+*我们 的 要求 比较 高 。具体 来说 <em>的话</em> ，有 三 个 方面 。<span class="pinyin">Wǒmen de yāoqiú bǐjiào gāo. Jùtǐ lái shuō <em>dehuà</em>, yǒu sān gè fāngmiàn.</span><span class="trans">Our requirement is quite high. Specifically, there are three aspects.</span>
+*你 去 上海 旅游 <em>的话</em>，一定 要 去 外滩。<span class="pinyin">Nǐ qù Shànghǎi lǚyóu <em>dehuà</em>, yīdìng yào qù Wàitān.</span><span class="trans">If you're going to Shanghai, you must go to the Bund.</span>
+*买 衣服 <em>的话</em>，还是 要 去 实体店 试试 的。<span class="pinyin">Mǎi yīfu <em>dehuà</em>, háishì yào qù shítǐdiàn shìshi de.</span><span class="trans">If you want to buy clothes, you should go to a real store.</span>
+</div>
+
+== See also ==
+
+*[["If…, then…" with "ruguo…, jiu…"]]
+*[[Marking a topic with "ma"]]
+*[[Topic-comment sentences]]
+
+== Sources and further reading ==
+
+=== Websties ===
+
+* Chinesegrammar.info: [http://chinesegrammar.info/vocabulary/de-hua-expressing-if/ Chinese grammar de hua (的话): expressing “if” in Chinese with de hua]
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|的话|B2|Topic + 的话 ，Comment|北京 <em>的话</em> ，秋天 去 最好 。|grammar point|ASGB0MXK}}
+{{Similar|"If…, then…" with "ruguo…, jiu…"}}
+{{Similar|Topic-comment sentences}}
+{{Similar|Marking a topic with "ma"}}
+{{Similar|The "if" sandwich pattern}}
+{{Used for|Marking a topic}}
+{{Structure|"If" Statements}}

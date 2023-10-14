@@ -1,0 +1,74 @@
+<!-- Expressing "already" with "dou" -->
+{{Grammar Box}} 
+
+都⋯⋯了 (dōu... le) is a pattern used to express that something has already happened, similar to [["Already" with "yijing"|已经 (yǐjīng)⋯⋯了]]. However, 都⋯⋯了 is used more emphatically, implying that the speaker holds some sort of attitude in relation to the event and is not merely objectively stating the facts, as with 已经⋯⋯了. The two options can actually also be combined in the pattern 都已经⋯⋯了. Here the meaning is the same as 都⋯⋯了.
+
+== Used Before a Time ==
+
+=== Structure ===
+
+When 都⋯⋯了 (dōu... le) is used at the beginning of a sentence, it will usually be followed with 还 (hái) or 还在 (hái zài). This implies that the other party should stop some kind of action.  
+
+<div class="jiegou">
+都 + Time + 了
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>都</em> 九点 <strong>了</strong> ，快点 起床 ！<span class="pinyin"><em>Dōu</em> jiǔ diǎn <strong>le</strong>, kuài diǎn qǐchuáng!</span><span class="trans">It's already nine o'clock. Get out of bed!</span>
+*<em>都</em> 十二 点 <strong>了</strong> ，你 <strong>还</strong> 不 睡 ？<span class="pinyin"><em>Dōu</em> shí'èr diǎn <strong>le</strong>, nǐ <strong>hái</strong> bù shuì?</span><span class="trans">It's already 12 o'clock. Aren't you going to bed?</span>
+*<em>都</em> 二十一 世纪 <strong>了</strong> ，你 <strong>还</strong> 这么 想 ？<span class="pinyin"><em>Dōu</em> èrshí-yī shìjì <strong>le</strong>, nǐ <strong>hái</strong> zhème xiǎng?</span><span class="trans">It's already the 21st century and you still think this way?</span>
+*<em>都</em> 一 个 小时 <strong>了</strong> ，他 <strong>还</strong> 在 厕所 里 。<span class="pinyin"><em>Dōu</em> yī gè xiǎoshí <strong>le</strong>, tā <strong>hái</strong> zài cèsuǒ lǐ.</span><span class="trans">It's already been an hour, and he's still in the bathroom.</span>
+*<em>都</em> 一 个 星期 <strong>了</strong> ，<strong>还在</strong> 下雨 。<span class="pinyin"><em>Dōu</em> yī gè xīngqī <strong>le</strong>, <strong>hái zài</strong> xiàyǔ.</span><span class="trans">It's been a week and it's still raining.</span>
+
+</div>
+
+== Used Before the Predicate ==
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 都 + Predicate + 了
+</div>
+
+The [[predicate]] part of the pattern can be a verb or an adjective.
+
+=== Examples ===
+
+<div class="liju">
+
+*饭 <em>都</em> 凉 <strong>了</strong> ，快 吃 吧 。<span class="pinyin">Fàn <em>dōu</em> liáng <strong>le</strong>, kuài chī ba.</span><span class="trans">The food is cold already. Let's eat.</span>
+*牛奶 <em>都</em> 坏 <strong>了</strong> ，扔掉 吧 。<span class="pinyin">Niúnǎi <em>dōu</em> huài <strong>le</strong>, rēngdiào ba.</span><span class="trans">The milk's gone bad. Throw it out.</span>
+*我 <em>都</em> 说 了 三 遍 <strong>了</strong> 。别 烦 我 ！<span class="pinyin">Wǒ <em>dōu</em> shuō le sān biàn <strong>le</strong>. Bié fán wǒ!</span><span class="trans">I've said it three times already. Leave me alone!</span>
+*这个 电影 你 <em>都</em> 看 过 <strong>了</strong> ，看 别的 吧 。<span class="pinyin">Zhège diànyǐng nǐ <em>dōu</em> kàn guo <strong>le</strong>, kàn biéde ba.</span><span class="trans">You've seen this movie already. Let's watch something else.</span>
+*他 <em>都</em> 道歉 <strong>了</strong> ，你 别 生气 了。<span class="pinyin">Tā <em>dōu</em> dàoqiàn <strong>le</strong>, nǐ bié shēngqì le.</span><span class="trans">He already apologized. Stop being so mad at him.</span>
+
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|116}}
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级)|97-99}}
+{{Source|现代汉语八百词（增订本）|178}}
+
+=== Dictionaries ===
+
+{{Source|现代汉语词典（第5版）|329 }}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|都|B1|都 + Time + 了|<em>都</em> 九点 <strong>了</strong> ，快点 起床 ！|grammar point|ASGT1CIR}}
+{{Rel char|了}}
+{{Similar|Uses of "le"}}   
+{{Similar|Expressing "already" with "yijing"}}   
+{{Similar|Expressing "already" with just "le"}}
+{{Similar|Expressing duration of inaction}}
+{{Similar|Advanced uses of "dou"}}   
+{{POS|Adverbs}}
+{{Used for|Expressing attitude}}
+{{Used for|Emphasizing}}
+{{Translation|already}}

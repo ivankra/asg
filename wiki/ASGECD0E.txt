@@ -1,0 +1,54 @@
+<!-- Expressing "don't need to" with "buyong" -->
+{{Grammar Box}} 
+
+In Chinese, [[Auxiliary verb "yao" and its multiple meanings|要 (yào) has many meanings]], one of which is "need to." However, when you want to express "don't need to," you actually use 不用 (bùyòng), not 不要 (bùyào).
+
+== Structure ==
+
+<div class="jiegou">
+Subj. + 不用 + [Verb Phrase]
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*<em>不用</em> 谢 。<span class="pinyin"><em>Bùyòng</em> xiè.</span><span class="trans">You don't need to thank me.</span>
+*<em>不用</em> 担心 。<span class="pinyin"><em>Bùyòng</em> dānxīn.</span><span class="trans">You don't need to worry.</span>
+*孩子 <em>不用</em> 买 票 。<span class="pinyin">Háizi <em>bùyòng</em> mǎi piào.</span><span class="trans">Kids don't need to buy tickets.</span>
+*你 <em>不用</em> 过去 ，她 会 过来 的 。<span class="pinyin">Nǐ <em>bùyòng</em> guòqù, tā huì guòlái de.</span><span class="trans">You don't need to go over there. She will come here.</span>
+*今天 <em>不用</em> 加班 。<span class="pinyin">Jīntiān <em>bùyòng</em> jiābān.</span><span class="trans">We don't need to work overtime today.</span>
+*这 件 事 <em>不用</em> 跟 他 说 。<span class="pinyin">Zhè jiàn shì <em>bùyòng</em> gēn tā shuō.</span><span class="trans">You don't need to tell him about this.</span>
+*告诉 他 明天 <em>不用</em> 来 了 。<span class="pinyin">Gàosu tā míngtiān <em>bùyòng</em> lái le.</span><span class="trans">Tell him that he doesn't need to come tomorrow.</span>
+*买 吧 ，<em>不用</em> 考虑 价钱 。<span class="pinyin">Mǎi ba, <em>bùyòng</em> kǎolǜ jiàqián.</span><span class="trans">Buy it. You don't need to consider the price.</span>
+*今天 人 少，<em>不用</em> 排队 。<span class="pinyin">Jīntiān rén shǎo, <em>bùyòng</em> páiduì.</span><span class="trans">There aren't many people today. We don't need to wait in line.</span>
+*你们 <em>不用</em> 都 来 ，我们 不 需要 这么 多 人 。<span class="pinyin">Nǐmen <em>bùyòng</em> dōu lái, wǒmen bù xūyào zhème duō rén.</span><span class="trans">Not all of you need to come. We don't need this many people.</span>
+
+</div>
+
+== Colloquial Saying ==
+
+In spoken Chinese, the rhetorical question, "这还用说吗？" indicates the speaker believes that the statement is obvious. It is equivalent to the speaker saying, "does that even need to be said?" or "is that seriously a question?" This 用 is the direct opposite of the 不用 in this grammar point, but you don't hear it a lot.
+
+== See also ==
+
+* [[Negative commands with "bie"]]
+* [[Auxiliary verb "yao" and its multiple meanings]]
+* [[Negative commands with "bu yao"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+
+[[Category:B1 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|不用|B1|Subj. + 不用 + Verb Phrase|<em>不用</em> 担心 。|grammar point|	ASGECD0E}}
+{{Similar|Negative commands with "bie"}}
+{{Similar|Negative commands with "buyao"}}
+{{Similar|Auxiliary verb "yao" and its multiple meanings}}
+{{Similar|Expressing "must" with "dei"}}
+{{Used for|Expressing attitude}}
+{{Translation|don't need to}}
+{{POS|Verbs}}
+{{Subprop|Auxiliary verbs}}

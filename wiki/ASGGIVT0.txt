@@ -1,0 +1,87 @@
+<!-- Expressing "if... then..." with "ruguo... jiu..." -->
+{{Grammar Box}} 
+The 如果 ⋯⋯，就⋯⋯ (rúguǒ..., jiù...) two-part structure is very logical and concise, meaning "if... then...."
+
+== Standard Pattern ==
+
+=== Structure===
+
+如果⋯⋯，就⋯⋯ is an often-used pattern that is utilized in the same way that "''If…, then…''" is in English. In English we sometimes drop then "then" in the second half of the sentence, and you can do the same in Chinese, dropping the 就.
+
+<div class="jiegou">
+如果 ⋯⋯ ，就 ⋯⋯ 
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>如果</em> 有 困难 ，<em>就</em> 给 我 打 电话 。 <span class="pinyin"><em>Rúguǒ</em> yǒu kùnnan, <em>jiù</em> gěi wǒ dǎ diànhuà.</span><span class="trans">If there is any difficulty, give me a call.</span>
+*<em>如果</em> 你 输 了 ，<em>就</em> 给 我 一 百 块 。<span class="pinyin"><em>Rúguǒ</em> nǐ shū le, <em>jiù</em> gěi wǒ yī bǎi kuài.</span><span class="trans">If you lose, give me 100 kuai.</span>
+*<em>如果</em> 真的 找 不 回来 ，<em>就</em> 再 买 一 个 吧 。<span class="pinyin"><em>Rúguǒ</em> zhēnde zhǎo bu huílái, <em>jiù</em> zài mǎi yī gè ba.</span><span class="trans">If you can't find it, then buy a new one.</span>
+*<em>如果</em> 他 再 来 ，我们 <em>就</em> 报警 。<span class="pinyin"><em>Rúguǒ</em> tā zài lái, wǒmen <em>jiù</em> bàojǐng.</span><span class="trans">If he keeps showing up, we'll call the police.</span>
+*<em>如果</em> 你们 已经 不 相爱 了 ，<em>就</em> 分手 吧 。<span class="pinyin"><em>Rúguǒ</em> nǐmen yǐjīng bù xiāngài le, <em>jiù</em> fēnshǒu ba.</span><span class="trans">If you no longer love each other, just break up.</span>
+
+</div>
+
+== Alternate Pattern Using 那么 ==
+
+Sometimes 那么 (nàme) is used instead of 就 (jiù), imparting a more relaxed, informal feel to the sentence. Sometimes just 那 (nà) will be used instead of 那么 (nàme).
+
+=== Structure ===
+
+<div class="jiegou">
+如果 ⋯⋯ ，那么 / 那 ⋯⋯
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>如果</em> 他 知道 ，<em>那</em> 他 一 定 会 告诉 我 。<span class="pinyin"><em>Rúguǒ</em> tā zhīdào, <em>nà</em> tā yīdìng huì gàosu wǒ.</span><span class="trans">If he knew, he would definitely tell me.</span>
+*<em>如果</em> 大家 都 不 感兴趣 ，<em>那</em> 我 不 说 了。<span class="pinyin"><em>Rúguǒ</em> dàjiā dōu bù gǎn xìngqù, <em>nà</em> wǒ bù shuō le.</span><span class="trans">If none of you are interested, I will stop talking.</span>
+*<em>如果</em> 你们 真的 想 合作 ，<em>那么</em> 我们 应该 找 时间 好好 谈谈 。<span class="pinyin"><em>Rúguǒ</em> nǐmen zhēnde xiǎng hézuò, <em>nàme</em> wǒmen yīnggāi zhǎo shíjiān hǎohāo tántan.</span><span class="trans">If you really want to work with us, then we should schedule a day to discuss it.</span>
+*<em>如果</em> 能 找到 投资 ，<em>那</em> 下个月 就 可以 开始 做 了 。<span class="pinyin"><em>Rúguǒ</em> néng zhǎodào tóuzī, <em>nà</em> xià gè yuè jiù kěyǐ kāishǐ zuò le.</span><span class="trans">If we can find the investment, we'll be able to get on it next month.</span>
+*<em>如果</em> 你 想 申请 ，<em>那么</em> 现在 就 要 开始 准备 。<span class="pinyin"><em>Rúguǒ</em> nǐ xiǎng shēnqǐng, <em>nàme</em> xiànzài jiù yào kāishǐ zhǔnbèi.</span><span class="trans">If you want to apply, you need to start to prepare right away.</span>
+
+</div>
+
+=== Adding in 的话 ===
+
+This article is focused on the two-part "if... then..." pattern 如果⋯⋯，就⋯⋯. But it's also possible to take the first half and make it into a [[The "if" sandwich pattern using "ruguo... dehua"|"sandwich pattern" using 如果……的话]].
+
+== See also ==
+
+*[["If… then…" with "yaoshi"]]
+*[["If… then…" with "jiaru"]]
+*[[The "if" sandwich pattern using "ruguo... dehua"]]
+*[["Only if" with "zhiyou"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|138}}
+{{Source|Common Chinese Patterns 330 (汉语常用格式330例)|184}} 
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2)|240}}
+
+[[Category: B1 grammar points]]
+{{HSK|HSK3}}
+{{Structure|Sentence Patterns}}
+{{Subprop|Complex Sentence Patterns}}
+{{Basic Grammar|如果|B1|如果 ⋯⋯ ，就 ⋯⋯|<em>如果</em> 有 困难 ，<em>就</em> 给 我 打 电话 。|grammar point|ASGGIVT0}}
+{{Rel char|就}}
+{{Rel char|如果}}
+{{Similar|Expressing "then" with "jiu"}}
+{{Similar|Expressing "if" with "ruguo... dehua"}}
+{{Similar|Expressing "if… then…" with "yaoshi"}}
+{{Similar|Expressing "if… then…" with "jiaru"}}
+{{Similar|Expressing "if… then…" with "jiashi"}}
+{{Similar|"Only if" with "zhiyou"}}
+{{Similar|Conditions with "yao" and "jiu"}}
+{{Similar|Expressing "once⋯⋯then⋯⋯" with "yidan⋯⋯jiu⋯⋯"}}
+{{Similar|Use "tangruo" to express "if"}}
+{{Used for|Indicating conditions}}
+{{Used for|Expressing possibility}}
+{{Translation|then}}
+{{Translation|if}}

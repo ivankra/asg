@@ -1,0 +1,102 @@
+<!-- Reduplication of verbs -->
+{{Grammar Box}} 
+
+One of the fun things about Chinese is that when speaking, you can repeat a verb to express "a little bit" or "briefly." This is called [[reduplication]]. It creates a casual tone, and a sense that whatever the action is, it's not going to take long.
+
+== Reduplication with the AA Pattern ==
+
+=== Structure ===
+
+In Chinese, verbs can be [[reduplicate]]d to indicate that they happen briefly or "a little bit."
+
+<div class="jiegou">
+
+Subj. + Verb + Verb
+
+</div>
+
+Chinese grammar books frequently refer to the reduplication of a single-character word as a "AA" pattern. Note that for this pattern, the second verb's tone changes to the neutral tone.
+
+=== Examples ===
+
+<div class="liju">
+
+* 你 <em>看看</em>。<span class="pinyin">Nǐ <em>kànkan</em>.</span><span class="trans"> Take a little look.</span>
+* 我 <em>试 试</em>。<span class="pinyin">Wǒ <em>shìshi</em>.</span><span class="trans">I'll give it a try.</span>
+* <em>说 说</em> 你 的 想法。<span class="pinyin"><em>Shuōshuo</em> nǐ de xiǎngfǎ.</span><span class="trans">Talk a little bit about your ideas.</span>
+* 出去 <em>玩 玩</em> 吧！<span class="pinyin">Chūqù <em>wánwan</em> ba! </span><span class="trans">Go out and have fun! </span>
+* 我 想 出去 <em>走 走</em>。<span class="pinyin">Wǒ xiǎng chūqù <em>zǒuzou</em>.</span><span class="trans">I want to go out and walk for a bit.</span>
+
+</div>
+
+== Reduplication with 一 (yī) ==
+
+=== Structure ===
+
+Another way to reduplicate verbs is to insert 一 (yī), in the following structure:
+
+<div class="jiegou">
+
+Verb + 一 + Verb
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 别 生气 了，<em>笑 一 笑</em>！<span class="pinyin">Bié shēngqì le, <em>xiào yī xiào</em>! </span><span class="trans">Don't be mad, gimme a smile! </span>
+* 你 去 <em>问 一 问</em> 他们 厕所 在 哪里。<span class="pinyin">Nǐ qù <em>wèn yī wèn</em> tāmen cèsuǒ zài nǎlǐ.</span><span class="trans">Go and ask them where the bathroom is.</span>
+* 我 可以 <em>用 一 用</em> 你 的 电脑 吗？<span class="pinyin">Wǒ kěyǐ <em>yòng yī yòng</em> nǐ de diànnǎo ma? </span><span class="trans"> Can I use your computer for a little bit? </span>
+* 你 现在 有时间 吗？我们 <em>聊一聊</em> 吧。<span class="pinyin">Nǐ xiànzài yǒu shíjiān ma? Wǒmen <em>liáo yī liáo</em> ba.</span><span class="trans">Do you have a second? Let's chat for a bit.</span>
+* 你 想 <em>尝 一 尝</em> 我 做 的 菜 吗？<span class="pinyin">Nǐ xiǎng <em>cháng yī cháng</em> wǒ zuò de cài ma? </span><span class="trans">Do you want to taste the food that I cooked? </span>
+
+</div>
+
+Using this kind of structure lightens the mood and seriousness of the question. It also adds variety to sentence structure. Because these phrases are used colloquially, there is no set rule to which verbs this can be applied to. There are some verbs that are often reduplicated and some verbs that sound weird when reduplicated. With practice and exposure, you will learn which ones are often used.
+
+== ABAB Reduplication with Two-Syllable Verbs ==
+
+In the examples above, all verbs are only one syllable. Those verbs get reduplicated a lot, so those examples are quite useful. Occasionally, though, two-syllable verbs get reduplicated as well. When this happens, it's important to use the "ABAB" pattern for verbs (meaning the entire word is repeated), and not the [[Reduplication of adjectives|"AABB" pattern you use for adjectives]] (where each character is repeated individually).
+
+=== Examples ===
+
+<div class="liju">
+
+* 考虑 考虑 <span class="pinyin">kǎolǜ kǎolǜ</span><span class="trans">think it over</span>
+* 讨论 讨论 <span class="pinyin">tǎolùn tǎolùn</span><span class="trans">discuss it</span>
+* 商量 商量 <span class="pinyin">shāngliang shāngliang</span><span class="trans">talk it over</span>
+* 打听 打听 <span class="pinyin">dǎting dǎting</span><span class="trans">inquire about it</span>
+
+</div>
+
+==See also==
+
+*[[Softening speech with "ba"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|61}}
+{{Source|HSK Standard Course 3|146}}
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2)|18}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|85}}
+{{Source|Integrated Chinese: Level 2, Part 2|227-8}}
+{{Source|Contemporary Chinese 1 (当代中文1)|125}}
+{{Source|Practicing HSK Grammar (语法精讲精炼)|152-160}}
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|121-2}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{HSK|HSK3}}
+{{Basic Grammar|一|A2|Verb + Verb|你 <em>看看</em>。|grammar point|ASGYC77J}}
+{{Similar|Softening speech with "ba"}}
+{{Similar|Verbing briefly}}    
+{{POS|Verbs}}
+{{Used for|Decreasing formality}}
+{{Used for|Expressing duration}}
+{{Similar|Reduplication of measure words}}
+{{Similar|Reduplication of adjectives}}
+{{Similar|Repeated actions in the past with "you"}}
+{{Subprop|Verb phrases}}

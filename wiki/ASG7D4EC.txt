@@ -1,0 +1,69 @@
+<!-- Expressing "multiples" with "bei" -->
+{{Grammar Box}} 
+
+The word 倍 (bèi) is used to express the idea of multiples, as in "3 ''times'' as many" or "5 ''times'' more." Its usage can be a little tricky (different from English), so pay close attention to the pattern below.
+
+== Directly Expressing Multiples ==
+
+For this pattern, we're stating ''how many times more'' amount A is compared to amount B. Pretty straightforward.
+
+=== Structure ===
+
+<div class="jiegou">
+A + 是 + B + 的 + Number + 倍
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*他 现在 的 工资 <strong>是</strong> 两 年 前 的 四 <em>倍</em> 。 <span class="pinyin">Tā xiànzài de gōngzī <strong>shì</strong> liǎng nián qián de sì <em>bèi</em>.</span> <span class="trans">His current salary is four times what it was two years ago.</span>
+*公司 现在 的 规模 <strong>是</strong> 十 年 前 的 五 <em>倍</em> 。<span class="pinyin">Gōngsī xiànzài de guīmó <strong>shì</strong> shí nián qián de wǔ <em> bèi</em>.</span><span class="trans">The company's current scope is five times what it was 10 years ago.</span>
+*今年 的 产量 <strong>是</strong> 去年 的 两 <em>倍</em> 。<span class="pinyin">Jīnnián de chǎnliàng <strong>shì</strong> qùnián de liǎng <em>bèi</em>.</span><span class="trans">This year's output is twice as much as last year's.</span>
+
+</div>
+
+== Expressing "More" with Multiples ==
+
+This pattern involves an adjective, one of the most common being 多 ("many"). You'll see other adjectives related to quantity appearing in this pattern as well, such as 大 ("big"), 贵 ("expensive"), 高 ("tall"), 长 ("long"), etc. In Chinese, it is not common to use the "negative opposite" adjectives in these kinds of comparisons, so you won't normally see the words for "small," "cheap," "short," etc. appearing in this pattern.
+
+=== Structure ===
+
+<div class="jiegou">
+A + 比 + B + Adj. + Number + 倍
+</div>
+
+One very important linguistic difference between English and Chinese to note here is that in Chinese, you're typically talking about how many multiples ''in addition'' to the original amount. So 多一倍 is "x + 1x," in other words "double" the original amount. Naturally, 多两倍 would be ''triple'' the original amount (x + 2x). This little detail is sometimes confusing even for native speakers, so if you're talking about multiples and 多 is involved, be sure to use actual numbers to confirm both sides are on the same page!
+
+=== Examples ===
+
+<div class="liju">
+
+*我 家 客厅 <strong>比</strong> 你 家 客厅 <strong>大</strong> 一 <em>倍</em> 。<span class="pinyin">Wǒ jiā kètīng <em>bǐ</em> nǐ jiā kètīng <strong>dà</strong> yī <em>bèi</em>.</span><span class="trans">My home's living room is double the size of your home's living room.</span>
+*这个 15 岁 的 男孩 <strong>比</strong> 一般 的 孩子 <strong>重</strong> 一 <em>倍</em> 。<span class="pinyin">Zhège shíwǔ suì de nánhái <strong>bǐ</strong> yībān de háizi <strong>zhòng</strong> yī <em>bèi</em>.</span><span class="trans">This fifteen-year-old kid weighs double what a normal kid at his age should weigh.</span>
+*你 的 速度 <strong>比</strong> 我们 <strong>快</strong> 两 <em>倍</em> 。<span class="pinyin">Nǐ de sùdù <strong>bǐ</strong> wǒmen <strong>kuài</strong> liǎng <em>bèi</em>.</span><span class="trans">Your speed is three times as fast as our speed.</span>
+*他 现在 的 工资 <strong>比</strong> 两 年 前 <strong>多</strong> 了 三 <em>倍</em> 。<span class="pinyin">Tā xiànzài de gōngzī <strong>bǐ</strong> liǎng nián qián <strong>duō</strong> le sān <em>bèi</em>.</span><span class="trans">His salary is four times higher now than what it was two years ago.</span>
+*中国 人口 <strong>比</strong> 美国 人口 <strong>多</strong> 四 <em>倍</em> 。<span class="pinyin">Zhōngguó rénkǒu <strong>bǐ</strong> Měiguó rénkǒu <strong>duō</strong> sì <em>bèi</em>.</span><span class="trans">China's population is five times as large as the USA's.</span>
+*他 的 车 <strong>比</strong> 你 的 车 <strong>贵</strong> 十 <em>倍</em> 。<span class="pinyin">Tā de chē <strong>bǐ</strong> nǐ de chē <strong>guì</strong> shí <em>bèi</em>.</span><span class="trans">His car is 11 times more expensive than your car.</span>
+
+</div>
+
+== See also ==
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|69}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|倍|B1|Noun 1 + 是 + Noun 2 + 的 + Number + 倍|他 现在 的 工资 <strong>是</strong> 两 年 前 的 三 <em>倍</em> 。|grammar point|ASG7D4EC}}
+{{Rel char|比}}
+{{Rel char|多}}
+{{Used for|Expressing quantity}}
+{{Used for|Comparing}}
+{{Similar|Expressing fractions with "fenzhi"}}
+{{Structure|Sentence Patterns}}
+{{Subprop|Basic/Simple Sentence Patterns}}
+{{Translation|times}}

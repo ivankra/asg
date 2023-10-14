@@ -1,0 +1,109 @@
+<!-- Change of state with "le" -->
+{{Grammar Box}} 
+
+{{AKA|了2|change-of-state 了|sentence 了|modal 了}}
+
+了 (le) has many uses.  You probably first learned 了 (le) as a [[particle]] that tells you [[expressing completion with "le"|an action is completed]], which is also known as "了1." However, this article is not about that use of 了 (le); instead, it is about indicating a ''change of state'' (了2).  In other words, there is now a new situation, or there is about to be a new situation.  This whole "change of state" idea can take numerous forms, and this page includes some helpful examples.
+
+== Used with Adjectives ==
+
+When an [[adjective]] indicates a change to the subject, 了 (le) is placed at the end of the sentence to indicate a change of state.
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + Adj. + 了
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我 饿 <em>了</em> 。<span class="pinyin">Wǒ è <em>le</em>.</span><span class="trans">I'm hungry.</span>
+*孩子们 都 累 <em>了</em> 。<span class="pinyin">Háizi men dōu lèi <em>le</em>.</span><span class="trans">The kids are all tired.</span>
+*妈妈 老 <em>了</em> 。<span class="expl">We aren't used to thinking of her as old, but she is now.</span><span class="pinyin">Māma lǎo <em>le</em>.</span><span class="trans">Mom has gotten old.</span>
+*你 胖 <em>了</em> 。<span class="expl pdf-simple-expl">You used to not be fat.</span><span class="pinyin">Nǐ pàng <em>le</em>.</span><span class="trans">You've gotten fat.</span>
+*你 是不是 生气 <em>了</em> ？<span class="pinyin">Nǐ shì bu shì shēngqì <em>le</em>?</span><span class="trans">Are you mad?</span>
+
+</div>
+
+== Used with Verbs ==
+
+When following a verb or verb phrase, the 了 (le) indicates a change in an overall situation. For these sentences, sometimes you can translate this 了 (le) as "now."
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + Verb + 了
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*下雨 <em>了</em> 。<span class="expl pdf-simple-expl">It wasn't raining, but now it is.</span><span class="pinyin">Xià yǔ <em>le</em>.</span><span class="trans">It's raining.</span>
+*宝宝 会 说话 <em>了</em> 。<span class="expl pdf-simple-expl">He couldn't before.</span><span class="pinyin">Bǎobao huì shuōhuà <em>le</em>.</span><span class="trans">The baby can speak now.</span>
+*他 当 经理 <em>了</em> 。<span class="expl pdf-simple-expl">He wasn't a manager before.</span><span class="pinyin">Tā dāng jīnglǐ <em>le</em>.</span><span class="trans">He became a manager.</span>
+*你 有 女朋友 <em>了</em> ？<span class="expl pdf-simple-expl">He didn't have one before.</span><span class="pinyin">Nǐ yǒu nǚpéngyou <em>le</em>?</span><span class="trans">You have a girlfriend now?</span>
+*我 男朋友 找到 新 工作 <em>了</em> 。<span class="expl pdf-simple-expl">A big change for sure.</span><span class="pinyin">Wǒ nánpéngyou zhǎodào xīn gōngzuò <em>le</em>.</span><span class="trans">My boyfriend has found a new job.</span>
+
+</div>
+
+== Change of Situation in the Negative ==
+
+When you take the same "change of situation" pattern and put a 不 (bù) before the verb, you're indicating that something already decided has changed. What had once been green-lit is now getting a red light. What was once "on" is now "off." The "change of situation" indicated by 了 (le) is still the same, although the change is often simply mental: it's a change of plans, or a change of intent.
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 不 + Verb + 了
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我 <strong>不</strong> 买 <em>了</em> 。<span class="expl">I had previously decided to buy it.</span><span class="pinyin">Wǒ <strong>bù</strong> mǎi <em>le</em>.</span><span class="trans">I'm not buying it now.</span>
+*我 <strong>不</strong> 回家 吃 晚饭 <em>了</em> 。<span class="expl">I had previously decided to go home for dinner.</span><span class="pinyin">Wǒ <strong>bù</strong> huí jiā chī wǎnfàn <em>le</em>.</span><span class="trans">I'm not going to go home for dinner tonight.</span>
+*我 <strong>不</strong> 去 看电影 <em>了</em> 。<span class="expl">I had said I was going.</span><span class="pinyin">Wǒ <strong>bù</strong> qù kàn diànyǐng <em>le</em>.</span><span class="trans">I decided not to go to the movies.</span>
+*我 <strong>不</strong> 结婚 <em>了</em> 。<span class="expl">I had previously planned to get married.</span><span class="pinyin">Wǒ <strong>bù</strong> jiéhūn <em>le</em>.</span><span class="trans">I'm not getting married.</span>
+
+</div>
+
+This pattern is somewhat similar to [[Expressing "not anymore" with "le"|expressing "not anymore" with "le"]].
+
+== Too General? ==
+
+The whole "change of state" concept might seem very general, and it is. It's vague, and it also takes some getting used to. You should expect it to take a while to get used to this use of 了 (le).
+
+Because it's a little vague and confusing, most learners find it useful to break this "change of state" 了 (le) down into more specific usages, such as using it to mean [[Expressing "now" with "le"|"now"]], [[Expressing "already" with just "le"|"already"]], or [[Expressing "not anymore" with "le"|"not anymore"]]. Although these are all "flavors" of the "change of state" 了 (le), identifying them as specific cases can make it much easier to get used to using 了 (le) in this way.
+
+== See also ==
+
+* [[Expressing "now" with "le"]]
+* [[Expressing "already" with "le"]]
+* [[Expressing "not anymore" with "le"]]
+* [[Uses of "le"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|40}}
+{{Source|Basic Patterns of Chinese Grammar|68}}
+{{Source|Chinese: An Essential Grammar, Second Edition|126-9}}
+{{Source|Mandarin Chinese: A Functional Reference Grammar|238-99}} 
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2)|217-8}}
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|64-5}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|8}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|239}}
+
+[[Category: A2 grammar points]]
+{{HSK|HSK3}}
+{{Rel char|了}}
+{{Used for|Expressing result}}
+{{Used for|Referring to changes of situation}}
+{{Used for|Indicating conditions}}
+{{Similar|Uses of "le"}}
+{{Basic Grammar|了|A2|⋯⋯了|我 25 岁 <em>了</em>。|grammar point|ASGT185D}}
+{{POS|Particles}}

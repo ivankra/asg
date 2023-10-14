@@ -1,0 +1,85 @@
+<!-- Basic comparisons with "bu bi" -->
+{{Grammar Box}} 
+You might wonder why you have 不比 (bù bǐ) for negative comparisons when you already have [[Basic comparisons with "meiyou"|没有 (méiyǒu) for comparisons]]. The answer is that they're not exactly the same thing! 没有 should be your "go to word" for expressing "not as... as...," but there are cases where 不比 (in all of its subtle glory) is a better choice.
+
+== The Difference between 不比 and 没有 ==
+
+不比 and [[Basic comparisons with "meiyou"|没有]] are not exactly the same.  没有 means "not as... as," whereas 不比 is a direct negation of [[Basic comparisons with "bi"|比]], meaning "''not'' more... than."  Compare the following two English sentences:
+
+* You're '''not as smart''' as me. (没有)
+* You're '''not smarter''' than me. (不比)
+
+You'd probably be more upset to hear the former from a friend than the latter.  The two above sentences in Chinese are:
+
+<div class="liju">
+*你 <em>没有</em> 我 聪明 。<span class="expl">I am definitely smarter than you; we're not equal in smarts.</span><span class="pinyin">Nǐ <em>méiyǒu</em> wǒ cōngming.</span><span class="trans">You're not as smart as me.</span>
+*你 <em>不 比</em> 我 聪明 。<span class="expl">You're no smarter than I am, but we might be equal in smarts.</span><span class="pinyin">Nǐ <em>bùbǐ</em> wǒ cōngming.</span><span class="trans">You're no smarter than I am.</span>
+</div>
+
+== Basic Pattern with 不比 ==
+
+=== Structure ===
+
+To say that something is ''not more adjective'' as another, you can use 不比 (bù bǐ). No snickering, please. This is similar to, but not exactly the same as [[Basic comparisons with "meiyou"|comparing with 没有]].
+
+<div class="jiegou">
+Noun 1 + 不比 + Noun 2 + Adj.
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*你 <em>不 比</em> 我 差。<span class="pinyin">Nǐ <em>bùbǐ</em> wǒ chà.</span><span class="trans">You're no worse than me.</span>
+*你 <em>不 比</em> 别人 笨 。<span class="pinyin">Nǐ <em>bùbǐ</em> biérén bèn.</span><span class="trans">You're not dumber than anyone else.</span>
+*他 太太 的 工资 <em>不 比</em> 他 低 。<span class="pinyin">Tā tàitai de gōngzī <em>bùbǐ</em> tā dī.</span><span class="trans">His wife's salary is no lower than his is.</span>
+*上海 <em>不 比</em> 纽约 便宜 。<span class="pinyin">Shànghǎi <em>bùbǐ</em> Niǔyuē piányi.</span><span class="trans">Shanghai is no cheaper than New York .</span>
+*有人 觉得 养宠物 <em>不 比</em> 养 小孩 容易 。<span class="pinyin">Yǒurén juéde yǎng chǒngwù <em>bùbǐ</em> yǎng xiǎohái róngyì.</span><span class="trans">Some people think that it's no easier to raise a pet than to raise a child.</span>
+
+</div>
+
+== Pattern with 不比 and an Adjective ==
+
+=== Structure ===
+
+If it's more about the ''degree'' of an action, use this pattern below:
+
+<div class="jiegou">
+A + 不比 + B + Verb + 得 + Adj. 
+</div>
+
+Note that "Verb + 得" can also placed before 不比.
+
+=== Examples ===
+
+<div class="liju">
+*你 <em>不 比</em> 歌手 唱 得  差 。<span class="pinyin">Nǐ <em>bùbǐ</em> gēshǒu chàng de chà.</span><span class="trans">You sing no worse than the singer does.</span>
+*他 算 得 <em>不 比</em> 计算机 慢 。<span class="pinyin">Tā suàn de <em>bùbǐ</em> jìsuànjī màn.</span><span class="trans">He calculates no slower than the computer.</span>
+*她 跳 得 <em>不 比</em> 明星 差 。<span class="pinyin">Tā tiào de <em>bùbǐ</em> míngxīng chà.</span><span class="trans">She dances no worse than a star.</span>
+</div>
+
+== See also ==
+
+* [[Basic comparisons with "bi"]]
+* [[Basic comparisons with "meiyou"]]
+* [[Expressing "much more" in comparisons]]
+Note: don't confuse 不比 (bùbǐ) with 不必 (bùbì)!
+
+== Sources and  further reading ==
+
+=== Books ===
+
+{{Source|Basic Patterns of Chinese Grammar|64}} 
+
+[[Category:B2 grammar points]]
+[[Category:Comparing]]
+{{Basic Grammar|不比|B2|Noun 1 + 不比 + Noun 2 + Adj.|你 <em>不 比</em> 别人 笨 。|grammar point|ASG8DVSO}}
+{{Rel char|没有}}
+{{Rel char|比}}
+{{Similar|Basic comparisons with "bi"}}
+{{Similar|Comparisons with "buru"}}
+{{Similar|Expressing "much more" in comparisons}}
+{{Used for|Comparing}}
+{{Used for|Denying and refusing}}
+{{Structure|Sentence Patterns}}
+{{Translation|less}}
+{{Translation|not}}

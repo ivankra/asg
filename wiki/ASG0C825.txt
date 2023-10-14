@@ -1,0 +1,36 @@
+<!-- Expressing "have to" with "budebu" -->
+{{Grammar Box}} 
+不得不 (bùdébù) has a stronger tone than 必须 (bìxū) meaning "someone cannot help but do something."
+
+== Structure ==
+
+<div class="jiegou">
+Subj. + 不得不 + Verb
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+* 你 真的 太 厉害 了 ， 我 <em>不得不</em> 承认 。<span class="pinyin">Nǐ zhēn de tài lìhài le, wǒ <em>bùdébù</em> chéngrèn.</span><span class="trans">You are so good. I have to admit it.</span>
+* 为了 以后，我 <em>不得不</em> 努力 学习。<span class="pinyin">Wèile yǐhòu, wǒ <em>bùdébù</em> nǔlì xuéxí.</span><span class="trans">I must study hard for the future.</span>
+*电梯 又 坏了 ， 我们 <em>不得不</em> 爬楼梯 。<span class="pinyin">Diàntī yòu huài le, wǒmen <em>bùdébù</em> pá lóutī.</span><span class="trans">The elevator is broken again. We have to take the stairs.</span>
+*你 真 会 说话 ，这一点 我们 <em>不得不</em> 佩服 。<span class="pinyin">Nǐ zhēn huì shuōhuà, zhè yīdiǎn wǒmen <em>bùdébù</em> pèifú.</span><span class="trans">You are quite the smooth talker. We can't help but admire that about you.</span>
+* 不好意思 ，时间 有限 ，我 <em>不得不</em> 打断 你 。 <span class="pinyin">Bù hǎoyìsi, shíjiān yǒuxiàn, wǒ <em>bùdébù</em> dǎduàn nǐ.</span><span class="trans">I'm sorry, but time is very limited. I have to interrupt you.</span>
+* 情况 紧急，我们 <em>不得不</em> 马上 想 个 主意。<span class="pinyin">Qíngkuàng jǐnjí, wǒmen <em>bùdébù</em> mǎshàng xiǎng ge zhǔyi.</span><span class="trans">It's an emergency situation. We must come up with something fast.</span>
+* 因为 生病 的 关系，他 <em>不得不</em> 放弃 这 次 旅行。<span class="pinyin">Yīnwèi shēngbìng de guānxì, tā <em>bùdébù</em> fàngqì zhè cì lǚxíng.</span><span class="trans">Because he was sick, he had no choice but to give up this trip.</span>
+* 我的 腿 受伤 了，我 <em>不得不</em> 退出 比赛。<span class="pinyin">Wǒ de tuǐ shòushāng le, wǒ <em>bùdébù</em> tuìchū bǐsài.</span><span class="trans">My leg was injured, so I had no choice but to drop out of the competition.</span>
+* 小明 为了 买 新 手机 <em>不得不</em> 去 打工。<span class="pinyin">Xiǎo Míng wèile mǎi xīn shǒujī bùdébù qù dǎgōng.</span><span class="trans">In order to buy a new phone, Xiao Ming had to get a part time job.</span>
+* 我们 都 是 打工 的 ， <em>不得不</em> 服从 公司 的 安排 。<span class="pinyin">Wǒmen dōu shì dǎgōng de, <em>bùdébù</em> fúcóng gōngsī de ānpái.</span><span class="trans">We all employees here. We have to follow what the company has decided.</span>
+</div>
+
+[[Category:B2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|不得不|B2|Subj. + 不得不 + Verb|老板 很 讨厌 应酬，但是 她 <em>不得不</em> 去。|grammar point|ASG0C825}}
+{{Similar|Expressing "must" with "dei"}}
+{{Similar|Declaring the only option with "zhihao"}}
+{{Similar|Expressing determination with "feiyao" }}
+{{Used for|Expressing attitude}}
+{{Used for|Expressing obligations}}
+{{POS|Adverbs}}
+{{Translation|have to}}

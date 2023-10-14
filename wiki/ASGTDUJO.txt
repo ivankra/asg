@@ -1,0 +1,118 @@
+<!-- Cause and effect with "yinwei" and "suoyi" -->
+{{Grammar Box}} 
+
+You will often come across 因为⋯⋯所以⋯⋯ (yīnwèi... suǒyǐ...) in both written and spoken Chinese. This pattern will give your Chinese a clear logical structure, and can help make you more persuasive.
+
+== Using 因为 (yīnwèi) by Itself to Explain Causes ==
+
+A common way to explain causes in Chinese is with 因为 (yīnwèi). This is equivalent to "because" in English. Usually 因为 (yīnwèi) will begin a new phrase in a sentence.
+
+=== Structure ===
+
+In this structure, we first state the result, and then give the reason in the next statement after the 因为 (yīnwèi).
+
+<div class="jiegou">
+
+Result, 因为 + Reason
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 他 学 得 很 快 ，<em>因为</em> 他 很 聪明 。<span class="pinyin">Tā xué de hěn kuài, <em>yīnwèi</em> tā hěn cōngming.</span><span class="trans">He learns fast because he is smart.</span>
+* 我 爱 吃 四川 菜 ，<em>因为</em> 很 辣 。 <span class="pinyin">Wǒ ài chī Sìchuān cài, <em>yīnwèi</em> hěn là.</span><span class="trans"> I love eating Sichuan food because it's very spicy.</span>
+* 我 在 学习 中文 ，<em>因为</em> 我 想 去 中国 。<span class="pinyin">Wǒ zài xuéxí Zhōngwén, <em>yīnwèi</em> wǒ xiǎng qù Zhōngguó.</span><span class="trans">I am studying Chinese because I want to go to China.</span>
+* 我 不 喜欢 她 ，<em>因为</em> 她 不 友好 。<span class="pinyin">Wǒ bù xǐhuan tā, <em>yīnwèi</em> tā bù yǒuhǎo.</span><span class="trans">I don't like her because she is very unfriendly.</span>
+* 今天 我们 很 忙 ，<em>因为</em> 有 很 多 工作 。<span class="pinyin">Jīntiān wǒmen hěn máng, <em>yīnwèi</em> yǒu hěn duō gōngzuò.</span><span class="trans"> We are very busy today because we have lots of work.</span>
+
+</div>
+
+== Using 所以 (suǒyǐ) by Itself to Explain Results ==
+
+Just as 因为 (yīnwèi) can be used to explain causes, 所以 (suǒyǐ) can be used to explain results. This is the equivalent of "so…" or "therefore…" in English.
+
+=== Structure ===
+
+This pattern is similar to the expression using both 因为 (yīnwèi) and 所以 (suǒyǐ), but it leaves out the beginning 因为 (yīnwèi). This structure is more informal.
+
+<div class="jiegou">
+
+Reason, 所以 + Result
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 汉字 太 难 了，<em>所以</em> 我 不 想 学 。<span class="pinyin">Hànzì tài nán le, <em>suǒyǐ</em> wǒ bù xiǎng xué.</span><span class="trans">Chinese characters are too hard, so I don't want to study them.</span>
+* 她 很 漂亮，<em>所以</em> 很 多 男孩 喜欢 她。<span class="pinyin">Tā hěn piàoliang, <em>suǒyǐ</em> hěn duō nánhái xǐhuan tā.</span><span class="trans">She is beautiful, so a lot of boys like her.</span>
+* 他 找到 工作 了， <em>所以</em> 很 高兴。<span class="pinyin">Tā zhǎodào gōngzuò le, <em>suǒyǐ</em> hěn gāoxìng.</span><span class="trans">He found a job so he's happy.</span>
+* 我 太 忙 了，<em>所以</em> 没有 时间 给 你 打 电话。<span class="pinyin">Wǒ tài máng le, <em>suǒyǐ</em> méiyǒu shíjiān gěi nǐ dǎ diànhuà.</span><span class="trans">I was too busy, so I didn't have time to give you a call.</span>
+* 我们 公司 有 很 多 外国人，<em>所以</em> 我们 要 说 英文。<span class="pinyin">Wǒmen gōngsī yǒu hěn duō wàiguó rén, <em>suǒyǐ</em> wǒmen yào shuō Yīngwén.</span><span class="trans">There are a lot of foreigners in our company, so we need to speak English.</span>
+
+</div>
+
+== Using 因为 (yīnwèi) and 所以 (suǒyǐ) Together ==
+
+The full pattern 因为……所以…… (yīnwèi... suǒyǐ...) is used to clearly indicate cause and effect. They could be thought of as equating to: "Since ___ happened, so ___ happened." It sounds weird to use both "since" and "so" in one sentence in English, but it makes everything crystal clear in Chinese.
+
+=== Structure ===
+
+<div class="jiegou">
+因为 + Cause, 所以 + Effect
+</div>
+
+This expresses that because of ''cause'', therefore there is a ''result''. 
+
+=== Examples ===
+
+<div class="liju">
+
+* <em>因为</em> 我 有 一个 中国 女朋友，<em>所以</em> 我 要 学 中文。<span class="pinyin"><em>Yīnwèi</em> wǒ yǒu yī gè Zhōngguó nǚpéngyou, <em>suǒyǐ</em> wǒ yào xué Zhōngwén.</span><span class="trans">Since I have a Chinese girlfriend, I need to study Chinese.</span>
+* <em>因为</em> 他 生病 了，<em>所以</em> 没 去 上课。<span class="pinyin"> <em>Yīnwèi</em> tā shēngbìng le, <em>suǒyǐ</em> méi qù shàngkè.</span><span class="trans">Since he was sick, he didn't go to class.</span>
+* <em>因为</em> 我 很 累，<em>所以</em> 要 休息。<span class="pinyin"><em>Yīnwèi</em> wǒ hěn lèi, <em>suǒyǐ</em> yào xiūxi.</span><span class="trans">I'm very tired, so I want to rest.</span>
+* <em>因为</em> 太 远 了，<em>所以</em> 我 不 想 去。<span class="pinyin"><em>Yīnwèi</em> tài yuǎn le, <em>suǒyǐ</em> wǒ bù xiǎng qù.</span><span class="trans">Since it's too far, I don't want to go.</span>
+* <em>因为</em> 太 忙， <em>所以</em> 我们 没有 时间 吃 中饭。 <span class="pinyin"><em>Yīnwèi</em> tài máng, <em>suǒyǐ</em> wǒmen méiyǒu shíjiān chī zhōngfàn.</span><span class="trans">We were too busy, so none of us had time to eat lunch.</span>
+
+</div>
+
+== See also ==
+
+*[[Stating the effect before the cause]] (advanced article)
+
+== Sources and  further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|44}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|272-4}} 
+{{Source|Basic Patterns of Chinese Grammar|79}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|108}}
+{{Source|现代汉语虚词例释|482}}
+
+===Websites===
+
+* Yale Chinese Usage Dictionary: [http://comet.cls.yale.edu/chineseusagedictionary/0201.html How to use 因为 and 由于]
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|因为|A2|因为⋯⋯ 所以⋯⋯|<em>因为</em> 饿 了，<em>所以</em> 吃饭。|grammar point|ASGTDUJO}}
+{{Rel char|所以}}
+{{Rel char|以}}
+{{Similar|Stating the Effect before the Cause}}
+{{Similar|"Then…" with "name"}}     
+{{Similar|Because" with "er" Indicating Effect}}  
+{{Similar|"Since" with "jiran"}}  
+{{Similar|"Therefore" with "yinci"}}
+{{Similar|Expressing "as a result" with "jieguo"}}
+{{Similar|Express an action and its effect by using "tongguo… shi"}}
+{{Used for|Expressing result}}
+{{Used for|Indicating cause and effect}}
+{{Used for|Sequencing events in time}}
+{{Structure|Sentence Patterns}}
+{{Translation|because}}
+{{Translation|so}}
+{{Translation|therefore}}

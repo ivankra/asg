@@ -1,0 +1,108 @@
+<!-- Expressing "again" in the future with "zai" -->
+{{Grammar Box}} 
+While 又 (yòu) is used for [[Again in the past with "you"|"again" in the past]], 再 (zài) is used for "again" in the future. That is, 再 is used when something has happened once and it ''will'' happen again. 
+
+== Used as "Again" ==
+
+Remember this is the ''future'' "again."
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 再 + [Verb Phrase]
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我们 明年 <em>再</em> 来 。<span class="pinyin">Wǒmen míngnián <em>zài</em> lái.</span><span class="trans">We'll come again next year.</span>
+*<em>再</em> 试 一下 。<span class="pinyin"><em>Zài</em> shì yīxià.</span><span class="trans">Try it again.</span>
+*你 可以 <em>再</em> 说 一 遍 吗 ？<span class="pinyin">Nǐ kěyǐ <em>zài</em> shuō yī biàn ma?</span><span class="trans">Can you please say it again?</span>
+*这 本 书 我 要 <em>再</em> 看 一 遍 。<span class="pinyin">Zhè běn shū wǒ yào <em>zài</em> kàn yī biàn.</span><span class="trans">I want to read this book again.</span>
+*你 应该 <em>再</em> 复习 一 遍 。<span class="pinyin">Nǐ yīnggāi <em>zài</em> fùxí yī biàn.</span><span class="trans">You should review it again.</span>
+
+</div>
+
+In fact, this structure is present in one of the most common Chinese phrases: "再见!" In this case, it literally means "see you again."
+
+== Used as "Another" or "Some More" ==
+
+The English word "another" is often avoided altogether by using 再.
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 再 + Verb + Obj.
+</div>
+
+In this case, the object includes a quantity phrase.
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>再</em> 吃 <strong>一点</strong> 。<span class="pinyin"><em>Zài</em> chī <strong>yīdiǎn</strong>.</span><span class="trans">Eat some more.</span>
+*<em>再</em> 点 <strong>几个 菜</strong> 吧 。<span class="pinyin"><em>Zài</em> diǎn <strong>jǐ gè cài</strong> ba.</span><span class="trans">Let's order some more dishes.</span>
+*服务员 ，<em>再</em> 来 <strong>两 瓶 啤酒</strong> 。<span class="pinyin">Fúwùyuán, <em>zài</em> lái <strong>liǎng píng píjiǔ</strong>.</span><span class="trans">Waiter, two more bottles of beer, please.</span>
+*<em>再</em> 给 我 <strong>三天 时间</strong> 。<span class="pinyin"><em>Zài</em> gěi wǒ <strong>sān tiān shíjiān</strong>.</span><span class="trans">Give me another three days.</span>
+*我 能 不 能 <em>再</em> 拿 <strong>两 个</strong> ？<span class="pinyin">Wǒ néng bu néng <em>zài</em> ná <strong>liǎng gè</strong>?</span><span class="trans">Can I take two more?</span>
+
+</div>
+
+== Used for Continuous Action ==
+
+Here 再 is similar to the English "for a while longer" or "keep [going/doing]."
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 再 + Verb + Verb
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*<em>再</em> 找找 。<span class="pinyin"><em>Zài</em> zhǎozhao.</span><span class="trans">Keep looking.</span>
+*你 <em>再</em> 问问 。 <span class="pinyin">Nǐ <em>zài</em> wènwen.</span><span class="trans">Keep asking.</span>
+*别 急 ，<em>再</em> 想想 。<span class="pinyin">Bié jí, <em>zài</em> xiǎngxiang.</span><span class="trans">Don't worry. Keep thinking.</span>
+</div>
+
+You can also add 一会儿 after the verb to mean "keep doing something a little longer." 
+
+<div class="liju">
+*<em>再</em> 聊 一会儿 。<span class="pinyin"><em>Zài</em> liáo yīhuǐr.</span><span class="trans">Keep talking for a little bit.</span>
+*<em>再</em> 等 一会儿 。<span class="pinyin"><em>Zài</em> děng yīhuǐr.</span><span class="trans">Wait a little longer.</span>
+</div>
+
+You can use either the "Verb + Verb" pattern or the 一会儿 pattern with 再, but don't use them together.
+
+== See also ==
+
+* [["Never again" with "zai ye bu"]]
+* [[Sequencing with "xian" and "zai"]]
+* [[Expressing "again" in the past with "you"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|60}}
+{{Source|Integrated Chinese: Level 2, Part 1|157}}
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|202}}
+
+=== Websites ===
+
+* Yale Chinese Usage Dictionary: [http://comet.cls.yale.edu/chineseusagedictionary/0212.html Using 再 and 又]
+
+[[Category:B1 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|再|B1|再 + Verb|我 下 次 <em>再</em> 来。|grammar point|ASGIZQJ2}}
+{{Similar|"Never again" with "zai ye bu"}}
+{{Similar|Sequencing with "xian" and "zai"}}
+{{Similar|Comparing "zai" and "you"}}
+{{Similar|Expressing "again" in the past with "you"}}
+{{Used for|Expressing time and date}}
+{{POS|Adverbs}}
+{{Translation|again}}
+{{Translation|another}}

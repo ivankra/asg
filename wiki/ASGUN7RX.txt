@@ -1,0 +1,86 @@
+<!-- Connecting nouns with "shi" -->
+{{Grammar Box}} 
+
+The verb ''to be'' is not used in Chinese the same way as it is in English. In Chinese, 是 (shì) is for connecting [[nouns]], and is generally not used with [[adjectives]]. 
+
+==Basic Usage==
+
+=== Structure ===
+
+The structure for connecting nouns with 是 (shì) is:
+
+<div class="jiegou">
+
+Noun 1 + 是 + Noun 2
+
+</div>
+
+This is equivalent to "Noun 1 '''is''' Noun 2" in English.
+
+Chinese does not [http://en.wikipedia.org/wiki/Grammatical_conjugation conjugate] verbs. That is, the form of the verb is the same no matter who is doing it. In this case, it is always 是 (shì) and never changes. As you can see, it's easy to form simple sentences expressing ''to be'' in Chinese. The only tricky thing about 是 (shì) in Chinese is that it's used to link ''two nouns'', so you can't rely too much on translating directly from English when it comes to expressing the English verb "to be" in Chinese. 
+
+=== Examples ===
+
+<div class="liju">
+
+*我 <em>是</em> 学生。<span class="pinyin">Wǒ <em>shì</em> xuésheng.</span><span class="trans">I am a student.</span>
+*你 <em>是</em> John 吗？<span class="pinyin">Nǐ <em>shì</em> John ma?</span><span class="trans">Are you John?</span>
+*他们 <em>是</em> 有钱 人。<span class="pinyin">Tāmen <em>shì</em> yǒuqián rén.</span><span class="trans">They are rich people.</span>
+*你<em>是</em> 老板 吗？<span class="pinyin">Nǐ <em>shì</em> lǎobǎn ma?</span><span class="trans">Are you the boss?</span>
+*这 <em>是</em> 我 男朋友。<span class="pinyin">Zhè <em>shì</em> wǒ nánpéngyou.</span><span class="trans">This is my boyfriend.</span>
+*那 <em>是</em> 你们 公司 吗？<span class="pinyin">Nà <em>shì</em> nǐmen gōngsī ma?</span><span class="trans">Is that your company?</span>
+*你 妈妈 <em>是</em> 老师 吗？<span class="pinyin">Nǐ māma <em>shì</em> lǎoshī ma?</span><span class="trans">Is your mother a teacher?</span>
+*这 都 <em>是</em> 你 的 钱。<span class="pinyin">Zhè dōu <em>shì</em> nǐ de qián.</span><span class="trans">This is all your money.</span>
+*那 <em>是</em> 什么 菜？<span class="pinyin">Nà <em>shì</em> shénme cài?</span><span class="trans">What food is that?</span>
+*我 也 <em>是</em> 他 的 朋友。<span class="pinyin">Wǒ yě <em>shì</em> tā de péngyou.</span><span class="trans">I am also his friend.</span>
+
+
+</div>
+
+== Other Uses of 是 (shì) ==
+
+Be careful and take note. As you can see above, 是 (shì) is only used to link two nouns. It cannot be used to link a noun and an adjective. This is a very common mistake for people just beginning to learn Chinese. For that kind of sentence, you'll want to use a different structure with [[Simple "noun + adjective" sentences|the linking word 很 (hěn)]].
+
+In Chinese it is also possible to use the phrase "是不是 (shì bu shì)?" It can be used at the beginning or end of a sentence. It's meaning is quite similar to the English expressions "right" and "aren't you?" This is very useful if you want to express concern for a person, or if you want to mix up your sentence structure a bit and make it more interesting. The 是不是 (shì bu shì) pattern is also part of [[affirmative-negative question]]s.
+
+Another way to use 是 (shì) is to [[Tag questions with "ma"|use it as a tag question]]. You can add “是吗?” (shì ma?) to the end of a question to mean the English equivalent of: "is it" or "yeah?" Using this in a question usually allows the speaker to get a confirmation answer. 
+
+=== Examples ===
+
+<div class="liju">
+
+*他 没 听到，<em>是 不 是</em> ？<span class="pinyin">Tā méi tīngdào, <em>shì bu shì</em>?</span><span class="trans">He didn't hear you, right?</span>
+*你 <em>是 不 是</em> 还 没 吃饭？<span class="pinyin">Nǐ <em>shì bu shì</em> hái méi chīfàn?</span><span class="trans"> Haven't you eaten yet?</span>
+*你们 <em>是 不 是</em> 中 国 人？<span class="pinyin">Nǐmen <em>shì bu shì</em> Zhōngguó rén?</span><span class="trans"> Are you Chinese?</span>
+*你 到 了，<em>是 吗</em> ？<span class="pinyin">Nǐ dào le, <em>shì ma</em>?</span><span class="trans"> You have arrived, yeah?</span>
+*你 有 两 个 孩子，<em>是 吗</em> ？<span class="pinyin">Nǐ yǒu liǎng gè háizi, <em>shì ma</em>?</span><span class="trans"> You have two kids, yeah?</span>
+
+</div>
+
+== See Also ==
+
+* [[Word order]]
+* [[Simple "noun + adjective" sentences]]
+
+== Sources and further reading ==
+{{Source|HSK Standard Course 1|16}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|29}}
+{{Source|Chinese: An Essential Grammar, Second Edition|47-8}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|44}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)|50-1}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|62}} 
+
+[[Category:A1 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{Basic Grammar|是|A1|A + 是 + B|我 <em>是</em> 学生 。|grammar point|ASGUN7RX}}
+{{Similar|Word order}} 
+{{Similar|Simple "noun + adjective" sentences}}
+{{Similar|Basic sentence order}}
+{{Similar|Standard negation with bu}}    
+{{Structure|Basics}}
+{{Used for|Introducing people}}
+{{Used for|Describing people}}
+{{Used for|Expressing existence}}
+{{Used for|Referring to the present }}
+{{Translation|is}}
+{{Translation|be}}

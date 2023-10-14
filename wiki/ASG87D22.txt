@@ -1,0 +1,40 @@
+<!-- Expressing "especially" with "gewai" -->
+{{Grammar Box}}
+格外 (géwài) is an [[adverb]] that has the same meaning as "especially" or "particularly" in English. You might be wondering what the difference between 格外 (géwài) and 特别 (tèbié) is. Keep in mind that 特别 (tèbié) can be either as an [[adjective]] that emphasizes something is "special" or as an adverb that expresses "especially." However, 格外 (géwài) can ''only'' be an adverb that emphasizes "especially" and cannot be used as an adjective like 特别 (tèbié) can.
+
+== Structure ==
+
+<div class="jiegou">
+格外 (地 +) + Advective / Psychological Verb 
+</div>
+
+You will occasionally see 地 (de) after 格外 and before an adjective.
+
+== Examples ==
+
+<div class="liju">
+
+* 下 过 雨 的 早晨 <em>格外</em> 舒服. <span class="pinyin">Xià guo yǔ de zǎochén <em>géwài</em> shūfu.</span><span class="trans">It's especially comfortable on mornings after a rain.</span>
+* 今天 <em>格外</em> 忙, 都 来不及 吃 午饭. <span class="pinyin">Jīntiān <em>géwài</em> máng,dōu láibují chī wǔfàn.</span><span class="trans">I was especially busy today and didn't even have time to eat lunch.</span>
+* 昨天 登山 累了, 晚上 睡得 <em>格外</em> 香甜 。<span class="pinyin">Zuótiān dēngshān lèi le, wǎnshang shuì de <em>géwài</em> xiāngtián</span><span class="trans">I was tired from climbing yesterday, so my sleep at night was especially sweet. </span>
+* 去年 孩子 还 很 调皮，但是 今年 <em>格外</em> 懂事 。<span class="pinyin">Qùnián háizǐ huán hěn tiáopí, dànshì jīnnián <em>géwài</em> dǒngshì.</span><span class="trans">Last year the kid was very naughty, but this year he's been especially sensible.</span> 
+* 我 住 的 比较 远，所以 到 了 晚上 <em>格外</em> 安静 。<span class="pinyin">Wǒ zhù de bǐjiào yuǎn, suǒyǐ dào le wǎnshang <em>géwài</em> ānjìng.</span><span class="trans">I live far away, so it's very quiet at night.</span>
+* 今年 的 水果 <em>格外</em> 的 甜 。<span class="pinyin">Jīnnián de shuǐguǒ <em>géwài</em> de tián.</span><span class="trans">This year's fruit is exceptionally sweet.</span>
+* 虽然 以前 也 想 家，但是 这 段 时间 <em>格外</em> 想 家 。<span class="pinyin">Suīrán yǐqián yě xiǎng jiā, dànshì zhè duàn shíjiān <em>géwài</em> xiǎng jiā.</span><span class="trans">I was homesick before too, but I'm especially homesick this time of year.</span>
+* 老师 对 我们 <em>格外</em> 热情 。<span class="pinyin">Lǎoshī duì wǒmen <em>géwài</em> rèqíng.</span><span class="trans">The teacher is especially warm to us.</span>
+* 今天 的 天气 <em>格外</em> 的 热 。<span class="pinyin">Jīntiān de tiānqì <em>géwài</em> de rè.</span><span class="trans">Today's weather is exceptionally hot.</span>
+* 去 不 安全 的 地方 旅游 ，一定 要 <em>格外</em> 小心 。<span class="pinyin">Qù bù ānquán de dìfang lǚyóu, yīdìng yào <em>géwài</em> xiǎoxīn.</span><span class="trans">You need to be especially careful when traveling to unsafe places.</span>  
+</div>
+
+==Sources and further reading==
+
+=== Books ===
+
+{{Source|Anything Goes (无所不谈)|85}}
+[[Category:B2 grammar points]]
+{{Basic Grammar|格外|B2|格外 + verb|他今天<em>格外</em> 忙.|grammar point|ASG87D22}}
+{{Rel char|格}}
+{{Rel char|外}}
+{{Used for|emphasizing}}
+{{Translation|especially}}
+{{Structure|Adverbs with Adjectives}}

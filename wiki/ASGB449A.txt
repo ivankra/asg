@@ -1,0 +1,38 @@
+<!-- Expressing "equal to" with "dengyu" -->
+{{Grammar Box}}
+The word 等于 (děngyú) as in "A 等于 B" is a mathematical term which, in everyday language, also expresses that A "is equal to" or "amounts to" B. However, scenario B is most likely not a scenario or situation that a person intentionally wanted or created for scenario A. 
+
+== Structure ==
+
+<div class="jiegou">
+A 等于 B 
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*今天 吃 了 炸鸡 ，<em>等于</em>白 跑步 了。 <span class="pinyin">Jīntiān chī le zhájī, <em>děngyú</em> bái pǎobù le.</span><span class="trans">I ate fried chicken today, which amounts to me going jogging for nothing.</span> 
+*你 告诉 小王 就 <em>等于</em> 把 秘密 告诉 了 大家。 <span class="pinyin">Nǐ gàosù Xiǎo Wáng jiù <em>děngyú</em> bǎ mìmì gàosù le dàjiā.</span><span class="trans">Telling Xiao Wang your secret is equivalent to telling everyone your secret. </span>
+*浪费 时间 <em>等于</em> 浪费 生命。<span class="pinyin">Làngfèi shíjiān <em>děngyú</em> làngfèi shēngmìng.</span><span class="trans">Wasting your time is wasting your life.</span>
+*吃 一半 西瓜 <em>等于</em> 吃 三 碗 米饭。<span class="pinyin">Chī yībàn xīguā <em>děngyú</em> chī sān wǎn mǐfàn.</span><span class="trans">Eating half of a watermelon is equivalent to eating three bowls of rice.</span>
+*你 去 了 ，就 <em>等于</em> 我 去 了。<span class="pinyin">Nǐ qù le, jiù <em>děngyú</em> wǒ qù le.</span><span class="trans">If you go, it's the same as if I went.</span>
+*金钱 不 <em>等于</em> 幸福 ，你 自己 要 好好 想想。<span class="pinyin">Jīnqián bù <em>děngyú</em> xìngfú, nǐ zìjǐ yào hǎohāo xiǎngxiang.</span><span class="trans">Money is not equal to happiness, you should think about it carefully.</span>
+*一个 国家 不 发展 经济 ， <em>等于</em> 给 对手 机会 。<span class="pinyin">Yīgè guójiā bù fāzhǎn jīngjì, <em>děngyú</em> gěi duìshǒu jīhuì.</span><span class="trans">If a country does not develop its economy, it is giving its rivals an opportunity.</span>
+*这样 做 <em>等于</em> 把 钱 送 给 他。<span class="pinyin">Zhèyàng zuò <em>děngyú</em> bǎ qián sòng gěi tā.</span><span class="trans">To do this amounts to giving him the money.</span>
+*变老 不 <em>等于</em> 成熟 了，成熟 是 自己 对 自己 做 过 的 事情 负责。<span class="pinyin">Biàn lǎo bù <em>děngyú</em> chéngshú le, chéngshú shì zìjǐ duì zìjǐ zuò guò de shìqing fùzé.</span><span class="trans">Growing old is not equivalent to maturing. Maturity is being responsible for what you have done.</span>
+*你 给 了 别人 一个 机会，也 <em>等于</em> 给 了 自己 一个 机会。<span class="pinyin">Nǐ gěi le biérén yī gè jīhuì, yě <em>děngyú</em> gěi le zìjǐ yī gè jīhuì.</span><span class="trans">If you give others a chance, it's equivalent to giving yourself a chance too.</span>
+</div>
+
+==Sources and further reading==
+
+=== Books ===
+
+{{Source|Anything Goes (无所不谈)|149}}
+[[Category:B2 grammar points]]
+{{Basic Grammar|等于|B2|A, 等于 B|今天吃了炸鸡<em>等于</em>白跑步了。|grammar point|ASGB449A}}
+{{Rel char|等}}   
+{{Used for|Expressing attitude}}
+{{Translation|equal to}}
+{{Translation|equivalent to}}
+{{Structure|Sentence Patterns}}

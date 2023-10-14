@@ -1,0 +1,100 @@
+<!-- Expressing_comparable_degree_with_"you" -->
+{{Grammar Box}} 
+
+[[有]] (yǒu), besides just meaning "to [[have]]," can also be used in comparisons. It's what you use instead of [[比]] (bǐ) if something is "as [Adj.] as" something else.
+
+== Basic Pattern ==
+
+The structure literally means, "A has B's [Adj.]." The meaning is "A is as [Adj.] as B." This pattern is often used in questions. Think of the jealous girl asking, "is she as pretty as me?" or the insecure weightlifter bro asking, "is he as jacked as me?" Note that for this kind of question, B is usually the one that the speaker prefers.
+
+=== Structure ===
+
+<div class="jiegou">
+A + 有 + B + Adj. + 吗 ？
+</div>
+
+This comparison pattern is generally only used in questions, not statements.
+
+=== Examples ===
+
+<div class="liju">
+
+*他 <em>有</em> 我 帅 吗 ？<span class="pinyin">Tā <em>yǒu</em> wǒ shuài ma?</span><span class="trans">Is he as handsome as me?</span>
+*你 <em>有</em> 老板 忙 吗 ？<span class="pinyin">Nǐ <em>yǒu</em> lǎobǎn máng ma?</span><span class="trans">Are you as busy as the boss?</span>
+*他 <em>有</em> 姚明 高 吗 ？<span class="pinyin">Tā <em>yǒu</em> Yáo Míng gāo ma?</span><span class="trans">Is he as tall as YaoMing?</span>
+*纽约 人口 <em>有</em> 上海 人口 多 吗 ？<span class="pinyin">Niǔyuē rénkǒu <em>yǒu</em> Shànghǎi rénkǒu duō ma?</span><span class="trans">Is the population of New York city as big as that of Shanghai?</span>
+
+</div>
+
+== Pattern Including a Verb ==
+
+If a verb is included in this pattern to talk about an action, it's probably going to involve a [[degree complement]] using this structure below:  
+
+=== Structure ===
+
+<div class="jiegou">
+A + 有 + B + Verb + 得 + Adj. + 吗 ？
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*他 <em>有</em> 我 做 <strong>得</strong> 好 吗 ？<span class="pinyin">Tā <em>yǒu</em> wǒ zuò <strong>de</strong> hǎo ma?</span><span class="trans">Can he do it as well as I do?</span>
+*你 <em>有</em> Bolt 跑 <strong>得</strong> 快 吗 ？<span class="pinyin">Nǐ <em>yǒu</em> Bolt pǎo <strong>de</strong> kuài ma?</span><span class="trans">Can you run as fast as Bolt does?</span>
+
+</div>
+
+== Advanced Pattern Using 这么 / 那么 ==
+
+This form is often used with 这么 or 那么, which in this case means "as much." And it indicates that B is already very [Adj.]. When B is absent, 那么 means "so" or "that".
+
+=== Structure ===
+
+<div class="jiegou">
+A + 有 (+ B) + 这么 / 那么 + Adj. + 吗 ？
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*她 <em>有</em> <strong>那么</strong> 漂亮 吗 ？<span class="pinyin">Tā <em>yǒu</em>  <strong>nàme</strong> piàoliang ma?</span><span class="trans">Is she really that pretty? </span>
+*这个 药 <em>有</em> <strong>这么</strong> 神奇 吗 ？<span class="pinyin">Zhège yào <em>yǒu</em> <strong>zhème</strong> shénqí ma?</span><span class="trans">Is this medicine really that magical? </span>
+*他 <em>有</em> 姚明 <strong>那么</strong> 高 吗 ？<span class="pinyin">Tā <em>yǒu</em> Yáo Míng <strong>nàme</strong> gāo ma?</span><span class="trans">Is he really as tall as YaoMing?</span>
+*你 <em>有</em> Bill Gates <strong>那么</strong> 有钱 吗 ？<span class="pinyin">Nǐ <em>yǒu</em> Bill  Gates <strong>nàme</strong> yǒuqián ma?</span><span class="trans">Are you as rich as Bill Gates?</span>
+
+</div>
+
+== See also ==
+
+* [[Basic comparisons with "meiyou"]]
+* [[Basic comparisons with "bi"]]
+* [[Basic comparisons with "bu bi"]]
+* [[Comparisons with "buru"]]
+* [[Basic comparisons with "yiyang"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|33-4}} 
+{{Source|现代汉语八百词|631}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|有|B1|Noun 1 有 Noun 2 + Adj. + 吗？|他 <em>有</em> 我 帅 吗 ？|grammar point|ASG5DG95}}
+{{Rel char|没有}}
+{{Similar|Basic comparisons with "bi"}}
+{{Similar|Basic comparisons with "yiyang"}}
+{{Similar|Basic comparisons with "meiyou"}}
+{{Similar|Basic comparisons with "bu bi"}}
+{{Similar|Expressing "even more" with "geng" or "hai"}}
+{{Similar|Expressing "compared with" with "gen"}}
+{{Similar|Comparisons with "buru"}}
+{{Similar|Comparing specifically with "xiang"}}
+{{Used for|Describing things}}
+{{Used for|Describing people}}
+{{Used for|Comparing}}
+{{Structure|Sentence Patterns}}
+{{Subprop|Comparison Patterns}}

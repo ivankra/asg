@@ -1,0 +1,141 @@
+<!-- Structure of times (advanced) -->
+{{Grammar Box}} 
+
+If you already know [[Structure of times (basic)|the basics of how to tell time in Chinese]], you may want to get a little more specific or sophisticated, using words like 分 (fēn) and 刻 (kè).
+
+== Minutes Past the Hour ==
+
+Minutes are marked with 分 (fēn) (short for 分钟 (fēnzhōng)). The way to include them in the time depends on whether they're minutes ''past'' or ''to'' the hour.
+
+Minutes ''past'' the hour are expressed after 点 (diǎn) in the same way as half and quarter hours. 
+
+== Minutes Less Than 10 ==
+
+=== Structure ===
+
+In Chinese, when the minute is under 10, the word 零 (líng) is often used after 点 (diǎn). For example, 2:07 would be said as “两点零七分” (liǎng diǎn líng qī fēn). However, note that when speaking, it is very common for most Chinese people take out the “分 (fēn)” at the end of the time. 
+
+<div class="jiegou">
+
+x 点 零 y 分
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 两 <em>点</em> <em>零</em> 九<em>分</em> <span class="pinyin">liǎng <em>diǎn</em> <em>líng</em> jiǔ <em>fēn</em></span><span class="trans">2:09</span>
+* 三 <em>点</em> <em>零</em> 八 <em>分</em> <span class="pinyin">sān <em>diǎn</em> <em>líng</em> bā <em>fēn</em></span><span class="trans">3:08</span>
+* 五 <em>点</em> <em>零</em> 三 <em>分</em> <span class="pinyin">wǔ <em>diǎn</em> <em>líng</em> sān <em>fēn</em></span><span class="trans">5:03</span>
+* 七 <em>点</em> <em>零</em> 一 <em>分</em><span class="pinyin">qī <em>diǎn</em> <em>líng</em> yī <em>fēn</em></span><span class="trans">7:01</span>
+* 八 <em>点</em> <em>零</em> 五 <em>分</em> <span class="pinyin">bā <em>diǎn</em> <em>líng</em> wǔ <em>fēn</em></span><span class="trans">8:05</span>
+</div>
+
+== Minutes Greater Than 10==
+
+There's nothing tricky about this, since there's no 零 (líng). Just remember that in casual speech, the 分 (fēn) at the end is sometimes dropped.
+
+=== Structure ===
+
+<div class="jiegou">
+
+x 点 y 分
+
+</div>
+
+===Examples ===
+
+<div class="liju">
+
+* 一 <em>点</em> 四 十 <em>分</em><span class="pinyin">yī <em>diǎn</em> sìshí <em>fēn</em></span><span class="trans">1:40</span>
+* 两 <em>点</em> 十 <em>分</em> <span class="pinyin">liǎng <em>diǎn</em> shí <em>fēn</em></span><span class="trans">2:10</span>
+* 三 <em>点</em> 二 十 <em>分</em> <span class="pinyin">sān <em>diǎn</em> èrshí <em>fēn</em></span><span class="trans">3:20</span>
+* 七 <em>点</em> 十 五 <em>分</em> <span class="pinyin">qī <em>diǎn</em> shíwǔ <em>fēn</em></span><span class="trans">7:15</span>
+* 九 <em>点</em> 五 十<em>分</em> <span class="pinyin">jiǔ <em>diǎn</em> wǔshí <em>fēn</em></span><span class="trans">9:50</span>
+
+</div>
+
+== Quarter Hours ==
+
+In Chinese, quarter hours are only expressed on the 1st quarter x:15, and the third quarter x:45. Like half hours, they also come after the word 点 (diăn). We use the word 刻 (kè) to express "quarter hour." 
+
+=== Structure ===
+
+<div class="jiegou">
+
+x 点 y 刻
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 九 <em>点</em> 一 <em>刻</em><span class="pinyin">jiǔ <em>diǎn</em> yī <em>kè</em></span><span class="trans">9:15</span>
+* 十 二 <em>点</em> 一 <em>刻</em><span class="pinyin">shí'èr <em>diǎn</em> yī <em>kè</em></span><span class="trans">12:15</span>
+* 六 <em>点</em> 三 <em>刻</em><span class="pinyin">liù <em>diǎn</em> sān <em>kè</em></span><span class="trans">6:45</span>
+
+</div>
+
+You can totally just use 十五分 (shíwǔ fēn) for "15 minutes (past)" or 四十五分 (sìshí-wǔ fēn) for "45 minutes (past)" if you're lazy, though. It also works!
+
+== Minutes to the Hour ==
+
+When expressing how many minutes it will be till the next full hour, you put 差 (chà) in front of the time expression. 
+
+=== Structure ===
+
+Minutes ''to'' the hour use this structure:
+
+<div class="jiegou">
+差 + Minutes + 分 + Hour + 点
+</div>
+or 
+<div class="jiegou">
+Hour + 点 + 差 + Minutes + 分 
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* <em>差</em> 五 分 三 <em>点</em><span class="pinyin"><Em>chà</em> wǔ fēn sān <em>diǎn</em></span><span class="trans">five minutes til 3 o'clock</span>
+* 十二 <em>点</em> <em>差</em> 三 分 <span class="pinyin">shí'èr <em>diǎn</em> <Em>chà</em> sān fēn </span><span class="trans">three minutes til 12 o'clock</span>
+* <em>差</em> 五 分 八 <em>点</em> 半<span class="pinyin"><Em>chà</em> wǔ fēn bā <em>diǎn</em> bàn</span><span class="trans">five minutes til 8:30</span>
+* 十 <em>点</em> <em>差</em> 两 分 <span class="pinyin">shí <em>diǎn</em> <Em>chà</em> liǎng fēn  </span><span class="trans">two minutes til 10:00</span>
+
+</div>
+
+== HSK Notes ==
+
+Only the basic 分 (fēn) usage is tested on HSK1. The others are not tested until HSK3.
+
+==See also==
+*[[Structure of times (basic)]]
+*[[Structure of numbers]]
+*[[Structure of dates]]
+*[[Structure of days of the week]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|84}}
+{{Source|HSK Standard Course 3|59}}
+* [[Integrated Chinese: Level 1, Part 1 (3rd ed)]] (pp. 74-5)　[http://www.amazon.com/gp/product/0887276385/ref=as_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0887276385 →buy]
+* [[New Practical Chinese Reader 1 (新实用汉语课本1)]] (pp. 160) [http://www.amazon.com/gp/product/7561910401/ref=as_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=7561910401 →buy]
+* [[New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)]] (pp. 185) [http://www.amazon.com/gp/product/7561926235/ref%3das_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=7561926235 →buy]
+
+[[Category:A2 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{HSK|HSK3}}
+{{Used for|Expressing time and date}}
+{{Basic Grammar|点|A2|Number 1 + 点(钟) + Number 2 + 分|现在 <em>十一点十八分</em> 。|grammar point|ASGDTO07}}
+{{Rel char|点钟}}
+{{Similar|Structure of times (basic)}}  
+{{Similar|Structure of numbers}}  
+{{Similar|Structure of dates}}  
+{{Similar|Before a specific time}}
+{{Similar|Structure of days of the week}}
+{{POS|Numbers}}

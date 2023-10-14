@@ -1,0 +1,39 @@
+<!-- Expressing "I bet" using "liang" -->
+{{Grammar Box}} 
+{{stub}}
+
+In spoken Chinese, the equivalent of "I bet," as in "I bet he won't come," is 谅. 
+
+==Structure==
+
+Using 谅 this way is a little tricky, or sometimes, angry. The closest English equivalent is "I bet." 谅 also means "I think," "I expect," or "I believe." Usually the speaker uses 谅 this way in the first person 我. More often than not, 谅 is used with a 不 or 没 and 也.  
+
+<div class="jiegou">
+
+谅 + Subject + verb phrase
+
+</div> 
+
+==Examples==
+
+<div class="liju">
+
+* <em>谅</em> 他 也 不敢！
+* 我 <em>谅</em> 你 也 不 敢 跟 那个 女的 讲话！
+* 我 <em>谅</em> 他 也 没 胆量 做 出 这样 的 事情 来。
+* 他 是 <em>谅</em> 你 不 敢 去 投诉 才 这么 说 的，你 可 不 能 就 这么 算了！
+
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+=== Websites ===
+
+[http://www.iciba.com/%E8%B0%85| Dictionary entry for 谅 - ICIBA]
+
+[[Category:C1 grammar points]]
+{{Basic Grammar|谅|C1| 谅 + Subject + Verb phrase|<em>谅</em> 他 也 不敢！|grammar point|ASGOR3M4}}
+{{Used for|Expressing certainty}}
+{{POS|Verbs}}

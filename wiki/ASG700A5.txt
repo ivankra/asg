@@ -1,0 +1,48 @@
+<!-- Expressing "finally" with "zhongyu" -->
+{{Grammar Box}} 
+
+终于 (zhōngyú) expresses that something has ''finally'' happened after a long wait. Usually the speaker is looking forward to what is happening at long last, and thus, 终于 (zhōngyú) typically carries a sense of joy or relief. 
+
+== Structure ==
+
+Unlike the English word "finally," 终于 (zhōngyú) can never be used alone. It also can’t be put in front of the subject or at the end of the sentence. 终于 (zhōngyú) needs to be used with [[了]] to express that the action is completed. 
+
+<div class="jiegou">
+Subj. + 终于 + Predicate + 了
+</div>
+
+The [[predicate]] part of the pattern can be a verb or an adjective.
+
+== Examples ==
+
+<div class="liju">
+
+*你 <em>终于</em> 到 <strong>了</strong> ！<span class="pinyin">Nǐ <em>zhōngyú</em> dào <strong>le</strong>!</span><span class="trans">You've finally arrived!</span>
+*我们 <em>终于</em> 见面 <strong>了</strong> ！<span class="pinyin">Wǒmen <em>zhōngyú</em> jiànmiàn <strong>le</strong>!</span><span class="trans">We're finally meeting each other!</span>
+*你们 <em>终于</em> 明白 <strong>了</strong> 。<span class="pinyin">Nǐmen <em>zhōngyú</em> míngbai <strong>le</strong>.</span><span class="trans">You've finally understood.</span>
+*作业 <em>终于</em> 做 完 <strong>了</strong> ！<span class="pinyin">Zuòyè <em>zhōngyú</em> zuò wán <strong>le</strong>!</span><span class="trans">I've finally finished my homework!</span>
+*飞机 <em>终于</em> 起飞 <strong>了</strong> ！<span class="pinyin">Fēijī <em>zhōngyú</em> qǐfēi <strong>le</strong>!</span><span class="trans">The plane is finally taking off!</span>
+*你们 <em>终于</em> 决定 <strong>了</strong> 。<span class="pinyin">Nǐmen <em>zhōngyú</em> juédìng <strong>le</strong>.</span><span class="trans">You've finally decided.</span>
+*饭 <em>终于</em> 做 好 <strong>了</strong> 。我 快 饿 死 了 。<span class="pinyin">Fàn <em>zhōngyú</em> zuò hǎo <strong>le</strong>. Wǒ kuài è sǐ le.</span><span class="trans">Dinner is finally ready. I'm starving.</span>
+*这个 愿望 <em>终于</em> 实现 <strong>了</strong> ！<span class="pinyin">Zhège yuànwàng <em>zhōngyú</em> shíxiàn <strong>le</strong>!</span><span class="trans">This dream has finally come true!</span>
+*我们 找 了 两 个 多 小时 ，<em>终于</em> 找到 <strong>了</strong> 那 家 店 。<span class="pinyin">Wǒmen zhǎo le liǎng gè duō xiǎoshí, <em>zhōngyú</em> zhǎodào <strong>le</strong> nà jiā diàn.</span><span class="trans">We'd been looking for more than two hours, and we finally found that shop. </span>
+*这些 问题 <em>终于</em> 解决 <strong>了</strong> 。我们 应该 庆祝 一下 。<span class="pinyin">Zhèxiē wèntí <em>zhōngyú</em> jiějué <strong>le</strong>. Wǒmen yīnggāi qìngzhù yīxià.</span><span class="trans">The problems are finally solved. We should celebrate!</span>
+
+</div>
+
+== See also ==
+
+*[[Comparing "zongsuan" and “zhongyu"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|终于|B1|Subj. + 终于 + Predicate + 了|你 <em>终于</em> 到 <strong>了</strong> 。|grammar point|ASG700A5}}
+{{Rel char|了}}
+{{Similar|Comparing "zongsuan" and “zhongyu"}}
+{{Used for|Expressing attitude}}
+{{POS|Adverbs}}
+{{Translation|finally}}

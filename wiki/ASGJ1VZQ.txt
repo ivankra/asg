@@ -1,0 +1,62 @@
+<!-- Many types of "not only... but also..." -->
+{{Grammar Box}} 
+We've seen [[Expressing "not only… but also"|不但……而且 (bùdàn... érqiě)]] at the B1 level, but there are a number of other structures which can be used to express the same thing. 不但 can be substituted with 不仅 (bùjǐn) or 不只 (bùzhǐ), both meaning "not only," and can be followed by 而且 (érqiě), 还 (hái), or 也 (yě). Other than 不但……而且 being more common than the others, they are all similar in usage and formality.
+
+== Structure ==
+
+<div class="jiegou">
+Subj. + 不仅 / 不但 / 不只 + ⋯⋯，而且 / 还 / 也 + ⋯⋯
+</div>
+
+Mix and match! Knock yourself out...
+
+== Examples ==
+
+<div class="liju">
+
+* 我 <em>不只</em> 对 排球 感兴趣，<em>而且</em> 对 足球 也 很 感兴趣。<span class="pinyin">Wǒ <em>bùzhǐ</em> duì páiqiú gǎnxìngqù, <em>érqiě</em> duì zúqiú yě hěn gǎnxìngqù.</span><span class="trans">I am not only interested in volleyball, but also in soccer.</span>
+* 王师傅 <em>不但</em> 会 开车，<em>还</em> 会 修 车。<span class="pinyin">Wáng Shīfu <em>bùdàn</em> huì kāichē, <em>hái</em> huì xiū chē.</span><span class="trans">Not only does Master Wang drive a car, he also repairs cars.</span>
+* 我 <em>不仅</em> 知道 他， 我 <em>而且</em> 认识 他。<span class="pinyin">Wǒ <em>bùjǐn</em> zhīdào tā, wǒ <em>hái </em> rènshi tā.</span><span class="trans">I've not only heard of him, but I also know him.</span>
+* 他 <em>不只</em> 会 唱歌，<em>也</em> 会 跳舞。<span class="pinyin">Tā <em>bùzhǐ</em> huì chànggē, <em>yě</em> huì tiàowǔ.</span><span class="trans">He can not only sing, but dance as well.</span>
+* 我们 <em>不仅</em> 完成 了 任务， <em>而且</em> 比 规定 日期 提前 了 十天。<span class="pinyin">Wǒmen <em>bùjǐn</em> wánchéng le rènwù <em>érqiě</em> bǐ guīdìng rìqí tíqiánle shí tiān.</span><span class="trans">We not only completed the task, but we did so ten days ahead of schedule.</span>
+* 这 家 餐厅的 食物 <em>不但</em> 好吃，<em>也</em> 便宜。<span class="pinyin">Zhè jiā cāntīng de shíwù <em>bùdàn</em> hǎochī, <em>yě</em> piányi.</span><span class="trans">The food in this restaurant is not only good, but is also cheap.</span>
+* 他 <em>不仅</em> 懒，<em>还</em> 馋。<span class="pinyin">Tā <em>bùjǐn</em> lǎn, <em>hái</em> chán.</span><span class="trans">He is not only lazy, but also greedy.</span>
+* 这 篇 文章 <em>不仅</em> 结构 清楚，<em>而且</em> 思想 先进。<span class="pinyin">Zhè piān wénzhāng <em>bùjǐn</em> jiégòu qīngchǔ, <em>érqiě</em> sīxiǎng xiānjìn.</span><span class="trans">This essay is not only written clearly, but is also well-developed.</span>
+* 他 <em>不但</em> 喜欢 吃 中国 菜，<em>也</em> 会 做 几 个 中国 菜！<span class="pinyin">Tā <em>bùdàn</em> xǐhuan chī Zhōngguó cài, <em>yě</em>  <em>yě</em> huì zuò jǐ gè Zhōngguó cài!</span><span class="trans">He not only likes to eat Chinese food, but he can make some as well!</span>
+* 这 家 超市 <em>不仅</em> 种类 多， 价格 <em>也</em> 不 贵。<span class="pinyin">Zhè jiā chāoshì <em>bùjǐn</em> zhǒnglèi duō,  jiàgé <em>yě</em> bù guì.</span><span class="trans">This supermarket not only has a wide variety of products, but also low prices.</span>
+* 这 个 外国人 <em>不只</em> 会 唱 民歌，<em>还</em> 会 说 方言，真 是 了不起！<span class="pinyin">Zhège wàiguó rén <em>bùzhǐ</em> huì chàng míngē, <em>hái</em> huì shuō fāngyán, zhēn shì liǎobuqǐ!</span><span class="trans">Not only can this foreigner sing folk songs, but he can also speak the dialect. That's really amazing!</span>
+* 他 <em>不但</em> 聪明 <em>还</em> 很 善良。难怪 他 这么 受 大家 的 喜爱！<span class="pinyin">Tā <em>bùdàn</em> cōngming <em>hái</em> hěn shànliáng. Nánguài tā zhème shòu dàjiā de xǐ'ài!</span><span class="trans">He's not only smart, but also kind. No wonder everyone loves him.</span>
+
+</div>
+
+==See also==
+
+*[[Expressing "not only… but also"]]
+*[["Both… and…" with "ji"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|5}}
+{{Source|现代汉语八百词（增订本）|94}}
+
+[[Category: B2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|不但|B2|不但 / 不只 / 不仅⋯⋯，而且 / 还 / 也 ⋯⋯|他 <em>不仅</em> 喜欢 吃 中国 菜，<em>而且</em>  <em>也</em> 会 做 几 个 中国 菜！|grammar point|ASGJ1VZQ}}
+{{Rel char|不只}}
+{{Rel char|不仅}}
+{{Rel char|而且}}
+{{Rel char|还}}
+{{Rel char|也}}
+{{Used for|Differentiating}}
+{{Used for|Giving alternatives}}
+{{Used for|Adding more explanation}}
+{{Similar|Expressing "not only... but also" with "budan... erqie..."}}
+{{Similar|"Using "budan... geng" to express "not only... but also"}}
+{{Similar|Expressing "not only..., even..." using "budan..., shenzhi lian"}}
+{{Similar|Advanced uses of "hai"}}
+{{Translation|not}}
+{{Translation|also}}
+{{Structure|Sentence Patterns}}
+{{Subprop|Not only… but also…}}

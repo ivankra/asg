@@ -1,0 +1,94 @@
+<!-- Continuation with "hai" -->
+{{Grammar Box}} 
+
+Although [[还]] (hái) has many meanings, the basic meaning of "still" to indicate a continuing action is essential to mastery of the word.
+
+== Affirmative Form ==
+
+=== Usage of 还在 ===
+
+Often the [[auxiliary verb]] [[在]] (zài) will appear with 还 (hái), as it is natural to talk about ''continuous'' actions that are ''still'' happening.
+
+==== Structure ====
+
+<div class="jiegou">
+Subj. + 还在 + [Verb Phrase]
+</div>
+
+==== Examples ====
+
+<div class="liju">
+
+* 这 件 事情 我 <em>还 在</em> 考虑 。<span class="pinyin">Zhè jiàn shìqing wǒ <em>hái zài</em> kǎolǜ.</span><span class="trans">I am still thinking over this matter.</span>
+* 已经 中午 了 ，他 <em>还 在</em> 睡 ？<span class="pinyin">Yǐjīng zhōngwǔ le, tā <em>hái zài</em> shuì? </span><span class="trans">It's already noon and he's still sleeping?</span>
+* 她 <em>还 在</em> 生气 吗 ？<span class="pinyin">Tā <em>hái zài</em> shēngqì ma? </span><span class="trans">Is she still mad?</span>
+* 你 怎么 <em>还 在</em> 用 那个 旧 手机 ？<span class="pinyin">Nǐ zěnme <em>hái zài</em> yòng nàge jiù shǒujī?</span><span class="trans">How come you're still using that old cell phone?</span>
+* 你 <em>还 在</em> 玩 游戏 ？明天 不是 有 考试 吗 ？<span class="pinyin">Nǐ <em>hái zài</em> wán yóuxì? Míngtiān bù shì yǒu kǎoshì ma?</span><span class="trans">You're still playing video games? Don't you have an exam tomorrow?</span>
+
+</div>
+
+=== Usage of 还是 ===
+
+Here 还是 (háishì)--not literally "still is"--indicates what happened or will happen, ''despite'' the situation. The [[是]] (shì) here doesn't have a clear meaning here independent of 还 (hái).
+ 
+==== Structure ====
+
+<div class="jiegou">
+⋯⋯ ，(但是 / 可是 +) Subj. + 还是 + [Verb Phrase]
+</div>
+
+==== Examples ====
+
+<div class="liju">
+
+* 我 让 他 不要 买 ，他 <em>还是</em> 买 了 。<span class="pinyin">Wǒ ràng tā bùyào mǎi, tā <em>háishì</em> mǎi le.</span><span class="trans">I told him not to buy it, but he still bought it.</span>
+* 他 不 想 离婚 ，但是 最后 <em>还是</em> 离婚 了 。 <span class="pinyin">Tā bù xiǎng líhūn, dànshì zuìhòu <em>háishì</em> líhūn le.</span><span class="trans">He didn't want to get divorced, but in the end he still ended up getting divorced.</span>
+* 父母 不 同意 他 去 ，可是 他 <em>还是</em> 去 了。<span class="pinyin">Fùmǔ bù tóngyì tā qù, kěshì tā <em>háishì</em> qù le.</span><span class="trans">His parents didn't agree to it, but he still went.</span>
+* 医生 不 让 她 喝酒 ，她 <em>还是</em> 喝 。<span class="pinyin">Yīshēng bù ràng tā hējiǔ, tā <em>háishì</em> hē.</span><span class="trans">The doctor told her to stop drinking, but she still drinks.</span>
+* 老师 生病 了，但是 她 <em>还是</em> 来 上课 了。<span class="pinyin">Lǎoshī shēngbìng le, dànshì tā <em>háishì</em> lái shàngkè le.</span><span class="trans">The teacher is sick, but she still come to class.</span>
+
+</div>
+
+== Negative Form ==
+
+=== Structure ===
+
+When you put [[不]] or [[没]] after 还 (hái) in a question sentence, it can be used to emphasize the idea of what ''should'' be happening in a more idiomatic way. 
+
+<div class="jiegou">
+Subj. + 还 + 不 / 没 + [Verb Phrase]
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 我们 等 了 半 个 小时 了 ，老师 <em>还 没</em> 到 。<span class="pinyin">Wǒmen děng le bàn gè xiǎoshí le. Lǎoshī <em>hái méi</em> dào.</span><span class="trans">We've been waiting for half an hour, but the teacher still hasn't arrived.</span>
+* 电影 已经 开始 了 ，你 <em>还 没</em> 出门 ？<span class="pinyin">Diànyǐng yǐjīng kāishǐ le, nǐ <em>hái méi</em> chūmén?</span><span class="trans">The movie has started already, and you still haven't left the house?</span>
+* 你 已经 四十 多 了 ，<em>还 不</em> 想 结婚 ？<span class="expl">implying the listener should get married now</span><span class="pinyin">Nǐ yǐjīng sìshí duō le, <em>hái bù</em> xiǎng jiéhūn?</span><span class="trans">You're in your forties, and you still don't want to get married?</span>
+* 我 解释 了 这么 多 遍 ，你 <em>还 不</em> 懂 ？<span class="pinyin">Wǒ jiěshì le zhème duō biàn, nǐ <em>hái bù</em> dǒng?</span><span class="trans">I've explained it so many times, and you still don't get it?</span>
+* 我 对 你 这么 好 ，你 <em>还 不</em> 高兴 ？<span class="expl">implying the listener shouldn't be so upset</span><span class="pinyin">Wǒ duì nǐ zhème hǎo, nǐ <em>hái bù</em> gāoxìng?</span><span class="trans">I treat you so well, but you're still not happy?</span>
+
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|52}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|122}}
+{{Source|Integrated Chinese: Level 2, Part 1|157}}
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|103}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|还|B1|Subj. + 还 + Verb Phrase / Adj.|你 <em>还在</em> 看 书 ？|grammar point|ASGIRILI}}
+{{Used for|Adding more explanation}}
+{{Rel char|在}}
+{{Rel char|还是}}
+{{Used for|Connecting ideas}}
+{{Similar|Expressing "and also" with "hai"}}
+{{Similar|Moderating positive adjectives with "hai"}}
+{{Similar|Advanced uses of "hai"}}
+{{Translation|still}}
+{{POS|Adverbs}}

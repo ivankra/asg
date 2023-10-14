@@ -1,0 +1,99 @@
+<!-- Expressing "not anymore" with "le" -->
+{{Grammar Box}} 
+
+In a negative sentence, the [[Change of state with "le"|sentence-final 了 (le)]] can take on the meaning of "(not) anymore" or "no longer."  The word [[已经|已经 (yǐjīng)]], which [[Expressing "already" with "yijing"|means "already,"]] may nor may not accompany it.
+
+== 不 with Only 了 ==
+
+=== Structure ===
+
+<div class="jiegou">
+不 + [Verb Phrase] + 了
+</div>
+
+Note that without the 了 this pattern is still correct, but then the resulting sentence would <em>no longer [[Change of state with "le"|indicate a change]]</em> (which is the whole point of the word "anymore").
+
+=== Examples ===
+
+<div class="liju">
+
+*我 <em>不</em> 想 吃 <em>了</em> 。<span class="pinyin">Wǒ <em>bù</em> xiǎng chī <em>le</em>.</span><span class="trans">I don't want to eat anymore.</span>
+*你 <em>不</em> 喜欢 我 <em>了</em> 吗？<span class="pinyin">Nǐ <em>bù</em> xǐhuan wǒ <em>le</em> ma?</span><span class="trans">You don't like me anymore?</span>
+*你们 <em>不</em> 能 打 <em>了</em> 。<span class="pinyin">Nǐmen <em>bù</em> néng dǎ <em>le</em>.</span><span class="trans">You can't fight anymore.</span>
+
+</div>
+
+== 没有 with Only 了 ==
+
+=== Structure ===
+
+<div class="jiegou">
+没(有) + [Noun Phrase] + 了
+</div>
+
+Again, without the 了 this pattern is still correct, but then the resulting sentence would <em>no longer [[Change of state with "le"|indicate a change]]</em> (which is the whole point of the word "anymore").
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>没有</em> 纸 <em>了</em> 。<span class="expl">in other words, "we're out of paper"</span><span class="pinyin"><em>Méiyǒu</em> zhǐ <em>le</em>.</span><span class="trans">There's no paper anymore.</span>
+*手机 <em>没</em> 电 <em>了</em> 。<span class="pinyin">Shǒujī <em>méi</em> diàn <em>le</em>.</span><span class="trans">My cell phone has run out of power.</span>
+*他 <em>没有</em> 家 <em>了</em>。<span class="pinyin">Tā <em>méiyǒu</em> jiā <em>le</em>.</span><span class="trans">He doesn't have a home anymore.</span>
+
+</div>
+
+== Adding 已经 for Emphasis ==
+
+Use of the word [[已经]] (yǐjīng) to mean "anymore" is optional for this pattern, but either [[不]] (bù) or [[没有]] (méiyǒu) will be needed to make the verb negative. The [[Change of state with "le"|sentence-final 了 (le)]] is required, though, [[Expressing "already" with "yijing"|since 已经 is used]].
+
+=== Structure ===
+
+<div class="jiegou">
+已经 + 不 + [Verb Phrase] + 了
+</div>
+
+<div class="jiegou">
+已经 + 没(有) + [Noun Phrase] + 了
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我 <strong>已经</strong> <em>不</em> 住 这里 <em>了</em> 。<span class="pinyin">Wǒ <strong>yǐjīng</strong> <em>bù</em> zhù zhèlǐ <em>le</em>.</span><span class="trans">I don't live here anymore.</span>
+*他 <strong>已经</strong> <em>不</em> 在 这儿 工作 <em>了</em> 。<span class="pinyin">Tā <strong>yǐjīng</strong> <em>bù</em> zài zhèr gōngzuò <em>le</em>.</span><span class="trans">He doesn't work here anymore.</span>
+*他们 <strong>已经</strong> <em>不</em> 在 一起 <em>了</em> 。<span class="pinyin">Tāmen <strong>yǐjīng</strong> <em>bù</em> zài yīqǐ <em>le</em>.</span><span class="trans">They are no longer together.</span>
+*我们 <strong>已经</strong> <em>没有</em> 钱 <em>了</em> 。<span class="pinyin">Wǒmen <strong>yǐjīng</strong> <em>méiyǒu</em> qián <em>le</em>.</span><span class="trans">We all don't have money anymore.</span>
+
+</div>
+
+== See also ==
+
+* [[Expressing "already" with "yijing"]]
+* [[Expressing "already" with just "le"]]
+* [[Change of state with "le"]]
+* [[Uses of "le"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+* [[Basic Patterns of Chinese Grammar]] (p. 68) [http://www.amazon.com/gp/product/1933330899/ref=as_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=1933330899 →buy]
+* [[Chinese: An Essential Grammar, Second Edition]] (pp. 126-9) [http://www.amazon.com/gp/product/0415372615/ref=as_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0415372615 →buy]
+* [[Mandarin Chinese: A Functional Reference Grammar]] (pp. 238-99) [http://www.amazon.com/gp/product/0520066103?ie=UTF8&tag=allset-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0520066103 →buy] 
+* [[New Practical Chinese Reader 2 (新实用汉语课本2)]] (pp. 217-8) [http://www.amazon.com/gp/product/7561911297/ref=as_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=7561911297 →buy]
+* [[New Practical Chinese Reader 3 (新实用汉语课本3)]] (pp. 64-5) [http://www.amazon.com/gp/product/756191251X/ref%3das_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=756191251X →buy]
+* [[Integrated Chinese: Level 1, Part 2 (3rd ed)]] (p. 8) [http://www.amazon.com/gp/product/0887276709/ref%3das_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0887276709 →buy]
+*[[40 Lessons for Basic Chinese Course (基础汉语40课上册）]] (p. 239)[http://www.amazon.com/gp/product/B001FTL8D8/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001FTL8D8&linkCode=as2&tag=allset-20 →buy]
+
+=== Websites ===
+
+* Chinesegrammar.info: [http://chinesegrammar.info/particles/le-grammar-summary/ Chinese le grammar summary (了)]
+
+{{Basic Grammar|了|A2|不 / 没(有) + Verb Phrase + 了|我 <em>不</em> 想 吃 <em>了</em> 。|grammar point|ASGFR96B}}
+[[Category: A2 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{Used for|Referring to changes of situation}}
+{{Similar|Uses of "le"}}
+{{POS|Particles}}

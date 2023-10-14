@@ -1,0 +1,67 @@
+<!-- Expressing "even if…" with "jishi" -->
+{{Grammar Box}} 
+
+即使⋯⋯也⋯⋯ (jíshǐ... yě...) means "even if... still...." In this construction, the first clause (after 即使) is a supposition, which is then struck down as impossible by the second clause (after 也) of the statement. 
+
+== Structure ==
+
+<div class="jiegou">
+即使 ⋯⋯ ，也 ⋯⋯
+</div>
+
+== Examples ==
+
+<div class="liju">
+*<em>即使</em> 你 不 想 让 我 去 ，我 <strong>也</strong> 要 去。<span class="pinyin"><em>Jíshǐ</em> nǐ bù xiǎng ràng wǒ qù, wǒ <strong>yě</strong> yào qù.</span><span class="trans">Even if you don't want me to go, I still have to go.</span>
+*<em>即使</em> 冬天 很 冷，杰克 <strong>也</strong> 不 穿 外套 。<span class="pinyin"><em>Jíshǐ</em> dōngtiān hěn lěng, Jiékè <strong>yě</strong> bù chuān wàitào.</span><span class="trans">Even if it is very cold in winter, Jake won't wear a jacket.</span>
+*<em>即使</em> 他 没钱 ，我 <strong>也</strong> 要 嫁给 他 。<span class="pinyin"><em>Jíshǐ</em> tā méi qián, wǒ <strong>yě</strong> yào jià gěi tā.</span><span class="trans">Even if he doesn't have money, I'm still going to marry him.</span>
+*<em>即使</em> 你 很 有钱 ，<strong>也</strong> 买不到 幸福 。<span class="pinyin"><em>Jíshǐ</em> nǐ hěn yǒuqián, <strong>yě</strong> mǎi bù dào xìngfú.</span><span class="trans">Even if you were very rich, you couldn't buy happiness.</span>
+*<em>即使</em> 你 没胃口 ，<strong>也</strong> 要 吃 一点 。<span class="pinyin"><em>Jíshǐ</em> nǐ méi wèikǒu, <strong>yě</strong> yào chī yīdiǎn.</span><span class="trans">Even if you don't have any appetite, you still need to eat something.</span>
+*<em>即使</em> 你 对 这 门 课 不太 感兴趣 ，<strong>也</strong> 要 学 。<span class="pinyin"><em>Jíshǐ</em> nǐ duì zhè mén kè bù tài gǎnxìngqù, <strong>yě</strong> yào xué.</span><span class="trans">Even if you are not so interested in this subject, you still need to study it.</span>
+*<em>即使</em> 她 整容 ，我 <strong>也</strong> 能 认出 她 。<span class="pinyin"><em>Jíshǐ</em> tā zhěngróng, wǒ <strong>yě</strong> néng rèn chū tā.</span><span class="trans">Even if she had plastic surgery, I could still recognize her.</span>
+*<em>即使</em> 他们 要 赔偿 我们 ，我们 <strong>也</strong> 要 把 事情 公开。<span class="pinyin"><em>Jíshǐ</em> tāmen yào péicháng wǒmen, wǒmen <strong>yě</strong> yào bǎ shìqing gōngkāi.</span><span class="trans">Even if they want to compensate us, we're still going to make this public.</span>
+
+</div>
+
+Note that the clause used after 即使 must be ''hypothetical'', otherwise 虽然 should be used.
+
+<div class="liju">
+
+<ul>
+<li class="x">现在 <em>即使</em> 很 忙 ，我们 <strong>也</strong> 抽时间 陪 孩子 。<span class="pinyin">Xiànzài <em>jíshǐ</em> hěn máng, wǒmen <strong>yě</strong> chōu shíjiān péi háizi.</span></li>
+<li class="o">现在 <em>虽然</em> 很 忙 ，我们 <strong>也</strong> 抽时间 陪 孩子 。<span class="pinyin">Xiànzài <em>suīrán</em> hěn máng, wǒmen <strong>yě</strong> chōu shíjiān péi háizi.</span><span class="trans">Although it's busy now, we still take time to accompany the children.</span></li>
+</ul>
+
+</div>
+
+In the sentence above, the first part is the actual current situation, so it is incorrect to use 即使.
+
+== See also ==
+
+*[[Expressing "even if…" with "jiusuan"]]
+*[[Expressing "even if…" with "napa"]]
+*[[Expressing "even if…" with "jiushi"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|9}}
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级) |261-3}} 
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|63}} 
+{{Source|现代汉语八百词（增订本）|289}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课下册）|445}}
+
+[[Category: B2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|即使|B2|即使⋯⋯，也⋯⋯|<em>即使</em> 你 没胃口 ， <em>也</em> 要 吃 一点 。|grammar point|ASGBUXN7}}
+{{Rel char|也}}
+{{Similar|Expressing "Even if…" with "jiusuan"}}
+{{Similar|Expressing "Even if…" with "napa"}}
+{{Similar|Expressing "Even if…" with "jiushi"}}
+{{Similar|"Unless" with "chufei"}}
+{{Similar|"Since" and "jiran"}}  
+{{Structure|"Even If" Statements}}
+{{Used for|Indicating conditions}}
+{{Used for|Expressing determination}}
+{{Translation|even if}}

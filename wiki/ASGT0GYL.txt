@@ -1,0 +1,56 @@
+<!-- Complement "-huai le" -->
+{{Grammar Box}} 
+
+The [[degree complement]] -坏了 (huài le) is a bit like the complement [[Negative adjectives with "-si le"|-死了]], and can be used to mean "extremely" in  both a a positive and a negative sense. 
+
+== Structure ==
+ 
+<div class="jiegou">
+Adj. + 坏了
+</div>
+
+As with many other grammar patterns, both adjectives and [[psychological verb]]s work in this pattern.
+
+== Examples ==
+
+In these examples, the state is negative or undesirable, so is a natural fit for -坏了.
+
+<div class="liju">
+*大家 都 <strong>累</strong> <em>坏了</em>。<span class="pinyin">Dàjiā dōu <strong>lèi</strong> <em>huài le</em>.</span><span class="trans">Everyone was dead-tired.</span>
+*我 早饭 和 中饭 都 没 吃 ，<strong>饿</strong> <em>坏了</em> 。<span class="pinyin">Wǒ zǎofàn hé zhōngfàn dōu méi chī, <strong>è</strong> <em>huài le</em>.</span><span class="trans">I didn't eat anything for breakfast or lunch. I'm starved to death.</span>
+*发现 爸爸 又 去 赌钱 了 ，妈妈 <strong>气</strong> <em>坏了</em> 。<span class="pinyin">Fāxiàn bàba yòu qù dǔqián le, māma <strong>qì</strong> <em>huài le</em>.</span><span class="trans">Discovering the father went gambling again, the mother was incensed.</span>
+*孩子 不见 了 ，妈妈 <strong>急</strong> <em>坏了</em> 。<span class="pinyin">Háizi bùjiàn le, māma <strong>jí</strong> <em>huài le</em>.</span><span class="trans">The child is missing. The mother is worried sick.</span>
+*一个 男人 突然 拿出 一把枪 ，乘客们 都 <strong>吓</strong> <em>坏了</em> 。<span class="pinyin">Yī gè nánrén tūrán ná chū yī bǎ qiāng, chéngkè men dōu <strong>xià</strong> <em>huài le</em>.</span><span class="trans">A man took out a gun all of a sudden and the passengers were scared senseless.</span>
+*你 一晚上 没有 给 我 打 电话，我 <strong>担心</strong> <em>坏了</em> 。<span class="pinyin">Nǐ yī wǎnshang méiyǒu gěi wǒ dǎ diànhuà, wǒ <strong>dānxīn</strong> <em>huài le</em>.</span><span class="trans">You haven't called me all night. I've been worried sick.</span>
+*面试官 太 严肃 了，我 都要 <strong>紧张</strong> <em>坏了</em> 。<span class="pinyin">Miànshì guān tài yánsù le, wǒ dōu yào <strong>jǐnzhāng</strong> <em>huài le</em>.</span><span class="trans">The interviewer was so serious. I was a nervous wreck.</span>
+</div>
+
+It's also OK to use -坏了 with positive adjectives sometimes, similar to [[Negative adjectives with "-si le"|-死了]].
+
+<div class="liju">
+
+*听到 这个 好 消息 ，大家 都 <strong>高兴</strong> <em>坏了</em>。<span class="pinyin">Tīng dào zhège hǎo xiāoxī, dàjiā dōu <strong>gāoxìng</strong> <em>huài le</em>.</span><span class="trans">Everyone was thrilled to hear the good news.</span>
+*这个 笑话 让 我们 都 <strong>乐</strong> <em>坏了</em> 。<span class="pinyin">Zhège xiàohua ràng wǒmen dōu <strong>lè</strong> <em>huài le</em>.</span><span class="trans">We really got a kick out of this joke.</span>
+*她 终于 买到 了 演唱会 的 门票，她 <strong>激动</strong> <em>坏了</em>。<span class="pinyin">Tā zhōngyú mǎi dào le yǎnchàng huì de ménpiào, tā <strong>jīdòng</strong> <em>huài le</em>.</span><span class="trans">She was ecstatic when she finally got tickets to the concert.</span>
+</div>
+
+== See also ==
+
+*[[Adjectives with "-ji le"]]
+*[[Negative adjectives with "-si le"]]
+*[[Advanced degree complements]]
+ 
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|104}}
+
+[[Category: B2 grammar points]]
+[[Category: Result complement]]
+{{Basic Grammar|坏|B2|Verb + 坏了| <em>坏</em> 了。|grammar point|ASGT0GYL}}
+{{Similar|Adjectives with "-ji le"}}
+{{Similar|Negative adjectives with "-si le"}}
+{{Similar|Advanced degree complements}}
+{{Used for|Expressing result}}
+{{Structure|Complements}}

@@ -1,0 +1,77 @@
+<!-- Negative adjectives with "-si le" -->
+{{Grammar Box}} 
+In English, you might use the expression "you scared me to death!" In Chinese,  死了 (sǐ le) is used similarly to intensify an adjective with an unpleasant connotation.
+ 
+== Structure ==
+
+The "Subject" part below is actually optional, you can still make your over-the-top exclamations without it.
+
+<div class="jiegou">
+Adj. + 死了
+</div>
+
+This structure is technically a kind of [[degree complement]].
+
+== Examples ==
+
+<div class="liju">
+
+*我 <strong>饿</strong> <em>死了</em>。<span class="expl">Literally, "hungry to death"</span><span class="pinyin">Wǒ <strong>è </strong> <em>sǐ le</em>! </span><span class="trans">I'm starving! </span>
+*今天 <strong>累</strong> <em>死了</em>。<span class="expl">Literally, "tired to death"</span><span class="pinyin">Jīntiān <strong>lèi </strong> <em>sǐ le</em>! </span><span class="trans">Today was so exhausting!</span>
+*<strong>热</strong> <em>死了</em>！<span class="expl">Literally, "hot to death"</span><span class="pinyin"><Strong>Rè </strong> <em>sǐ le</em>! </span><span class="trans">It's ridiculously hot! </span>
+*这 几 天 <strong>忙</strong> <em>死了</em>。<span class="expl">Literally, "busy to death"</span><span class="pinyin"> Zhè jǐ tiān <strong>máng </strong> <em>sǐ le</em>! </span><span class="trans">It's been so terribly busy these days! </span>
+*这 件 衣服 <strong>丑</strong> <em>死了</em>。<span class="expl">Literally, "ugly to death"</span><span class="pinyin">Zhè jiàn yīfu <strong>chǒu</strong> <em>sǐ le</em>! </span><span class="trans">This clothing is totally hideous! </span>
+*你 的 房间 <strong>脏</strong> <em>死了</em>。<span class="expl">Literally, "dirty to death"</span><span class="pinyin">Nǐ de fángjiān <strong>zāng</strong> <em>sǐ le</em>! </span><span class="trans">Your room is absolutely filthy! </span>
+*<strong>吵</strong> <em>死了</em>！<span class="expl">Literally, "noisy to death"</span><span class="pinyin"><strong>Chǎo</strong> <em>sǐ le</em>! </span><span class="trans">It's so terribly noisy! </span>
+*这里 的 东西 <strong>贵</strong> <em>死了</em>。<span class="expl pdf-short-expl">Literally, "expensive to death"</span><span class="pinyin">Zhèlǐ de dōngxi <strong>guì </strong><em>sǐ le</em>! </span><span class="trans">The things here are criminally expensive! </span>
+*我们 都 <strong>急</strong> <em>死了</em>。<span class="expl">Literally, "anxious to death"</span><span class="pinyin">Wǒmen dōu <Strong>jí</strong> <em>sǐ le</em>! </span><span class="trans">We are all so terribly anxious! </span>
+*这个 孩子 <strong>烦</strong> <em>死了</em>。<span class="expl">Literally, "annoying to death"</span><span class="pinyin">Zhège háizi <Strong>fán</strong> <em>sǐ le</em>! </span><span class="trans">This kid is so freaking annoying! </span>
+
+</div>
+
+None of these sentences actually refers to someone dying. Instead the word 死了 (sǐ le) and the structure is simply used to intensify an adjective. Notice how these are awkward to translate into English; the translations above took a number of different angles to create the same impact as -死了 (sǐ le) does in Chinese. You might say that -死了 (sǐ le) is much more versatile in Chinese than the English expression "to death."
+
+== For Positive Connotations ==
+
+Traditionally, -死了 (sǐ le) is only for adjectives with negative connotations, while positive connotations use a similar degree complement, [[Positive adjectives with "-ji le"|极了 (jí le)]]. In recent years, however, it's become quite popular to also use -死了 (sǐ le) with positive adjectives:
+
+<div class="liju">
+
+*哇，<strong>可爱</strong> <em>死了</em> ！<span class="expl">Literally, "cute to death"</span><span class="pinyin">Wā, <strong>kě'ài</strong> <em>sǐ le</em>! </span><span class="trans">OMG, adorbs!</span>
+*<strong>漂亮</strong> <em>死了</em> ！<span class="expl">Literally, "pretty to death"</span><span class="pinyin"><strong>Piàoliang</strong> <em>sǐ le</em>! </span><span class="trans">Drop-dead gorgeous!</span>
+*这 个 蛋糕 <strong>好吃</strong> <em>死了</em> 。<span class="expl pdf-short-expl">Literally, "delicious to death"</span><span class="pinyin">Zhège dàngāo <strong>hǎochī</strong> <em>sǐ le</em>! </span><span class="trans">This cake is to die for!</span>
+
+</div>
+
+== See also ==
+
+* [[Degree complement]]
+* [[Adjectival complement "de hen"]]
+* [[Positive adjectives with "-ji le"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|104}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|139}}
+{{Source|Chinese: An Essential Grammar, Second Edition|105}}
+{{Source|Yufa!|106}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK4}}
+[[Category:Adjectives]]
+
+{{Basic Grammar|死|A2|Adj. + 死了|我 今天 累 <em>死了</em> 。|grammar point|ASGLEVUV}}
+{{Rel char|了}}
+{{Used for|Expressing degree}}
+{{Used for|Emphasizing}}
+{{POS|Adjectives}}
+{{Similar|Adjectival Complement "de budeliao"}}
+{{Similar|Adjectival Complement "de hen"}}
+{{Similar|Positive adjectives with "-ji le"}}
+{{Similar|Degree complement}}
+{{Similar|Advanced degree complements}}
+{{Similar|Resultative Complement "huai"}}
+{{Translation|very}}
+{{Translation|really}}

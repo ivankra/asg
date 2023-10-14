@@ -1,0 +1,50 @@
+<!-- Modal particle "ne" -->
+{{Grammar Box}} 
+You may have already learned how to ask [[Questions with "ne"|questions with 呢 (ne)]], but did you know that it's also used in statements? In this usage, 呢 (ne) is imparting a certain "mood" (hence the word "modal") or "attitude." It's used when trying to sound more confident and convincing to someone else.
+
+== Structure ==
+
+<div class="jiegou">
+Statement + 呢 
+</div>
+
+== Examples ==
+
+For each of these examples, just a bit of context is needed to understand what the speaker is trying to convince someone of.
+
+<div class="liju">
+
+* 我 不 要 回家 。还 早 <em>呢</em> ！<span class="pinyin">Wǒ bù yào huíjiā. Hái zǎo <em>ne</em>!</span><span class="trans">I don't want to go home. It's still early!</span>
+* 太 远 了，坐 火车 要 十 个 小时 <em>呢</em>。<span class="pinyin">Tài yuǎn le, zuò huǒchē yào shí gè xiǎoshí <em>ne</em>.</span><span class="trans">It's too far. By train, it'll take 10 hours.</span>
+* 我 找 了 你 很 久 <em>呢</em>，你 去 哪里 了？<span class="pinyin">Wǒ zhǎo le nǐ hěn jiǔ <em>ne</em>, nǐ qù nǎlǐ le?</span><span class="trans">I looked for you for quite a while. Where did you go?</span>
+* 雨 还 很 大 <em>呢</em>，我们 不 要 出去 了。<span class="pinyin">Yǔ hái hěn dà<em>ne</em>, wǒmen bùyào chūqù le .</span><span class="trans">And it's raining really heavily. Let's just not go out.</span>
+* 你 喝 吧，还有 很 多 可乐 <em>呢</em>。<span class="pinyin">Nǐ hē ba, háiyǒu hěn duō kělè<em>ne</em>.</span><span class="trans">Drink some. There's a lot of cola left.</span>
+* 爸爸 在 工作<em> 呢</em>，不 能 和 你 一起 玩。<span class="pinyin">Bàba zài gōngzuò <em>ne</em>, bù néng hé nǐ yīqǐ wán.</span><span class="trans">Daddy's working. He can't play with you.</span>
+* 他 还 没 回来 <em>呢</em>。<span class="pinyin">Tā hái méi huílái <em>ne</em>.</span><span class="trans">He hasn't come back yet.</span>
+* 我们 的 工作 还 有 很多 <em>呢</em>。<span class="pinyin">Wǒmen de gōngzuò hái yǒu hěn duō <em>ne</em>.</span><span class="trans">We still have a lot of work.</span>
+* 我们 一起 吃饭 吧，时间 还 有 很多 <em>呢</em>。<span class="pinyin">Wǒmen yīqǐ chīfàn ba, shíjiān háiyǒu hěn duō <em>ne</em>.</span><span class="trans">Let's eat together. We still have a lot of time.</span>
+* 你 怎么 还 在 吃<em> 呢</em>？<span class="pinyin">Nǐ zěnme hái zài chī <em>ne</em>.</span><span class="trans">How is it that you're still eating?</span>
+
+</div>
+
+== See Also ==
+
+* [[Modal particle]]s
+* [[Questions with "ne"]]
+* [[Expressing actions in progress (full form)]]
+* [[Softening the tone of questions with "ne"]] (advanced article)
+
+== Sources and further reading ==
+
+===Books===
+
+{{Source|HSK Standard Course 2|52}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Used for|Expressing attitude}}
+{{Basic Grammar|呢|A2|⋯⋯呢 ?|我 不 要 回家 。还 早 <em>呢</em> ！|grammar point|ASGC8CB8}}
+{{Similar|Questions with "ne"}} 
+{{Similar|Expressing actions in progress (full form)}} 
+{{Similar|Softening the Tone of Questions with "ne"}}
+{{POS|Particles}}

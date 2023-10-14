@@ -1,0 +1,63 @@
+<!-- Expressing duration of inaction -->
+{{Grammar Box}} 
+
+Saying how long you have ''not'' done something is not difficult, but the word order is different from the [[Expressing duration with "le"|regular pattern for expressing duration]]. If there's a consistent keyword in this pattern, it's going to be [[没]] (méi), since it almost always plays a role.
+
+== Structure ==
+
+Remember, this pattern differs from both [[Expressing duration with "le"|simple pattern for expressing duration]] and the [[Expressing ongoing duration with double "le"|pattern for ongoing duration]]. 
+
+<div class="jiegou">
+Subj. + (已经 +) Duration + 没 + Verb + 了
+</div>
+
+So now the duration comes right after the subject and 了 is at the end of the sentence. The verb has to be [[Negation of past actions|negated with 没]], as the action ''hasn't'' happened.
+
+Note that 已经 can be omitted.
+
+== Examples ==
+
+<div class="liju">
+
+*他们 <strong>已经</strong> 两 天 <em>没</em> 吃 东西 <strong>了</strong> 。<span class="pinyin">Tāmen <strong>yǐjīng</strong> liǎng tiān <em>méi</em> chī dōngxi <strong>le</strong>.</span><span class="trans">They haven't eating anything for two days already.</span>
+*我们 <strong>已经</strong> 十 年 <em>没</em> 见 <strong>了</strong>。<span class="pinyin">Wǒmen <strong>yǐjīng</strong> shí nián <em>méi</em> jiàn <strong>le</strong>.</span><span class="trans">We haven't seen each other for ten years already.</span>
+*他 <strong>已经</strong> 一 个 星期 <em>没</em> 洗澡 <strong>了</strong> 。<span class="pinyin">Tā <strong>yǐjīng</strong> yī gè xīngqī <em>méi</em> xǐzǎo <strong>le</strong>.</span><span class="trans">He has already gone a whole week without showering.</span>
+*你 多 长 时间 <em>没</em> 刮 胡子 <strong>了</strong> ？<span class="pinyin">Nǐ duō cháng shíjiān <em>méi</em> guā húzi <strong>le</strong>?</span><span class="trans">How long has it been since you last shaved?</span>
+*她 半 个 月 <em>没</em> 出门 <strong>了</strong> 。<span class="pinyin">Tā bàn gè yuè <em>méi</em> chūmén <strong>le</strong>.</span><span class="trans">It's been half a month since she's left the house.</span>
+*你们 多久 <em>没</em> 回家 <strong>了</strong> ？<span class="pinyin">Nǐmen duōjiǔ <em>méi</em> huíjiā <strong>le</strong>?</span><span class="trans">How long has it been since you returned home?</span>
+*你 多久 <em>没</em> 休假 <strong>了</strong> ？<span class="pinyin">Nǐ duōjiǔ <em>méi</em> xiūjià <strong>le</strong>?</span><span class="trans">How long has it been since your last vacation?</span>
+*买 吧 ，你 <strong>已经</strong> 一 年 多 <em>没</em> 买 新 衣服 <strong>了</strong> 。<span class="pinyin">Mǎi ba, nǐ <strong>yǐjīng</strong> yī nián duō <em>méi</em> mǎi xīn yīfu <strong>le</strong>.</span><span class="trans">Just buy it. It's been more than one year since you last bought new clothes.</span>
+*你 好像 很久 <em>没</em> 这么 开心 <strong>了</strong> 。<span class="pinyin">Nǐ hǎoxiàng hěnjiǔ <em>méi</em> zhème kāixīn <strong>le</strong>.</span><span class="trans">It seems like it's been a long time since you were this happy.</span>
+
+</div>
+
+In English, we may say something like, "I haven't eaten since 9:00 this morning" or "I haven't been to China since the year 2000." Note that the Chinese do not tend to say somebody hasn't done something since a ''certain point in time''. Instead, you should either express it as a duration of time that one hasn't done something (as in the above examples), or you can say "the last time somebody did something was [a certain point in time]."
+
+<div class="liju">
+*我 已经 十 年 <em>没</em> 来 中国 <strong>了</strong> 。<span class="pinyin">Wǒ yǐjīng shí nián <em>méi</em> lái Zhōngguó <strong>le</strong>.</span><span class="trans">It's been 10 years since I came to China last.</span>
+*我 <em>上次</em> 来 中国 <em>是</em> 2010 年 。<span class="pinyin">Wǒ <em>shàngcì</em> lái Zhōngguó <em>shì</em> èr-líng-yī-líng nián.</span><span class="trans">The last time I came to China was 2010.</span>
+</div>
+
+== See also ==
+
+*[[Expressing duration]]
+*[[Expressing ongoing duration with double "le"]]
+*[[Uses of le]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|231-2}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|没|B1|Duration + 没 + Verb + 了|他 <strong>已经</strong> 一 个 星期 <em>没</em> 洗澡 <strong>了</strong> 。|grammar point|ASGSVF28}}
+{{Rel char|了}}
+{{Similar|Uses of le}}
+{{Similar|Expressing "already" with "dou"}}
+{{Similar|Expressing duration with "le"}}
+{{Similar|Expressing ongoing duration with double "le"}}
+{{Used for|Expressing duration}}
+{{Used for|Referring to the past}}
+{{POS|Adverbs}}

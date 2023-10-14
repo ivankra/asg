@@ -1,0 +1,71 @@
+<!-- Expressing "towards" with "xiang" -->
+{{Grammar Box}} 
+ 
+向 (xiàng) is a preposition that means "towards" and is used often with certain verbs. These usages need to be learned together with 向.
+
+== Used as "Towards" ==
+
+=== Structure ===
+
+When used as a preposition, 向 indicates an action that is performed towards a reference point but doesn't have any actual motion towards that point. 
+
+<div class="jiegou">
+向 + Direction / Person + Verb
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>向</em> 东 走 。<span class="pinyin"><em>Xiàng</em> dōng zǒu.</span><span class="trans">Walk to the east.</span>
+*<em>向</em> 前 看 。<span class="pinyin"><em>Xiàng</em> qián kàn.</span><span class="trans">Look forward.</span>
+*<em>向</em> 左 转 。<span class="pinyin"><em>Xiàng</em> zuǒ zhuǎn.</span><span class="trans">Turn to the left.</span>
+*老师 正 <em>向</em> 我们 走 来 。<span class="pinyin">Lǎoshī zhèng <em>xiàng</em> wǒmen zǒu lái.</span><span class="trans">The teacher is currently walking towards us.</span>
+*火车 已经 开 了 ，她 还 在 <em>向</em> 我 招手 。<span class="pinyin">Huǒchē yǐjīng kāi le, tā hái zài <em>xiàng</em> wǒ zhāoshǒu.</span><span class="trans">The train already departed. She kept waving at me.</span>
+*你 必须 <em>向</em> 他 道歉 ！<span class="pinyin">Nǐ bìxū <em>xiàng</em> tā dàoqiàn!</span><span class="trans">You must apologize to him!</span>
+*这 件 事 你 应该 <em>向</em> 老板 汇报 一下 。<span class="pinyin">Zhè jiàn shì nǐ yīnggāi <em>xiàng</em> lǎobǎn huìbào yīxià.</span><span class="trans">You should report this matter to the boss!</span>
+
+</div>
+
+== Used as "From" ==
+
+Whereas in English we would say "learn from someone," in Chinese this would be expressed as "learn toward someone," as in the following example (and famous propaganda slogan):
+
+<div class="liju">
+*<em>向</em> 雷锋 同志 学习 ！<span class="pinyin"><em>Xiàng</em> Léi Fēng tóngzhì xuéxí!</span><span class="trans">Learn from Comrade Lei Feng!</span>
+</div>
+
+More examples:
+
+<div class="liju">
+
+*我 不 喜欢 <em>向</em> 朋友 借钱 。<span class="pinyin">Wǒ bù xǐhuan <em>xiàng</em> péngyou jiè qián.</span><span class="trans">I don't like to borrow money from friends.</span>
+*你 会 <em>向</em> 陌生人 求助 吗 ？<span class="pinyin">Nǐ huì <em>xiàng</em> mòshēngrén qiúzhù ma?</span><span class="trans">Would you ask strangers for help?</span>
+*我们 都 没 经验 ，是 来 <em>向</em> 你 请教 的 。<span class="pinyin">Wǒmen dōu méi jīngyàn, shì lái <em>xiàng</em> nǐ qǐngjiào de.</span><span class="trans">None of us has experience. We're here to ask you for advice.</span>
+
+</div>
+
+== See also ==
+
+*[[Using "dui"]]
+*[[Expressing "toward" with "wang"]]
+*[[Expressing "with" with "gen"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|84}} 
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级)|214}}
+{{Source|Practicing HSK Grammar (语法精讲精炼)|77}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+[[Category:Prepositions]]
+{{Similar|Expressing "with" with "gen"}}
+{{Similar|Using "dui"}}
+{{Similar|Expressing "toward" with "wang"}}
+{{Translation|towards}}
+{{Translation|from}}
+{{Basic Grammar|向|B1|向 + Direction / Person + Verb|你 必须 <em>向</em> 他 道歉！|grammar point|ASGQXARS}}
+{{POS|Prepositions}}

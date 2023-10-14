@@ -1,0 +1,74 @@
+<!-- Expressing "even" with "shenzhi" -->
+{{Grammar Box}} 
+
+甚至 (shènzhì) is similar to "even" in English and is used for emphasis. Like "even," it can be used quite directly or in a more subtle manner. When used more subtly it acts to supplement the speaker’s initial thought, creating the impression that the speaker has realized half way through his statement that he hasn’t gone far enough, and wants to take the idea one step further.
+
+== 甚至 Used to Emphasize a Noun ==
+
+=== Structure ===
+
+Note the word or phrase following 甚至 often uses 也 or 都 to add further emphasis. The noun being emphasized is the "surprising" one or one that is the most "extreme."
+
+<div class="jiegou">
+[Noun or Group of Nouns] + 甚至 + [Emphasized Noun] + 都 / 也 ⋯⋯
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*每 个 观众 <em>甚至</em> 裁判 都 站 起来 给 他 鼓掌。<span class="pinyin">Měi gè guānzhòng <em>shènzhì</em> cáipàn dōu zhàn qǐlái gěi tā gǔzhǎng.</span><span class="trans">Each and every member of the audience, and even the referee, stood up and applauded for him.</span>
+*我 去 过 很 多 中国 的 城市，北京、上海、杭州、昆明、桂林，<em>甚至</em> 拉萨 我 也 去 过。<span class="pinyin">Wǒ qù guo hěn duō Zhōngguó de chéngshì, Běijīng, Shànghǎi, Hángzhōu, Kūnmíng, Guìlín, <em>shènzhì</em> Lāsà wǒ yě qù guo.</span><span class="trans">I've been to many cities in China: Beijing, Shanghai, Hangzhou, Kunming, Guilin. I even went to Lhasa once.</span>
+*我的 朋友 都 不 喜欢 我 的 决定，<em>甚至</em> 我 的 家人 也 不 支持。<span class="pinyin">Wǒ de péngyou dōu bù xǐhuan wǒ de juédìng, <em>shènzhì</em> wǒ de jiārén yě bù zhīchí.</span><span class="trans">None of my friends like my decision, and even my family doesn't support it.</span>
+*他 很 喜欢 玩 手机，吃饭 的时候，坐 地铁 的时候，<em>甚至</em> 上 厕所 的时候 也 在 玩。<span class="pinyin">Tā hěn xǐhuan wán shǒujī, chīfàn de shíhou, zuò dìtiě de shíhou, <em>shènzhì</em> shàng cèsuǒ de shíhou yě zài wán.</span><span class="trans">He likes playing on his cell phone when he's eating, taking the metro, even when he goes to the bathroom.</span>
+
+</div>
+
+== 甚至 in Complex Sentences ==
+
+=== Structure ===
+
+Note the sentence following 甚至 often uses 也 or 都 to add further emphasis, and [[Expressing "even" with "lian" and "dou"|连 (lián)]] sometimes directly follows 甚至 for further "[[even]]" emphasis.
+
+<div class="jiegou">
+⋯⋯，甚至 + (连) ⋯⋯ + 都 / 也
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*他 太 忙 了，<em>甚至</em> 吃 中饭 的 时间 都 没有。<span class="pinyin">Tā tài máng le, <em>shènzhì</em> chī zhōngfàn de shíjiān dōu méiyǒu.</span><span class="trans">He's too busy. He doesn't even have time to eat lunch.</span>
+*他 从来 不 聊 工作 的 事，<em>甚至</em> 跟 他 老婆 也 不 说。<span class="pinyin">Tā cónglái bù liáo gōngzuò de shì, <em>shènzhì</em> gēn tā lǎopo yě bù shuō.</span><span class="trans">He never talks about work, not even to his wife.</span>
+*这 个 问题 很 简单，<em>甚至</em> 连 孩子 都 知道。<span class="pinyin">Zhège wèntí hěn jiǎndān, <em>shènzhì</em> lián háizi dōu zhīdào.</span><span class="trans">This question is simple, even kids know the answer.</span>
+*我 男朋友 很 喜欢 游泳，<em>甚至</em> 连 冬天 也 游。<span class="pinyin">Wǒ nánpéngyou hěn xǐhuan yóuyǒng, <em>shènzhì</em> lián dōngtiān yě yóu.</span><span class="trans">My boyfriend likes swimming a lot. He goes swimming even when it's winter.</span>
+*几 年 不 见，他 变 胖 了 很 多，<em>甚至</em> 连 我 这 个 老 朋友 都 认 不 出来 了。<span class="pinyin">Jǐ nián bù jiàn, tā biàn pàng le hěn duō, <em>shènzhì</em> lián wǒ zhège lǎo péngyou dōu rèn bù chūlái le.</span><span class="trans">I haven't seen him for a few years and he's gotten much fatter. I, as an old friend, couldn't even recognize him.</span>
+
+</div>
+
+== See also ==
+
+*[[Advanced uses of "lian"]]
+*[[Expressing "even" with "lian" and "dou"]]
+*[[Combining verbs with "bing"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|48}}
+{{Source|Integrated Chinese: Level 2, Part 1|228}}
+{{Source|New Practical Chinese Reader 5 (新实用汉语课本5)|72}} 
+{{Source|Short-term Spoken Chinese: Pre-Intermediate (汉语口语速成提高篇)|133}}  
+
+[[Category: B2 grammar points]]
+{{HSK|HSK4}}
+[[Category: Adverbs]]
+{{Basic Grammar|甚至|B2|甚至|他们 贡献 出 所有 的 精力 ， <em>甚至</em> 最 宝贵 的 生命 。|grammar point|ASGKWV6F}}
+{{Rel char|连}}
+{{Rel char|都}}
+{{Rel char|也}}
+{{Similar|Expressing "Even" with "lian" and "dou"}}
+{{Similar|Combining Verbs with "bing"}}
+{{Similar|Advanced uses of "lian"}}
+{{POS|Adverbs}}
+{{Used for|Expressing determination}}
+{{Translation|even}}

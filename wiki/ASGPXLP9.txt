@@ -1,0 +1,63 @@
+<!-- Expressing "must" with "dei" -->
+{{Grammar Box}} 
+
+The auxiliary verb 得 (děi) means "must." Yes, it's annoying that the same character can also be pronounced "de," but at least when you use 得 (děi), there's no [[Auxiliary verb "yao" and its multiple meanings|ambiguity like with the word 要 (yào)]].
+
+== Structure ==
+
+Normally, when you see 得, it's a particle and is pronounced "de." However, it can also be an [[auxiliary verb]]. In this case it's pronounced "děi" and means "must." 
+
+<div class="jiegou">
+Subj. + 得 + [Verb Phrase]
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*我们 <em>得</em> 走 了 。<span class="pinyin">Wǒmen <em>děi</em> zǒu le.</span><span class="trans">We have to leave now.</span>
+*时间 不 早 了，我 <em>得</em> 回家 了。<span class="pinyin">Shíjiān bù zǎo le, wǒ <em>děi</em> huíjiā le.</span><span class="trans">It's getting late. I have to go home.</span>
+*他 是 你 弟弟 ，你 <em>得</em> 帮 他 。<span class="pinyin">Tā shì nǐ dìdi, nǐ <em>děi</em> bāng tā.</span><span class="trans">He is your younger brother. You must help him.</span>
+*不好意思 ，你 <em>得</em> 马上 离开 。<span class="pinyin">Bù hǎoyìsi, nǐ <em>děi</em> mǎshàng líkāi.</span><span class="trans">Excuse me, but you have to leave here right now.</span>
+*在 学校 就 <em>得</em> 听 老师 的 话 。<span class="pinyin">Zài xuéxiào jiù <em>děi</em> tīng lǎoshī de huà.</span><span class="trans">You have to listen to the teacher at school.</span>
+*你 <em>得</em> 先 付钱 再 进去 。<span class="pinyin">Nǐ <em>děi</em> xiān fù qián zài jìnqù.</span><span class="trans">You need to pay before you go in.</span>
+*是 你 的 错 ，你 <em>得</em> 道歉 。<span class="pinyin">Shì nǐ de cuò, nǐ <em>děi</em> dàoqiàn.</span><span class="trans">It's your fault. You must apologize.</span>
+*他 没有 经验 ，你 <em>得</em> 教教 他 。<span class="pinyin">Tā méiyǒu jīngyàn, nǐ <em>děi</em> jiāojiao tā.</span><span class="trans">He doesn't have experience. You must teach him.</span>
+*明天 去 面试 ，你 <em>得</em> 穿 得 正式 一点 。<span class="pinyin">Míngtiān qù miànshì, nǐ <em>děi</em> chuān de zhèngshì yīdiǎn.</span><span class="trans">You must wear something more formal for tomorrow's job interview.</span>
+*你 病 得 太 厉害 了，<em>得</em> 去 看 医生。<span class="pinyin">Nǐ bìng de tài lìhai le, <em>děi</em> qù kàn yīshēng.</span><span class="trans">You are really sick. You must go see a doctor.</span>
+
+</div>
+
+== See also ==
+
+* [["Would like to" with xiang]]
+* [[Wanting to do something with yao]]
+* [[Auxiliary verb]]
+* [[Auxiliary verb "hui" for "will"]]
+
+== Sources and further reading ==
+
+=== Videos ===
+
+* Yoyo Chinese: [http://www.youtube.com/watch?v=L11Ulml2rJE&list=PL94A5E422FB99CDDD&index=17 "Have to and Don't have to"]
+
+=== Books ===
+
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|164-5}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课下册）|301}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|得|B1|得 + Verb|我们 <em>得</em> 走 了 。|grammar point|ASGPXLP9}}
+{{Used for|Expressing obligations}}
+{{Used for|Giving commands}}
+{{Similar|"Yinggai" for should}}
+{{Similar|Expressing "don't need to" with "buyong"}}
+{{Similar|Expressing "have to" with budebu}}
+{{Similar|Expressing “must" with "feidei"}}
+{{Similar|Expressing "had better" with "zuihao"}}
+{{Similar|Expressing determination with "feiyao"}}
+{{Translation|must}}
+{{Translation|need}}
+{{POS|Verbs}}
+{{Subprop|Auxiliary verbs}}

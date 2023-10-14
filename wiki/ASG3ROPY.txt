@@ -1,0 +1,58 @@
+<!-- Expressing "it seems" with "haoxiang" -->
+{{Grammar Box}} 
+
+To express "seems," the word 好像 (hǎoxiàng) can be used. 
+
+== Structure ==
+
+<div class="jiegou">
+Subj. + 好像 ⋯⋯
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*他 <em>好像</em> 是 英国 人 。<span class="pinyin">Tā <em>hǎoxiàng</em> shì Yīngguó rén.</span><span class="trans">He seems to be British.</span>
+*你 <em>好像</em> 不 是 本地 人 。<span class="pinyin">Nǐ <em>hǎoxiàng</em> bù shì běndìrén.</span><span class="trans">You don't seem to be a local.</span>
+*她 <em>好像</em> 生病 了 。<span class="pinyin">Tā <em>hǎoxiàng</em> shēngbìng le.</span><span class="trans">It seems like she's sick.</span>
+*你 <em>好像</em> 很 不 喜欢 她 。<span class="pinyin">Nǐ <em>hǎoxiàng</em> hěn bù xǐhuan tā.</span><span class="trans">It seems that you dislike her a lot.</span>
+*王 先生 <em>好像</em> 很怕 他 老婆 。<span class="pinyin">Wáng xiānsheng <em>hǎoxiàng</em> hěn pà tā lǎopo.</span><span class="trans">Mr. Wang seems to fear his wife a lot.</span>
+*他 一 个 人 坐 在 那儿 ，<em>好像</em> 在 想 事情 。<span class="pinyin">Tā yī gè rén zuò zài nàr, <em>hǎoxiàng</em> zài xiǎng shìqing.</span><span class="trans">He's sitting there all by himself. It seems like he's thinking about something.</span>
+
+</div>
+
+Note that if this structure is used without a subject, it has the meaning of "it seems like..." or "it seems that..." in English. This could then be followed by an entire statement.
+
+<div class="liju">
+
+*<em>好像</em> 不 行 。<span class="pinyin"><em>Hǎoxiàng</em> bù xíng.</span><span class="trans">It seems like it didn't work.</span>
+*<em>好像</em> 要 下雨 了 。<span class="pinyin"><em>Hǎoxiàng</em> yào xiàyǔ le.</span><span class="trans">It seems like it's going to rain.</span>
+*<em>好像</em> 有 人 敲门 。<span class="pinyin"><em>Hǎoxiàng</em> yǒu rén qiāo mén.</span><span class="trans">It seems that someone is knocking at the door.</span>
+*<em>好像</em> 有 人 来 过 。<span class="pinyin"><em>Hǎoxiàng</em> yǒu rén lái guo.</span><span class="trans">It seems that someone has been here.</span>
+
+
+</div>
+
+== See also ==
+
+* [[Appearance with "kanqilai"]]
+* [[Expressing "as if" with "sihu"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Practicing HSK Grammar (语法精讲精炼)|41}}
+{{Source|Basic Patterns of Chinese Grammar|101}}
+{{Source|Boya Chinese Elementary Starter 1 (博雅汉语初经起步篇)|157}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|好像|B1|好像⋯⋯|他 <em>好像</em> 是 英国 人 。|grammar point|ASG3ROPY}}
+{{Rel char|像}}
+{{Similar|Appearance with "kanqilai"}}
+{{Similar|Expressing "as if" with "sihu"}}
+{{Used for|Observing}}
+{{POS|Verbs}}
+{{Subprop|Verbs}}

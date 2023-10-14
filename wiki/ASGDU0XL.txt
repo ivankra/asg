@@ -1,0 +1,45 @@
+<!-- Expressing "always previously" with "xianglai" -->
+{{Grammar Box}} 
+{{Stub}}
+
+向来 (xiànglái) is pretty much the [["Never" with "conglai"|same as 从来]], except that 从来 is almost always used with negation (sentences with 不 or 没）.
+
+== Structure ==
+
+向来 is used the same structure as 从来.You can use an optional 都 after the 向来.The basic meaning of 向来 is that something is always like that until the present. [["Since the beginning" with "yixiang"|一向]] has the same meaning and structure as 向来。 
+
+<div class="jiegou">
+
+Subject + 向来（都） + Verb/Verb Phrase
+
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+* 我 父母 <em>向来</em> 不 喜欢 我 跟 你们 一起 出去 玩儿。<span class="trans">My parents have always disliked me going out to play with you guys.</span>
+* 我 <em>向来</em> 努力，所以 我 每 一 次 考试 都 得 满分。<span class="trans">I have always pushed myself, so every time I take a test, I always get full marks.</span>
+* 那个 足球 队员 <em>一向</em> 被 称为 “金脚”，因为 他 踢 足球 踢 得 非常 好。<span class="trans">That soccer player is known as "Goldfoot" because he plays soccer really well.</span>
+
+</div>
+
+==See also==
+
+* [["Never" with "conglai"]]
+* [["Always" with "conglai"]]
+
+== Sources and further reading ==
+
+=== Dictionaries ===
+
+* [[现代汉语词典（第5版）]] (pp. 1489) [http://www.amazon.cn/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E8%AF%8D%E5%85%B8/dp/B001B1RZCI/ref=sr_1_1?ie=UTF8&qid=1345693609&sr=8-1 →buy]
+
+[[Category:C1 grammar points]]
+{{Basic Grammar|向来|C1|Subject + 向来（都） + Verb/Verb Phrase|我 <em>向来</em> 努力，所以 我 每 一 次 考试 都 获得 满分。|grammar point|ASGDU0XL}}
+{{Rel char|一向}}
+{{Similar|"Always" with "conglai"}}
+{{Similar|"Never" with "conglai"}}
+{{POS|Adverbs}}
+{{Used for| Expressing frequency}}
+{{Used for|Referring to the past}}

@@ -1,0 +1,157 @@
+<!-- The "shi... de" patterns: an overview -->
+{{Grammar Box}} 
+
+An intermediate student of Chinese should be aware of the classic [["shi... de" construction]].  It's important to learn and use. But don't be tempted to think that the "official" 是⋯⋯的 (shì... de) pattern is the only way that 是 and 的 can work together in a sentence!  There are multiple ways to use 是 and 的 together, and they can be used for different purposes. This article helps break down the various uses of 是⋯⋯的 and tackle the confusion head-on.
+
+== Omitting a Noun with 的 ==
+
+This is the most simple way to use 是 with 的: you drop the noun and let 的 represent it. This usage requires context; otherwise the other person won't know what noun you are referring to. Having the 的 take the place of the noun is sort of like the way we say "one" or "it" in English. It's a basic substitution, but it's one that is very common and very helpful in everyday Chinese.
+
+<div class="liju">
+
+<ul class="dialog">
+<li><span class="speaker">A:</span> 你 也 是 大学生 ？你 <em>是</em> <strong>什么 专业</strong> <em>的</em> ？<span class="pinyin">Nǐ yě shì dàxuéshēng? Nǐ <em>shì</em> <strong>shénme zhuānyè</strong> <em>de</em>?</span><span class="trans">Are you also a college student? What's your major?</span></li>
+<li><span class="speaker">B:</span> 我 <em>是</em> <strong>中文 专业</strong> <em>的</em> 。<span class="pinyin">Wǒ <em>shì</em> <strong>Zhōngwén zhuānyè</strong> <em>de</em>.</span><span class="trans">My major is Chinese.</span></li>
+</ul>
+
+</div>
+
+== Used with Distinguishing Words ==
+
+If you're a good student, you learned the classic pattern for [[Simple "noun + adjective" sentences|simple sentences using adjectives]] long ago (you know, the 你很漂亮 type), and you know that you're '''''not''''' supposed to use 是 in these sentences.  But then you may have later come across some sentence patterns--apparently using adjectives--where you '''''have''''' to use 是 (and also 的).  These are sentences that use a special type of word (you might think of it as a special class of adjectives, if that helps) called [[distinguishing word]]s.
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 是 + [Distinguishing Words] + 的
+</div>
+
+=== Examples ===
+
+Pay attention to the "distinguishing words" between 是 and 的.
+
+<div class="liju">
+
+*这个 苹果 <em>是</em> <strong>坏</strong><em>的</em>。<span class="pinyin">Zhège píngguǒ <em>shì</em> <strong>huài</strong> <em>de</em>.</span><span class="trans">This apple is bad.</span>
+*你 错 了 ，那个 人 <em>是</em> <strong>女</strong><em>的</em>。<span class="pinyin">Nǐ cuò le, nàge rén <em>shì</em> <strong>nǚ</strong> <em>de</em>.</span><span class="trans">You are mistaken. That person is a woman.</span>
+*他 家 的 家具 都 <em>是</em> <strong>中式</strong><em>的</em>。<span class="pinyin">Tā jiā de jiājù dōu <em>shì</em> <strong>Zhōng shì</strong> <em>de</em>.</span><span class="trans">The furniture in his house is all in Chinese style.</span>
+
+</div>
+
+Other "distinguishing words" include colors, materials, sexes, and other categories that can have no degree.
+
+== The Classic Construction ==
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 是 + [Information to be Emphasized] + Verb + 的
+</div>
+
+This classic pattern is the one for emphasizing certain ''details'' about events in the ''past''.  It's often used to ask pointed questions about past events, and then to answer those questions. Usually, the situation is already established, and the speakers are trying to get more specific clarification, such as when, where, or how the action took place. When this is the case, the phrase that follows the 是 is the part of the situation that is being emphasized.
+
+It is also important to know that you can't use 了 in this type of sentence. 了 only tells you that the action is completed, not any of the other details that this construction is looking for. Since it is already understood that the action took place, the 了 is unhelpful and inappropriate. A more complete explanation of this particular usage can be found in [[The "shi... de" construction for emphasizing details|the article on 是……的 for emphasizing details]].
+
+=== Examples ===
+
+The examples below share the theme: 我在上海学了两年中文. Each sentence has a different aspect of the situation being emphasized.
+
+<div class="liju">
+
+<ul class="dialog">
+<li><span class="speaker">A:</span> 你 <em>是</em> <strong>什么 时候</strong> 开始 学 中文 <em>的</em>？<span class="pinyin">Nǐ <em>shì</em> <strong>shénme shíhou</strong> kāishǐ xué Zhōngwén <em>de</em>?</span><span class="trans">A: When was it that you started studying Chinese?</span></li>
+<li><span class="speaker">B:</span> 我 <em>是</em> <strong>两 年 前</strong> 开始 学 中文 <em>的</em>。<span class="pinyin">Wǒ <em>shì</em> <strong>liǎng nián qián</strong> kāishǐ xué Zhōngwén <em>de</em>.</span><span class="trans">It was two years ago that I started studying Chinese.</span></li>
+<li><span class="speaker">A:</span> 你 <em>是</em> <strong>在 哪里</strong> 学 <em>的</em> 中文？<span class="pinyin">Nǐ <em>shì</em> <strong>zài nǎlǐ</strong> xué <em>de</em> Zhōngwén?</span><span class="trans">Where is it that you study Chinese?</span></li>
+<li><span class="speaker">B:</span> 我 <em>是</em> <strong>在 上海</strong> 学 <em>的</em> 中文。<span class="pinyin">Wǒ <em>shì</em> <strong>zài Shànghǎi</strong> xué <em>de</em> Zhōngwén.</span><span class="trans">It's in Shanghai that I study Chinese.</span></li>
+</ul>
+
+</div>
+
+In the example above, you might have noticed something funny with the object of the verb. In this construction, if the verb is transitive (it takes an object), then the object can be placed either before or after the 的 without affecting the meaning. Take a look at the example below:
+
+<div class="liju">
+
+<ul class="dialog">
+<li><span class="speaker">A:</span> 昨天 你 <em>是</em> <strong>怎么</strong> 回 <em>的</em> 家 ？<span class="pinyin">Zuótiān nǐ <em>shì</em> <strong>zěnme</strong> huí <em>de</em> jiā?</span><span class="trans">How did you come back yesterday?</span></li>
+<li><span class="speaker">B:</span> 昨天 我 <em>是</em> <strong>打车</strong> 回 家 <em>的</em> 。<span class="pinyin">Zuótiān wǒ <em>shì</em> <strong>dǎchē</strong> huíjiā <em>de</em>.</span><span class="trans">I went home by taxi yesterday.</span></li>
+</ul>
+
+</div>
+
+It's correct to put the 的 before ''or'' after the 家 in both of those sentences.
+
+== Used for Indicating Purpose or Intent ==
+
+=== Structure ===
+
+When explaining "what you came for" or "what you want to do," it's common to use yet [[Indicating purpose or intent using "shi...de|another type of 是⋯⋯的 construction]].  
+
+<div class="jiegou">
+Person + 是 + 来 / 去 + Verb + 的
+</div>
+
+When expressing a purpose, 是 and 的 are often used together with 用来, especially when the subject is a thing.
+
+<div class="jiegou">
+Thing + 是 + 用来 + Verb + 的
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我 <em>是</em> <strong>来</strong> 实习 <em>的</em> 。<span class="pinyin">Wǒ <em>shì</em> <strong>lái</strong> shíxí <em>de</em>.</span><span class="trans">I came here to do an internship.</span>
+*钱 <em>是</em> <strong>用来</strong> 花 <em>的</em> ，不 <em>是</em> <strong>用来</strong> 省 <em>的</em> 。<span class="pinyin">Qián <em>shì</em> <strong>yònglái</strong> huā <em>de</em>,  bù <em>shì</em> <strong>yònglái</strong> shěng <em>de</em>.</span><span class="trans">Money is for spending, not for saving.</span>
+
+</div>
+
+== Used for Talking about What People Do == 
+
+This pattern can also be used to talk about what kind of work people do:
+
+<div class="liju">
+
+<ul class="dialog">
+<li><span class="speaker">A:</span> 我 <em>是</em> <strong>教 汉语</strong> <em>的</em> 。你 <em>是</em> <strong>做 什么</strong> <em>的</em> ？<span class="pinyin">Wǒ <em>shì</em> <strong>jiāo Hànyǔ</strong> <em>de</em>. Nǐ <em>shì</em> <strong>zuò shénme</strong> <em>de</em>?</span><span class="trans">I teach Chinese. What kind of work do you do?</span></li>
+<li><span class="speaker">B:</span> 我 <em>是</em> <strong>送 外卖</strong> <em>的</em> 。<span class="pinyin">Wǒ <em>shì</em> <strong>sòng wàimài</strong> <em>de</em>.</span><span class="trans">I'm a take-out delivery guy.</span></li>
+</ul>
+
+</div>
+
+== Used for a Tone of Strong Affirmation ==
+
+Sometimes you can use 的 to really add a kick to your responses, making them stronger. You might even hear Chinese people reply with just 是的 which means "That's right." This usage is similar to the way that English speakers might stress the word "is" in sentences like "It ''is'' my food." When used to express affirmation, 会, 能, and 可以 are often used as well. Again, the 是 is optional.
+
+<div class="liju">
+
+*这个 东西 <em>是</em> <strong>可以</strong> 吃 <em>的</em> 。<span class="pinyin">Zhège dōngxi <em>shì</em> <strong>kěyǐ</strong> chī <em>de</em>.</span><span class="trans">This thing is edible.</span>
+*我 <strong>会</strong> 去 <em>的</em> 。<span class="pinyin">Wǒ <strong>huì</strong> qù <em>de</em>.</span><span class="trans">I will go.</span>
+*我们 <strong>能</strong> 做到 <em>的</em> 。<span class="pinyin">Wǒmen <strong>néng</strong> zuòdào <em>de</em>.</span><span class="trans">We can do it.</span>
+
+</div>
+
+== See also ==
+
+* [[Modifying nouns with phrase + de]]
+* [[Expressing possession]]
+* [[The "shi... de" construction for emphasizing details]]
+* [[The "shi... de" construction for indicating purpose]]
+
+== Sources and Further Reading ==
+
+=== Books ===
+
+{{Source|Structures of Mandarin Chinese for speakers of English 中文语法快易通：句型结构|125}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|233-5}}
+{{Source|Basic Patterns of Chinese Grammar|54}}
+{{Source|A Practical Chinese Grammar For Foreigners (外国人实用汉语语法)|222-5}}
+
+[[Category:Structures]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|是|B1|是⋯⋯ 的|你 <em>是</em> 哪个 学校 <em>的</em> ？|grammar point|ASG8YTSF}}
+{{Similar|The "shi... de" construction for emphasizing details}}
+{{Similar|The "shi... de" construction for indicating purpose}}
+{{Similar|Using "de" (modal particle)}}
+{{Used for|Emphasizing}}
+{{Rel char|的}}
+{{Structure|Sentence Patterns}}

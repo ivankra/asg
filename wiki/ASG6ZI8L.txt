@@ -1,0 +1,62 @@
+<!-- Expressing "no matter" with "wulun" -->
+{{Grammar Box}} 
+无论 (wúlùn)  means "no matter," and is generally used in the first part of the sentence. As with many other constructions, 都 and 也 can be used in the second part of the sentence to emphasize the action or decision will not change. It is more formal than [["No Matter" with "buguan"|不管]].
+
+==Structure==
+
+<div class="jiegou">
+
+无论 + Circumstances + 都 / 也 + Inevitable Result
+
+</div>
+
+Note that 不论 (bùlùn) is equivalent to 无论 for this pattern.
+
+Because 无论 means "no matter," the clause that follows 无论 is going to include phrases such as "how hard you try" or "wherever you go," and thus will normally include interrogative pronouns such as 怎么, 多(么), 什么, 谁, etc.
+
+==Examples==
+
+<div class="liju">
+* <em>无论</em> 多么 成功，他 <em>总</em> 觉得 自己 不够 好。<span class="pinyin"><em>Wúlùn</em> duōme chénggōng, tā <em>zǒng</em> juéde zìjǐ bù gòu hǎo.</span><span class="trans">No matter how successful he is, he always thinks he isn't enough.</span>
+* <em>无论</em> 你 到 哪儿 我 <em>都</em> 会 跟着 你。<span class="pinyin"><em>Wúlùn</em> nǐ dào nǎr wǒ <em>dōu</em> huì gēnzhe nǐ.</span><span class="trans">Wherever you go, I will follow you.</span>
+* <em>无论</em> 你 说 还是 不 说，结果 <em>都</em> 一样。<span class="pinyin"><em>Wúlùn</em> nǐ shuō háishì bù shuō, jiéguǒ <em>dōu</em> yīyàng.</span><span class="trans">Whether you speak up or not, the result will be the same.</span>
+* <em>无论</em> 你 做 什么，我 <em>都</em> 不 喜欢。<span class="pinyin"><em>Wúlùn</em> nǐ zuò shénme, wǒ <em>dōu</em> bù xǐhuan.</span><span class="trans">No matter what you do, I don't like it.</span>
+* <em>无论</em> 给 他 发 多少 消息，他 <em>都</em> 不 回。<span class="pinyin"><em>Wúlùn</em> gěi tā fā duōshǎo xiāoxi, tā <em>dōu</em> bù huí.</span><span class="trans">No matter how many messages you send him, he won't reply.</span>
+* <em>无论</em> 你 想 不 想，你 <em>都</em> 要 加班。<span class="pinyin"><em>Wúlùn</em> nǐ xiǎng bu xiǎng, nǐ <em>dōu</em> yào jiābān.</span><span class="trans">You have to work overtime whether you want to or not.</span>
+* <em>无论</em> 我 在 不 在 家，你 <em>都</em> 可以 把 快递 放 门口。<span class="pinyin"><em>Wúlùn</em> wǒ zài bu zài jiā, nǐ <em>dōu</em> kěyǐ bǎ kuàidì fàng ménkǒu.</span><span class="trans">Whether I'm at home or not, you can leave the package at the door.</span>
+* <em>无论</em> 他 吃 多少 药，病 <em>都</em> 没有 好。<span class="pinyin"><em>Wúlùn</em> tā chī duōshǎo yào, bìng <em>dōu</em> méiyǒu hǎo.</span><span class="trans">No matter how much medicine he takes, he doesn't get better.</span>
+* <em>无论</em> 你 去 不 去，我 <em>都</em> 会 去 的。<span class="pinyin"><em>Wúlùn</em> nǐ qù bu qù, wǒ <em>dōu</em> huì qù de.</span><span class="trans">Whether you go or not, I will go.</span>
+* <em>无论</em> 怎么样，他 <em>都</em> 会 放弃，别 高估 他。<span class="pinyin"><em>Wúlùn</em> zěnmeyàng, tā <em>dōu</em> huì fàngqì, bié gāogū tā.</span><span class="trans">No matter what happens, he will give up. Don't overestimate him.</span>
+</div>
+
+无论如何 (wúlùn rúhé) is a useful set phrase, meaning "no matter what."
+
+==See also==
+*[["No matter" with "buguan"]]
+*[[Expressing "anyway" as "fanzheng"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4下|6}}
+{{Source|Basic Patterns of Chinese Grammar|79-80}} 
+{{Source|Boya Chinese Upper Intermediate 1 (博雅汉语中级冲刺篇)|115}}
+{{Source|Integrated Chinese: Level 2, Part 1|116-7}}
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|145}} 
+{{Source|现代汉语八百词（增订本）|560}}
+{{Source|卓越汉语－公司实战篇|180}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课下册）|556}}
+
+[[Category: B2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|不论|B2|无论 / 不论⋯⋯，都 / 也⋯⋯|<em>无论</em> 天 多 热 ， <em>都</em> 要 坚持 。|grammar point|ASG6ZI8L}}
+{{Rel char|无论}}
+{{Rel char|都}}
+{{Rel char|也}}
+{{Similar|"No Matter" with "buguan"}}
+{{Similar|Expressing "Anyway" as "fanzheng"}}
+{{Used for|Expressing attitude}}
+{{Used for|Indicating conditions}}
+{{Structure|"No Matter" Statements}}
+{{Used for|Expressing determination}}

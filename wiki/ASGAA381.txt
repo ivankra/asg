@@ -1,0 +1,38 @@
+<!-- Expressing "even so" with "zaibu... ye..." -->
+{{stub}}
+{{Grammar Box}} 
+再不…… 也…… (zàibù... yě...)!
+
+== Structure ==
+
+<div class="jiegou">
+(Subj. +) 再不 …… 也 ……（了）
+</div>
+
+== Examples ==
+
+Note that there is a sense of urgency in each of these sentences, even if the word 现在 isn't present. That's why an implied "now" has been added in for some English translations.
+
+<div class="liju">
+* <em>再 不</em> 走，我 <em>也</em> 。<span class="pinyin"><em>zài bù</em> <em>yě</em></span><span class="trans"></span>
+</div>
+
+== See Also ==
+
+* [[Again in the future with "zai"]]
+* [[Expressing "never again" with "zai ye bu"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+[[Category:C1 grammar points]]
+[[Category: Adverbs]]
+
+{{Basic Grammar|再不|C1|再不…… 也……|<em>再不</em> <em>也</em>。|grammar point|ASGAA381}}
+{{Rel char|也}}
+{{Similar|Again in the future with "zai"}}
+{{Similar|Expressing "never again" with "zai ye bu"}}
+{{POS|Adverbs}}
+{{Translation|if}}
+{{Translation|even}}

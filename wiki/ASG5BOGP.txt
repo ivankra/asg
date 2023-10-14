@@ -1,0 +1,64 @@
+<!-- Expressing "not often" with "bu zenme" -->
+{{Grammar Box}} 
+
+You might be tempted to conclude that 不怎么 (bù zěnme) seems to mean "not how," but it actually means "not often" when used together with a verb.
+
+== Structure ==
+
+When 不怎么 is used with a verb, it means that one does not put a lot of time or energy into doing it. In other words, the action is done "not often." When the verb is used with an object, it also means that the number (or quantity) is really small. 
+
+<div class="jiegou">
+Subj. + 不怎么 + Verb
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*他 <em>不怎么</em> 爱 说话 。<span class="pinyin">Tā <em>bù zěnme</em> ài shuōhuà.</span><span class="trans">He doesn't like to talk much.</span>
+*我 老公 <em>不怎么</em> 运动 。<span class="pinyin">Wǒ lǎogōng <em>bù zěnme</em> yùndòng.</span><span class="trans">My husband doesn't exercise much.</span>
+*我们 在家 <em>不怎么</em> 看 电视 。<span class="pinyin">Wǒmen zài jiā <em>bù zěnme</em> kàn diànshì.</span><span class="trans">We don't watch a lot of television at home.</span>
+*我 儿子 <em>不怎么</em> 吃 零食 。<span class="pinyin">Wǒ érzi <em>bù zěnme</em> chī língshí.</span><span class="trans">My son doesn't snack much.</span>
+*老板 <em>不怎么</em> 来 办公室 。<span class="pinyin">Lǎobǎn <em>bù zěnme</em> lái bàngōngshì.</span><span class="trans">My boss doesn't come to the office very often.</span>
+*我 <em>不怎么</em> 在 网上 买 东西 。<span class="pinyin">Wǒ <em>bù zěnme</em> zài wǎngshàng mǎi dóngxi.</span><span class="trans">I don't online shop very often.</span>
+*他们 <em>不怎么</em> 跟 朋友 出去 玩 。<span class="pinyin">Tāmen <em>bù zěnme</em> gēn péngyou chūqù wán.</span><span class="trans">They don't often go out with friends.</span>
+
+</div>
+
+== Usage of 没怎么 ==
+
+Note that the examples below use 没 instead of 不. This is because the verb uses or implies 有 and  thus it uses the same [[Negation_of_"you"| the 有 negation rules]].
+
+<div class="liju">
+
+*我 <em>没 怎么</em> 复习 。<span class="pinyin">Wǒ <em>méi zěnme</em> fùxí.</span><span class="trans">I didn't review much.</span>
+*我 <em>没 怎么</em> 想 过 这个 问题 。<span class="pinyin">Wǒ <em>méi zěnme</em> xiǎng guo zhège wèntí.</span><span class="trans">I didn't really think about this before.</span>
+*昨天 我 肚子 不 舒服 ，<em>没 怎么</em> 吃 东西 。<span class="pinyin">Zuótiān wǒ dùzi bù shūfu, <em>méi zěnme</em> chī dōngxi.</span><span class="trans">My stomach didn't feel well yesterday, so I didn't eat much.</span>
+
+</div>
+
+Lastly, make sure to use 不怎么 with a verb if you want it to mean "not often." Using it with an adjective gives it a [["Not_very"_with_"bu_zenme" | different meaning]].
+
+== See also ==
+
+* [[How to do something with "zenme"]]
+* [[Asking why with "zenme"]]
+* [["Not very" with "bu zenme"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Short-term Spoken Chinese: Elementary (汉语口语速成基础篇)|139}}
+{{Source|现代汉语八百词|652}}
+
+{{Basic Grammar|不怎么|B1|不怎么 + Verb|我 儿子 <em>不怎么</em> 吃 零食 。|grammar point|ASG5BOGP}}
+{{HSK|HSK0}}
+{{Rel char|不}}
+{{Rel char|怎么}}
+{{Used for|Expressing frequency}}
+{{Similar|How to do something with "zenme"}}
+{{Similar|Asking why with "zenme"}}
+{{Similar|"Not very" with "bu zenme"}}
+{{POS|Verbs}}
+{{Subprop|Verb phrases}}

@@ -1,0 +1,72 @@
+<!-- "In order to avoid" with "yimian" -->
+{{Grammar Box}} 
+
+In written Chinese, many phrases are shortened or simplified. In this article, we will look at how 以免 is used, which can be considered the shortened form of 以便避免, meaning "in order to avoid."
+
+== Structure with a verb phrase ==
+
+In this grammar structure, the first clause brings up a reminder or a warning, and then the second clause starts of with 以免 (in order to) and tells the consequence of what happens if  the reminder or warning is ignored. 
+
+<div class="jiegou">
+
+以免 + Verb Phrase
+
+</div> 
+
+===Examples===
+
+<div class="liju">
+
+* 这儿 有 高压电线，请 不要 靠近，<em>以免</em> 发生 危险。
+* 加强 安全 措施，<em>以免</em> 发生 工伤事故。
+* 行人 和 车辆 必须 严格 遵守 交通法规，<em>以免</em> 发生交通事故。
+
+</div>
+
+Make sure that 以免 is not used with a single verb or adjective. It must be used with a complete verb phrase. 
+
+<div class="liju">
+
+<ul>
+<li class="x"> 你 赶紧 走，<em>以免</em> 晚 。</li>
+<li class="o"> 你 赶紧 走，<em>以免</em> 晚 <em>了</em>。</li>
+<li class="x"> 快 抓住 那个 坏人，<em>以免</em> 跑。</li>
+<li class="o"> 快 抓住 那个 坏人，<em>以免</em> 跑 <em>了</em>。</li>
+</ul>
+</div>
+
+== Structure with a sentence ==
+
+以免 can also be used with a sentence after it, with its own subject and predicate. 
+
+<div class="jiegou">
+
+以免 + Sentence
+
+</div> 
+
+===Examples===
+
+<div class="liju">
+
+* 他们 努力 训练，<em>以免</em> 在 比赛中 输 了。
+* 你 赶紧 解释 一下，<em>以免</em> 她 伤心。
+* 不要 在 河边 玩耍，<em>以免</em> 你 掉到 河里。
+
+</div>
+
+==See also==
+== Sources and  further reading ==
+
+=== Books ===
+* [[实用现代汉语语法]](P.349) [http://www.amazon.cn/mn/detailApp?_encoding=UTF8&tag=allset-23&linkCode=as2&asin=B003YJGCSS&camp=536&creative=3132&creativeASIN=B003YJGCSS →buy]
+* [[现代汉语八百词]](P.489) [http://www.amazon.cn/mn/detailApp?_encoding=UTF8&tag=allset-23&linkCode=as2&asin=B001198GSW&camp=536&creative=3132&creativeASIN=B001198GSW →buy]
+
+=== Websites ===
+* [http://www.xzbu.com/9/view-7142699.htm]
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|以免|C1|以免 + Verb Phrase|这儿 有 高压电线，请 不要 靠近，<em>以免</em> 发生 危险。|grammar point|ASG0A67E}}
+{{Rel char|以}}
+{{POS|Conjunctions}}
+{{Used for|Expressing a central concept}}

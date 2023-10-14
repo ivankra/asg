@@ -1,0 +1,74 @@
+<!-- Negation of past actions with "meiyou" -->
+{{Grammar Box}} 
+
+Use 没有 (méiyǒu) to negate past actions (to say that someone ''didn't do'' something, or something ''didn't happen'').
+
+== Structure ==
+
+Usually verbs can be [[Standard negation with bu|negated with 不 (bù)]], but that construction is used for habitual or present actions. If the verb is about an action '''in the past''', though, 没有 (méiyǒu) should be used:
+
+<div class="jiegou">
+Subj. + 没有 / 没 + Verb
+</div>
+
+Note that you can shorten 没有 (méiyǒu) to just 没 (méi).
+
+== Examples ==
+
+<div class="liju">
+
+*我 <em>没有</em> 去 上班。<span class="pinyin">Wǒ <em>méiyǒu</em> qù shàngbān.</span><span class="trans">I didn't go to work.</span>
+*他们 <em>没有</em> 说话。<span class="pinyin">Tāmen <em>méiyǒu</em> shuōhuà.</span><span class="trans">They didn't speak.</span>
+*我 <em>没有</em> 喝 你 的 啤酒。<span class="pinyin">Wǒ <em>méiyǒu</em> hē nǐ de píjiǔ.</span><span class="trans">I didn't drink your beer.</span>
+*她 <em>没有</em> 看到 你。<span class="pinyin">Tā <em>méiyǒu</em> kàndào nǐ.</span><span class="trans">She didn't see you.</span>
+*我 <em>没有</em> 吃 早饭。<span class="pinyin">Wǒ <em>méiyǒu</em> chī zǎofàn.</span><span class="trans">I didn't eat breakfast.</span>
+*宝宝 <em>没</em> 哭。<span class="expl">有 has been omitted here.</span><span class="pinyin">Bǎobao <em>méi</em> kū.</span><span class="trans">The baby didn't cry.</span>
+*你 昨天 <em>没</em> 回家 吗？<span class="pinyin">Nǐ zuótiān <em>méi</em> huíjiā ma?</span><span class="trans">You didn't go back home yesterday?</span>
+*老板 今天 <em>没</em> 来 吗？<span class="pinyin"> Lǎobǎn jīntiān <em>méi​</em> lái ma?</span><span class="trans">The boss didn't come today?</span>
+*老师 今天 <em>没</em> 生气 。<span class="pinyin"> Lǎoshī jīntiān <em>méi</em> shēngqì.</span><span class="trans">The teacher didn't get angry today.</span>
+*妈妈 晚上 <em>没</em> 做饭。<span class="pinyin"> Māma wǎnshang <em>méi</em> zuòfàn.</span><span class="trans">Mom didn't cook food this evening.</span>
+
+</div>
+
+== Go Easy on the 了 (le) ==
+
+One thing you need to remember when using 没有 (méiyǒu) is that '''了 (le) is not normally used with 没有 (méiyǒu)'''. [[了|了 (le)]] marks completed actions, while 没有 (méiyǒu) is used for actions that ''didn't happen'' (so of course they're not completed). These two don't work together. This is a very common mistake for beginner learners of Chinese.
+
+<div class="liju">
+<ul>
+<li class="x">我 <em>没有</em> 做 <strong>了</strong> 。<span class="pinyin">Wǒ <em>méiyǒu</em> zuò <strong>le</strong>.</span></li>
+<li class="o">我 <em>没有</em> 做。<span class="pinyin">Wǒ <em>méiyǒu</em> zuò.</span><span class="trans">I didn't do it.</span></li>
+</ul>
+</div>
+
+==See also==
+
+*[[Negation of "you"]]
+*[[Standard negation with "bu"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|74}}
+{{Source|Practicing HSK Grammar (语法精讲精炼)|32}}
+{{Source|现代汉语八百词（增订本）]] |383}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|138-9}}
+
+===Videos===
+
+* Yoyo Chinese: [https://www.youtube.com/watch?v=oMaE2w7C5qI&list=PL94A5E422FB99CDDD&index=12 Negation with 没]
+
+[[Category:A1 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+[[Category:Verbs]]
+[[Category:Adverbs]]
+{{Used for|Denying and refusing}}
+{{Used for|Referring to the past}}
+{{Basic Grammar|没|A1|没有 + Verb|我 <em>没有</em> 去 酒吧。|grammar point|ASGAUCXK}}
+{{Rel char|没有}}
+{{Similar|Negation of "you"}}   
+{{Similar|Standard negation with bu}}
+{{Similar|Comparing "bu" and "mei"}}
+{{POS|Verbs}}
+{{Subprop|Verb phrases}}

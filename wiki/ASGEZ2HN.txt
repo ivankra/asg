@@ -1,0 +1,71 @@
+<!-- Expressing passive voice with "gei" -->
+{{Grammar Box}}
+给 can be used in passive voice constructions. It can either directly replace [[Using "bei" sentences|被]] or be used together with 被. Compared with 被, 给 is more colloquial and is not used in written language.
+
+== Only using 给 ==
+
+=== Structure ===
+
+给 can directly replace 被 in the [[Using "bei" sentences|original passive pattern]].
+
+<div class="jiegou">
+Receiver + 给 + The Doer + Verb Phrase
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我 <em>给</em> 他 骗 了。<span class="pinyin">Wǒ <em>gěi</em> tā piàn le.</span><span class="trans">I got scammed by him.</span>
+*这么 好 的 机会 <em>给</em> 你 浪费 了。<span class="pinyin">Zhème hǎo de jīhuì <em>gěi</em> nǐ làngfèi le.</span><span class="trans">Such a great opportunity has been wasted by you.</span>
+*菜 都 <em>给</em> 你们 吃 完了 吗？<span class="pinyin">Cài dōu <em>gěi</em> nǐmen chī wán le ma?</span><span class="trans">All the food has been finished off by you guys?</span>
+*孩子 都 <em>给</em> 你 宠 坏 了。<span class="pinyin">Háizi dōu <em>gěi</em> nǐ chǒng huài le.</span><span class="trans">That kid is totally spoiled by you.</span>
+*这里 的 水 都 <em>给</em> 污染 了。<span class="pinyin">Zhèlǐ de shuǐ dōu <em>gěi</em> wūrǎn le.</span><span class="trans">The water here is all polluted.</span>
+
+</div>
+
+== Using 给 with 被 ==
+
+When using 给 in the passive voice, you can also use it with 被. In this structure 给 gives emphasis to the passive voice. You can find more information at: [[Advanced uses of "bei"|Advanced uses of 被]].
+
+=== Structure ===
+
+<div class="jiegou">
+Receiver + 被 + The Doer + 给 + Verb Phrase
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我 的 电脑 <em>被</em> 小明 <em>给</em> 弄坏 了。<span class="pinyin">Wǒ de diànnǎo <em>bèi</em> Xiǎo Míng <em>gěi</em> nòng huài le.</span><span class="trans">My computer was broken by Xiao Ming.</span>
+*妹妹 <em>被</em> 这个 电影 <em>给</em> 吓哭 了。<span class="pinyin">Mèimei <em>bèi</em> zhège diànyǐng <em>gěi</em> xià kū le.</span><span class="trans">My younger sister was scared to tears by this movie.</span>
+*大家 都 <em>被</em> 这个 新闻 <em>给</em> 吸引 了。<span class="pinyin">Dàjiā dōu <em>bèi</em> zhège xīnwén <em>gěi</em> xīyǐn le.</span><span class="trans">Everyone was attracted by the news.</span>
+*手机 不要 <em>被</em> 小偷 <em>给</em> 偷走 了。<span class="pinyin">Shǒujī bùyào <em>bèi</em> xiǎotōu <em>gěi</em> tōu zǒu le.</span><span class="trans">Don't let your cell phone get stolen by a thief.</span>
+*别 <em>被</em> 父母 <em>给</em> 说服 了，你 要 坚持 自己 的 想法。<span class="pinyin">Bié <em>bèi</em> fùmǔ <em>gěi</em> shuōfú le, nǐ yào jiānchí zìjǐ de xiǎngfǎ.</span><span class="trans">Don't be persuaded by parents! You need to stick to your own ideas.</span>
+</div>
+
+==See also==
+
+* [[Bei sentence]]
+* [[Advanced uses of "bei"|Advanced uses of 被]]
+* [[Passive verbs with "shou"]]
+* [[Ba sentence]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|现代汉语虚词例释|196}}
+
+=== Dictionaries ===
+
+* [[现代汉语词典（第5版）]](p. 464)[http://www.amazon.cn/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E8%AF%8D%E5%85%B8/dp/B001B1RZCI/ref=sr_1_1?ie=UTF8&qid=1345693609&sr=8-1 →buy]
+
+[[Category:B2 grammar points]]
+{{Basic Grammar|给|B2|Receiver + 给 + The Doer + 给 + Verb Phrase|事情 <em>给</em> 解决 了 吗？|grammar point|ASGEZ2HN}}
+{{Rel char|被}}
+{{Similar|Bei sentence}}
+{{Similar|Advanced uses of "ba"}}
+{{Used for|Expressing passive voice}}
+{{POS|Prepositions}}

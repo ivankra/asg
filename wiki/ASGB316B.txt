@@ -1,0 +1,51 @@
+<!-- Expressing "as if" with "sihu" -->
+{{Grammar Box}} 
+{{stub}} 
+
+副词，意思接近“好像”。用法也比较接近。“好像”比较口语，比较书面语。
+
+== Structure ==
+
+<div class="jiegou">
+Subj. + 似乎 ⋯⋯
+</div>
+
+"似乎"可以用于表示不十分肯定的判断或推测。
+
+== Examples ==
+
+<div class="liju">
+
+*老板 今天 <em>似乎</em> 不太 高兴 。<span class="trans">The boss seems a little upset today.</span>
+*你 说 得 <em>似乎</em> 很 有道理 。<span class="trans">What you said seems to make a lot of sense.</span>
+*他 <em>似乎</em> 明白 这句话 的 意思 ，却 又 说不清楚 。<span class="trans">He seems to understand the meaning of that sentence while he couldn't explain well.</span>
+*她 <em>似乎</em> 隐瞒 了 什么 。<span class="trans">She seems to be hiding something.</span>
+*<em>似乎</em> 没有人 关心 那个 小男孩 。<span class="trans">It seems that nobody cares about that little boy.</span>
+
+</div>
+
+也可以用于表示一件事看起来如此，但事实相反或不同。
+
+<div class="liju">
+
+*她 <em>似乎</em> 才 三十 出头 ，但 其实 已经 快 五十 了 。<span class="trans">It seems that she's only in her early thirties while she's already about fifty.</span>
+*我 男朋友 <em>似乎</em> 冷冷 的 ，其实 他 很 热情 。<span class="trans">My boyfriend seems a little cold, but he's actually very warm-hearted.</span>
+
+</div>
+
+== See also ==
+
+*[[Expressing "it seems" with "haoxiang"]]
+*[[Appearance with "kanqilai"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|似乎|C1|Subj. + 似乎 ⋯⋯|你 说 得 <em>似乎</em> 很 有道理 。|grammar point|ASGB316B}}
+{{Similar|Expressing "it seems" with "haoxiang"}}
+{{Similar|Appearance with "kanqilai"}}
+{{Used for|Expressing attitude}}
+{{POS|Adverbs}}
+{{Translation|as if}}

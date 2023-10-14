@@ -1,0 +1,72 @@
+<!-- Expressing "anyway" with "fanzheng" -->
+{{Grammar Box}} 
+
+Lovers of the word "anyways" in English, rejoice! The word 反正 (fǎnzhèng) works essemtially the same way. It means "anyhow," or "regardless," and is used to disregard a previous statement, particularly those involving options or choices. 
+
+== 反正 as "No Matter What" ==
+
+=== Structure ===
+
+You can put 反正 in the sentence after a comma or pause, similar to how we use "anyway" in English. It can be used with "不管."
+
+<div class="jiegou">
+[Disregarded Situation] ， 反正 ⋯⋯
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*不管 他 去 不 去 ，<em>反正</em> 我 要 去 。<span class="pinyin">Bùguǎn tā qù bu qù, <em>fǎnzhèng</em> wǒ yào qù.</span><span class="trans">Regardless of whether he's going or not, I'm going anyway.</span>
+*不管 你 信 不 信 ，<em>反正</em> 我 信 。<span class="pinyin">Bùguǎn nǐ xìn bu xìn, <em>fǎnzhèng</em> wǒ xìn.</span><span class="trans">No matter whether you believe this or not, I believe it anyway.</span>
+*不管 他 爸爸 是 谁 ，<em>反正</em> 我 要 告 他 。<span class="pinyin">Bùguǎn tā bàba shì shéi, <em>fǎnzhèng</em> wǒ yào gào tā.</span><span class="trans">No matter who his father is, I'm going to sue him anyway.</span>
+*随便 别人 怎么 想 ，<em>反正</em> 我 无所谓。<span class="pinyin">Suíbiàn biérén zěnme xiǎng, <em>fǎnzhèng</em> wǒ wúsuǒwèi.</span><span class="trans">Other people can think whatever they want. I don't really care what people think.</span>
+*说 不 说 都 一样 ，<em>反正</em> 没有 人 会 听 我 的 。<span class="pinyin>Shuō bu shuō dōu yīyàng, <em>fǎnzhèng</em> méiyǒu rén huì tīng wǒ de.</span><span class="trans">Whether I speak or not, it's all the same. Nobody is going to listen to me anyway.</span>
+
+</div>
+
+== 反正 to Emphasize a Reason ==
+
+=== Structure ===
+
+反正, in this case, is used to convey a certainty or resolution. It‘s similar to [[Expressing "since" with "jiran"|既然 (jìrán)]]. 反正 goes at the beginning of the clause introducing the reason, but that clause can come first or second in the sentence. (既然 is not quite so flexible.)
+
+<div class="jiegou">
+反正 + Reason ，Decision / Suggestion
+</div>
+
+<div class="jiegou">
+Decision / Suggestion ，反正 + Reason
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>反正</em> 他们 不 来 了，咱们 自己 去 吧。<span class="pinyin"><em>Fǎnzhèng</em> tāmen bù lái le, zánmen zìjǐ qù ba.</span><span class="trans">They are not coming anyway, so let's just go by ourselves.</span>
+*我 就 送 给 你 吧 。 <em>反正</em> 我 也 不 需要。<span class="pinyin">Wǒ jiù sòng gěi nǐ ba. <em>Fǎnzhèng</em> wǒ yě bù xūyào.</span><span class="trans">I'll just give it to you. I don't need it anyway.</span>
+*<em>反正</em> 我 家 够 大，你们 今晚 都 住 这儿 吧。<span class="pinyin"><em>Fǎnzhèng</em> wǒ jiā gòu dà, nǐmen jīn wǎn dōu zhù zhèr ba.</span><span class="trans">My house is big enough, you can all stay here tonight.</span>
+*你 还 怕 什么？<em>反正</em> 大家 都 知道 了 。<span class="pinyin">Nǐ hái pà shénme? <em>Fǎnzhèng</em> dàjiā dōu zhīdào le.</span><span class="trans">What are you still afraid of? Everybody knows about it now anyway.</span>
+*<em>反正</em> 可以 刷卡 ，没有 现金 没什么 大不了 的 。<span class="pinyin"><em>Fǎnzhèn</em> kěyǐ shuākǎ, méiyǒu xiànjīn méi shénme dàbuliǎo de.</span><span class="trans">Anyway, we can just use a credit card. It’s no big deal to have no cash.</span>
+
+</div>
+
+== See Also ==
+
+*[["No matter" with "wulun"]]
+*[["No matter" with "buguan"]]
+*[[Expressing "since" with "jiran"]]
+
+== Sources and further reading ==
+
+=== Books ===
+{{Source|New Practical Chinese Reader 6 (新实用汉语课本6)|209}}
+{{Source|Short-term Spoken Chinese: Elementary (汉语口语速成基础篇)|139-140}}  
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|反正|B2|反正|随便 你 信 不 信 ， <em>反正</em> 我 不 信 。|grammar point|ASGZVM27}}
+{{Similar|"No Matter" with "wulun"}}
+{{Similar|"No Matter" with "buguan"}}
+{{POS|Adverbs}}
+{{Used for|Expressing determination}}
+{{Used for|Expressing attitude}}

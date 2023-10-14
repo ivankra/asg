@@ -1,0 +1,103 @@
+<!-- Expressing "how often" -->
+{{Grammar Box}} 
+
+Asking "how often" is one of those things that seems so simple in English but relatively complicated in Chinese. The way to ask in Chinese is, literally, "how long of a time" (do something) "one time." So you'll need the phrases 多长时间 (duō cháng shíjiān) and 一次 (yī cì).
+
+== Asking About Frequency ==
+
+In English you let the person answering the question decide both the length of time and how many times an action is done within that timeframe. So if you ask "how often," you might get an answer like "twice a week." But in Chinese, the frequency is fixed at "once" as part of the question. That actually won't stop people from answering "twice a week" in Chinese, though; it's just how the question is normally phrased in Chinese.
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 多长时间 + Verb + 一次 (+ Obj.)
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+<ul>
+<li class="x">你 <em>多 长 时间</em> 踢球 <em>一 次</em> ？<span class="pinyin">Nǐ <em>duō cháng shíjiān</em> tīqiú <em>yī cì</em>?</span>
+<li class="o">你 <em>多 长 时间</em> 踢 <em>一 次</em> 球 ？<span class="pinyin">Nǐ <em>duō cháng shíjiān</em> tī <em>yī cì</em> qiú?</span><span class="trans">How often do you play soccer?</span></li>
+</ul>
+
+<ul>
+<li class="x">你 <em>多 长 时间</em> 剪 头发 <em>一 次</em> ？<span class="pinyin">Nǐ <em>duō cháng shíjiān</em> jiǎn tóufa <em>yī cì</em>?</span>
+<li class="o">你 <em>多 长 时间</em> 剪 <em>一 次</em> 头发 ？<span class="pinyin">Nǐ <em>duō cháng shíjiān</em> jiǎn <em>yī cì</em> tóufa?</span><span class="trans">How often do you cut your hair?</span></li>
+</ul>
+
+<ul>
+<li class="x">你 <em>多 长 时间</em> 刮 胡子 <em>一 次</em> ？<span class="pinyin">Nǐ <em>duō cháng shíjiān</em> guā húzi <em>yī cì</em>?</span>
+<li class="o">你 <em>多 长 时间</em> 刮 <em>一 次</em> 胡子 ？<span class="pinyin">Nǐ <em>duō cháng shíjiān</em> guā <em>yī cì</em> húzi?</span><span class="trans">How often do you shave?</span></li>
+</ul>
+
+</div>
+
+== Talking About Frequency in General ==
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + [Length of Time]  + Verb + Times (+ Obj.)
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我 <em>一 周</em> 给 妈妈 打 <em>两 次</em> 电话 。<span class="pinyin">Wǒ <em>yī zhōu</em> gěi māma dǎ <em>liǎng cì</em> diànhuà.</span><span class="trans">I give mom a call twice a week.</span>
+*我们 公司 <em>一 周</em> 开 <em>一 次</em> 会 。<span class="pinyin">Wǒmen gōngsī <em>yī zhōu</em> kāi <em>yī cì</em> huì.</span><span class="trans">Our company holds one meeting per week.</span>
+*我 <em>两 个 月</em> 剪 <em>一 次</em> 头发 。<span class="pinyin">Wǒ <em>liǎng gè yuè</em> jiǎn <em>yī cì</em> tóufa.</span><span class="trans">I cut my hair every two months.</span>
+*我 的 手机 <em>两 天</em> 充 <em>一 次</em> 电 。<span class="pinyin">Wǒ de shǒujī <em>liǎng tiān</em> chōng <em>yī cì</em> diàn.</span><span class="trans">I charge my phone every two days.</span>
+*这 种 药 <em>四 个 小时</em> 吃 <em>一 次</em> 。<span class="pinyin">Zhè zhǒng yào <em>sì gè xiǎoshí</em> chī <em>yī cì</em>.</span><span class="trans">Take this medicine every four hours.</span>
+*你 应该  <em>半 年</em> 做 <em>一 次</em> 体检 。<span class="pinyin">Nǐ yīnggāi <em>bàn nián</em> zuò <em>yī cì</em> tǐjiǎn.</span><span class="trans">You should have a physical examination every half year.</span>
+
+</div>
+
+== When NOT to Use This Pattern ==
+
+The thing about using the pattern above is that it's expected that the activity is done ''regularly'', as part of a ''habit''.  If it's not an activity that's regularly engaged in, it's weird to use the pattern.  Consider the following examples:
+
+<div class="liju">
+
+<ul>
+<li class="q">你 <em>多 长 时间</em> 换 <em>一 个</em> 手机 ？<span class="pinyin">Nǐ <em>duō cháng shíjiān</em> huàn  <em>yī gè</em> shǒujī?</span><span class="trans">How often do you buy a new cell phone?</span></li>
+<li class="q">你 <em>多 长 时间</em> 加 <em>一 次</em> 班 ？<span class="pinyin">Nǐ <em>duō cháng shíjiān</em> jiā <em>yī cì</em> bān?</span><span class="trans">How often do you work overtime?</span></li>
+<li class="q">你 <em>多 长 时间</em> 吃 <em>一 次</em> 牛油果 ？<span class="pinyin">Nǐ <em>duō cháng shíjiān</em> chī <em>yī cì</em> niúyóuguǒ?</span><span class="trans">How often do you eat avocado?</span></li>
+</ul>
+
+</div>
+
+In these cases, the speaker is trying to get any idea of how often the other person does something, regardless of how regular or habitual it is.  In this case, just use 经常 (or similar) to ask about it.
+
+<div class="liju">
+
+<ul>
+<li class="o">你 <strong>经常</strong> 换 手机 吗 ？<span class="pinyin">Nǐ <em>jīngcháng</em> huàn shǒujī ma?</span><span class="trans">Do you often buy a new cell phone?</span></li>
+<li class="o">你 <strong>经常</strong> 加班 吗 ？<span class="pinyin">Nǐ <em>jīngcháng</em> jiābān ma?</span><span class="trans">Do you often work late?</span></li>
+<li class="o">你 <strong>很 少</strong> 吃 牛油果 吧 ？<span class="pinyin">Nǐ <em>hěnshǎo</em> chī niúyóuguǒ ba?</span><span class="trans">You rarely eat avocado, right?</span></li>
+</ul>
+
+</div>
+
+== See also ==
+
+*[[Pronoun "mei" for "every"]]
+*[[Expressing "every time" with "mei" and "dou"]]
+
+== Sources and  further reading ==
+
+=== Books ===
+
+[[Category:B1 grammar points]]
+{{HSK|HSK0}}
+{{Basic Grammar|每|B1|Subj. + 多长时间 + Verb + 一次 (+ Obj.)|你 <em>多长时间</em> 剪 <em>一 次</em> 头发 ？|grammar point|ASGCED31}}
+{{Rel char|多长时间}}
+{{Similar|Pronoun "mei" for "every"}}
+{{Similar|"every time" with "mei" and "dou"}}
+{{Used for| Expressing frequency}}
+{{Structure|Sentence Patterns}}
+{{Subprop|Basic/Simple Sentence Patterns}}
+{{Translation|how often}}
+{{Translation|times}}

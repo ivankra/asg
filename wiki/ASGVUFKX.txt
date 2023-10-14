@@ -1,0 +1,94 @@
+<!-- Modifying nouns with adjective + "de" -->
+{{Grammar Box}} 
+
+One of the best ways to use the common character 的 (de) is to spice up your [[noun]]s with [[adjective]]s. By using 的 (de), we can connect sassy adjectives to otherwise boring nouns. 
+
+==  With a Noun==
+
+=== Structure ===
+
+A very common way to modify nouns is to attach an adjective to them using 的 (de). 
+
+<div class="jiegou">
+
+Adj. + 的 + Noun
+
+</div>
+
+This structure comes up extremely frequently and is an easy way to attribute features to nouns. Occasionally you will see this 的 (de) omitted, but note that if the adjective has two characters (e.g. 漂亮 (piàoliang) or 高兴 (gāoxìng)), the 的 (de) is generally required.
+
+=== Examples ===
+
+<div class="liju">
+
+* <em>漂亮 的</em> 女孩儿 <span class="pinyin"><Em>piàoliang de</em> nǚháir</span><span class="trans">beautiful girl </span>
+* <em>辣 的</em> 菜 <span class="pinyin"><Em>là de</em> cài </span><span class="trans">spicy food </span>
+* <em>可爱 的</em> 宝宝 <span class="pinyin"><Em>kě'ài de</em> bǎobao</span><span class="trans">a cute baby </span>
+* 我 喜欢 <em>新鲜 的</em> 果汁 。 <span class="pinyin">Wǒ xǐhuan <em>xīnxiān de</em> guǒzhī.</span><span class="trans">I like fresh fruit juice.</span>
+* 他 常常 买 <em>便宜 的</em> 东西。 <span class="pinyin">Tā chángcháng mǎi <em>piányi de</em> dōngxi.</span><span class="trans">He often buys cheap stuff.</span>
+
+</div>
+
+== Without a Noun==
+
+=== Structure ===
+
+In some cases, it is possible to drop the noun from the pattern, and just use the adjective + 的 (de). This is kind of like saying "the big one" or "the red one" in English. In Chinese the 的 (de) serves the same purpose as the English word "one." By using this pattern, you can avoid repeating the same noun over and over again unnecessarily. Just be sure the other person is already clear which "one" you're referring to when using this pattern!
+
+<div class="jiegou">
+
+Adj. + 的
+
+</div>
+
+===Examples===
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span> 孩子 喜欢 吃 什么 东西 ？<span class="pinyin">Háizi xǐhuan chī shénme dōngxi?</span><span class="trans">What food do children like to eat?</span></li>
+<li><span class="speaker">B:</span> <em>甜 的</em> 。<span class="pinyin"> <em> Tián de</em>.</span><span class="trans">Sweet food.</span></li>
+</ul>
+<ul class="dialog">
+<li><span class="speaker">A:</span> 你 喜欢 哪 种 女孩？<span class="pinyin">Nǐ xǐhuan nǎ zhǒng nǚhái?</span><span class="trans">What kind of girls do you like?</span></li>
+<li><span class="speaker">B:</span> <em>漂亮 的</em>。<span class="pinyin"><em> Piàoliang de</em>.</span><span class="trans">Pretty ones.</span></li>
+</ul>
+<ul class="dialog">
+<li><span class="speaker">A:</span> 你 要 喝 冷 水 还是 热 水？<span class="pinyin">Nǐ yào hē lěng
+shuǐ háishì rè shuǐ ?</span><span class="trans">Do you want to drink cold or hot water?</span></li>
+<li><span class="speaker">B:</span> <em>冷 的</em>。<span class="pinyin"><em>Lěng de</em>.</span><span class="trans">Cold.</span></li>
+</ul>
+<ul class="dialog">
+<li><span class="speaker">A:</span> 你想 找 什么样 的 男朋友？<span class="pinyin">Nǐ xiǎng zhǎo shénmeyàng de nánpéngyou?</span><span class="trans">What kind of boyfriend do you want to find?</span></li>
+<li><span class="speaker">B:</span> <em>有钱 的</em>。<span class="pinyin"><em>Yǒuqián de</em>.</span><span class="trans">A rich one.</span></li>
+</ul>
+<ul class="dialog">
+<li><span class="speaker">A:</span>  你 不 喜欢 吃 什么 菜？<span class="pinyin">Nǐ bù xǐhuan chī shénme cài?</span><span class="trans">Which foods do you not like to eat?</span></li>
+<li><span class="speaker">B:</span> <em>辣 的</em>。<span class="pinyin"><em>Là de</em>.</span><span class="trans">Spicy ones.</span></li>
+</ul>
+</div>
+
+==See also==
+
+*[[Modifying nouns with phrase + de]]
+*[[Expressing possession]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Basic Patterns of Chinese Grammar|70-1}} 
+{{Source|Chinese: An Essential Grammar, Second Edition|37}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|191, 233}}
+{{Source|Yufa!|37}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|的|A2|Adj. + 的 + Noun|<em>好喝 的</em> 啤酒 / <em>可爱 的</em> 宝宝|grammar point|ASGVUFKX}}
+{{Similar|Modifying nouns with phrase + de}}  
+{{Similar|Expressing possession}}
+{{Similar|Turning adjectives into adverbs}}
+{{POS|Adverbs with Adjectives}}
+{{Used for|Expressing quality}}
+{{Used for|Describing places}}
+{{Used for|Describing things}}
+{{Used for|Describing people}}

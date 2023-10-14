@@ -1,0 +1,59 @@
+<!-- Explaining purpose with "wei... er..." -->
+{{Grammar Box}} 
+
+为⋯⋯，而⋯⋯(wèi...ér...) is a structure used to clearly express the purpose of an action.
+
+== Structure ==
+
+<div class="jiegou">
+Subj. + 为 + Goal + 而 + Efforts Made
+</div>
+
+Sometimes, 为 can be replaced with [[为了]], which is less formal.
+
+To make the pattern negative, simply add 不 before 为:
+
+<div class="jiegou">
+Subj. + 不 + 为 + Goal + 而 + Efforts Made
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*很多中国父母<em>为</em>孩子<em>而</em>活。<span class="pinyin">Hěnduō Zhōngguó fùmǔ <em>wèi</em> háizi <em>ér</em> huó.</span><span class="trans">Many Chinese parents live for their children.</span>
+*我们<em>为</em>梦想<em>而</em>奋斗。<span class="pinyin">Wǒmen <em>wèi</em> mèngxiǎng <em>ér</em> fèndòu.</span><span class="trans">We fight for our dreams.</span>
+*<em>为</em>我们的健康<em>而</em>多做锻炼。<span class="pinyin"><em>Wèi</em> wǒmen de jiànkāng <em>ér</em> duō zuò duànliàn.</span><span class="trans">We exercise more for the sake of our health.</span>
+*你是<em>为</em>钱<em>而</em>工作吗？<span class="pinyin">Nǐ shì <em>wèi</em> qián <em>ér</em> gōngzuò ma?</span><span class="trans">Do you work for money?</span>
+*我是<em>为</em>朋友<em>而</em>做的这件事情。<span class="pinyin">Wǒ shì <em>wèi</em> péngyou <em>ér</em> zuò de zhè jiàn shìqing.</span><span class="trans">I'm doing this for a friend.</span>
+*他<em>为了</em>能去日本<em>而</em>苦学日语。<span class="pinyin">Tā <em>wèile</em> néng qù Rìběn <em>ér</em> kǔxué Rìyǔ.</span><span class="trans">He studied Japanese hard in order to be able to go to Japan.</span>
+*李甜<em>为了</em>男朋友<em>而</em>学的医生。<span class="pinyin">Lǐ Tián <em>wèile</em> nánpéngyou <em>ér</em> xué de yīshēng.</span><span class="trans">Li Tian studied to be a doctor for her boyfriend.</span>
+*这不仅仅<em>是</em>为娱乐<em>而</em>修建的公园。<span class="pinyin">Zhè bùjǐn jǐn <em>shì</em> wèi yúlè <em>ér</em> xiūjiàn de gōngyuán.</span><span class="trans">This parks was not built solely for entertainment.</span>
+*你<em>不为</em>父母<em>而</em>考虑，也要考虑考虑你自己。<span class="pinyin">Nǐ <em>bù wéi</em> fùmǔ <em>ér</em> kǎolǜ, yě yào kǎolǜ kǎolǜ nǐ zìjǐ.</span><span class="trans">You don't consider your parents, but consider yourself.</span>
+*<em>不为</em>明天<em>而</em>努力，那你为了什么而努力？<span class="pinyin"><em>Bù wéi</em> míngtiān <em>ér</em> nǔlì, nà nǐ wèile shénme ér nǔlì?</span><span class="trans">If you aren't working hard for tomorrow then what are you working so hard for?</span>
+
+</div>
+
+==See also==
+
+*[[Cause and effect with "yinwei" and "suoyi"]]
+*[[Explaining results with "suoyi"]]
+
+== Sources and further reading ==
+
+{{Source|HSK Standard Course 4下|94}}
+{{Source|卓越汉语－公司实战篇|135}}
+
+=== Websites ===
+
+* Yale Chinese Usage Dictionary: [http://comet.cls.yale.edu/chineseusagedictionary/0235.html Usage of 而]
+
+[[Category: C1 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|为|C1|为⋯⋯ ，而⋯⋯|不 <em>为</em> 朋友圈 <em>而</em> 运动|grammar point|ASG6509E}}
+{{Rel char|而}}
+{{Similar|Expressing purpose with "weile"}}
+{{Similar|Expressing "for" with "wei"}}
+{{Used for|Expressing purpose}}
+{{Structure|Sentence Patterns}}
+{{Translation|for}}

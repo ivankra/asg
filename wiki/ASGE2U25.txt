@@ -1,0 +1,40 @@
+<!-- Expressing something is "not worth doing" with "buxie" -->
+{{Grammar Box}} 
+{{stub}}
+
+In this article, we look at at a grammar at the grammar pattern 不屑. Normally, you may think of 屑 as having to do with bits of something, like 木屑, 铁屑 etc. It also means "to believe something is worth doing ." In that case, 不屑 means "to believe that something is not worth doing."
+
+It is important to note that there is an element of disdain to 不屑, so the subject using 不屑 looks down on doing the action. 
+
+== Structure ==
+
+In this structure, you can say 不屑 or 不屑于. Both have the same meaning, though  不屑于 is a bit more literary. 
+
+<div class="jiegou">
+
+Subject + 不屑(于) + verb/verb phrase 
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 我 的 同事 是 一个 很 诚实 的 人 ，他 <em>不屑</em> 说谎。
+*人家 都 <em>不屑</em> 跟 你说话，你 就 不 要 热脸贴在冷屁股上 了。
+* 要是 你 想要 向 雷锋 同志 学习 ，你 应该 <em>不屑于</em> 说 别人 的 坏话。 
+* 有些 官员 表面 上 <em>不屑于</em> 收受 贿赂，其实 暗地里 他们 比 谁 收 的 都多。
+
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+[[Category: C1 grammar points]]
+[[Category: Verbs]]
+{{Basic Grammar|不屑|C1|Subject + 不屑(于) + Verb |我 的 同事 是 一位 很 诚实 的 人 ，他 <em>不屑</em> 说谎。|grammar point|ASGE2U25}}
+{{Rel char|于}}
+{{POS|Verbs}}
+{{Used for| Expressing disdain}}
+{{Subprop|Verb phrases}}

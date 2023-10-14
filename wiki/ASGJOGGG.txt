@@ -1,0 +1,73 @@
+<!-- Comparing "pingshi" and "pingchang" -->
+{{Grammar Box}} 
+平时 (píngshí) and 平常 (píngcháng) look very similar (after all, they do start with 平), and they have similar meanings of "often" or "usually," but they have slightly different uses. 
+
+== Both 平时 and 平常 Are Used as Adverbs ==
+
+Both 平时 and 平常 can be used as adverbs. They are interchangeable in this case.
+  
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 平常 + Verb 
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*你 <em>平常</em> 会 健身 吗 ？<span class="pinyin">Nǐ <em>píngcháng</em> huì jiànshēn ma?</span><span class="trans">Do you often work out?</span>
+*我 <em>平常</em> 不 吃 零食 。<span class="pinyin">Wǒ <em>píngcháng</em> bù chī língshí.</span><span class="trans">I usually don't eat snacks.</span>
+*你 <em>平时</em> 看 新闻 吗 ？<span class="pinyin">Nǐ <em>píngshí</em> kàn xīnwén ma?</span><span class="trans">Do you usually watch the news?</span>
+*她 <em>平时</em> 不 买 奢侈品 。<span class="pinyin">Tā <em>píngshí</em> bú mǎi shēchǐpǐn.</span><span class="trans">She usually doesn't buy luxury goods.</span>
+
+</div>
+
+== 平常 as an Adjective ==
+
+When 平常 is used as an adjective, it expresses the meaning of "common." 平时 cannot be used this way.
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 很 + 平常 
+</div>
+
+<div class="jiegou">
+平常 + 的 + Noun
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*清洁工 的 工作 很 <em>平常</em> ，但是 也 很 重要 。<span class="pinyin">Qīngjiégōng de gōngzuò hěn <em>píngcháng</em>, dànshì yě hěn zhòngyào.</span><span class="trans">The work of sanitary workers is very ordinary, but it is also very important.</span>
+*这 种 事 很 <em>平常</em> 。<span class="pinyin">Zhè zhǒng shì hěn <em>píngcháng</em>.</span><span class="trans">This kind of thing is very common.</span>
+*对 中国 来说 ，2008 年 是 很 不 <em>平常</em> 的 一 年 。<span class="pinyin">Duì Zhōngguó lái shuō, èr-líng-líng-bā nián shì hěn bù <em>píngcháng</em> de yī nián.</span><span class="trans">For China, 2008 was not an ordinary year.</span>
+*在 中国 ，去 酒吧 是 不 是 很 <em>平常</em> 的 娱乐 活动 ？<span class="pinyin">Zài Zhōngguó, qù jiǔbā shì bu shì hěn <em>píngcháng</em> de yúlè huódòng?</span><span class="trans">In China, is it common to go to a bar for entertainment?</span>
+</div>
+
+== Example Dialog ==
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>你 <em>平时</em> 做 什么 菜 ？<span class="pinyin">Nǐ <em>píngshí</em> zuò shénme cài?</span><span class="trans">What do you usually cook?</span></li>
+<li><span class="speaker">B:</span>都 是 很 <em>平常</em> 的 菜 。<span class="pinyin">Dōu shì hěn <em>píngcháng</em> de cài.</span><span class="trans">They're all just ordinary dishes.</span></li>
+</ul>
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|现代汉语八百词（增订本）|1051}}
+{{Source|现代汉语八百词（增订本）|1053}}
+{{Source|HSK Standard Course 5上|145}}
+
+[[Category:grammar comparison]]
+{{Basic Grammar|平时|B2|平时 vs. 平常|你 <em>平时</em> / <em>平常</em> 做饭 吗 ？|grammar point|ASGJOGGG}}
+{{Rel char|平常}}
+{{Used for|Expressing frequency}}
+{{Used for|Describing things}}
+{{Used for|Referring to habitual actions}}
+{{Similar|Comparing "changchang" and "jingchang"}}
+{{Comparison|Time Words}}

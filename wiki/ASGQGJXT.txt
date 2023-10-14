@@ -1,0 +1,91 @@
+<!-- Expressing purpose with "weile" -->
+{{Grammar Box}}
+
+为了 (wèile) is most often used to indicate the purpose of an action or the person that will benefit from some act of kindness.  In the "purpose" sense, it almost exactly corresponds to "in order to" or "for the purpose of" in English.
+
+== Basic Usage ==
+
+When 为了 indicates the purpose of an action, it's usually acting as a [[preposition]].  In this role, the ''whole'' "为了 phrase" should come '''before''' the verb.
+
+=== Structure ===
+
+<div class="jiegou">
+为了 ⋯⋯ ，Subj. ⋯⋯ 
+</div>
+
+Note also that 为了 is a single word; the 了 here is not serving its role as a particle in this case.
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>为了</em> 钱 ，他 什么 都 愿意 做 。<span class="pinyin"><em>Wèile</em> qián, tā shénme dōu yuànyì zuò.</span><span class="trans">He's willing to do anything for money.</span>
+*<em>为了</em> 孩子 的 未来 ，他 决定 搬到 上海 。<span class="pinyin"><em>Wèile</em> háizi de wèilái, tā juédìng bāndào Shànghǎi.</span><span class="trans">He decided to move to Shanghai for his children's future.</span>
+*<em>为了</em> 这个 面试 ，他 买 了 一 套 很 贵 的 西服 。<span class="pinyin"><em>Wèile</em> zhège miànshì, tā mǎi le yī tào hěn guì de xīfú.</span><span class="trans">He bought a very expensive suit for this job interview.</span>
+*<em>为了</em> 找 灵感 ，那个 作家 搬到 了 农村 。<span class="pinyin"><em>Wèile</em> zhǎo línggǎn, nàge zuòjiā bān dào le nóngcūn.</span><span class="trans">In order to find inspiration, that writer moved to the countryside.</span>
+*五年 前 ，<em>为了</em> 女朋友 ，他 放弃 了 上海 的 工作。<span class="pinyin">wǔniánqián，<em>Wèile</em> nǚpéngyou, tā fàngqì le Shànghǎi de gōngzuò.</span><span class="trans">Five years ago he passed up a job in Shanghai for his girlfriend.</span>
+*<em>为了</em> 奖励 大家 ，公司 明年 带 你们 去 日本 旅行 。<span class="pinyin"><em>Wèile</em> jiǎnglì dàjiā, gōngsī míngnián dài nǐmen qù Rìběn lǚxíng.</span><span class="trans">In order to reward everyone, the company will take you all on a trip to Japan next year.</span>
+
+</div>
+
+== Expressing "the Reason Why" ==
+
+Sometimes you will see 为了 following 是. In this case, 为了 mean "for." Note that 为了 and 因为 both have the character 为 in them, and they have sort of similar meanings. You will also see 因为 following 是, instead of 为了. It literally means "is because (of)."
+
+=== Structure ===
+
+<div class="jiegou">
+⋯⋯ 是 + 为了 / 因为 ⋯⋯
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我 这么 做 <em> 是 为了</em> 帮 你 。<span class="pinyin">Wǒ zhème zuò <em>shì wèile</em> bāng nǐ.</span><span class="trans">I did all this to help you.</span>
+*他 做 兼职 <em>是 为了</em> 多 赚 点 钱 。<span class="pinyin">Tā zuò jiānzhí <em>shì wèile</em> duō zhuàn diǎn qián.</span><span class="trans">The reason why he has a part time job is to make a little more money.</span>
+*你 学 中文 <em>是 因为</em> 你 的 中国 女朋友 吗 ？<span class="pinyin">Nǐ xué Zhōngwén <em>shì yīnwèi</em> nǐde Zhōngguó nǚpéngyou ma?</span><span class="trans">Are you studying Chinese because of your Chinese girlfriend?</span>
+*我们 之 所以 反对 <em>是 因为</em>  风险 太 大 。<span class="pinyin">Wǒmen zhī suǒyǐ fǎnduì <em>shì yīnwèi</em> fēngxiǎn tài dà.</span><span class="trans">The reason why we oppose it is because the risk is too high.</span>
+
+</div>
+
+Note that [[Stating the effect before the cause|之所以]] is a more difficult pattern, which means "the reason why" in a more formal way.
+
+== See also ==
+
+* [[Expressing "for" with "wei"]]
+* [[Expressing purpose with "hao"]]
+* [[Using "lai" to connect two verb phrases]]
+* [[Stating the effect before the cause]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Home With Kids1 (家有儿女1)|32}}
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|40}}
+{{Source|卓越汉语－公司实战篇|12}}
+{{Source|现代汉语虚词例释|484, 572}}
+{{Source|Integrated Chinese: Level 2, Part 1|347-8}}
+
+=== Websites ===
+
+* Yale Chinese Usage Dictionary: [http://comet.cls.yale.edu/chineseusagedictionary/0236.html Uses of 为 and 为了]
+
+=== Podcasts ===
+
+* [http://chinesepod.com/lessons/%E4%B8%BA-and-%E4%B8%BA%E4%BA%86	Chinesepod Qingwen 为 and 为了]
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|为了|B1|为了 + Purpose + Verb|<em>为了</em> 钱 ，他 什么 都 愿意 做 。|grammar point|ASGQGJXT}}
+{{Rel char|为}}
+{{Used for|Expressing Purpose}}
+{{Similar|Expressing "for" with "wei"}} 
+{{Similar|Stating the effect before the cause}} 
+{{Similar|Expressing purpose with "haorang"}}
+{{Similar|"lai" used to connect two verb phrases}}
+{{Structure|Sentence Patterns}}
+{{Subprop|Basic/Simple Sentence Patterns}}
+{{Translation|for}}
+{{Translation|to}}

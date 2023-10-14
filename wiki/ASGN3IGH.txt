@@ -1,0 +1,61 @@
+<!-- Challenging a verb with "shenme" -->
+{{Grammar Box}} 
+Adding 什么 (shénme) to the end of a verb can be used to change a sentence into a [[Asking rhetorical questions|rhetorical question]]. 
+
+== Verb + 什么 + Verb ==
+
+Just like in English, asking "what are you looking at?" can be a rhetorical question (hinting that you should stop staring), but can also be a sincere inquiry about what exactly the other person is looking at. When you repeat the verb, though, you make it pretty clear that you're not just curious. You're so annoyed that you're asking a rhetorical question.
+
+=== Structure ===
+
+<div class="jiegou">
+Verb + 什么 + Verb ？
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*你 <em>买 什么 买</em>，钱 都 花 光 了。<span class="pinyin">Nǐ <em>mǎi shénme mǎi</em>, qián dōu huā guāng le.</span><span class="trans">Buy what, now? We spent all of our money.</span>
+*你 <em>哭 什么 哭</em>，又 不 是 没有 你 的 礼物。<span class="pinyin">Nǐ <em>kū shénme kū</em>, yòu bù shì méiyǒu nǐ de lǐwù.</span><span class="trans">What are you crying for? It's not like there's no gift for you.</span>
+*你 <em>笑 什么 笑</em>，看 我 做错 了，你 很 开心 吗？<span class="pinyin">Nǐ <em>xiào shénme xiào</em>, kàn wǒ zuò cuò le, nǐ hěn kāixīn ma?</span><span class="trans">What are you laughing at? Does seeing me make mistakes make you happy?</span>
+*你 <em>说 什么 说</em>，大家 都 不 说话 ，就 你 说话 。<span class="pinyin">Nǐ <em>shuō shénme shuō</em>, dàjiā dōu bù shuōhuà, jiù nǐ shuōhuà.</span><span class="trans">Why are you talking? Everyone else isn't saying a word, it's just you talking.</span>
+*你 <em>看 什么 看</em>，没 见 过 美女 啊？<span class="pinyin">Nǐ <em>kàn shénme kàn</em>, méi jiàn guo měinǚ a?</span><span class="trans">What are you looking at? Haven't you seen a pretty girl before?</span>
+</div>
+
+== Verb + 什么 + Object ==
+
+This pattern is often used with [[separable verb]]s.
+
+=== Structure ===
+
+<div class="jiegou">
+Verb + 什么 + Obj.
+</div>
+
+=== Examples ===
+
+This usage is best illustrated with examples:
+
+<div class="liju">
+*离 <em>什么</em> 婚 ！你们 结婚 才  三 个 月 。<span class="pinyin">Lí <em>shénme</em> hūn! nǐmen jiéhūn cái sān gè yuè.</span><span class="trans">What are you talking about, "divorce"?! You've only been married three months!<span class="pinyin">
+*道 <em>什么</em> 歉 啊 ，又 不 是 你 的 错 。<span class="pinyin">Dào <em>shénme</em> qiàn a, yòu bù shì nǐ de cuò.</span><span class="trans">No aplogies! You didn't do anything wrong.<span class="pinyin">
+*开 <em>什么</em> 玩笑 啊 ，你 撞 了 我 ，我 还要 跟 你 说 “对不起” ？<span class="pinyin">Kāi <em>shénme</em> wánxiào a, nǐ zhuàng le wǒ, wǒ háiyào gēn nǐ shuō "duìbuqǐ"?</span><span class="trans">Is this some kind of joke? You ran into me, and now you want me to say sorry to you?<span class="pinyin">
+*没有 钱 看 <em>什么</em> 电影 。<span class="pinyin">Méiyǒu qián kàn <em>shénme</em> diànyǐng.</span><span class="trans">What movie can we go see when we're broke?<span class="pinyin">
+*还 吃 <em>什么</em> 早饭 啊 ，要 迟到 了 。<span class="pinyin">Hái chī <em>shénme</em> zǎofàn a, yào chídào le.</span><span class="trans">No time for breakfast. We're going to be late!<span class="pinyin">
+</div> 
+
+Note that the questions above would likely be between friends, or at least two people who are quite familiar with each other. Tone of voice and context is key.
+
+==See also==
+*[[Challenging an Adjective with "shenme"]]
+
+==Sources and further reading==
+
+[[Category: B2 grammar points]]
+[[Category:Verb phrases]]
+{{Basic Grammar|什么|B2|Verb + 什么 + Obj.|没有 钱 看 <em>什么</em> 电影。|grammar point|ASGN3IGH}}
+{{Similar|Challenging an adjective with "shenme"}}
+{{Used for|Asking rhetorical questions}}
+{{Used for|Expressing quality}}
+{{Used for|Expressing opinions}}
+{{POS|Verbs}}

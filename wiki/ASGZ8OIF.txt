@@ -1,0 +1,65 @@
+<!-- Expressing "stop doing" with "bie… le" -->
+{{Grammar Box}}
+
+You may know how to make [[negative commands with "bie"|negative commands with "bie,"]] but what if someone is already doing it? The pattern 别⋯⋯了 (bié... le) is all you need to tell someone to ''STOP DOING THAT'' (which they're already doing).
+
+== Structure ==
+
+<div class="jiegou">
+别 + Verb / [Verb Phrase] + 了
+</div>
+
+Instead of just a [[verb]], it can also be a verb phrase.
+
+== Examples ==
+
+<div class="liju">
+
+*<em>别</em> 说 <em>了</em> ， 我 不 想 听 。<span class="pinyin"><em>Bié</em> shuō <em>le</em>, wǒ bù xiǎng tīng.</span><span class="trans">Stop talking. I don't want to listen.</span>
+*<em>别</em> 问 <em>了</em> ， 我 不 想 说 。<span class="pinyin"><em>Bié</em> wèn <em>le</em>, wǒ bù xiǎng shuō.</span><span class="trans">Stop asking. I don't want to say.</span>
+*<em>别</em> 做 <em>了</em> ，明天 做 吧 。<span class="pinyin"><em>Bié</em> zuò <em>le</em>, míngtiān zuò ba.</span><span class="trans">Stop doing it. Do it tomorrow.</span>
+*<em>别</em> 看 <em>了</em>，睡觉 ！<span class="pinyin"><em>Bié</em> kàn <em>le</em>, shuìjiào! </span><span class="trans">Stop watching. Go to sleep! </span>
+*<em>别</em> 哭 <em>了</em> ！<span class="pinyin"><em>Bié</em> kū <em>le</em>!</span><span class="trans">Stop crying!</span>
+*<em>别</em> 笑 <em>了</em> ，别人 都 在 看 你 。<span class="pinyin"><em>Bié</em> xiào <em>le</em>, biérén dōu zài kàn nǐ.</span><span class="trans">Stop laughing. Other people are looking at you.</span>
+*<em>别</em> 吃 <em>了</em> ，我们 要 迟到 了 。<span class="pinyin"><em>Bié</em> chī <em>le</em>, wǒmen yào chídào le.</span><span class="trans">Stop eating. We're going to be late.</span>
+*<em>别</em> 玩 <em>了</em> ，去 写 作业 。<span class="pinyin"><em>Bié</em> wán <em>le</em>, qù xiě zuòyè.</span><span class="trans">Stop playing. Do your homework.</span>
+*<em>别</em> 喝 <em>了</em> ，你 已经 醉 了 。<span class="pinyin"><em>Bié</em> hē <em>le</em>, nǐ yǐjīng zuì le.</span><span class="trans">Stop drinking. You're already drunk.</span>
+
+</div>
+
+== Other Meaning ==
+
+The "别 verb 了“ pattern can also be used to negate the other person's suggestion or try to change their idea. The difference between this usage and the previous example is that the action has not happened yet. 
+A few examples:
+
+<div class="liju">
+
+*<em>别</em> 买 <em>了</em> ，太 贵 了 ！<span class="expl pdf-short-expl">In this case, the person probably isn't actually paying, but she or he is thinking about it.</span><span class="pinyin"><em>Bié</em> mǎi <em>le</em>, tài guì le! </span><span class="trans">Don't buy it. It's too expensive! </span>
+*<em>别</em> 做饭 <em>了</em> ，出去 吃 吧 。<span class="expl pdf-short-expl">In this case, the person probably isn't actually cooking, but she or he is thinking about it.</span><span class="pinyin"><em>Bié</em> zuòfàn <em>le</em>, chūqù chī ba.</span><span class="trans">Let's go out for dinner instead of cook.</span>
+*下雨 了 ，<em>别</em> 出去 <em>了</em> 。<span class="expl pdf-short-expl">In this case, the person hasn't left yet, but she or he is thinking about going out.</span><span class="pinyin">Xiàyǔ le, <em>bié</em> chūqù <em>le</em>.</span><span class="trans">It's raining. Let's stay inside instead of going out.</span>
+
+</div>
+
+== See also ==
+
+*[[Negative commands with "bie"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|76}}
+{{Source|现代汉语八百词（增订本）|83}}
+
+=== Dictionaries ===
+
+* [[现代汉语词典（第5版）]] (p. 92) [http://www.amazon.cn/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E8%AF%8D%E5%85%B8/dp/B001B1RZCI/ref=sr_1_1?ie=UTF8&qid=1345693609&sr=8-1 →buy]
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|别|A2|别 + Verb + 了|<em>别</em> 哭 <em>了</em>，烦 死了 。|grammar point|ASGZ8OIF}}
+{{Rel char|了}}
+{{Similar|Negative commands with "bie"}}   
+{{Used for|Denying and refusing}}
+{{Used for|Giving commands}}
+{{Structure|Sentence Patterns}}

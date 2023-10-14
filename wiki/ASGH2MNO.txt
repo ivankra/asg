@@ -1,0 +1,79 @@
+<!-- How to do something with "zenme" -->
+{{Grammar Box}} 
+
+怎么 (zěnme) means "how" in Chinese, and it's not hard to use at all: just put it before a [[verb]].
+
+== The Basic "How to Verb" Usage ==
+
+=== Structure ===
+
+The question word 怎么 (zěnme) is used to ask ''how'' in Chinese. It is inserted in front of the verb that's being asked about:
+
+<div class="jiegou">
+
+Subj. + 怎么 + Verb + Obj.
+
+</div>
+
+Note that the subject can often be omitted from general "how to" questions, and there doesn't always have to be an object.
+
+=== Examples ===
+
+<div class="liju">
+
+*你们 <em>怎么</em> 学 中文？<span class="pinyin">Nǐmen <em>zěnme</em> xué Zhōngwén?</span><span class="trans">How do you study Chinese?</span>
+*你 <em>怎么</em> 上班？坐 地铁 吗？<span class="pinyin">Nǐ <em>zěnme</em> shàngbān? Zuò dìtiě ma?</span><span class="trans">How do you get to work? By metro?</span>
+*你 知道 <em>怎么</em> 去 外滩 吗？<span class="pinyin">Nǐ zhīdào <em>zěnme</em> qù​ Wàitān ma?</span><span class="trans">Do you know how to get to the Bund?</span>
+*你 <em>怎么</em> 知道 我 喜欢 旅行？<span class="pinyin">Nǐ <em>zěnme</em> zhīdào wǒ xǐhuan lǚxíng?</span><span class="trans">How did you know I like to travel?</span>
+*我 不 知道 <em>怎么</em> 跟 女孩子 说话。<span class="pinyin">Wǒ bù zhīdào <em>zěnme</em> gēn nǚháizi shuōhuà.</span><span class="trans">I don't know how to talk to girls.</span>
+
+</div>
+
+== Topic First ==
+
+Starting a "how to" question with the [[Topic-comment sentences|topic]] at the beginning of the question is very common. That is, the thing being asked about is introduced first, then a question is asked about how to do something involving it.
+
+=== Structure ===
+
+<div class="jiegou">
+
+Topic + 怎么 + Verb
+
+</div>
+
+The object doesn't have to come after the verb.  Sometimes it moves to the front of the question, establishing what the question is going to be about, before getting specific with the "how" question.
+
+=== Examples ===
+
+<div class="liju">
+
+* <strong>芒果</strong> <em>怎么</em> 吃？<span class="pinyin"><Strong>Mángguǒ </strong> <em>zěnme</em> chī?</span><span class="trans">How do you eat mangos?</span>
+* <strong>iPad</strong> <em>怎么</em> 用？<span class="pinyin"><Strong>iPad</strong> <em>zěnme</em> yòng?</span><span class="trans">How do you use an iPad?</span>
+* <strong>语法</strong> <em>怎么</em> 学 ？<span class="pinyin"><Strong>Yǔfǎ </strong> <em>zěnme</em> xué?</span><span class="trans">How do you study grammar?</span>
+* <strong>中国 菜</strong> <em>怎么</em> 做？<span class="pinyin"><Strong>Zhōngguó cài </strong> <em>zěnme</em> zuò?</span><span class="trans">How do you cook Chinese food?</span>
+* <strong>"Apple"</strong> <em>怎么</em> 说？<span class="expl">the "in Chinese" is implied</span><span class="pinyin"><strong>"Apple" </strong> <em>zěnme</em> shuō?</span><span class="trans">How do you say apple?</span>
+
+</div>
+
+== See Also ==
+
+*[[Placement of question words]]
+*[[Asking questions]]
+
+== Sources and further reading ==
+
+{{Source|HSK Standard Course 1|42}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|191}}
+{{Source|现代汉语八百词（增订本）]]  (pp. 651-2}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|163}}
+
+[[Category:A1 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{Basic Grammar|怎么|A1|怎么 + Verb ?|<em>怎么</em> 走?|grammar point|ASGH2MNO}}
+{{Similar|Asking why with "zenme"}}
+{{Similar|Placement of question words}}
+{{Similar|"Not often" with "bu zenme"}}
+{{Used for|Asking questions}}
+{{POS|Verbs}}
+{{Subprop|Verb phrases}}
+{{Translation|how}}

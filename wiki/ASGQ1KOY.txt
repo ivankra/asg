@@ -1,0 +1,57 @@
+<!-- Expressing "just now" with "gangcai" -->
+{{Grammar Box}} 
+
+In order to say that something "just now" occurred, use the [[Time noun|time noun]] 刚才 (gāngcái). It can be placed in front of the verb or the subject of a statement. 
+
+== Structure ==
+
+This grammar structure is pretty straightforward. Similar to the English "just now," you can put 刚才 (gāngcái) right before the verb in a sentence. It can also come before or after the subject.
+
+<div class="jiegou">
+
+刚才 + Verb
+
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+* 你 <em>刚才</em> <strong>说</strong> 什么 了？<span class="pinyin">Nǐ <em>gāngcái</em> <strong>shuō</strong> shénme le? </span><span class="trans">What did you just say? </span>
+* <em>刚才</em> 谁 <strong> 来 </strong> 了？<span class="pinyin"><em>Gāngcái</em> shéi <strong>  lái </strong>le? </span><span class="trans">Who came just now? </span>
+* <em>刚才</em> 你 <strong>去</strong> 哪儿 了？<span class="pinyin"><em>Gāngcái</em> nǐ <strong>qù</strong> nǎr le? </span><span class="trans">Where did you go just now? </span>
+* <em>刚才</em> 我 <strong>去</strong> 洗手间 了。<span class="pinyin"><em>Gāngcái</em> wǒ <strong>qù</strong> xǐshǒujiān le.</span><span class="trans">I just went to the restroom.</span>
+* 老板 <em>刚才</em> <strong>生气</strong> 了。<span class="pinyin">Lǎobǎn <em>gāngcái</em> <strong>shēngqì</strong> le.</span><span class="trans">The boss just got angry.</span>
+* 你们 <em>刚才</em> 在 <strong>看</strong> 什么？<span class="pinyin">Nǐmen <em>gāngcái</em> zài <strong>kàn</strong> shénme? </span><span class="trans">What were you looking at just now? </span>
+* 不好意思，我 <em>刚才</em> <strong>出去</strong> 了。<span class="pinyin">Bù hǎoyìsi, wǒ <em>gāngcái</em> <strong>chūqù</strong> le.</span><span class="trans">I'm sorry, I just now stepped out.</span>
+* 宝宝 <em>刚才</em> <strong>哭</strong> 了。<span class="pinyin">Bǎobao <em>gāngcái</em> <strong>kū</strong> le.</span><span class="trans">The baby just cried.</span>
+* 他们 <em>刚才</em> 去 <strong>开会</strong> 了。<span class="pinyin">Tāmen <em>gāngcái</em> qù <strong>kāihuì</strong> le.</span><span class="trans">They just went to a meeting.</span>
+* <em>刚才</em> 有 人 <strong>找</strong> 你。<span class="pinyin"><em>Gāngcái</em> yǒu rén <strong> zhǎo</strong> nǐ.</span><span class="trans">Just now, there was someone looking for you.</span>
+
+</div>
+
+Note that for all of those cases, we're talking about something that happened ''just now'', as in, within the past 5 minutes or so. If you're talking about something that "just happened" yesterday or last week, don't use 刚才 (gāngcái), use [[Expressing "just" with "gang"|刚 (gāng)]].
+
+==See also==
+*[[Comparing "gang" and "gangcai"]]
+*[[Explaining results with "suoyi"]]
+*[[Cause and effect with "yinwei" and "suoyi"]]
+*[[Stating the effect before the cause]] (advanced article)
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|现代汉语八百词（增订本）|217}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|刚才|A2|刚才 + Verb|你 <em>刚才</em> <strong>说</strong> 什么 了？|grammar point|ASGQ1KOY}}
+{{Rel char|刚}}
+{{Similar| "Just" with "gang"}}   
+{{Similar|Comparing "gang" and "gangcai"}}
+{{Used for|Expressing time and date}}
+{{Used for|Sequencing events in time}}
+{{Used for|Referring to changes of situation}}
+{{POS|Nouns}}
+{{Translation|just}}

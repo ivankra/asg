@@ -1,0 +1,84 @@
+<!-- Comparing "yihou" and "de shihou" -->
+{{Grammar Box}}
+
+When talking about when something happens, 以后 (yǐhòu) and 的时候 (de shíhou) are often used. They can both be translated as the English word "[[when]]," but their usage in Chinese must be kept straight.
+
+== Structure ==
+
+以后 and 的时候 both appear in the same place in the sentence: after the verb.
+
+<div class="jiegou">
+Subj. + Verb + 以后／的时候，⋯⋯ 
+</div>
+
+The difference comes in what they actually mean.
+
+== Use 以后 for "After" ==
+
+[[After a specific time|以后]] technically means after, so it is used ''after'' the action is completed. This can be seen as a way of saying "When you are done (verb)ing." This might seem obvious, but in the following sentences, we could use "when" in English for every single one.
+
+<div class="liju">
+
+* 下 飞机 <em>以后</em> 给 我 打电话 。 <span class="pinyin">Xià fēijī <em>yǐhòu </em> gěi wǒ dǎ diànhuà</span><span class="trans">Give me a call after you get off the plane.</span>
+*来 中国 <em>以后</em> 我 才 发现 中国 菜 那么 好吃 。 <span class="pinyin">Lái Zhōngguó <em>yǐhòu </em> wǒ cái fāxiàn Zhōngguó cài nàme hǎochī.</span> <span class="trans"> Only when I got to China did I realize how tasty Chinese food is.</span>
+*毕业 <em>以后</em> 我 打算 去 上海 工作 。<span class="pinyin">Bìyè <em>yǐhòu </em> wǒ dǎsuàn qù Shànghǎi gōngzuò. </span><span class="trans">I plan to find a job in Shanghai after I graduate.</span>
+*结婚 <em>以后</em> 你 想 继续 工作 吗 ？<span class="pinyin">Jiéhūn <em>yǐhòu </em> nǐ xiǎng jìxù gōngzuò ma?</span><span class="trans">Do you want to keep working after you get married?
+</span>
+
+</div>
+
+== Use 的时候 for "During" or "While" ==
+
+的时候 means "when" in the sense of [[Expressing "when" with "de shihou"|during an action]]. For example, "when you play ball" can be seen as "when you are playing ball." It is this sort of difference that can make 以后 and 的时候 slightly confusing at times.
+
+<div class="liju">
+*吃饭 <em>的时候</em> 看 电视 容易 长 胖 。 <span class="pinyin">Chīfàn <em>de shíhou </em> kàn diànshì róngyì zhǎng pàng. </span><span class="trans">It's easy to get fat if you eat while you watch TV.</span>
+*工作 <em>的时候</em> 不要 上网 聊天 。<span class="pinyin">Gōngzuò <em>de shíhou </em> bùyào shàngwǎng liáotiān. </span><span class="trans">Don't chat online when you're at work.</span>
+*无聊 <em>的时候</em> 可以 做 些 什么 ？<span class="pinyin">Wúliáo <em>de shíhou </em> kěyǐ zuò xiē shénme? </span> <span class="trans">What can you do when you're bored?</span>
+
+</div>
+
+的时候 is also similar to using [[Simultaneous tasks with "yibian"|the 一边 structure]]. However, 一边 uses two conscious actions that you do, whereas "的时候" can be used for "mindless" activities (like watching TV) or unexpected situations.
+
+== Overlapping Usage ==
+
+There are instances where ''both'' 以后 and 的时候 could work and still mean the same thing. These are times when there isn't really a duration, it just happens in an instant. For example, "when you see her." This means, "as soon as you see her," as there is only one point where you first see a person. In this case, you can use either one.
+
+<div class="liju">
+
+*雨 停 了 <em>的时候</em>，我们 就 去 公园 玩。<span class="pinyin">Yǔ tíng le <em>de shíhou </em>, wǒmen jiù qù gōngyuán wán.</span><span class="trans">When it stops raining, we'll go play in the park.</span>
+*雨 停 了 <em>以后</em>，我们 就 去 公园 玩。<span class="pinyin">Yǔ tíngle <em>yǐhòu </em>, wǒmen jiù qù gōngyuán wán. </span><span class="trans">When it stops raining, we'll go play in the park.</span>
+*商店 关门 的 <em>时候</em>，你 再 来 找 我。<span class="pinyin">Shāngdiàn guānmén de <em>shíhou </em>, nǐ zàilái zhǎo wǒ.</span><span class="trans">Come to find me when the shop is closed.</span>
+*商店 关门 了 <em>以后</em>，你 再 来 找 我。<span class="pinyin">Shāngdiàn guānmén le  <em>yǐhòu </em>, nǐ zàilái zhǎo wǒ.</span><span class="trans"> Come to find me when the shop is closed.</span>
+
+</div>
+
+== See also ==
+
+*[[After a specific time]]
+*[[At the time when]]
+*[[Simultaneous tasks with "yibian"]]
+*[[Comparing "yihou" and "zhihou"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|293-4}}
+
+=== Videos ===
+
+*[http://www.youtube.com/watch?v=v469o3lXaYk Yoyo Chinese Grammar "When you get home"]
+
+[[Category:grammar comparison]]
+{{Basic Grammar|以后|B1|以后 vs 的时候|打 篮球 <em>的 时候</em> 会 出 了 很 多 汗 ，所以 打 完 篮球 <em>以后</em> 我 要 洗澡 。|grammar point|ASGLNKZR}}
+{{Rel char|的时候}}
+{{Rel char|时候}}
+{{Similar|After a specific time}}   
+{{Similar|At the time when}}
+{{Used for|Expressing time and date}}
+{{Used for|Sequencing events in time}}
+{{Used for|Indicating conditions}}
+{{Translation|when}}
+{{Translation|after}}
+{{Comparison|Time Words}}

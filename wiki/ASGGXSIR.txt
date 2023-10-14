@@ -1,0 +1,65 @@
+<!-- Comparing "huifu" and "huanyuan" -->
+{{Grammar Box}} 
+{{stub}}
+
+This may be one of the trickiest two verbs to get right. 恢复 means to restore something that was destroyed and 还原 means returning something to its original state.
+
+== Meaning and usage of 恢复 ==
+
+恢复 expressing that something is restored that was once destroyed, messed up, or lost. It comes back into its original state or appearance. Often it is used with words like 身体, 体力, 社会, 秩序 etc. 
+
+One way to use 恢复 is to put it before the noun or noun phrase
+
+<div class="jiegou">
+恢复（了）+ Noun/Noun Phrase
+</div>
+
+===Examples===
+
+<div class="liju">
+* <em>恢复</em> 体力。
+* 中国 1977年 <em>恢复</em> 了 高考。
+* 地铁 <em>恢复</em> 了 正常 运行。
+</div>
+
+== Using 恢复 at the end of a sentence ==
+
+You can also put 恢复 after, usually paired with a 了.
+
+<div class="jiegou">
+Noun/Noun Phrase + 恢复了
+</div>
+
+===Examples===
+
+<div class="liju">
+* 他 的 身体 <em>恢复</em> 了。
+* 社会 秩序 <em>恢复</em> 了。
+* 他 的 职位 <em>恢复</em> 了 。
+</div>
+
+== "Restoring to original condition" with 还原 ==
+
+还原 also means "returning to the original state or condition," but this time it is strongly emphasizing going back exactly to how it was before. It does not have the same "destroyed" connotation of 恢复.
+
+Grammar pattern-wise, it's pretty much used the same way as 恢复.
+
+<div class="jiegou">
+还原 + Noun Phrase
+</div>
+
+===Examples===
+
+<div class="liju">
+* <em>还原</em> 历史 的 真相。
+* 他 想 把 这个 应用程序 <em>还原</em> 成 代码。
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+[[Category:grammar comparison]]
+{{Basic Grammar|恢复|C1|恢复 vs 还原|中国 1977年 <em>恢复</em> 了 高考。他 想 把 这个 应用程序 <em>还原</em> 成 代码。|grammar point|ASGGXSIR}}
+{{Rel char|恢复}}
+{{Rel char|还原}}
+{{Comparison|Adverbs}}

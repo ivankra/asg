@@ -1,0 +1,159 @@
+<!-- Comparing "cai" and "jiu" -->
+{{Grammar Box}} 
+
+Both 才 (cái) and 就 (jiù) are adverbs that have to do with expressing time, and they are both placed before verbs. However, they typically have opposite effects on the tone of the sentence, with 才 (cái) implying a sense of lateness, and 就 (jiù) imparting a sense of earliness.
+
+== Emphasis with 才 ==
+
+=== Expressing Lateness with 才 ===
+
+[[Expressing lateness with "cai"|才 indicates]] that the speaker feels that the events discussed happened later than expected. Sometimes it also expresses anxiety, impatience, anger, or other related emotions. 
+
+==== Structure ====
+
+<div class="jiegou">
+Subj. + Time Word + 才 + Verb
+</div>
+
+==== Examples ====
+
+<div class="liju">
+*我 等 了 两 个 小时 <em>才</em> 买到 票。 <span class="pinyin">Wǒ děng le liǎng gè xiǎoshí <em>cái</em> mǎi dào piào.</span><span class="trans">I waited two hours before I could buy the ticket.</span>
+*老板 十一 点 <em>才</em> 到 办公室。 <span class="pinyin">Lǎobǎn shíyī diǎn <em>cái</em> dào bàngōngshì.</span><span class="trans">The boss didn't come to the office until 11 o'clock.</span>
+*这个 项目 最少 要 花 两 个 月 <em>才</em> 能 做 完。<span class="pinyin">Zhège xiàngmù zuì shǎo yào huā liǎng gè yuè <em>cái</em> néng zuò wán.</span><span class="trans">It's going to take at least two months to complete this project.</span>
+</div>
+
+=== Expressing Small Quantity with 才 ===
+
+才 can also mean "only" in the sense of a small quantity.
+
+==== Structure ====
+
+<div class="jiegou">
+才 ( + Verb) + Measure Word + Noun 
+</div>
+
+The key thing to pay attention to here is that the 才 goes ''before'' the ''verb'', and not the "small quantity" that follows it.
+
+==== Examples ====
+
+<div class="liju">
+
+* 我们 有 这么 多 人，你 <em>才</em> 点 了 三 个 菜。  <span class="pinyin">Wǒmen yǒu zhème duō rén, nǐ <em>cái</em> diǎn le sān gè cài.</span><span class="trans">We have so many people and you only ordered three dishes.</span>
+* 我 买 了 这么 多 东西，<em>才</em> 花 了 五 百 块 。 <span class="pinyin">Wǒ mǎi le zhème duō dōngxi, <em>cái</em> huā le wǔ bǎi kuài.</span><span class="trans">I bought this many things, and I only spent 500 RMB.</span>
+
+</div>
+
+=== Expressing "Not Late" with 才 and Time ===
+
+When 才 is followed by a time, it can express the idea of "only," as in, "it's only 9 o'clock," expressing the idea that "9 o'clock is not late." This would seem to be the opposite of the 才 expressing "lateness," but it's important to remember that this 才 precedes a ''time'', and not an ''action''.
+
+==== Structure ====
+
+<div class="jiegou">
+(现在) + 才 + Time 
+</div>
+
+==== Examples ====
+
+<div class="liju">
+
+*现在 <em>才</em> 九点 ，再 玩 一会儿 。<span class="pinyin">Xiànzài <em>cái</em> jiǔ diǎn, zài wán yīhuìr.</span><span class="trans">It's only nine o'clock. Stay and hang out a little bit more.</span>
+*<em>才</em> 六点 ，起 那么 早 干吗 ？<span class="pinyin"><em>Cái</em> liù diǎn, qǐ nàme zǎo gànmá?</span><span class="trans">It's only six. Why did you get up so early?</span>
+
+</div>
+
+== Emphasis with 就 ==
+
+=== Expressing Earliness with 就 === 
+
+[[Expressing earliness with "jiu"|就 indicates]] that something has occurred earlier than the speaker expected. There may be an accompanying feeling of surprise or amazement.
+
+==== Structure ====
+
+<div class="jiegou">
+Subj. + Time + 就 + Verb + Obj.＋了
+</div>
+
+==== Examples ====
+
+<div class="liju">
+
+*她 十九 岁 <em>就</em> 结婚 了。<span class="pinyin">Tā shíjiǔ suì <em>jiù</em> jiéhūn le.</span><span class="trans">She got married when she was only 19.</span>
+*你 妹妹 十五 岁 <em>就</em> 上 大学 了？<span class="pinyin">Nǐ mèimei shíwǔ suì <em>jiù</em> shàng dàxué le?</span><span class="trans">Your younger sister started college when she was only fifteen?</span>
+*他 下午 四点 <em>就</em> 吃 晚饭 了。<span class="pinyin">Tā xiàwǔ sì diǎn <em>jiù</em> chī wǎnfàn le.</span><span class="trans">He ate dinner at four in the afternoon.</span>
+*你们 这么 早 <em>就</em> 下班 了？<span class="pinyin">Nǐmen zhème zǎo <em>jiù</em> xiàbān le?</span><span class="trans">You guys getting off work this early?</span>
+*我 八点 <em>就</em> 出门 了，路 上 堵车，我 还是 迟到 了 十 分钟。<span class="pinyin">Wǒ bā diǎn <em>jiù</em> chūmén le, lùshang dǔchē, wǒ háishi chídào le shí fēnzhōng.</span><span class="trans">I left at eight o'clock, but there was a traffic jam, so I was still ten minutes late.</span>
+
+</div>
+
+=== Expressing Small Quantity with 就 === 
+
+就 can be used to mean "only," in the sense of a small quantity.
+
+If you're thinking, "''didn't we just learn to use 才 to also mean small quantity??''" then you're very perceptive, and the answer is ''yes''. For this "small quantity" emphasis, both 才 and 就 can be used before the verb to express essentially the same thing. (If you really want to split hairs, native speakers might say that there's a tiny difference in emphasis between the two, but that level of nuance goes beyond the scope of this grammar point.)
+
+==== Structure ====
+
+<div class="jiegou">
+Subj. + 就 + (＋Verb) ＋ Measure Word ＋ Noun
+</div>
+
+==== Examples ====
+
+<div class="liju">
+
+*我们 有 这么 多 人，你 <em>就</em> 买 了 一 瓶 可乐？<span class="pinyin">Wǒmen yǒu zhème duō rén, nǐ <em>jiù</em> mǎi le yī píng kělè?</span><span class="trans">We have all these people, and you just bought that one bottle of cola?</span>
+*你们 每天 <em>就</em> 睡 四 个 小时？ <span class="pinyin">Nǐmen měi tiān <em>jiù</em> shuì sì gè xiǎoshí?</span><span class="trans">Do you only sleep four hours every day?</span>
+*每 个 人 都 写 了 五页 纸，你 <em>就</em> 写 了 一 页 纸！ <span class="pinyin">Měi gè rén dōu xiě le wǔ yè zhǐ, nǐ <em>jiù</em> xiě le yī yè zhǐ!</span><span class="trans">Everyone wrote five pages, but you wrote just one?</span>
+*那 时候 中国人 都 生 四 五 个 孩子，他们 家 <em>就</em> 一 个 孩子？ <span class="pinyin">Nà shíhou Zhōngguó rén dōu shēng sì wǔ gè háizi, tāmen jiā <em>jiù</em> yī gè háizi?</span><span class="trans">At that time Chinese people all had four or five children, but their family only had one?</span>
+
+</div>
+
+== Using 才 and 就 Together ==
+
+They're not matter and anti-matter; these two "opposite" words can actually be used together. When used together, they're the "just recently" meaning of 才 and the "early" meaning of 就. Together, they indicate that one thing ''just happened recently'', and then the other happened ''soon after''.
+
+=== Structure ===
+
+<div class="jiegou">
+Subj + 才 + Verb  + 就 + Verb Phrase
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*你 <em>才</em> 来 <em>就</em> 要 走 ？不 多 坐 一会儿 ？<span class="pinyin">Nǐ <em>cái</em> lái <em>jiù</em> yào zǒu? bù duō zuò yīhuìr?</span><span class="trans">You only just came and you‘re leaving already? Are you not going to sit a little longer?</span>
+*电影 <em>才</em> 开始 你 <em>就</em> 不 想 看 了 ？<span class="pinyin">Diànyǐng <em>cái</em> kāishǐ nǐ <em>jiù</em> bù xiǎng kàn le?</span><span class="trans">The movie just started and you don't want to watch it anymore?</span> 
+*他 <em>才</em> 毕业 <em>就</em> 找到 了 这么 好 的 工作 ？<span class="pinyin">Tā <em>cái</em> bìyè <em>jiù</em> zhǎodào le zhème hǎo de gōngzuò?</span><span class="trans">He just graduated and already found such a good job?</span>
+</div>
+
+== See also==
+
+*[[Expressing lateness with "cai"]]
+*[[Expressing earliness with "jiu"]]
+*[["cai" used for small numbers]]
+*[["Just" with "jiu" ]]
+*[[Emphasis with "jiu"]]
+*[[Expressing "as one likes" with "jiu" ]]
+*[[Expressing indifference with "jiu"]]
+*[[Limiting scope with "jiu"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级) |107}} 
+{{Source|HSK Standard Course 3|101}}
+
+[[Category:grammar comparison]]
+{{HSK|HSK3}}
+{{Basic Grammar|才|B2|才 vs 就|我 花 了 两 天 <em>才</em>修 好 ，你 一下子 <em>就</em> 弄 坏 了。|grammar point|ASGLOS9C}}
+{{Rel char|就}}
+{{Similar|Expressing lateness with "cai"}}   
+{{Similar|Expressing "small quantity" with "jiu"}}  
+{{Similar|Expressing earliness with "jiu"}}   
+{{Used for|Expressing time and date}}
+{{Used for|Expressing attitude}}
+{{Used for|Sequencing events in time}}
+{{Comparison|Adverbs}}

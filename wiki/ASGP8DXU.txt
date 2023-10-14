@@ -1,0 +1,46 @@
+<!-- Expressing "any" with "renhe" -->
+{{Grammar Box}} 
+任何 (rènhé) is a modifier that means "any," "whichever," or "whatsoever." It is also like the English phrases "any and all" or "no matter what."
+
+== Structure ==
+
+This modifier usually does not use 的. It is often paired with 都 or 也.
+
+<div class="jiegou">
+任何 + Noun + 都 / 也 ……
+</div>
+
+== Examples ==
+
+<div class="liju">
+*你 到 派对 以后 <em>任何</em> 饮料 都 不要 喝。<span class="pinyin">Nǐ dào pàiduì yǐhòu <em>rènhé</em> yǐnliào dōu bùyào hē.</span><span class="trans">After you arrive at the party, don't drink anything.</span>
+*这里 在 修 路，<em>任何</em> 车 都 不 可以 通过。<span class="pinyin">Zhèlǐ zài xiū lù, <em>rènhé</em> chē dōu bù kěyǐ tōngguò.</span><span class="trans">The road is under repair. No cars are allowed to pass here.</span>
+*这 是 我们 俩 的 秘密 ， 跟 <em>任何</em> 人 都 不要 说 。 <span class="pinyin">Zhè shì wǒmen liǎ de mìmì, gēn <em>rènhé</em> rén dōu bùyào shuō.</span><span class="trans">This is our secret. Don't tell it to anyone.</span>
+*我 父母 不 让 我 参加 <em>任何</em> 校外 的 活动 。 <span class="pinyin">Wǒ fùmǔ bù ràng wǒ cānjiā <em>rènhé</em> xiàowài de huódòng.</span><span class="trans">My parents won't let me participate in any extracurricular activities.</span>
+*这么 多 年 过去 了 ， 他 还是 没有 <em>任何</em> 变化 。 <span class="pinyin">Zhème duō nián guòqù le, tā háishì méiyǒu <em> rènhé</em> biànhuà.</span><span class="trans">So many years have passed, and he hasn't changed a bit.</span>
+*这 种 情况 在 <em>任何</em> 时候 都 不能 发生 。 <span class="pinyin">Zhè zhǒng qíngkuàng zài <em>rènhé</em> shíhou dōu bù néng fāshēng.</span><span class="trans">You can't let this kind of thing happen under any circumstance.</span>
+*我 家 永远 欢迎 你， <em>任何</em> 时候 都 可以 来。<span class="pinyin">Wǒ jiā yǒngyuǎn huānyíng nǐ, <em>rènhé</em> shíhou dōu kěyǐ lái.</span><span class="trans">You are always welcome in our house. You can come by anytime.</span>
+*这 次 的项目 很 重要，<em>任何</em> 意外 都 不 要 发生。<span class="pinyin">Zhè cì de xiàngmù hěn zhòngyào, <em>rènhé</em> yìwài dōu bùyào fāshēng.</span><span class="trans">This is a very important project and no accidents are to happen.</span>
+*我们 老板 人 很 好 ， 你 有 <em>任何</em> 想法 都 可以 跟 他 说 。 <span class="pinyin">Wǒmen lǎobǎn rén hěn hǎo, nǐ yǒu <em>rènhé</em> xiǎngfǎ dōu kěyǐ gēn tā shuō.</span><span class="trans">Our boss is a very good person. Any thoughts you have you can discuss with him.</span>
+*我 先 走 了 ，有 <em>任何</em> 需要 给 我 打 电话 吧 。 <span class="pinyin">Wǒ xiān zǒu le, yǒu <em>rènhé</em> xūyào gěi wǒ dǎ diànhuà bā.</span><span class="trans">I need to go now. Call me if you need anything at all.</span>
+</div>
+
+== See also ==
+
+*[[Referring to "all" using "suoyou"]]
+*[[Expressing "all" with "shenme dou"]]
+
+== Sources and further reading ==
+
+{{Source|Boya Chinese Lower Intermediate 1 (博雅汉语准中级加速篇)|173}}
+
+[[Category:B2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|任何|B2|任何 + Noun + 都 / 也 ……|我 的 弟弟 特别 顽固，<em>任何</em> 的 人 都 不 能 说服 他。|grammar point|ASGP8DXU}}
+{{Rel char|都}}
+{{Rel char|也}} 
+{{Similar|Referring to "all" using "suoyou"}}
+{{Structure|Sentence Patterns}}
+{{Used for|Expressing quantity}}
+{{Translation|all}}
+{{Translation|any}}

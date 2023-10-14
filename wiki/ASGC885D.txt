@@ -1,0 +1,79 @@
+<!-- Expressing "really" with "zhen" -->
+{{Grammar Box}}
+
+As an [[adverb]], the word 真 (zhēn) means "really" or "truly."
+
+== 真 (zhēn) Before an Adjective ==
+
+=== Structure ===
+
+真 (zhēn) is used only in exclamatory sentences and comes before an adjective.
+
+<div class= "jiegou">
+
+真 + Adj. 
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*你 <em>真</em> 好！<span class="pinyin">Nǐ <em>zhēn</em> hǎo!</span><span class="trans">You are so nice! </span>
+*你 女朋友 <em>真</em> 漂亮！<span class="pinyin">Nǐ nǚpéngyou <em>zhēn</em> piàoliang! </span><span class="trans">Your girlfriend is really pretty!</span>
+*他 家 <em>真</em> 有钱！<span class="pinyin">Tā jiā <em>zhēn</em> yǒuqián! </span><span class="trans">His family is really rich!</span>
+*小狗 <em>真</em> 可爱！<span class="pinyin">Xiǎogǒu <em>zhēn</em> kě'ài! </span><span class="trans">This puppy is really cute!</span>
+*今天 <em>真</em> 热！<span class="pinyin">Jīntiān <em>zhēn</em> rè! </span><span class="trans">It's truly hot today!</span>
+
+</div>
+
+== 真 (zhēn) Before Certain Verbs or 能 (néng) / 会 (huì) ==
+
+We don't want to get too technical on you, but there are certain other words that can be jazzed up with 真 (zhēn). One type of word is [[auxiliary verb]]s, like 能 (néng) and 会 (huì). The other type is [[psychological verb]]s like 喜欢 (xǐhuan).
+
+=== Structure ===
+
+<div class= "jiegou">
+
+真 + Verb 
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*你 妈妈 <em>真</em> 爱 你！<span class="pinyin">Nǐ māma <em>zhēn</em> ài nǐ! </span><span class="trans">Your mother really loves you! </span>
+*我 <em>真</em> 喜欢 住 在 中国！<span class="pinyin">Wǒ <em>zhēn</em> xǐhuan zhù zài Zhōngguó!</span><span class="trans">I really like living in China! </span>
+*我 <em>真</em> 讨厌 这 种 男人！<span class="pinyin">Wǒ <em>zhēn</em> tǎoyàn zhè zhǒng nánrén!</span><span class="trans">I really hate this kind of guy! </span>
+*你 <em>真</em> 会 说话！<span class="pinyin">Nǐ <em>zhēn</em> huì shuōhuà! </span><span class="trans">You are so good with words! </span>
+*你 <em>真</em> 能 吃！<span class="pinyin">Nǐ <em>zhēn</em> néng chī! </span><span class="trans">You can really eat!</span>
+
+</div>
+
+== See also ==
+
+* [[Expressing "excessively" with tai]]
+* [[Positive adjectives with "-ji le"]]
+* [[Expressing "quite" with "ting"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|20}}
+=== Websites ===
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+[[Category: Adverbs]]
+
+{{Basic Grammar|真|A2|真 + Adj.|你 女朋友 <em>真</em> 漂亮 。|grammar point|ASGC885D}}
+{{Similar|Adjectives with "name" and "zheme"}} 
+{{Similar|Positive adjectives with "-ji le"}} 
+{{Similar|Doing something more with "duo"}}
+{{Similar|Expressing "excessively" with tai}}
+{{Similar|Expressing "quite" with "ting"}}
+{{Used for|Emphasizing}}
+{{Translation|very}}
+{{Translation|really}}
+{{POS|Adverbs with Adjectives}}

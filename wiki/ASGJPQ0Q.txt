@@ -1,0 +1,74 @@
+<!-- Assessing situations with "kanlai" -->
+{{Grammar Box}} 
+看来 (kànlái) can be translated as "apparently" or "it seems" and is used by the speaker to introduce his understanding of a situation.
+
+Don't confuse [[Comparing "kanqilai" and "kanlai"|看来 with 看起来 (kànqilai)]], which means "it looks like."
+
+== 看来 as "It Seems" ==
+
+When speaking objectively about a situation, you can simply say 看来 and then state your perspective. 
+
+===Structure===
+
+<div class="jiegou">
+看来 + Perspective
+</div>
+
+===Examples===
+
+<div class="liju">
+* <em>看来</em> 他 不 来 了，都 这么 晚 了。<span class="pinyin"><em>Kànlái</em> tā bù lái le, dōu zhème wǎn le.</span><span class="trans">It seems he's not coming. It's already so late.</span>
+* <em>看来</em> 你 玩 得 不 高兴，怎么 这么 早 就 回来 了？<span class="pinyin"><em>Kànlái</em> nǐ wán de bù gāoxìng, zěnme zhème zǎo jiù huílái le?</span><span class="trans">It seems you didn't have a good time. Why did you come back so early?</span>
+* <em>看来</em> 我们 来 晚 了，排 的 队 这么 长。<span class="pinyin"><em>Kànlái</em> wǒmen lái wǎn le, pái de duì zhème cháng.</span><span class="trans">It seems we are late. The line is so long.</span>
+* <em>看来</em> 今年 失业率 会 增加，因为 今年 的 经济 不太 好。<span class="pinyin"><em>Kànlái</em> jīnnián shīyè lǜ huì zēngjiā, yīnwèi jīnnián de jīngjì bù tài hǎo.</span><span class="trans">It seems that the unemployment rate will increase this year because this year's economy is not very good.</span>
+* 现在 <em>看来</em> ，事情 没 那么 糟。<span class="pinyin">Xiànzài <em>kànlái</em>, shìqing méi nàme zāo.</span><span class="trans">Now it looks like things aren't that bad.</span>
+</div>
+
+== 看来 as "From X's Perspective" ==
+
+看来 can also be used to highlight a specific person's point of view. This is like saying "the way he/she sees it..." You can also say 在我看来, which is the longer version of just using 看来. It is used more often that way in formal speaking and writing, as it has more of a feeling like saying, "in my opinion...."
+
+=== Structure ===
+
+<div class="jiegou">
+在 + Person + 看来 + Perspective
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* <em>在</em> <strong>我</strong> <em>看来</em> ，不 会 花 钱 的 人 就 不 会 享受 生活。<span class="pinyin"><em>Zài</em> <strong>wǒ</strong> <em>kànlái</em>, bù huì huā qián de rén jiù bù huì xiǎngshòu shēnghuó.</span><span class="trans">The way I see it, people who won't spend money don't enjoy life.</span>
+* <em>在</em> <strong>他</strong> <em>看来</em> ，公司 大小 不重要，重要 的 是 老板 好 不 好 。<span class="pinyin"><em>Zài</em> <strong>tā</strong> <em>kànlái</em>, gōngsī dàxiǎo bù zhòngyào, zhòngyào de shì lǎobǎn hǎo bù hǎo.</span><span class="trans">In his view, the size of the company isn't important. What's important is whether or not the boss is good.</span>
+* <em>在</em> <strong>老板</strong> <em>看来</em> ，加班 才 说明 你 工作 积极。<span class="pinyin"><em>Zài</em> <strong>lǎobǎn</strong> <em>kànlái</em>, jiābān cái shuōmíng nǐ gōngzuò jījí.</span><span class="trans">The way the boss sees it, only working overtime means you're proactive in your work.</span>
+* <em>在</em> <strong>朋友</strong> <em>看来</em> ，这 件 事 并 没有 这么 严重。<span class="pinyin"><em>Zài</em> <strong>péngyou</strong> <em>kànlái</em>, zhè jiàn shì bìng méiyǒu zhème yánzhòng.</span><span class="trans">According to friends, this situation is not very serious at all.</span>
+* <em>在</em> <strong>你</strong> <em>看来</em> ，这 件 事 要 怎么 解决？<span class="pinyin"><em>Zài</em> <strong>nǐ</strong> <em>kànlái</em>, zhè jiàn shì yào zěnme jiějué?</span><span class="trans">In your opinion, how can this issue be solved?</span>
+</div>
+
+==See also==
+
+*[["For…" with "eryan" ]]
+*[[Limiting scope with "jiu"]]
+*[[Appearance with "kanqilai"]]
+*[["It seems" with "haoxiang" ]]
+
+== Sources and further reading ==
+
+===Books===
+
+{{Source|HSK Standard Course 4上|121}}
+{{Source|Integrated Chinese: Level 2, Part 2|60}}
+{{Source|卓越汉语－公司实战篇|211}}
+
+=== Dictionaries ===
+
+* [[现代汉语词典（第5版）]] (pp.763) [http://www.amazon.cn/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E8%AF%8D%E5%85%B8/dp/B001B1RZCI/ref=sr_1_1?ie=UTF8&qid=1345693609&sr=8-1 →buy]
+
+[[Category:B2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|看来|B2|看来 + Judgment to the Situation；在 + Person + 看来|<em>看来</em>他不来了，都这么晚了。|grammar point|ASGJPQ0Q}}
+{{Rel char|看}}
+{{Similar|"It seems" with "haoxiang"}}   
+{{Similar|Appearance with "kanqilai"}}
+{{Similar|Comparing "kanqilai" and "kanlai"}}
+{{Used for|Referring to the future}}
+{{POS|Adverbs}}

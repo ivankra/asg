@@ -1,0 +1,78 @@
+<!-- Using "ye" and "dou" together -->
+{{Grammar Box}} 
+
+If you are trying to call attention to similarities between multiple things, you will want to use 也 (yě) first followed by 都 (dōu) to express that these multiple things have something in common.
+
+== Positive Form ==
+
+=== Structure ===
+
+When using 也 (yě) and 都 (dōu) in the same sentence, remember to put 也 (yě) first:
+
+<div class="jiegou">
+Subj. + 也都 + Predicate
+</div>
+
+The [[predicate]] part of the pattern can be a verb or an adjective.
+
+=== Examples ===
+
+<div class="liju">
+
+*我 很 好 ，我 的 家人 <em>也 都</em> 很 好 。<span class="pinyin">Wǒ hěn hǎo, wǒ de jiārén <em>yě dōu</em> hěn hǎo.</span><span class="trans">I'm good. So is everyone in my family.</span>
+*大人 很 喜欢 这个 餐厅 ，孩子 们 <em>也 都</em> 很 喜欢 。<span class="pinyin">Dàren hěn xǐhuan zhège cāntīng, háizi men <em>yě dōu</em> hěn xǐhuan.</span><span class="trans">Adults all like this restaurant, and the children all like it too.</span>
+*我 老板 是 美国 人 ，很 多 客户 <em>也 都</em> 是 美国 人 。<span class="pinyin">Wǒ lǎobǎn shì Měiguó rén, hěn duō kèhù <em>yě dōu</em> shì Měiguó rén.</span><span class="trans">My boss is American. Lots of our clients are also Americans.</span>
+*他 很 高 ，他 的 两 个 弟弟 <em>也 都</em> 比较 高 。<span class="pinyin">Tā hěn gāo, tā de liǎng gè dìdi <em>yě dōu</em> bǐjiào gāo.</span><span class="trans">He's tall. His two younger brothers are also pretty tall.</span>
+*老板 加班 ，你们 <em>也 都</em> 要 加班 吗 ？<span class="pinyin">Lǎobǎn jiābān, nǐmen <em>yě dōu</em> yào jiābān ma?</span><span class="trans">The boss will be working late. Will you all need to work late too?</span>
+
+</div>
+
+== Negative Form ==
+
+=== Structure ===
+
+If you're using 不 (bù) or 没 (méi) with 也都  (yě dōu) in the same sentence, remember to put 不 (bù) or 没(méi) after 也都 (yě dōu):
+
+<div class="jiegou">
+Subj. + 也都 + 不 / 没 + Predicate
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我们 <em>也 都  没</em> 吃饭 ，一起 去 吧 。<span class="pinyin">Wǒmen <em>yě dōu méi</em> chīfàn, yīqǐ qù ba.</span><span class="trans">We all haven't eaten either. Let's go together.</span>
+*这些 不 贵 ，那些 <em>也 都 不</em> 贵 。<span class="pinyin">Zhèxiē bù guì, nàxiē <em>yě dōu bù</em> guì.</span><span class="trans">These are not expensive. Those aren't expensive, either.</span>
+*我 不 喜欢 蝙蝠侠 ，我 的 朋友 <em>也 都 不 </em> 喜欢 他 。<span class="pinyin">Wǒ bù xǐhuan Biānfú-xiá, wǒ de péngyou <em>yě dōu bù</em> xǐhuan tā.</span><span class="trans">I don't like Batman. My friends don't like him, either.</span>
+*你 觉得 你 不 容易 ？我们 <em>也 都 不</em> 容易 。<span class="pinyin">Nǐ juéde nǐ bù róngyì? Wǒmen <em>yě dōu bù</em> róngyì.</span><span class="trans">You're saying it isn't easy for you? It isn't easy for us, either.</span>
+*我 没 去 过 美国 ，我 的 家人 <em>也 都 没</em> 去 过 。<span class="pinyin">Wǒ méi qù guo Měiguó, wǒ de jiārén <em>yě dōu méi</em> qù guo.</span><span class="trans">I've never been to the USA. My family has never been there, either.</span>
+
+</div>
+
+== See also ==
+
+*[[The "all" adverb]]
+*[[The "also" adverb]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|31-2}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|88}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|73}} 
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|53-4}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|88}}
+{{Source|Basic Patterns of Chinese Grammar|35}}
+
+
+[[Category:B1 grammar points]]
+{{Basic Grammar|都|B1|也都 + Verb / Adj.|他们 <em>也 都</em> 是 法国 人 。|grammar point|ASG8GSXY}}
+{{Rel char|也}}
+{{Similar|The all adverb}} 
+{{Similar|The also adverb}}
+{{POS|Adverbs}}
+{{Used for|Expressing quantity}}
+{{Translation|all}}
+{{Translation|also}}
+{{Translation|both}}

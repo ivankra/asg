@@ -1,0 +1,91 @@
+<!-- Using the verb "qu" -->
+{{Grammar Box}} 
+
+You can use 去 (qù) whenever you have somewhere to go. It's pretty easy to get a handle on this verb; the only trick is getting used to not needing a word for "to" before the destination.
+
+== 去 (qù)  with Just a Place ==
+
+The verb 去 (qù) means "to go," and is an easy way to talk about going to places.
+
+===  Structure === 
+
+<div class="jiegou">
+
+Subj. + 去 + [Place]
+
+</div>
+
+Notice that you don't need a word to express "to."
+
+===  Examples ===
+
+<div class="liju">
+* 我 <em>去</em> 公司 。<span class="expl">公司 literally means "company" but is often used to mean "office."</span><span class="pinyin">Wǒ <em>qù</em> gōngsī.</span><span class="trans">I'm going to the office.</span>
+* 你 <em>去</em> 洗手间 吗？<span class="pinyin">Nǐ <em>qù</em> xǐshǒujiān ma?</span><span class="trans">Are you going to the restroom?</span>
+* 下午 我 会 <em>去</em> 超市。<span class="pinyin">Xiàwǔ wǒ huì <em>qù</em> chāoshì.</span><span class="trans">In the afternoon, I'll go to the supermarket.</span>
+* 我们 现在 <em>去</em> 公园。<span class="pinyin">Wǒmen xiànzài <em>qù</em> gōngyuán.</span><span class="trans">We're going to the park now.</span>
+* 晚上 我们  <em>去</em> 酒吧 。你 去 吗 ？<span class="pinyin">Wǎnshang wǒmen <em>qù</em> jiǔbā. Nǐ qù ma?</span><span class="trans">Tonight we're going to the bar. Are you going?</span>
+
+</div>
+
+You can also use 去 (qù) for [[asking questions]]. (Note the use of question words and question particles.)
+
+<div class="liju">
+
+<ul class="dialog">
+<li><span class="speaker">A:</span> 你 <em>去</em> <strong>哪儿</strong> ？<span class="pinyin">Nǐ <em>qù</em> <strong>nǎr </strong>?</span><span class="trans">Where are you going?</span></li>
+<li><span class="speaker">B:</span> 我 <em>去</em> <strong>学校</strong> 。<span class="pinyin">Wǒ <em>qù</em> <strong>xuéxiào </strong>.</span><span class="trans">I am going to school.</span></li>
+</ul>
+<ul class="dialog">
+<li><span class="speaker">A:</span> 你 <em>去</em> 我 家 <strong>吗</strong>？<span class="pinyin">Nǐ <em>qù</em>  wǒ jiā <strong>ma </strong>?</span><span class="trans">Are you going to my place?</span></li>
+<li><span class="speaker">B:</span> 我 <em>去</em>。<span class="expl">literally, "I'm going."</span><span class="pinyin">Wǒ <em>qù</em>.</span><span class="trans">Yes.</span></li>
+</ul>
+
+</div>
+
+When answering a yes-no question that uses 去 (qù) you don't need anything following it. However, it's important to note that you cannot just use 去 (qù) when there is no context.
+
+== 去 (qù) with a Verb ==
+
+Instead of a place, 去 (qù) can also be followed by some sort of action. The structure then means "go to do (something)," and "go and do (something)." 
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + 去 + Verb
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 我 <em>去</em> 工作 。<span class="pinyin">Wǒ <em>qù</em> gōngzuò.</span><span class="trans">I'm going to work.</span>
+* 他 <em>去</em> 上课 。<span class="pinyin">Tā <em>qù</em> shàngkè.</span><span class="trans">He's going to class.</span>
+* 你 想 <em>去</em> 旅行 吗？<span class="pinyin">Nǐ xiǎng <em>qù</em> lǚxíng ma?</span><span class="trans">Would you like to go travel?</span>
+* 我们 <em>去</em> 吃饭 吧 。<span class="pinyin">Wǒmen <em>qù</em> chīfàn ba.</span><span class="trans">Let's go eat.</span>
+* 九 点 我们 <em>去</em> 买 。<span class="pinyin">Jiǔ diǎn wǒmen <em>qù</em> mǎi.</span><span class="trans">At 9 o'clock, we'll go buy it.</span>
+</div>
+
+==See also==
+*[[Expressing movement]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|50}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|106}}
+{{Source|现代汉语八百词（增订本）|455-6}}
+{{Source|Chinese: An Essential Grammar, Second Edition|67}}
+
+[[Category:A1 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+[[Category:Verbs]]
+[[Category:Dialogs]]
+{{Basic Grammar|去|A1|去 + Place|我 <em>去</em> 学校。|grammar point|ASGFYNCL}}
+{{Used for|Expressing movement}}
+{{Similar|To go to a place}}
+{{POS|Verbs}}
+{{Subprop|Verbs}}
+{{Translation|Go}}

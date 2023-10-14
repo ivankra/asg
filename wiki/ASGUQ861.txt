@@ -1,0 +1,71 @@
+<!-- Expressing "not even one" -->
+{{Grammar Box}} 
+In English we might want to say something like "I have absolutely no money, not even one penny." Expressing that "not even one" can take one of several forms, all of which are common in everyday Chinese.
+
+== Basic Pattern ==
+
+=== Structure ===
+
+This structure is usually used for emphasizing how little of something there is. The measure word in the middle of the sentence and the noun should be compatible with the verb at the end. 
+
+<div class="jiegou">
+一 + Measure Word + Noun + [也 / 都] + [不 / 没] + Verb
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*他 <em>一</em> 句 话 <em>都</em> 没 说 。 <span class="pinyin">Tā <em>yī</em> jù huà <em>dōu</em> méi shuō.</span><span class="trans">He didn't say a thing.</span>
+*他 <em>一</em> 句 中文 <em>都</em> 不 会 说 。 <span class="pinyin">Tā <em>yī</em> jù Zhōngwén <em>dōu</em> bù huì shuō.</span><span class="trans">He can't speak one sentence of Chinese.</span>
+*为什么 这里 <em>一</em> 个 人 <em>都</em> 没有 ？ <span class="pinyin">Wèishénme zhèlǐ <em>yī</em> gè rén <em>dōu</em> méiyǒu? </span><span class="trans">Why is there not a single person here? </span>
+*我 <em>一</em> 口 <em>都</em> 没 吃 。 <span class="pinyin">Wǒ <em>yī</em> kǒu <em>dōu</em> méi chī.</span><span class="trans">I haven't had a single bite.</span>
+*来 上海 以前 ， 他 <em>一</em> 个 外国 朋友 <em>都</em> 没有 。 <span class="pinyin">Lái Shànghǎi yǐqián, tā <em>yī</em> gè wàiguó péngyou <em>dōu</em> méiyǒu.</span><span class="trans">He didn't have a single foreign friend before coming to Shanghai.</span>
+*她 <em>一</em> 瓶 可乐 <em>也</em> 没 喝 。 <span class="pinyin">Tā <em>yī</em> píng kělè <em>yě</em> méi hē.</span><span class="trans">She didn't drink a single bottle of cola.</span>
+*我 <em>一</em>点 消息 <em>都</em> 不 知道 。 <span class="pinyin">Wǒ <em>yī</em> diǎn xiāoxi <em>dōu</em> bù zhīdào.</span><span class="trans">I don't know a single thing.</span>
+
+</div>
+
+== Advanced Pattern ==
+
+=== Structure ===
+
+If you want to put the [[Topic-comment sentences|topic]] of your conversation at the beginning of the sentence, make sure the comment which follows has a strong emphasis or some kind of extreme quality.
+
+<div class="jiegou">
+Topic + Subj. + 一 + Measure Word + Noun + [也 / 都] + Verb
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<strong>这个 人</strong> 我 <em>一</em> 次 <em>都</em> 没 见 过 。 <span class="pinyin"><strong>Zhège rén </strong>wǒ <em>yī</em> cì <em>yě</em> méi jiàn guo.</span><span class="trans">I've never met this person even once.</span>
+*<strong>这样 的 菜</strong> 我 <em>一</em> 次 <em>也</em> 没 吃 过 。<span class="pinyin"><strong>Zhèyàng de cài </strong> wǒ <em>yī</em> cì <em>yě</em> méi chī guo.</span><span class="trans">I've never eaten this kind of food before.</span>
+*<strong>这 次 活动</strong> 我们 公司 <em>一</em>个 人 <em>也</em> 没 参加 。 <span class="pinyin"><strong>Zhè cì huódòng </strong>wǒmen gōngsī <em>yī</em> gè rén <em>yě</em> méi cānjiā.</span><span class="trans">Not one person in our company has participated in this activity.</span>
+
+</div>
+
+== See also ==
+
+*[[Expressing "not at all" with "yidianr ye bu"]]
+*[[Expressing "even" with "lian" and "dou"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|4}}
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|153}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|37 - 9}}
+
+[[Category:B2 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|一|B2|一 + Measure Word + (Noun) + 也 / 都 + 不 / 没 + Verb|<em>一</em> 句 中文 <em>都</em> 不 会 说 。|grammar point|ASGUQ861}}
+{{Rel char|也}}
+{{Rel char|都}}
+{{Similar|Expressing "not at all" with "yidianr ye bu"}}   
+{{Similar|Expressing "even" with "lian" and "dou"}}   
+{{Similar|Advanced uses of "lian"}}
+{{Used for|Describing things}}
+{{Structure|Sentence Patterns}}

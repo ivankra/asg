@@ -1,0 +1,99 @@
+<!-- Questions with "ne" -->
+{{Grammar Box}} 
+
+The particle 呢 (ne) can be used to ask reciprocal questions, also known as "bounce back" questions. 呢 (ne) can also be used to form simple questions asking "what about...?" or "how about...?"
+
+== General Questions with 呢 (ne) ==
+
+=== Structure ===
+
+<div class="jiegou">
+Topic + 呢 ？
+</div>
+
+And it's as simple as that. Say what you want to ask about, then stick 呢 (ne) on the end. A very common way to use this is to return a question after being asked it. The classic example is this exchange:
+
+<div class="liju">
+
+<ul class="dialog">
+<li><span class="speaker">A:</span> 你 好 吗 ？<span class="pinyin">Nǐ hǎo ma?</span></li> 
+<li><span class="speaker">B:</span> 我 很 好 。你 <em>呢</em> ？<span class="pinyin">Wǒ hěn hǎo. Nǐ <em>ne</em>?</span></li>
+<li><span class="speaker">A:</span> 我 也 很 好 。<span class="pinyin">Wǒ yě hěn hǎo.</span></li>
+</ul>
+
+</div>
+
+=== Examples ===
+
+More 呢 (ne) examples (each of these can be translated as a "what about" question):
+
+<div class="liju">
+
+* 这 个 很 好 ， 那 个 <em>呢</em> ？<span class="pinyin">Zhège hěn hǎo, nàge <em>ne</em>?</span><span class="trans">This one is good. What about that one?</span>
+* 这 个 用 中文 怎么 说？那 个 <em>呢</em> ？<span class="pinyin">Zhège yòng Zhōngwén zěnme shuō? Nàge <em>ne</em>?</span><span class="trans">How do I say this in Chinese? And that?</span>
+* 我 在 家，你 <em>呢</em> ？<span class="pinyin">Wǒ zài jiā. Nǐ <em>ne</em>?</span><span class="trans">I'm at home. What about you?</span>
+* 你 爸爸 是 上海 人 ，你 妈妈 <em>呢</em> ？<span class="pinyin">Nǐ bàba shì Shànghǎi rén, nǐ māma <em>ne</em>?</span><span class="trans">Your father is Shanghainese. And your mom?</span>
+* 你 哥哥 有 工作，弟弟 <em>呢</em> ？<span class="pinyin">Nǐ gēge yǒu gōngzuò. Dìdi <em>ne</em>?</span><span class="trans">Your big brother has a job. What about your little brother?</span>
+* 北京 下雨 了 。 上海 <em>呢</em> ？<span class="pinyin">Běijīng xiàyǔ le. Shànghǎi <em>ne</em>?</span><span class="trans">It's raining in Beijing. How about in Shanghai?</span>
+* 我 现在 要 出去 。 你 <em>呢</em> ？<span class="pinyin">Wǒ xiànzài yào chūqù. Nǐ <em>ne</em>?</span><span class="trans">I'm going to go out now. How about you?</span>
+* 我 知道 你 会 说 中文 。 你 老公 <em>呢</em> ？<span class="pinyin">Wǒ zhīdào nǐ huì shuō Zhōngwén. Nǐ lǎogōng <em>ne</em>?</span><span class="trans">I know you can speak Chinese. What about your husband?</span>
+* 这 个 周末 我 想 去 酒吧 。 你们<em>呢</em> ？<span class="pinyin">Zhège zhōumò wǒ xiǎng qù jiǔbā. Nǐmen <em>ne</em>?</span><span class="trans">I want to go to a bar this weekend. What about you all?</span>
+* 今天 晚上 没 空 ？ 明天 晚上<em>呢</em> ？<span class="pinyin">Jīntiān wǎnshang méi kòng? Míngtiān wǎnshang <em>ne</em>? </span><span class="trans">You don't have time tonight? What about tomorrow evening? </span>
+
+</div>
+
+== Asking "Where" with 呢 (ne) ==
+
+You'll occasionally hear someone seemingly using 呢 (ne) out of the blue. When this happens, they're usually asking ''where'' someone or something is, and they expect that you know what they're talking about and know where that person or thing is.
+
+=== Structure ===
+
+<div class="jiegou">
+
+[Missing Person / Thing] + 呢 ？
+
+</div>
+
+=== Examples ===
+
+This one is simple, so just a few examples are needed:
+
+<div class="liju">
+
+* 钱 <em>呢</em> ？<span class="pinyin">Qián <em>ne</em>?</span><span class="trans">Where's the money?</span>
+* 你 妈妈 <em>呢</em> ？<span class="pinyin">Nǐ māma <em>ne</em>?</span><span class="trans">Where's your mom?</span>
+* 我 的 手机 <em>呢</em> ？<span class="pinyin">Wǒ de shǒujī <em>ne</em>?</span><span class="trans">Where's my cell phone?</span>
+
+</div>
+
+==See also==
+* [[Yes-no questions with "ma"]]
+* [[Tag questions with "ma"]]
+* [[Softening the tone of questions with "ne"]] (advanced article)
+
+== Sources and further reading ==
+
+===Books===
+
+{{Source|HSK Standard Course 1|24, 67}}
+{{Source|HSK Standard Course 3|49}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|23-4}}
+{{Source|Chinese: An Essential Grammar, Second Edition|137}}
+{{Source|Mandarin Chinese: A Functional Reference Grammar|300-7}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|87-8}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)|102-3, 251}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|97}}
+
+[[Category:A1 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{HSK|HSK3}}
+[[Category:Dialogs]]
+[[Category:Particles]]
+{{Used for|Expressing attitude}}
+{{Used for|Asking questions}}
+{{Basic Grammar|呢|A1|⋯⋯呢 ?|我 很 好。你 <em>呢</em> ?|grammar point|ASGMJHZO}}
+{{Similar|Yes - no questions with ma}} 
+{{Similar|Tag questions with ma}}
+{{Similar|Modal particle "ne"}} 
+{{Similar|Softening the Tone of Questions with "ne"}}
+{{POS|Particles}}

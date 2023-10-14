@@ -1,0 +1,84 @@
+<!-- The "all" adverb "dou" -->
+{{Grammar Box}} 
+
+The adverb 都 (dōu) is used to express "all" in Chinese. It's common to use 都 (dōu) in a variety of sentences where it would seem unnecessary in English.
+
+== 都 (dōu) for "All" ==
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + 都 + [Verb Phrase]
+
+</div>
+
+Remember that 都 (dōu) appears ''after'' the subject. A common mistake learners make is to put 都 (dōu) at the beginning of the sentence (as "all" often appears there in English). This isn't good Chinese - make sure you put 都 (dōu) after the subject and before the verb.
+
+=== Examples ===
+
+<div class="liju">
+
+* 你们 <em>都</em> 认识 John 吗 ？<span class="pinyin">Nǐmen <em>dōu</em> rènshi John ma?</span><span class="trans">Do you all know John? </span>
+* 他们 <em>都</em> 在 上海 。<span class="pinyin">Tāmen <em>dōu</em> zài Shànghǎi.</span><span class="trans">They are all in Shanghai.</span>
+* 明天 我们 <em>都</em> 可以 去 。<span class="pinyin">Míngtiān wǒmen <em>dōu</em> kěyǐ qù.</span><span class="trans">Tomorrow we all can go.</span>
+* 你们 <em>都</em> 用 wiki 吗 ？<span class="pinyin">Nǐmen <em>dōu</em> yòng wiki ma?</span><span class="trans">Do you all use the wiki? </span>
+* 我们 <em>都</em> 要 冰水。<span class="pinyin">Wǒmen <em>dōu</em> yào bīngshuǐ .</span><span class="trans">We all want ice water.</span>
+
+</div>
+
+== 都 (dōu) for "Both" ==
+
+Chinese doesn't normally use a special word for "both" like English does.  It just uses 都 (dōu) as if it were any other number greater than one.  Chinese also doesn't have a special pattern like "neither / nor" for the negative case.  Just use 都 (dōu) and make the sentence negative.  
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + 都 + [Verb Phrase]
+
+</div>
+
+This pattern should look familiar.
+
+=== Examples ===
+
+These examples follow exactly the same form in Chinese as the ones above.  The only difference is that here we don't translate 都 (dōu) as "all" in English; we translate it as "both," and for negative cases, we translate it as "neither."
+
+<div class="liju">
+
+* 我们 两 个 <em>都</em> 爱 你 。<span class="pinyin">Wǒmen liǎng gè <em>dōu</em> ài nǐ.</span><span class="trans">The two of us both love you.</span>
+*  你 爸爸 和 你 妈妈 <em>都</em> 是 美国人 吗？<span class="pinyin"> Nǐ bàba hé nǐ māma <em>dōu</em> shì Měiguó rén ma?</span><span class="trans">Are your father and your mother both Americans? </span>
+* 我 和 我 太太 <em>都</em>  不 吃 肉。<span class="pinyin">Wǒ hé wǒ tàitai <em>dōu</em> bù chī ròu.</span><span class="trans">Neither my wife nor I eat meat.</span>
+* 你们 两个 <em>都</em> 喜欢 中国 菜 吗？<span class="pinyin">Nǐmen liǎng gè <em>dōu</em> xǐhuan Zhōngguó cài ma? </span><span class="trans">Do you both like Chinese food? </span>
+*  她 和 她 老公 <em>都</em> 没有 工作。<span class="pinyin"> Tā hé tā lǎogōng <em>dōu</em>  méiyǒu gōngzuò.</span><span class="trans">Neither she nor her husband has a job.</span>
+
+</div>
+
+==See also==
+
+*[["Ye" and "dou" together]]
+*[[The "also" adverb "ye"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|108}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|53-4}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|88}}
+{{Source|Basic Patterns of Chinese Grammar|35}}
+
+[[Category:A1 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{Basic Grammar|都|A1|都 + Verb / Adj.|我们 <em>都</em> 住 在 上海。|grammar point|ASG9YK09}}
+{{Similar|"Ye" and "dou" together}} 
+{{Similar|The also adverb "ye"}}
+{{Similar|Pronoun "mei" for "every"}}
+{{Similar|Emphasizing quantity with "dou"}}
+{{Similar|Expressing "every time" with "mei" and "dou"}}
+{{POS|Adverbs}}
+{{Used for|Expressing quantity}}
+{{Used for|Emphasizing}}
+{{Translation|all}}
+{{Translation|both}}

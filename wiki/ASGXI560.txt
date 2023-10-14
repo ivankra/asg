@@ -1,0 +1,63 @@
+<!-- Expressing "although" with "suiran" and "danshi" -->
+{{Grammar Box}} 
+The grammar pattern 虽然⋯⋯ 但是⋯⋯ (suīrán... dànshì...) is one of the most commonly used patterns in Chinese, especially in written Chinese. You can think of it as meaning "[[although]]," but unlike in English, you still need to follow it up with a "[[but]]" word in Chinese.
+
+== Structure ==
+
+虽然⋯⋯ 但是⋯⋯ expresses that while the former part of the sentence is true, there is an adverse reaction in the latter part. 
+
+<div class="jiegou">
+虽然 ⋯⋯ ，但是 / 可是 ⋯⋯
+</div>
+
+Simply put, the pattern means, ''although..., but...'' In English, you wouldn't normally need the "but" there, but it is required in Chinese. Be aware that 可是 can be used interchangeably with 但是 for the "but" part. Also note that 还是 can be used after 但是 for emphasis, meaning "still."
+
+== Examples ==
+
+<div class="liju">
+
+*<em>虽然</em> 外面 很 冷 ，<em>可是</em> 里面 很 暖和 。<span class="pinyin"><em>Suīrán</em> wàimiàn hěn lěng, <em>kěshì</em> lǐmiàn hěn nuǎnhuo.</span><span class="trans">Although it's cold outside, it's warm inside.</span>
+*这 件 衣服 <em>虽然</em> 有点 贵 ，<em>但是</em> 质量 很 好 。<span class="pinyin">Zhè jiàn yīfu <em>suīrán</em> yǒudiǎn guì, <em>dànshì</em> zhìliàng hěn hǎo.</span><span class="trans">Although this piece of clothing is a little expensive, the quality is good.</span>
+*他 <em>虽然</em> 不 想 去 ，<em>但是</em> <strong>还是</strong> 去 了 。<span class="pinyin">Tā <em>suīrán</em> bù xiǎng qù, <em>dànshì</em> <strong>háishì</strong> qù le.</span><span class="trans">Although he didn't want to go, he ended up going.</span>
+*<em>虽然</em> 他 家 很 有钱 ，<em>可是</em> 他 从来 不 浪费 钱 。<span class="pinyin"><em>Suīrán</em> tā jiā hěn yǒuqián, <em>kěshì</em> tā cónglái bù làngfèi qián.</span><span class="trans">Even though his family is rich, he never wastes money.</span>
+*我 妹妹 <em>虽然</em> 很 胖 ，<em>可是</em> 很 灵活 。<span class="pinyin">Wǒ mèimei <em>suīrán</em> hěn pàng, <em>kěshì</em> hěn línghuó.</span><span class="trans">Although my little sister is fat, she is flexible.</span>
+*<em>虽然</em> 她 准备 得 很 好 ，<em>但是</em> <strong>还是</strong> 有点 紧张 。<span class="pinyin"><em>Suīrán</em> tā zhǔnbèi de hěn hǎo, <em>dànshì</em> <strong>háishì</strong> yǒudiǎn jǐnzhāng.</span><span class="trans">Although she has prepared very well, she's still a little nervous.</span>
+*你 <em>虽然</em> 学历 高 ，<em>可是</em> 没有 工作 经验 。<span class="pinyin">Nǐ <em>suīrán</em> xuélì gāo, <em>kěshì</em> méiyǒu gōngzuò jīngyàn.</span><span class="trans">Although you're well-educated, you don't have work experience.</span>
+*奶奶 <em>虽然</em> 八十 多 岁 了 ，<em>但是</em> 她 精神 很 好 。<span class="pinyin">Nǎinai <em>suīrán</em> bāshí duō suì le, <em>dànshì</em> tā jīngshén hěn hǎo.</span><span class="trans">Although grandma is in her eighties, she is energetic.</span>
+*<em>虽然</em> 你们 没有 赢 ，<em>但是</em> 我 知道 大家 尽力 了 。<span class="pinyin"><em>Suīrán</em> nǐmen méiyǒu yíng, <em>dànshì</em> wǒ zhīdào dàjiā jìnlì le.</span><span class="trans">Although you didn't win, I know that all of you did your best.</span>
+*<em>虽然</em> 我 认识 他 很长 时间 了 ，<em>但是</em> 我 <strong>还是</strong> 不 了解 他 。<span class="pinyin"><em>Suīrán</em> wǒ rènshi tā hěn cháng shíjiān le, <em>dànshì</em> wǒ <strong>háishì</strong> bù liǎojiě tā.</span><span class="trans">Although I've known him for a long time, I still don't know him well.</span>
+
+</div>
+
+== See also ==
+
+*[[Two words for "but"]]
+*[["Although" with "jinguan"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|108}}
+{{Source|Basic Patterns of Chinese Grammar|115-6}} 
+{{Source|Common Chinese Patterns 330 (汉语常用格式330例)|217}} 
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|245}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|256-7}} 
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2)|177}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|虽然|B1|虽然⋯⋯ ，但是 / 可是⋯⋯|<em>虽然</em> 渴 了，<em>但是</em> 不 想 喝 啤酒。|grammar point|ASGXI560}}
+{{Rel char|但是}}
+{{Rel char|但}}
+{{Rel char|可是}}
+{{Similar|"Although" with "jinguan"}}
+{{Similar|Two words for "but"}}
+{{Similar|A softer "but"}}
+{{Similar|Expressing "after all" with "bijing"}}
+{{Structure|Sentence Patterns}}
+{{Subprop|Complex Sentence Patterns}}
+{{Used for|Connecting ideas}}
+{{Used for|Contrasting}}
+{{Translation|although}}
+{{Translation|but}}

@@ -1,0 +1,154 @@
+<!-- Comparing_"kending"_"queding"_and_“yiding" -->
+{{Grammar Box}} 
+If you look up 肯定 (kěndìng), 确定 (quèdìng) and 一定 (yīdìng) in the dictionary, they all have similar meanings, like "certain" or "surely." However, using them correctly in a sentence is a bit more complicated. 
+
+== Word Overview ==
+
+肯定 can be a verb, an adjective and an adverb. It often has a subjective, affirmative feel to it. It relates to approval and affirmation.
+
+确定 can be a verb or an adjective, or, less commonly, an adverb of the form "确定 + 地 + Verb." More objective in tone, it is for deciding firmly and confirming decisions.
+
+一定 can be an adjective or an adverb. It cannot be used as a verb. As an adverb, it is often used in commands, or as an adjective to refer to a "particular" something.
+
+== 肯定 and 确定 as Verbs ==
+
+=== Structure with 肯定 ===
+
+肯定 can express that something approval or affirmation, often used when a superior evaluates subordinates. When used this way, it should be followed directly by a noun or a phrase. 
+
+<div class="jiegou">
+肯定 + Noun / Noun Phrase
+</div>
+
+肯定 can also be used to express "I am sure." When used this way it is usually a clause at the end of a sentence. 
+
+<div class="jiegou">
+Subj. + (敢)肯定 + Sentences
+</div>
+
+=== Examples with 肯定 ===
+
+<div class="liju">
+* 老板 <em>肯定</em> 了 我们 团队 的 工作。<span class="pinyin">Lǎobǎn <em>kěndìng</em> le wǒmen tuánduì de gōngzuò.</span><span class="trans">The boss approved our team's work.</span>
+* 如果 想 让 别人 <em>肯定</em> 你，你 就 要 好好 做。<span class="pinyin">Rúguǒ xiǎng ràng biérén <em>kěndìng</em> nǐ, nǐ jiù yào hǎohāo zuò.</span><span class="trans">If you want others to approve of you, you have to do good work.</span>
+* 我 敢 <em>肯定</em> 这 就 是 他的 声音。<span class="pinyin">Wǒ gǎn <em>kěndìng</em> zhè jiùshì tā de shēngyīn.</span><span class="trans">I'm quite sure that this is his voice.</span>
+</div>
+
+=== Structure with 确定 ===
+
+确定 has the meaning of "confirm" or "determine," and you may add a verb phrase after 确定 to indicate that something is already decided. In a question, 确定 can be used to ask if someone is "sure" or "certain."
+
+<div class="jiegou">
+确定 +  Phrase / Sentence
+</div>
+
+=== Examples with 确定 ===
+
+<div class="liju">
+* 我们 还 没有 <em>确定</em> 什么 时候 开始。<span class="pinyin">Wǒmen hái méiyǒu <em>quèdìng</em> shénme shíhou kāishǐ.</span><span class="trans">We still haven't decided when to start.</span>
+* 已经 <em>确定</em> 了 三 个 人，还 差 一 个。<span class="pinyin">Yǐjīng <em>quèdìng</em> le sān gè rén, hái chà yī gè.</span><span class="trans">Three people have already been confirmed, and one more is needed.</span>
+* 你 <em>确定</em> 他 是 我们 要 找 的 人 吗？<span class="pinyin">Nǐ <em>quèdìng</em> tā shì wǒmen yào zhǎo de rén ma?</span><span class="trans">Are you certain he's the person we should look for?</span>
+</div>
+
+=== Common Mistakes ===
+
+<div class="liju">
+<ul>
+<li class="x">我们 要 先 <em>肯定</em> 一 个 形式 才 能 开始 做。<span class="expl pdf-long-expl">In this sentence, 肯定 needs to be followed by a noun or a noun phrase.</span><span class="pinyin">Wǒmen yào xiān <em>kěndìng</em> yī gè xíngshì cái néng kāishǐ zuò.</span></li>
+<li class="o">我们 要 先 <em>确定</em> 一 个 形式 才 能 开始 做。<span class="pinyin">Wǒmen yào xiān <em>quèdìng</em> yī gè xíngshì cáinéng kāishǐ zuò.</span><span class="trans">We'll have to decide on a design before we can start working.</span></li>
+</ul>
+<ul>
+<li class="x">老板 <em>肯定</em> 了 最近 我 很 努力。<span class="expl pdf-long-expl">In this sentence, "肯定" needs to be followed by a noun or noun phrase.</span><span class="pinyin">Lǎobǎn <em>kěndìng</em> le zuìjìn wǒ hěn nǔlì.</span></li>
+<li class="o">老板 <em>肯定</em> 了 我 最近 的 努力。<span class="expl pdf-long-expl">By changing the word order, we get a noun phrase instead of a verb phrase.</span><span class="pinyin">Lǎobǎn <em>kěndìng</em> le wǒ zuìjìn de nǔlì.</span><span class="trans">The boss approved of my recent hard work.</span></li>
+</ul>
+</div>
+
+== 肯定 and 一定 as Adverbs ==
+
+肯定 and 一定 can both be adverbs, and the grammar structures for both are similar. 肯定 emphasizes more of a subjective judgment or assurance. 一定 sometimes carries a bossy air, useful when issuing a command. 
+
+=== Structure with  肯定 ===
+
+<div class="jiegou">
+肯定 + Adj. / Verb
+</div>
+
+=== Examples with 肯定===
+
+<div class="liju">
+* 他 <em>肯定</em> 还 没 起床，因为 他 的 手机 现在 还 没 开机。<span class="pinyin">Tā <em>kěndìng</em> hái méi qǐchuáng, yīnwèi tā de shǒujī xiànzài hái méi kāijī.</span><span class="trans">He definitely hasn't gotten out of bed yet， because his phone is still off.</span>
+* 这 次 我 <em>肯定</em> 不 骗 你，骗 你 是 小 狗，好 吧？<span class="expl pdf-long-expl">The idiom 骗你是小狗 literally means "to deceive you is to be a small dog." It doesn't have a good English equivalent.</span><span class="pinyin">Zhè cì wǒ <em>kěndìng</em> bù piàn nǐ, piàn nǐ shì xiǎogǒu, hǎo ba?</span><span class="trans">I'm not lying this time. Cross my heart.</span>
+</div>
+
+=== Structure with  一定 ===
+
+<div class="jiegou">
+一定 + Adj. / Verb
+</div>
+
+=== Examples with 一定===
+
+<div class="liju">
+* 明天 你们 <em>一定</em> 要 来。<span class="pinyin">Míngtiān nǐmen <em>yīdìng</em> yào lái.</span><span class="trans">You guys definitely have to come tomorrow.</span>
+* <em>一定</em> 要 小心。<span class="pinyin"><em>Yīdìng</em> yào xiǎoxīn.</span><span class="trans">You've absolutely got to be careful.</span>
+</div>
+
+=== Common Mistakes ===
+
+<div class="liju">
+<ul>
+<li class="x">你们 <em>肯定</em> 要 去 听 我 的 演唱会。<span class="expl pdf-long-expl">Since it's a command, "肯定" is not appropriate.</span><span class="pinyin">Nǐmen <em>kěndìng</em> yào qù tīng wǒ de yǎnchàng huì.</span></li>
+<li class="o">你们 <em>一定</em> 要 去 听 我 的 演唱会。<span class="pinyin">Nǐmen <em>yīdìng</em> yào qù tīng wǒ de yǎnchàng huì.</span><span class="trans">You guys totally have to go listen to me in concert.</span> </li>
+</ul>
+</div>
+
+== 肯定, 确定, and 一定 as Adjectives ==
+
+=== Structures ===
+
+All three of these can be placed before a noun as adjectives.
+
+<div class="jiegou">
+肯定 / 确定 / 一定 + （的 +） Noun
+</div>
+
+But when used in this grammar structure, you must clearly differentiate the ''meanings'' of the words. 肯定 takes its verb meaning of "affirmative" or "approving," and 确定 takes its verb meaning of "confirmed" or "clearly decided," and 一定 as an adjective means "certain" or "particular."
+
+=== Examples ===
+
+<div class="liju">
+* 如果 你 问 我 是 不 是 知道 这 件 事情，我 的 回答 是 <em>肯定</em> 的。<span class="pinyin">Rúguǒ nǐ wèn wǒ shì bu shì zhīdào zhè jiàn shìqing, wǒ de huídá shì <em>kěndìng</em> de.</span><span class="trans">If you ask me if I know about this, my answer will be affirmative.</span>
+* 请 给 我 一 个 <em>确定</em> 的 回答，不 要 总是 这么 模糊。<span class="pinyin">Qǐng gěi wǒ yī gè <em>quèdìng</em> de huídá, bùyào zǒng shì zhème móhu.</span><span class="trans">Please give me a definite response. Don't always be so vague.</span>
+* 我们 之间 要 保持 <em>一定</em> 距离。<span class="pinyin">Wǒmen zhī jiān yào bǎochí <em>yīdìng</em> jùlí.</span><span class="trans">We need to keep a certain distance between us.</span>
+* 这 件 事 和 他 有 <em>一定</em> 的 关系，不 能 都 怪 你。<span class="pinyin">Zhè jiàn shì hé tā yǒu <em>yīdìng</em> de guānxì, bù néng dōu guài nǐ.</span><span class="trans">He has a certain connection with this matter. We can't completely blame you.</span>
+</div>
+
+== See Also ==
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|55}}
+
+{{Source|对外汉语教学语法释疑201例|180}}
+
+{{Source|现代汉语八百词（增订本）|603}}
+
+{{Source|卓越汉语－公司实战篇|5}}
+
+=== Dictionaries ===
+
+{{Source|现代汉语词典（第5版）|776, 1594, 1136}}
+
+[[Category:grammar comparison]]
+{{HSK|HSK4}}
+{{Basic Grammar|肯定||肯定 vs 确定 vs 一定|老板 <em>肯定</em> 了 我们 团队 的 工作。你 <em>确定</em> 他 是 我们 要 找 的 人？<em>一定</em> 要 小心。|grammar point|ASGDPS0J}}
+{{Rel char|确定}}
+{{Rel char|一定}}
+{{Used for|Describing things}}
+{{Used for|Describing actions}}
+{{Used for|Expressing attitude}}
+{{Used for|Expressing determination}}
+{{Comparison|Separate Functions}}
+{{Translation|certain}}

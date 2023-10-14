@@ -1,0 +1,93 @@
+<!-- Expressing "if… then…" with "yaoshi" -->
+{{Grammar Box}} 
+要是⋯⋯，就⋯⋯ (yàoshi..., jiù...) is one of several ways to convey "If..., then..." It is very similar to [["If…, then…" with "ruguo…, jiu…"|如果..., 就...]] in usage and formality. However, it is important to note that 要是 is considered to be even more informal (and is usually left more to spoken Chinese) than [["If…, then…" with "ruguo…, jiu…"|the common 如果]] and used more frequently in the northern areas of China.
+
+== Affirmative Form ==
+
+=== Structure ===
+
+<div class="jiegou">
+要是 + Subj. ⋯⋯ ， 就 ⋯⋯
+</div>
+
+Note that the subject can also be placed before 要是. In this case, 要是 can be shortened as 要.
+
+=== Examples ===
+
+<div class="liju">
+
+*你 <em>要是</em> 真 想 我 ，<em>就</em> 给 我 打 电话 。<span class="pinyin">Nǐ <em>yàoshi</em> zhēn xiǎng wǒ, <em>jiù</em> gěi wǒ dǎ diànhuà.</span><span class="trans">If you do miss me, then give me a call.</span>
+*<em>要是</em> 我 妈 知道 这 件 事 ，我 <em>就</em> 死 定了 ! <span class="pinyin"><em>Yàoshi</em> wǒ mā zhīdào zhè jiàn shì, wǒ <em>jiù</em> sǐ dìng le!</span><span class="trans">If my mother knew about this, I would be so dead!</span>
+*<em>要是</em> 老板 不 同意，我们 <em>就</em> 不 能 跟 客户 签 合同 。<span class="pinyin"><em>Yàoshi</em> lǎobǎn bù tóngyì, wǒmen <em>jiù</em> bù néng gēn kèhù qiān hétóng.</span><span class="trans">If the boss doesn't agree, then we can't sign the contract with the client.</span>
+*你 <em>要</em> 再 说 ，我 真 生气 了 。<span class="pinyin">Nǐ <em>yào</em> zàishuō, wǒ zhēn shēngqì le.</span><span class="trans">If you keep talking that way, I'm really gonna get angry.</span>
+*他 <em>要</em> 不 听 ，我 也 没 办法 。<span class="pinyin">Tā <em>yào</em> bù tīng, wǒ yě méi bànfǎ.</span><span class="trans">If he doesn't listen, there's nothing I can do about it.</span>
+
+</div>
+
+== Negative Form ==
+
+要不是 is pretty much the same as the English saying "if it weren't for."
+
+=== Structure ===
+
+<div class="jiegou">
+要不是 ⋯⋯ ，⋯⋯
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>要 不 是</em> 他 求 我 ， 我 才 不 帮 你 呢 。<span class="pinyin"><em>Yàobùshì</em> tā qiú wǒ, wǒ cái bù bāng nǐ ne.</span><span class="trans">If it weren't because he begged me, I wouldn't be helping you.</span>
+*<em>要 不 是</em> 因为 孩子 ，我 早就 离婚 了 。<span class="pinyin"><em>Yàobùshì</em> yīnwèi háizi, wǒ zǎo jiù líhūn le.</span><span class="trans">If it weren't for the sake of the kids, I would have gotten divorced long ago.</span>
+*<em>要 不 是</em> 堵车 ，我 早就 到 了 。<span class="pinyin"><em>Yàobùshì</em> dǔchē, wǒ zǎo jiù dào le.</span><span class="trans">If it weren't for the traffic jam, I would have gotten here much sooner.</span>
+*<em>要 不 是</em> 亲眼 看到 ，我 也 不 相信 。<span class="pinyin"><em>Yàobùshì</em> qīnyǎn kàn dào, wǒ yě bù xiāngxìn.</span><span class="trans">If I hadn't seen it for myself, I wouldn't believe it either.</span>
+*<em>要 不 是</em> 你 提醒 我 ，我 肯定 忘 了 。<span class="pinyin"><em>Yàobùshì</em> nǐ tíxǐng wǒ, wǒ kěndìng wàng le.</span><span class="trans">If it weren't for your reminding me, I would have forgotten.</span>
+
+</div>
+
+== Colloquial Saying 要我说 ==
+
+Literally 要我说 means "if you ask for my opinion."
+
+A few examples:
+
+<div class="liju">
+
+*<em>要我说</em> ，你 先 别 告诉 她 。<span class="pinyin"><em>Yào wǒ shuō</em>, nǐ xiān bié gàosu tā.</span><span class="trans">I say don't tell her yet.</span>
+*<em>要我说</em> ，他 就是 太 懒 。<span class="pinyin"><em>Yào wǒ shuō</em>, tā jiù shì tài lǎn.</span><span class="trans">I say he's just too lazy.</span>
+*<em>要我说</em> ，我们 应该 早点 做 准备 。<span class="pinyin"><em>Yào wǒ shuō</em>, wǒmen yīnggāi zǎodiǎn zuò zhǔnbèi.</span><span class="trans">In my opinion, we should get prepared sooner.</span>
+*<em>要我说</em> ，这个 人 不 能 信 。<span class="pinyin"><em>Yào wǒ shuō</em>, zhège rén bù néng xìn.</span><span class="trans">In my opinion, this man can't be trusted.</span>
+*<em>要我说</em> ，什么时候 开始 都 不 晚 。<span class="pinyin"><em>Yào wǒ shuō</em>, shénme shíhou kāishǐ dōu bù wǎn.</span><span class="trans">I say it's never too late to start.</span>
+
+</div>
+
+== See also ==
+
+*[["If…, then…" with "ruguo…, jiu…"]]
+*[["If… then…" with "jiaru"]]
+*[["If… then…" with "jiashi"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|85}}
+{{Source|Common Chinese Patterns 330 (汉语常用格式330例) |246}} 
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|278}} 
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|41-2}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课下册）|502}}
+
+[[Category: B2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|要是|B2|要是⋯⋯，就⋯⋯|你 <em>要是</em> 真 想 我，<em>就</em> 给 我 打 电话 。|grammar point|ASGN4S8O}}
+{{Similar|Expressing "if... then..." with "ruguo... jiu..."}}
+{{Similar|Expressing "if" with "ruguo... dehua"}}
+{{Similar|Expressing "if… then…" with "jiaru"}}
+{{Similar|Expressing "if… then…" with "jiashi"}}
+{{Used for|Indicating cause and effect}}
+{{Used for|Indicating conditions}}
+{{Used for|Expressing possibility}}
+{{Structure|"If" Statements}}
+{{Translation|then}}
+{{Translation|if}}

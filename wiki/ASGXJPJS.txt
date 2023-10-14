@@ -1,0 +1,74 @@
+<!-- Expressing "always" with "zongshi" -->
+{{Grammar Box}} 
+
+If you are trying to describe a daily routine, a habit, or just something that consistently happens, you can use the word 总是 (zǒngshì). 总是 (zǒngshì) means "always," and like other [[adverb]]s, comes before the verb in a sentence.
+
+== 总是 (zǒngshì) with Verbs==
+
+总是 (zǒngshì) is an adverb that is often translated to English as "always." It is placed before the verb that it modifies.
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 总是 + Verb
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*他 <em>总是</em> 迟到。<span class="pinyin">Tā <em>zǒngshì</em> chídào.</span><span class="trans">He is always late.</span>
+*我 <em>总是</em> 忘记 这 个 词。<span class="pinyin">Wǒ <em>zǒngshì</em> wàngjì zhège cí.</span><span class="trans">I always forget this word.</span> 
+*他 <em>总是</em> 一个人 吃饭。<span class="pinyin">Tā <em>zǒngshì</em> yīgèrén chīfàn.</span><span class="trans">He always eats alone.</span>
+*你 男朋友 <em>总是</em>  说 脏话。<span class="pinyin">Nǐ nánpéngyou <em>zǒngshì</em> shuō zānghuà.</span><span class="trans">Your boyfriend always uses foul language.</span>
+*我 的 学生 <em>总是</em> 问 我 很多 有意思 的 问题。<span class="pinyin">Wǒ de xuéshēng <em>zǒngshì</em> wèn wǒ hěn duō yǒu yìsi de wèntí.</span><span class="trans">My students always ask me lots of interesting questions.</span>
+
+</div>
+
+== 总是 (zǒngshì) with Adjectives==
+
+=== Structure ===
+
+When 总是 (zǒngshì) is used together with an adjective, you will need to add a modifier in the middle, such as 很 (hěn), 特别 (tèbié), [[Adjectives with "name" and "zheme"|这么 (zhème), 那么 (nàme),]] etc.
+
+<div class="jiegou">
+总是 + Adv. + Adj.
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 他 <em>总是</em> 很 累。<span class="pinyin">Tā <em>zǒngshì</em> hěn lèi.</span><span class="trans">He is always tired.</span>
+* 你 为什么 <em>总是</em> 很 忙？<span class="pinyin">Nǐ wèishénme <em>zǒngshì</em> hěn máng?</span><span class="trans">Why are you always very busy?</span>
+* 你 家 <em>总是</em> 很 干净。<span class="pinyin">Nǐ jiā <em>zǒngshì</em> hěn gānjìng.</span><span class="trans">Your house is always very clean.</span>
+* 孩子们 <em>总是</em> 非常 开心。<span class="pinyin">Háizi men <em>zǒngshì</em> fēicháng kāixīn.</span><span class="trans">The children are always very happy.</span>
+* 我 的 学生 <em>总是</em> 特别 努力。<span class="pinyin">Wǒ de xuéshēng <em>zǒngshì</em> tèbié nǔlì.</span><span class="trans">My students are always very hard-working.</span>
+
+
+</div>
+
+==See also==
+
+*[["Always" as a complaint with "laoshi"]]
+*[["Always" with "conglai"]]
+ 
+== Sources and further reading ==
+
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级)|271}}
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|18}}
+{{Source|Chinese: An Essential Grammar, Second Edition|79}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|总是|A2|总是 + Verb|他 <em>总是</em> 迟到。|grammar point|ASGXJPJS}}
+{{Rel char|老是}}
+{{Rel char|总}}
+{{Rel char|老}}
+{{Similar|"All along" with "yizhi"}}
+{{Similar|"Always" as a complaint with "laoshi"}}   
+{{Similar|"Always" with "conglai"}}  
+{{Similar|"Since the Beginning" with "yixiang"}}
+{{Used for|Expressing frequency}}
+{{POS|Adverbs}}
+{{Translation|always}}

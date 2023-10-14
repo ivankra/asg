@@ -1,0 +1,59 @@
+<!-- Actions in a row -->
+{{Grammar Box}} 
+
+Linking actions together in a sentence is very straightforward and to the point. Because of this, there is no new word or phrase needed!
+
+== Structure ==
+
+In Chinese, it's very easy to describe two actions in a row. Simply place one [[verb phrase]] after another, in this structure:
+
+<div class="jiegou">
+
+Subj. + [Verb Phrase 1] + [Verb Phrase 2]
+
+</div>
+
+No connecting word is needed. A common mistake in the early stages of learning Chinese is to try and link verbs with 和 (hé). This is incorrect; [[Expressing "and" with "he"|和 (hé) is for linking nouns]]. Just use one verb phrase after another and the sequence of events is clear.
+
+== Examples ==
+
+<div class="liju">
+
+* 我 要 <em>回</em>家 <em>吃</em>饭。 <span class="pinyin">Wǒ yào <em>huí</em>jiā <em>chī</em>fàn.</span><span class="trans">I want to go home and eat.</span>
+* 你 要 <em>去</em> 超市 <em>买</em> 东西 吗？<span class="pinyin">Nǐ yào <em>qù</em> chāoshì <em>mǎi</em> dōngxi ma? </span><span class="trans">Are you going to the supermarket to buy things? </span>
+* 他 不 想 <em>去</em> 图书馆 <em>看</em> 书。<span class="pinyin">Tā bù xiǎng <em>qù</em> túshūguǎn <em>kàn</em> shū.</span><span class="trans">He doesn't want to go to the library and read.</span>
+* 你 <em>打</em> 电话 <em>告诉</em> 他 了 吗？<span class="pinyin">Nǐ <em>dǎ</em> diànhuà <em>gàosu</em> tā le ma? </span><span class="trans">Did you call and tell him? </span>
+* 我们 要 <em>坐</em> 飞机 <em>去</em> 美国。<span class="pinyin">Wǒmen yào <em>zuò</em>  fēijī  <em>qù</em> Měiguó.</span><span class="trans">We are going to take an airplane to go to the USA.  </span>
+* 你们 可以 <em>上</em> 网 <em>买</em> 机票 吗？<span class="pinyin">Nǐmen kěyǐ <em>shàng</em> wǎng <em>mǎi</em> jīpiào ma? </span><span class="trans">Can you use the Internet to buy airplane tickets? </span>
+* 老板 下周 <em>去</em> 北京 <em>开</em> 会。<span class="pinyin">Lǎobǎn xià zhōu <em>qù</em> Běijīng <em>kāi</em> huì.</span><span class="trans">Next week the boss will go to Beijing to have a meeting.</span>
+* 中国人 都 要 <em>回</em>家 <em>过</em> 年。<span class="pinyin">Zhōngguó rén dōu yào <em>huí</em>jiā <em>guò</em>nián.</span><span class="trans">Chinese people all go back home for Chinese New Year.</span>
+* 周末 我 喜欢 自己 <em>买</em> 菜 <em>做</em>饭。<span class="pinyin">Zhōumò wǒ xǐhuan zìjǐ <em>mǎi</em> cài <em>zuò</em>fàn.</span><span class="trans"> I like to buy food to cook for myself on the weekend.</span>
+* 早上 我 先 <em>刷</em> 牙 <em>洗</em> 脸，再 吃 早饭。<span class="pinyin">Zǎoshang wǒ xiān <em>shuā</em> yá <em>xǐ</em> liǎn, zài chī zǎofàn.</span><span class="trans">In the morning, I first brush my teeth and wash my face, and then I eat breakfast.</span>
+
+</div>
+
+Note that the English translations of these sentences use the word "and," but there is no equivalent to it in Chinese.
+
+==See also==
+
+* [[Expressing "and" with "he"]]
+* [[Events in quick succession with "yi... jiu"]]
+* [[Sequencing with "xian" and "zai"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|A Practical Chinese Grammar For Foreigners (外国人实用汉语语法)|477-484}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|207-8}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课下册）|384-5}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|125}} 
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Used for|Sequencing events in time}}
+{{Basic Grammar|none|A2|(Verb Phrase 1) + (Verb Phrase 2)|我们 <em>去</em> 咖啡店 <em>喝</em> 咖啡 吧。|grammar point|ASGPRGAX}}
+{{POS|Verbs}}
+{{Similar|Basic sentence order}}
+{{Similar|Events in quick succession with "yi... jiu"}}
+{{Subprop|Verb phrases}}

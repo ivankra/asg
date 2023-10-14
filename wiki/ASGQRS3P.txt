@@ -1,0 +1,180 @@
+<!-- Advanced uses of "ba" -->
+{{Grammar Box}}
+{{AKA|把字句 ("bǎ"zìjù)|把 construction|preposition 把|disposal construction|pre-transitive 把}}
+Once you've gotten the hang of the basic [["Ba" sentence|'''把 (bǎ) sentence''']] pattern, you can start to use it in some more complex and abstract ways.
+
+== Using 把 with 给 ==
+
+This [[给]] is used in oral Chinese to add emphasis to the verb. The 给 is actually fully optional, but it's good to be familiar with this pattern because it's so commonly used in spoken Chinese. You'll notice a structural similarity to this 给 used with 把, and the [[Expressing passive voice with "gei"|给 used with 被]].
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + 把 + Obj. + 给 + Verb Phrase
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 我 <em>把</em> 这 事儿 <em>给</em> 忘 了 。<span class="pinyin">Wǒ <em>bǎ</em> zhè shì er <em>gěi</em> wàng le.</span><span class="trans">I forgot about this matter.</span>
+* 周末 我 <em>把</em> 脏 衣服 <em>给</em> 洗 了 。<span class="pinyin">Zhōumò wǒ <em>bǎ</em> zāng yīfu <em>gěi</em> xǐ le.</span><span class="trans">On weekends, I wash the dirty clothes.</span>
+* 你 能 <em>把</em> 这些 都 <em>给</em> 记住 吗？<span class="pinyin">Nǐ néng <em>bǎ</em> zhè xiē dōu <em>gěi</em> jì zhù ma?</span><span class="trans">Will you be able to memorize all of this?</span>
+* 他 <em>把</em> 我的 手机 <em>给</em> 摔坏 了 。<span class="pinyin">Tā <em>bǎ</em> wǒ de shǒujī <em>gěi</em> shuāi huài le.</span><span class="trans">He dropped my phone and broke it.</span>
+* 妈妈 <em>把</em> 没用 的 东西 都 <em>给</em> 扔了 。<span class="pinyin">Māma <em>bǎ</em> méiyòng de dōngxi dōu <em>gěi</em> rēng le.</span><span class="trans">Mom threw away all of the useless stuff.</span>
+
+
+</div>
+
+== Using 当作 and 看作 ==
+
+When you want to say that something is treated as something else, use this pattern.
+
+=== Structure ===
+
+<div class="jiegou">
+
+<strong>把</strong> + Obj.+ <strong>当成 / 看成 / 当作 / 看作</strong> +⋯⋯
+
+</div>
+
+So what's the difference between using 当成 / 看成 / 当作 / 看作?  Good question. The differences are not huge, but there are a few:
+
+# The 成 versions are a bit less formal than the 作 versions.
+#  看成 / 看作 is often followed by a person or specific thing, whereas 当成 / 当作 is more likely to be followed by something more abstract (like 爱).
+# The 成 / 作 part of 当成 / 当作 can be dropped in spoken Chinese, whereas the 成 / 作 part of 看成 / 看作 can never be dropped.
+
+=== Examples ===
+
+<div class="liju">
+* 我 一直 <em>把</em> 他 <em>看作</em> 我 哥哥。<span class="pinyin">Wǒ yīzhí <em>bǎ</em> tā <em>kàn zuò</em> wǒ gēge.</span><span class="trans">I have always seen him as my older brother.</span>
+* 他 <em>把</em> 我家 <em>当作</em> 了 他 自己 家 。<span class="pinyin">Tā <em>bǎ</em> wǒ jiā <em>dàng zuò</em> le tā zìjǐ jiā.</span><span class="trans">He treated my house like his own.</span>
+* 很 多 留学生 都 <em>把</em> 自己 的 中文 老师 <em>当作</em> 朋友。<span class="pinyin">Hěn duō liúxuéshēng dōu <em>bǎ</em> zìjǐ de Zhōngwén lǎoshī <em>dàng zuò</em> péngyou.</span><span class="trans">Many foreign students treat their Chinese teachers as their friends.</span>
+* 孩子 可以 <em>把</em> 家里 的 很 多 小 东西 <em>当作</em> 玩具。<span class="pinyin">Háizǐ kěyǐ <em>bǎ</em> jiā li de hěn duō xiǎo dōngxi <em>dàng zuò</em> wánjù.</span><span class="trans">Kids can take small things in the house and treat them as as toys.</span>
+* 很 多 子女 <em>把</em> 父母 的 理想 <em>当作</em>了 自己 的 理想。<span class="pinyin">Hěn duō zǐnǚ <em>bǎ</em> fùmǔ de lǐxiǎng <em>dàng zuò</em> le zìjǐ de lǐxiǎng.</span><span class="trans">Many kids make their parents' ideals their own ideals.</span>
+</div>
+
+== Take Things Seriously with 当回事 ==
+
+当回事 is mostly used in colloquial Chinese. It means to take something seriously or to hold something in high regard. It is usually used with the negative 不.
+
+=== Structure ===
+
+<div class="jiegou">
+
+(别 / 不）把 + Obj. + 当回事
+
+</div>
+
+<div class="liju">
+
+* 他 从来 不 <em>把</em> 老板 的 话 <em>当 回事</em>。<span class="pinyin">Tā cónglái bù <em>bǎ</em> lǎobǎn de huà <em>dāng huíshì</em>.</span><span class="trans">He never takes what his boss says seriously.</span>
+* 你 这个 人 总是 太 <em>把</em> 自己 <em>当 回事</em> 了。<span class="pinyin">Nǐ zhè ge rén zǒngshì tài <em>bǎ</em> zìjǐ <em>dāng huíshì</em> le.</span><span class="trans">You always take yourself way too seriously.</span>
+* 有的 父母 从 不 <em>把</em> 孩子 的 一些 小 问题 <em>当 回事</em>!<span class="pinyin">Yǒu de fùmǔ cóngbù <em>bǎ</em> háizi de yīxiē xiǎo wèntí <em>dāng huíshì</em>!</span> <span class="trans"> Some parents never take their kids' minor problems seriously.</span>
+* 我们 班 有 几 个 学生 从来 不<em>把</em> 老师 的 作业 <em>当 回事</em>。<span class="pinyin">Wǒmen bān yǒu jǐ gè xuéshēng cónglái bù <em>bǎ</em> lǎoshī de zuòyè <em>dāng huíshì</em>.</span><span class="trans"> Our class has a few students who never take the teacher's homework seriously.</span>
+
+</div>
+
+== Using 把 with a verb + 成 ==
+
+In this case, 成 can be translated as "into." 
+
+=== Structure ===
+
+<div class="jiegou">
+
+把 + Obj. 1 + Verb + 成 + Obj. 2
+
+</div>
+
+=== Concrete Verb Examples ===
+
+In the first example, we are using concrete verbs such as 切, 做, 分, etc. on Obj. 1. Naturally, the resulting Obj. 2 should also be concrete.
+
+<div class="liju">
+
+* 请 你 <em>把</em> 这个 蛋糕 <em>切 成</em>六块。<span class="pinyin">Qǐng nǐ <em>bǎ</em> zhège dàngāo <em>qiē chéng</em> liù kuài.</span><span class="trans">Please cut the cake into six parts.</span>
+* 我 知道 怎么 <em>把</em> 图片 <em>做 成</em>视频。<span class="pinyin">Wǒ zhīdào zěnme <em>bǎ</em> túpiàn <em>zuò chéng</em> shìpín.</span><span class="trans">I know how to make this picture into a video.</span>
+* 老师 <em>把</em> 全班 同学 <em>分 成</em>了 三个 小组。<span class="pinyin">Lǎoshī <em>bǎ</em> quán bān tóngxué <em>fēn chéng</em> le sān gè xiǎozǔ.</span><span class="trans">The teacher divided the whole class of students up into three groups.</span>
+
+</div>
+
+===Abstract Verb Examples ===
+
+In the example below, we are dealing with more abstract objects and verbs. These verbs include 换, 变, 改, 看, 当, 转, etc.
+
+<div class="liju">
+* 我 每个 月 都 要 <em>把</em> 这些 美元 <em>换 成</em>人民币。<span class="pinyin">Wǒ měi gè yuè dōu yào <em>bǎ</em> zhèxiē Měiyuán <em>huàn chéng</em> Rénmínbì.</span><span class="trans">Every month, I have to convert this USD into RMB.</span>
+* 他 <em>把</em> 自己 的 家 <em>改 成</em> 了 他的 工作室。<span class="pinyin">Tā <em>bǎ</em> zìjǐ de jiā <em>gǎi chéng</em> le tā de gōngzuò shì.</span><span class="trans">She converted her house into her workspace.</span>
+* 你 能 <em>把</em> 这个 文件 的 格式 <em>转 成</em> PDF 吗？<span class="pinyin">Nǐ néng <em>bǎ</em> zhè ge wénjiàn de géshì <em>zhuǎn chéng</em> PDF ma?</span><span class="trans">Can you convert this file format into a PDF?</span>
+* 韩国 政府 <em>把</em> “汉城” <em>改 成</em>了 “首尔”。<span class="pinyin"> Hánguó zhèngfǔ <em>bǎ</em> “Hanchéng” <em>gǎi chéng</em> le “Shǒu'ěr”.</span><span class="trans">The South Korean government changed the capital name from "Hanseong" to "Seoul."</span>
+* 请 你 <em>把</em> 这些 句子 <em>翻译 成</em> 中文 。<span class="pinyin">Qǐng nǐ <em>bǎ</em> zhèxiē jùzi <em>fānyì chéng</em> Zhōngwén.</span><span class="trans">Please translate these sentences into Chinese.</span>
+</div>
+
+=== Mistaken Perception Examples===
+
+The example below is when somebody mistakes something for something else. This can be either mishearing, misspelling, seeing something as something else, etc. These verbs include 看, 听, 写, 记, etc. 
+
+<div class="jiegou">
+把 + Obj. 1 + Perception Verb + 成 + Obj. 2
+</div>
+
+So Obj. 1 is the actual thing, and Obj. 2 is what it is mistaken for.
+
+<div class="liju">
+* 他 <em>把</em> “太“ <em>看 成</em> 了 “大”。<span class="pinyin">Tā <em>bā</em> “tài” <em>kàn chéng</em> le “dà”.</span><span class="trans">He misread 太 as 大.</span>
+* 你 刚才 <em>把</em> “政府” <em>读 成</em> 了 “丈夫” 。<span class="pinyin">Nǐ gāngcái <em>bǎ</em> "zhèngfǔ" <em>dú chéng</em> le "zhàngfu".</span><span class="trans">Just now you misread "zhèngfǔ" as "zhàngfu".</span>
+* 我 常常 <em>把</em> “自己” 的 “己” <em>写 成</em> “已经” 的 “已”。<span class="pinyin">Wǒ chángcháng <em>bǎ</em> "zìjǐ" de "jǐ" <em>xiě chéng</em> "yǐjīng" de "yǐ".</span><span class="trans">I often write the 己 in 自己 like the 已 in 已经.</span>
+* 你 是 不 是 <em>把</em> “派对” <em>听 成</em> 了 “排队”？<span class="pinyin">Nǐ shì bu shì <em>bǎ</em> "pàiduì" <em>tīng chéng</em> le "páiduì"?</span><span class="trans">Did you mishear "party" as "wait in line"?</span>
+</div>
+
+==See also==
+
+*[[Result complement]]
+*[[Direction complement]]
+*[[Bei sentence]]
+*[[Aspect particles]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|A Practical Chinese Grammar For Foreigners (外国人实用汉语语法)|469-70}} 
+{{Source|Basic Patterns of Chinese Grammar|53-4}} 
+{{Source|Chinese Grammar Without Tears (简明汉语语法学习手册)|167-81}}
+{{Source|Common Chinese Patterns 330 (汉语常用格式330例)|3-5}} 
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|142-4}} 
+{{Source|Integrated Chinese: Level 2, Part 2|225-7, 321-3}}
+{{Source|Mandarin Chinese: A Functional Reference Grammar|482}} 
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|354-5}} 
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2) |41-2, 88}} 
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3) |15, 51, 101-2}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课下册）|369-70, 384, 398-9}}
+{{Source|卓越汉语－公司实战篇|128}}
+
+=== Websites ===
+
+* Mandarin Essential Grammar (Yale): [http://comet.cls.yale.edu/mandarin/content/ba/grammar/ba.htm 把 Construction]
+* CTCFL (Oxford): [http://www.ctcfl.ox.ac.uk/Grammar%20exercises/Ba.htm The 把 Construction]
+* ChinesePod: [http://chinesepod.com/lessons/the-magic-word-%E6%8A%8A Qing Wen - The Magic Word 把] (free podcast content)
+* ChinesePod: [http://chinesepod.com/lessons/%E6%8A%8A-humbug Qing Wen - 把 Humbug] (free podcast content)
+* FluentU: [http://www.fluentu.com/chinese/blog/2015/04/01/mandarin-chinese-ba/ The Definite Guide to the Chinese Ba Construction]
+* Mandarin Online: [http://xmmandarinonline.com/2010/10/grammar-the-ba3-sentence/ 把字句]
+* Just Learn Chinese (blog): [http://justlearnchinese.com/lesson-10-how-to-understand-and-use-pattern-%E2%80%9C-%E6%8A%8A-%E2%80%9D-in-chinese/ Lesson 10 How to understand and use Chinese sentence pattern “…把…”?]
+
+[[Category:Structures]]
+[[Category:Prepositions]]
+[[Category:Particles]]
+{{Basic Grammar|把|B2|把 + Noun + Verb⋯⋯|我 没有 <em>把</em> 它 当回事。|grammar point|ASGQRS3P}}
+{{Rel char|给}}
+{{Rel char|当}}
+{{Rel char|成}}
+{{Similar|Using "ba" sentences}}
+{{Similar|Aspect particles}}
+{{Similar|Bei sentence}}
+{{Similar|Direction complement}}
+{{Structure|Sentence Patterns}}
+{{Used for|Expressing passive voice}}
+{{Used for|Sentence Patterns}}

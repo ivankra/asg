@@ -1,0 +1,63 @@
+<!-- Non-exhaustive lists with "dengdeng" -->
+{{Grammar Box}} 
+
+等等 (děng děng) or simply 等 (děng), is just like saying “and so on” or “etc.” in English, but it's just a bit more formal.  Both are placed after listing a series of items (generally with a list that exceeds two items).
+
+== Structure ==
+
+The basic structure is easy. Just make a list of things and add 等 (děng) or 等等 (děng děng) to the end of the list. It's the same as in English when we use "etc." at the end of a list, except in Chinese you don't put a final comma before the 等 or 等等.
+
+<div class="jiegou">
+A1，A2 ⋯⋯ 等 / 等等
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*西瓜、菠萝、葡萄 <em>等等</em> ，我 都 喜欢  吃 。 <span class="pinyin">Xīguā, bōluó, pútao, <em>děngděng</em>,  wǒ dōu xǐhuan chī.</span><span class="trans">Watermelons, pineapples, grapes, and so on... I like them all.</span>
+*我 爸爸 很 喜欢 运动 ，比如 跑步、游泳、打羽毛球 <em>等等</em> 。<span class="pinyin">Wǒ bàba hěn xǐhuan yùndòng, bǐrú pǎobù, yóuyǒng, dǎ yǔmáoqiú, <em>děngděng</em>.</span><span class="trans">My father likes different sports, for example, running, swimming, playing badminton, etc.</span>
+*<span class="spaced">Bruce Li、Jackie Chan、Jet Li </span> <em>等</em> 都 是 功夫 明星 。 <span class="pinyin">Bruce Li, Jackie Chan, Jet Li <em>děng</em> dōu shì gōngfu míngxīng.</span><span class="trans">Bruce Li, Jackie Chan, Jet Li, etc. are all kung fu stars.</span>
+*我们 公司 有 市场部、设计部、技术部 <em>等等</em> 。<span class="pinyin">Wǒmen gōngsī yǒu shìchǎng bù, shèjì bù, jìshù bù <em>děngděng</em>.</span><span class="trans">Our company has a marketing department, design department, technology department, etc.</span>
+*联合国 的 工作 语言 有 英语、法语、西班牙语 <em>等</em> 。<span class="pinyin">Liánhéguó de gōngzuò yǔyán yǒu Yīngyǔ, Fǎyǔ, Xībānyáyǔ <em>děng</em>.</span><span class="trans">The working languages of the UN are English, French, Spanish, etc.</span>
+
+</div>
+
+等 (děng) can also be added to the end of a list and is followed by a noun that represents the list. In this case, you can only use 等:
+
+<div class="jiegou">
+A1，A2 ⋯⋯ 等 + [Category] + Predicate
+</div>
+
+The [[predicate]] part of the pattern can be a verb or an adjective.
+
+<div class="liju">
+
+*长城、故宫 <em>等</em> 景点 都 是 北京 有名 的 景点 。 <span class="pinyin">Chángchéng, Gùgōng <em>děng</em> jǐngdiǎn dōu shì Běijīng yǒumíng de jǐngdiǎn.</span><span class="trans">The Great Wall, the Forbidden City, etc. are all famous tourist attractions in Beijing.</span>
+*北京、上海、广州 <em>等</em> 城市 的 经济 都 很 发达 。<span class="pinyin">Běijīng, Shànghǎi, Guǎngzhōu <em>děng</em> chéngshì de jīngjì dōu hěn fādá.</span><span class="trans">Beijing, Shanghai, Guangzhou and so on are economically developed cities.</span>
+*牛津、剑桥 <em>等</em> 大学 是 英国 最 有名 的大学 。<span class="pinyin">Niújīn, Jiànqiáo <em>děng</em> dàxué shì Yīngguó zuì yǒumíng de dàxué.</span><span class="trans">Oxford, Cambridge and so on are the most famous British universities.</span>
+*中国、印度、巴西 <em>等</em> 国家 都 是 发展中 国家 。<span class="pinyin">Zhōngguó, Yìndù, Bāxī <em>děng</em> guójiā dōu shì fāzhǎn zhōng guójiā.</span><span class="trans">China, India, Brazil and so on are all developing countries.</span>
+*食品 安全、空气 污染、人工 智能 <em>等</em> 话题 都是 热点 话题 。<span class="pinyin">Shípǐn ānquán, kōngqì wūrǎn, réngōng zhìnéng <em>děng</em> huàtí dōu shì rèdiǎn huàtí.</span><span class="trans">Food safety, air pollution, artificial intelligence, and so on are all hot topics.</span>
+
+</div>
+
+== See also ==
+
+*[[Ending a Non-Exhaustive List with "shenme de"]]
+*[["Stuff like that" with "zhileide"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级)|304}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|等|B1|⋯⋯ 等 / 等等|长城、故宫 <em>等</em> 地方 都 是 北京 有名 的 景点 。 |grammar point|ASGF763H}}
+{{Rel char|等等}}
+{{Similar|Ending a Non-Exhaustive List with "shenme de"}}   
+{{Similar|"Stuff like that" with "zhileide"}}   
+{{Used for|Listing}}
+{{POS|Auxiliary Words}}
+{{Translation|etc.}}

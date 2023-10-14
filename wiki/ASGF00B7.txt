@@ -1,0 +1,66 @@
+<!-- Expressing "each other" with "huxiang" -->
+{{Grammar Box}} 
+
+When some action is mutual, you can use the word 互相 (hùxiāng). The word "mutual" feels formal in English, but in Chinese, even everyday phrases such as "learn from each other" use the word 互相, which expresses this "each other" aspect.
+
+== Structure ==
+
+Usually 互相 (hùxiāng) is used with two-syllable words, and for one-syllable words, some other information will be added after the verb to make it sound more natural (see below for examples of this.)
+
+<div class="jiegou">
+互相 + Verb
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*<em>互相</em> 帮助 <span class="pinyin"><em>hùxiāng</em> bāngzhù</span><span class="trans">Help each other</span>
+*<em>互相</em> 了解 <span class="pinyin"><em>hùxiāng</em> liǎojiě</span><span class="trans">Know each other</span>
+*<em>互相</em> 伤害 <span class="pinyin"><em>hùxiāng</em> shānghài</span><span class="trans">Hurt each other</span>
+*<em>互相</em> 尊重 <span class="pinyin"><em>hùxiāng</em> zūnzhòng</span><span class="trans">Respect each other</span>
+*<em>互相</em> 支持 <span class="pinyin"><em>hùxiāng</em> zhīchí</span><span class="trans">Support each other</span>
+*<em>互相</em> 鼓励 <span class="pinyin"><em>hùxiāng</em> gǔlì</span><span class="trans">Encourage each other</span>
+*<em>互相</em> 影响 <span class="pinyin"><em>hùxiāng</em> yǐngxiǎng</span><span class="trans">Influence each other</span>
+*<em>互相</em> 利用 <span class="pinyin"><em>hùxiāng</em> lìyòng</span><span class="trans">Use each other</span>
+
+</div>
+
+Don't use 互相 (hùxiāng) with single-syllable verbs. If you really have to use 互相, you can make the verb longer by adding extra information after it.
+
+<div class="liju">
+
+<ul>
+<li class="x"><em>互相</em> 看<span class="pinyin"><em>hùxiāng</em> kàn</span><span class="trans">look at each other</span></li>
+<li class="o"><em>互相</em> 看 了 一 眼<span class="pinyin"><em>hùxiāng</em> kàn le yī yǎn</span><span class="trans">glanced at each other</span></li>
+</ul>
+
+</div>
+
+Note that for some verbs which are inherently "mutual," the use of 互相 (hùxiāng) is redundant and unnecessary. So the following phrases are not ''wrong'', but a little strange.
+
+<div class="liju">
+
+<ul>
+<li class="q"><em>互相</em> 拥抱<span class="pinyin"><em>hùxiāng</em> yōngbào</span><span class="trans">hug each other</span></li>
+<li class="q"><em>互相</em> 交流<span class="pinyin"><em>hùxiāng</em> jiāoliú</span><span class="trans">communicate with each other</span></li>
+</ul>
+
+</div>
+
+== See also ==
+
+* [[Comparing "bici" and “duifang"]]
+
+== Sources and further reading ==
+
+=== Books ===
+{{Source|HSK Standard Course 5上|68}} 
+
+[[Category:B1 grammar points]]
+{{HSK|HSK5}}
+{{Basic Grammar|互相|B1|互相 + Verb Phrase|<em>互相</em> 帮助|grammar point|ASGF00B7}}
+{{Similar|Comparing "bici" and "duifang"}}
+{{Used for|Describing actions}}
+{{POS|Adverbs}}
+{{Translation|each other}}

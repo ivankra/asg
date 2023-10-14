@@ -1,0 +1,142 @@
+<!-- Expressing "every" with question words -->
+{{Grammar Box}}
+
+This grammar point is not about how to use [[Expressing "every" with "mei"|每 (měi) to mean "every,"]] but rather how to combine [[question word]]s with [[都]] (dōu) to make words and phrases like "everywhere" or "everyone." You may have learned this same pattern for [[Expressing "everything" with "shenme dou"|expressing "everything,"]] but now it's time to extend it.
+
+== "Everyone" with 谁 都 ==
+
+谁 都 (shéi dōu) is a pattern used to express "everyone" (or possibly "anyone") in Chinese. The placement of the question word 谁 is very similar to the way [[Expressing "all" with "shenme dou"|什么 (shénme) can be used to express "every"]], along with other question words like 哪儿 (nǎr) and 多少 (duōshao).
+
+=== Structure ===
+
+<div class="jiegou">
+谁 + 都 + Predicate
+</div>
+
+The [[predicate]] part of the pattern can be a verb or an adjective.
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>谁</em> <strong>都</strong> 喜欢 美食 。<span class="pinyin"><em>Shéi</em> <strong>dōu</strong> xǐhuan měishí.</span><span class="trans">Everyone likes delicious food.</span>
+*<em>谁</em> <strong>都</strong> 可以 进 。<span class="pinyin"><em>Shéi</em> <strong>dōu</strong> kěyǐ jìn.</span><span class="trans">Everyone can come in.</span>
+*<em>谁</em> <strong>都</strong> 不 相信 他 说 的 话 。<span class="pinyin"><em>Shéi</em> <strong>dōu</strong> bù xiāngxìn tā shuō de huà.</span><span class="trans">No one believes what he said.</span>
+
+</div>
+
+== "Everywhere" with 哪儿 都 ==
+
+This pattern works with both 哪儿 (nǎr) and 哪里 (nǎlǐ).
+
+=== Structure ===
+
+<div class="jiegou">
+哪儿 / 哪里 (+ Verb) + 都 + Predicate
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*他 的 房间 里 <em>哪儿</em> <strong>都</strong> 是 脏 衣服 。<span class="pinyin">Tā de fángjiān lǐ <em>nǎr</em> <strong>dōu</strong> shì zāng yīfu.</span><span class="trans">His dirty laundry is all over his room.</span>
+*我 太 累 了，<em>哪儿</em> <strong>都</strong> 不 想 去 。<span class="pinyin">Wǒ tài lèi le, <em>nǎr</em> <strong>dōu</strong> bù xiǎng qù.</span><span class="trans">I'm too tired. I don't want to go anywhere.</span>
+*在 <em>哪里</em> 见面 <strong>都</strong> 行 。<span class="pinyin">Zài <em>nǎlǐ</em> jiànmiàn <strong>dōu</strong> xíng.</span><span class="trans">I'm fine with meeting anywhere.</span>
+
+</div>
+
+== "Whenever" with 什么时候 都 ==
+
+什么时候 (shénme shíhou) combines with 都 (dōu) to mean "whenever" or "anytime."
+
+=== Structure ===
+
+<div class="jiegou">
+什么时候 (+ Verb) + 都 + Predicate
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>什么 时候</em> <strong>都</strong> 可以 。<span class="pinyin"><em>Shénme shíhou</em> <strong>dōu</strong> kěyǐ.</span><span class="trans">Anytime is fine.</span>
+*你<em>什么 时候</em> 来 <strong>都</strong> 欢迎 。<span class="pinyin">Nǐ <em>shénme shíhou</em> lái <strong>dōu</strong> huānyíng.</span><span class="trans">You're welcome to come anytime.</span>
+*<em>什么 时候</em> 开始 <strong>都</strong> 不 晚 。<span class="pinyin"><em>Shénme shíhou</em> kāishǐ <strong>dōu</strong> bù wǎn.</span><span class="trans">It's never too late to start.</span>
+
+</div>
+
+== "However Much" with 多少 都 ==
+
+多少 (duōshao) also works with 都 in this case.
+
+=== Structure ===
+
+<div class="jiegou">
+Verb + 多少 + 都 + Predicate
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*你 想 吃 <em>多少</em> <strong>都</strong> 可以 。<span class="pinyin">Nǐ xiǎng chī <em>duōshao</em> <strong>dōu</strong> kěyǐ.</span><span class="trans">You can eat however much you want.</span>
+*这些 是 免费 的 ，我们 拿 <em>多少</em> <strong>都</strong> 没 问题 。<span class="pinyin">Zhèxiē shì miǎnfèi de, wǒmen ná <em>duōshao</em> <strong>dōu</strong> méi wèntí.</span><span class="trans">These are all free. We can take as much as we want.</span>
+*我 跟 他 说 <em>多少</em> 遍 <strong>都</strong> 没有 用 。<span class="pinyin">Wǒ gēn tā shuō <em>duōshao</em> biàn <strong>dōu</strong> méiyǒu yòng.</span><span class="trans">It doesn't matter how many times I tell him.</span>
+
+</div>
+
+== "However" with 怎么 都 ==
+
+怎么 (zěnme) also works with 都.
+
+=== Structure ===
+
+<div class="jiegou">
+怎么 + Verb + 都 + Predicate
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>怎么</em> 做 <strong>都</strong> 可以 吗 ？ <span class="pinyin"><em>Zěnme</em> zuò <strong>dōu</strong> kěyǐ ma? </span><span class="trans">It's OK if I do it however I want?</span>
+*这些 钱 你 <em>怎么</em> 花 <strong>都</strong> 行 。<span class="pinyin">Zhèxiē qián nǐ <em>zěnme</em> huā <strong>dōu</strong> xíng.</span><span class="trans">You can spend this money however you like.</span>
+*别人 <em>怎么</em> 想 <strong>都</strong> 不 重要 。 <span class="pinyin">Biérén <em>zěnme</em> xiǎng <strong>dōu</strong> bù zhòngyào.</span><span class="trans">It's not important what other people think.</span>
+
+</div>
+
+== See also ==
+
+*[[Expressing "All" with "shenme dou"]]
+*[[Expressing "Every" with "mei" and "dou"]]
+
+== Sources and  further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|146}}
+{{Source|HSK Standard Course 4下|117}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|286-8}} 
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+{{HSK|HSK4}}
+{{Basic Grammar|都|B1|Question Word + 都 + Predicate|<em>谁</em> <strong>都</strong> 可以 进 。|grammar point|ASG13ALM}}
+{{Rel char|谁}}
+{{Rel char|哪里}}
+{{Rel char|哪儿}}
+{{Rel char|怎么}}
+{{Rel char|多少}}
+{{Rel char|什么时候}}
+{{Similar|Expressing "all" with "shenme dou"}}
+{{Similar|Referring to "all" using "suoyou"}}
+{{Similar|Expressing "some" with question words}}
+{{Used for|Expressing quantity}}
+{{Structure|Sentence Patterns}}
+{{Subprop|Basic/Simple Sentence Patterns}}
+{{Translation|every}}
+{{Translation|everyone}}
+{{Translation|everywhere}}
+{{Translation|everybody}}
+{{Translation|whenever}}
+{{Translation|however}}

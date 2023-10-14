@@ -1,0 +1,72 @@
+<!-- Expressing "as a result" with "jieguo" -->
+{{Grammar Box}} 
+
+结果 (jiéguǒ) can be used as a conjunction or adverb, meaning "as a result" or "consequently." It normally starts the second half of a sentence and can also introduce an unexpected or undesirable result. 
+
+== Indicating a Logical Result ==
+
+=== Structure ===
+
+<div class="jiegou">
+Reason / Condition ，结果 + Result
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*她 穿 得 很 少 ，<em>结果</em> 感冒 了 。<span class="pinyin">Tā chuān de hěn shǎo, <em>jiéguǒ</em> gǎnmào le.</span><span class="trans">She didn't dress warmly enough, and as a result, she caught a cold.</span>
+*我 太 紧张 了 ，<em>结果</em> 说 错 了 很 多 。<span class="pinyin">Wǒ tài jǐnzhāng le, <em>jiéguǒ</em> shuō cuò le hěn duō.</span><span class="trans">I was too nervous. As a result, I misspoke a lot.</span>
+*他 开 得 太 快 了 ，<em>结果</em> 撞到 了 一 个 人 。<span class="pinyin">Tā kāi de tài kuài le, <em>jiéguǒ</em> zhuàngdào le yī gè rén.</span><span class="trans">He drove too fast. As a result, he hit someone.</span>
+*他 没 好好 复习，<em>结果</em> 考试 没 考 好 。<span class="pinyin">Tā méi hǎohāo fùxí, <em>jiéguǒ</em> kǎoshì méi kǎo hǎo.</span><span class="trans">He didn't review well. As a result, he didn't do well in the exam.</span>
+*他 总是 迟到 ，<em>结果</em> 老板 炒 了 他 的 鱿鱼 。<span class="pinyin">Tā zǒngshì chídào, <em>jiéguǒ</em> lǎobǎn chǎo le tā de yóuyú.</span><span class="trans">He's always late for work. As a result, his boss fired him.</span>
+
+</div>
+
+== Indicating an Unexpected Result ==
+
+Sometimes there is no cause-effect relationship between what comes before and after 结果 (no logical connection). In these sentences, the second half of the sentence usually emphasizes that what actually happened was unexpected or undesired.
+
+=== Structure ===
+
+<div class="jiegou">
+Situation ，结果 + [Unexpected Result]
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我 去 机场 接 他 ，<em>结果</em> 没 接到 他 。<span class="pinyin">Wǒ qù jīchǎng jiē tā, <em>jiéguǒ</em> méi jiēdào tā.</span><span class="trans">I went to the airport to pick him up. But in the end, I didn't find him there.</span>
+*我 跟 朋友 打赌 ，<em>结果</em> 我 输 了 。<span class="pinyin">Wǒ gēn péngyou dǎdǔ, <em>jiéguǒ</em> wǒ shū le.</span><span class="trans">I made a bet with a friend. I lost in the end.</span>
+*我 昨天 跟 朋友 去 喝酒 ，<em>结果</em> 喝醉 了 。<span class="pinyin">Wǒ zuótiān gēn péngyou qù hējiǔ, <em>jiéguǒ</em> hēzuì le.</span><span class="trans">I went to have a drink with my friends yesterday. I ended up getting drunk.</span>
+*他 吃 了 很 多 药 ，<em>结果</em> 都 没有 用 。<span class="pinyin">Tā chī le hěn duō yào, <em>jiéguǒ</em> dōu méiyǒu yòng.</span><span class="trans">He took a lot of pills. None of them worked in the end.</span>
+*我 点 的 是 牛肉 汉堡 ，<em>结果</em>  服务员 给 了 我 一 个 鸡肉 的 。<span class="pinyin">Wǒ diǎn de shì niúròu hànbǎo, <em>jiéguǒ</em> fúwùyuán gěi le wǒ yī gè jīròu de.</span><span class="trans">I ordered a burger. The waiter gave me a chicken sandwich instead.</span>
+
+</div>
+
+== See also ==
+
+*[[Cause and effect with "yinwei" and "suoyi"]]
+*[[Expressing "due to…" with "youyu"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|110}}
+
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级) |342}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK4}}
+[[Category: Adverbs]]
+
+{{Basic Grammar|结果|B1|Reason / Condition ，结果 + Result|他 没 好好 复习 ，<em>结果</em> 没 通过 考试。|grammar point|ASG6B21A}}
+{{Similar|Cause and effect with "yinwei" and "suoyi"}}
+{{Similar|Expressing "due to…" with "youyu"}}
+{{Similar|Using "because" with "er" to indicate effect}}
+{{Similar|Stating the effect before the cause}}
+{{Similar|Expressing difficulty with "hao (bu) rongyi"}}
+{{Used for|Expressing attitude}}
+{{POS|Adverbs}}

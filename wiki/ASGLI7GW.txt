@@ -1,0 +1,93 @@
+<!-- Expressing "ever since" with "zicong" -->
+{{Grammar Box}}
+自从 means "ever since" in English, and is used to express the starting point of an action in the past. It can be followed by phrases using the markers [[起]] and [[After a specific time|以后]].
+
+When you need to use 以来 in a more formal or written context, you can add 自, [[从]], or 自从 (or other similar words) before the time or event to make it into a "sandwich pattern."
+
+== Basic Usage of "zicong" ==
+
+自从 is used to mark a starting point in time. The same meaning can be expressed with just 从, but 自从 is more formal.
+
+=== Structure ===
+
+<div class="jiegou">
+自从 + [Starting Point] ， ……
+</div>
+
+=== Examples ===
+
+<div class="liju"> 
+
+* <em>自从</em> 来 到 湖南，我 越来越 能 吃 辣 了。<span class="pinyin"><strong>Zìcóng</strong> lái dào Húnán, wǒ yuèláiyuè néng chī là le .</span><span class="trans">Ever since arriving in Hunan I've been more and more able to eat spicy food.</span>
+* <em>自从</em> 金融 危机 爆发，就业 市场 越来越 不 景气 了 。<span class="pinyin"><strong>Zìcóng</strong> jīnróng wēijī bàofā, jiùyè shìchǎng yuèláiyuè bù jǐngqì le .</span><span class="trans">Ever since the economic crisis hit the job market has gotten worse and worse.</span>
+* <em>自从</em> 吵 完 架，两 个 人 再 也 没有 说 过 话。<span class="pinyin"><strong>Zìcóng</strong> chǎo wán jià, liǎng ge rén zài yě méiyǒu shuō guo huà .</span><span class="trans">Since their fight the two of them haven't spoken at all.</span>
+
+</div>
+
+=== Common Mistakes ===
+
+In the above examples, 从 can be used interchangeably with 自从. The main difference is that 从 can also be used to state starting points in the future, a little like "from" in English. 自从 cannot be used in this way.
+
+<div class="liju">
+
+<ul>
+<li class="o"><em>从</em> 明天 开始，我 要 认真 看 书。<span class="expl">从 can be used for future times.</span><span class="pinyin"><em>Cóng</em> míngtiān kāishǐ, wǒ yào rènzhēn kàn shū.</span></li>
+<li class="x"><em>自从</em> 明天 开始，我 要 认真 看 书。<span class="expl">自从 cannot.</span><span class="pinyin"><em>Zìcóng</em> míngtiān kāishǐ, wǒ yào rènzhēn kàn shū.</span><span class="trans">Starting from tomorrow, I'm going to study seriously.</span></li>
+</ul>
+
+</div>
+
+Note that 从 can be used to denote [["From… To…" with "cong… dao…"|starting points in place <em>and</em> time]], whereas 自从 can ''only'' be used to express starting points in <em>time</em>.
+
+<div class="liju">
+<ul>
+<li class="o"><em>从</em> 我 家 到 机场 的 距离 是 一 百 公里 。<span class="expl">从 can be used for physical distances.</span><span class="pinyin"><em>Cóng</em> wǒ jiā dào jīchǎng de jùlí shì yī bǎi gōnglǐ.</span></li>
+<li class="x"><em>自从</em> 我 家 到 机场 的 距离 是 一 百 公里 。<span class="expl">自从 cannot.</span><span class="pinyin"><em>Zìcóng</em> wǒ jiā dào jīchǎng de jùlí shì yī bǎi gōnglǐ.</span><span class="trans">From my home to the airport, the distance is 100 kilometers.</span> </li>
+</ul>
+</div>
+
+== Alternatives to "zicong" and Adding "yilai" ==
+
+=== Structure ===
+
+<div class="jiegou">
+从 / 自从 / 自 + Time / Event + (以)后 / 以来
+</div>
+
+These words all mean "from," with 从 the least formal, 自从 noticeably more formal, and 自 the most formal. At the end of the structure, 以后 is the least formal, followed by 后, with 以来 the most formal.
+
+=== Examples ===
+
+<div class="liju">
+
+* <em>自从</em> 他 跟 我 分手 <em>后</em> ，他 就 没有 联系 过 我。<span class="pinyin"><em>Zìcóng</em> tā gēn wǒ fēnshǒu <em>hòu</em>, tā jiù méiyǒu liánxì guo wǒ.</span><span class="trans">Ever since he broke up with me he hasn't contacted me.</span>
+* <em>自从</em> 用 手机 付款 <em>后</em> ，我 很 少 带 现金 出门 。<span class="pinyin"><em>Zìcóng</em> yòng shǒujī fùkuǎn <em>hòu</em>, wǒ hěnshǎo dài xiànjīn chūmén.</span><span class="trans">Ever since I've started using my phone to pay for stuff I rarely take cash when I go out.</span>
+*<em>从</em> 他 爸爸 去世 <em>以来</em> ，他 一直 没 回 过 家 。<span class="pinyin"><em>Cóng</em> tā bàba qùshì <em>yǐlái</em>, tā yīzhí méi huí guo jiā.</span><span class="trans">He hasn't returned home since his father passed away.</span>
+*<em>从</em> 毕业 <em>以来</em>，她 一直 在 教 汉语 。<span class="pinyin"><em>Cóng</em> bìyè <em>yǐlái</em>, tā yīzhí zài jiāo Hànyǔ.</span><span class="trans">She has been teaching Chinese since she graduated.</span>
+*<em>自</em> 改革 开放 <em>以来</em> ，中国 社会 发生 了 巨大 的 变化 。<span class="pinyin"><em>Zì</em> gǎigé kāifàng <em>yǐlái</em>, Zhōngguó shèhuì fāshēng le jùdà de biànhuà.</span><span class="trans">Tremendous changes have been taking place in China since the reform and opening up to the outside world.</span>
+*<em>自从</em> 妹妹 出生 <em>以来</em> ，妈妈 就 更 忙 了 。<span class="pinyin"><em>Zìcóng</em> mèimei chūshēng <em>yǐlái</em>, māma jiù gèng máng le.</span><span class="trans">Ever since my little sister was born, mom has been busier than ever.</span>
+
+</div>
+
+== See also ==
+
+*[[Expressing "ever since" with "yilai"]]
+*[[Before and after with "zhiqian" and "zhihou"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Boya Chinese Lower Intermediate 1 (博雅汉语准中级加速篇) |218}} 
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|自从|B2|(自)从⋯⋯|<em>自从</em> 来 了 上海 ， 他 就 习惯 了 繁忙 的 生活 。|grammar point|ASGLI7GW}}
+{{Rel char|从}}
+{{Rel char|起}}
+{{Rel char|以后}}
+{{Similar|Expressing "ever since" with "yilai"}}
+{{Similar|Before and after with "zhiqian" and "zhihou"}}
+{{Used for|Sequencing events in time}}
+{{Used for|Referring to the past}}
+{{Translation|since}}
+{{POS|Prepositions}}

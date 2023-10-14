@@ -1,0 +1,149 @@
+<!-- Reduplication of adjectives -->
+{{Grammar Box}} 
+
+One of the charming features of Chinese is reduplication (repeating, or doubling up) of certain words and characters, including [[adjective]]s. Reduplication can enhance the descriptive feeling of an adjective.
+
+== One-Syllable Adjectives (AA) ==
+
+If an adjective is only one syllable (one character), then reduplicating it is a no-brainer. The only tricky part about this pattern is that not all adjectives can be reduplicated in natural speech. It's mostly for adjectives that describe the physical world: colors, sizes, shapes, and other physical descriptors.
+
+=== Structure ===
+
+<div class="jiegou">
+Adj. + Adj. + 的 (+ Noun)
+</div>
+
+In most Chinese textbooks and grammar books, this is known as the "AA" pattern. We'll be using this form more extensively below:
+
+<div class="jiegou">
+A A + 的 (+ Noun)
+</div>
+
+Note that this pattern is also identical to [[reduplication of verbs|single-syllable reduplication of verbs]].
+
+=== Examples ===
+
+<div class="liju">
+
+*你 的 脸 <em>红 红 的</em> 。<span class="pinyin">Nǐ de liǎn <em>hóng hóng de</em>.</span><span class="trans">Your face is red.</span>
+*宝宝 的 眼睛 <em>大 大 的</em> 。<span class="pinyin">Bǎobao de yǎnjīng <em>dà dà de</em>.</span><span class="trans">The baby's eyes are big.</span>
+*今晚 的 月亮 <em>圆 圆 的</em> 。<span class="pinyin">Jīnwǎn de yuèliàng <em>yuán yuán de</em>.</span><span class="trans">The moon is round tonight.</span>
+*她 爸爸 <em>高 高 胖 胖 的</em> 。<span class="pinyin">Tā bàba <em>gāo gāo pàng pàng de</em>.</span><span class="trans">Her father is tall and fat.</span>
+*我 妹妹 <em>瘦 瘦 小 小 的</em> 。<span class="pinyin">Wǒ mèimei <em>shòu shòu xiǎo xiǎo de</em>.</span><span class="trans">My little sister is thin and small.</span>
+
+</div>
+
+== Two-Syllable Adjectives (AABB) ==
+
+If the adjective has more than one character, then you should repeat each character individually (rather than the whole word).  This is known as the "AABB" pattern.
+
+=== Structure ===
+
+In the structure below, the original two-character adjective (such as 高兴, 漂亮) is "AB," where the first character of the adjective is represented by "A," and the second by "B."
+
+<div class="jiegou">
+A  A  B  B  + 的 (+ Noun) 
+</div>
+
+=== Examples ===
+
+Not all two-syllable adjectives are used in AABB form, but here are some common examples of AB adjectives represented in AABB form.
+
+<div class="liju">
+
+*高兴 → 高高兴兴 <span class="pinyin">gāoxìng ￫ gāogāo-xìngxìng</span><span class="trans">happy</span>
+*热闹 → 热热闹闹 <span class="pinyin">rènao ￫ rèrè-nāonāo</span><span class="trans">noisy, boisterous</span>
+*漂亮 → 漂漂亮亮 <span class="pinyin">piàoliang ￫ piàopiào-liāngliāng</span><span class="trans">pretty</span>
+*舒服 → 舒舒服服 <span class="pinyin">shūfu ￫ shūshū-fūfū</span><span class="trans">comfortable</span>
+*安静 → 安安静静 <span class="pinyin">ānjìng ￫ ānān-jìngjìng</span><span class="trans">quiet and still</span>
+
+</div>
+
+Not all adjectives can take AABB form.  Here are some examples of common adjectives that don't work in AABB form.
+
+<div class="liju">
+
+<ul>
+<li class="x">好吃 → <strong>好好吃吃</strong> <span class="pinyin">hǎochī ￫ <strong>hǎohǎo-chīchī </strong></span><span class="trans">tasty</span></li>
+<li class="x">便宜 → <strong>便便宜宜</strong> <span class="pinyin">piányi ￫ <strong>piánpián-yíyí</strong></span><span class="trans">cheap</span></li>
+<li class="x">麻烦 → <strong>麻麻烦烦</strong> <span class="pinyin">máfan ￫ <strong>mámá-fánfán </strong></span><span class="trans">bothersome</span></li>
+</ul>
+
+</div>
+
+== Used as Adverbs (AABB) ==
+
+When adjectives are used as [[adverb]]s to modify verbs, you can reduplicate the adjective using the AABB pattern. 
+
+=== Structure ===
+
+<div class="jiegou">
+AABB + 地 + Verb
+</div>
+
+'''Note:''' The "AABB" pattern for reduplication of two-syllable adjectives contrasts with the [[reduplication of verbs|"ABAB" pattern for reduplication of two-syllable verbs]].
+
+=== Examples ===
+
+<div class="liju">
+
+*我们 <em>清清楚楚</em> <strong>地</strong> 看到 他 跟 一 个 胖 胖 的 男人 上 车 了 。<span class="pinyin">Wǒmen <em>qīngqīng-chǔchǔ</em> <strong>de</strong> kàndào tā gēn yī gè pàng pàng de nánrén shàngchē le.</span><span class="trans">We clearly saw him get in the car with a fat man.</span>
+*我 真 想 <em>舒舒服服</em> <strong>地</strong> 躺 在 沙发 上 看 电视 。<span class="pinyin">Wǒ zhēn xiǎng <em>shūshū-fūfū</em> <strong>de</strong> tǎng zài shāfā shàng kàn diànshì.</span><span class="trans">I'd really like to comfortably lie on the couch and watch TV.</span>
+*你 妈妈 <em>辛辛苦苦</em> <strong>地</strong> 做 了 两 个 小时 的 饭，你 怎么 不 吃 ？<span class="pinyin">Nǐ māma <em>xīnxīn-kǔkǔ</em> <strong>de</strong> zuò le liǎng gè xiǎoshí de fàn, nǐ zěnme bù chī?</span><span class="trans">Your mother labored over this meal for two hours, and you aren't going to eat it?</span>
+
+</div>
+
+== Used as Predicates (ABAB) ==
+
+If you use an [[adjective]] as a [[predicate]], then you're basically using the adjective like a verb, and you reduplicate it [[reduplication of verbs|as you would a verb]], which means ABAB form.  Using an adjective in this way is roughly equivalent to using 一下 after the (non-reduplicated) adjective.
+
+=== Structure ===
+
+To use a reduplicated adjective as a predicate, follow this structure:
+
+<div class="jiegou">
+Subj. + ABAB
+</div>
+
+or
+
+<div class="jiegou">
+Subj. + AB + 一下
+</div>
+
+In the pattern above there's no verb because when an adjective serves as the predicate, it does the job of a verb.  Notice also that there's no 的 after the ABAB, because 的 is used when modifying nouns.
+
+=== Examples ===
+
+<div class="liju">
+
+*妹妹 快 过 生日 了 ，我 打算 给 她 办 一 个 生日 派对 ，<em>热闹 热闹</em> 。<span class="pinyin">Mèimei kuài guò shēngrì le, wǒ dǎsuàn gěi tā bàn yī gè shēngrì pàiduì, <em>rènao rènao</em>.</span><span class="trans">My little sister's birthday is coming and I plan to throw her a birthday party and have a blast.</span>
+*来 ，喝 点 酒 ，<em>高兴 高兴</em> 。<span class="pinyin">Lái, hē diǎn jiǔ, <em>gāoxìng gāoxìng</em>.</span><span class="trans">Come on, have a little wine and enjoy yourself.</span>
+*到 这里 来 <em>凉快 凉快</em> 。<span class="pinyin">Dào zhèlǐ lái <em>liángkuai liángkuai</em>.</span><span class="trans">Come over here and cool off.</span>
+*我 想 去 外面 走走 ，安静 <em> 一下</em> 。<span class="pinyin">Wǒ xiǎng qù wàimiàn zǒuzou, ānjìng <em>yīxià</em>.</span><span class="trans">I'd like to take a walk outside, get some quiet time.</span>
+*想 不 想 去 做 个 按摩 ，<em>放松 一下</em> 。<span class="pinyin">Xiǎng bu xiǎng qù zuò gè ànmó, <em>fàngsōng yīxià</em>.</span><span class="trans">Would you like to go get a massage and unwind?</span>
+
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|139}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|53}}
+{{Source|Integrated Chinese: Level 2, Part 2|189-90}}
+{{Source|Mandarin Chinese: A Functional Reference Grammar|32-6}} 
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|50}} 
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|103-4}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|271-2}} 
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+[[Category:Adjectives]]
+
+{{Basic Grammar|的|B1|Adj. + Adj.|你 应该 <em>慢慢</em> 地 走。|grammar point|ASGDHE8S}}
+{{Similar|Simple "noun + adjective" sentences}}
+{{Similar|Reduplication of verbs}}
+{{Similar|Reduplication of measure words}}
+{{Used for|Expressing quality}}
+{{POS|Adjectives}}

@@ -1,0 +1,141 @@
+<!-- Auxiliary verb "yao" and its multiple meanings -->
+{{Grammar Box}} 
+
+You probably already know the basic meaning of [[Wanting to do something with "yao"|要 (yào)]] as "to want."  It is actually a quite versatile word, though, and can also take on the meanings of "to need" as well as "will (do something)."  In every case, context is crucial for figuring out which meaning someone is trying to express.
+
+== 要 (yào) as "Want" ==
+
+This structure could be used when ordering food at a restaurant or a shop. Here, it's being used for saying that you want ''something.''
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + 要 + Noun
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 你 <em>要</em> 什么？<span class="pinyin">Nǐ <em>yào</em> shénme? </span><span class="trans">What do you want? </span>
+* 我 <em>要</em> 一 杯 水。<span class="pinyin">Wǒ <em>yào</em> yī bēi shuǐ.</span><span class="trans">I want a cup of water.</span>
+* 你们 都 <em>要</em> 冰 可乐 吗？<span class="pinyin">Nǐmen dōu <em>yào</em> bīng kělè ma? </span><span class="trans">Do you all want coke with ice? </span>
+* 你 <em>要</em> 茶 还是 咖啡？<span class="pinyin">Nǐ <em>yào</em> chá háishì kāfēi? </span><span class="trans">Do you want tea or coffee? </span>
+* 我们 <em>要</em> 三 碗 米饭。<span class="pinyin">Wǒmen <em>yào</em> sān wǎn mǐfàn.</span><span class="trans">We want three bowls of rice.</span>
+
+</div>
+
+== 要 (yào) as "Want to" ==
+
+In Chinese, 要 (yào) can mean "want to" (similar to  [[Expressing "would like to" with "xiang"|想 (xiǎng)]]), but its tone is quite firm. So it's used for saying that you want '''''to do''' something''.
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + 要 + Verb
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 你 <em>要</em> 喝 什么 酒？<span class="pinyin">Nǐ <em>yào</em> hē shénme jiǔ? </span><span class="trans">What kind of wine do you want to drink? </span>
+* 爸爸 <em>要</em> 买 一 个 新 手机。<span class="pinyin">Bàba <em>yào</em> mǎi yī gè xīn shǒujī.</span><span class="trans">Dad wants to buy a new cell phone.</span>
+* 我 <em>要</em> 跟 你 一起 去。<span class="pinyin">Wǒ <em>yào</em> gēn nǐ yīqǐ qù.</span><span class="trans">I want to go with you.</span>
+* 她 <em>要</em> 去 大城市 找 工作。<span class="pinyin">Tā <em>yào</em> qù dà chéngshì zhǎo gōngzuò.</span><span class="trans">She wants to go to a big city to find a job.</span>
+* 周末 你们 <em>要</em> 一起 看 电影 吗？<span class="pinyin">Zhōumò nǐmen <em>yào</em> yīqǐ kàn diànyǐng ma? </span><span class="trans">Do you want to go see a movie together this weekend? </span>
+
+</div>
+
+== 要 (yào) as "Need to" ==
+
+If you crank the urgency of "to want" up a few notches, you get "to need."  The two meanings overlap, creating a fuzzy, "needy" gray area.
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + 要 + Verb
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 你 <em>要</em> 早 点 睡觉。<span class="pinyin">Nǐ <em>yào</em> zǎo diǎn shuìjiào.</span><span class="trans">You need to go to bed earlier.</span>
+* 我们 明天 <em>要</em> 上班。<span class="expl">logically, most people don't really WANT to work</span><span class="pinyin">Wǒmen míngtiān <em>yào</em> shàngbān.</span><span class="trans">We need to work tomorrow.</span>
+* 老板 今天 <em>要</em> 见 一个 新 客户。<span class="pinyin">Lǎobǎn jīntiān <em>yào</em> jiàn yī gè xīn kèhù.</span><span class="trans">Today the boss needs to see a new client.</span>
+* 老师 太 累 了， <em>要</em> 好好 休息。<span class="pinyin">Lǎoshī tài lèi le, <em>yào</em> hǎohāo xiūxi.</span><span class="trans">The teacher is too tired. She needs to rest well.</span>
+* 明天 下雨， 你 <em>要</em> 带 伞。<span class="pinyin">Míngtiān xiàyǔ, nǐ <em>yào</em> dài sǎn.</span><span class="trans">It's going to rain tomorrow; you need to bring an umbrella.</span>
+</div>
+
+== 要 (yào) as "Going to" ==
+
+This use of 要 (yào) is like "going to" (similar to [[Expressing "will" with "hui"|会]] (huì)).
+
+=== Structure ===
+
+Again, no change to the structure here, but it often includes a mention of a time ''when'' something is ''going to happen''.
+
+<div class="jiegou">
+
+Subj. + 要 + Verb
+
+</div>
+
+If you want to know more about the related pattern "要⋯⋯了" (yào... le), please see [[Expressing "about to happen" with "le"|the "kuai... le" pattern]].
+
+=== Examples ===
+
+<div class="liju">
+
+* 星期五 我们 <em>要</em> 开会。<span class="pinyin">Xīngqīwǔ wǒmen <em>yào</em> kāihuì.</span><span class="trans">We are going to have a meeting on Friday.</span>
+* 12 点 我 <em>要</em> 去 吃饭。<span class="pinyin">Shí'èr diǎn wǒ <em>yào</em> qù chīfàn.</span><span class="trans">I am going to go eat at 12 o'clock.</span>
+* 老板 下周 <em>要</em> 出差 吗？<span class="pinyin">Lǎobǎn xià zhōu <em>yào</em> chūchāi ma?</span><span class="trans">Is the boss going on a business trip next week?</span>
+* 他们 明年 <em>要</em> 结婚 了。<span class="pinyin"> Tāmen míngnián <em>yào</em> jiéhūn le.</span><span class="trans">They are going to get married next year.</span>
+* 今年 你 <em>要</em> 回家 过年 吗？<span class="pinyin">Jīnnián nǐ <em>yào</em> huíjiā guònián ma?</span><span class="trans">Are you going to return home this year to celebrate the Chinese New Year?</span>
+
+</div>
+
+== Context, Context, Context ==
+
+You may have noticed that the meanings can easily overlap. To figure out what is intended, you need to use context.  How urgent is the situation?  Is it likely to be something the speaker really ''wants'' to do?  Is it something that's totally ''going to'' happen, regardless of anyone's preference?  Most often, a little background knowledge and some common sense are all you need to figure it out.
+
+==See also==
+
+*[["Would like to" with xiang]]
+*[[Expressing "will" with "hui"]]
+*[[About to happen with "le"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|154-5}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+[[Category:Verbs]]
+[[Category:Auxiliary verbs]]
+
+{{Basic Grammar|要|A2|要 + Noun / 要 + Verb|我 <em>要</em> 一 杯 水。|grammar point|ASG95AL1}}
+{{Similar|About to happen with "le"}}  
+{{Similar|Wanting to do something with yao}}
+{{Similar|Negative commands with "bu yao"}}   
+{{Similar|Expressing "don't need to" with "buyong"}}   
+{{Similar|Expressing determination with "feiyao"}} 
+{{Similar|Expressing "will" with "hui"}}
+{{POS|Verbs}}
+{{Subprop|Auxiliary verbs}}
+{{Used for|Referring to the future}}
+{{Used for|Expressing determination}}
+{{Used for|Expressing desires}}
+{{Translation|want}}
+{{Translation|need}}
+{{Translation|go}}
+{{Translation|will}}

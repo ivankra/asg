@@ -1,0 +1,105 @@
+<!-- Expressing "unless" with "chufei" -->
+{{Grammar Box}} 
+除非 (chúfēi) can be used as a conjunction and means "unless." 否则 (fǒuzé) or 要不然 (yàobùrán) often appear in the following phrase, to form a construction meaning "''unless'' x, ''otherwise'' y":
+
+== Pattern with 除非 ==
+
+The simplified construction more directly maps to the basic English usage of "unless," as in, "I won't do it ''unless'' you pay me."
+
+=== Structure ===
+
+<div class="jiegou">
+Result / Fact ，除非 + Condition
+</div>
+
+The sentences below place emphasis on the part after 除非.
+
+=== Examples ===
+
+<div class="liju">
+*我 不 去 ，<em>除非</em> 你 也 去 。<span class="pinyin">Wǒ bù qù, <em>chúfēi</em> nǐ yě qù.</span><span class="trans">I won't go unless you go too.</span>
+*你 不能 进 ，<em>除非</em> 你 有 预约 。<span class="pinyin">Nǐ bù néng jìn, <em>chúfēi</em> nǐ yǒu yùyuē.</span><span class="trans">You can't come in unless you have an appointment.</span>
+*我 不 说 ，<em>除非</em> 你 答应 我 你 不会 生气 。<span class="pinyin">Wǒ bù shuō, <em>chúfēi</em> nǐ dāyìng wǒ nǐ bù huì shēngqì.</span><span class="trans">I won't tell you unless you promise me you won't get upset.</span>
+*你 不 会 这么 快 升职 ，<em>除非</em> 你 表现 很 好 。<span class="pinyin">Nǐ bù huì zhème kuài shēngzhí, <em>chúfēi</em> nǐ biǎoxiàn hěn hǎo.</span><span class="trans">You won't get promoted so soon unless you perform very well.</span>
+*我们 公司 一般 不 允许 员工 请假 ，<em>除非</em> 理由 很 充分 。<span class="pinyin">Wǒmen gōngsī yībān bù yǔnxǔ yuángōng qǐngjià, <em>chúfēi</em> lǐyóu hěn chōngfèn.</span><span class="trans">The company won't allow its staff time off unless they have a really good reason.</span>
+</div>
+
+== Pattern with Just 要不然 ==
+
+This simplified construction using 要不然 (or 不然) more directly maps to the basic English usage of "otherwise," as in: "Pay me. Otherwise, I won't do it."
+
+=== Structure ===
+
+<div class="jiegou">
+Condition, (要) 不然 + Result 
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 你 也 去，<em>要不然</em> 我 不 去 。<span class="pinyin">Nǐ yě qù, <em>yàobùrán</em> wǒ bù qù.</span><span class="trans">You go too. Otherwise, I won't go.</span>
+* 马上 帮 我 叫车 ，<em>要不然</em> 我 赶不上 飞机 。<span class="pinyin">Mǎshàng bāng wǒ jiào chē, <em>yàobùrán</em> wǒ gǎnbushàng fēijī.</span><span class="trans">I won't catch my flight unless you call a cab for me right now.</span>
+* 老师 ，您 要 给 我们 一点 提示 ，<em>要不然</em> 谁 都 想不出 答案 。<span class="pinyin">Lǎoshī, nín yào gěi wǒmen yīdiǎn tíshì, <em>yàobùrán</em> shéi dōu xiǎng bù chū dá'àn.</span><span class="trans">Teacher, we need you to give us a little hint. Otherwise, none of us will be able to figure out the answer.</span>
+</div>
+
+== Full Pattern with 除非 and 否则 / 不然 ==
+
+In the full construction, 除非 comes first, and the meaning is "''Unless'' x, ''otherwise'' y."
+
+===Structure===
+
+<div class="jiegou">
+除非 + Condition ，[否则 / 不然] + [Result / Fact]
+</div>
+
+===Examples===
+
+<div class="liju">
+*<em>除非</em> 你 是 会员 ，<em>否则</em> 不能 进去 。<span class="pinyin"><em>Chúfēi</em> nǐ shì huìyuán, <em>fǒuzé</em> bù néng jìnqù.</span><span class="trans">Unless you have a membership, you can't come in.</span>
+*<em>除非</em> 有 奇迹 ，<em>不然</em> 他 的 病 治 不好 。<span class="pinyin"><em>Chúfēi</em> yǒu qíjī, <em>bùrán</em> tā de bìng zhì bù hǎo.</span><span class="trans">Unless a miracle happens, his disease can't be cured.</span>
+*<em>除非</em> 你 听 我 的 ，<em>否则</em> 我 不 会 帮 你 。<span class="pinyin"><em>Chúfēi</em> nǐ tīng wǒ de, <em>fǒuzé</em> wǒ bù huì bāng nǐ.</span><span class="trans">Unless you listen to me, I won't help you.</span>
+*<em>除非</em> 你 有 证据 ，<em>不然</em> 谁 会 相信 ？<span class="pinyin"><em>Chúfēi</em> nǐ yǒu zhèngjù, <em>bùrán</em> shéi huì xiāngxìn?</span><span class="trans">Unless you have proof, who is going to believe it?</span>
+*<em>除非</em> 你 是 名牌 大学 毕业 的 ，<em>否则</em> 老板 不会 考虑 你 的 。<span class="pinyin"><em>Chúfēi</em> nǐ shì míngpái dàxué bìyè de, <em>fǒuzé</em> lǎobǎn bù huì kǎolǜ nǐ de.</span><span class="trans">The boss won't consider you unless you graduated from a big name university.</span>
+</div>
+
+== Reverse Pattern with 除非 and 才 ==
+
+除非 is also used in the patterns below.  The meaning expressed is the same as the sentences above, but below the "Y" part expresses what '''won't''' happen ''unless'' the 除非 condition is met. It might be more helpful to think of 除非 here as meaning "only if."
+
+<div class="jiegou">
+除非 x，才 y
+</div>
+
+So that's "'''Only if''' x, y."
+
+A few examples:
+
+<div class="liju">
+*<em>除非</em> 你们 买 很 多 ，<em>才</em> 能 便宜 点 。<span class="pinyin"><em>Chúfēi</em> nǐmen mǎi hěn duō, <em>cái</em> néng piányí diǎn.</span><span class="trans">Only if you buy a lot can I give you a cheaper price.</span>
+*<em>除非</em> 旧 的 坏 了 ，我 <em>才</em> 会 买 新的 。<span class="pinyin"><em>Chúfēi</em> jiù de huài le, wǒ <em>cái</em> huì mǎi xīn de.</span><span class="trans">Only if the old one is broken will I buy a new one.</span>
+*<em>除非</em> 老板 给 我 加薪 ，我 <em>才</em> 会 留下来 。<span class="pinyin"><em>Chúfēi</em> lǎobǎn gěi wǒ jiā xīn, wǒ <em>cái</em> huì liú xiàlái.</span><span class="trans">Only if the boss gives me a pay raise will I stay.</span>
+</div>
+
+This use of 才 is similar to the [[Expressing "only after" with "cai"|"only after" use]].
+
+== See also ==
+
+*[[Expressing "even if…" with "jishi"]]
+*[[Expressing "otherwise" with "yaobu"]]
+
+==Sources and Further Reading==
+
+{{Source|HSK Standard Course 4下|6}}
+{{Source|Common Chinese Patterns 330 (汉语常用格式330例)|}}
+{{Source|卓越汉语－公司实战篇|166}}
+
+[[Category: B2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|除非|B2|除非⋯⋯ ，才⋯⋯|<em>除非</em> 你 求情 ，他 <em>才</em> 肯 帮忙 。|grammar point|ASGMD0YY}}
+{{Rel char|要不}}
+{{Rel char|不然}}
+{{Rel char|否则}}
+{{Similar|Expressing "Even if…" with "jishi"}}
+{{Similar|Expressing "otherwise" with "yaobu"}}
+{{Used for|Indicating cause and effect}}
+{{Structure|Conditional Statements}}

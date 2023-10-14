@@ -1,0 +1,78 @@
+<!-- Expressing "one by one" with "yi" -->
+{{Grammar Box}} 
+
+The expression "one by one" is also simple in Chinese. It unsurprisingly features the word 一 (yī), but you don't even need the word "by." However, the pattern gets complicated somewhat by the concept of [[measure word]]s.
+
+== Used as "One by One" ==
+
+The most obvious way to express "one by one" is 一个一个 (yī gè yī gè), and this expression is, in fact, quite common, especially when referring to people doing things "one by one." But other [[measure word]]s can be used in the same pattern instead of 个.
+
+=== Structure ===
+
+<div class="jiegou">
+一 + Measure Word + 一 + Measure Word (+ Noun)
+</div>
+
+个 is the most likely candidate for the "Measure Word" slot here.
+
+=== Examples ===
+
+<div class="liju">
+
+*别 吵 ，<em>一</em> 个 <em>一</em> 个 说。<span class="pinyin">Bié chǎo, <em>yī</em> gè <em>yī</em> gè shuō.</span><span class="trans">Don't argue. Speak one by one.</span>
+*别 着急 ，<em>一</em> 点 <em>一</em> 点 做 。<span class="pinyin">Bié zháojí, <em>yī</em> diǎn <em>yī</em> diǎn zuò.</span><span class="trans">Don't worry, do it little by little.</span>
+*请 <em>一</em> 个 房间 <em>一</em> 个 房间 检查 。<span class="pinyin">Qǐng <em>yī</em> gè fángjiān <em>yī</em> gè fángjiān jiǎnchá.</span><span class="trans">Please inspect room by room.</span>
+*别 拿 那么 多 ，<em>一</em> 个 <em>一</em> 个 拿 。<span class="pinyin">Bié ná nàme duō, <em>yī</em> gè <em>yī</em> gè ná.</span><span class="trans">Don't carry so much. Carry them one at a time.</span>
+
+</div>
+
+== Used as "Little by Little" ==
+
+Aside from just meaning "one by one," when 一 (yī) is used with a [[measure word]] that is a unit of time  like "day" or "year," the meaning changes to "little by little" ("day by day," "year by year") or "gradually."
+
+=== Structure ===
+
+<div class="jiegou">
+一 + Time Unit + 一 + Time Unit (+ Noun)
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*宝宝 <em>一</em> 天 <em>一</em> 天 在 长大 。<span class="pinyin">Bǎobao <em>yī</em> tiān <em>yī</em> tiān zài zhǎngdà.</span><span class="trans">The baby is growing up day by day.</span>
+*爸爸 妈妈 <em>一</em> 年  <em>一</em> 年 在 变 老 。<span class="pinyin">Bàba māma <em>yī</em> nián <em>yī</em> nián zài biàn lǎo.</span><span class="trans">Year by year, mom and dad are growing old.</span>
+
+</div>
+
+== Used as "Over and Over Again" ==
+
+When a measure word phrase like "one time" is repeated, the meaning also changes. When using a  [[verb measure word]] like 次 (cì) or 遍 (biàn), using this pattern can indicate how the action is performed or indicate repetition of the the action. 
+
+=== Structure ===
+
+<div class="jiegou">
+一 + [Measure Word] (+ 又) + 一 + [Measure Word]
+</div>
+
+If the speaker wants to emphasize that the action has been repeated many times, 又 (yòu) can add emphasis. 
+
+=== Examples ===
+
+<div class="liju">
+
+*我 <em>一</em> 次 <em>一</em> 次 问，他 就是 什么 都 不 说 。<span class="pinyin">Wǒ <em>yī</em> cì <em>yī</em> cì wèn, tā jiùshì shénme dōu bù shuō.</span><span class="trans">I asked him again and again, but he just wouldn't say anything.</span>
+*我 <em>一</em> 遍 <em>一</em> 遍 地 跟 他 解释，他 还是 不 听 。<span class="pinyin">Wǒ <em>yī</em> biàn <em>yī</em> biàn de gēn tā jiěshì, tā háishì bù tīng.</span><span class="trans">I explained it to him again and again, but he still won't listen.</span>
+*你 为什么 <em>一</em> 遍 <strong>又</strong> <em>一</em> 遍 地 听 这 首 歌 ？<span class="pinyin">Nǐ wèishénme <em>yī</em> biàn <strong>yòu</strong> <em>yī</em> biàn de tīng zhè shǒu gē?</span><span class="trans">Why do you listen to this song over and over again?</span>
+*他们 <em>一</em> 次 <strong>又</strong> <em>一</em> 次 犯 这 种 小 错误 ，让 经理 很 头疼 。<span class="pinyin">Tāmen <em>yī</em> cì <strong>yòu</strong> <em>yī</em> cì fàn zhè zhǒng xiǎo cuòwù, ràng jīnglǐ hěn tóuténg.</span><span class="trans">They keep making the same mistake over and over again, and it's giving their manager a headache.</span>
+
+</div>
+
+[[Category:B1 grammar points]]
+{{Basic Grammar|一|B1|一 + Measure Word + 一 + Measure Word |宝宝 <em>一</em> 天 <em>一</em> 天 在 长大 。|grammar point|ASGBC7A0}}
+{{Used for|Expressing quantity}}
+{{Similar|}}
+{{POS|Adverbs}}
+{{Translation|one by one}}
+{{Translation|one after one}}
+{{Translation|times}}

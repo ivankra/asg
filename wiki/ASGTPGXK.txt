@@ -1,0 +1,57 @@
+<!-- Stating the effect before the cause -->
+{{Grammar Box}} 
+之所以⋯⋯是因为⋯⋯ (zhī suǒyǐ... shì yīnwèi...) can be translated as “the reason why... is because...” and can be used if the speaker wishes to state the effect before the cause.  It's normally used in somewhat formal speech.
+
+== Structure ==
+
+<div class="jiegou">
+之所以 ⋯⋯ ，是 + 因为 / 为了 / 想 ⋯⋯ 
+</div>
+
+== Examples ==
+
+<div class="liju">
+*她 <em>之 所以</em> 问 这么 多 <em>是 为了</em> 多 关心 你们 。<span class="pinyin">Tā <em>zhī suǒyǐ</em> wèn zhème duō <em>shì wèile</em> duō guānxīn nǐmen.</span><span class="trans">The reason she asks so many questions is in order to she cares about you guys.</span>
+*我 <em>之 所以</em> 不 喜欢 他 <em>是 因为</em> 他 太 疯狂 了。<span class="pinyin">Wǒ <em>zhī suǒyǐ</em> bù xǐhuan tā <em>shì yīnwèi</em> tā tài fēngkuáng le.</span><span class="trans">The reason why I don't like him is because he's too crazy.</span>
+*我们 <em>之 所以</em> 迟到 了 <em>是 因为</em> 路上 堵车。<span class="pinyin">Wǒmen <em>zhī suǒyǐ</em> chídào le <em>shì yīnwèi</em> lùshang dǔchē.</span><span class="trans">The reason we were late is because we were stuck in a traffic jam.</span>
+*小朋友 <em>之 所以</em> 哭 <em>是 因为</em> 我 没有 给 她 买 巧克力。<span class="pinyin">Xiǎopéngyou <em>zhī suǒyǐ</em> kū <em>shì yīnwèi</em> wǒ méiyǒu gěi tā mǎi qiǎokèlì.</span><span class="trans">The reason the child is crying is because I didn't buy her chocolate.</span>
+*路上 <em>之 所以</em> 有 很 多 人 <em>是 因为</em> 今天 天气 好。 <span class="pinyin">Lùshang z<em>zhī suǒyǐ</em> yǒu hěn duō rén <em>shì yīnwèi</em> jīntiān tiānqì hǎo.</span><span class="trans">The reasons there are so many people on the street is because the weather is nice today.</span>
+*你 <em>之 所以</em> 能 被 录取 <em>是 因为</em> 你 很 优秀。<span class="pinyin">Nǐ <em>zhī suǒyǐ</em> néng bèi lùqǔ <em>shì yīnwèi</em> nǐ hěn yōuxiù.</span><span class="trans">You reason you were accepted is because you are outstanding.</span>
+*我 <em>之 所以</em> 没 告诉 你 <em>是 为了</em> 不 让 你 担心 。<span class="pinyin">Wǒ <em>zhī suǒyǐ</em> méi gàosù nǐ <em>shì wèile</em> bù ràng nǐ dānxīn.</span><span class="trans">The reason I didn't tell you is that I didn't want you to worry.</span>
+*他 <em>之 所以</em> 放弃 了 那 份 工作 <em>是 因为</em> 他 找到 了 更好 的 机会 。<span class="pinyin">Tā <em>zhī suǒyǐ</em> fàngqì le nà fèn gōngzuò <em>shì yīnwèi</em> tā zhǎodào le gèng hǎo de jīhuì.</span><span class="trans">The reason why he gave up that job was that he found himself a better opportunity.</span>
+*我们 <em>之 所以</em> 保密 <em>是 想</em> 给 她 一 个 惊喜 。<span class="pinyin">Wǒmen <em>zhī suǒyǐ</em> bǎomì <em>shì xiǎng</em> gěi tā yī gè jīngxǐ.</span><span class="trans">The reason why we kept it a secret is that we wanted to give her a surprise.</span>
+*公司 <em>之 所以</em> 花钱 培训 你们 <em>是 想</em> 让 你们 越来越 专业 。<span class="pinyin">Gōngsī <em>zhī suǒyǐ</em> huā qián péixùn nǐmen <em>shì xiǎng</em> ràng nǐmen yuèláiyuè zhuānyè.</span><span class="trans">The reason why the company spends money on your training is to help you become more and more professional.</span>
+</div>
+
+==See also==
+
+*[[Expressing purpose with "weile"]]
+*[["Due to…" with "youyu"]]
+*[["Because" with "er" indicating effect]]
+*[[Explaining results with "suoyi"]]
+*[[Cause and effect with "yinwei" and "suoyi"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|New Practical Chinese Reader 5 (新实用汉语课本5)|93}}  
+{{Source|卓越汉语－公司实战篇|199}}
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|之所以|B2|之所以 ⋯⋯ ，是因为 / 是为了 / 是想 ⋯⋯|我 <em>之 所以</em> 来 晚 了 <em>是 因为</em> 路上 堵车 。|grammar point|ASGTPGXK}}
+{{Rel char|所以}}
+{{Rel char|因为}}
+{{Rel char|由于}}
+{{Rel char|于}}
+{{Rel char|是}}
+{{Similar|"Due to…" with "youyu"}}
+{{Similar|Because" with "er" indicating effect}}
+{{Similar|Expressing purpose with "weile"}}
+{{Similar|Explaining results with "suoyi"}}
+{{Similar|Expressing "as a result" with "jieguo"}}
+{{Similar|Cause and effect with "yinwei" and "suoyi"}}
+{{Used for|Indicating cause and effect}}
+{{Used for|Sequencing events in time}}
+{{Structure|Cause/Effect Statements}}
+{{Translation|because}}

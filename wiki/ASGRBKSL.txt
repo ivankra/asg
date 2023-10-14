@@ -1,0 +1,57 @@
+<!-- Directional verbs "lai" and "qu" -->
+{{Grammar Box}}
+
+来 (lái) and 去 (qù) are both words that help to express direction from the perspective of the speaker. 来 (lái) means "come" (towards the speaker), while 去 (qù) means "go" (away from the speaker). For example, if you are in China, a local person might ask you: "When did you come to China?" using 来 (lái). Another example is if you want to go from China to Japan, your friends might ask you:  “When are you going to Japan?" using 去 (qù).
+
+Seems really easy, right? Well, learn them well now, because you'll get a lot of mileage out of these words in future grammar patterns.
+
+== Basic Usage ==
+
+=== Structure ===
+
+<div class="jiegou">
+
+来 / 去 + Place
+
+</div>
+
+=== Examples ===
+
+For the examples below, keep in mind that if the speaker uses 去 (qù), then she is not at the place mentioned ''now''. If the speaker uses 来 (lái), she must already be at the place mentioned. Just stay consistent with this, and you're good.
+
+<div class="liju">
+
+* 妈妈 要 <em>去</em> 超市。<span class="pinyin">Māma yào <em>qù</em> chāoshì.</span><span class="trans">Mom will go to the supermarket.</span>
+* 老板 今天 <em>来</em> 公司 吗？<span class="pinyin">Lǎobǎn jīntiān <em>lái</em> gōngsī ma?</span><span class="trans">Is the boss coming into the office today?</span>
+* 你 现在 <em>来</em>南京 路 吧。<span class="pinyin">Nǐ xiànzài <em>lái</em> Nánjīng Lù ba.</span><span class="trans">Come to Nanjing Road now.</span>
+* 你 不 想 <em>来</em> 我们 公司 工作 吗？<span class="pinyin">Nǐ bù xiǎng <em>lái</em> wǒmen gōngsī gōngzuò ma?</span><span class="trans">Do you not want to come to work for our company? </span>
+* 去年 她 <em>去</em> 美国 工作 了 几 个 月 。<span class="pinyin">Qùnián tā <em>qù</em> Měiguó gōngzuò le jǐ gè yuè.</span><span class="trans">Last year she went to work in the USA for a few months.</span>
+* 你们 想 <em>去</em> Starbucks 还是 Costa？<span class="pinyin"> Nǐmen xiǎng <em>qù</em> Starbucks háishì Costa? </span><span class="trans">Would you like to go to Starbucks or Costa?</span>
+*  周末 我 喜欢 <em>去</em> 朋友 家。<span class="pinyin">Zhōumò wǒ xǐhuan <em>qù</em> péngyou jiā.</span><span class="trans">I like to go to my friends' places on the weekends.</span>
+* 爸爸 明天 <em>去</em> 北京 出差。<span class="pinyin">Bàba míngtiān <em>qù</em> Běijīng chūchāi.</span><span class="trans">Dad will go to Beijing on a business trip tomorrow.</span>
+* 我 今天 不 上班，你们 可以 <em>来</em> 我 家 吃饭 。<span class="pinyin">Wǒ jīntiān bù shàngbān, nǐmen kěyǐ <em>lái</em> wǒ jiā chīfàn.</span><span class="trans">I don't have to go to work today. You can come to my home to eat dinner.</span>
+
+</div>
+
+== Advanced Usage ==
+
+来 (lái) and  去 (qù) can both be paired with other simple verbs to demonstrate the direction an action has taken. For example, 进来 (jìnlai, "come in"),  进去 (jìnqu, "go in"),  出来 (chūlai, "come out"),  出去 (chūqu, "go out"), 回来 (huílai, "come back"), 回去 (huíqu, "go back"), etc.
+
+When you start tacking these two-character verbs onto the ends of other verbs, they are called [[direction complement]]s, and are covered in detail in a more advanced article.
+
+==See also==
+
+*[[Direction complement]]
+
+<!-- Comment out till needed, remove the less than + exclamation mark and two dashes, as well as the two dashes and greater than sign below.
+== Sources and further reading ==
+
+=== Books === -->
+
+[[Category:A2 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{Basic Grammar|来|A2|来 / 去 + Place|我 <em>来</em> 上海 一 年 了。|grammar point|ASGRBKSL}}
+{{Rel char|去}}
+{{Similar|Direction complement}}   
+{{Used for|Expressing movement}}
+{{POS|Verbs}}

@@ -1,0 +1,42 @@
+<!-- Expressing "is or is not" with "shifou" -->
+{{Grammar Box}} 
+{{Stub}}
+
+The simplest way to understand 是否 is to think of it as a formal written version of 是不是. 
+
+== Structure ==
+
+是否 is used together with a verb or an adjective. 
+
+<div class="jiegou">
+
+是否 + Verb / Adj.
+
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+* 他们 <em>是否</em> 考虑 过 在 上海 买 房？
+* 你 父母 <em>是否</em> 同意 你们 住 在 一起？
+* 你 <em>是否</em> 清楚 这样 做 的 后果？
+
+</div>
+
+== Sources and further reading ==
+
+===Books===
+{{Source|HSK Standard Course 4下|104}}
+*[[卓越汉语－公司实战篇]] (p. 189) [http://www.amazon.cn/%E5%8D%93%E8%B6%8A%E6%B1%89%E8%AF%AD-%E5%85%AC%E5%8F%B8%E5%AE%9E%E6%88%98%E7%AF%87-%E8%83%A1%E7%81%B5%E5%9D%87/dp/B003QZWQ6M/ref=sr_1_1?ie=UTF8&qid=1347863170&sr=8-1 →buy]
+
+NEEDS SOURCES!!
+
+
+[[Category: C1 grammar points]]
+{{Source|HSK Standard Course 4下|60}}
+[[Category: Particles]]
+{{Basic Grammar|是否|C1|是否 + Verb/Adjective|我 不 知道 如果 那 个 房间 <em>是否</em> 有 足够 空间。|grammar point|ASGNLGGX}}
+{{Rel char|是}}
+{{Rel char|否}}
+{{POS|Particles}}

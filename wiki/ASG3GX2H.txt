@@ -1,0 +1,59 @@
+<!-- Indicating contrast with "ze" -->
+{{Grammar Box}} 
+
+则 is a conjunction that helps us to indicate contrast. 
+
+== Structure ==
+
+This grammar pattern takes two things and makes a comparison. The second clause of the sentence (which includes the 则) describes another thing with a contrasting characteristic. In this instance, 则 has the same meaning as [[The "However" Adverb "que"|却]].
+
+<div class="jiegou">
+
+Subject + Predicate, 则 + Subject + Predicate
+
+</div>
+
+You can also use this structure with 而, and it will have the same meaning. 
+
+<div class="jiegou">
+
+Clause 1，+ 而 Subject + 则 + Predicate
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 南方 人 喜欢 吃 甜 的 东西，北方 人 <em>则</em> 喜欢 吃 咸 的 东西。
+* 美国 人 比较 开放，他们 喜欢 认识 新 的 朋友，中国 人 <em>则</em> 比较 害羞，他们 更 喜欢 与 亲密 的 朋友 交往。
+* 我 老婆 习惯 安静、自然 的 乡村 生活，我 <em>则</em> 习惯 喧闹 繁忙 的 大 城市 生活。
+
+</div>
+
+Here are the same sentences with 而.
+
+<div class="liju">
+
+* 南方 人 喜欢 吃 甜 的 东西，<em>而</em> 北方 人 <em>则</em> 喜欢 吃 咸 的 东西。
+* 美国 人 比较 开放，他们 喜欢 认识 新 的 朋友，<em>而</em> 中国 人 <em>则</em> 比较 害羞，他们 更 喜欢 与 内圈 的 朋友 交往。
+* 我 老婆 习惯 安静、大 自然 的 乡村 生活，<em>而</em> 我 <em>则</em> 习惯 喧闹 繁忙 的 大 城市 生活。
+
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+* [[Boya Chinese Upper Intermediate 1 (博雅汉语中级冲刺篇)]] （p. 171)[http://www.amazon.com/gp/product/7301075316/ref%3das_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=7301075316 →buy]
+
+
+*[[卓越汉语－公司实战篇]](p. 134) [http://www.amazon.cn/%E5%8D%93%E8%B6%8A%E6%B1%89%E8%AF%AD-%E5%85%AC%E5%8F%B8%E5%AE%9E%E6%88%98%E7%AF%87-%E8%83%A1%E7%81%B5%E5%9D%87/dp/B003QZWQ6M/ref=sr_1_1?ie=UTF8&qid=1347863170&sr=8-1 →buy] 
+
+{{Source|HSK Standard Course 5上|117}}
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|则|C1|Clause 1，+ 则 + Clause 2|南方 人 喜欢 吃 甜 的 东西，北方 人 <em>则</em> 喜欢 吃 咸 的 东西。|grammar point|ASG3GX2H}}
+{{Similar|"For…" with "eryan"}}
+{{POS|Conjunctions}}
+{{Used for|Contrasting}}

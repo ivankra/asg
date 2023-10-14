@@ -1,0 +1,43 @@
+<!-- Listing things with "a" -->
+{{Grammar Box}} 
+When listing nouns belonging to a certain category, 啊 (a) can be added to the end of each noun to give an informal feeling a bit like saying "you know, that kind of thing" after a list of things. You're giving the sense that you're not listing ''every single thing'' that you could; it's a non-exhaustive list.
+
+==Structure==
+
+<div class="jiegou">
+A 啊， B 啊， C 啊 (+ 什么的)⋯⋯
+</div>
+
+The list can be followed by [[Ending a Non-Exhaustive List with "shenme de"|什么的]], but is not generally followed by [[Non-exhaustive lists with "dengdeng"|等等]] as this feels too formal.
+
+==Examples==
+
+<div class="liju">
+* 我们 什么 零食 都 有，花生 <em>啊</em>，瓜子 <em>啊</em>，薯片 <em>啊</em>，你 随便 吃 吧。<span class="pinyin">Wǒmen shénme língshí dōu yǒu, huāshēng <em>a</em>, guāzǐ <em>a</em>, shǔpiàn <em>a</em>, nǐ suíbiàn chī ba.</span><span class="trans">We have all sorts of snacks: peanuts, roasted seeds, chips, go ahead and eat whatever you want.</span>
+* 小王 <em>啊</em>，小李 <em>啊</em>，小张 <em>啊</em>，他们 都 在 公司，你 可以 找 他们。<span class="pinyin">Xiǎo Wáng <em>a</em>, Xiǎo Lǐ <em>a</em>, Xiǎo Zhāng <em>a</em>, tāmen dōu zài gōngsī, nǐ kěyǐ zhǎo tāmen.</span><span class="trans">Xiao Wang, Xiao Li, and Xiao Zhang all work for the same company, you can ask them.</span>
+* 手机 有 很 多 功能，比如说 拍照 <em>啊</em>，看视频 <em>啊</em>，听歌 <em>啊</em>，都 可以。<span class="pinyin">Shǒujī yǒu hěn duō gōngnéng, bǐrú shuō pāizhào <em>a</em>, kàn shìpín <em>a</em>, tīng gē <em>a</em>, dōu kěyǐ.</span><span class="trans">Cell phones have many features like taking photos, watching videos, and listening to music. They can do it all.</span>
+* 椅子 <em>啊</em>，桌子 <em>啊</em>，电脑 <em>啊 什么的</em> ， 都 买 好 了，现在 办公室 只 差 招 员工 了！<span class="pinyin">Yǐzi <em>a</em>, zhuōzi <em>a</em>, diànnǎo <em>a shénme de</em>, dōu mǎihǎo le, xiànzài bàngōngshì zhǐ chà zhāo yuángōng le!</span><span class="trans">Chairs, tables, computers, and so on have all been bought. Now the office only needs to hire staff!</span>
+* 春节 <em>啊</em>，中秋节 <em>啊</em>，端午节 <em>啊</em>，都 是 中国 重要 的 节日。<span class="pinyin">Chūnjié <em>a</em>, Zhōngqiū Jié <em>a</em>, Duānwǔ Jié <em>a</em>, dōu shì Zhōngguó zhòngyào de jiérì.</span><span class="trans">Spring Festival, Mid-Autumn Festival, Dragon Boat Festival, are all important Chinese holidays.</span>
+* 这 首 歌 太 火 了，路上 <em>啊</em>，车上 <em>啊</em>，电视上 <em>啊</em>，都 在 放 这 首 歌。<span class="pinyin">Zhè shǒu gē tài huǒ le, lùshang <em>a</em>, chē shang <em>a</em>, diànshì shang <em>a</em>, dōu zài fàng zhè shǒu gē.</span><span class="trans">This song is too popular! On the street, in the car, on TV, they are all playing this song.</span>
+* 《中文 听说读写》 <em>啊</em>，《发展 汉语》 <em>啊</em>， 《实用 汉语 课本》 <em>啊</em>，我 都 学 过！<span class="pinyin">“Zhōngwén Tīng Shuō Dú Xiě” <em>a</em>, “Fāzhǎn Hànyǔ” <em>a</em>, “Shíyòng Hànyǔ Kèběn” <em>a</em>, wǒ dōu xué guo!</span><span class="trans">"Integrated Chinese," "Developing Chinese," and "The Practical Chinese Reader"... I've studied them all!</span>
+* 你 去 上海 <em>啊</em>，杭州 <em>啊</em>，南京 <em>啊</em> ， 都 很 方便 的。<span class="pinyin">Nǐ qù Shànghǎi <em>a</em>, Hángzhōu <em>a</em>, Nánjīng <em>a</em>, dōu hěn fāngbiàn de.</span><span class="trans">Going to Shanghai, Hangzhou, Nanjing, are all very convenient.</span>
+
+</div>
+
+==See also==
+*[[Ending a Non-Exhaustive List with "shenme de"]]
+*[[Sentence-final interjection "a"]]
+
+==Sources and Further Reading==
+
+{{Source|现代汉语八百词|47}}
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|啊|B2|⋯⋯啊，⋯⋯啊|我们 店里 有 水饺 <em>啊</em>，盖浇饭 <em>啊</em> ⋯⋯|grammar point|ASGGPG97}}
+{{Similar|Ending a Non-Exhaustive List with "shenme de"}}
+{{Similar|Non-exhaustive lists with "dengdeng"}}
+{{Similar|Sentence-final interjection "a"}}
+{{Similar|"Stuff like that" with "zhileide"}}
+{{Used for|Expressing attitude}}
+{{Used for|Listing}}
+{{POS|Auxiliary Words}}

@@ -1,0 +1,184 @@
+<!-- Affirmative-negative question -->
+{{Grammar Box}}
+{{AKA|正反问句 (zhèng-fǎn wènjù)|alternative questions}}
+
+A common way to form questions in Chinese is to first use a [[verb]] in the positive, then repeat the same verb in its negative form, similar to how in English we can say, "Do you have money or not?" or "Have you or have you not been to the park?" This sentence pattern feels a lot more natural in Chinese than those admittedly awkward English equivalents, however.
+
+== Verb-Not-Verb ==
+
+=== Structure ===
+
+<div class="jiegou">
+
+Verb + 不 + Verb
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* <em>是 不 是</em> ？ <span class="pinyin"><em>Shì bu shì</em>?</span><span class="trans">Is it (or not)?</span>
+* 他们 <em>来 不 来</em> ？ <span class="pinyin">Tāmen <em>lái bu lái</em>?</span><span class="trans">Are they going to come or not?</span>
+* 你 <em>想 不 想</em> 我 ？ <span class="pinyin">Nǐ <em>xiǎng bu xiǎng</em> wǒ?</span><span class="trans">Do you or do you not miss me?</span>
+* 我们 要 去 酒吧， 你 <em>去 不 去</em>？<span class="pinyin">Wǒmen yào qù jiǔbā, nǐ <em> qù bu qù</em>?</span><span class="trans">We are going to the bar. Do you want to go? </span>
+* 我 去 买 咖啡 ，你 <em>要 不 要</em> ？ <span class="pinyin">Wǒ qù mǎi kāfēi, nǐ <em>yào bu yào</em>?</span><span class="trans">I'm going to buy coffee. Do you want some?</span>
+
+</div>
+
+Note that the question provides the listener with both possible answers: it's either "Verb" or "不 (bù) Verb."
+
+== Verb-Not-Verb with an Object ==
+
+=== Structure ===
+
+If you want to add an object after the verb, the general sentence structure is:
+
+<div class="jiegou">
+
+Subj. + Verb + 不 + Verb + Obj.
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 你 <em> 回 不 回</em> 家？ <span class="pinyin">Nǐ <em> huí bu huí</em>jiā?</span><span class="trans">Are you coming back home or not?</span>
+* 她 <em> 吃 不 吃</em> 鱼？ <span class="pinyin">Tā<em> chī bu chī</em> yú?</span><span class="trans">Does she eat fish?</span>
+* 你们 <em>要 不 要</em> 米饭？ <span class="pinyin">Nǐmen <em>yào bu yào</em> mǐfàn?</span><span class="trans">Do you want rice?</span>
+* 你爸爸 <em>喝 不 喝</em> 酒？ <span class="pinyin">Nǐ bàba ​<em>hē bu hē</em>jiǔ?</span><span class="trans">Does your dad drink alcohol or not?</span>
+* 今天 老板 <em>来 不 来</em> 办公室？<span class="pinyin">Jīntiān lǎobǎn <em>lái bu lái</em> bàngōngshì?</span><span class="trans">Is the boss coming to the office today?</span>
+
+
+</div>
+
+== Adjective-Not-Adjective ==
+
+=== Structure ===
+
+It can also be done with [[adjectives]] (adjectives often behave like verbs in Chinese):
+
+<div class="jiegou">
+
+Adj. + 不 + Adj.
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* <em>好 不 好</em> ？<span class="expl">Literally, "good or not good?"</span><span class="pinyin"><em>Hǎo bu hǎo</em>?</span><span class="trans">Is it good?</span>
+* <em>热 不 热</em> ？<span class="pinyin"><em>Rè bu rè</em>?</span><span class="trans">Is it hot?</span>
+* 他 <em>帅 不 帅</em> ？<span class="pinyin">Tā <em> shuài bu shuài</em>?</span><span class="trans">Is he handsome?</span>
+* 这里 的 咖啡 <em>贵 不 贵</em> ？ <span class="pinyin">Zhèlǐ de kāfēi <em>gùi bu gùi</em>?</span><span class="trans">Is the coffee expensive here?</span>
+* 中国 菜 <em>辣 不 辣</em> ？ <span class="pinyin">Zhōngguó cài <em>là bu là</em>?</span><span class="trans">Is Chinese food spicy?</span>
+
+</div>
+
+Again, the question provides the listener with both possible answers: it's either "Adjective" or "不 (bù) Adjective."
+
+These are something like adding tag questions in English, in this case "Are you an adult or not?" If you wanted to translate it very literally, it would be, "Are you or are you not an adult?" In any case, the structure is a very common way to ask questions in Chinese.
+
+== Two-Character Verbs and Adjectives ==
+
+All of the verbs used so far have been single-character verbs. Using two-characters verbs in affirmative-negative questions is slightly trickier. You usually put 不 (bù) after just the first character, then put the entire verb. For example 喜不喜欢 (xǐ bu xǐhuan) is the usual question form of 喜欢 (xǐhuan). You can repeat the whole two-character verb twice, but it's more common (and more elegant) to insert 不 (bù) after the first character (and the same is generally true of two-character adjectives).  
+
+=== Structure ===
+
+It can be done with [[verbs]]:
+
+<div class="jiegou">
+
+[First Character of Verb] + 不 + Verb
+
+</div>
+
+It can also be done with [[adjectives]]:
+
+<div class="jiegou">
+
+[First Character of Adj.] + 不 + Adj.
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* <em>喜欢 不 喜欢</em>？<span class="expl pdf-simple-expl">whole word repeated</span><span class="pinyin"><em>Xǐhuan bu xǐhuan</em>?</span><span class="trans">Do you like it?</span>
+* <em>喜 不 喜欢</em>？<span class="expl pdf-short-expl">only the first character repeated</span><span class="pinyin"><em>Xǐ bu xǐhuan</em>?</span><span class="trans">Do you like it?</span>
+
+* <em>高兴 不 高兴</em>？<span class="expl pdf-simple-expl">whole word repeated</span><span class="pinyin"><em>Gāoxìng bu gāoxìng</em>?</span><span class="trans">Are you happy?</span>
+* <em>高 不 高兴</em>？<span class="expl pdf-short-expl">only the first character repeated</span><span class="pinyin"><em>Gāo bu gāoxìng</em>?</span><span class="trans">Are you happy?</span>
+
+* 他 女朋友 <em>漂亮 不 漂亮</em>？<span class="expl pdf-simple-expl">whole word repeated</span><span class="pinyin"> Tā nǚpéngyou <em>piàoliang bu piàoliang</em>?</span><span class="trans">Is his girlfriend pretty?</span>
+* 他 女朋友 <em>漂 不 漂亮</em>？<span class="expl pdf-short-expl">only the first character repeated</span><span class="pinyin">Tā nǚpéngyou <em>piào bu piàoliang</em>?</span><span class="trans">Is his girlfriend pretty?</span>
+
+* 中国 菜 <em>好吃 不 好吃</em>？<span class="expl pdf-simple-expl">whole word repeated</span><span class="pinyin">Zhōngguó cài <em>hǎochī bu hǎochī</em>?</span><span class="trans">Is Chinese food good?</span>
+* 中国 菜 <em>好 不 好吃</em>？<span class="expl pdf-short-expl">only the first character repeated</span><span class="pinyin">Zhōngguó cài <em>hǎo bu hǎochī</em>?</span><span class="trans">Is Chinese food good?</span>
+
+* 那 个 地方 <em>好玩 不 好玩</em>？<span class="expl pdf-simple-expl">whole word repeated</span><span class="pinyin">Nàge dìfang <em> hǎowán bu hǎowán</em>?</span><span class="trans">Is that place fun?</span>
+* 那 个 地方 <em>好 不 好玩</em>？<span class="expl pdf-short-expl">only the first character repeated</span><span class="pinyin"> Nàge dìfang <em> hǎo bu hǎowán</em>?</span><span class="trans">Is that place fun?</span>
+
+</div>
+
+== 有 (yǒu) Is a Special Case ==
+
+=== Structure ===
+
+Because the verb [[Negation of "you" with "mei"|有 (yǒu) is negated with 没 (méi)]] and not 不 (bù), the structure for affirmative-negative questions with 有 (yǒu) is:
+
+<div class="jiegou">
+
+Subj. + 有 没有 + Obj.
+
+</div>
+
+The possible answers are: "有 (yǒu)" or "没有 (méiyǒu)." 
+
+The questions could be be asking about current possession ("Do you have it or not?"), or to ask about [[Negation of past actions with "meiyou"|verbs in the past]] ("Did you do it or not?").
+
+=== Examples ===
+
+<div class="liju">
+
+*你 哥哥 <em>有 没有</em> 女 朋友？<span class="pinyin">Nǐ gēge <em>yǒu méiyǒu</em> nǚpéngyou?</span><span class="trans">Does your older brother have a girlfriend?</span>
+*你们 <em>有 没有</em> 孩子？ <span class="pinyin">Nǐmen <em>yǒu méiyǒu</em> háizi?</span><span class="trans">Do you have children?</span>
+*奶奶 <em>有 没有</em> 坐 过 飞机？ <span class="pinyin">Nǎinai <em>yǒu méiyǒu</em> zuò guo fēijī?</span><span class="trans">Has grandma been on a plane?</span>
+*他 <em>有 没有</em> 上 过 大学？<span class="pinyin">Tā <em>yǒu méiyǒu</em> shàng guo dàxué?</span><span class="trans">Has he been to college?</span>
+
+</div>
+
+==See also==
+*[[Tag questions with "bu"]]
+*[[Yes-no questions with "ma"]]
+*[[Offering choices with "haishi"]]
+
+== Sources and further reading ==
+
+===Videos===
+
+* Yoyo Chinese: [https://www.youtube.com/watch?v=Yu7GPWS2FKE&list=PL94A5E422FB99CDDD Verb-not-verb Questions]
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|12}}
+{{Source|Chinese: An Essential Grammar, Second Edition|141-4}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|86, 102-4}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|87}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)|102, 250-1}}
+
+[[Category:A1 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Used for|Asking questions}}
+{{Used for|Giving alternatives}}
+{{Basic Grammar|不|A1|Verb + 不 + Verb / Adj. + 不 + Adj.|<em>去 不 去</em>？<em>好 不 好</em>  ?|grammar point|ASGZH7K3}}
+{{Rel char|没}}
+{{Rel char|没有}}
+{{Similar|Tag questions with bu}}
+{{Similar|Yes - no questions with ma}}
+{{Similar|Offering choices with haishi}}
+{{Similar|Comparing "bu" and "mei"}}
+{{Structure|Question Forms}}

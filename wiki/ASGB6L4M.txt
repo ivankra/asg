@@ -1,0 +1,57 @@
+<!-- Expressing "every" with "mei" -->
+{{Grammar Box}} 
+
+In this article we will look at the structure for saying "every" in Chinese, which is slightly more involved than just throwing in the word 每 (měi).
+
+== Structure ==
+
+The pronoun 每 (měi) covers the meanings of "each" and "every." It should normally be used with a [[measure word]] and [[Emphasizing quantity with "dou"|used with 都 (dōu)]] in a complete sentence.
+
+<div class="jiegou">
+
+每 + Measure Word + Noun + 都
+
+</div>
+
+Note that there are some words that don't use measure words because they themselves are already measure words. For example: 天 (tiān), 年 (nián), 周 (zhōu), 次 (cì) etc.
+
+== Examples ==
+
+<div class="liju">
+
+* <em>每</em> 个 菜 <strong>都</strong> 好吃。<span class="pinyin"><em>Měi</em> gè cài <strong>dōu</strong> hěn hǎochī.</span><span class="trans">Every dish is delicious.</span>
+* 你 <em>每</em> 个 人 <strong>都</strong> 认识 吗？<span class="pinyin">Nǐ <em>měi</em> gè rén <strong>dōu</strong> rènshi ma? </span><span class="trans">Do you know every person? </span>
+* 老板 <em>每</em> 个 月 <strong>都</strong> 出差。<span class="pinyin">Lǎobǎn <em>měi</em> gè yuè <strong>dōu</strong> chūchāi.</span><span class="trans">The boss goes on business trips every month.</span>
+* 他 <em>每</em> 天 <strong>都</strong> 不 吃 早饭。<span class="pinyin">Tā <em>měi</em> tiān <strong>dōu</strong> bù chī zǎofàn.</span><span class="trans">Every morning he skips breakfast.</span>
+* 他 <em>每</em> 年 <strong>都</strong> 来 中国。<span class="pinyin">Tā <em>měi</em> nián <strong>dōu</strong> lái Zhōngguó.</span><span class="trans">He comes to China every year.</span>
+* 我 <em>每</em> 个 星期 <strong>都</strong> 给 妈妈 打电话。<span class="pinyin">Wǒ <em>měi</em> gè xīngqī <strong>dōu</strong> gěi māma dǎ diànhuà.</span><span class="trans">I give mom a phone call every week.</span>
+* 这个 班 的 <em>每</em> 个 学生 <strong>都</strong> 很 聪明。<span class="pinyin">Zhège bān de <em>měi</em> gè xuéshēng <strong>dōu</strong> hěn cōngming.</span><span class="trans">Each of the students in this class are very smart.</span>
+* 老师 <em>每</em> 天 <strong>都</strong> 给 我们 很多 作业。<span class="pinyin">Lǎoshī  <em>měi</em> tiān <strong>dōu</strong> gěi wǒmen hěn duō zuòyè.</span><span class="trans">Every day the teacher gives us a lot of homework.</span>
+* 我们 <em>每</em> 周 <strong>都</strong> 要 开会。<span class="pinyin">Wǒmen <em>měi</em> zhōu <strong>dōu</strong> yào kāihuì.</span><span class="trans">Every week we need to have a meeting.</span>
+* 他们 <em>每</em> 个 周末 <strong>都</strong> 去 公园。<span class="pinyin">Tāmen <em>měi</em> gè zhōumò <strong>dōu</strong> qù gōngyuán.</span><span class="trans">Every weekend they go to the park.</span>
+
+</div>
+
+==See also==
+
+*[[Expressing "every time" with "mei" and "dou"]]
+*[[Measure words for counting]]
+*[[Measure words for verbs]]
+
+== Sources  and  further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|12}}
+* [[Chinese: An Essential Grammar, Second Edition]] (p. 19) [http://www.amazon.com/gp/product/0415372615/ref=as_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0415372615 →buy]
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+[[Category:Measure Words]]
+{{Basic Grammar|每|A2|每 + Measure Word (+ Noun)|<em>每</em> 个 人。<em>每</em> 天。|grammar point|ASGB6L4M}}
+{{Rel char|都}}
+{{Similar|Expressing "every time" with "mei" and "dou"}}   
+{{Similar|Expressing "as long as" with "fanshi"}}   
+{{Similar|Measure Words for Verbs}}
+{{Structure|Numbers and Measure Words}}
+{{Translation|every}}

@@ -1,0 +1,52 @@
+<!-- Expressing various aspects with "yi fangmian" -->
+{{Grammar Box}} 
+
+When talking about various aspects of a situation, 一方面⋯⋯， (另)一方面⋯⋯ (yī fāngmiàn..., (lìng) yī fāngmiàn...) can be used in a way similar to how "on one hand..., on the other hand..." is used in English. 
+
+== Structure ==
+
+<div class="jiegou">
+一 方面 ⋯⋯ ， (另) 一 方面 ⋯⋯ 
+</div>
+
+The two aspects in the sentence can both be similar in tone, and they can also be in direct opposition to each other. You will often see the adverb 又,  也 or 还 following 另一方面, which serves the purpose of emphasis.
+
+== Examples ==
+
+<div class="liju">
+
+*自己 做饭 <em>一 方面</em> 健康 ，<em>一 方面</em> <strong>还</strong> 能 省 点 钱 。<span class="pinyin">Zìjǐ zuòfàn <em>yī fāngmiàn</em> jiànkāng, <em>yī fāngmiàn</em> <strong>hái </strong> néng shěng diǎn qián.</span><span class="trans">On one hand, cooking for yourself is  healthy; on the other hand, it can also help to save some money.</span>
+*他 <em>一 方面</em> 想 改变 ，<em>一 方面</em> <strong>又</strong> 害怕 改变 。<span class="pinyin">Tā <em>yī fāngmiàn</em> xiǎng gǎibiàn, <em>yī fāngmiàn</em> <strong>yòu</strong> hàipà gǎibiàn.</span><span class="trans">On the one hand, he wants to change; on the other hand, he's afraid of change.</span>
+*我们 <em>一 方面</em> 不 想 这样 做 ，<em>一 方面</em> 必须 这样 做 。<span class="pinyin">Wǒmen <em>yī fāngmiàn</em> bù xiǎng zhèyàng zuò, <em>yī fāngmiàn</em> bìxū zhèyàng zuò.</span><span class="trans">On the one hand, we don't want to do it this way; on the other hand, we must do it this way.</span>
+*抽烟 <em>一 方面</em> 对 自己 有害 ，<em>一 方面</em> 对 身边 的 人 <strong>也</strong> 有害 。<span class="pinyin">Chōuyān <em>yī fāngmiàn</em> duì zìjǐ yǒuhài, <em>yī fāngmiàn</em> duì shēnbiān de rén <strong>yě</strong> yǒuhài.</span><span class="trans">On one hand, smoking can do harm to the smoker himself; on the other hand, it can also do harm to people around him.</span>
+*用 智能 手机 <em>一 方面</em> 很 方便 ，<em>另 一 方面</em> <strong>也</strong> 很 容易 浪费 时间 。<span class="pinyin">Yòng zhìnéng shǒujī <em>yī fāngmiàn</em> hěn fāngbiàn, <em>lìng yī fāngmiàn</em> <strong>yě</strong> hěn róngyì làngfèi shíjiān.</span><span class="trans">On the one hand, using smart phones is very convenient; on the other hand, they also make it very easy to waste a lot of time.</span>
+*我们 <em>一 方面</em> 要 让 客户 满意 ，<em>另 一 方面</em> <strong>也</strong> 要 控制 成本 。 <span class="pinyin">Wǒmen <em>yī fāngmiàn</em> yào ràng kèhù mǎnyì, <em>lìng yī fāngmiàn</em> <strong>yě</strong> yào kòngzhì chéngběn.</span><span class="trans">One the one hand, we need to satisfy our clients, but on the other hand, we also need to control our costs.</span>
+*<em>一 方面</em> 他们 的 服务 很 专业 ，<em>另 一 方面</em> 他们 的 价格 <strong>也</strong> 很 合理 。<span class="pinyin"><em>Yī fāngmiàn</em> tāmen de fúwù hěn zhuānyè, <em>lìng yī fāngmiàn</em> tāmen de jiàgé <strong>yě</strong> hěn hélǐ.</span><span class="trans">On one hand, their service is very professional; on the other hand, their price is also reasonable.</span>
+*这样做 <em>一 方面</em> 能 节省 时间 ，<em>一 方面</em> 能 提高 质量 。<span class="pinyin">Zhèyàng zuò <em>yī fāngmiàn</em> néng jiéshěng shíjiān, <em>yī fāngmiàn</em> néng tígāo zhìliàng.</span><span class="trans">On one hand, we can save time by doing it this way; on the other hand, we can improve the quality.</span>
+*这个 项目 <em>一 方面</em> 能 增加 当地 人 的 收入 ，<em>另 一 方面</em> 能 保护 当地 的 环境 。 <span class="pinyin">Zhège xiàngmù <em>yī fāngmiàn</em> néng zēngjiā dāngdì rén de shōurù, <em>lìng yī fāngmiàn</em> néng bǎohù dāngdì de huánjìng.</span><span class="trans">One one hand, this project can increase local people's income; on the other hand, it can protect the local environment.</span>
+*政府 <em>一 方面</em> 要 发展 这些 古城 ，<em>一 方面</em> <strong>也</strong> 要 保护 好 这些 古城 。<span class="pinyin">Zhèngfǔ <em>yī fāngmiàn</em> yào fāzhǎn zhèxiē gǔchéng, <em>yī fāngmiàn</em> <strong>yě</strong> yào bǎohù hǎo zhèxiē gǔchéng.</span><span class="trans">On the one hand, the government needs to develop these old towns; on the other hand, they need to protect them too.</span>
+
+</div>
+
+== See also ==
+
+*[[Expressing Simultaneous Actions with "yimian"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|271}} 
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|227}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课下册）|502}}
+
+[[Category: B1 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|一方面|B1|一方面⋯⋯，一方面⋯⋯|<em>一 方面</em> 他 很 喜欢 这 份 工作 ， <em>一 方面</em> 他 又 觉得 工资 太 低 。|grammar point|ASGCWHNF}}
+{{Rel char|一}}
+{{Rel char|方面}}
+{{Similar|Idiomatic phrases with "zai"}}
+{{Similar|Expressing Simultaneous Actions with "yimian"}}
+{{Used for| Expressing quality}}
+{{Structure|Sentence Patterns}}
+{{Subprop|Complex Sentence Patterns}}

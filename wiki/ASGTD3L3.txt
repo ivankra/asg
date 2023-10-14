@@ -1,0 +1,88 @@
+<!-- Expressing "before" and "after" with "zhiqian" and "zhihou" -->
+{{Grammar  Box}}
+
+The words "[[before]]" and "[[after]]" can be expressed using 之前 (zhīqián) and 之后 (zhīhòu). They are very similar to [[以前]] (yǐqián) and [[以后]] (yǐhòu), but are slightly more formal.
+
+== Used at the End of a Phrase ==
+
+In this pattern, 之前 and 之后 come at the start of a sentence, right after mention of some kind of event or thing that happened.
+
+=== Structure ===
+
+<div class="jiegou">
+Event + 之前 / 之后 ，⋯⋯ 
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*来 中国 <em>之前</em> ，我 的 汉语 很 一般 。<span class="pinyin">Lái Zhōngguó <em>zhīqián</em>, wǒ de Hànyǔ hěn yībān.</span><span class="trans">Before I came to China, my Chinese was really mediocre.</span>
+*下班 <em>之后</em> 给 我  打 个 电话 。<span class="pinyin">Xiàbān <em>zhīhòu</em> gěi wǒ dǎ gè diànhuà.</span><span class="trans">Give me a call after you get off work.</span>
+*吃 完 饭 <em>之后</em> 去 看 电影 吧 ？<span class="pinyin">Chī wán fàn <em>zhīhòu</em> qù kàn diànyǐng ba?</span><span class="trans">What about going to the movies after eating dinner?</span>
+*出国 <em>之前</em> ，他 和 女朋友 分手了 。<span class="pinyin">Chūguó <em>zhīqián</em>, tā hé nǚpéngyou fēnshǒu le.</span><span class="trans">Before he went abroad, he broke up with his girlfriend.</span>
+*她 每天 放学 <em>之后</em> 都 要 去 上 钢琴 课 。<span class="pinyin">Tā měi tiān fàngxué <em>zhīhòu</em> dōu yào qù shàng gāngqín kè.</span><span class="trans">She needs to go to piano lessons every day after school.</span>
+
+</div>
+
+== Used as a Time Word ==
+
+In this pattern, 之前 and 之后 usually come at the start of a phrase, in the middle of a sentence.
+
+=== Structure ===
+
+<div class="jiegou">
+⋯⋯ ，之前 / 之后 ⋯⋯ 
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*他 在 英国 读 完 了 大学 ，<em>之后</em> 回 上海 了 。<span class="pinyin">Tā zài Yīngguó dú wán le dàxué, <em>zhīhòu</em> huí Shànghǎi le.</span><span class="trans">He finished university in England. Afterwards, he returned to Shanghai.</span>
+*她 当 汉语 老师 四 年 多 了 ，<em>之前</em> 是 教 英语 的 。<span class="pinyin">Tā dāng Hànyǔ lǎoshī sì nián duō le, <em>zhīqián</em> shì jiāo Yīngyǔ de.</span><span class="trans">She's been a Chinese teacher for more than four years. She used to be an English teacher.</span>
+*老板 刚刚 回来 ，<em>之前</em> 在 休假 。<span class="pinyin">Lǎobǎn gānggāng huílái, <em>zhīqián</em> zài xiūjià.</span><span class="trans">The boss just came back. He was on vacation before.</span>
+*我们 都 不 知道 ，他 <em>之前</em> 什么 也 没 说 。<span class="pinyin">Wǒmen dōu bù zhīdào, tā <em>zhīqián</em> shénme yě méi shuō.</span><span class="trans">None of us knew. He didn't say anything before.</span>
+*我 现在 去 吃饭 ，<em>之后</em> 去 见 客户 。<span class="pinyin">Wǒ xiànzài qù chīfàn, <em>zhīhòu</em> qù jiàn kèhù.</span><span class="trans">I'm going to eat now. After that I will go meet a client.</span>
+
+</div>
+
+== Slight Differences between 之前/之后 and 以前/以后 ==
+
+One difference between the two pairs is that 之前/之后 feel more formal simply because they contain [[之]], which is a word common in classical Chinese. Both words are still used in everyday spoken Chinese, however.
+
+In addition, while all four words can mean "before and "after" (referring to time), 之前/之后 also sometimes mean "in front of" or "behind," referring to physical location. (以前/以后 aren't used in this way, but the single characters 前/后 are.) We haven't included examples of the "physical location" usage here, because it's less common and more formal.
+
+== See also ==
+
+*[[Sequencing past events with "houlai"]]
+*[[Before a specific time]]
+*[["Ever since" with "zicong"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Home With Kids2 (家有儿女2)|167}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|}}
+{{Source|Integrated Chinese: Level 2, Part 2|93-4}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK0}}
+[[Category:Time]]
+{{Similar|"(Ever) Since" with "(zi)cong"}}
+{{Similar|Before a specific time}}
+{{Similar|Sequencing Past Events with "houlai"}}
+{{Similar|Saying "ever since" with "yilai"}}
+{{Similar|Comparing "yihou" and "zhihou"}}
+{{Similar|In the future in general}}
+{{Basic Grammar|之前|B1|Event + 之前 / 之后 ，⋯⋯ |出国 <em>之前</em> ，他 和 女朋友 分手了 。|grammar point|ASGTD3L3}}
+{{Rel char|之后}}
+{{Rel char|前}}
+{{Rel char|后}}
+{{Used for|Sequencing events in time}}
+{{Used for|Referring to the past}}
+{{Used for|Referring to the future}}
+{{Translation|before}}
+{{Translation|after}}
+{{POS|Nouns}}

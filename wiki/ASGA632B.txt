@@ -1,0 +1,63 @@
+<!-- Expressing "lies in" with "zaiyu" -->
+{{Grammar Box}} 
+{{stub}} 
+
+== Used as "lies in" ==
+
+指出事物的本质、关键 所在。有名的标语：生命在于运动。一日之计在于晨，一年之计在于春。
+
+=== Structure ===
+
+<div class="jiegou">
+⋯⋯ 在于 ⋯⋯ 
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我们 服务 的 特色 <em>在于</em> 个性化 。<span class="trans">.</span>
+*生命 的 意义 <em>在于</em> 给予 和 贡献 。<span class="trans">.</span>
+*成功 <em>在于</em> 坚持 。<span class="trans">.</span>
+*这个 电影 的 意义 <em>在于</em> 揭露 奴隶制度 的 罪恶 。<span class="trans">.</span>
+*礼物 <em>在于</em> 心意 ，不 <em>在于</em> 有 多 贵重 。<span class="trans">.</span>
+*东西 不 <em>在于</em> 外表 好不好看 ，<em>在于</em> 实用 不 实用 。<span class="trans">.</span>
+
+</div>
+
+== Used as "Depend on" ==
+
+=== Structure ===
+
+<div class="jiegou">
+⋯⋯ 在于 + Person / Party
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*去 不去 <em>在于</em> 你自己 。<span class="trans">.</span>
+*学 什么 专业 <em>在于</em> 你 的 兴趣 。<span class="trans">.</span>
+
+</div>
+
+== See also ==
+
+*[[Expressing "it depends" with "kan"]]
+
+== Sources and further reading == 
+
+=== Books ===
+
+{{Source|HSK Standard Course 4下|122}}
+{{Source|卓越汉语－公司实战篇|157}}
+
+[[Category: C1 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|在于|C1|⋯⋯ 在于 ⋯⋯|我们 服务 的 特色 <em>在于</em> 个性化 。|grammar point|ASGA632B}}
+{{Rel char|在}}
+{{Used for|Expressing "it depends" with "kan"}}
+{{Similar|Expressing "over and over again" with "zaisan"}} 
+{{POS|Verbs}}
+{{Translation|lie in}}

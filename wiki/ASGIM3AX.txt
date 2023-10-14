@@ -1,0 +1,101 @@
+<!-- Big numbers in Chinese -->
+{{Grammar Box}} 
+
+The manner in which large numbers are broken down in Chinese is a little different from English. Unlike in English, where large numbers are broken down by the number of ''thousands'' they have, Chinese forms numbers between 10,000 and 100,000,000 based off of how many ''tens'' of thousands they have (with another set of rules for numbers 100,000,000 onwards that will be explained later). While the structure can be difficult to grasp for some learners, there are some easy ways to remember how to form these big numbers.
+
+== Different Units ==
+
+Mandarin has two units that English doesn't have (or at least, it has unique words for these units, whereas English describes them with combinations of other units). These are:
+
+* 万 (wàn): ten thousand
+* 亿 (yì): hundred million
+
+== Ten Thousand - 万 (wàn) ==
+
+万 (wàn) comes up the most often and is the largest stumbling block for most people learning Mandarin numbers. In English, numbers are usually broken up into chunks of three digits. Because of 万 (wàn), it's easier to break numbers up into groups of four in Mandarin. In English, we split "twelve thousand" numerically into "12,000" (chunks of three digits). Split it the Chinese way, "1,2000," and the Chinese reading "一万两千" (one ''wan'' and two "thousand" = yīwàn liǎngqiān) makes more sense.
+
+One way to remember how to write out numbers 10,000 through 99,999 in Chinese characters is that in Chinese, the comma is (mentally) moved one digit to the left. For example, 11,000 could be thought of in tens of thousands as "1,1000," with 万 (wàn) replacing the comma, and then what's left written as 一千 (yīqiān): 一万一千 (yīwàn yīqiān).
+
+<table class="table big-text table-striped table-bordered">
+<tr>
+<th style="width:15%">Typical split</th>
+<th style="width:15%">Chinese split</th>
+<th style="width:25%">Characters</th>
+<th style="width:35%">Pinyin</th>
+</tr>
+<tr><td>10,000</td><td>1,0000</td><td>一万</td><td>yīwàn</td></tr>
+<tr><td>12,000</td><td>1,2000</td><td>一万二</td><td>yīwàn èr</td></tr>
+<tr><td>13,200</td><td>1,3200</td><td>一万三千两百</td><td>yīwàn sānqiān liǎngbǎi</td></tr>
+<tr><td>56,700</td><td>5,6700</td><td>五万六千七百</td><td>wǔwàn liùqiān qībǎi</td></tr>
+</table>
+
+== One Hundred Million - 亿 (yì) ==
+
+After 99,999,999, there is yet another new numerical unit, 亿 (yì), which is used to express "hundred million." A number like 1,101,110,000 would be written out as "十一亿一百一十一万 (shíyī yì yībǎi yīshí-yī wàn)." Again, an easier way to translate between the two methods is to write the number out in English, move the comma one digit to the left, and then insert the appropriate characters in their respective places, replacing the commas.
+
+== Mandarin Number Structure ==
+
+<table class="table big-text big-text table-striped table-bordered">
+<tr>
+<th style="width:25%">Numerals</th>
+<th style="width:15%">Characters</th>
+<th style="width:20%">Pinyin</th>
+<th style="width:30%">English</th>
+</tr>
+<tr><td>1,000,000,000</td><td>十亿</td><td>shí yì</td><td>Billion</td></tr>
+<tr><td>100,000,000</td><td>亿</td><td>yì</td><td>Hundred million</td></tr>
+<tr><td>10,000,000</td><td>千万</td><td>qiān wàn</td><td>Ten million</td></tr>
+<tr><td>1,000,000</td><td>百万</td><td>bǎi wàn</td><td>Million</td></tr>
+<tr><td>100,000</td><td>十万</td><td>shí wàn</td><td>Hundred thousand</td></tr>
+<tr><td>10,000</td><td>万</td><td>wàn</td><td>Ten thousand</td></tr>
+<tr><td>1,000</td><td>千</td><td>qiān</td><td>Thousand</td></tr>
+<tr><td>100</td><td>百</td><td>bǎi</td><td>Hundred</td></tr>
+<tr><td>10</td><td>十</td><td>shí</td><td>Ten</td></tr>
+<tr><td>1</td><td>一</td><td>yī</td><td>One</td></tr>
+</table>
+
+== A Shortcut ==
+
+One more simple way to remember how to correctly write out large numbers is to pick one or two numbers and just memorize them. One million, for example, is 一百万 (yībǎi wàn). If you can memorize that, then going to 一千万 (yīqiān wàn) is way easier and faster, since you don't have to count all those zeroes.
+
+The recommended shortcuts are:
+
+<div class="liju">
+* 一百万 <span class="expl">frequently a useful number to know</span><span class="pinyin">yībǎi wàn</span><span class="trans">1 million</span>
+* 十四亿 <span class="expl">this just happens to be the population of China</span><span class="pinyin">shísì yì</span><span class="trans">1.4 billion</span>
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 五<em>万</em> 两千 一百 五十二 <span class="pinyin"> wǔ<em>wàn</em> liǎngqiān yībǎi wǔshí-èr </span><span class="trans">52,152</span>
+* 二百 九十一 <em>万</em> 四千 六百 八十 <span class="pinyin">èrbǎi  jiǔshí-yī <em>wàn</em> sìqiān liùbǎi  bāshí </span><span class="trans">2,914,680</span>
+* 七百 八十九 <em>万</em> 零 二百 九十八 <span class="pinyin">qībǎi bāshí-jiǔ <em>wàn</em> líng èrbǎi jiǔshí-bā </span><span class="trans">7,890,298</span>
+* 两千 七百 二十一 <em>万</em> 四千 八百 九十六<span class="pinyin">liǎngqiān qībǎi èrshí-yī <em>wàn</em> sìqiān bābǎi jiǔshí-liù</span><span class="trans">27,214,896</span>
+* 五 千三 百 七 十 九 <em>万</em> 八 千 两 百 五 十<span class="pinyin">wǔqiān sānbǎi qīshí-jiǔ <em>wàn</em> bāqiān liǎngbǎi wǔshí </span><span class="trans">53,798,250</span>
+* 四<em>亿</em> 一千 四百 二十九 <em>万</em> 四千 一百 八十二 <span class="pinyin">sì<em>yì</em> yīqiān sìbǎi èrshí-jiǔ <em>wàn</em> sìqiān yībǎi bāshí-èr </span><span class="trans">414,294,182</span>
+* 十三 <em>亿</em> 两千 六百 八十 <em>万</em><span class="pinyin">shísān <em>yì</em> liǎngqiān liùbǎi bāshí <em>wàn</em> </span><span class="trans">1,326,800,000</span>
+* 两百 五十一 <em>亿</em> 五千 八百 三十六 <em>万</em> 七千 二百<span class="pinyin">liǎngbǎi  wǔshí-yī <em>yì</em> wǔqiān bābǎi sānshí-liù <em>wàn</em> qīqiān èrbǎi</span><span class="trans">25,158,367,200</span>
+
+</div>
+
+==See also==
+*[[Structure of numbers]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+* [http://www.amazon.com/gp/product/0415700108?ie=UTF8&tag=allset-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0415700108 Modern Mandarin Chinese Grammar: A Practical Guide] (pp. 30-31)
+* [http://www.amazon.cn/mn/detailApp?_encoding=UTF8&tag=allset-23&linkCode=as2&asin=B001J0ADWA&camp=536&creative=3132&creativeASIN=B001J0ADWA 外国人实用汉语语法(中英文对照) (A Practical Chinese Grammar for Foreigners)] (pp. 64-65)
+
+[[Category:A2 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|万|A2|Number + 万 / 亿|五 <em>万</em>|grammar point|ASGIM3AX}}
+{{Rel char|千}}
+{{Rel char|亿}}
+{{Similar|Indicating a Number in Excess}}    
+{{Similar|Approximating with sequential numbers}}
+{{POS|Numbers}}
+{{Used for|Expressing quantity}}

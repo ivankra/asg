@@ -1,0 +1,71 @@
+<!-- Expressing "could it be possible that" with "mofei" -->
+{{Grammar Box}} 
+{{stub}}
+
+莫非 (mòfēi) is generally used at the start of the second clause of sentence. This grammar pattern can express doubt or make a guess It can also be used to ask a rhetorical question, similar to [[Rhetorical Questions with "nandao"|难道 (nándào).]]
+
+== Structure ==
+
+When expressing doubt or making a guess, use the following pattern. The 不成 at the end of the sentence is optional. Remember that in this form, the 莫非 is usually at the beginning of the second clause. 
+
+<div class="jiegou">
+
+Fact, + 莫非 + conjecture + (不成)?
+
+</div>
+
+
+===Examples===
+
+<div class="liju">
+
+*眼前 这个 人，<em>莫非</em> 就是 大名鼎鼎 的 房地产 大亨？
+*这么 晚 了 他 还 没有 回来，<em>莫非</em> 他 出 了 什么 事 ？
+*桌子 上 那 条 鱼 怎么 不 见 了，<em>莫非</em> 被 猫 偷 吃 了<em>不成</em>？
+*<em>莫非</em> 他 听到 了 我们 的 谈话？
+
+</div>
+
+== Structure ==
+
+You can use 莫非 the same way you would use 难道: in a rhetorical question. Remember that these questions are to emphasize a point, so they usually aren't meant to be answered. 
+
+<div class="jiegou">
+
+Subject + 莫非 + rhetorical question
+
+</div>
+
+or
+
+<div class="jiegou">
+
+莫非 + Subject + rhetorical question
+
+</div>
+
+===Examples===
+
+<div class="liju">
+
+*<em>莫非</em> 她 真的 是 你 的 亲生 母亲？
+*<em>莫非</em> 你 真的 相信 他？
+*<em>莫非</em> 他 真的 要 去 丛林 探险？
+
+</div>
+
+==See also==
+
+* [[Rhetorical Questions with "nandao"]]
+
+== Sources  and further reading ==
+
+=== Books ===
+* [[现代汉语八百词]](p.389) [http://www.amazon.cn/mn/detailApp?_encoding=UTF8&tag=allset-23&linkCode=as2&asin=B001198GSW&camp=536&creative=3132&creativeASIN=B001198GSW →buy]
+* [[Common Chinese Patterns 330 (汉语常用格式330例)]] (p. 171)[http://www.amazon.com/gp/product/7802006473/ref=as_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=7802006473 →buy] 
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|莫非|C1|Subject + 莫非 + rhetorical question|<em>莫非</em> 你 真的 相信 他？ |grammar point|ASGYYOXD}}
+{{Rel char|非}}
+{{POS|Sentence patterns}}
+{{Used for|Asking rhetorical questions}}

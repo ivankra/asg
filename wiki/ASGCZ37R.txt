@@ -1,0 +1,78 @@
+<!-- Comparing "juran" and "fan'er" -->
+{{Grammar Box}} 
+{{stub}}
+
+居然 (jūrán) and 反而 (fǎn‘ér) both indicate that something is unexpected, or beyond common expectations.
+
+== Both 居然 and 反而 are used in similar structures ==
+
+The following two grammar structures show us that 反而 and 居然 can be used in the same grammar pattern.
+
+<div class="jiegou">
+Clause 1, 反而 / 居然 + unexpected opposite outcome
+</div>
+
+===Examples===
+
+<div class="liju">
+*我 打 他，他 <em>居然</em> 没 哭。
+*我 帮 他，他 <em>反而</em> 生气 了。
+</div>
+
+== 反而 can also be used in some specific grammar patterns ==
+
+However, 反而 is often used with 不仅没有 (不但没有) or 不仅不 (不但不). You cannot use 居然 here. This pattern basically means "but not only...on the contrary..."
+
+<div class="jiegou">
+Clause 1, 不仅没有（不但没有）/ 不仅不 (不但不)......反而......
+</div>
+
+===Examples===
+
+<div class="liju">
+ 
+* 经过 治疗，他 的 病情 不仅 没有 好转，<em>反而</em> 恶化 了。
+* 吃了 这些 减肥药，不但 没有 瘦，<em>反而</em> 更 胖 了。
+* 雨 不仅 没 停，<em>反而</em> 越 下 越 大 了。
+
+</div>
+
+== 居然 is for unexpected things, 反而 is more of a turning point ==
+
+反而 is used to express "on the contrary" or "in contrast," and it is usually placed in the second part of the sentence. Note that the meaning of 反而 goes beyond just "but." It is used to explain that something is totally the opposite of what one was expecting.
+
+居然 is not as intense as 反而. What's more, 居然 not only brings up an unexpected thing, it also allows the speaker to give a comment on that unexpected thing.
+
+===Examples===
+
+<div class="liju">
+ 
+* 作为学生，就应该好好学习，他 <em>居然</em> 学 社会 上 的 小混混 干 坏事，太 不 像话 了。
+* 他 这么 小 的 年纪 <em>居然</em>  能 背 唐诗 三 千 首，真是 了不起。
+* 他 <em>居然</em> 在 奥运会 上 得了 金牌，真是 太 不可思议 了。
+* 他 <em>居然</em> 就 住在 我们 家 隔壁，真是 缘分 呐！
+
+</div>
+
+In these examples "太不像话了," "真是了不起," "真是太不可思议了," and "真是缘分呐" are the comments. 
+
+==See also==
+
+*[["On the Contrary" with "fan'er"]]
+*[[The "However" Adverb "que"]]
+*[[Expressing Contrariness with "dao"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 5上|5}}
+* [[Practicing HSK Grammar (语法精讲精炼)]] [http://www.amazon.cn/mn/detailApp/ref=as_li_ss_tl?_encoding=UTF8&tag=allset-23&linkCode=as2&asin=B001N6R7DI&camp=536&creative=3132&creativeASIN=B001N6R7DI →buy]
+* [[Boya Chinese Lower Intermediate 1 (博雅汉语准中级加速篇)]] [http://www.amazon.com/gp/product/7301075308/ref%3das_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=7301075308 →buy]
+* [[Boya Chinese Lower Intermediate 2 (博雅汉语准中级加速篇)]] [http://www.amazon.com/gp/product/B00112ZL5A/ref%3das_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=B00112ZL5A →buy]
+
+[[Category:grammar comparison]]
+{{Basic Grammar|居然|C1|居然 vs 反而|雨 不仅 没 停，<em>反而</em> 越 下 越 大 了 – 他 <em>居然</em> 就 住在 我们家 隔壁，真是 缘分 呐！|grammar point|ASGCZ37R}}
+{{Rel char|居然}}
+{{Rel char|反而}}
+{{Comparison|Adverbs}}

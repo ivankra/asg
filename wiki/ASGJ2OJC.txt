@@ -1,0 +1,62 @@
+<!-- Before a specific time with "yiqian" -->
+{{Grammar Box}} 
+
+As well as talking about the [[Expressing "before" in general with "yiqian"|past in general]], you can use 以前 (yǐqián) to talk about things that happened ''before'' a specific time.
+
+== Structure ==
+
+<div class="jiegou">
+
+Time / Verb + 以前 ，⋯⋯ 
+
+</div>
+
+The time can be a specific time, or an action (technically, "''when'' the action was done").
+
+== Examples ==
+
+<div class="liju">
+
+* <strong>吃饭</strong> <em>以前</em> ，你 洗 手 了 吗？<span class="pinyin"><strong>Chīfàn</strong> <em>yǐqián</em>, nǐ xǐ shǒu le ma?</span><span class="trans">Did you wash your hands before eating? </span>
+* <strong>睡觉</strong> <em>以前</em> ，不要 吃 东西。<span class="pinyin"><strong>Shuìjiào</strong> <em>yǐqián</em>, bùyào chī dōngxi.</span><span class="trans">Don't eat anything before you go to sleep.</span>
+* <strong>两 年</strong> <em>以前</em> ， 你 认识 他 吗？ <span class="pinyin"><strong>Liǎng nián </strong> <em>yǐqián</em>,  nǐ rènshi tā ma? </span><span class="trans">Did you know him two years ago?</span>
+* <strong>星期五</strong> <em>以前</em> ，你 要 做 完 这些 工作。<span class="pinyin"><strong>Xīngqīwǔ</strong> <em>yǐqián</em>, nǐ yào zuò wán zhèxiē gōngzuò.</span><span class="trans">You need to finish this work before Friday.</span>
+* <strong>上 大学</strong> <em>以前</em>，你 来 过 上海 吗？<span class="pinyin"><strong>Shàng dàxué </strong> <em>yǐqián</em>, nǐ lái guo shànghǎi ma?</span><span class="trans"> Before you went to college, did you ever come to Shanghai?</span>
+* <strong>结婚</strong> <em>以前</em> ，你 应该 先 买 房子。<span class="pinyin"><strong>Jiéhūn</strong> <em>yǐqián</em>, nǐ yīnggāi xiān mǎi fángzi.</span><span class="trans">Before getting married, you should first buy a house.</span>
+* <strong>二十 年</strong> <em>以前</em>，这里 是 一 个 公园。<span class="pinyin"><strong>Èrshí nián</strong> <em>yǐqián</em>,   zhèlǐ shì yī gè gōngyuán.</span><span class="trans">Twenty years ago, this was a park.</span>
+* <strong>几 个 月</strong> <em>以前</em> ，他们 分手 了。<span class="pinyin"><strong>Jǐ gè yuè </strong> <em>yǐqián</em>,  tāmen fēnshǒu le.</span><span class="trans">They broke up a few months ago.</span>
+* <strong>毕业</strong> <em>以前</em>，我 要 找到 工作。<span class="pinyin"><strong>Bìyè</strong> <em>yǐqián</em>,  wǒ yào zhǎodào gōngzuò.</span><span class="trans">I need to find a job before graduation.</span>
+* <strong>当 总统</strong> <em>以前</em>，Obama 没有 白 头发。<span class="pinyin"><strong>Dāng zǒngtǒng</strong> <em>yǐqián</em>, Obama méiyǒu bái tóufa.</span><span class="trans">Before he became the president, Obama didn't have white hair.</span>
+
+</div>
+
+Note that this use of 以前 (yǐqián) can also be shortened to 前 (qián).
+
+==See also==
+
+*[[After a specific time]]
+*[[Expressing "before" in general with "yiqian"]]
+*[[Before and after with "zhiqian" and "zhihou"]]
+
+== Sources and further reading ==
+
+{{Source|HSK Standard Course 1|85}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|260-1}}
+{{Source|Boya Chinese Elementary Starter 2 (博雅汉语初经起步篇)|11-12}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{HSK|HSK3}}
+{{Used for|Expressing time and date}}
+{{Used for|Referring to the past}}
+{{Used for|Sequencing events in time}}
+{{Basic Grammar|以前|A2|Time / Verb + 以前|十 点 <em>以前</em>，我 在 家。|grammar point|ASGJ2OJC}}
+{{Rel char|以}}
+{{Rel char|前}}
+{{Similar|After a specific time}} 
+{{Similar|Expressing "before" in general with "yiqian"}} 
+{{Similar|Structure of times}}
+{{Similar|After a specific time}}    
+{{Similar|Before and After with "zhiqian" and "zhihou"}}
+{{POS|Nouns}}
+{{Translation|before}}

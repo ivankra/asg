@@ -1,0 +1,67 @@
+<!-- Expressing "nothing but" with "wufei" -->
+{{Grammar Box}} 
+
+无非 (wúfēi) means "only," or "nothing but." People use 无非 to soften the meaning of what they're talking about, or to stress that what they're saying isn't serious or awesome. The end of the sentence sometimes has [[罢了]] or [[而已]].
+
+== “Wufei" with verb ==
+
+===Structure ===
+
+<div class="jiegou">
+
+无非 + 是 + Verb Phrase
+
+</div>
+
+Adding a 是 is optional. Using 是 is more colloquial.
+
+===Examples===
+
+<div class="liju">
+* 我 空闲 时间 <em>无非</em> 是 游泳、看 书 而已 。 <span class="trans"> </span>
+* 我 空闲 时间 <em>无非</em> 游泳、看 书 而已 。 <span class="trans"> </span>
+* 我 <em>无非</em> 是 批评 了 他 几 句，他 怎么 哭 了？ <span class="trans"> </span>
+* 我 <em>无非</em> 批评 了 他 几 句，他 怎么 哭 了？ <span class="trans"> </span>
+* 我们 <em>无非</em> 是 谈 了 一下 孩子 的 教育 问题 罢了，没 谈 什么 特别 的 事情。<span class="trans"> </span>
+* 我们 <em>无非</em> 谈 了 一下 孩子 的 教育 问题 罢了，没 谈 什么 特别 的 事情。<span class="trans"> </span>
+* 他 这样 做，<em>无非</em> 是 为了 争取 更 多 的 权利。<span class="trans"> </span>
+* 他 这样 做，<em>无非</em> 为了 争取 更 多 的 权利。<span class="trans"> </span>
+
+</div>
+
+== “Wufei" with noun==
+
+===Structure ===
+
+<div class="jiegou">
+
+无非 + 是 + Noun Phrase
+
+</div>
+
+The use of "是" here is not optional.
+
+===Examples===
+
+<div class="liju">
+* 他 <em>无非</em> 是 个 经理，没 什么 了不起 的。 <span class="trans"> </span>
+* 招待 中国 客人 最 好 的 饮料 <em>无非</em> 是 一 杯 热 茶 而已。 <span class="trans"> </span>
+* 城市 里 的 人 来 到 农村，他们 最 想 感受 的 <em>无非</em> 是 新鲜 的 空气，漂亮 的 风景 和 悠闲 的 生活 节奏 。 <span class="trans"> </span>
+* 孩子 想 得到 的 <em>无非</em> 是 你 的 关心 罢了。 <span class="trans"> </span>
+</div>
+
+==See also==
+
+* [[Expressing "that's all" with "eryi"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+* [[现代汉语八百词 ]] (pp. 559-560) [http://www.amazon.cn/mn/detailApp?_encoding=UTF8&tag=allset-23&linkCode=as2&asin=B001198GSW&camp=536&creative=3132&creativeASIN=B001198GSW →buy]
+* [[现代汉语词典]] (p.1437) [http://www.amazon.cn/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E8%AF%8D%E5%85%B8/dp/B001B1RZCI/ref=sr_1_1?ie=UTF8&qid=1345693609&sr=8-1 →buy]
+* [[现代汉语虚词例释]] (p.492) [http://www.amazon.cn/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E8%99%9A%E8%AF%8D%E4%BE%8B%E9%87%8A/dp/B004323J90/ref=sr_1_1?s=books&ie=UTF8&qid=1394078649&sr=1-1&keywords=%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E8%99%9A%E8%AF%8D%E4%BE%8B%E9%87%8A→buy]
+
+{{Basic Grammar|无非|C1|无非 + 是 + Verb / Noun|我 <em>无非</em> 是 想 要 一 台 电脑 ！|grammar point|ASGW0911}}
+{{Similar|Expressing "that's all" with "eryi"}}
+{{POS|Adverbs}}

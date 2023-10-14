@@ -1,0 +1,35 @@
+<!-- Expressing "to be worthy of" with "bukuishi" -->
+{{Grammar Box}} 
+
+不愧是 (bùkuìshì) expresses that someone or something has "no shame in being." It has the same meaning as 名副其实 (míngfùqíshí), which means "live up to one's reputation." It carries a connotation of praise and accomplishment, like saying "to be worthy to be called." So when you evaluate somebody you can use this word but not for yourself.
+
+==Structure==
+
+The structure is pretty easy to learn, just use 不愧是 before the noun. You can also swap out the 是 with 为. The meaning stays the same.
+
+<div class="jiegou">
+Subject + 不愧是（不愧为）+ reputation
+</div>
+
+==Examples==
+
+<div class="liju">
+* 他 <em>不愧是</em> 一名 光荣的 人民 教师。
+* 危难 关头，他 挺身而出，<em>不愧是</em>一名 优秀的 人民解放军 战士。
+* 她 在 这 部 电影 里 的 表演 真 是 太 棒 了，<em>不愧是</em> 拿 过 奥斯卡 金奖 的。
+* 儿子，干得好！<em>不愧是</em> 我们 老王 家 的 人！
+
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+* [[Home With Kids1 (家有儿女1)]](p.338) [http://www.amazon.cn/%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B31-%E5%88%98%E7%AB%8B%E6%96%B0/dp/B0020MLDO8/ref=sr_1_1?ie=UTF8&qid=1347862139&sr=8-1 →buy] 
+* [[现代汉语八百词]](P.101) [http://www.amazon.cn/mn/detailApp?_encoding=UTF8&tag=allset-23&linkCode=as2&asin=B001198GSW&camp=536&creative=3132&creativeASIN=B001198GSW →buy]
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|不愧是|C1|不愧是（不愧为）+ N|他 <em>不愧是</em> 一名 光荣的 人民 教师。|grammar point|ASGMCX2H}}
+{{Rel char|不愧}}
+{{Rel char|是}}
+{{POS|Sentence patterns}}
+{{Used for|Emphasizing}}

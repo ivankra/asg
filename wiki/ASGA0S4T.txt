@@ -1,0 +1,62 @@
+<!-- A softer "but" with "buguo" -->
+{{Grammar Box}} 
+
+Instead of just using [[Two_words_for_"but"|可是 or 但是]], you can also use the softer and more informal 不过 (búguò), which also means "[[but]]."
+
+== Structure ==
+
+Just like its counterparts, 不过 is a conjunction that comes between two distinct clauses.
+
+<div class="jiegou">
+⋯⋯ ，不过 ⋯⋯
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*这 件 衣服 我 很 喜欢 ，<em>不过</em> 有点 贵 。<span class="pinyin"> Zhè jiàn yīfu wǒ hěn xǐhuan, <em>bùguò</em> yǒudiǎn guì.</span><span class="trans">I like this piece of clothing, but it's a little bit expensive.</span>
+*这 家 餐厅 我 没 去 过 ，<em>不过</em> 我 听说 还 不错 。<span class="pinyin">Zhè jiā cāntīng wǒ méi qù guo, <em>bùguò</em> wǒ tīngshuō hái bùcuò.</span><span class="trans">I've never been to this restaurant, but I heard it's pretty good.</span>
+*这个 学生 很 聪明 ，<em>不过</em> 有点 懒 。<span class="pinyin">Zhège xuéshēng hěn cōngming, <em>bùguò</em> yǒudiǎn lǎn.</span><span class="trans">This student is very smart, but he's a little lazy.</span>
+*那儿 的 天气 不 太 好 ，<em>不过</em> 我们 玩 得 很 开心 。<span class="pinyin">Nàr de tiānqì bù tài hǎo, <em>bùguò</em> wǒmen wán de hěn kāixīn.</span><span class="trans">The weather there was not very good, but we had a lot of fun.</span>
+*他 是 东北 人 ，<em>不过</em> 他 没有 口音 。<span class="pinyin">Tā shì dōngběi rén, <em>bùguò</em> tā méiyǒu kǒuyīn.</span><span class="trans">He's from the northeast, but he doesn't have the accent.</span>
+*他 说 得 不错 ，<em>不过</em> 不 认识 汉字 。<span class="pinyin">Tā shuō de bùcuò, <em>bùguò</em> bù rènshi Hànzì.</span><span class="trans">He can speak well, but he doesn't know any Chinese characters.</span>
+*我 的 钱包 丢 了 ，<em>不过</em> 没 丢 什么 重要 的 东西 。<span class="pinyin">Wǒ de qiánbāo diū le, <em>bùguò</em> méi diū shénme zhòngyào de dōngxi.</span><span class="trans">I lost my wallet, but I didn't lose anything important.</span>
+*刚 来 的 时候 很 想 家 ，<em>不过</em> 现在 习惯 了 。<span class="pinyin">Gāng lái de shíhou hěn xiǎng jiā, <em>bùguò</em> xiànzài xíguàn le.</span><span class="trans">I was homesick when I first got here, but I'm used to it now.</span>
+*你 可以 参加 ，<em>不过</em> 有 个 条件 。<span class="pinyin">Nǐ kěyǐ cānjiā, <em>bùguò</em> yǒu gè tiáojiàn.</span><span class="trans">You can participate, but there is a condition.</span>
+*他 还 在 考虑 ，<em>不过</em> 我 已经 决定 了。<span class="pinyin">Tā hái zài kǎolǜ, <em>bùguò</em> wǒ yǐjīng juédìng le.</span><span class="trans">He's still considering it, but I've already decided.</span>
+
+</div>
+
+== See also ==
+
+*[[Two words for "but"]]
+*[["Although" with "suiran" and "danshi"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|119}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|258}} 
+{{Source|Short-term Spoken Chinese: Elementary (汉语口语速成基础篇)|23}} 
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级)|254}}
+{{Source|Boya Chinese Lower Intermediate 1 (博雅汉语准中级加速篇)|12}}
+{{Source|Integrated Chinese: Level 2, Part 1|163}}
+{{Source|Integrated Chinese: Level 2, Part 2|96}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK4}}
+[[Category:Connectors]]
+{{Similar|"Although" with "suiran" and "danshi"}}
+{{Similar|Two words for "but"}}
+{{Similar|Expressing "however" with "ran'er"}}
+{{Basic Grammar|不过|B1|⋯⋯ ，不过 ⋯⋯|他 的 汉语 口语 不错 ，<em>不过</em> 不 认识 汉字 。|grammar point|ASGA0S4T}}
+{{Rel char|不}}
+{{Rel char|过}}
+{{POS|Conjunctions}}
+{{Used for|Connecting ideas}}
+{{Used for|Contrasting}}
+{{Translation|although}}
+{{Translation|but}}
+{{Translation|however}}

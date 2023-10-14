@@ -1,0 +1,57 @@
+<!-- Expressing "stuff like that" with "zhileide" -->
+{{Grammar Box}} 
+
+之类的 (zhī lèi de) can be translated as "and so on" or "and stuff like that." As in English, this grammar point is used to continue a list without explicitly mentioning further items within it.
+
+== Structure ==
+
+<div class="jiegou">
+像 ⋯⋯ 之类的 + [Category]
+</div>
+
+The 像 can also be left out:
+
+<div class="jiegou">
+⋯⋯ 之类的 + [Category]
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*我 家 附近 有 很 多 <strong>像</strong> KFC <em>之类的</em> 快餐 店 。<span class="pinyin">Wǒ jiā fùjìn yǒu hěn duō <strong>xiàng</strong> KFC <em>zhī lèi de</em> kuàicān diàn.</span><span class="trans">There are many fast-food restaurants in my neighborhood, like KFC and others like it.</span>
+*你 喜欢《星球大战》<em>之类的</em> 电影 吗 ？<span class="pinyin">Nǐ xǐhuan "Xīngqiú Dà Zhàn" <em>zhī lèi de</em> diànyǐng ma?</span><span class="trans">Do you like movies like Star Wars? </span>
+*我 没 看 过 <strong>像</strong> 吸血鬼 <em>之类的</em> 故事 。<span class="pinyin">Wǒ méi kàn  guo <strong>xiàng</strong> xīxuèguǐ <em>zhī lèi de</em> gùshi.</span><span class="trans">I haven't read stories about vampires and stuff like that.</span>
+*你们 公司 谁 负责 管理 <em>之类的</em> 工作 ？<span class="pinyin">Nǐmen gōngsī shéi fùzé guǎnlǐ <em>zhī lèi de</em> gōngzuò?</span><span class="trans">In your company, who is in charge of management and stuff like that?</span>
+*她 很 适合 做 <strong>像</strong> 市场 推广 <em>之类的</em> 工作 。<span class="pinyin">Tā hěn shìhé zuò <strong>xiàng</strong> shìchǎng tuīguǎng <em>zhī lèi de</em> gōngzuò.</span><span class="trans">She's very suitable for jobs like marketing and similar.</span>
+*她 穿 的 衣服 都 是 Gucci、Chanel <em>之类的</em> 名牌 。<span class="pinyin">Tā chuān de yīfu dōu shì Gucci, Chanel <em>zhī lèi de</em> míngpái.</span><span class="trans">The clothes she wears are all famous brands like Gucci, Chanel, and the like.</span>
+*年轻 人 很 喜欢 用 <strong>像</strong> 支付宝 <em>之类的</em> 电子 支付 方式 。<span class="pinyin">Niánqīng rén hěn xǐhuan yòng <strong>xiàng</strong> Zhīfùbǎo <em>zhī lèi de</em> diànzǐ zhīfù fāngshì.</span><span class="trans">Young people love using electronic methods of payment like Alipay and similar.</span>
+*很多 中国 老人 喜欢 广场舞 、太极 <em>之类的</em> 运动 。<span class="pinyin">Hěn duō Zhōngguó lǎorén xǐhuan guǎngchǎng wǔ, Tàijí <em>zhī lèi de</em> yùndòng.</span><span class="trans">Many old Chinese people are fond of exercises like plaza dancing, tai chi, and stuff like that.</span>
+*我们 学校 很 少 办 才艺 比赛 <em>之类的</em> 活动 。<span class="pinyin">Wǒmen xuéxiào hěnshǎo bàn cáiyì bǐsài <em>zhī lèi de</em> huódòng.</span><span class="trans">Our school rarely holds activities like talent shows or similar.</span>
+*中国 女孩 会 怎么 回应 <strong>像</strong> “你 真 漂亮” <em>之类的</em> 话 ？<span class="pinyin">Zhōngguó nǚhái huì zěnme huíyìng <strong>xiàng</strong>"nǐ zhēn piàoliang"<em>zhī lèi de</em> huà?</span><span class="trans">How would Chinese girls respond to lines like, "you are really pretty" and the like?</span>
+</div>
+
+== See also ==
+
+*[[Non-exhaustive lists with "dengdeng"]]
+*[[Ending a Non-Exhaustive List with "shenme de"]]
+*[[Listing Things with "a"]]
+
+== Sources and  further reading ==
+
+=== Books ===
+
+{{Source|卓越汉语－公司实战篇|105-6}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK0}}
+{{Basic Grammar|之类的|B1|像 ⋯⋯ 之类的 + Category|你 喜欢《星球大战》<em>之类的</em> 电影 吗 ？|grammar point|ASGPY23Z}}
+{{Rel char|像}}
+{{Rel char|之}}
+{{Rel char|类}}
+{{Similar|Non-exhaustive lists with "dengdeng"}}   
+{{Similar|Ending a Non-Exhaustive List with "shenme de"}}   
+{{Similar|Listing Things with "a"}}
+{{Used for|Listing}}
+{{Translation|Etc.}}
+{{POS|Auxiliary Words}}

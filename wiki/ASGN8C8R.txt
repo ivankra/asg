@@ -1,0 +1,59 @@
+<!-- Expressing "only" with "zhi" -->
+{{Grammar Box}} 
+
+There are a number of different ways to express "[[only]]" in Chinese, but 只 (zhǐ) is the most basic one you need to learn first. It's an [[adverb]], so it normally comes before [[verb]]s.
+
+== Structure ==
+
+The adverb 只 (zhǐ) can come directly before a [[verb]], or before an [[auxiliary verb]] like [[会]] (huì) or [[能]] (néng).
+
+<div class="jiegou">
+
+只 + Verb
+
+</div>
+
+<div class="jiegou">
+
+只 + 会 / 能 + Verb
+
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*我 <em>只</em> 有 一 个 哥哥。<span class="pinyin">Wǒ <em>zhǐ</em> yǒu yī gè gēge.</span><span class="trans">I only have one older brother.</span>
+*我们 <em>只</em> 有 十块 钱。<span class="pinyin">Wǒmen <em>zhǐ</em> yǒu shí kuài qián.</span><span class="trans">We only have ten RMB.</span>
+*我们 公司 <em>只</em> 有 两个员工。<span class="pinyin">Wǒmen gōngsī <em>zhǐ</em> yǒu liǎng gè yuángōng.</span><span class="trans">Our company only has two employees.</span>
+*你 <em>只</em> 爱 吃 肉 吗？<span class="pinyin">Nǐ <em>zhǐ</em> ài chī ròu ma?</span><span class="trans">Do you only like eating meat?</span>
+*他们 <em>只</em> 会 说 英文。<span class="pinyin">Tāmen <em>zhǐ</em> huì shuō Yīngwén.</span><span class="trans">They can only speak English.</span>
+*我 <em>只</em> 能 说 两 句 中文。<span class="pinyin">Wǒ <em>zhǐ</em> néng shuō liǎng jù Zhōngwén.</span><span class="trans">I can only say two sentences in Chinese.</span>
+*你们 <em>只</em> 要 咖啡 吗？<span class="pinyin">Nǐmen <em>zhǐ</em> yào kāfēi ma? </span><span class="trans">Do you only want coffee?</span>
+*我 老婆 <em>只</em> 要 一个 孩子。<span class="pinyin">Wǒ lǎopo <em>zhǐ</em> yào yī gè háizi.</span><span class="trans">My wife only wants one child.</span>
+*宝宝 <em>只</em> 会 走，不 会 跑。<span class="pinyin">Bǎobao <em>zhǐ</em> huì zǒu, bù huì pǎo.</span><span class="trans">The baby can only walk. He can't run.</span>
+*我 <em>只</em> 想 跟 你 在 一起。<span class="pinyin">Wǒ <em>zhǐ</em> xiǎng gēn nǐ zài yīqǐ.</span><span class="trans">I only want to be with you.</span>
+
+</div>
+
+== See Also ==
+
+*[["Just" with "jiu"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|87}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|251}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK3}}
+[[Category: Adverbs]]
+
+{{Basic Grammar|只|A2|只 + Verb|我 <em>只</em> 有 一个 妹妹。|grammar point|ASGN8C8R}}
+{{POS|Adverbs}}
+{{Used for|Expressing limits}}
+{{Similar|"Just" with "jiu"}}
+{{Translation|just}}
+{{Translation|only}}

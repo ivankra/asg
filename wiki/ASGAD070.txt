@@ -1,0 +1,88 @@
+<!-- Expressing "toward" with "wang" -->
+{{Grammar Box}} 
+
+Although 往 (wǎng) simply means "towards," it's not used as often as certain other [[preposition]]s and also has a few special use cases, so it warrants a little extra attention.
+
+== Used as "Towards" ==
+
+往 (wǎng) is a preposition that means "towards" and precedes the [[verb]] it modifies.
+
+=== Used before a Verb ===
+
+This is the common one used in everyday speech.
+
+==== Structure ====
+
+Adding 往 (wǎng) with a location or place word indicates the direction of an action. Remember that the verb comes ''after'' this 往 phrase.
+
+<div class="jiegou">
+往 + Direction / Place + Verb
+</div>
+
+==== Examples ====
+
+<div class="liju">
+
+*一直 <em>往</em> 前 <strong>走</strong> 。<span class="pinyin">Yīzhí <em>wǎng</em> qián <strong>zǒu</strong>.</span><span class="trans">Go straight ahead.</span>
+*<em>往</em> 左 <strong>拐</strong> 。<span class="pinyin"><em>Wǎng</em> zuǒ <strong>guǎi</strong>.</span><span class="trans">Turn left.</span>
+*<em>往</em> 上 <strong>看</strong> 。<span class="pinyin"><em>Wǎng</em> shàng <strong>kàn</strong>.</span><span class="trans">Look up there.</span>
+*那个 小偷 <em>往</em> 东 <strong>跑</strong> 了 。<span class="pinyin">Nàge xiǎotōu <em>wǎng</em> dōng <strong>pǎo</strong> le.</span><span class="trans">That thief ran towards the east.</span>
+*不要 <em>往</em> 楼下 <strong>扔</strong> 垃圾 。<span class="pinyin">Bùyào <em>wǎng</em> lóuxià <strong>rēng</strong> lājī.</span><span class="trans">Don't throw trash downstairs.</span>
+*不要 <em>往</em> 小孩 嘴巴 里 <strong>塞</strong> 东西 了 ！<span class="pinyin">Bùyào <em>wǎng</em> xiǎohái zuǐba lǐ <strong>sāi</strong> dōngxi le!</span><span class="trans">Stop stuffing food in the kid's mouth!</span>
+
+</div>
+
+=== Used after a Verb ===
+
+In written language,  往 (wǎng) can also be used ''after'' a few monosyllabic verbs, which are then followed by [[location noun]]s. 
+
+==== Structure ====
+
+<div class="jiegou">
+Verb + 往 + Direction / Place
+</div>
+
+==== Examples ====
+
+<div class="liju">
+
+*<strong>开</strong> <em>往</em> 北京 的 火车 <span class="pinyin"><strong>kāi</strong> <em>wǎng</em> Běijīng de huǒchē</span><span class="trans">the train that goes to Beijing</span>
+*<strong>飞 </strong> <em>往</em> 纽约 的 飞机 <span class="pinyin"><strong>fēi</strong> <em>wǎng</em> Niǔyuē de fēijī</span><span class="trans">the airplane that flies to New York</span>
+*<strong>运</strong> <em>往</em> 国外 的 货物 <span class="pinyin"><strong>yùn</strong> <em>wǎng</em> guówài de huòwù</span><span class="trans">cargo that is shipped overseas</span>
+
+</div>
+
+== 往下 as "Keep Going" ==
+
+往下 (wǎng xià) expresses "keep going," implying that the process has been interrupted before. The verbs that follow are usually communication or sensory verbs: speak (说), read (读), write (写), watch (看), and listen (听) are common.
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>往</em> 下 <strong>说</strong> 。<span class="pinyin"><em>Wǎng</em> xià <strong>shuō</strong>.</span><span class="trans">Keep talking.</span>
+*<em>往</em> 下 <strong>读</strong> 。 <span class="pinyin"><em>Wǎng</em> xià <strong>dú</strong>.</span><span class="trans">Keep reading.</span>
+*你 <em>往</em> 下 <strong>看</strong> 就 知道 了 。<span class="pinyin">Nǐ <em>wǎng</em> xià <strong>kàn</strong> jiù zhīdào le.</span><span class="trans">Keep reading and you'll see.</span>
+
+</div>
+
+== See also ==
+
+* [[Using "dui" with verbs]]
+* [[Expressing "towards" with "xiang"]]
+* [[Comparing "chao" "xiang" and "wang"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|101}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|往|B1|往 + Direction Word|往 + Direction / Place + Verb|grammar point|ASGAD070}}
+{{Similar|Comparing "chao" "xiang" and "wang"}}
+{{Similar|Expressing "towards" with "xiang"}}
+{{Similar|Using "dui" with verbs}}
+{{POS|Prepositions}}
+{{Translation|toward}}

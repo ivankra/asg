@@ -1,0 +1,100 @@
+<!-- Expressing actions in progress (full form) -->
+{{Grammar Box}} 
+
+You may have learned that [[Expressing actions in progress|在 (zài)]] and [[Expressing actions in progress|正在 (zhèngzài)]] can be used before [[verbs]] to express that an action is ''ongoing'' or ''in progress''. They are used to create the Mandarin equivalent of ''present continuous'' in English. But that pattern is actually a part of a longer, fuller pattern.  It's rarely used in its full form, but bits and pieces of it are frequently used in everyday speech, so it's important to know the full form, even if you don't use it regularly yourself.
+
+== Structure ==
+
+<div class="jiegou">
+Subj. + 正在 / 正 / 在 + Verb + 呢
+</div>
+
+If it's a [[Separable verb]], you need to put the 着 between the verb and the object, or you can just leave 着 out.
+
+<div class="jiegou">
+Subj. (+ 正) + Verb + 着 + Obj. + 呢
+</div>
+
+<div class="jiegou">
+Subj. + Verb + Obj. + 呢
+</div>
+
+It's important to remember that '''virtually every part of the above pattern is ''optional''''', so you're going to see all sorts of variations of it (and rarely the full form).  The most common variation is just the "[[Expressing actions in progress|在 + V]]" pattern that you probably already learned long ago. Another common variation is "[[Expressing actions in progress|正 + V]]" pattern.
+
+== Examples ==
+
+<div class="liju">
+
+*我 <em>正在</em> 吃饭 。<span class="pinyin">Wǒ <em>zhèngzài</em> chīfàn.</span>
+*我 <em>正</em> 吃 <strong>着</strong> 饭 <strong>呢</strong> 。<span class="pinyin">Wǒ <em>zhèng</em> chī <strong>zhe</strong> fàn <strong>ne</strong>.</span>
+*我 吃 饭 <strong>呢</strong>。<span class="pinyin">Wǒ chīfàn <strong>ne</strong>.</span><span class="trans">I'm eating now.</span>
+
+</div>
+
+<div class="liju">
+
+*爷爷 <em>正在</em> 看 报纸 ，别 打扰 他 。<span class="pinyin">Yéye <em>zhèngzài</em> kàn bàozhǐ, bié dǎrǎo tā.</span>
+*爷爷 <em>在</em> 看 报纸 <strong>呢</strong> ，别 打扰 他 。<span class="pinyin">Yéye <em>zài</em> kàn bàozhǐ <strong>ne</strong>, bié dǎrǎo tā.</span>
+*爷爷 看 报纸 <strong>呢</strong> ，别 打扰 他 。<span class="pinyin">Yéye kàn bàozhǐ <strong>ne</strong>, bié dǎrǎo tā.</span><span class="trans">Grandpa is reading newspapers now. Don't disturb him.</span>
+
+</div>
+
+<div class="liju">
+
+*他 <em>在</em> 上厕所 。<span class="pinyin">Tā <em>zài</em> shàng cèsuǒ.</span>
+*他 <em>正</em> 上 厕所<strong>呢</strong> 。<span class="pinyin">Tā <em>zhèng</em> shàng cèsuǒ <strong>ne</strong>.</span>
+*他 上 厕所 <strong>呢</strong> 。<span class="pinyin">Tā shàng cèsuǒ <strong>ne</strong>.</span><span class="trans">He's using the bathroom now.</span>
+
+</div>
+
+<div class="liju">
+
+*我们 <em>在</em> 上 汉语 课 。<span class="pinyin">Wǒmen <em>zài</em> shàng Hànyǔ kè.</span>
+*我们 <em>正</em> 上 汉语 课 <strong>呢</strong> 。<span class="pinyin">Wǒmen <em>zhèng</em> shàng Hànyǔ kè <strong>ne</strong>.</span>
+*我们 上 <strong>着</strong> 汉语 课 <strong>呢</strong> 。<span class="pinyin">Wǒmen shàng <strong>zhe</strong> Hànyǔ kè <strong>ne</strong>.</span><span class="trans">We're having a Chinese lesson now.</span>
+
+</div>
+
+<div class="liju">
+
+*老板 <em>在</em> 开会，不 方便 接 电话 。<span class="pinyin">Lǎobǎn <em>zài</em> kāihuì, bù fāngbiàn jiē diànhuà.</span>
+*老板 <em>正</em> 开 <strong>着</strong> 会 ，不 方便 接 电话 。<span class="pinyin">Lǎobǎn <em>zhèng</em> kāi <strong>zhe</strong> huì, bù fāngbiàn jiē diànhuà.</span>
+*老板 开 <strong>着</strong> 会 <strong>呢</strong> ，不 方便 接 电话 。<span class="pinyin">Lǎobǎn kāi <strong>zhe</strong> huì <strong>ne</strong>, bù fāngbiàn jiē diànhuà.</span><span class="trans">The boss is in the middle of a meeting. It's not convenient for him to talk on the phone.</span>
+
+</div>
+
+== See also ==
+
+* [[Aspect particle "zhe"]]
+* [[Expressing actions in progress]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Chinese Grammar Without Tears (简明汉语语法学习手册)|54-7}}
+{{Source|Common Chinese Patterns 330 (汉语常用格式330例)|321}}
+{{Source|Mandarin Chinese: A Functional Reference Grammar|217-26}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|216-8}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|106-7}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|157}}
+
+=== Websites ===
+
+* ChinesePod: [http://chinesepod.com/lessons/the-%E7%9D%80-zhe-chronicles-actions-in-progress Qing Wen - The 着 (zhe) Chronicles: Actions in Progress] (free podcast content)
+
+[[Category:B1 grammar points]]
+{{HSK|HSK0}}
+{{Basic Grammar|正在|B1|正在 + Verb + 着 + 呢|我 <em>正在</em> 吃饭 <em>呢</em> 。|grammar point|ASGEYQ9O}}
+{{Rel char|正}}
+{{Rel char|在}}
+{{Rel char|着}}
+{{Rel char|呢}}
+{{Similar|Modal particle "ne"}} 
+{{Similar|Aspect particle "zhe"}}
+{{Similar|Alternative existential sentences}}
+{{Similar|Using "zhe" when "verbing away"}}
+{{Similar|Expressing actions in progress}}
+{{Used for|Referring to the present }}
+{{POS|Verbs}}
+{{Subprop|Verb phrases}}

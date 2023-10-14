@@ -1,0 +1,81 @@
+<!-- Expressing "until" with "dao" -->
+{{Grammar Box}} 
+
+One kind of [[complement]] in Chinese involves putting 到 (dào) after the verb, followed by a time or other event. This 到 works much like the English word "[[until]]."
+
+== Basic Pattern ==
+
+=== Structure ===
+
+<div class="jiegou">
+(一直 +) Verb + 到 + Time / Event
+</div>
+
+You will sometimes see 一直 (yīzhí) proceeding 到, which serves the purpose of the emphasis on the "ongoing duration."
+
+Note that the verbs are mostly single-syllable.
+
+=== Examples ===
+
+<div class="liju">
+
+*你们 要 玩 <em>到</em> 几 点 ？<span class="pinyin">Nǐmen yào wán <em>dào</em> jǐ diǎn?</span><span class="trans">When will you be done playing?</span>
+*我们 在 酒吧 <strong>一直</strong> 聊 <em>到</em> 半夜 。<span class="pinyin">Wǒmen zài jiǔbā <strong>yīzhí</strong> liáo <em>dào</em> bànyè.</span><span class="trans">We were chatting in the bar until midnight.</span>
+*你 弟弟 要 在 我们 家 住 <em>到</em> 什么 时候 ？<span class="pinyin">Nǐ dìdi yào zài wǒmen jiā zhù <em>dào</em> shénme shíhou?</span><span class="trans">Your younger brother is going to stay in our house until when?</span>
+*昨天 的 会 <strong>一直</strong> 开 <em>到</em> 晚上 九点 。<span class="pinyin">Zuótiān de huì <strong>yīzhí</strong> kāi <em>dào</em> wǎnshang jiǔ diǎn.</span><span class="trans">Yesterday's meeting lasted until 9 pm.</span>
+*我 邻居 今天 吵架 了 ，<strong>一直</strong> 吵 <em>到</em> 警察 过来 。<span class="pinyin">Wǒ línjū jīntiān chǎojià le, <strong>yīzhí</strong> chǎo <em>dào</em> jǐngchá guòlái.</span><span class="trans">My neighbors had a fight today, which lasted until the police came.</span>
+*我们 晚上 去 吃火锅 了 ，<strong>一直</strong> 吃 <em>到</em> 火锅店 关门 。<span class="pinyin">Wǒmen wǎnshang qù chī huǒguō le, <strong>yīzhí</strong> chī <em>dào</em> huǒguō diàn guānmén.</span><span class="trans">We went to eat hotpot tonight, and we didn't finish until the place was closed.</span>
+*他 昨天 一天 都 在 打游戏 ，<strong>一直</strong> 打 <em>到</em> 他 妈妈 回家 。<span class="pinyin">Tā zuótiān yī tiān dōu zài dǎ yóuxì, <strong>yīzhí</strong> dǎ <em>dào</em> tā māma huí jiā.</span><span class="trans">He was playing computer games all day yesterday. He didn't stop until his mother came home.</span>
+
+</div>
+
+== Pattern with Repeating Verb ==
+
+=== Structure ===
+
+If there is a verb phrase proceeding 到, use this structure:
+
+<div class="jiegou">
+[Verb Phrase] (+ 一直) + Verb + 到 + Time / Event
+</div>
+
+Note that in this pattern, the verb is going to repeat.
+
+=== Examples ===
+
+<div class="liju">
+
+*你 知 不 知道 我们 <strong>等 你</strong> 等 <em>到</em> 半夜 ？<span class="pinyin">Nǐ zhī bu zhīdào wǒmen <strong>děng nǐ</strong> děng <em>dào</em> bànyè?</span><span class="trans">Do you know we waited for you until midnight?</span>
+*我 女儿 昨天 晚上 <strong>写作业</strong> 写 <em>到</em> 十二 点 半 。<span class="pinyin">Wǒ nǚ'ér zuótiān wǎnshang <strong>xiě zuòyè</strong> xiě <em>dào</em> shí'èr diǎn bàn.</span><span class="trans">My daughter didn't finish her homework until 12:30 last night.</span>
+*她 给 男朋友 <strong>打电话</strong> 打 <em>到</em> 手机 没 电 。<span class="pinyin">Tā gěi nánpéngyou <strong>dǎ diànhuà</strong> dǎ <em>dào</em> shǒujī méi diàn.</span><span class="trans">She called her boyfriend and they kept talking until her phone was out of battery.</span>
+
+</div>
+
+== See also ==
+
+*[[Verbs with gei]]
+*[[Expressing "from… to…" with "cong… dao…"]]
+*[["Zai" following verbs]]
+*[[Expressing "when" with "dengdao"]]
+*[[Expressing "all the way until" with "zhidao"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2)|240}}
+{{Source|Chinese Grammar Without Tears (简明汉语语法学习手册)|93-95}}
+
+[[Category:B1 grammar points]]
+{{Basic Grammar|到|B1|Verb + 到 + Time / Event|我 昨天 晚上 工作 <em>到</em> 十二 点 半 。|grammar point|ASG1CCAP}}
+{{Rel char|一直}}
+{{Similar|To go to a place}}
+{{Similar|Expressing "from… to…" with "cong… dao…"}}
+{{Similar|Verbs with gei}}
+{{Similar|Expressing "when" with "dengdao"}}
+{{Similar|Expressing "all the way until" with "zhidao"}}
+{{Used for|Expressing result}}
+{{Used for|Describing actions}}
+{{Translation|until}}
+{{POS|Verbs}}
+{{Subprop|Verb phrases}}

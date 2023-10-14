@@ -1,0 +1,107 @@
+<!-- Comparing "yihou" and "zhihou" -->
+{{Grammar Box}} 
+Both "以后" (yǐhòu) or "之后" (zhīhòu) mean "after," but there are a few tiny differences in usage.
+
+== Similarities between 以后 and 之后 ==
+
+Both can indicate another event happened ''after'' a ''specific time''.
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + Specified Time + 以后／之后 + Verb
+</div>
+
+In situations something happens after ''something else'', you can use 以后. The stipulation with this is that "after ''WHAT''" needs to be explicitly stated. That is, there has to be a "specified time" for 以后 to modify. Otherwise 以后 won't work in those sentences.
+
+=== Examples ===
+
+以后 and 之后 may be freely interchanged in any of the below sentences.
+
+<div class="liju">
+* 下 过 雨 <em>以后</em> 空气 会 好 很 多 。<span class="pinyin">Xià guo yǔ <em>yǐhòu</em> kōngqì huì hǎo hěn duō.</span><span class="trans">After it rains, the air will be a lot better.</span>
+* 结婚 <em>之后</em> 他们 有 了 两 个 宝宝 。 <span class="pinyin">Jiéhūn <em>zhīhòu</em> tāmen yǒu le liǎng gè bǎobao.</span><span class="trans">After getting married, they had two babies.</span>
+* 等 我 涨 工资 <em>以后</em> 请 你 吃饭 。 <span class="pinyin">Děng wǒ zhǎng gōngzī <em> yǐhòu</em> qǐng nǐ chīfàn.</span><span class="trans">After I get a raise, I will treat take you out to eat.</span>
+* 听到 这 个 消息 <em>之后</em> ，我 高兴 得 一 晚上 没 睡 。 <span class="pinyin">Tīngdào zhège xiāoxi <em>zhīhòu</em>, wǒ gāoxìng de yī wǎnshang méi shuì.</span><span class="trans">After I heard this news, I was so happy I couldn't sleep the whole night.</span>
+</div>
+
+== Differences between 以后 and 之后 ==
+
+The key to understanding 以后 here is that if it doesn't come ''immediately after'' something else, then it's being used ''by itself''. And when 以后 is used by itself, it doesn't mean [[After a specific time|"after;"]] it means [[In the future in general|"in the future."]]
+
+=== 以后 by Itself Means "In the Future" ===
+
+==== Structure ==== 
+
+<div class="jiegou">
+以后 ，⋯⋯
+</div>
+
+==== Examples ==== 
+
+<div class="liju">
+
+* <em>以后</em> 再 也 不 来 这里 吃饭 了 ， 又 贵 又 难吃 。 <span class="pinyin"><em>Yǐhòu</em> zài yě bù lái zhèlǐ chīfàn le, yòu guì yòu nánchī.</span><span class="trans">In the future I will never come to this place to eat again. It's expensive and the food is terrible.</span>
+* <em>以后</em> 我 可能 会 去 国外 上 大学 。 <span class="pinyin"><em>Yǐhòu</em> wǒ kěnéng huì qù guówài shàng dàxué.</span><span class="trans">In the future I might go to college abroad.</span>
+* <em>以后</em> 的 事情 <em>以后</em> 再 说 吧 。 <span class="pinyin"><em>Yǐhòu</em> de shìqing <em>yǐhòu</em> zài shuō bā.</span><span class="trans">We'll talk about future issues in the future.</span>
+
+</div>
+
+=== 之后 by Itself Means "After that" ===
+
+Compared to 以后, 之后 is a little more flexible. Not only can it be used just like 以后, [[Before and after with "zhiqian" and "zhihou"|modifying the time]], but it can also appear independently, meaning something along the lines of "after that." While 以后 must come after a specific time to mean "after," it cannot can stand by itself like this.
+
+==== Structure ==== 
+
+<div class="jiegou">
+(Event 1 ，) 之后 + Event 2
+</div>
+
+==== Examples ====
+
+<div class="liju">
+*我 要 先 回家 把 东西 放 下 ，<em>之后</em> 去 咖啡店 找 你 。 <span class="pinyin">Wǒ yào xiān huí jiā bǎ dōngxi fàng xià, <em>zhīhòu</em> qù kāfēidiàn zhǎo nǐ.</span><span class="trans">I'm going to go home and drop my stuff off first, after that go to the cafe to look for you.</span>
+*去年 夏天 他 来 过 我 家 ，<em>之后</em> 再 也 没 见 过 他 。 <span class="pinyin">Qùnián xiàtiān tā lái guò wǒ jiā, <em>zhīhòu</em> zài yě méi jiàn guo tā.</span><span class="trans">Last summer, he came to my house. After that, I haven't seen him.</span>
+</div>
+
+== Common Mistakes with 以后 and 之后 ==
+
+In the following sentences, 以后 is not grammatical when it's not directly coupled with a time or event telling you ''after what''. 之后 can be used here to mean "after that."
+
+<div class="liju">
+<ul>
+<li class="x">我 六 点 下班 。 <em>以后</em>，我 去 跟 朋友 吃饭。<span class="pinyin">Wǒ liù diǎn xiàbān. <em> Yǐhòu</em>, wǒ qù gēn péngyou chīfàn.</span></li>
+<li class="o">我 六 点 下班 。 <em>之后</em>，我 去 跟 朋友 吃饭。<span class="pinyin">Wǒ liù diǎn xiàbān. <em>Zhīhòu</em>, wǒ qù gēn péngyou chīfàn.</span><span class="trans">I will get off work at six o'clock. After that, I will meet a friend for dinner.</span></li>
+</ul>
+
+<ul>
+<li class="o">昨天 <strong>我 跟 朋友 吃 完 饭</strong> <em>以后</em> 去 打 篮球 了 。<span class="pinyin">Zuótiān <strong>wǒ gēn péngyou chī wán fàn</strong> <em>yǐhòu</em> qù dǎ lánqiú le.</span></li>
+<li class="o">昨天 <strong>我 跟 朋友 吃 完 饭</strong> <em>之后</em> 去 打 篮球 了 。<span class="expl">When a time is specified, both are fine.</span><span class="pinyin">Zuótiān <strong>wǒ gēn péngyou chī wán fàn</strong> <em>Zhīhòu</em> qù dǎ lánqiú le.</span><span class="trans">Yesterday after finishing eating with my friends, we played basketball.</span></li>
+</ul>
+
+<ul>
+<li class="x">昨天 我 跟 朋友 去 吃饭 了 。 <em>以后</em>，我们 去 了 宠物店 。<span class="pinyin">Zuótiān wǒ gēn péngyou qù chīfàn le. <em>Yǐhòu</em>, wǒmen qù le chǒngwù diàn.</span></li>
+<li class="o">昨天 我 跟 朋友 去 吃饭 了 。 <em>之后</em>，我们 去 了 宠物店 。<span class="pinyin">Zuótiān wǒ gēn péngyou qù chīfàn le. <em>Zhīhòu</em>, wǒmen qù le chǒngwù diàn.</span><span class="trans">Yesterday I ate dinner with a friend. Afterward, we went to a pet shop.</span></li>
+</ul>
+</div>
+
+==See Also==
+
+*[[After a specific time]]
+*[[In the future in general]]
+*[[Before and after with "zhiqian" and "zhihou"]]
+*[[Comparing "yihou" and "houlai"]]
+
+[[Category:grammar comparison]]
+{{Basic Grammar|以后|B2|以后 vs. 之后|我 昨天 吃完 <em>以后</em> 去 了 超市 。之后 我 就 回家 了 。|grammar point|ASGC3SCN}}
+{{Rel char|之后}}
+{{Similar|In the future in general}}
+{{Similar|Before and after with "zhiqian" and "zhihou"}}
+{{Similar|After a specific time}}
+{{Used for|Expressing time and date}}
+{{Used for|Sequencing events in time}}
+{{Used for|Referring to the past}}
+{{Translation|later}}
+{{Translation|after}}
+{{Translation|afterwards}}
+{{Comparison|Time Words}}

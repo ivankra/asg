@@ -1,0 +1,77 @@
+<!-- Using the verb "xing" -->
+{{Grammar Box}} 
+
+The verb 姓 (xìng) literally means "to be surnamed" or "to have the surname." It may seem awkward at first that there's a verb just for this, but you'll find that it's used quite often in Chinese.
+
+== Giving One's Surname ==
+
+姓 (xìng) is used most often to tell someone your own surname ("family name" or "last name"), or to ask the surname of someone else.
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + 姓 + [Surname]
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我 <em>姓</em> 王。<span class="pinyin">Wǒ <em>xìng</em> Wáng.</span><span class="trans">My family name is Wang.</span>
+*你 老板 <em>姓</em> 李 吗？<span class="pinyin"> Nǐ lǎobǎn <em>xìng</em> Lǐ ma?</span><span class="trans">Is your boss's last name Li?</span>
+*那 个 帅哥 <em>姓</em> 张。<span class="pinyin">Nàge shuàigē <em>xìng</em> Zhāng.</span><span class="trans">That handsome guy's last name is Zhang.</span>
+*我 爸爸 <em>姓</em> 周，我 妈妈 <em>姓</em> 林 。<span class="pinyin">Wǒ bàba <em>xìng</em> Zhōu, wǒ māma <em>xìng</em> Lín.</span><span class="trans">My father's family name is Zhou. My mother's family name is Lin.</span>
+*他 女朋友 <em>姓</em> 钱。<span class="pinyin">Tā nǚpéngyou <em>xìng</em> Qián.</span><span class="trans">His girlfriend's last name is Qian.</span>
+*你好，我 <em>姓</em> 毛。<span class="pinyin">Nǐ hǎo, wǒ <em>xìng</em> Máo.</span><span class="trans">Hello. My last name is Mao.</span>
+*我 <em>姓</em> 赵，我 太太 也 <em>姓</em> 赵。<span class="pinyin">Wǒ <em>xìng</em> Zhào, wǒ tàitai yě <em>xìng</em> Zhào.</span><span class="trans">My last name is Zhao. My wife's last name is also Zhao.</span>
+*我 的 中文 老师 <em>姓</em> 陈。<span class="pinyin">Wǒ de Zhōngwén lǎoshī <em>xìng</em> Chén.</span><span class="trans">My Chinese teacher's surname is Chen.</span>
+*你 奶奶 也 <em>姓</em> 陈 吗 ？<span class="pinyin"> Nǐ nǎinai yě <em>xìng</em> Chén ma?</span><span class="trans">Is your grandma's family name also Chen?</span>
+*他们 都 <em>姓</em> 李。<span class="pinyin">Tāmen dōu <em>xìng</em> Lǐ.</span><span class="trans">All of their surnames are Li.</span>
+
+</div>
+
+== Asking Someone's Surname ==
+
+You can also use 姓 (xìng) to ask people their surnames. You could do this quite directly by saying:
+
+<div class="liju">
+
+* 你 姓 什么? <span class="pinyin">Nǐ xìng shénme?</span><span class="trans">What is your last name?</span>
+
+</div>
+
+However, the formal way to ask has a set form:
+
+<div class="liju">
+
+* 您 贵 姓 ？<span class="pinyin">Nín guì xìng?</span><span class="trans">What is your honorable surname?</span>
+
+</div>
+
+Literally this means "What is your honorable surname?" Use this form to be polite when asking people their surnames.
+
+==See also==
+
+*[[Using the verb "jiao"]]
+*[[Introducing people]]
+
+== Sources and further reading ==
+
+{{Source|HSK Standard Course 2|83}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|22-3}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|39}}
+{{Source|Chinese: An Essential Grammar, Second Edition|49}}
+
+[[Category:A1 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+[[Category:Verbs]]
+{{Used for|Introducing people}}
+{{Basic Grammar|姓|A1|姓 + Surname|你 <em>姓</em> 什么 ？|grammar point|ASGPS9NY}}
+{{Similar|Using the verb jiao}}
+{{Similar|Introducing people}}
+{{Rel char|姓}}
+{{POS|Verbs}}
+{{Subprop|Verbs}}
+{{Translation|call}}

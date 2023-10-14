@@ -1,0 +1,87 @@
+<!-- Expressing "no wonder" -->
+{{Grammar Box}} 
+怪不得 (guàibude) can be used to express that the speaker finds something unsurprising. It can be used alone or in a variety of different structures, as shown below. 难怪 (nánguài) is another way to express the exact same thing.
+
+== Emphasis on 怪不得 / 难怪 ==
+
+怪不得 is used to convey the speaker's newfound understanding of a situation, having recently acquired some new information that, in his opinion, explains it. 
+
+=== Structure ===
+
+<div class="jiegou">
+Reason ，怪不得 / 难怪 + [Observation]
+</div>
+
+怪不得 can be replaced with 难怪 in the structure without altering its meaning.
+
+=== Examples ===
+
+<div class="liju">
+
+*小张 请假 了，<em>怪不得</em> 今天 没有 看到 他 。<span class="pinyin">Xiǎo Zhāng qǐngjià le, <em>guàibude</em> jīntiān méiyǒu kàndào tā.</span><span class="trans">Little Zhang asked for vacation time, no wonder I haven't seen him today.</span>
+*天天 迟到 ，<em>怪不得</em> 他 被 炒鱿鱼 了 。<span class="pinyin">Tiāntiān chídào, <em>guàibude</em> tā bèi chǎoyóuyú le.</span><span class="trans">He's late for work every day. No wonder he got fired.</span>
+*她 是 你 妹妹 ？<em>难怪</em> 你们 长 得 这么 像 。<span class="pinyin">Tā shì nǐ mèimei? <em>Nánguài</em> nǐmen cháng de zhème xiàng.</span><span class="trans">She's your younger sister? No wonder you two look so much alike.</span>
+*你 手机 没电 了 ？<em>怪不得</em> 我 打 不 通 。<span class="pinyin">Nǐ shǒujī méi diàn le? <em>Guàibude</em> wǒ dǎ bu tōng.</span><span class="trans">Your cell phone is out of power? No wonder my call wouldn't go through.</span>
+*你 放 了 醋 ？<em>难怪</em> 这么 难吃 ！<span class="pinyin">Nǐ fàng le cù? <em>Nánguài</em> zhème nánchī!</span><span class="trans">You put vinegar in it? No wonder it tastes so bad!</span>
+
+</div>
+
+== Emphasis on 原来 ==
+
+=== Structure ===
+
+<div class="jiegou">
+怪不得 / 难怪 + [Observation] ，原来 (+ 是) + Reason
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>难怪</em> 学生 都 不 喜欢 这个 老师 ，<strong>原来</strong> 他 的 作业 太 多 了 。<span class="pinyin"><em>Nánguài</em> xuéshēng dōu bù xǐhuan zhège lǎoshī, <strong>yuánlái</strong> tā de zuòyè tài duō le.</span><span class="trans">No wonder the students don't like this teacher. He gives too much homework.</span>
+*<em>怪不得</em> 你们 这么 高兴 ，<strong>原来</strong> 是 要 结婚 了 。<span class="pinyin"><em>Guàibude</em> nǐmen zhème gāoxìng, <strong>yuánlái</strong> shì yào jiéhūn le.</span><span class="trans">No wonder you two look so happy. You are getting married.</span>
+*<em>难怪</em> 这里 人 这么 多 ，<strong>原来</strong> 在 打折 。<span class="pinyin"><em>Nánguài</em> zhèlǐ rén zhème duō, <strong>yuánlái</strong> zài dǎzhé.</span><span class="trans">No wonder there are so many people here. There's a sale going on.</span>
+*<em>怪不得</em> 她 拉肚子 ，<strong>原来</strong> 她 昨天 又 吃 火锅 了 。<span class="pinyin"><em>Guàibude</em> tā lādùzi, <strong>yuánlái</strong> tā zuótiān yòu chī huǒguō le.</span><span class="trans">No wonder she got a diarrhea. She went to eat hotpot again yesterday.</span>
+*<em>怪不得</em> 他 没 告诉 我 ，<strong>原来</strong> 是 不 想 让 我 担心 。<span class="pinyin"><em>Guàibude</em> tā méi gàosu wǒ, <strong>yuánlái</strong> shì bù xiǎng ràng wǒ dānxīn.</span><span class="trans">No wonder he hasn't told me. He doesn't want me to worry about this.</span>
+
+</div>
+
+== The Other Meaning of 难怪 ==
+
+This usage is definitely less common, but sometimes 难怪 is a combination of the [[Difficult to do something|难 + Verb]] pattern and the verb 怪, meaning "to blame." In this case, the meaning is totally different.  Although it's not as common, and you shouldn't need to worry about it too much, we include it here because if you ever run into and think that 难怪 can only ever have one meaning, it can totally throw you for a loop.
+
+A few examples:
+
+<div class="liju">
+
+*这 也 <em>难怪</em> 他 ，他 这么 小 。<span class="pinyin"> Zhè yě <em>nánguài</em> tā, tā zhème xiǎo.</span><span class="trans">We can't really blame him. He's so young.</span>
+*这 也 <em>难怪</em> 大家 ，是 我们 通知 晚 了 。<span class="pinyin">Zhè yě <em>nánguài</em> dàjiā, shì wǒmen tōngzhī wǎn le.</span><span class="trans">We can't really blame everybody. It was such short notice.</span>
+
+</div>
+
+When used in this way it expresses that the speaker assigns no blame in the situation he is describing. Sometimes the specific person undeserving of blame is mentioned directly after 难怪, but not always.
+
+== See also ==
+
+*[["All along" with "yuanlai"]]
+
+== Sources and further reading ==
+
+=== Books ===
+{{Source|现代汉语八百词（增订本）|239, 408}}
+{{Source|Integrated Chinese: Level 2, Part 1|199}}
+
+=== Dictionaries ===
+{{Source|现代汉语词典（第5版）|499, 981}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK5}}
+{{Basic Grammar|难怪|B1|Reason ，怪不得 / 难怪 + Observation |小张 请假 了，<em>难怪</em> 今天 没有 看到 他。|grammar point|ASGFPV2C}}
+{{Rel char|怪不得}}
+{{Rel char|难}}
+{{Rel char|怪}}
+{{Similar|Using "nanguai" as a verb}}  
+{{Similar|"All Along" with "yuanlai"}}
+{{Used for|Exclaiming}}
+{{Structure|Sentence Patterns}}
+{{Subprop|Complex Sentence Patterns}}

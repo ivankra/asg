@@ -1,0 +1,181 @@
+<!-- Comparing "fan'er" and “que" -->
+{{Grammar Box}} 
+
+Learning how to properly use 反而 (fǎn'ér) and 却 (què) may seem like a head ache, but it isn't! This article will help you out!
+
+== They are placed in different parts of the sentence ==
+
+反而 can be placed before or after the subject. 却 can only be placed after the subject. 
+
+
+=== Structure for 反而 ===
+
+<div class="jiegou">
+Subj. + 反而
+</div>
+<div class="jiegou">
+反而 + Subj. 
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 你 这么 做，效果 <em>反而</em> 不 好。<span class="trans">However you did it, the quality was no good.</span>
+* 你 这么 做，<em>反而</em>效果 不 好。<span class="trans">However you did it, the quality was no good.</span>
+</div>
+
+=== Structure for 却===
+
+<div class="jiegou">
+Subj. + 却
+</div>
+
+=== Examples ===
+
+<div class="liju">
+<ul>
+<li class="o">外面 下雨，我 <em>却</em> 没 带 伞。<span class="trans">It's raining outside, and I didn't bring an umbrella.</span> </li>
+<li class="x">外面 下雨，<em>却</em> 我 没 带 伞。</li>
+</ul>
+</div>
+
+== Both have different coverage ==
+
+反而 can point to any part of the sentence to make a turning point, and it often emphasizes the structure around 是. On the other hand, 却 can only make a turning point for the the whole sentence, in other words, it can only make a turning point for the predicate part of the sentence. 
+
+
+
+=== 反而 can change any part of the sentence===
+
+<div class="jiegou">
+反而 + Sentence
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* Chicago Bulls 没 赢 最后 一 场 比赛，<em>反而</em> 是 Knicks。<span class="trans">The Chicago Bulls didn't win their last game, but the Knicks did.</span>
+* 他们 都 觉得 Knicks 会 输 掉 最后 一 场 比赛，结果 他们 <em>反而</em> 赢 了。<span class="trans">They all thought the Knicks were going to lose the last game, but they won.</span>
+* 我 以为 Knicks 会 赢 第 一 场 比赛，结果 <em>反而</em> 是 最后 一 场。<span class="trans">I thought the Knicks would win the first game, but they won the last one.</span>
+</div>
+
+=== 却 only changes the whole sentence===
+
+<div class="jiegou">
+却 + Verb
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* Chicago Bulls 没 赢 最后 一 场 比赛，Knicks <em>却</em> 赢 了。<span class="trans">The Chicago Bulls didn't win their last game, but the Knicks did.</span>
+* 他们 都 觉得 Knicks 会 输 掉 最后 一 场 比赛，他们 <em>却</em> 赢 了。<span class="trans">They all thought the Knicks would lose the last game, but they won.</span>
+* 我 以为 Knicks 会 赢 第 一 场 比赛，他们 <em>却</em> 输 了。<span class="trans">I though the Knicks would win the first game, but they lost.</span>
+</div>
+
+== 反而 and 却 express different degrees ==
+
+Sentences with 反而 express a strong and sudden turn, possibly exceeding expectations. Sentences with 却 are just common turning points. 反而 could be a 180°degree turn, while 却 could be just a 90°.
+
+
+
+=== Examples ===
+
+<div class="liju">
+* 我 帮 了 他，他 <em>却</em> 不 高兴 了。<span class="expl">This is a normal turn of events.</span><span class="trans">I helped him, but he wasn't happy.</span>
+* 我 帮 了 他，他 <em>反而</em> 不 高兴 了。<span class="expl">The speaker thought the other person would be happy.</span><span class="trans">I helped him, but he wasn't happy.</span>
+</div>
+
+== Special structures ==
+
+Both of these often appear in set structures, as seen below:
+
+
+
+=== 不但没⋯⋯，反而 ===
+<div class="jiegou">
+不但没⋯⋯，反而⋯⋯
+</div>
+
+<div class="liju">
+* 我 帮 了 他 那么 多，他 <em>不但 没</em> 谢谢 我，<em>反而</em> 有 点 不 高兴。
+</div>
+
+=== 不但不⋯⋯，反而 ===
+<div class="jiegou">
+不但不⋯⋯，反而⋯⋯
+</div>
+
+<div class="liju">
+* 他 借 钱 <em>不但 不</em> 还，<em>反而</em> 还 不 承认。
+</div>
+
+=== 反而却/却反而 ===
+<div class="jiegou">
+⋯⋯，反而却/却反而⋯⋯ 
+</div>
+
+<div class="liju">
+* 他 离 这里 最 远，<em>反而 却</em>  第 一 个 到。
+* 他 离 这里 最 远，<em>却 反而</em> 第 一 个 到。
+</div>
+
+=== 却偏（偏）===
+<div class="jiegou">
+⋯⋯， 却偏（偏）⋯⋯
+</div>
+
+<div class="liju">
+* 我 告诉 他 要 下雨，他 <em>却 偏</em> 不 带 伞。
+* 我 告诉 他 要 下雨，他 <em>却 偏 偏</em> 不 带 伞。
+</div>
+
+=== 虽然⋯⋯却===
+<div class="jiegou">
+虽然⋯⋯却⋯⋯
+</div>
+
+<div class="liju">
+* <em>虽然</em> 我们 不 是 朋友，我 <em>却</em> 不 能 不 告诉 你。
+</div>
+
+=== 但（是）却===
+
+<div class="jiegou">
+⋯⋯， 但（是）却⋯⋯
+</div>
+
+<div class="liju">
+* 她 喜欢 吃 甜食，<em>但是 却</em> 从 不 吃 巧克力。<span class="trans">She likes to eat sweet things, but she doesn't eat chocolate.</span>
+* 她 喜欢 吃 甜食，<em>但 却</em> 从 不 吃 巧克力。<span class="trans">She likes to eat sweet things, but she doesn't eat chocolate.</span>
+</div>
+
+== Example dialog ==
+
+<div class="liju">
+* A: 他们都在提自己的建议，你<em>却</em>坐在那里不说话？<span class="trans">They are all trying to assert their opinions, but you're there not talking. Why?</span>
+* B: 我以前经常提建议，你没表扬我，<em>反而</em>说我话多。我只好不说了。<span class="trans">I used to bring them up a lot, but you didn't commend me for it. Instead you said I spoke too much, so now I don't speak.</span>
+</div>
+
+== See Also ==
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|现代汉语八百词（增订本）|199, 459}}
+
+{{Source|现代汉语虚词例释|172, 403|}}
+
+{{Source|HSK Standard Course 5上|30}}
+
+=== Dictionaries ===
+
+{{Source|现代汉语词典（第5版）|377}}
+
+[[Category: grammar comparison]]
+{{Basic Grammar|反而|C1|反而 vs 却|她<em>反而</em> 有点不高兴。他 <em>却</em> 没 带 伞。|grammar point|ASG0K25S}}
+{{Rel char|却}}
+{{Used for|Describing things}}
+{{Used for|Expressing attitude}}
+{{Comparison|Adverbs}}

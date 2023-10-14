@@ -1,0 +1,68 @@
+<!-- Comparing "genben" and "daodi" -->
+{{Grammar Box}} 
+
+The main differences between 根本 (gēnběn) and 到底 (dàodǐ) is that 根本 is used to emphasize negation and 到底 is used in a question to ask the result of something. 根本 can be used to emphasize a negative statement, 到底 cannot be used this way. 根本 is often used to emphasize sentences with 不 or 没(有). Using 根本 this way is a response to something stated beforehand. Using 到底 this way would be incorrect.
+
+== Use of 根本 ==
+
+根本 is used to emphasize negation.
+
+=== Examples ===
+
+<div class="liju">
+* 我 <em>根本</em> 不 知道 如何 有效 地 管理。<span class="trans">I just don't know how to manage effectively.</span>
+* 你 为什么 说 昨天 在 街上 看到 我 了？我 <em>根本</em> 没有 出去！<span class="trans">Why did say you saw me on the street yesterday? I didn't even go out!</span>
+* 他 只 是 一 个 小 孩子，<em>根本</em>  没 见 过 这么 吓人 的 事情。<span class="trans">He's just a small kid. He hasn't ever seen such scary stuff.</span>
+</div> 
+
+== Use of 到底 ==
+
+到底 is usually used with question words, 根本 is not。到底 implies some kind of inquiry, and actually it can be thought of as "on earth," as in "what on earth are you doing?" It always includes some kind of question word, such as 谁, 什么, 哪里, and so on, or it can even be used with [[Yes-no questions with "ma"|yes-no questions]].
+
+=== Examples ===
+
+<div class="liju">
+* 今天 新 同事 又 迟到 了，他 <em>到底</em> 想 不 想 在 这里 做 了？<span class="trans">The new co-worker came late again today. Does he want to work here or not?</span>
+* 你 的 包 这么 重！你 <em>到底</em> 带了 多少 东西？<span class="trans">Your bag is so heavy! How much stuff are you even carrying?</span>
+* 会议 已经 开 了 两个小时 了，我们 <em>到底</em> 什么时候 结束？<span class="trans">The meeting has already been going on for two hours. When on earth are we going to finish?</span></div>
+
+== Examples of right and wrong sentences ==
+
+<div class="liju">
+<ul>
+<li class="x">我 <em>到底</em> 不知道 为什么 我 女朋友 很 生气。 <span class="expl">"到底" is normally used for questions.</span></li> 
+<li class="o">我 <em>根本</em> 不知道 为什么 我 女朋友 很 生气。<span class="expl">"根本" emphasizes the negation.</span> </li> 
+</ul>
+</div>
+
+<div class="liju">
+<ul>
+<li class="x">他 <em>到底</em> 没有 听 我 的 话。<span class="expl">"到底" is normally used for questions.</span> </li> 
+<li class="o">他 <em>根本</em> 没有 听 我 的 话。<span class="expl">"根本" emphasizes the negation.</span> </li> 
+</ul>
+</div>
+
+<div class="liju">
+<ul>
+<li class="x">老板 还 没有 透露 我们 <em>根本</em> 能 发 多少 奖金.<span class="expl">"根本" should be used with negations</span> </li>
+<li class="o">老板 还 没有 透露 我们 <em>到底</em> 能 发 多少 奖金.<span class="expl">"到底" is used to emphasize the speaker's impatience.</span> </li>
+</ul>
+</div>
+
+<div class="liju">
+<ul>
+<li class="x">那么，你们 <em>根本</em> 为什么 不 喝酒 呢？<span class="expl">"根本" should be used to emphasize the negation, not the question.</span></li>
+<li class="o">那么，你们 <em>到底</em> 为什么 不 喝酒 呢？<span class="expl">"到底" emphasizes the question.</span></li>
+</ul>
+</div>
+
+== Sources and further reading ==
+=== Books ===
+* [[Practicing HSK Grammar (语法精讲精炼)]] (p.34) [http://www.amazon.cn/mn/detailApp/ref=as_li_ss_tl?_encoding=UTF8&tag=allset-23&linkCode=as2&asin=B001N6R7DI&camp=536&creative=3132&creativeASIN=B001N6R7DI →buy]
+* [[Boya Chinese Lower Intermediate 1 (博雅汉语准中级加速篇)]](p.90) [http://www.amazon.com/gp/product/7301075308/ref%3das_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=7301075308 →buy]
+* [[Boya Chinese Lower Intermediate 2 (博雅汉语准中级加速篇)]]（p.183) [http://www.amazon.com/gp/product/B00112ZL5A/ref%3das_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=B00112ZL5A →buy]
+* [[Integrated Chinese: Level 2, Part 1]] (pp. 197-8) [http://www.amazon.com/gp/product/0887276792/ref%3das_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0887276792 →buy][[Category:grammar comparison]]
+{{Basic Grammar|根本|C1|根本 vs 到底|我 <em>根本</em> 不知道 女朋友 为什么 生气。我们 <em>到底</em> 什么时候 结束？|grammar point|ASG9JK0B}}
+{{Rel char|根本}}
+{{Rel char|到底}}
+{{Comparison|Adverbs}}

@@ -1,0 +1,60 @@
+<!-- Expressing "to make certain" with "qianwan" -->
+{{Grammar Box}} 
+千万 (qiānwàn) looks like a number ("thousand ten thousand"?) but it actually means "to make certain." It is more common in the negative form, but is also used in the positive. It really adds a kick to your sentence!
+
+== Structure ==
+
+千万 usually starts the imperative sentence or phrase, and it is usually paired with 要, 不能, 别 or similar types of words. You can use 千万 with sentences that are commanding someone not do do something, or you can tell them to do something. 
+
+<div class="jiegou">
+千万 + Verb / Verb Phrase
+</div>
+
+== 千万 with "Don't" ==
+
+The following examples use 千万 in the negative to '''strongly''' command someone ''not'' to do something.
+
+=== Examples ===
+
+<div class="liju">
+* 这 个 菜 很 难吃，<em>千万</em> <strong>不要</strong> 点！ <span class="pinyin">Zhège cài hěn nánchī, <em>qiānwàn</em> <strong>bùyào</strong> diǎn!</span><span class="trans"> This dish is horrible. Make sure you don't order it!</span>
+* 那里 太 危险 了，<em>千万</em> <strong>不要</strong> 去！ <span class="pinyin">Nàlǐ tài wēixiǎn le, <em>qiānwàn</em> <strong>bùyào</strong> qù!</span><span class="trans">It's too dangerous there. Whatever you do, don't go!</span>
+* 他们 的 产品 是 假 的，你 <em>千万</em> <strong>不要</strong> 买！ <span class="pinyin">Tāmen de chǎnpǐn shì jiǎ de, nǐ <em>qiānwàn</em> <strong>bùyào</strong> mǎi!</span><span class="trans">Their products are fake. DO NOT buy them!</span>
+* 他 不 是 什么 好人，<em>千万</em> <strong>不要</strong> 相信 他！ <span class="pinyin">Tā bù shì shénme hǎorén, <em>qiānwàn</em> <strong>bùyào</strong> xiāngxìn tā!</span><span class="trans">He is not a good person, you really can't believe him!</span>
+* 孩子 有 错，父母 可以 教育 他， 但 <em>千万</em> <strong>不 能</strong> 打 孩子。 <span class="pinyin">Háizi yǒu cuò, fùmǔ kěyǐ jiàoyù tā, dàn <em>qiānwàn</em> <strong>bù néng</strong> dǎ háizi.</span><span class="trans">When a child does wrong, parents can teach them. But they really mustn't beat them!</span>
+</div>
+
+== 千万 with "Do" ==
+
+The following examples use 千万 to '''strongly''' command someone to ''do'' something.
+
+=== Examples ===
+
+<div class="liju">
+* 过 马路 <em>千万</em> <strong>要</strong> 小心。<span class="pinyin">Guò mǎlù <em>qiānwàn</em> <strong>yào</strong> xiǎoxīn.</span><span class="trans">When crossing the street, you really must careful!</span>
+* 这 句 话 你 <em>千万</em> <strong>要</strong> 记 在 心里。<span class="pinyin">Zhè jù huà nǐ <em>qiānwàn</em> <strong>yào</strong> jì zài xīnlǐ.</span><span class="trans">You must memorize this phrase by heart!</span>
+* 一个人 去 旅行 <em>千万</em> <strong>要</strong> 注意 安全。<span class="pinyin">Yīgèrén qù lǚxíng <em>qiānwàn</em> <strong>yào</strong> zhùyì ānquán.</span><span class="trans">When traveling alone, you really must pay attention to safety!</span>
+* 出门 以前 <em>千万</em> <strong>要</strong> 把 门 锁 好。<span class="pinyin">Chūmén yǐqián <em>qiānwàn</em> <strong>yào</strong> bǎ mén suǒ hǎo.</span><span class="trans">Before leaving make absolute sure to lock the door!</span>
+* 雨天 路 滑， <em>千万</em> <strong>要</strong> 开 慢 点。<span class="pinyin">Yǔtiān lù huá, <em>qiānwàn</em> <strong>yào</strong> kāi màn diǎn.</span><span class="trans">The rain makes the road slick. You really must drive slowly!</span>
+</div>
+
+==See also==
+
+* [[Comparing "kending" "queding" and “yiding"]]
+
+== Sources and  further  reading ==
+
+=== Books ===
+{{Source|HSK Standard Course 4下|61}}
+* [[Integrated Chinese: Level 2, Part 2]](P.95) [http://www.amazon.com/gp/product/0887276881/ref=as_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0887276881 →buy]
+* [[Practicing HSK Grammar (语法精讲精炼)]](P.42) [http://www.amazon.cn/mn/detailApp/ref=as_li_ss_tl?_encoding=UTF8&tag=allset-23&linkCode=as2&asin=B001N6R7DI&camp=536&creative=3132&creativeASIN=B001N6R7DI →buy]
+* [[现代汉语八百词]](P.447) [http://www.amazon.cn/mn/detailApp?_encoding=UTF8&tag=allset-23&linkCode=as2&asin=B001198GSW&camp=536&creative=3132&creativeASIN=B001198GSW →buy]
+
+[[Category: B2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|千万|B2|千万 + Verb/Verb Phrase|<em>千万</em> 别 泄露 出 去。|grammar point|ASGIVGZO}}
+{{Rel char|千}}
+{{Rel char|万}}
+{{POS|Adverbs}}
+{{Used for|Giving commands}}
+{{Translation|certain}}

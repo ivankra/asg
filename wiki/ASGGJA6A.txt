@@ -1,0 +1,54 @@
+<!-- Expressing "to be worth" doing with "zhide" -->
+{{Grammar Box}} 
+值得 (zhídé) means "to be worth" ''doing'' something, and is often placed before a verb or a verb phrase. Note that it is used to describe whether an action is worth it and cannot be used to state that something is worth a certain monetary value. For that 值 must be used on its own.
+  
+==值得 as an Adverb==
+
+===Structure===
+
+<div class="jiegou">
+值得 + Verb / Verb Phrase
+</div>
+
+===Examples===
+
+<div class="liju">
+* 巴金 的 散文 很 <em>值得</em> 一 看 。<span class="pinyin">Bājīn de sǎnwén hěn <em>zhídé</em> yī kàn.</span><span class="trans"> Ba Jin's prose deserves a look.</span>
+* 虽然 不 容易，但是 <em>值得</em> 去 尝试。<span class="pinyin">Suīrán bù róngyì, dànshì <em>zhídé</em> qù chángshì.</span><span class="trans">It's not easy, but it's worth a try.</span>
+* 雷锋 助人为乐 的 精神 <em>值得</em> 我们 学习。<span class="pinyin">Léifēng zhùrénwéilè de jīngshén <em>zhídé</em> wǒmen xuéxí.</span><span class="trans">The spirit of altruism merits some study.</span>
+* 这 件 小事 不 <em>值得</em> 你 担心。<span class="pinyin">Zhè jiàn xiǎo shì bù <em>zhídé</em> nǐ dānxīn.</span><span class="trans">This little thing isn't worth your time.</span>
+* 这个 房子 不 <em>值得</em> 投资。<span class="pinyin">Zhège fángzi bù <em>zhídé</em> tóuzī.</span><span class="trans">This house is not worth investing in.</span>
+</div>
+
+==值得 as a Predicate==
+
+值得 can also be used as a predicate all by itself, or following a verb phrase. 
+
+===Structure===
+
+<div class="jiegou">
+(Verb Phrase +) 值得
+</div>
+
+===Examples===
+
+<div class="liju">
+*<em>值得</em> 吗？ <em>值得</em>。<span class="pinyin"><em>Zhídé</em> ma? <em>Zhídé</em>.</span><span class="trans">Is it worth it? Yes. It's worth it.</span>
+*上 大学 很 <em>值得</em>。<span class="pinyin">Shàng dàxué hěn <em>zhídé</em>.</span><span class="trans">Going to college is really worth it.</span>
+*学 汉语 是 <em>值得</em> 的。<span class="pinyin">Xué Hànyǔ shì <em>zhídé</em> de.</span><span class="trans">Studying Chinese is worth it.</span>
+*你 觉得 做 什么 事情 是 <em>值得</em> 的？<span class="pinyin">Nǐ juéde zuò shénme shìqing shì <em>zhídé</em> de?</span><span class="trans">What do you think is worth doing?</span>
+*没有 什么 是 <em>值得</em> 的。<span class="pinyin">Méiyǒu shénme shì <em>zhídé</em> de.</span><span class="trans">Nothing is worth it.</span>
+</div>
+
+==Sources and Further Reading==
+
+{{Source|HSK Standard Course 4上|70}}
+{{Source|现代汉语八百词|677-678}}
+
+[[Category: B2 grammar points]]
+{{HSK|HSK4}}
+[[Category: Verbs]]
+{{Basic Grammar|值得|B2|值得 + Verb|这个 想法 不错 ， <em>值得</em> 考虑 。|grammar point|ASGGJA6A}}
+{{POS|Verbs}}
+{{Used for| Expressing quality}}
+{{Subprop|Verb phrases}}

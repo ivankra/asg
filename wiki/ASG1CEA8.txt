@@ -1,0 +1,49 @@
+<!-- Expressing "to come from" with "laizi" -->
+{{stub}}
+{{Grammar Box}}
+
+来自 (láizì) is used to express the origin of something or someone. Its meaning is similar to "to come from" in English. 
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + 来自 + Place 
+
+</div>
+
+=== Examples ===
+
+You can see that in some of the sentences below dealing with ideas and other abstract nouns, a translation like "originate from" may be more appropriate.
+
+<div class="liju">
+
+* 我 <em>来自</em> 中国 。 <span class="pinyin">Wǒ <em>láizì</em> Zhōngguó.</span><span class="trans">I come from China.</span>
+* 这些 书 都 <em>来自</em> 日本 。 <span class="pinyin"> Zhèxiē shū dōu <em>láizì</em> Rìběn.</span><span class="trans">These books all come from Japan.</span>
+* 我们 公司 的 客户 <em>来自</em> 美国 。 <span class="pinyin">Wǒmen gōngsī de kèhù <em>láizì</em> Měiguó.</span><span class="trans">Our company's clients come from the USA.</span>
+* 我的 这个 想法 <em>来自</em> 生活 。 <span class="pinyin">Wǒ de zhège xiǎngfǎ <em>láizì</em> shēnghuó.</span><span class="trans">This idea of mine originated from daily life.</span>
+* 这 是 <em>来自</em> 政府 的 报告 。 <span class="pinyin">Zhè shì <em>láizì</em> zhèngfǔ de bàogào.</span><span class="trans">This is a report from the government.</span>
+* 有 些 坏 习惯 <em>来自</em> 迷信 。 <span class="pinyin">Yǒu xiē huài xíguàn <em>láizì</em> míxìn.</span><span class="trans">There are some bad habits that originate from superstition.</span>
+* 小明 的 成功 <em>来自</em> 他的 努力 和 认真 。 <span class="pinyin">Xiǎo Míng de chénggōng <em>láizì</em> tā de nǔlì hé rènzhēn.</span><span class="trans">Xiao Ming's success stems from his hard work and earnestness.</span>
+* 听 了 <em>来自</em> 教授 的 建议 ， 我 决定 去 上海 。 <span class="pinyin">Tīng le <em>láizì</em> jiàoshòu de jiànyì, wǒ juédìng qù Shànghǎi.</span><span class="trans">After listening to the suggestion from the professor, I decided to go to Shanghai.</span>
+* 我 和 Tom 虽然 <em>来自</em> 不同 的 国家 ， 但是 我们 是 好 朋友 。 <span class="pinyin">Wǒ hé Tom suīrán <em>láizì</em> bùtóng de guójiā, dànshì wǒmen shì hǎo péngyou.</span><span class="trans">Although Tom and I come from different countries, we're good friends.</span>
+* 我 设计 的 这 副 作品 <em>来自</em> 小王 的 启发 。 <span class="pinyin">Wǒ shèjì de zhè fù zuòpǐn <em>láizì</em> Xiǎo Wáng de qǐfā.</span><span class="trans">This piece I designed was inspired by Xiao Wang.</span>
+
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Anything Goes (无所不谈)|63, 107, 237}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK4}}
+{{Used for|Expressing to come from}}
+{{Basic Grammar|来自|B1|Subj. + 来自 + Place |我 <em>来自</em> 美国。|grammar point|ASG1CEA8}}
+{{Rel char|来}}
+{{Similar|Expressing "from… to…" with "cong… dao…"}}   
+{{Translation|to come from}}
+{{Translation|come}}
+{{Translation|from}}
+{{POS|Verbs}}

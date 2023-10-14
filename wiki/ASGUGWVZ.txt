@@ -1,0 +1,66 @@
+<!-- Using the verb "jiao" -->
+{{Grammar Box}} 
+
+The verb 叫 (jiào) is used to indicate what someone or something is called, or what someone or something's name is. Its usage can seem a little weird to beginners, so it gets its own grammar point.
+
+== Structure ==
+
+The verb 叫 (jiào) means both "to call" and "to be called." It's an easy way to give names, using the following structure:
+
+<div class="jiegou">
+
+Subj. + 叫 + [Name]
+
+</div>
+
+This can be used to give your full name or just your first name.
+
+== Examples ==
+
+<div class="liju">
+
+* 我 <em>叫</em> Tom。<span class="expl">Note: it even works if you don't have a Chinese name!</span><span class="pinyin">Wǒ <em>jiào</em> Tom.</span><span class="trans">My name is Tom.</span>
+* 他 <em>叫</em> 李小龙。<span class="expl">Note: this is the real name of Bruce Lee</span><span class="pinyin">Tā <em>jiào</em> Lǐ Xiǎolóng.</span><span class="trans">His name is Li Xiaolong.</span>
+* 我 哥哥 <em>叫</em> 老马 。<span class="expl">Note: this is probably not his real name</span><span class="pinyin">Wǒ gēge <em>jiào</em> Lǎo Mǎ.</span><span class="trans">My brother is called Lao Ma.</span>
+* 那 个 <em>叫</em> 什么？<span class="pinyin">Nàge <em>jiào</em> shénme?</span><span class="trans">What is that called?</span>
+* 这 个 美女 <em>叫</em> Alana。<span class="pinyin">Zhège měinǚ <em>jiào</em> Alana.</span><span class="trans">This pretty girl is named Alana.</span>
+* 我们 的 老板 <em>叫</em> John。<span class="pinyin">Wǒmen de lǎobǎn <em>jiào</em> John.</span><span class="trans">Our boss is named John.</span>
+* 我 的 狗 <em>叫</em> Max。<span class="pinyin">Wǒ de gǒu <em>jiào</em> Max.</span><span class="trans">My dog is called Max.</span>
+* 这 种 手机 <em>叫</em> iPhone。<span class="pinyin">Zhè zhǒng shǒujī <em>jiào</em> iPhone.</span><span class="trans">This kind of cell phone is called an iPhone.</span>
+* 你 爸爸 <em>叫</em> 什么？<span class="pinyin"> Nǐ bàba <em>jiào</em> shénme?</span><span class="trans">What is your dad's name?</span>
+* 这 个 地方 <em>叫</em> 外滩。<span class="pinyin">Zhège dìfang <em>jiào</em> Wàitān.</span><span class="trans">This place is called the Bund.</span>
+</div>
+
+You can also ask people their names using 叫 (jiào):
+
+<div class="liju">
+
+* 你 <em>叫</em> 什么 名字 ？<span class="pinyin">Nǐ <em>jiào</em> shénme míngzi?</span><span class="trans">What's your name? </span>
+
+</div>
+
+==See also==
+
+*[[Using the verb "xing"]]
+*[[Introducing people]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|14}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|24-5}}
+{{Source|现代汉语八百词（增订本）]]  |303}}
+{{Source|Chinese: An Essential Grammar, Second Edition|49}}
+
+[[Category:A1 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+[[Category:Verbs]]
+{{Used for|Introducing people}}
+{{Basic Grammar|叫|A1|叫 + Name|你 <em>叫</em> 什么 名字 ？|grammar point|ASGUGWVZ}}
+{{Similar|Using the verb "xing"}} 
+{{Similar|Introducing people}}
+{{Similar|Causative verbs}}    
+{{POS|Verbs}}
+{{Subprop|Verbs}}
+{{Translation|call}}

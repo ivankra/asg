@@ -1,0 +1,79 @@
+<!-- Expressing "should" with "yinggai" -->
+{{Grammar Box}} 
+
+应该 (yīnggāi) translates to the English word "should," and is an essential word to know for your conversaitonal Chinese. You ''should'' definitely get comfortable using 应该 (yīnggāi) right away!
+
+== Basic Usage ==
+
+=== Structure ===
+
+The [[auxiliary verb]] 应该 (yīnggāi) is the most common way to express "should" in Chinese. The structure is:
+
+<div class="jiegou">
+
+Subj. + 应该 + Verb + Obj.
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 在 中国， 你 <em>应该</em> 喝 白酒。 <span class="pinyin">Zài Zhōngguó, nǐ <em>yīnggāi</em> hē báijiǔ.</span><span class="trans">In China, you should drink baijiu.</span>
+* 我 <em>应该</em> 给 你 多少 钱？<span class="pinyin">Wǒ <em>yīnggāi</em> gěi nǐ duōshao qián? </span><span class="trans">How much money should I give you? </span>
+* 感冒 的 时候 <em>应该</em> 喝 热水。 <span class="pinyin">Gǎnmào de shíhou <em>yīnggāi</em> hē rè shuǐ.</span><span class="trans">You should drink hot water when you have a cold.</span>
+* 明天 你 <em>应该</em> 八 点 半 来 公司。 <span class="pinyin">Míngtiān nǐ <em>yīnggāi</em> bādiǎn bàn lái gōngsī.</span><span class="trans">You should come to the office tomorrow at 8:30.</span>
+* 他 太 累 了，<em>应该</em> 回家 休息。<span class="pinyin">Tā tài lèi le, <em>yīnggāi</em> huíjiā xiūxi.</span><span class="trans">He's too tired. He should go home and rest.</span>
+
+</div>
+
+== Negate 应该 (yīnggāi) with 不 (bù) ==
+
+=== Structure ===
+
+Add the [[Standard negation with "bu"|negative adverb 不]] (bù) before 应该 (yīnggāi) to negate it.
+
+<div class="jiegou">
+
+Subj. + 不 + 应该 + Verb + Obj.
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 你 <em>不 应该</em> 告诉 他。 <span class="pinyin">Nǐ <em>bù yīnggāi</em> gàosu tā.</span><span class="trans">You should not tell him.</span>
+* 他 <em>不 应该</em> 打 人。<span class="pinyin">Tā <em>bù yīnggāi</em> dǎ rén.</span><span class="trans">He should not hit people.</span>
+* 我们 <em>不 应该</em> 迟到。<span class="pinyin">Wǒmen <em>bù yīnggāi</em> chídào.</span><span class="trans">We shouldn't be late.</span>
+* 你们 <em>不 应该</em> 笑 她。<span class="pinyin">Nǐmen <em>bù yīnggāi</em> xiào tā.</span><span class="trans">You shouldn't laugh at her.</span>
+* 你们 <em>不 应该</em> 拿 别人 的 东西。<span class="pinyin">Nǐmen <em>bù yīnggāi</em> ná biérén de dōngxi.</span><span class="trans">You should not take other people's stuff.</span>
+
+</div>
+
+==See Also==
+
+*[["Must" modal "dei"]]
+*[["Would like to" with xiang]]
+*[[Wanting to do something with yao]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|160-1}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)|185-7}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK3}}
+{{Used for|Expressing obligations}}
+{{Basic Grammar|应该|A2|应该 / 该 + Verb |你 <em>应该</em> 工作。|grammar point|ASGV01X9}}
+{{Rel char|该}}
+{{Similar|"Must" modal "dei"}}
+{{Similar|"Would like to" with xiang}} 
+{{Similar|Wanting to do something with "yao"}}
+{{Similar|"Had better" with "haishi"}}
+{{Similar|Expressing "had better" with "zuihao"}}
+{{POS|Verbs}}
+{{Subprop|Auxiliary verbs}}
+{{Translation|should}}

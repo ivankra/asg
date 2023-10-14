@@ -1,0 +1,50 @@
+<!-- Using "nanguai" as a verb -->
+{{Grammar Box}} 
+难怪 (nán guài) can mean "[[Expressing "no wonder"|no wonder]]," but when used as a verb can be translated as "hard to blame," a much more literal application. This phrase is usually directed at a person, and it is similar to how in English we may say, "he's always sleepy, but you can't blame him because he works a night shift." 
+
+==难怪 as a Verb==
+
+When used as a verb, 难怪 expresses that the speaker assigns no blame in the situation. Most often a person is placed after 难怪.
+
+==Structure==
+
+<div class="jiegou">
+难怪 + [Specific Person / People] ……
+</div>
+
+==Examples==
+
+<div class="liju">
+* 他 迟到 了 ， 这 也 <em>难怪</em>。 今天 地铁 坏 了 。<span class="pinyin">Tā chídào le, zhè yě <em>nánguài</em>. Jīntiān dìtiě huài le.</span><span class="trans">He's late, but we can't blame him for that. The subway broke down today.</span>
+* <em>难怪</em> 他，他 还 是 个 孩子 呢，什么 都 不 懂。<span class="pinyin"><em>Nánguài</em> tā, tā háishì gè háizi ne, shénme dōu bù dǒng.</span><span class="trans">Don't blame him, he's just a child. He doesn't know any better.</span>
+* 这 也 <em>难怪</em> 你，第一 次 到 这 个 地方 还 不 了解 这里 的 风俗。<span class="pinyin">Zhè yě <em>nánguài</em> nǐ, dì-yī cì dào zhège dìfang hái bù liǎojiě zhèlǐ de fēngsú.</span><span class="trans">No one can blame you for this. It's your first time in this place, and you aren't familiar with the local customs.</span>
+* 这 也 <em>难怪</em>，他 刚 来 嘛 ， 算了 算了 。<span class="pinyin">Zhè yě <em>nánguài</em>, tā gāng lái ma, suànle suànle.</span><span class="trans">Don't blame him. He just got here, let's just forget about it.</span>
+* 这 也 <em>难怪</em>，他 已经 七十 岁 了，不 适合 做 高 强度 的 运动 。<span class="pinyin">Zhè yě <em>nánguài</em>, tā yǐjīng qīshí suì le, bù shìhé zuò gāo qiángdù de yùndòng.</span><span class="trans">We can't blame him. He is already seventy years old and is not suitable for high-intensity exercise.</span>
+* 孩子 把 爸爸 最 喜欢 的 花瓶 打 碎 了，也 <em>难怪</em> 爸爸 为什么 这么 生气 了。<span class="pinyin">Háizi bǎ bàba zuì xǐhuan de huāpíng dǎ suì le, yě <em>nánguài</em> bàba wèishénme zhème shēngqì le.</span><span class="trans">The child smashed his father's favorite vase. You can't blame the father for getting so angry.</span>
+* 如果 你 一定 要 晚上 弹 钢琴 ，那 就 <em>难怪</em> 邻居 抱怨 你。<span class="pinyin">Rúguǒ nǐ yīdìng yào wǎnshang tán gāngqín, nà jiù <em>nánguài</em> línjū bàoyuàn nǐ.</span><span class="trans">If you insist on playing the piano at night, you cna't blame the neighbors for complaining about you.</span>
+* 你 也 太 不 爱 说话 了，<em>难怪</em> 你 老婆 说 和 你 说话 真 是 浪费 时间 。<span class="pinyin">Nǐ yě tài bù ài shuōhuà le, <em>nánguài</em> nǐ lǎopo shuō hé nǐ shuōhuà zhēn shì làngfèi shíjiān.</span><span class="trans">You're not much of a talker. You can't blame your wife for for saying that talking to you is a total waste of time.</span>
+* 本来 这 道 题 就 有 争议，也 <em>难怪</em> 学生 答 错 了。<span class="pinyin">Běnlái zhè dào tí jiù yǒu zhēngyì, yě <em>nánguài</em> xuéshēng dā cuò le.</span><span class="trans">This question was always controversial, so you cna't blame the students for getting it wrong.</span>
+* 你 把 给 他的 礼物 给了 别人，也 <em>难怪</em> 他 不 高兴 了。 <span class="pinyin">Nǐ bǎ gěi tā de lǐwù gěi le biérén, yě <em>nánguài</em> tā bù gāoxìng le.</span><span class="trans">You gave the gift that was supposed to be for him to someone else. You can't blame him for being unhappy.</span>
+</div>
+
+You can see how for some of these examples it wouldn't hard to use a "no wonder" translation. There is definitely a connection between this literal usage and the [[Expressing "no wonder"|idiomatic "no wonder" usage]].
+
+==See also==
+
+*[[Expressing "no wonder" using "nanguai"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|现代汉语八百词（增订本）|239, 408}}
+
+=== Dictionaries ===
+
+{{Source|现代汉语词典（第5版）|499, 981}}
+
+[[Category:B2 grammar points]]
+{{Basic Grammar|难怪|B2|难怪 + Specific Person / People ……|<em>难怪</em> 他，他还是个孩子呢，什么都不懂。|grammar point|ASGYKH5G}}
+{{Similar|Expressing "no wonder"}}  
+{{Used for|Expressing attitude}}
+{{POS|Verbs}}

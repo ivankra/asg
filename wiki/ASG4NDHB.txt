@@ -1,0 +1,53 @@
+<!-- Using "youde" to mean "some" -->
+{{Grammar Box}} 
+
+To refer to just ''certain'' members of group, you can use 有的 (yǒude). This usage is normally translated as "[[some]]" in English. It is often used multiple times in one sentence to refer to different groups.
+
+== Structure ==
+
+All you need to do is put 有的 (yǒude) before the nouns there are "some of" in the sentence. If there is already some context, you can omit the subject, and the 有的 (yǒude) can just mean "some" instead of "some of something."
+
+<div class="jiegou">
+
+有的 + (Subj.) + Predicate， 有的 + (Subj.) + Predicate
+
+</div>
+
+Also, you aren't limited to just two 有的 (yǒude) in the sentence. You can have multiple groups doing different things, and just precede them with a 有的 (yǒude) each time.
+
+== Examples ==
+
+<div class="liju">
+* 外国人 <em>有的</em> 很 有钱， <em>有的</em> 没钱。 <span class="pinyin">Wàiguó rén <em>yǒude</em> hěn yǒuqián, <em>yǒude</em> méi qián.</span><span class="trans">Some foreigners are rich, but some aren't.</span>
+* 我们 公司 有 一些 电脑， <em>有的</em> 是 新的，<em>有的</em> 是 旧的。 <span class="pinyin">Wǒmen gōngsī yǒu yīxiē diànnǎo, <em>yǒude</em> shì xīn de, <em>yǒude</em> shì jiù de.</span><span class="trans">Our company has some computers. Some are new, and some are old.</span>
+* 他 写 了 很多 书，<em>有的</em> 卖 得 很好， <em>有的</em> 卖 得 不好。 <span class="pinyin">Tā xiě le hěn duō shū,  <em>yǒude</em> mài de hěn hǎo, <em>yǒude</em> mài de bù hǎo.</span><span class="trans">He has written a lot of books. Some sell well, but some don't.</span>
+* 中国菜 <em>有的</em> 好吃，<em>有的</em> 不 好吃。 <span class="pinyin">Zhōngguó cài <em>yǒude</em> hāochī, <em>yǒude</em> bù hāochī.</span><span class="trans">Some Chinese foods are tasty, while some aren't.</span>
+* 这 家 店 的 衣服 <em>有的</em> 贵 ， <em>有的</em> 便宜 。 <span class="pinyin">Zhè jiā diàn de yīfu <em>yǒude</em> guì, <em>yǒude</em> piányi.</span><span class="trans">In this shop, some of the clothes are expensive and some are cheap.</span>
+* 他 有 很 多 房子， <em>有的</em> 在 国内， <em>有的</em> 在 国外。 <span class="pinyin">Tā yǒu hěn duō fángzi, <em>yǒude</em> zài guónèi, <em>yǒude</em> zài guówài.</span><span class="trans">He has a lot of houses, some of them are within the country and some are abroad.</span>
+* 晚上 六点 以后，<em>有的</em> 人 下班了， <em>有的</em> 人 在 加班。 <span class="pinyin">Wǎnshang liùdiǎn yǐhòu, <em>yǒude</em> rén xiàbān le, <em>yǒude</em> rén zài jiābān.</span><span class="trans">After six o'clock some people are off work, while some are still working.</span>
+* 我 的 大学 老师 <em>有的</em> 很 年轻， <em>有的</em> 很 老。 <span class="pinyin">Wǒ de dàxué lǎoshī <em>yǒude</em> hěn niánqīng, <em>yǒude</em> hěn lǎo.</span><span class="trans">Some of my college teachers are young, some are old.</span>
+* 酒吧里， <em>有的</em>人 在 喝酒 ， <em>有的</em>人 在 跳舞 ， 还 <em>有的</em>人 在 聊天 。 <span class="pinyin">Jiǔbā lǐ, <em>yǒude</em> rén zài hējiǔ, <em>yǒude</em> rén zài tiàowǔ, hái <em>yǒude</em> rén zài liáotiān.</span><span class="trans">In the bar, some people are drinking, some are dancing, and some are chatting.</span>
+* 因为 工作，我 认识 了 很 多 人 ， <em>有的</em> 是 大学老师， <em>有的</em> 是 CEO。 <span class="pinyin">Yīnwèi gōngzuò, wǒ rènshi le hěn duō rén, <em>yǒude</em> shì dàxué lǎoshī, <em>yǒude</em> shì CEO.</span><span class="trans">I know a lot of people because of my work. Some are college teachers and some are CEOs.</span>
+
+</div>
+
+==See also==
+*[[Expressing "some" with "yixie"]]
+
+==Sources and Further Reading==
+
+===Books===
+
+{{Source|Integrated Chinese: Level 2, Part 2|120}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|有的|A2|有的 + Noun|派对的时候，<em>有的</em>人在喝酒，<em>有的</em>人在跳舞，还<em>有的</em>人在聊天。|grammar point|ASG4NDHB}}
+{{Rel char|有}}
+{{Rel char|的}}
+{{Similar|Expressing "a little too" with "you dian"}}
+{{Similar|Expressing "some" with "yixie"}}
+{{Similar|Using "ji" to mean "several"}}
+{{Structure|Noun Phrases}}
+{{Used for| Expressing quantity}}
+{{Translation|some}}

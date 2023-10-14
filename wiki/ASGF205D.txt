@@ -1,0 +1,75 @@
+<!-- Expressing "each other" with "bici" -->
+{{Grammar Box}} 
+彼此 (bǐcǐ) is a personal pronoun. 彼 (bǐ) is an archaic word meaning 那 (nà) or "that," and 此 (cǐ) means 这 (zhè) or "this." Therefore, 彼此 (bǐcǐ) literally means "that and this," and is used in modern times to mean "you and me".
+
+== Basic Usage as Subject or Object ==
+
+=== Structure ===
+
+As a personal pronoun, 彼此 (bǐcǐ) is often used as a subject. When used as an object, the verb must be disyllabic and is quite formal in tone.
+
+<div class="jiegou">
+彼此 + Predicate
+</div>
+
+<div class="jiegou">
+Verb + 彼此 
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我们 只 见 过 一 次 ，<em>彼此</em> 不 是 很 了解 。<span class="pinyin">Wǒmen zhǐ jiàn guo yī cì, <em>bǐcǐ</em> bù shì hěn liǎojiě.</span><span class="trans">We've only met once. We don't know each other well.</span>
+*我们 是 一个 团队 ，<em>彼此</em> 应该 多 沟通 。<span class="pinyin">Wǒmen shì yī gè tuánduì, <em>bǐcǐ</em> yīnggāi duō gōutōng.</span><span class="trans">We're a team. We should communicate more.</span>
+*我 很 尊重 我 的 对手 ，我 希望 <em>彼此</em> 都 能 有 好 的 表现 。<span class="pinyin">Wǒ hěn zūnzhòng wǒ de duìshǒu, wǒ xīwàng <em>bǐcǐ</em> dōu néng yǒu hǎo de biǎoxiàn.</span><span class="trans">I respect my opponent very much. I hope we both can perform well.</span>
+*我们 是 一家人 ，必须 好好 照顾 <em>彼此</em> 。<span class="pinyin">Wǒmen shì yī jiā rén, bìxū hǎohāo zhàogù <em>bǐcǐ</em>.</span><span class="trans">We're a family. We must do a good job looking after each other.</span>
+*好 朋友 总是 会 陪伴 <em>彼此</em> 。<span class="pinyin">Hǎo péngyou zǒng shì huì péibàn <em>bǐcǐ</em>.</span><span class="trans">Good friends always spend time with each other.</span>
+*你们 是 夫妻 ，怎么 一点 也 不 信任 <em>彼此</em> ？<span class="pinyin">Nǐmen shì fūqī, zěnme yīdiǎn yě bù xìnrèn <em>bǐcǐ</em>?</span><span class="trans">You're husband and wife. How can you not trust each other at all?</span>
+
+</div>
+
+== Basic Usage as an Attributive ==
+
+As a personal pronoun, 彼此 (bǐcǐ) is often used as an attributive, modifying a noun.
+
+=== Structure ===
+
+Sometimes you can also use 彼此 (bǐcǐ) before a noun to make the meaning of the modified noun more abstract.
+
+<div class="jiegou">
+彼此 + 的 + Noun
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*过去 一年 ，我们 见证 了 <em>彼此</em> 的 进步 。<span class="pinyin">Guòqù yī nián, wǒmen jiànzhèng le <em>bǐcǐ</em> de jìnbù.</span><span class="trans"> Over the past year, we have witnessed each other's progress.</span>
+*大家 都 很 辛苦 ，我们 需要 尊重 <em>彼此</em> 的 努力 。<span class="pinyin">Dàjiā dōu hěn xīnkǔ, wǒmen xūyào zūnzhòng <em>bǐcǐ</em> de nǔlì.</span><span class="trans"> Everyone is facing hardships, we need to respect each other's efforts.</span>
+*我们 十年 没 见 了 ，对 <em>彼此</em> 的 生活 都 不 了解 ，也 很 惊讶 <em>彼此</em> 的 变化 。<span class="pinyin">Wǒmen shí nián méi jiàn le, duì <em>bǐcǐ</em> de shēnghuó dōu bù liǎojiě, yě hěn jīngyà bǐcǐ de biànhuà.</span><span class="trans">It had been ten years since we last met. We didn't really know about each other's lives and we were surprised at how the other had changed.</span>
+*我们 了解 了 <em>彼此</em> 的 需求 ，再也 不 吵架 了 。<span class="pinyin">Wǒmen liǎojiě le <em>bǐcǐ</em> de xūqiú, zài yě bù chǎojià le.</span><span class="trans">We came to understand each other's needs and didn't argue again.</span>
+</div>
+
+== Using 彼此 Idiomatically ==
+
+When speaking colloquially, you can repeat 彼此 twice: “彼此彼此”. It's a type of idiom that can mean "Everyone is the same" or "We are both the same".
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>你 的 家 真 不错。<span class="pinyin">Nǐ de jiā zhēn bùcuò.</span><span class="trans">What a nice home you have.</span></li>
+<li><span class="speaker">B:</span><em>彼此 彼此</em> ！<span class="pinyin">Bǐcǐ bǐcǐ!</span><span class="trans">Same, same!</span></li>
+</ul>
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+{{Source|HSK Standard Course 5上|68}} 
+
+[[Category:grammar comparison]]
+{{Basic Grammar|彼此|B2|彼此 + Verb|太 吵 了，我们 都 听不到 <em>对方</em> 在 说 什么。|grammar point|ASGF205D}}
+{{Similar|Expressing "each other" with "huxiang"}}
+{{Similar|Comparing "bici" and "duifang"}}
+{{POS|Nouns}}
+{{Translation|each other}}

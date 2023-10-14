@@ -1,0 +1,41 @@
+<!-- Expressing "from this" with "youci" -->
+{{Grammar Box}} 
+
+由此 means "根据这个 (原因或者情况)" and used to draw conclusions from a reason or a situation. Usually 由此 is paired with 可见, 看来, 说来 and other similar verbs or verb phrases. 
+
+==Structure==
+
+<div class="jiegou">
+
+Reasons, 由此 + results and implications
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+ 
+* 人们 滥 用 农药 和 其他 化学 原料，<em>由此</em> 产生 了 一系列 严重 的 食品 安全 问题。
+* 在 案发 现场 我们 发现 了 一些 蚂蚁 和 蜂蜜，<em>由此</em> 我们 发现 了 罪犯 的 身份。
+* 最近 很多 贪官 因为 情妇 举报 而 落马，<em>由此</em> 看来，情妇 反腐 也 是 一 个 好 方法。 
+* <em>由此</em> 可见，政府 进行 彻底 地 政治 和 经济 改革 是 多么 必要。
+
+</div>
+
+==Common Phrase==
+
+<div class="liju">
+*由此可见
+*由此看来
+*由此说来
+</div>
+
+Notice the last two example sentences. Sentences like those can be used to write a conclusion or summarize a point. 
+
+==Sources and Further Reading==
+===Books===
+*[[卓越汉语－公司实战篇]] (p. 11) [http://www.amazon.cn/%E5%8D%93%E8%B6%8A%E6%B1%89%E8%AF%AD-%E5%85%AC%E5%8F%B8%E5%AE%9E%E6%88%98%E7%AF%87-%E8%83%A1%E7%81%B5%E5%9D%87/dp/B003QZWQ6M/ref=sr_1_1?ie=UTF8&qid=1347863170&sr=8-1 →buy]
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|由此|C1|由此 + Verb | 人们 滥 用 农药 和 其他 化学 原料，<em>由此</em> 产生 了 一系列 严重 的 食品 安全 问题。|grammar point|ASGLQNS3}}
+{{POS|Sentence patterns}}

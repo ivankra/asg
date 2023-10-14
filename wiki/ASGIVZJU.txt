@@ -1,0 +1,53 @@
+<!-- Negative commands with "buyao" -->
+{{Grammar Box}} 
+
+You can use 不要 (bùyào) to command someone: "don't" (do something). This is similar to the other negative command "[[Negative commands with bie|别 (bié)]]."
+
+'''Note:''' The pinyin for 不要 is written "bùyào" but pronounced "búyào" due to a [http://resources.allsetlearning.com/chinese/pronunciation/Tone_change_rules tone change rule].
+
+== Structure ==
+
+Negative commands in Chinese ("do not" or "don't") are formed with 不要. Usually the subject is omitted, as in English. 
+
+<div class="jiegou">
+
+不要 + Verb
+
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+* <em>不要</em> 走。 <span class="pinyin"><em>Bùyào</em> zǒu.</span><span class="trans">Don't leave.</span>
+* <em>不要</em> 打 我！ <span class="pinyin"><em>Bùyào</em> dǎ wǒ!</span><span class="trans">Don't hit me!</span>
+* <em>不要</em> 生气 ， 好吗 ？ <span class="pinyin"><em>Bùyào</em> shēngqì, hǎo ma?</span><span class="trans">Don't get angry, OK?</span>
+* <em>不要</em> 哭！ <span class="pinyin"><em>Bùyào</em> kū!</span><span class="trans">Don't cry!</span>
+* <em>不要</em> 吃 很 多 肉。 <span class="pinyin"><em>Bùyào</em> chī hěn duō ròu.</span><span class="trans">Don't eat a lot of meat.</span>
+* 你们 <em>不要</em> 喝酒。 <span class="pinyin">Nǐmen <em>bùyào</em> hējiǔ.</span><span class="trans">You guys, don't drink alcohol.</span>
+* <em>不要</em> 说 英文。 <span class="pinyin"><em>Bùyào</em> shuō Yīngwén.</span><span class="trans">Don't speak English.</span>
+* 晚上 <em>不要</em> 喝 咖啡。 <span class="pinyin">Wǎnshang <em>bùyào</em> hē kāfēi.</span><span class="trans">Don't drink coffee at night.</span>
+* 上课 的 时候 <em>不要</em> 玩 手机！<span class="pinyin">Shàngkè de shíhou <em>bùyào</em> wán shǒujī!</span><span class="trans">In class don't play with your phone!</span>
+* <em>不要</em> 很 晚 睡觉！ <span class="pinyin"><em>Bùyào</em> hěn wǎn shuìjiào.</span><span class="trans">Don't go to bed too late.</span>
+
+</div>
+
+==See also==
+
+* [[Negative commands with bie]]
+
+== Sources and Further Reading ==
+
+{{Source|HSK Standard Course 2|76}}
+
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Used for|Denying and refusing}}
+{{Used for|Giving commands}}
+{{Basic Grammar|不要|A1|不要 + Verb|<em>不要</em> 说 英文！ |grammar point|ASGIVZJU}}
+{{Rel char|不}}
+{{Rel char|要}}
+{{Similar|Negative commands with bie}}
+{{Similar|Auxiliary verb "yao" and its multiple meainings}}    
+{{POS|Verbs}}
+{{Subprop|Verb phrases}}
+{{Translation|Don't}}

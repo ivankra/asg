@@ -1,0 +1,40 @@
+<!-- Expressing "nothing is more...than" with "moguoyu" -->
+{{Grammar Box}} 
+{{Stub}}
+
+莫过于 can be easily understood as "cannot surpass." It is usually used in literary and formal Chinese to give emphasis to something, emphases that something is the "best" .  It is similar to how in English we might say "Nothing is more delicious, not even the world's best restaurants, than my mother's cooking."
+
+== Structure ==
+
+In this structure, you first state the topic or a question and then give your answer that you think the best. The answer comes after the 莫过于. 莫过于 is one of the phrases that comes from 文言文 Chinese. The 莫 means "not" or "nobody," and the 过于 means "surpass."
+
+<div class="jiegou">
+
+Topics or questions + 莫过于 + answer
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 美国 最 好 的 大学 <em>莫过于</em> 哈佛大学。<span class="trans">For America's best college, nothing is better than Harvard.</span>
+* 人生 中 最 悲伤 的 事情 <em>莫过于</em> 失去 你 爱 的 人。<span class="trans">Nothing is sadder in life than losing a loved one.</span>
+* 让 她 最 难过 的 <em>莫过于</em> 你 对 她 大喊 大叫。<span class="trans">Nothing makes her sadder than you shouting at her.</span>
+* 我 能 想到 最 浪漫 的 事 <em>莫过于</em> 跟 你 一起 白头到老。<span class="trans">The most romantic thing I can imagine is getting old together with you.</span>
+* 对 父母 来说 最 大 的 安慰 <em>莫过于</em> 孩子 能 开始 独立 生活 了。<span class="trans"> To parents, nothing is more comforting than their kids being able to lead independent lives.</span>
+
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+NEEDS SOURCES
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|莫过于|C1|Object 1 + 莫过于 + Object 2|美国 最 好 的 大学 <em>莫过于</em> 哈佛大学。|grammar point|ASGGI66V}}
+{{Rel char|莫}}
+{{Rel char|过}}
+{{Rel char|于}}
+{{POS|Sentence patterns}}
+{{Used for|Emphasizing}}

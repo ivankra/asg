@@ -1,0 +1,47 @@
+<!-- Expressing "over and over again" with "zaisan" -->
+{{Grammar Box}} 
+
+再三 (zàisān) or means "repeatedly" or "time and again" in a formal way, and is usually placed before a two-syllable verb. 
+
+==Structure==
+
+Although the verb phrase in the pattern is usually referring to past events, 了 and 过 are generally not used with 再三, but you will sometimes see it.
+
+<div class="jiegou">
+再三 + Verb Phrase
+</div>
+
+==Examples==
+
+<div class="liju">
+* 老师 <em>再三</em> 强调 这 次 考试 对 我们 很 重要。<span class="pinyin">Lǎoshī <em>zàisān</em> qiángdiào zhè cì kǎoshì duì wǒmen hěn zhòngyào.</span><span class="trans">The teacher has stressed over and over that this exam is really important for us.</span>
+* 这 个 决定 是 经过 <em>再三</em> 考虑 做 出来 的。<span class="pinyin">Zhège juédìng shì jīngguò <em>zàisān</em> kǎolǜ zuò chūlái de.</span><span class="trans">This decision was made after much consideration.</span>
+* 中国 政府 <em>再三</em> 警告 美国 不要 干涉 中国 的 内政。<span class="pinyin">Zhōngguó zhèngfǔ <em>zàisān</em> jǐnggào Měiguó bùyào gānshè Zhōngguó de nèizhèng.</span><span class="trans">China's government has warned the USA repeatedly not to interfere in China's affairs.</span>
+* 她 <em>再三</em> 犹豫 之后，选择 了 放弃 比赛。<span class="pinyin">Tā <em>zàisān</em> yóuyù zhīhòu, xuǎnzé le fàngqì bǐsài.</span><span class="trans">After hesitating again and again, she chose to quit the competition.</span>
+* 我们 <em>再三</em> 考虑 过 后，决定 满足 你 的 这 个 要求。<span class="pinyin">Wǒmen <em>zàisān</em> kǎolǜ guo hòu, juédìng mǎnzú nǐ de zhège yāoqiú.</span><span class="trans">After having considered it many times, we decided to satisfy this requirement of yours.</span>
+* 我 <em>再三</em> 提醒 你 出国 旅游 一定 要 小心 你 的 钱包。<span class="pinyin">Wǒ <em>zàisān</em> tíxǐng nǐ chūguó lǚyóu yīdìng yào xiǎoxīn nǐ de qiánbāo.</span><span class="trans">I've reminded you again and again that you need to be careful with your wallet when you travel abroad.</span>
+* 我 <em>再三</em> 劝 你 不 要 这样 做，你 还是 不 听。<span class="pinyin">Wǒ <em>zàisān</em> quàn nǐ bùyào zhèyàng zuò, nǐ háishì bù tīng.</span><span class="trans">I've advised you repeatedly not to do this, but you still don't listen.</span>
+* 他 <em>再三</em> 表示 不 会 参加 下 一 届 的 奥运会。<span class="pinyin">Tā <em>zàisān</em> biǎoshì bù huì cānjiā xià yī jiè de Àoyùnhuì.</span><span class="trans">He has repeatedly indicated that he will not participate in the next Olympic Games.</span>
+* 我 已经 <em>再三</em> 告诉 你 了 这 次 会议 的 重要性，你 还是 迟到 了。<span class="pinyin">Wǒ yǐjīng <em>zàisān</em> gàosù nǐ le zhè cì huìyì de zhòngyào xìng, nǐ háishì chídào le.</span><span class="trans">I've already repeatedly told you the importance of this meeting, yet you still showed up late.</span>
+* 经过 <em>再三</em> 考虑，我 还是 决定 做 老师。<span class="pinyin">Jīngguò <em>zàisān</em> kǎolǜ, wǒ háishì juédìng zuò lǎoshī.</span><span class="trans">After thinking it over many times, I have decided to become a teacher.</span>
+</div>
+
+==See also==
+* [[Again in the future with "zai"]]
+* [[Again in the past with "you"]]
+
+== Sources  and further reading ==
+
+=== Books ===
+
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级)|195-7}} 
+{{Source|New Practical Chinese Reader 5 (新实用汉语课本5)|157}} 
+{{Source|HSK Standard Course 5上|126}}
+
+[[Category: B2 grammar points]]
+[[Category: Adverbs]]
+{{Basic Grammar|再三|B2|再三 + Verb|妈妈 <em>再三</em> 叮嘱 我 ， 要 注意 安全 。|grammar point|ASGP6LVA}}
+{{Rel char|再}}
+{{Similar|Again in the future with "zai"}}
+{{Similar|Again in the past with "you"}}
+{{POS|Adverbs}}

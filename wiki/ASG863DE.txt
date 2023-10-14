@@ -1,0 +1,95 @@
+<!-- Comparing "gei" and "wei" -->
+{{Grammar Box}}
+Both 给 and 为 can mean "[[for]]." They seem to be arbitrarily assigned to different verbs, and to make matters worse, some verbs (but not all!) can use either one. There are a few principles you can use to keep them straight, but also a few exceptions you need to memorize. As always, lots of examples help!
+
+== The Core Meaning of 给 ==
+
+As you know, 给 is also a verb meaning "to give." As such, 给 is often used with verbs to express an action done out of kindness or friendship. Think of all the things a mother does for a child, or a generous friend does for her bestie. These would use 给.
+
+== Structure ==
+
+<div class="jiegou">
+Subj. + 给 + Recipient + [Verb Phrase]
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+* 请 <em>给</em> 我 <strong>拿</strong> 一双 筷子。 <span class="pinyin">Qǐng <em>gěi</em> wǒ <strong>ná</strong> yī shuāng kuàizi.</span><span class="trans">Please get me a pair of chopsticks.</span>
+* 下 飞机 以后，我 <em>给</em> 你 <strong>打</strong> 电话。 <span class="pinyin">Xià fēijī yǐhòu, wǒ <em>gěi</em> nǐ <strong>dǎ</strong> diànhuà.</span><span class="trans">After getting off the plane, I'll give you a call.</span>
+* 你 别 忘 了 <em>给</em> 我 <strong>回</strong> 邮件。 <span class="pinyin">Nǐ bié wàng le <em>gěi</em> wǒ <strong>huí</strong> yóujiàn.</span><span class="trans">Don't forget to reply to my email.</span>
+* 同事 <em>给</em> 我 <strong>介绍</strong> 了 公司 的 情况。 <span class="pinyin">Tóngshì <em>gěi</em> wǒ <strong>jièshào</strong> le gōngsī de qíngkuàng.</span><span class="trans">My coworker explained the company's situation to me.</span>
+* 这 件 事 是 你 做 得 不 对， <em>给</em> 他 <strong>道歉</strong>。 <span class="pinyin">Zhè jiàn shì shì nǐ zuò de bù duì, <em>gěi</em> tā <strong>dàoqiàn</strong>.</span><span class="trans">What you did was wrong. Apologize to him.</span>
+* 老板 <em>给</em> 我 <strong>提</strong> 了 很 多 建议。 <span class="pinyin">Lǎobǎn <em>gěi</em> wǒ <strong>tí</strong> le hěn duō jiànyì.</span><span class="trans">The boss gave me a lot of suggestions.</span>
+* 上海 <em>给</em> 我 <strong>留下</strong> 了 很 深 的 印象。 <span class="pinyin">Shànghǎi <em>gěi</em> wǒ <strong>liúxià</strong> le hěn shēn de yìnxiàng.</span><span class="trans">Shanghai left a deep impression on me.</span>
+
+</div>
+
+== The Core Meaning of 为 ==
+
+The word 为 automatically feels more formal than 给, due to its association with classical Chinese. Besides being more formal, it is also often associated with obligatory actions or responsibilities. The typical example of this is "to work for Company A": 为A公司工作.
+
+One other common usage of 为 is for uncontrollable emotional reactions that result from relationships with other people. These reactions aren't really done out of kindness; they're spontaneous and not a result of a conscious choice.
+
+== Structure ==
+
+<div class="jiegou">
+为 + Person + Verb / Adj.
+</div>
+
+== Examples ==
+
+<div class="liju">
+* 我 现在 <em>为</em> 谷歌 公司 <strong>工作</strong>。 <span class="pinyin">Wǒ xiànzài <em>wèi</em> Gǔgē gōngsī <strong>gōngzuò</strong>.</span><span class="trans">I currently work for Google.</span>
+* 你 <em>为</em> 国家 <strong>做</strong> 过 贡献 吗 ？ <span class="pinyin">Nǐ <em>wèi</em> guójiā <strong>zuò</strong> guò gòngxiàn ma?</span><span class="trans">Have you made a contribution to our country?</span>
+* 我 真的 <em>为</em> 你 <strong>高兴</strong> 。 <span class="pinyin">Wǒ zhēnde <em>wèi</em> nǐ <strong>gāoxìng</strong>.</span><span class="trans">I'm truly happy for you.</span>
+* 父母 <em>为</em> 孩子 <strong>付出</strong> 了 很 多。 <span class="pinyin">Fùmǔ <em>wèi</em> háizi <strong>fùchū</strong> le hěn duō.</span><span class="trans">The parents did a lot for their child.</span>
+* 父母 管 孩子 总是 说 是 <em>为</em> 孩子 <strong>好</strong>。 <span class="pinyin">Fùmǔ guǎn háizi zǒngshì shuō shì <em>wèi</em> háizi <strong>hǎo</strong>.</span><span class="trans">When parents micro-manage their kids, they always say it's for their children's own good.</span>
+* 我们 都 是 成年人 了，应该 <em>为</em> 自己 的 行为 <strong>负责</strong>。 <span class="pinyin">Wǒmen dōu shì chéngniánrén le, yīnggāi <em>wèi</em> zìjǐ de xíngwéi <strong>fùzé</strong>.</span><span class="trans">We've all adults now, and ought to be responsible for our own actions.</span>
+* 政府 <em>为</em> 公司 <strong>提供</strong> 了 保障。 <span class="pinyin">Zhèngfǔ <em>wèi</em> gōngsī <strong>tígōng</strong> le bǎozhàng.</span><span class="trans">The government provides companies certain protections.</span>
+</div>
+
+== Comparison of 给 and 为 by Collocation ==
+
+The examples below should help you establish a bit of a feeling regarding the difference between 给and 为. You can see that the ones at the top feel more like something especially done for one person, whereas the ones at the end feel more like duty or obligation. The double yeses in the middle could be either, depending on context.
+
+{| class="wikitable" style="width:40em"
+|-
+! Verb !! Pairs with 给? !! Pairs with 为?
+|-
+|  发邮件 || YES || no
+|-
+|  打电话 || YES || no
+|-
+|  做菜 || YES || YES
+|-
+|  做 || YES || YES
+|-
+|  服务 || no || YES
+|-
+|  牺牲 || no || YES
+|-
+|  工作 || no || YES
+|-
+|}
+
+== See also ==
+
+* [[Expressing "for" with "gei"]]
+* [[Expressing "for" with "wei"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|1700对|486}}
+
+[[Category:grammar comparison]]
+{{Basic Grammar|给|B2|给 vs. 为|<em>为</em> 你 准备 的 礼物|grammar point|ASG863DE}}
+{{Comparison|Prepositions}}
+{{Rel char|为}}
+{{Similar|Expressing "for" with "gei"}}
+{{Similar|Expressing "for" with "wei"}}
+{{Used for|Expressing purpose}}
+{{Translation|for}}

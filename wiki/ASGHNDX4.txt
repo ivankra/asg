@@ -1,0 +1,51 @@
+<!-- Expressing "if… then…" with "jiaru" -->
+{{Grammar Box}} 
+"假如⋯⋯，就⋯⋯" (jiǎrú..., jiù...) is yet another way to express "If..., then..." in Chinese, but it is much more formal than [["If… Then…" with "yaoshi"|要是]] or [["If…, then…" with "ruguo…, jiu…"|如果]] are (in both written and spoken Chinese).
+
+==Structure==
+
+<div class="jiegou">
+
+假如 + Statement + 就 + Result
+
+</div>
+
+==Examples==
+
+<div class="liju">
+
+*<em>假如</em> 你 的 成绩 再 好 一点儿，你 <em>就</em> 能 申请 北大 了。<span class="pinyin"><em>Jiǎrú</em> nǐ de chéngjì zài hǎo yīdiǎnr, nǐ <em>jiù</em> néng shēnqǐng Běi Dà le.</span><span class="trans">If your grades come up a little more, then you can apply to Beijing University.</span>
+*<em>假如</em> 我 是 你，我 <em>就</em> 戒烟。<span class="pinyin"><em>Jiǎrú</em> wǒ shì nǐ, wǒ <em>jiù</em> jièyān.</span><span class="trans">If I were you, I would give up smoking.</span>
+*<em>假如</em> 你 的 女朋友 不 爱 你，你们 <em>就</em> 分手 吧。<span class="pinyin"><em>Jiǎrú</em> nǐ de nǚpéngyou bù ài nǐ, nǐmen <em>jiù</em> fēnshǒu ba.</span><span class="trans">If your girlfriend doesn't love you, then you should break up.</span>
+* <em>假如</em> 有 一点 机会，我 <em>就</em> 会 辞去 现在 的 工作。<span class="pinyin"><em>Jiǎrú</em> yǒu yīdiǎn jīhuì, wǒ <em>jiù</em> huì cíqù xiànzài de gōngzuò.</span><span class="trans">If I just had some other opportunity, I would quit my job.</span>
+* <em>假如</em> 这 话 是 真的，我们 也 要 考虑 两天。<span class="pinyin"><em>Jiǎrú</em> zhè huà shì zhēn de, wǒmen yě yào kǎolǜ liǎng tiān.</span><span class="trans">If that is true, we still have to think about it for a couple of days.</span>
+* <em>假如</em> 一定 要 去 的话，她 <em>就</em> 去。<span class="pinyin"><em>Jiǎrú</em> yīdìng yào qù dehuà, tā <em>jiù</em> qù.</span><span class="trans">If she really must go, then she will go.</span>
+* <em>假如</em> 我们 又 见面 了，你 还会 记得 我 吗？<span class="pinyin"><em>Jiǎrú</em> wǒmen yòu jiànmiàn le, nǐ hái huì jìde wǒ ma?</span><span class="trans">If we see each other again, will you still remember me?</span>
+</div>
+
+==See also==
+*[["If…, then…" with "ruguo…, jiu…"]]
+*[["If… Then…" with "yaoshi"]]
+*[["If… Then…" with "jiashi"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Common Chinese Patterns 330 (汉语常用格式330例) |124}} 
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|279}} 
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|假如|B2|假如⋯⋯，就⋯⋯|<em>假如</em> 下雨 了 ， <em>就</em> 收 衣服 。|grammar point|ASGHNDX4}}
+{{Rel char|就}}
+{{Rel char|如}}
+{{Similar|"If…, then…" with "ruguo…, jiu…"}}
+{{Similar|Expressing "if" with "ruguo... dehua"}}
+{{Similar|Expressing "if… then…" with "yaoshi"}}
+{{Similar|Expressing "if… then…" with "jiashi"}}
+{{Used for|Indicating cause and effect}}
+{{Used for|Expressing possibility}}
+{{Used for|Indicating conditions}}
+{{Structure|"If" Statements}}
+{{Translation|then}}
+{{Translation|if}}

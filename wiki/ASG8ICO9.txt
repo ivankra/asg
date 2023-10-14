@@ -1,0 +1,99 @@
+<!-- Using "dui" with verbs -->
+{{Grammar Box}} 
+
+When using 对 (duì) as a [[preposition]], it means "to" or "towards" an object or target. As with all prepositions, you've got to watch out when using this word, as usage of 对 in Chinese doesn't always totally "make sense" or correspond to English at all.
+
+== Basic Usage ==
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 对 + Person + Verb 
+</div>
+
+Note that you shouldn't be plugging in just any old verb here; the ones that work with 对 are limited.
+
+=== Examples ===
+
+<div class="liju">
+
+*宝宝 <em>对</em> <strong>我</strong> 笑 了 。<span class="pinyin">Bǎobao <em>duì</em> <strong>wǒ</strong> xiào le.</span><span class="trans">The baby smiled at me.</span>
+*小狗 在 <em>对</em> <strong>你</strong> 叫 。<span class="pinyin">Xiǎogǒu zài <em>duì</em> <strong>nǐ</strong> jiào.</span><span class="trans">The dog is barking at you.</span>
+*你 不 应该 这样 <em>对</em> <strong>父母</strong> 说话 。<span class="pinyin">Nǐ bù yīnggāi zhèyàng <em>duì</em> <strong>fùmǔ</strong> shuōhuà.</span><span class="trans">You shouldn't talk to your parents this way.</span>
+*他 总是 <em>对</em> <strong>老师</strong> 撒谎 。<span class="pinyin">Tā zǒngshì <em>duì</em> <strong>lǎoshī</strong> sāhuǎng.</span><span class="trans">He always lies to his teachers.</span>
+*不要 <em>对</em> <strong>孩子</strong> 发脾气 。<span class="pinyin">Bùyào <em>duì</em> <strong>háizi</strong> fā píqi.</span><span class="trans">Don't lose your temper with the child.</span>
+
+</div>
+
+== Colloquial Expression 对……来说 ==
+
+In English we often start sentences with "to someone" or "for someone" when sharing that person's perspective. In Chinese, the pattern is:
+
+<div class="jiegou">
+对 + Person + 来说 ，⋯⋯ 
+</div>
+
+While this pattern was too common to omit from this page, it's covered in more depth as part of [[Phrases using "laishuo"|phrases using "laishuo."]] 
+
+== Usage with Specific Verbs ==
+
+Certain verbs, especially [[psychological verb]]s, are often used with 对, which means 对 is needed if you want to add an object into the structure. I good example is 对……感兴趣 ("to be interested in..."). In this case, 对 means "in," "on," "about," etc., and the object doesn't have to be a person. The short list below will give a few more verbs frequently paired with 对.
+
+=== Structures ===
+
+* 对⋯⋯有兴趣 (yǒu xìngqù)  to have an interest in...
+* 对⋯⋯感兴趣 (gǎn xìngqù)  to feel interested in...
+* 对⋯⋯负责 (fùzé)  to be responsible for...
+* 对⋯⋯满意 (mǎnyì)  to feel satisfied with...
+* 对⋯⋯失望 (shīwàng) to be disappointed in/with...
+* 对⋯⋯好奇 (hàoqí) to be curious about...
+
+=== Examples ===
+
+Some example sentences:
+
+<div class="liju">
+
+*我 儿子 <em>对</em> 学 外语 很 <strong>感 兴趣</strong> 。<span class="pinyin">Wǒ érzi <em>duì</em> xué wàiyǔ hěn <strong>gǎn xìngqù</strong>.</span><span class="trans">My son is very interested in learning foreign languages.</span>
+*你 应该 <em>对</em> 自己 的 工作 <strong>负责</strong> 。<span class="pinyin">Nǐ yīnggāi <em>duì</em> zìjǐ de gōngzuò <strong>fùzé</strong> .</span><span class="trans">You should be responsible for your job.</span>
+*老板 <em>对</em> 你 不 太 <strong>满意</strong> 。<span class="pinyin">Lǎobǎn <em>duì</em> nǐ bù tài <strong>mǎnyì</strong>.</span><span class="trans">The boss is not very satisfied with you.</span>
+*观众 <em>对</em> 比赛 结果 非常 <strong>失望</strong> 。<span class="pinyin">Guānzhòng <em>duì</em> bǐsài jiéguǒ fēicháng <strong>shīwàng</strong>.</span><span class="trans">The audience is very disappointed with the result of the game.</span>
+*我 的 小 女儿 <em>对</em> 所有 动物 都 很 <strong>好奇</strong> 。<span class="pinyin">Wǒ de xiǎo nǚ'ér <em>duì</em> suǒyǒu dòngwù dōu hěn <strong>hàoqí</strong>.</span><span class="trans">My younger daughter is curious about all animals.</span>
+
+</div>
+
+== See also ==
+
+*[[Using "xiang"]]
+*[[Using "gen"]]
+*[["For…" with "eryan"]]
+*[[Comparing "gen" and "dui"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|76}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|153}}
+{{Source|Integrated Chinese: Level 2, Part 1|151}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|84, 88}}
+{{Source|Boya Chinese Elementary Starter 1 (博雅汉语初经起步篇)|198}}
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级)|313}}
+{{Source|卓越汉语－公司实战篇|11-2, 134}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+[[Category:Prepositions]]
+{{Used for|Describing actions}}
+{{Similar|"For…" with "eryan"}}
+{{Similar|Expressing "towards" with "xiang"}}
+{{Similar|Expressing "for" with "gei"}}
+{{Similar|Verbs followed by "gei"}}
+{{Similar|Comparing "gen" and "dui"}}
+{{Similar|Comparing "dui" and "duiyu"}}
+{{Similar|Verbs preceded by "gei"}}
+{{Similar|Giving perspective with "yaowoshuo"}}
+{{Translation|to}}
+{{Translation|towards}}
+{{Basic Grammar|对|B1|Subj. + 对 + Person + Verb | 宝宝 <em>对</em> 我 笑 了。|grammar point|ASG8ICO9}}
+{{POS|Prepositions}}

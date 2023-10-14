@@ -1,0 +1,47 @@
+<!-- Reduplication of measure words -->
+{{Grammar Box}} 
+
+If you know what a [[measure word]] is and how to use it, you may be ready for this pattern, where the measure word can repeat, or "reduplicate." It's not a terribly common structure, but the two most common examples of it are 个个 and 天天. It adds the meaning of "every" to the noun that follows.
+
+== Structure ==
+
+The reduplicated measure word should precede the predicate of the sentence, often a verb phrase or an adjective.
+
+<div class="jiegou">
+Subj + MW + MW + Predicate
+</div>
+
+By far, the most commonly reduplicated measure words are 个个 (meaning "every one" of something) and 天天 (meaning "every day"). For less common measure words, the meaning is still the same: "every" of something (for which the measure word applies).
+
+== Examples ==
+
+<div class="liju">
+
+*公司 的 员工 <em>个 个</em> 都 很 好。<span class="pinyin">Gōngsī de yuángōng <em>gè gè</em> dōu hěn hǎo.</span><span class="trans"></span>
+*他们 <em>个 个</em> 都 不 喜欢 打 游戏 。<span class="pinyin">Tāmen <em>gè gè</em>dōu bù xǐhuan dǎ yóuxì.</span><span class="trans"></span>
+*这个 星期 他 <em>天 天</em> 给 我 打 电话 。<span class="pinyin">Zhège xīngqī tā<em>tiān tiān</em> gěi wǒ dǎ diànhuà.</span><span class="trans"></span>
+*我 <em>天 天</em> 走路 去 公司 。<span class="pinyin">Wǒ <em>tiān tiān</em> zǒulù qù gōngsī.</span><span class="trans"></span>
+*现在 <em>家 家</em> 都 有 手机 。<span class="pinyin">Xiànzài <em>jiā jiā</em> dōu yǒu shǒujī.</span><span class="trans"></span>
+*这里 的 公司 <em>家 家</em> 都 用 苹果 电脑 。<span class="pinyin">Zhèlǐ de gōngsī <em>jiā jiā</em> dōu yòng Píngguǒ diànnǎo.</span><span class="trans"></span>
+*我 的 衣服 <em>件 件</em> 都 很 好看。<span class="pinyin">Wǒ de yīfu <em>jiàn jiàn</em> dōu hěn hǎokàn.</span><span class="trans"></span>
+*这 家 店 的 书 <em>本 本</em> 都 很 贵 。<span class="pinyin">Zhè jiā diàn de shū <em>běn běn </em> dōu hěn guì. </span><span class="trans"></span>
+*她 <em>次 次</em> 都 打车 来 。<span class="pinyin">Tā <em>cì cì</em> dōu dǎchē lái.</span><span class="trans"></span>
+*这些 小狗 <em>只 只</em> 都 很 可爱。<span class="pinyin">Zhèxiē xiǎogǒu <em> zhī zhī</em> dōu hěn kěài.</span><span class="trans"></span>
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|44}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+[[Category:Measure Words]]
+
+{{Basic Grammar|个|B1|MW + MW|<em>个 个</em> 都 很 好。|grammar point|ASG6120A}}
+{{Similar|Reduplication of adjectives}}
+{{Similar|Reduplication of verbs}}
+{{Used for|Expressing quantity}}
+{{Translation|every}}
+{{POS|Measure Words}}

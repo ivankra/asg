@@ -1,0 +1,83 @@
+<!-- Events in quick succession with "yi... jiu..." -->
+{{Grammar Box}} 
+
+This pattern tells us that '''as soon as''' one thing happens, then '''another thing happens''' immediately afterwards. You mark the two events with 一 (yī)  and 就 (jiù).
+
+== Used as "As Soon As" ==
+
+=== Structure ===
+
+The pattern involves two different events, the first preceded by "一," and then the second event, which follows in quick succession, preceded by 就.
+
+<div class="jiegou">
+一 + Event 1，就 + Event 2
+</div>
+
+The subjects of the two "Events" can be the same, but they don't have to be. If they're the same, then you don't need to repeat the subject for the second one.
+
+=== Examples ===
+
+<div class="liju">
+
+*饿 死了，我 <em>一</em> 下课 <em>就</em> 要 去 吃 午饭 。<span class="pinyin">È sǐ le, wǒ <em>yī</em> xiàkè <em>jiù</em> yào qù chī wǔfàn.</span><span class="trans">I'm starving. I'm going to have lunch as soon as class is over.</span>
+*你 能 不 能 <em>一</em> 下班 <em>就</em> 去 接 孩子 ？<span class="pinyin">Nǐ néng bu néng <em>yī</em> xiàbān <em>jiù</em> qù jiē háizi?</span><span class="trans">Can you go to pick up our kid as soon as you get off work?</span>
+*妈妈 <em>一</em> 到 家 <em>就</em> 去 做饭 了 。<span class="pinyin">Māma <em>yī</em> dào jiā <em>jiù</em> qù zuòfàn le.</span><span class="trans">As soon as mom arrived home, she went off to cook.</span>
+*老师 <em>一</em> 来 大家 <em>就</em> 不 说话 了。<span class="pinyin">Lǎoshī <em>yī</em> lái dàjiā <em>jiù</em> bù shuōhuà le.</span><span class="trans">As soon as the teacher came , everyone stopped talking.</span>
+*我 <em>一</em> 进门 ，小狗 <em>就</em> 跑 了 过来 。<span class="pinyin">Wǒ <em>yī</em> jìn mén, xiǎogǒu <em>jiù</em> pǎo le guòlái.</span><span class="trans">As soon as I walked in the door, the puppy ran over to me.</span>
+
+</div>
+
+== Used as "Every Time"==
+
+=== Structure ===
+
+In this case, 一 means "every time," followed by some certain condition, which could be the reason or the cause of what happens after 就. The subjects of the two "Events" are usually the same. 
+
+<div class="jiegou">
+一 + Reason，就 + Result
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我 <em>一</em> 想到 这 件 事 <em>就</em> 不 高兴 。<span class="pinyin">Wǒ <em>yī</em> xiǎngdào zhè jiàn shì <em>jiù</em> bù gāoxìng.</span><span class="trans">Every time I think about this, I get upset.</span>
+*她 <em>一</em> 生气 <em>就</em> 脸红 。<span class="pinyin">Tā <em>yī</em> shēngqì <em>jiù</em> liǎn hóng.</span><span class="trans">Every time she gets angry, her face turns red.</span>
+*你 怎么 <em>一</em> 吃 火锅 <em>就</em> 拉肚子 ？<span class="pinyin">Nǐ zěnme <em>yī</em> chī huǒguō <em>jiù</em> lādùzi?</span><span class="trans">How come you get diarrhea every time you eat hotpot?</span>
+*他 <em>一</em> 上 英语 课 <em>就</em> 想 睡觉 。<span class="pinyin">Tā <em>yī</em> shàng Yīngyǔ kè <em>jiù</em> xiǎng shuìjiào.</span><span class="trans">Every time he has English class, he feels like falling asleep.</span>
+*<em>一</em> 说到 物理 ，我 <em>就</em> 头疼 。<span class="pinyin"><em>Yī</em> shuōdào wùlǐ, wǒ <em>jiù</em> tóuténg.</span><span class="trans">Every time we talk about physics, it gives me a headache.</span>
+
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4下|131}}
+{{Source|Common Chinese Patterns 330 (汉语常用格式330例)|184}} 
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2)|240}}
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|169}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|206-7}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|88-9}}
+{{Source|Integrated Chinese: Level 2, Part 1|85-7}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|173, 189}}
+
+== See also ==
+
+*[[Expressing earliness with "jiu"]]
+*[[Expressing "once...then..." with "yidan...jiu..."]]
+*[[Actions in a row]]
+
+[[Category:B1 grammar points]]
+{{HSK|HSK4}}
+{{Similar|Expressing earliness with "jiu"}}
+{{Similar|"If…, then…" with "ruguo…, jiu…"}}
+{{Similar|Expressing "once...then..." with "yidan...jiu..."}}
+{{Similar|Actions in a row}}
+{{Basic Grammar|一|B1|Subj. + 一 + Event 1，就 + Event 2|他 <em>一</em> 到 家 ，<em>就</em> 去 洗澡  了 。|grammar point|ASGTFUD0}}
+{{Rel char|就}}
+{{Structure|Sentence Patterns}}
+{{Subprop|Complex Sentence Patterns}}
+{{Used for|Sequencing events in time}}
+{{Used for|Indicating conditions}}
+{{Used for|Indicating cause and effect}}

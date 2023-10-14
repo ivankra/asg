@@ -1,0 +1,136 @@
+<!-- Comparing "gen" and "dui" -->
+{{Grammar Box}} 
+跟 (gēn) and 对 (duì) sometimes seem like they mean the same thing, and at other times they seem to be different. You need to be aware which cases are which. 
+
+== Used with 说 in the Same Way ==
+
+When using the verb 说, 跟 and 对 can both be used in a similar sentence pattern. 跟 and 对 are both prepositions, and they both express one person speaking to another. 
+
+=== Structure ===
+
+<div class="jiegou">
+Person A + 跟 / 对 + Person B 说
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 我 <em>跟</em> 她 说 了，但是 她 不 信。<span class="pinyin">Wǒ <em>gēn</em> tā shuō le, dànshì tā bù xìn.</span><span class="trans">I told her, but she didn't believe me.</span>
+* 我 <em>对</em> 她 说 了，但是 她 不 信。<span class="pinyin">Wǒ <em>duì</em> tā shuō le, dànshì tā bù xìn.</span><span class="trans">I told her, but she didn't believe me.</span>
+* 他 <em>对</em> 我 说 他 爱 我。<span class="pinyin">Tā <em>duì</em> wǒ shuō tā ài wǒ.</span><span class="trans">He told me he loved me.</span>
+* 他 <em>跟</em> 我 说 他 爱 我。<span class="pinyin">Tā <em>gēn</em> wǒ shuō tā ài wǒ.</span><span class="trans">He told me he loved me.</span>
+* 刚才 你 <em>对</em> 他 说 什么 了？<span class="pinyin">Gāngcái nǐ <em>duì</em> tā shuō shén me le?</span><span class="trans">What did you just tell him?</span>
+* 刚才 你 <em>跟</em> 他 说 什么 了？<span class="pinyin">Gāngcái nǐ <em>gēn</em> tā shuō shén me le?</span><span class="trans">What did you just tell him?</span>
+</div>
+
+== Similar Structures but Different Meanings ==
+
+跟 and 对 can both be verbs, and they are often used with 着, however their meanings are different. 
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 跟 / 对 + Obj.
+</div>
+
+=== Examples for 跟 ===
+
+跟 can be a verb, and its simplest meaning is "follow." Often it is used as a verb phrase, such as 跟着, 跟上, 跟不上, or 跟得上.
+
+<div class="liju">
+* 这 只 小 猫 总是 <em>跟着</em> 我。<span class="pinyin">Zhè zhǐ xiǎo māo zǒng shì <em>gēnzhe</em> wǒ.</span><span class="trans">This little cat always follows me.</span>
+* 你 走 得 太 快 ，我 <em>跟不上</em>。<span class="pinyin">Nǐ zǒu de tài kuài, wǒ <em>gēn bu shàng</em>.</span><span class="trans">You walk too fast, I can't keep up.</span>
+</div>
+
+=== Examples for 对 ===
+
+对 is also a verb, put it has the meaning of "towards" or "point to." Often it is used as: 对着, 对上, 对不上.
+
+<div class="liju">
+* 枪口 不 要 <em>对着</em> 人。<span class="pinyin">Qiāng kǒu bùyào <em>duìzhe</em> rén.</span><span class="trans">Don't point guns at people.</span>
+* 我 喜欢 <em>对着</em> 镜子 笑。<span class="pinyin">Wǒ xǐhuan <em>duìzhe</em> jìngzi xiào.</span><span class="trans">I like to laugh at myself in the mirror.</span>
+* 这 两 本 账 <em>对不上</em>。<span class="pinyin">Zhè liǎng běn zhàng <em>duì bu shàng</em>.</span><span class="trans">These two accounts don't match up.</span>
+</div>
+
+== When to Use 跟 and Not 对 ==
+
+跟 is a preposition, and it can be used in [[comparing|comparison patterns]]. 对 cannot be used this way.
+
+=== Comparison Structure with 一样 ===
+
+This structure is used to explain that two things are (or aren't) similar.
+
+<div class="jiegou">
+A + 跟 + B + （不）一样
+</div>
+
+<div class="liju">
+* 我 <em>跟</em> 你们 <em>不一样</em>，我 还 有 孩子 呢。<span class="pinyin">Wǒ <em>gēn</em> nǐmen <em>bù yīyàng</em>, wǒ hái yǒu háizi ne.</span><span class="trans">I am not like you guys. I still have kids.</span>
+* 上海 <em>跟</em> 纽约 <em>一样</em>，都 是 国际 大 都市。<span class="pinyin">Shànghǎi <em>gēn</em> Niǔyuē <em>yīyàng</em>, dōu shì guójì dà dūshì.</span><span class="trans">Shanghai and New York are alike; they are both international cities.</span>
+</div>
+
+=== Comparison Structure with 一样 + Adj.===
+
+This structure shows that two nouns are the same in some some aspect, which is the word that follows "一样."
+
+<div class="jiegou">
+A + 跟 + B + （不）一样 + Adj.
+</div>
+
+<div class="liju">
+* 我 现在 <em>跟</em> 我 爸 <em>一样</em> <strong>高</strong>。<span class="pinyin">Wǒ xiànzài <em>gēn</em> wǒ bà <em>yīyàng</em> <strong>gāo</strong>.</span><span class="trans">Now I'm as tall as my dad.</span>
+* 你 <em>跟</em> 你 妈 <em>一样</em> <strong>喜欢 买 衣服</strong>。<span class="pinyin">Nǐ <em>gēn</em> nǐ mā <em>yīyàng</em> <strong>xǐhuan mǎi yīfu</strong>.</span><span class="trans">You like to buy clothes just like your mother.</span>
+</div>
+
+=== 跟 as "And" or "With" ===
+
+跟 functions as a conjunction in this structure, joining two things together. Generally, these are nouns or pronouns (as with 和). 对 cannot function like this.
+
+<div class="jiegou">
+Subj. 1 + 跟 + Subj. 2 + Verb-Obj.
+</div>
+
+<div class="liju">
+* 你 要 <em>跟</em> 我 一起 去 吗？<span class="pinyin">Nǐ yào <em>gēn</em> wǒ yīqǐ qù ma?</span><span class="trans">Are you going to go with me?</span>
+* 鲜花 <em>跟</em> 巧克力 是 最好 的 礼物。<span class="pinyin">Xiānhuā <em>gēn</em> qiǎokèlì shì zuì hǎo de lǐwù.</span><span class="trans">Flowers and chocolate are the best gifts.</span>
+</div>
+
+== When to Use 对 and not 跟 ==
+
+=== Structure ===
+
+When 对 as a preposition, it points to a certain target, since it can mean "facing" or "toward." 跟 can only be used this way with 说.
+
+<div class="jiegou">
+Subj. 1 对 Subj. 2 + Verb
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 那 个 美女 正 <em>对</em> 我 笑 呢。<span class="pinyin">Nàge měinǚ zhèng <em>duì</em> wǒ xiào ne.</span><span class="trans">That pretty girl is laughing at me.</span>
+* 不 要 <em>对</em> 老板 发脾气， 不然 后果 很 严重。<span class="pinyin">Bùyào <em>duì</em> lǎobǎn fā píqì, bùrán hòuguǒ hěn yánzhòng.</span><span class="trans">Don't lose your temper with the boss, otherwise there will be serious consequences.</span>
+</div>
+
+== See Also ==
+
+* [[Expressing "with" with "gen"]]
+* [[Using "dui"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|现代汉语八百词（增订本）|201}}
+
+=== Dictionaries ===
+
+{{Source|现代汉语词典（第5版）|465, 343}}
+
+[[Category:grammar comparison]]
+{{Basic Grammar|跟|B2|跟 vs 对|那 个 帅哥 在 <em>对</em> 我 招手！那 你 要 <em>跟</em> 他 去 吗？|grammar point|ASGC5Y86}}
+{{Rel char|对}}
+{{Similar|Expressing "with" with "gen"}}
+{{Similar|Using "dui"}}
+{{Used for|Describing actions}}
+{{Comparison|Conjunctions}}

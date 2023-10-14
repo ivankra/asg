@@ -1,0 +1,109 @@
+<!-- Asking why with "zenme" -->
+{{Grammar Box}} 
+
+Aside from [[How to do something with "zenme"|just meaning "how,"]] 怎么 (zěnme) can also be used to ask "why" or "how come."
+
+== Basic Usage ==
+
+=== With a Verb ===
+
+==== Structure ====
+
+Similar to the question word [[为什么]] (wèishénme), questions can also be asked with 怎么 (zěnme). 
+
+<div class="jiegou">
+
+Subj. + 怎么 + Verb + Obj. ?
+
+</div>
+
+This has similar connotations to saying "how come" in English. It not only asks why, but expresses some surprise at the situation, and in some cases even disagreement with it.
+
+==== Examples ====
+
+<div class="liju">
+
+* 他 <em>怎么</em> 还 没 来 ？<span class="pinyin">Tā <em>zěnme</em> hái méi lái? </span><span class="trans">How come he's not here yet?</span>
+* 你们 <em>怎么</em> 打 人？<span class="pinyin">Nǐmen <em>zěnme</em> dǎ rén? </span><span class="trans">How can you hit people? </span>
+* 他 帮 了 你，你 <em>怎么</em> 不 说 “谢谢” ？<span class="pinyin">Tā bāng le nǐ, nǐ <em>zěnme</em> bù shuō "xièxie"? </span><span class="trans">He helped you. How come you didn't say thank you? </span>
+* 你 结婚 的时候 <em>怎么</em> 不 告诉 我？<span class="pinyin">Nǐ jiéhūn de shíhou <em>zěnme</em> bù gàosu wǒ? </span><span class="trans">How come you didn't tell me when you got married? </span>
+* 我们 还 没 开始 吃，他 <em>怎么</em> 已经 吃完 了？<span class="pinyin">Wǒmen hái méi kāishǐ chī, tā <em>zěnme</em> yǐjīng chī wán le? </span><span class="trans">We haven't started eating yet. How come he has already finished eating? </span>
+* 今天 是 星期一，你 <em>怎么</em> 不 去 上班？<span class="pinyin">Jīntiān shì Xīngqīyī, nǐ <em>zěnme</em> bù qù shàngbān? </span><span class="trans">Today is Monday. Why aren't you going to work? </span>
+
+</div>
+
+=== With an Adjective ===
+
+==== Structure ====
+
+In this case,  it's most common to negate the adjective after 怎么 (zěnme).
+
+<div class="jiegou">
+
+Subj. + 怎么 (+ 不) + Adj.
+
+</div>
+
+==== Examples ====
+
+<div class="liju">
+
+* 水 <em>怎么</em> 不 热？<span class="pinyin">Shuǐ <em>zěnme</em> bù rè? </span><span class="trans">Why is the water not hot? </span>
+* 这里 的 川菜 <em>怎么</em> 不 辣？<span class="pinyin">Zhèlǐ de chuāncài <em>zěnme</em> bù là? </span><span class="trans">Why is the Sichuan food here not spicy? </span>
+* 他 亲 了 你，你 <em>怎么</em> 不 高兴 ？<span class="pinyin">Tā qīn le nǐ, nǐ <em>zěnme</em> bù gāoxìng? </span><span class="trans">He kissed you. How come you're not happy? </span>
+* 她 的 小猫 死 了，她 <em>怎么</em> 不 难过？<span class="pinyin">Tā de xiǎomāo sǐ le, tā <em>zěnme</em> bù nánguò? </span><span class="trans">Her kitten died. Why isn't she sad? </span>
+* 每 天 工作 十二 个 小时 ，你 <em>怎么</em> 不 累？<span class="pinyin">Měi tiān gōngzuò shí'èr gè xiǎoshí, nǐ <em>zěnme</em> bù lèi?</span><span class="trans">Every day you work 12 hours. Why are you not tired? </span>
+
+</div>
+
+== "Why So..." Usage ==
+
+=== Structure ===
+
+One pattern this use of 怎么 (zěnme) frequently appears in is with 这么 (zhème) or 那么 (nàme). (For more on 这么 (zhème) and 那么 (nàme), see [[adjectives with "name" and "zheme"|adjectives with "name" and "zheme."]])
+
+<div class="jiegou">
+
+Subj. + 怎么 + 这么 / 那么 + Adj.
+
+</div>
+
+This use of 怎么 (zěnme) could be translated as either "how" or "why"; the actual meaning sort of falls in the fuzzy region between the two.  In any case, it's used to express disbelief: ''how can (something) be so (adjective)?!''
+
+=== Examples ===
+
+<div class="liju">
+
+* 他 <em>怎么</em> 那么 懒？<span class="pinyin">Tā <em>zěnme</em> nàme lǎn? </span><span class="trans">How can he be this lazy? </span>
+* 昨天 <em>怎么</em> 那么 冷？<span class="pinyin">Zuótiān <em>zěnme</em> nàme lěng? </span><span class="trans">How could it be so cold yesterday? </span>
+* 这些人 <em>怎么</em> 这么 吵？<span class="pinyin">Zhèxiē rén <em>zěnme</em> zhème chǎo? </span><span class="trans">How can these people so loud? </span>
+* 北京 的 空气 <em>怎么</em> 那么 差？<span class="pinyin">Běijīng de kōngqì <em>zěnme</em> nàme  chà? </span><span class="trans">How can the air in Beijing be so bad? </span>
+* 你的 汉语 <em>怎么</em> 这么 好？<span class="pinyin">Nǐ de Hànyǔ <em>zěnme</em> zhème hǎo? </span><span class="trans">How is your Mandarin so good? </span>
+
+</div>
+
+==See also==
+
+*[[Placement of question words]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+* [[Integrated Chinese: Level 1, Part 1 (3rd ed)|191}}
+{{Source|HSK Standard Course 2|44}}
+{{Source|HSK Standard Course 5上|6}}
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|怎么|A2|怎么⋯⋯？|你 <em>怎么</em> 没 来？|grammar point|ASGD7NS3}}
+{{Rel char|这么}}
+{{Rel char|那么}}
+{{Similar|How to do something with "zenme"}}
+{{Similar|Placement of question words}}
+{{Similar|"Not often" with "bu zenme"}}
+{{Similar|"Not very" with "bu zenme"}}
+{{Used for|Asking questions}}
+{{Used for|Expressing attitude}}
+{{Used for|Exclaiming}}
+{{Translation|why}}
+{{Structure|Question Forms}}

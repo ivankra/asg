@@ -1,0 +1,53 @@
+<!-- Expressing not knowing how to do something using "hao" -->
+{{Grammar Box}} 
+
+不知道⋯⋯好 (bù zhīdào... hǎo) is an expression used to indicate and emphasize that the speaker does not know how to do something or at least does not know how to do something well.
+
+== Structure ==
+
+<div class="jiegou">
+Subj. + 不知道 + [Verb Phrase] + 好
+</div>
+
+This verb phrase usually includes a question word, like 什么, 谁, 怎么, 哪个, 哪里, 什么时候, etc.
+
+You will sometimes see the adverb 才 preceding the 好, which serves the purpose of emphasis.
+
+== Examples ==
+
+<div class="liju">
+
+*我 真的 <em>不 知道</em> <strong>怎么</strong> 办 <strong>才</strong> <em>好</em> 。<span class="pinyin">Wǒ zhēnde <em>bù zhīdào</em> <strong>zěnme</strong> bàn <strong>cái</strong> <em>hǎo</em>.</span><span class="trans">I really don't know what to do about this .</span>
+*我们 都 <em>不 知道</em> 说 <strong>什么</strong> <em>好</em> 。 <span class="pinyin">Wǒmen dōu <em>bù zhīdào</em> shuō <strong>shénme</strong> <em>hǎo</em>.</span><span class="trans">None of us knew what to say.</span>
+*这 件 事 我 <em>不 知道</em> 跟 <strong>谁</strong> 说 <em>好</em> 。<span class="pinyin">Zhè jiàn shì wǒ <em>bù zhīdào</em> gēn <strong>shéi</strong> shuō <em>hǎo</em>.</span><span class="trans">I'm not sure who to talk to about this matter.</span>
+*老板 <em>不 知道</em> 怪 <strong>谁</strong> <em>好</em> 。<span class="pinyin">Lǎobǎn <em>bù zhīdào</em> guài <strong>shéi</strong> <em>hǎo</em>.</span><span class="trans">The boss wasn't sure who to blame.</span>
+*他 的 短信 我 <em>不 知道</em> <strong>怎么</strong> 回复 <em>好</em> 。 <span class="pinyin">Tā de duǎnxìn wǒ <em>bù zhīdào</em> <strong>zěnme</strong> huífù <em>hǎo</em>.</span><span class="trans">I don't know how to reply to his text.</span>
+*这些 钱 他 <em>不 知道</em> 放 在 <strong>哪儿</strong> <strong>才</strong> <em>好</em> 。 <span class="pinyin">Zhèxiē qián tā <em>bù zhīdào</em> fàng zài <strong>nǎr</strong> <strong>cái</strong> <em>hǎo</em>.</span><span class="trans">He doesn't know where to put this money.</span>
+*下雨天 我 <em>不 知道</em> 带 孩子 去 <strong>哪儿</strong> 玩 <em>好</em> 。<span class="pinyin">Xiàyǔ tiān wǒ <em>bù zhīdào</em> dài hāizi qù <strong>nǎr</strong> wán <em>hǎo</em>.</span><span class="trans">On rainy days, I don't know where to take my kid to play.</span>
+*都 很 漂亮 ，我 <em>不 知道</em> 买 <strong>哪 件</strong> <em>好</em> 。<span class="pinyin">Dōu hěn piàoliang, wǒ <em>bù zhīdào</em> mǎi <strong>nǎ jiàn</strong> <em>hǎo</em>.</span><span class="trans">They're all so pretty. I'm not sure which one to buy.</span>
+*好吃 的 太 多 了 ，孩子们 <em>不 知道</em> 先 吃 <strong>哪个 </strong> <strong>才</strong> <em>好</em> 。 <span class="pinyin">Hǎochī de tài duō le, háizi men <em>bù zhīdào</em> xiān chī <strong>nǎge</strong> <strong>cái</strong> <em>hǎo</em>.</span><span class="trans">There was so much delicious food that the children didn't know where to start eating.</span>
+*我 想 问 ，可是 <em>不 知道</em> <strong>什么 时候</strong> 问 <strong>才</strong> <em>好</em> 。<span class="pinyin">Wǒ xiǎng wèn, kěshì <em>bù zhīdào</em> <strong>shénme shíhou</strong> wèn <strong>cái</strong> <em>hǎo</em>.</span><span class="trans">I want to ask, but I'm not sure when to ask.</span>
+
+</div>
+
+== See also ==
+
+*[[Expressing lateness with "cai"]]
+*[[Expressing Difficulty with "hao (bu) rongyi"]]
+*[[Result complement "-hao"]]
+
+== Sources  and further reading ==
+
+=== Books ===
+
+{{Source|Boya Chinese Upper Intermediate 1 (博雅汉语中级冲刺篇)|77}}
+
+[[Category:B1 grammar points]]
+{{Basic Grammar|不知道|B1|Subj. + 不知道 + Verb Phrase + 好|我 真的 <em>不 知道</em> 怎么办<strong>才</strong> <em>好</em> 。|grammar point|ASG0EQQJ}}
+{{Rel char|好}}
+{{Similar|Result complement "-hao"}}
+{{Similar|Expressing Difficulty with "hao (bu) rongyi"}}
+{{Used for| Expressing quality}}
+{{Used for|Comprehending}}
+{{Structure|Sentence Patterns}}
+{{Subprop|Basic/Simple Sentence Patterns}}

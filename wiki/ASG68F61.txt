@@ -1,0 +1,76 @@
+<!-- Expressing "when" with "dengdao" -->
+{{Grammar Box}} 
+
+The word 等到 (děngdào) can trip up learners, because while it can literally mean "to wait until," it also has the less literal translation meaning "when (the time comes)" or "by the time (something happens)." This is a pattern that appears in complex sentences, with 等到 acting as a [[conjunction]] and appearing in the first part as the first word in the sentence.
+
+== Used for the Future ==
+
+When talking about the future, the second part of the sentence uses [[就]] (jiù) or [[再]] (zài).
+
+=== Structure ===
+
+<div class="jiegou">
+等(到) + Time / Event ，Subj. + 再 / 就 + Predicate
+</div>
+
+The [[predicate]] part of the pattern can be a verb or an adjective.
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>等到</em> 老板 知道 <strong>就</strong> 麻烦 了。<span class="pinyin"><em>Děngdào</em> lǎobǎn zhīdào <strong>jiù</strong> máfan le.</span><span class="trans">When the boss finds out, we'll be in trouble.</span>
+*<em>等</em> 雨 停 了 我 <strong>再</strong> 出门 。<span class="pinyin"><em>Děng</em> yǔ tíng le wǒ <strong>zài</strong> chūmén.</span><span class="trans">When the rain stops, I'll go outside.</span>
+*<em>等到</em> 秋天 ，这些 树叶 <strong>就</strong> 会 变 黄 。<span class="pinyin"><em>Děngdào</em> qiūtiān, zhèxiē shùyè <strong>jiù</strong> huì biàn huáng.</span><span class="trans">When autumn arrives, these leaves will turn yellow.</span>
+*<em>等</em> 做 完 这个 项目 ，我 <strong>就</strong> 休假 。<span class="pinyin"><em>Děng</em> zuò wán zhège xiàngmù, wǒ <strong>jiù</strong> xiūjià.</span><span class="trans">I will take a vacation when I finish this project.</span>
+*<em>等到</em> 老板 签 了 字 ，我 <strong>再</strong> 做 安排 。<span class="pinyin"><em>Děngdào</em> lǎobǎn qiān le zì, wǒ <strong>zài</strong> zuò ānpái.</span><span class="trans">I will make arrangements once the boss signs off on it.</span>
+
+</div>
+
+== Used for the Past ==
+
+For the past, the second part of the sentence uses [[才]] (cái). This pattern is very similar to [[Expressing "all the way until" with "zhidao"|how 直到 (zhídào) is used to mean "all the way until"]], and also overlaps with the [[Expressing lateness with "cai"|use of 才 to express lateness]].
+
+=== Structure ===
+
+<div class="jiegou">
+等(到) + Time / Event ，Subj. + 才 + Predicate
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>等</em> 我 回 了 家 ，<strong>才</strong> 发现 手机 忘 在 了 出租车 上 。<span class="pinyin"><em>Děng</em> wǒ huí le jiā, <strong>cái</strong> fāxiàn shǒujī wàng zài le chūzūchē shàng.</span><span class="trans">I didn't realize I left my cell phone in the taxi until I got home.</span>
+*<em>等到</em> 孩子 上 了 小学 ，她 <strong>才</strong> 开始 工作 。<span class="pinyin"><em>Děngdào</em> háizi shàng le xiǎoxué, tā <strong>cái</strong> kāishǐ gōngzuò.</span><span class="trans">She didn't start working until her children had started elementary school.</span>
+*<em>等</em> 学生 都 安静 了 ，老师  <strong>才</strong> 开始 上课 。<span class="pinyin"><em>Děng</em> xuéshēng dōu ānjìng le, lǎoshī <strong>cái</strong> kāishǐ shàngkè.</span><span class="trans">The teacher didn't begin the class until the students all became quiet.</span>
+*<em>等</em> 他 有 了 孩子 ，<strong>才</strong> 知道 做 父母 多么 不 容易 。<span class="pinyin"><em>Děng</em> tā yǒu le háizi, <strong>cái</strong> zhīdào zuò fùmǔ duōme bù róngyì.</span><span class="trans">It wasn't until he had had a child that he realized how hard it is to be a parent.</span>
+*<em>等到</em> 他 到 家 了 ，<strong>才</strong> 发现 他 没有 带 钥匙 。<span class="pinyin"><em>Děngdào</em> tā dào jiā le, <strong>cái</strong> fāxiàn tā méiyǒu dài yàoshi.</span><span class="trans">It wasn't until he got home that he found that he didn't have his keys.</span>
+
+</div>
+
+== See also ==
+
+*[[Complement with "dao"]]
+*[[Expressing "all the way until" with "zhidao"]]
+
+== Sources and further reading == 
+
+=== Books ===
+
+[[Category:B1 grammar points]]
+{{HSK|HSK0}}
+{{Basic Grammar|等到|B1|等(到) + Time / Event ，Subj. + 再 / 就 ⋯⋯|<em>等到</em> 大学 毕业 ，我 就 不 住 在 学校 了。|grammar point|ASG68F61}}
+{{Used for|Expressing time and date}}
+{{Rel char|等}}
+{{Rel char|到}}
+{{Rel char|就}}
+{{Rel char|再}}
+{{Rel char|才}}
+{{Similar|Expressing "all the way until" with "zhidao"}}
+{{Similar|Expressing lateness with "cai"}}
+{{Structure|Sentence Patterns}}
+{{Subprop|Complex Sentence Patterns}}
+{{Translation|when}}
+{{Translation|once}}
+{{Translation|until}}

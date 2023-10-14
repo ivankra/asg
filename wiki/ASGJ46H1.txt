@@ -1,0 +1,74 @@
+<!-- Comparing "er" and "liang" -->
+{{Grammar Box}} 
+
+In Chinese, there are two words for "two." They are 二 (èr) and 两 (liǎng), and each is used in different circumstances.
+
+== Uses of 二 (èr)==
+
+=== 二 (èr) Is for Numbers ===
+
+The digit "2" is 二 (èr). This is used generally in numbers, when counting to ten, giving out a phone number, and so on. 
+
+Unlike 两 (liǎng), 二 (èr) is not used to say there are "two" of something, and does not generally occur with [[measure words]] by itself. Numbers like 十二 (12) (shí'èr) and 二十二 (22) (èrshí-èr) end with a "2" and can still be combined with measure words. In those cases, 两 (liǎng) is not needed.
+
+=== Examples ===
+
+Here are some common examples of 二 (èr) in action:
+
+<div class="liju">
+
+* 第 <em>二</em> <span class="pinyin">dì-<em>èr</em></span><span class="trans">#2; second</span>
+* 第 <em>二</em> 个 <span class="pinyin">dì-<em>èr</em> gè</span><span class="trans">the second one</span>
+* 第 <em>二</em> 次 <span class="pinyin">dì-<em>èr</em> cì</span><span class="trans">the second time</span>
+* <em>二</em>月 <span class="pinyin"><em>Èr</em>yuè</span><span class="trans">February (the second month)</span>
+* <em>二</em> 号 <span class="pinyin"><em>èr</em> hào</span><span class="trans">#2; the second (of the month)</span>
+* <em>二</em> 号 线 <span class="pinyin"><em>èr</em> hào xiàn</span><span class="trans">Line 2 (of the metro)</span>
+* <em>二</em> 楼 <span class="pinyin"><em>èr</em> lóu</span><span class="trans">second floor</span>
+* 十<em>二</em> <span class="pinyin">shí'<em>èr</em></span><span class="trans">12</span>
+* <em>二</em>十 <span class="pinyin"><em>èr</em>shí</span><span class="trans">20</span>
+* 十<em>二</em> 块 钱 <span class="pinyin">shí'<em>èr</em> kuài qián</span><span class="trans">12 RMB</span>
+* <em>二</em> 十 块 钱 <span class="pinyin"><em>èr</em>shí kuài qián</span><span class="trans">20 RMB</span>
+* <em>二</em> 十 <em>二</em> 个 人 <span class="pinyin"><em>èr</em>shí-<em>èr</em> gè rén</span><span class="trans">twenty-two people</span>
+
+</div>
+
+== Uses of 两 (liǎng)==
+
+=== 两 (liǎng) Is for Measure Words ===
+
+When specifying quantities (and using [[measure word]]s to do it), 两 (liǎng) is used. This is when you want to say "two of something" or "both."  
+
+Here are some common examples of 两 (liǎng) in action:
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>两</em> 个 小时 <span class="pinyin"><em>liǎng</em> gè xiǎoshí</span><span class="trans">two hours</span>
+*<em>两</em> 点 <span class="pinyin"><em>liǎng</em> diǎn</span><span class="trans">2 o'clock</span>
+*<em>两</em> 天 <span class="pinyin"><em>liǎng</em> tiān</span><span class="trans">two days</span>
+*<em>两</em> 个 星期 <span class="pinyin"><em>liǎng</em> gè xīngqī</span><span class="trans">two weeks</span>
+*<em>两</em> 个 月 <span class="pinyin"><em>liǎng</em> gè yuè</span><span class="trans">two months</span>
+*<em>两</em> 年 <span class="pinyin"><em>liǎng</em> nián</span><span class="trans">two years</span>
+*<em>两</em> 次 <span class="pinyin"><em>liǎng</em> cì</span><span class="trans">two times / twice</span>
+*<em>两</em> 块 钱 <span class="pinyin"><em>liǎng</em> kuài qián</span><span class="trans">2 kuai / 2 RMB</span>
+*<em>两</em>百 <span class="expl">note: 二百 (èrbǎi) is also acceptable.</span><span class="pinyin"><em>liǎng</em>bǎi</span><span class="trans">200</span>
+*<em>两</em>千 <span class="pinyin"><em>liǎng</em> qiān</span><span class="trans">2,000</span>
+*我 <em>两</em> 个 都 要 。 <span class="pinyin">Wǒ <em>liǎng</em> gè dōu yào.</span><span class="trans">I want both of them.</span>
+
+</div>
+
+== Sources and further reading ==
+
+{{Source|Chinese: An Essential Grammar, Second Edition|16-7}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|53}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|28}}
+
+[[Category:grammar comparison]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|二|A1|二 vs 两|<em>两</em> 个 人。<em>二</em> 十 <em>二</em>。|grammar point|ASGJ46H1}}
+{{Similar|Structure of numbers}}
+{{Rel char|两}}
+{{Comparison|Numbers}}
+{{Translation|two}}
+{{Used for| Expressing quantity}}

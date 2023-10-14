@@ -1,0 +1,42 @@
+<!-- Expressing "no" (noun) "to" (verb) with "wu... ke..." -->
+{{stub}}
+
+This pattern is formal and has sort of a classical feel to it. It's a more condensed form of "没有 [Noun] 可以 [Verb]." 无 (wú) means "to not have" (same as 没有), and  可 can stand in for 可以. This pattern is useful when you want to express that a person is unable to perform the verb because the noun/object is not present.
+
+== Structure ==
+
+<div class="jiegou">
+无 + Noun + 可 + Verb
+</div>
+
+Sometimes the noun or the verb will have an archaic feel to it, like 处 (chù) for "place," or 归 (guī) for "return to."
+
+== Examples ==
+
+<div class="liju">
+* 我 和 他 <em>无</em> 话 <em>可</em> 说。<span class="pinyin">Wǒ hé tā <em>wú</em> huà <em>kě</em> shuō.</span><span class="trans">I had nothing to say to him.</span>
+* 公司 倒闭 了，小王 觉得 自己 现在 <em>无</em> 路 <em>可</em> 走。<span class="pinyin">Gōngsī dǎobì le, Xiǎo Wáng juéde zìjǐ xiànzài <em>wú</em> lù <em>kě</em> zǒu.</span><span class="trans">The company has gone bankrupt, and Xiao Wang feels that he has nowhere to go.</span>
+* 公司 需要 招聘 新人 了，我 现在 <em>无</em> 人 <em>可</em> 用。<span class="pinyin">Gōngsī xūyào zhāopìn xīnrén le, wǒ xiànzài <em>wú</em> rén <em>kě</em> yòng.</span><span class="trans">The company needs to recruit new people. I have no one to help me now.</span>
+* 从 四月份 开始，公司 客户 减少，我 每天 都 <em>无</em> 事 <em>可</em> 做。<span class="pinyin">Cóng sìyuèfèn kāishǐ, gōngsī kèhù jiǎnshǎo, wǒ měitiān dōu <em>wú</em> shì <em>kě</em> zuò.</span><span class="trans">Since April, the company has fewer clients, so I have nothing to do every day.</span>
+* 我的 房子 到期 了，但是 我 还 没有 找到 新 房子，我 现在 <em>无</em> 处 <em>可</em> 去。<span class="pinyin">Wǒde fángzi dàoqī le, dànshì wǒ hái méiyǒu zhǎodào xīn fángzi, wǒ xiànzài <em>wú</em> chǔ <em>kě</em> qù.</span><span class="trans">My lease is up, but I haven't found a new place yet, so I have nowhere to go.</span>
+* 很 多 30岁 以上 的 女演员 说 自己 <em>无</em> 戏 <em>可</em> 拍。<span class="pinyin">Hěn duō sānshí suì yǐshàng de nǚ yǎnyuán shuō zìjǐ <em>wú</em> xì <em>kě</em> pāi.</span><span class="trans">Many actresses over 30 say there are no films they can do.</span>
+* 公司 的 现金流 断 了 ，所以 公司 <em>无</em> 钱 <em>可</em> 用。 <span class="pinyin">Gōngsī de xiànjīn liú duàn le, suǒyǐ gōngsī <em>wú</em> qián <em>kě</em> yòng.</span><span class="trans">The company's cash flow has been cut off, so the company has no cash it can spend.</span>
+* 这 部 电影 太 火 了 ，所有 的 票 都 卖完 了， <em>无</em> 票 <em>可</em> 买。<span class="pinyin">Zhè bù diànyǐng tài huǒ le, suǒyǒu de piào dōu mài wán le, <em>wú</em> piào <em>kě</em> mǎi.</span><span class="trans">This movie was so popular that all the tickets sold out and there are no more tickets for sale.<span class="trans"></span>
+* 我 在 上海 没有 朋友，所以 这些 烦恼 <em>无</em> 人 <em>可</em> 说。<span class="pinyin">Wǒ zài Shànghǎi méiyǒu péngyou, suǒyǐ zhèxiē fánnǎo <em>wú</em> rén <em>kě</em> shuō.</span><span class="trans">I have no friends in Shanghai, so I have no one to talk to about these worries.</span>
+* 在 美国 大部分 <em>无家可归</em> 的 人 有 精神 问题 。 <span class="pinyin">Zài Měiguó dàbùfen <em>wújiākěguī</em> de rén yǒu jīngshén wèntí.</span><span class="trans">In the US, most homeless people have mental health issues.</span>
+</div>
+
+==Sources and further reading==
+
+=== Books ===
+
+{{Source|Anything Goes (无所不谈)|107}}
+
+[[Category:B2 grammar points]]
+{{Used for|Complaining}}
+{{Basic Grammar|无|B2|无 + Noun + 可 + Verb|我 <em>无</em> 话 <em>可</em> 说。|grammar point|ASGBA782}}
+{{Rel char|可}}
+{{Similar|Negation of "you" with "mei"}}
+{{Structure|Sentence Patterns}}
+{{Translation|no}}
+{{Translation|can}}

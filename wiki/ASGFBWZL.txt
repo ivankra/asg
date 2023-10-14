@@ -1,0 +1,133 @@
+<!-- Expressing location with "zai... shang / xia / li" -->
+{{Grammar Box}}
+
+You can [[Indicating location with "zai" before verbs|use 在 (zài) to express location]], but this article will explain how to use 在 (zài) to express location in relation to another object. This way, you can describe if something is "on the table" or "in the room."
+
+== 在 (zài) with "Big Locations" ==
+
+If you're talking about a "big place," like a country or city, then all you need is 在 (zài) and the name of the place.  
+
+=== Structure ===
+
+<div class="jiegou">
+在 + Place
+</div>
+
+=== Examples ===
+
+For example, these phrases are fine just as they are:
+
+<div class="liju">
+* <em>在</em> 中国 <span class="pinyin"><em>zài</em>Zhōngguó</span><span class="trans">in China</span>
+* <em>在</em> 美国 <span class="pinyin"><em>zài</em> Měiguó</span><span class="trans">in the USA</span>
+* <em>在</em> 上海 <span class="pinyin"><em>zài</em> Shànghǎi</span><span class="trans">in Shanghai</span>
+* <em>在</em> 纽约 <span class="pinyin"><em>zài</em> Niǔyuē</span><span class="trans">in New York</span>
+</div>
+
+You wouldn't want to add other words to the ends of these place names.
+
+== 在 (zài) with Specific Locations==
+
+To show where an object is in relation to another object, make a "sandwich" starting with 在 (zài), add a place, and then add one of the following words: 上 (shàng), 下 (xià), 里 (lǐ), 旁边 (pángbiān).
+
+=== Structure ===
+
+<div class="jiegou">
+在 + Location+ 上 / 下 / 里 / 旁边
+</div>
+
+Notice that the [[preposition| "preposition"]] comes after the location and object that it modifies. That is, in English we say "on the table," but in Chinese, it is more like "at the table, on." This can be somewhat confusing, but don't worry. Once you start using this construction, it gets easy really quickly.
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>在</em> 桌子 <strong>上</strong> 。<span class="pinyin"><em>zài</em> zhuōzi <strong>shàng</strong></span><span class="trans">on the table</span>
+*<em>在</em> 地<strong>上</strong> 。<span class="pinyin"><em>zài</em> dì<strong>shàng</strong></span><span class="trans">on the floor.</span>
+*你 的 手机 <em>在</em> 包 <strong>里</strong> 吗 ？<span class="pinyin">Nǐ de shǒujī <em>zài</em> bāo <strong>lǐ</strong> ma?</span><span class="trans">Is your cell phone in the bag?</span>
+*他 <em>在</em> 楼 <strong>下</strong> 。<span class="pinyin">Tā <em>zài</em> lóu<strong>xià</strong>.</span><span class="trans">He is downstairs.</span>
+*Walmart <em>在</em> 我家 <strong>旁边</strong>  。<span class="pinyin">Walmart <em>zài</em> wǒ jiā <strong>pángbiān</strong>.</span><span class="trans">Walmart is next to my house.</span>
+*我 <em>在</em> 火车 <strong>上</strong> 。<span class="pinyin">Wǒ <em>zài</em> huǒchē <strong>shàng</strong>.</span><span class="trans">I am on the train.</span>
+*我 <em>在</em> 地铁 <strong>上</strong> 。<span class="pinyin">Wǒ <em>zài</em> dìtiě <strong>shàng</strong>.</span><span class="trans">I'm on the metro.</span>
+
+</div>
+
+== 在 (zài) with Specific Occasion ==
+
+=== Structure ===
+
+<div class="jiegou">
+在 + Occasion + 上
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>在</em> 课 <em>上</em><span class="pinyin"><em>zài</em> kè <strong>shàng</strong></span><span class="trans">in class</span>
+*<em>在</em> 派对 <em>上</em><span class="pinyin"><em>zài</em> pàiduì <strong>shàng</strong></span><span class="trans">at the party</span>
+*<em>在</em> 会议 <em>上</em><span class="pinyin"><em>zài</em> huìyì <strong>shàng</strong></span><span class="trans">at the meeting</span>
+*<em>在</em> 婚礼 <em>上</em><span class="pinyin"><em>zài</em> hūnlǐ <strong>shàng</strong></span><span class="trans">at the wedding</span>
+
+</div>
+
+== Common Nouns of Locality ==
+
+The little words that come after the location in the phrases above aren't really "prepositions." They are called "nouns of locality," or 方位词 (fāngwèicí) in Chinese.  They actually tend to have several forms, which can be confusing if you're not used to them.  The chart below shows their most common forms:
+
+<table class="table big-text table-striped table-bordered">
+<tr>
+<th style="width:15%"  data-pdf-style="width:30%">One-Character</th>
+<th style="width:25%"  data-pdf-style="width:45%">Two-Character</th>
+<th style="width:17%"  data-pdf-style="width:25%">English</th>
+</tr>
+<tr><td>上<span class="pinyin">shàng</span></td><td>上面 / 上边<span class="pinyin">shàngmiàn / shàngbian</span></td><td>top, above</td></tr>
+<tr><td>下<span class="pinyin">xià</span></td><td>下面 / 下边<span class="pinyin">xiàmiàn / xiàbian</span></td><td>bottom, under</td></tr>
+<tr><td>里<span class="pinyin">lǐ</span></td><td>里面 / 里边<span class="pinyin">lǐmiàn / lǐbian</span></td><td>inside</td></tr>
+<tr><td>外<span class="pinyin">wài</span></td><td>外面 / 外边<span class="pinyin">wàimiàn / wàibian	</span></td><td>outside</td></tr>
+<tr><td>边<span class="pinyin">biān</span></td><td>旁边<span class="pinyin">pángbiān</span></td><td>side, beside</td></tr>
+<tr><td>前<span class="pinyin">qián</span></td><td>前面 / 前边<span class="pinyin">qiánmiàn / qiánbian	</span></td><td>front</td></tr>
+<tr><td>后<span class="pinyin">hòu</span></td><td>后面 / 后边<span class="pinyin">hòumiàn / hòubian</span></td><td>back, behind</td></tr>
+<tr><td>左<span class="pinyin">zuǒ</span></td><td>左边<span class="pinyin">zuǒbian</span></td><td>left</td></tr>
+<tr><td>右<span class="pinyin">yòu</span></td><td>右边<span class="pinyin">yòubian</span></td><td>right</td></tr>
+</table>
+
+==Abstract Uses==
+
+Some prepositions can be paired with more abstract concepts to form idiomatic phrases. These kinds of phrases can really make your Chinese sound polished. Later on you will learn about these [[idiomatic phrases with "zai"]].
+
+==See Also==
+
+*[[Indicating location with "zai" before verbs]]
+*[[Special cases of "zai" following verbs]]
+*[[Expressing existence in a place with "zai"]]
+
+==Sources and Further Reading==
+
+===Books===
+
+{{Source|HSK Standard Course 4上|10}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|128}}
+{{Source|Integrated Chinese: Level 2, Part 1|191}}
+{{Source|Integrated Chinese: Level 2, Part 2|264, 325}}
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|40-1, 164-5, 185}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK4}}
+[[Category:Table]]
+{{Used for|Expressing location}}
+{{Used for|Describing places}}
+{{Used for|Giving directions}}
+{{Basic Grammar|在|A2|在 + Place + 上 / 下 / 里 / 旁边|你 的 手机 <em>在</em> 桌子 <em>上</em>。|grammar point|ASGFBWZL}}
+{{Rel char|上}}
+{{Rel char|下}}
+{{Rel char|里}}
+{{Similar|Expressing existence in a place with "zai"}}
+{{Similar|Indicating location with "zai" before verbs}}
+{{Similar|Special cases of "zai" following verbs}}
+{{Similar|Complements with "dao," "gei" and "zai"}}
+{{Similar|Idiomatic phrases with "zai"}}
+{{Structure|Sentence Patterns}}
+{{Translation|in}}
+{{Translation|at}}
+{{Translation|on}}

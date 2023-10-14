@@ -1,0 +1,85 @@
+<!-- Basic comparisons with "yiyang" -->
+{{Grammar Box}} 
+Along with [[Basic comparisons with "bi"|比 (bǐ)]] and [[Basic comparisons with "meiyou"|没有 (méiyǒu)]], 一样 (yīyàng) is another way to make basic [[comparing|comparisons]]. However, 一样 (yīyàng) is used to express that two things are ''the same'' in some way. 
+
+== Basic Usage ==
+
+=== Structure ===
+
+This simple structure is used for stating that two things are the same:
+
+<div class="jiegou">
+Noun 1 + 跟 / 和 + Noun 2 + 一样
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我 <em>和</em> 你 <em>一样</em> 。<span class="pinyin">Wǒ <em>hé</em> nǐ <em>yīyàng</em>.</span><span class="trans">I am the same as you.</span>
+*他 的 性格 <em>跟</em> 他 妈妈 <em>一样</em> 。<span class="pinyin">Tā de xìnggé <em>gēn</em> tā māma <em>yīyàng</em>.</span><span class="trans">He has the same personality as his mom.</span>
+*北京 的 天气 <em>和</em> 上海  不 <em>一样</em> 。<span class="pinyin">Běijīng de tiānqì <em>hé</em> Shànghǎi bù <em>yīyàng</em>.</span><span class="trans">The weather in Beijing and the weather in Shanghai are not alike.</span>
+*这 个 词 的 意思 <em>和</em> 那 个 词 <em>一样</em> 吗 ？<span class="pinyin">Zhège cí de yìsi <em>hé</em> nàge cí <em>yīyàng</em> ma?</span><span class="trans">Are the meanings of this word and that word the same?</span>
+*美国 文化 <em>跟</em> 中国 文化 不 <em>一样</em> 。<span class="pinyin">Měiguó wénhuà <em>gēn</em> Zhōngguó wénhuà bù <em>yīyàng</em>.</span><span class="trans">American culture and Chinese culture are not the same.</span>
+
+</div>
+
+== 一样 (yīyàng) with Adjectives ==
+
+=== Structure ===
+
+To add an adjective into the mix, just place it after 一样 (yīyàng):
+
+<div class="jiegou">
+Noun 1 + 跟 / 和 + Noun 2 + 一样 + Adj.
+</div>
+
+This describes Noun 1 as being as ''adjective'' as Noun 2.
+
+=== Examples ===
+
+<div class="liju">
+
+*你家 <em>跟</em> 我家 <em>一样</em> 大。 <span class="pinyin">Nǐ jiā <em>gēn</em>  wǒ jiā <em>yīyàng</em> dà.</span><span class="trans">Your house is just as big as mine.</span>
+*她 <em>和</em> 她 哥哥 <em>一样</em> 高。 <span class="pinyin">Tā <em>hé</em> tā gēge <em>yīyàng</em> gāo.</span><span class="trans">She and her older brother are equally tall.</span>
+*你 的 头发 <em>和</em> 我的 头发 <em>一样</em> 长。<span class="pinyin">Nǐ de tóufa <em>hé</em> wǒ de tóufa <em>yīyàng</em> cháng.</span><span class="trans">You hair is as long as mine.</span>
+*这里 的 天气<em>跟</em> 我 老家 <em>一样</em> 舒服。<span class="pinyin">Zhèlǐ de tiānqì <em>gēn</em> wǒ lǎojiā <em>yīyàng</em> shūfu.</span><span class="trans">The weather here is just as comfortable as my hometown's.</span>
+*你 <em>跟</em> 老板 <em>一样</em> 忙 吗？<span class="pinyin">Nǐ <em>gēn</em> lǎobǎn <em>yīyàng</em> máng ma?</span><span class="trans">Are you as busy as the boss is?</span>
+
+</div>
+
+There is also a similar but more advanced usage of this pattern that [[Comparing specifically with "xiang"|uses 像 (xiàng)]].
+
+== See also ==
+
+* [[Basic comparisons with "bi"]]
+* [[Basic comparisons with "meiyou"]]
+* [[Comparing]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|75}}
+{{Source|Chinese: An Essential Grammar, Second Edition|55}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|244}}
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2)|108}}
+
+=== Websites ===
+
+* Yale Chinese Usage Dictionary: [http://comet.cls.yale.edu/chineseusagedictionary/0220.html Usage of 跟 and 比]
+
+[[Category:A2 grammar points]]
+{{HSK|HSK3}}
+[[Category:Comparison]]
+{{Basic Grammar|跟|A2|Noun 1 + 跟 / 和 + Noun 2 + 一样 + Adj.|你 <em>跟</em> 他 <em>一样</em> 高 。|grammar point|ASGC06N0}}
+{{Rel char|一样}}
+{{Rel char|和}}
+{{Similar|Basic comparisons with "bi"}}        
+{{Similar|Basic comparisons with "meiyou"}}
+{{Similar|Expressing comparable degree with "you"}}        
+{{Similar|Comparing}}
+{{Used for|Comparing}}
+{{Used for|Expressing similarity}}
+{{POS|Adverbs with Adjectives}}
+{{Translation|same}}

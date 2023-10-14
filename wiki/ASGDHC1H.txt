@@ -1,0 +1,57 @@
+<!-- Softening speech with "ba" -->
+{{Grammar Box}} 
+
+The particle 吧 (ba) can be used to soften the feel of a sentence. This could be to make it more polite, gentler and less forceful, or to turn a command into a suggestion.
+
+== Structure ==
+
+<div class="jiegou">
+
+Statement + 吧
+
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+* 这 不 太 好 <em>吧</em> 。<span class="pinyin"> Zhè bù tài hǎo <em>ba</em>.</span><span class="trans">This isn't so good.</span>
+* 算了 <em>吧</em> 。<span class="pinyin"> Suàn le <em>ba</em>.</span><span class="trans">Let's forget it.</span>
+* 应该 是 <em>吧</em> 。<span class="pinyin"> Yīnggāi shì <em>ba</em>.</span><span class="trans">It should be.</span>
+* 钱 太 少 了 <em>吧</em> 。<span class="pinyin"> Qián tài shǎo le <em>ba</em>.</span><span class="trans">It's too little money.</span>
+* 再 等 一 等 <em>吧</em> 。<span class="pinyin"> Zài děng yī děng <em>ba</em>.</span><span class="trans">Wait a little longer.</span>
+* 太 晚 了 ，不要 走 了 <em>吧</em> 。<span class="pinyin">Tài wǎn le,  bùyào zǒu le <em>ba</em>.</span><span class="trans">It's too late now, don't leave.</span>
+* 你们 早 点 来 <em>吧</em> 。 <span class="pinyin">Nǐmen zǎo diǎn lái <em>ba</em>.</span><span class="trans">Come a little earlier.</span>
+* 快 点 <em>吧</em> ， 要 迟到 了。<span class="pinyin">Kuài diǎn <em>ba</em>, yào chídào le.</span><span class="trans">Please hurry, we're going to be late.</span>
+* 太 贵 了 <em>吧</em> ， 我 不 买 了。 <span class="pinyin">Tài guì le <em>ba</em>, wǒ bù mǎi le.</span><span class="trans">It's too expensive. I'm not buying it.</span>
+*  那 个 地方 太 远 了 <em>吧</em>，我 不 想 去。 <span class="pinyin"> Nàge dìfang tài yuǎn le <em>ba</em>，wǒ bù xiǎng qù.</span><span class="trans">That place is too far away. I don't want to go.</span>
+
+</div>
+
+==See also==
+*[[Suggestions with "ba"]]
+*[[Conceding with "ba"]]
+*[[Reviewing options with "ba"]]
+*[[Verb reduplication]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|101}}
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级)|284}}
+{{Source|Short-term Spoken Chinese: Pre-Intermediate (汉语口语速成提高篇)|52-3}}
+{{Source|Short-term Spoken Chinese: Elementary (汉语口语速成基础篇)|98}} 
+{{Source|Boya Chinese Elementary Starter 1 (博雅汉语初经起步篇)|55}}
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|246}}
+{{Source|Integrated Chinese: Level 2, Part 2|191- 2}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{Basic Grammar|吧|A2|⋯⋯吧|这样 不 太 好 <em>吧</em>。|grammar point|ASGDHC1H}}
+{{Similar|Suggestions with ba}}
+{{Similar|Conceding with "ba"}}
+{{Similar|Verb reduplication}}
+{{Similar|Softening the tone of questions with "ne"}}
+{{Used for|Expressing attitude}}
+{{POS|Particles}}

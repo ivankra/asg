@@ -1,0 +1,49 @@
+<!-- Challenging an adjective with "shenme" -->
+{{Grammar Box}} 
+Adding 什么 (shénme) after an adjective can be used to form a [http://en.wikipedia.org/wiki/Rhetorical_question| rhetorical question]. The speaker is implying that there's no good reason to be [adjective].
+
+== Structure ==
+
+<div class="jiegou">
+Adj. + 什么 (+ Adj.) (+ 啊 / 呀) ？
+</div>
+
+Note that in this pattern, adjectives and [[psychological verb]]s both work equally well. We haven't distinguished between the two in the examples below, but that shouldn't present any problems.
+
+== Examples ==
+
+<div class="liju">
+*<em>胖 什么 胖</em> 啊，在 北方，这样的 人 很 常见。<span class="pinyin"><em>Pàng shénme pàng</em> a, zài běifāng, zhèyàng de rén hěn chángjiàn.</span><span class="trans">Who are you calling fat? People like this are common in the north.</span>
+*<em>大 什么 大</em> 啊，四 个 人 住在 一起，房间 太 小 了。<span class="pinyin"><em>Dà shénme dà</em> a, sì gè rén zhùzài yīqǐ, fángjiān tài xiǎo le.</span><span class="trans">You call this big? If you have four people living here together it's too small.</span>
+*<em>高 什么</em> 啊，上海 还有 更 高的 大楼。<span class="pinyin"><em>Gāo shénme</em> a, Shànghǎi háiyǒu gèng gāo de dàlóu.</span><span class="trans">What do you mean, "tall"? There are even taller buildings in Shanghai.</span>
+*<em>累 什么 累</em> 啊，你 一 个 星期 只 工作 四 天。<span class="pinyin"><em>Lèi shénme lèi</em> a, nǐ yī gè xīngqī zhī gōngzuò sì tiān.</span><span class="trans">How are you tired? You only work four days a week.</span>
+*<em>聪明 什么</em> 啊，比 我 聪明 的 人 有 很 多 。<span class="pinyin"><em>Cōngming shénme</em> a, bǐ wǒ cōngming de rén yǒu hěnduō.</span><span class="trans">Smart? There are a lot of people smarter than me.</span>
+*<em>紧张 什么</em> 啊，你 不 是 上 过 好 几 次 舞台 了 吗 ？应该 早 就 习惯 了 吧。<span class="pinyin"><em>Jǐnzhāng shénme</em> a, nǐ bù shì shàng guo hǎo jǐ cì wǔtái le ma? Yīnggāi zǎo jiù xíguàn le ba.</span><span class="trans">What are you nervous for? Haven't you been on stage a bunch of times? You should be used to it by now.</span>
+*<em>担心 什么</em> 啊，肯定 可以 买到 票 的。<span class="pinyin"><em>Dānxīn shénme</em> a, kěndìng kěyǐ mǎi dào piào de.</span><span class="trans">What are you worried about? We'll definitely be able to buy the tickets.</span>
+*<em>难过 什么</em> 啊，以后 还 会 再 见 的。<span class="pinyin"><em>Nánguò shénme</em> a, yǐhòu hái huì zài jiàn de.</span><span class="trans">What are you sad about? We'll meet again for sure.</span>
+*<em>郁闷 什么</em> 呀，看看 这 蓝蓝的 天空，绿绿的 田园，生活 多 美好 啊！<span class="pinyin"><em>Yùmèn shénme</em> ya, kàn-kan zhè lánlán de tiānkōng, lǜlǜ de tiányuán, shēnghuó duō měihǎo a!</span><span class="trans">Why so glum? Look at that blue sky, those green fields. Life is so wonderful!</span> 
+</div>
+
+If the adjective or psychological verb is repeated after the 什么 as in some of the examples above, it acts to give further emphasis. It almost has a tone of incredulity, a bit like "what on earth are you worried/anxious about?" Generally only single character adjectives can be used in this way.
+
+<div class="liju">
+<ul>
+<li class="o">你 <em>忙 什么 忙</em> ？<span class="pinyin">Nǐ <em>máng shénme máng</em>?</span><span class="trans">What are you busy with?</span></li>
+<li class="x">你 <em>紧张 什么 紧张</em> ？<span class="pinyin">Nǐ <em>jǐnzhāng shénme jǐnzhāng</em>?
+<li class="o">你 <em>紧张 什么</em> ？<span class="pinyin">Nǐ <em>jǐnzhāng shénme</em>?
+</span><span class="trans">What are you nervous about?</span></li>
+</ul>
+
+</div>
+
+== See also ==
+
+* [[Challenging a  Verb with ''shenme'"]]
+
+== Sources and Further Reading ==
+
+[[Category: Adjectives]]
+{{Basic Grammar|什么||Adj. + 什么？|你<em>急 什么 急</em>，还 早 着 呢。|grammar point|ASGNV2TZ}}
+{{Similar|Challenging a verb with "shenme"}}
+{{Used for|Asking questions}}
+{{POS|Adjectives}}

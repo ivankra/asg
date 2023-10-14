@@ -1,0 +1,115 @@
+<!-- Expressing earliness with "jiu" -->
+{{Grammar Box}} 
+
+Just as [[Expressing lateness with "cai"|才 (cái) can express lateness]], 就 (jiù) can be used to indicate that something happened earlier or sooner than expected.  It can also be used in the near future to indicate something will happen very soon.
+
+== Used as "Right Away" (in the Future) ==
+
+When something happens "right away," you're talking about "very soon" in the ''future''.
+
+=== Structure ===
+
+The pattern is as follows:
+
+<div class="jiegou">
+Subj. + Time + 就 + Verb 
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我 马上 <em>就</em> 来 。<span class="pinyin">Wǒ mǎshàng <em>jiù</em> lái.</span><span class="trans">I'll be there in a second.</span>
+*米饭 二十 分钟 <em>就</em> 好 。<span class="pinyin">Mǐfàn èrshí fēnzhōng <em>jiù</em> hǎo.</span><span class="trans">The rice will be ready in 20 minutes.</span>
+*你们 现在 <em>就</em> 出门 吗 ？<span class="pinyin">Nǐmen xiànzài <em>jiù</em> chūmén ma?</span><span class="trans">Are you leaving the house right now?</span>
+*他们 一会儿 <em>就</em> 到 。<span class="pinyin">Tāmen yīhuìr <em>jiù</em> dào.</span><span class="trans">They will be here in a few minutes.</span>
+*老板 明天 <em>就</em> 回来 。<span class="pinyin">Lǎobǎn míngtiān <em>jiù</em> huílái.</span><span class="trans">The boss will be back tomorrow.</span>
+
+</div>
+
+Note that it can sometimes be hard to translate the feeling of "soonness" into English, but in every one of these examples, the time given in the sentences ''feels "soon"'' to the speaker.
+
+== Used as "Early" (in the Past) ==
+
+=== Structure ===
+
+This use of 就 might be translated "as early as," but usually the earliness is not specifically marked in English.
+
+<div class="jiegou">
+Subj. + [Point in Time] + 就 + Verb + 了
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我们 九点 上课 ，他 八点 <em>就</em> 来 <strong>了</strong> 。<span class="pinyin">Wǒmen jiǔ diǎn shàngkè, tā bā diǎn <em>jiù</em> lái <strong>le</strong>.</span><span class="trans">We have class at nine, but he came in at eight.</span>
+*飞机 十点 起飞 ，他 六点 <em>就</em> 到 机场 <strong>了</strong> 。<span class="pinyin">Fēijī shí diǎn qǐfēi, tā liù diǎn <em>jiù</em> dào jīchǎng <strong>le</strong>.</span><span class="trans">The plane takes off at ten o'clock, but he arrived at the airport at six.</span>
+*我 昨晚 八 点 半 <em>就</em> 睡觉 <strong>了</strong> 。<span class="pinyin">Wǒ zuówǎn  bā diǎn bàn <em>jiù</em>  shuìjiào <strong>le</strong>.</span><span class="trans">I went to bed at eight thirty last night.</span>
+*她 十八 岁 <em>就</em> 大学 毕业 <strong>了</strong> 。<span class="pinyin">Tā shíbā suì <em>jiù</em> dàxué bìyè <strong>le</strong>.</span><span class="trans">She graduated from college when she was only 18 years old.</span>
+
+</div>
+
+Not only can 就 emphasize a "point in time," but it can also emphasize a "time period," indicating that something happened very quickly.
+
+<div class="jiegou">
+Subj. + Time Period + 就 + Verb + 了
+</div>
+
+A few examples:
+
+<div class="liju">
+
+*你 <strong>一 个 晚上</strong> <em>就</em> 看 完 <strong>了</strong> ？<span class="pinyin">Nǐ <strong>yī gè wǎnshang</strong> <em>jiù</em> kàn wán <strong>le</strong>?</span><span class="trans">It only took you just one night to finish reading it?</span>
+*他 <strong>十 分钟</strong> <em>就</em> 做完 <strong>了</strong> 。<span class="pinyin">Tā <strong>shí fēnzhōng</strong> <em>jiù</em> zuò wán <strong>le</strong>.</span><span class="trans">It only took him ten minutes to finish doing it.</span>
+
+</div>
+
+From the example sentences it is clear that [[了]] naturally occurs with a verb used after 就. This is because verbs following 就 generally have the feeling of being completed.
+
+== Colloquial Saying 早就 ==
+
+早就 means "long ago," and is usually used to express a kind of impatience or surprise on the part of the speaker. It comes before the verb.
+
+<div class="liju">
+
+*我 <em>早就</em> 知道 <strong>了</strong> ！<span class="pinyin">Wǒ <em>zǎo jiù</em> zhīdào <strong>le</strong>!</span><span class="trans">I knew that long ago!</span>
+*她 <em>早就</em> 结婚 <strong>了</strong> 。<span class="pinyin">Tā <em>zǎo jiù</em> jiéhūn <strong>le</strong>.</span><span class="trans">She got married a long time ago.</span>
+*他们 <em>早就</em> 分手 <strong>了</strong> 。<span class="pinyin">Tāmen <em>zǎo jiù</em> fēnshǒu <strong>le</strong>.</span><span class="trans">They broke up a long time ago.</span>
+*我们 <em>早就</em> 毕业 <strong>了</strong> 。<span class="pinyin">Wǒmen <em>zǎo jiù</em> bìyè <strong>le</strong>.</span><span class="trans">We graduated a long time ago!</span>
+*我 <em>早就</em> 跟 你 说 <strong>过</strong> ，他 不 是 好人 。<span class="pinyin">Wǒ <em>zǎo jiù</em> gēn nǐ shuō <strong>guo</strong>, tā bù shì hǎo rén.</span><span class="trans">I told you a long time ago that he's not a good guy.</span>
+
+</div>
+
+== See also ==
+
+*[[Comparing "cai" and "jiu"]]
+*[[Events in quick succession with "yi... jiu"]]
+*[[Expressing indifference with "jiu"]]
+*[["If…, then…" with "ruguo…, jiu…"]]
+*[[Expressing lateness with "cai"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|52}}
+{{Source|Integrated Chinese: Level 1, Part 1|181-2}}
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|102-3}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|239}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+[[Category: Adverbs]]
+
+{{Basic Grammar|就|B1|Subj. + Time + 就 + Verb + 了|我 昨晚 八 点 半 <em>就</em> 睡觉 <strong>了</strong> 。|grammar point|ASGKITRZ}}
+{{Rel char|了}}
+{{Similar|Expressing "then" with "jiu"}}
+{{Similar|Expressing lateness with "cai"}}
+{{Similar|Limiting Scope with "jiu"}}
+{{Similar|Events in quick succession with "yi... jiu"}}
+{{Similar|Comparing "cai" and "jiu"}}
+{{Used for|Expressing time and date}}
+{{Used for|Expressing attitude}}
+{{Used for|Sequencing events in time}}
+{{POS|Adverbs}}

@@ -1,0 +1,32 @@
+<!-- Expressing "if it were not for" with "yaobushi" -->
+{{Grammar Box}}
+要不是 (yàobushì) is almost the same as "如果不是⋯⋯ "， and it may followed by "的话," meaning "if it were not for..." or "without...."
+
+== Structure ==
+
+<div class="jiegou">
+要不是 ⋯⋯（的话），⋯⋯ 
+</div>
+
+The second part of the sentence tells ''what would have happened'' otherwise.
+
+== Examples ==
+
+<div class="liju">
+*<em>要不是</em> 你，我 会 迷路。<span class="pinyin"><em>Yàobùshì</em> nǐ, wǒ huì mílù.</span><span class="trans">If it weren't for you, I would get lost.</span>
+*<em>要不是</em> 她 帮忙，我们 不 可能 这么 快 找到 这 个 地方。<span class="pinyin"><em>Yàobùshì</em> tā bāngmáng, wǒmen bù kěnéng zhème kuài zhǎodào zhège dìfang.</span><span class="trans">We couldn't have found this place so quickly without her help.</span>
+*<em>要不是</em> 你 说 你 想 吃，我 不 会 做 这 个 菜 的。<span class="pinyin"><em>Yàobùshì</em> nǐ shuō nǐ xiǎng chī, wǒ bù huì zuò zhège cài de.</span><span class="trans">I wouldn't have made this dish if you hadn't said that you wanted to eat it.</span>
+*<em>要不是</em> 因为 他 是 你 朋友，我 是 不 会 帮 他 的。<span class="pinyin"><em>Yàobùshì</em> yīnwèi tā shì nǐ péngyou, wǒ shì bù huì bāng tā de.</span><span class="trans">I wouldn't have helped him if it were not for him being your friend.</span>
+*<em>要不是</em> 我 有 急事 ，我 会 陪 你 去 看 电影 的 。<span class="pinyin"><em>Yàobùshì</em> wǒ yǒu jíshì, wǒ huì péi nǐ qù kàn diànyǐng de.</span><span class="trans">If I didn't have something urgent to do, I would go to the movies with you.</span>
+*<em>要不是</em> 你 这么 忙，我们 早就 见面 了。<span class="pinyin"><em>Yàobùshì</em> nǐ zhème máng, wǒmen zǎojiù jiànmiàn le.</span><span class="trans">If you hadn't been so busy, we'd have met long ago.</span>
+*<em>要不是</em> 你 刚才 说 错 话，他 是 不 会 生气 的。<span class="pinyin"><em>Yàobùshì</em> nǐ gāngcái shuō cuò huà, tā shì bù huì shēngqì de.</span><span class="trans">He wouldn't have gotten mad if it weren't for you saying the wrong thing just now.</span>
+*<em>要不是</em> 你们 迟到 <em>的话</em> ，我们 早就 到 了。<span class="pinyin"><em>Yàobùshì</em> nǐmen chídào <em>dehuà</em>, wǒmen zǎojiù dào le.</span><span class="trans">We would have gotten there long ago if it were not for you all being late.</span>
+*<em>要不是</em> 妈妈 发现 了 <em>的话</em> ，还 可以 在 我 家 聚会。<span class="pinyin"><em>Yàobùshì</em> māma fāxiàn le <em>dehuà</em>, hái kěyǐ zài wǒ jiā jùhuì.</span><span class="trans">If Mom hadn't found out, we could have had the get-together at my house.</span>
+*<em>要不是</em> 堵车 <em>的话</em> ，我 现在 已经 到 上海 了。<span class="pinyin"><em>Yàobùshì</em> dǔchē <em>dehuà</em>, wǒ xiànzài yǐjīng dào Shànghǎi le.</span><span class="trans">If it weren't for the traffic jam, I'd be in Shanghai by now.</span>
+</div>
+
+[[Category:B2 grammar points]]
+{{Basic Grammar|要不是|B2|要不是 ⋯⋯ ( 的话 )，⋯⋯|<em>要不是</em> 你们 迟到 的话，我们 早就 到 了。|grammar point|ASG8F7D4}}
+{{Used for|Indicating conditions}}
+{{Used for|Expressing possibility}}
+{{POS|Sentence Patterns}}

@@ -1,0 +1,42 @@
+<!-- Expressing "not only..., even..." using "budan..., shenzhi lian" -->
+{{Grammar Box}}
+Think of the "不但……, 甚至连……也……" (bùdàn... shènzhì lián... yě...) structure as a cousin to the various "not only..., but also" structures. The only difference is that this structure uses 甚至连 (shènzhì lián) to express "not only..., but even."  
+
+== Structure ==
+
+<div class="jiegou">
+Subj. + 不但 ⋯⋯ ，甚至连 + New Subject + 也 + Matching Situation 
+</div>
+
+== Examples ==
+<div class="liju">
+
+* 他 <em>不但</em> 不 知道 李连杰 ， <em>甚至连</em> 成龙 <em>也</em> 不 知道 。<span class="pinyin">Tā <em>bùdàn</em> bù zhīdào Lǐ Liánjié , <em>shènzhì lián</em> Chéng Lóng <em>yě</em> bù zhīdào.</span><span class="trans">Not only does he not know Jet Li, he doesn't even know Jackie Chan.</span>
+* 妹妹 <em>不但</em> 喜欢 榴莲 这样 味道 重 的， <em>甚至连</em> 臭豆腐 <em>也</em> 喜欢。<span class="pinyin">Mèimei <em>bùdàn</em> xǐhuan liúlián zhèyàng wèidào zhòng de, <em>shènzhì lián</em> chòu dòufu <em>yě</em>  xǐhuan.</span><span class="trans">My sister not only likes durian, which has a strong flavor, but even stinky tofu too.</span>
+* 你 男朋友 <em>不但</em> 帮 你 做好 了 攻略 ， <em>甚至连</em> 飞机票 <em>也</em> 帮 你 买好了 。<span class="pinyin">Nǐ nánpéngyou <em>bùdàn</em> bāng nǐ zuò hǎo le gōnglüè, <em>shènzhì lián</em> fēijīpiào <em>yě</em> bāng nǐ mǎi hǎo le.</span><span class="trans">Your boyfriend not only helped you with your vacation planning, he even helped you buy your plane tickets.</span>
+* 在 家里 隔离 的时候， <em>不但</em> 小区 出不去， <em>甚至连</em> 家门 <em>也</em> 不 让 你 出去。<span class="pinyin">Zài jiālǐ gélí de shíhou, <em>bùdàn</em> xiǎoqū chū bu qù, <em>shènzhì lián</em> jiāmén <em>yě</em> bù ràng nǐ chūqù.</span><span class="trans">When isolating at home, you can't leave your neighborhood, and you aren't even allowed to leave your house.</span>
+* 我 回 国 这件 事情， <em>不但</em> 你 知道 了 ， <em>甚至连</em> 老板 <em>也</em> 知道 了 ，但是 我 不 想 让 老板 知道。<span class="pinyin">Wǒ huí guó zhè jiàn shìqing, <em>bùdàn</em> nǐ zhīdào le, <em>shènzhì lián</em> lǎobǎn <em>yě</em> zhīdào le, dànshì wǒ bù xiǎng ràng lǎobǎn zhīdào.</span><span class="trans">Not only did you know about my return to China, even my boss knew about it, but I didn't want him to know.</span>
+* 今天 参加 活动 的 人 很 多 ，<em>不但</em> 有 同事， <em>甚至连</em> 不 喜欢 参加 活动 的 人 <em>也</em> 来 了。<span class="pinyin">Jīntiān cānjiā huódòng de rén hěn duō, <em>bùdàn</em> yǒu tóngshì, <em>shènzhì lián</em> bù xǐhuan cānjiā huódòng de rén <em>yě</em> lái le.</span><span class="trans">A lot of people attended the event today, not only colleagues, but even people who don't normally go to that kind of event were here.</span>
+* 他 辞职 这 件 事情 <em>不但</em> 公司 不 知道， <em>甚至连</em> 他 的 父母 <em>也</em> 不 知道 。<span class="pinyin">Tā cízhí zhè jiàn shìqing <em>bùdàn</em> gōngsī bù zhīdào, <em>shènzhì lián</em> tā de fùmǔ <em>yě</em> bù zhīdào.</span><span class="trans">Not only did the company not know about his resignation, but even his parents did not know about it.</span>
+* 他 怎么 了？ <em>不但</em> 心情 不 好 ， <em>甚至连</em> 饭 <em>也</em> 不 想 吃。<span class="pinyin">Tā zěnme le? <em>Bùdàn</em> xīnqíng bù hǎo, <em>shènzhì lián</em> fàn <em>yě</em> bù xiǎng chī.</span><span class="trans">What happened to him? Not only was he in a bad mood, he didn't even want to eat.</span>
+* 我 <em>不但</em> 选 好 了 地址 ， <em>甚至连</em> 奶茶 店 的 名字 <em>也</em> 想好 了 。<span class="pinyin">Wǒ <em>bùdàn</em> xuǎn hǎo le dìzhǐ, <em>shènzhì lián</em> nǎichá diàn de míngzi <em>yě</em> xiǎng hǎo le.</span><span class="trans">Not only have I chosen an address, I've even decided on the name of the milk tea shop.</span>
+* 在 节假日 的时候 ， <em>不但</em> 景区 都 是 人 ， <em>甚至连</em> 路上 <em>也</em> 都 是 人 。 <span class="pinyin">Zài jiéjiàrì de shíhou, <em>bùdàn</em> jǐngqū dōu shì rén, <em>shènzhì lián</em> lùshang <em>yě</em> dōu shì rén.</span><span class="trans">During the holidays, not only the scenic spots, but also the roads are full of people.</span>
+</div>
+
+==Sources and further reading==
+
+=== Books ===
+
+{{Source|Anything Goes (无所不谈)|268}}
+[[Category:B2 grammar points]]
+{{Basic Grammar|不但|B2|Subj. + 不但 ⋯⋯ ，甚至连 + New Subject + 也 + Matching Situation |<em>不但</em>，<em>甚至连</em>。|grammar point|ASGF9320}}
+{{Rel char|不但}}
+{{Rel char|甚至}}
+{{Rel char|连}}
+{{Similar|Expressing "not only... but also"}}
+{{Similar|"Not only… but also" with "bujin"}}
+{{Similar|Many types of "not only... but also..."}}
+{{Used for|Connecting ideas}}
+{{Used for|Adding more explanation}}
+{{Translation|not only, but even}}
+{{Structure|Sentence Patterns}}

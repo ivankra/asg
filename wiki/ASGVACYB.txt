@@ -1,0 +1,50 @@
+<!-- Saying "a lot" with "youdeshi" -->
+{{Grammar Box}} 
+In Chinese there is no shortage of ways to say "a lot." 有的是 (yǒudeshì) is one of those ways. However, we need to be very clear: 有的是 is '''not''' the same as [["Some" with "youde"|有的]] (meaning "some") + 是. As a single phrase, 有的是 indicates that the amount or quantity of something is very large, and it can sometimes indicate a tone of exaggeration.
+
+== Structure ==
+
+<div class="jiegou">
+Subj. + 有的是 + Noun
+</div>
+
+You can also put the noun at the beginning of the sentence, and put 有的是 at the end, like so: 
+
+<div class="jiegou">
+Noun + Subj. + 有的是 。
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*他 爸 是 大 老板 ，<em>有的是</em> 钱 。<span class="pinyin">Tā bà shì dà lǎobǎn, <em>yǒudeshì</em> qián.</span><span class="trans">His dad is a big boss. He's got plenty of money.</span>
+*她 是 全职 妈妈 ，<em>有的是</em> 时间 。<span class="pinyin">Tā shì quánzhí māma, <em>yǒudeshì</em> shíjiān.</span><span class="trans">She's a full-time mother. She's got plenty of time.</span>
+*我 一 个 大男人 ，<em>有的是</em> 力气 。<span class="pinyin">Wǒ yī gè dà nánrén, <em>yǒudeshì</em> lìqi.</span><span class="trans">I'm a big man. I've got plenty of strength.</span>
+*上海 这么 大 的 城市 ，工作 机会 <em>有的是</em> 。<span class="pinyin">Shànghǎi zhème dà de chéngshì, gōngzuò jīhuì <em>yǒudeshì</em>.</span><span class="trans">Shanghai is such a big city. It's got plenty of job opportunities.</span>
+*这样 的 笔 我 家 <em>有的是</em> ，这些 都 送给 你 。<span class="pinyin">Zhèyàng de bǐ wǒ jiā <em>yǒudeshì</em>, zhèxiē dōu sòng gěi nǐ.</span><span class="trans">I have tons of this kind of pen at home. Here, just take these.</span>
+*这样 的 资源 网上 <em>有的是</em>。<span class="pinyin">Zhèyàng de zīyuán wǎngshàng <em>yǒudeshì</em>.</span><span class="trans">There's a lot of these kinds of resources on the Internet.</span>
+*这 种 风格 的 咖啡店 上海 <em>有的是</em> 。<span class="pinyin">Zhè zhǒng fēnggé de kāfēi diàn shànghǎi <em>yǒudeshì</em>.</span><span class="trans">There are lots of this style of cafe in Shanghai.</span>
+*别 担心 ， 世界 上 男人 <em>有的是</em> ，分手 了 还 可以 再 找 。<span class="pinyin">Bié dānxīn, shìjiè shang nánrén <em>yǒudeshì</em>, fēnshǒu le hái kěyǐ zài zhǎo.</span><span class="trans">Don't worry. There are plenty of men in the world. If you break up, you can find someone else.</span>
+
+</div>
+
+It's important to note that "有的是" can ''not'' be directly negated. If you want to make a negative statement, you'll just have to use 没有很多.
+
+<div class="liju">
+<ul>
+<li class="x">我 <strong>不</strong> <em>有的是</em> 钱 。<span class="pinyin">Wǒ <strong>bù</strong> 
+ <em>yǒudeshì</em> qián.</span>
+<li class="x">我 <strong>没</strong> <em>有的是</em> 钱 。<span class="pinyin">Wǒ <strong>méi</strong> <em>yǒudeshì</em> qián.</span>
+<li class="o">我 <strong>没有 很 多</strong> 钱 。<span class="pinyin">Wǒ <strong>méiyǒu hěn duō</strong> qián.</span><span class="trans">I don't have a lot of money.</span></li>
+</ul>
+</div>
+
+[[Category: B2 grammar points]]
+[[Category: Adjectives]]
+{{Basic Grammar|有的是|B2|Subj. + 有的是 + Noun|川菜 上海 <em>有的是</em>。|grammar point|ASGVACYB}}
+{{Rel char|有}}
+{{Rel char|是}}
+{{Used for|Expressing degree}}
+{{Used for|Expressing quantity}}
+{{POS|Adjectives}}

@@ -1,0 +1,231 @@
+<!-- Using "bei" sentences -->
+{{Grammar Box}} 
+
+被 (bèi) sentences, which are called 被字句 (bèizìjù) in Chinese, are a key way to express the [[passive voice]] in modern Mandarin Chinese.  In passive sentences, the ''object'' of an action becomes the subject of the sentence, and the "doer" of the action, which would have been the subject of the normal (active voice) sentence, becomes secondary and may or may not be mentioned in the passive sentence.
+
+== What is a 被 sentence? ==
+
+被 (bèi) sentences are simply sentences which use a [[Passive voice|passive]] verb and the word 被. 被 sentences are not the only way to create the passive verb form in Chinese, but they are the most common and definitely the type to tackle first.
+
+For the sake of clarity, take these sentences for example:
+
+<div class="liju">
+
+*男孩 吃 了 <strong>热狗</strong> 。<span class="expl">active voice sentence: "the hot dog" is the object of the verb "ate"</span><span class="pinyin"> Nánhái chī le <strong>règǒu</strong> .</span><span class="trans">The boy ate the hot dog.</span>
+*<strong>热狗</strong> <em>被</em> 男孩 吃 了 。<span class="expl">"the hot dog" is now the subject, and "the boy" is the "doer"</span><span class="pinyin"><strong>Règǒu</strong> <em>bèi</em> nánhái chī le.</span><span class="trans">The hot dog was eaten by the boy. </span>
+*<strong>热狗</strong> <em>被</em> 吃 了 。<span class="expl">passive voice with the "doer" omitted</span><span class="pinyin"><strong>Règǒu</strong> <em>bèi</em> chī le.</span><span class="trans">The hot dog was eaten.</span>
+
+</div>
+
+== Why use them? ==
+
+First, passive sentences indicate that one has been negatively affected. For example:
+
+<div class="liju">
+*<span class="liju">他 <em>被</em> 打 了 。</span><span class="pinyin">Tā <em>bèi</em> dǎ le.</span><span class="trans">He was beaten.</span>
+</div>
+
+Second, passive sentences shift emphasis from the "doer" of the action to the one affected by that action. For example:
+
+<div class="liju">
+*<span class="liju">你 <em>被</em> 公司 炒鱿鱼 了 ？</span><span class="pinyin">Nǐ <em>bèi</em> gōngsī chǎo yóuyú le?</span><span class="trans">You got fired by the company?</span>
+</div>
+
+Third, passive sentences allow one to avoid having to mention the "doer" of the action, either because it is unknown, or for other reasons. For example:
+
+<div class="liju">
+*<span class="liju">我 的 手机 <em>被</em> 偷 了 。</span><span class="pinyin">Wǒ de shǒujī <em>bèi</em> tōu le.</span><span class="trans">My cell phone got stolen.</span>
+</div>
+
+== How to Use 被 Sentences ==
+
+Normal use of 被 has a few preconditions:
+
+# The verb to be used with 被 needs to have an object (this will become the new subject of the 被 sentence).  Verbs that take objects are called [[transitive verb]]s.
+# If you're going to state ''who the verb was done by'' (the "doer"), then the subject doing the original action must be known.
+# The verb can't be too simple (for example, a one-character verb like 吃).  Put simply, ''something needs to come after the verb''. That "something" can be a particle like 了, a complement, or sometimes even an additional object.
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 被 (+ Doer) + Verb + 了
+</div>
+
+=== Examples ===
+
+被 sentences with a doer:
+
+<div class="liju">
+
+*我 <em>被</em> <strong>他</strong> 骗 <strong>了</strong> 。<span class="pinyin">Wǒ <em>bèi</em> <strong>tā</strong> piàn <strong>le</strong>.</span><span class="trans">I was deceived by him.</span>
+*他 <em>被</em> <strong>警察</strong> 抓 <strong>了</strong> 。<span class="pinyin">Tā <em>bèi</em> <strong>jǐngchá</strong> zhuā <strong>le</strong>.</span><span class="trans">He was caught by the police.</span>
+*他 <em>被</em> <strong>父母</strong> 骂 <strong>了</strong> 。<span class="pinyin">Tā <em>bèi</em> <strong>fùmǔ</strong> mà <strong>le</strong>.</span><span class="trans">He was scolded by his parents.</span>
+
+</div>
+
+被 sentences without a doer:
+
+<div class="liju">
+
+*我 的 车 <em>被</em> 撞 <strong>了</strong> 。<span class="pinyin">Wǒ de chē <em>bèi</em> zhuàng <strong>le</strong>.</span><span class="trans">My car was hit.</span>
+*他们 做 的 坏事 <em>被</em> 发现 <strong>了</strong> 。<span class="pinyin">Tāmen zuò de huàishì <em>bèi</em> fāxiàn <strong>le</strong>.</span><span class="trans">The bad things they've done were discovered.</span>
+*文件 <em>被</em> 删 <strong>了</strong> 。<span class="pinyin">Wénjiàn <em>bèi</em> shān <strong>le</strong>.</span><span class="trans">The files were deleted.</span>
+
+</div>
+
+=== Common Mistakes ===
+
+<div class="liju">
+<ul>
+<li class="x">咖啡 <em>被</em> 我 喝 。<span class="expl">Remember: you need SOMEthing after the verb.</span><span class="pinyin">Kāfēi <em>bèi</em> wǒ hē.</span></li>
+<li class="o">咖啡 <em>被</em> 我 喝 <strong>了</strong> 。<span class="pinyin">Kāfēi <em>bèi</em> wǒ hē <strong>le</strong>.</span><span class="trans">The coffee was drunk by me.</span></li>
+<li class="o">咖啡 <em>被</em> 我 喝 <strong>完 了</strong> 。<span class="pinyin">Kāfēi <em>bèi</em> wǒ hē <strong>wán le</strong>.</span><span class="trans">The coffee was finished by me.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul>
+<li class="x">他 <em>被</em> 打 。<span class="expl">Remember: you need SOMEthing after the verb.</span><span class="pinyin">Tā <em>bèi</em> dǎ.</span></li>
+<li class="o">他 <em>被</em> 打 <strong>了</strong> 。<span class="pinyin">Tā <em>bèi</em> dǎ <strong>le</strong>.</span><span class="trans">He was beaten.</span></li>
+<li class="o">他 <em>被</em> 打 <strong>伤 了</strong> 。<span class="pinyin">Tā <em>bèi</em> dǎ <strong>shāng le</strong>.</span><span class="trans">He was beaten and wounded.</span></li>
+</ul>
+</div>
+
+== Forming 被 Sentences ==
+
+You know the basic pattern already, so it's time to go deeper...
+
+=== Negating 被 Sentences ===
+
+There's just one other complication. What if you want to make a sentence in the ''negative''? To negate a 被 sentence, you need to insert 没 or 没有 (past) directly in front of 被. For the present and future, use 不.  
+
+<div class="liju">
+{| class="wikitable" style="width:38em"
+|+Some examples:
+|-
+! Doer !! <em>Negative</em> !! 被 !! Subject !! Verb Phrase !!
+|-
+| 他 || <em>没有</em> || 被 || &nbsp; || 打伤 || 。
+|-
+| 他 || <em>没</em> || 被 || &nbsp; ||炒鱿鱼 || 。
+|-
+| 她 的 想法 || <em>不</em> || 被 || 父母 || 理解 || 。
+|}
+</div>
+
+=== Question Forms of 被 Sentences ===
+
+You can make 被 sentences into questions in the usual three ways to form questions in Mandarin:
+
+* With a question particle
+* With a question word
+* With positive-negative verbs
+
+Some examples:
+
+<div class="liju">
+
+*那些 书 <em>被</em> 借 <strong>走 了</strong> 吗 ？<span class="pinyin">Nàxiē shū <em>bèi</em> jiè <strong>zǒu le</strong> ma?</span><span class="trans">Have those books been borrowed?</span>
+*他 <em>被</em> 谁 打 <strong>的</strong> ？<span class="pinyin">Tā <em>bèi</em> shéi dǎ <strong>de</strong>?</span><span class="trans">Who was he beaten by? </span>
+*你 是不是 <em>被</em> 公司 炒鱿鱼 <strong>了</strong> ？<span class="pinyin">Nǐ shì bu shì <em>bèi</em> gōngsī chǎo yóuyú <strong>le</strong>?</span><span class="trans">Did you get fired by the company or not?</span>
+
+</div>
+
+=== 被 Sentences with Aspect Particles === 
+
+The particles 了 and 过 can both be used with 被 constructions, while 着 cannot. 着 indicates an action is "ongoing," which is not appropriate for a 被 construction, which should refer to an already complete action.
+
+<div class="liju">
+
+{| class="wikitable" style="width:42em"
+|+Some examples:
+|-
+! Subject !! 被 !! Object !! Verb !! <em>Aspect particle</em> !!
+|-
+| 他 || 被 || 老师  || 打 || <em>过</em> || 。
+|-
+| 你 || 被 || 他 ||骗 || <em>了</em> || ！
+|-
+|我 的 车 || 被 || &nbsp; || 撞 || <em>过</em> || 。
+|-
+| 她 || 被 || 男朋友 || 甩 || <em>了</em> || 。
+|}
+
+</div>
+
+=== 被 Sentences with Complements ===
+
+Both [[result complement]]s and [[direction complement]]s work well in 被 sentences. 
+
+Some examples:
+
+<div class="liju">
+
+*花瓶 <em>被</em> 摔 <strong>碎</strong> 了 。<span class="pinyin">Huāpíng <em>bèi</em> shuāi <strong>suì</strong> le.</span><span class="trans">The vase was broken into pieces.</span>
+*那个人 <em>被</em> 车 撞 <strong>死</strong> 了 。<span class="pinyin">Nàge rén <em>bèi</em> chē zhuàng <strong>sǐ</strong> le.</span><span class="trans">That man got hit and killed by a car.</span>
+*那个 男人 <em>被</em> 警察 赶 <strong>出去</strong> 了 。<span class="pinyin">Nàge nánrén <em>bèi</em> jǐngchá gǎn <strong>chūqu</strong> le.</span><span class="trans">The man was kicked out by the policeman.</span>
+*孩子 <em>被</em> 他 父母 送 <strong>回去</strong> 了 。<span class="pinyin">Háizi <em>bèi</em> tā fùmǔ sòng <strong>huíqù</strong> le.</span><span class="trans">The child was sent back by his parents.</span>
+
+</div>
+
+Sorry if these example sentences all seem like downers, but 被 sentences tend to be negative (or even tragic!).
+
+=== Adverbs in 被 Sentences ===
+
+What if you want to include adverbs in your 被 sentence?  Where should those go?  They go in the same place as the ''negative'' adverb 没有, above.
+
+<div class="liju">
+
+{| class="wikitable" style="width:45em"
+|+Some examples:
+|-
+! Subject !! Adv. !! <em>被</em> !! Doer !! Verb Phrase !! !!  
+|-
+| 他 || <strong>刚才</strong> || <em>被</em> || 同学 || 打 || 了 || 。
+|-
+| 我们 || <strong>都</strong> || <em>被</em> ||老师|| 骂 || 了 || 。
+|-
+| 手机 || <strong>又</strong> || <em>被</em> || &nbsp; || 偷 || 了 || ？
+|-
+| 小偷|| <strong>终于</strong> || <em>被</em> || &nbsp; || 抓住 || 了 || ！
+|}
+
+</div>
+
+== See also ==
+
+* [[Passive verbs with "shou"]]
+* [[Ba sentence]]
+* [[Result complement]]
+* [[Direction complement]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|171}}
+{{Source|A Practical Chinese Grammar For Foreigners (外国人实用汉语语法)|470-7}}
+{{Source|Basic Patterns of Chinese Grammar |55}} 
+{{Source|Boya Chinese Elementary Starter 2 (博雅汉语初经起步篇)|182}} 
+{{Source|Chinese: An Essential Grammar, Second Edition|164-6}}
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级)|362-4}} 
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|243-4}} 
+{{Source|Mandarin Chinese: A Functional Reference Grammar|492-508}} 
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|100-7}} 
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2)|239-40}}
+{{Source|Short-term Spoken Chinese: Threshold Vol. 2 (汉语口语入门篇下)|168-70}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课下册）|428-9}}
+
+=== Websites ===
+
+* ChinesePod (free content): [http://chinesepod.com/lessons/passive-verbs-and-%E8%A2%AB Qing Wen - Passive Verbs and 被]
+
+{{Similar|Direction complement}}
+{{Similar|Result complements}}
+{{Similar|Ba sentence}}
+{{Similar|Passive Verbs with "shou"}}
+{{HSK|HSK3}}
+{{Basic Grammar|被|B1|Subj. + 被 + Doer + Verb Phrase|我 <em>被</em> <strong>他</strong> 骗 了 。|grammar point|ASGHF9F1}}
+{{Used for|Expressing passive voice}}
+{{Used for|Sentence Patterns}}
+{{Structure|Sentence Patterns}}

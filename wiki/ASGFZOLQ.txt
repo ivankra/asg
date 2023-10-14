@@ -1,0 +1,63 @@
+<!-- Expressing "contrary to expectations" with "pianpian" -->
+{{Grammar Box}} 
+{{stub}}
+
+偏偏 (piānpiān) is probably one of the hardest adverbs for Chinese learners to master, since it is actually quite nuanced in the ways that it is used. Usually it begins the second clause of a sentence, and it expresses that something contrary to expectations has happened. There are two types of expectations: objective requirements and hopes/desires.
+
+In addition, 偏偏 can also express a meaning similar to [[仅仅]] or [[只有]], with an air of dissatisfaction. 
+
+==Structure==
+
+The structure is pretty simple. First, a statement is said in the first clause to "set up" the situation (A), then 偏偏 is placed before or after the subject in the second clause (B).
+
+<div class="jiegou">
+A, Subject + 偏偏 + B  
+</div>
+
+==Examples==
+
+All of these examples are similar, but they have some small key differences.
+
+<div class="liju">
+
+* 不 叫 他 去，他 <em>偏偏</em> 要 去。
+* 大家 都 叫 他 离开 了，<em>偏偏</em> 他 还 不 走。
+* 叫 你 不 要 吃，你 <em>偏偏</em> 要 吃，现在 肚子 不 舒服 了 吧。
+* 经过 大家 的 讨论，问题 都 解决 了，<em>偏偏</em> 他 还 要 钻 牛角尖。
+
+</div>
+
+In these example sentences, we see that the opposite of what is expected comes out. In this case "what is expected" is a objective requirement. We see that when you don't call him to go, he does what is unexpected and wants to go. Basically, 偏偏 here expresses that someone or something has an idea/thought/action that is the opposite to what everyone thinks. 
+
+<div class="liju">
+
+* 星期天 他 来 找 我，<em>偏偏</em> 我 不 在 家。
+* 好不 容易 找到 了 他，<em>偏偏</em> 又 碰上 小李 拉 他 去 办事。
+* 这个 星期天 本来 约 好 和 朋友 去 赏 樱花，<em>偏偏</em> 下 大雨，就 没 去。
+
+</div>
+
+In these three example sentences, we see that the opposite what one hopes or desires has happened. In the first sentence, we see that the person is expected to come visit, but on the one day he comes that person is not home. Basically, the person's hope and reality do not match up.
+
+<div class="liju">
+
+* 学生们 都 在 认真 听 老师 讲课，<em>偏偏</em> 他 一个人 在 那里 打 游戏。
+* 别的人 都 早 到 了，<em>偏偏</em> 他 一个人 迟到。
+* 别的人 都 学 会 了，<em>偏偏</em> 他 不 会。
+
+</div>
+
+In this last set of three example sentences, we see that 偏偏 has a meaning similar to 仅仅 or 只有. It also has an air of dissatisfaction. For example, in the second sentence, everyone is early, expect for that one person who is late. Using 偏偏 here is a way to complain about the situation.
+
+== Sources and further reading ==
+
+=== Books ===
+* [[Contemporary Chinese 4 (当代中文4)]](P.162) [http://www.amazon.com/gp/product/7800529371/ref%3das_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=7800529371 →buy]
+* [[现代汉语八百词]](P.429) [http://www.amazon.cn/mn/detailApp?_encoding=UTF8&tag=allset-23&linkCode=as2&asin=B001198GSW&camp=536&creative=3132&creativeASIN=B001198GSW →buy]
+* [[Short-term Spoken Chinese: Elementary (汉语口语速成基础篇)]] (P.32)[http://www.amazon.com/gp/product/B00326U9MS/ref%3das_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=B00326U9MS →buy]
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|偏|C1|A ,Subject + 偏偏 + B |不 叫 他 去，他 <em>偏偏</em> 要 去。|grammar point|ASGFZOLQ}}
+{{Rel char|偏}}
+{{POS|Adverbs}}
+{{Used for|Contrasting}}

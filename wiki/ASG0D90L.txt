@@ -1,0 +1,51 @@
+<!-- Expressing the unexpected with "jingran" -->
+{{Grammar Box}} 
+
+To express something is unexpected, you can use the adverb 竟然 (jìngrán) after the subject. 竟然 has the same meaning as 居然, but is not as intense.
+
+== Structure ==
+
+Like many other adverbs, 竟然 is placed after the subject. This grammar structure is usually used in spoken Chinese. 
+
+<div class="jiegou">
+Subj. + 竟然 ⋯⋯
+</div>
+
+You can also drop out the 然 and use just 竟. This can be used in spoken or written Chinese.
+
+== Examples ==
+
+Note that it can be difficult to translate the word 竟然 into an appropriate English word. Sometimes it's just a ''feeling'' that doesn't come across well in English unless you can hear the tone of voice.
+
+<div class="liju">
+
+*没想到 你 <em>竟然</em> 当 着 老师 的 面 撒谎 。<span class="trans">I didn't expect you could lie in front of the teacher's face.</span>
+*这 是 一 件 让 人 难过 的 事情 ，你 <em>竟然</em> 还 笑 ？<span class="trans">This is something that makes people sad, but you are actually laughing?</span>
+*他 那么 努力 ，<em>竟然</em> 没 考 及格 ！<span class="trans">He is so hardworking, but, surprisingly, he didn't pass the exam.</span> 
+*那个人 骗 了 你 的 钱 ，你 <em>竟</em> 不 生 他 的 气 ？<span class="trans">You got ripped off by that guy.</span>
+*大家 都 以为 他 不 会 答应 ，可是 他 <em>竟然</em> 答应 了 。<span class="trans">Everyone thought he would say no,  but he said yes.</span>
+*这么 复杂 的 项目 ，<em>竟然</em> 这么 快 就 完成 了 。<span class="trans">This project is so complex, but it's been completed so soon.</span>
+
+</div>
+
+== See also ==
+
+*[[Expressing "as expected" with "guoran"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|69}}
+{{Source|New Practical Chinese Reader 5 (新实用汉语课本5)|9}}
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级)|137}}
+{{Source|Practicing HSK Grammar (语法精讲精炼)|41}}
+{{Source|Integrated Chinese: Level 2, Part 2|49}}
+
+[[Category: C1 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|竟然|C1|Subj. + 竟然 ⋯⋯|我们 要 出发 的 时候，他 <em>竟然</em> 说 不 去 了 。|grammar point|ASG0D90L}}
+{{Rel char|竟}}
+{{Rel char|居然}}
+{{Used for|Expressing surprise}}
+{{POS|Adverbs}}

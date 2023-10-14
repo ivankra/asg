@@ -1,0 +1,74 @@
+<!-- Adjectives with "-ji le" -->
+{{Grammar Box}} 
+
+Just as [[Negative adjectives with "-si le"|死了 (sǐle) can be used to intensify negative adjectives]], 极了 (jíle) is a somewhat less common way to intensify both positive and negative adjectives. It is used in spoken, colloquial Chinese. 极 (jí) means "extreme" or "utmost."
+
+== Structure ==
+
+This structure is technically a kind of [[degree complement]] and one of the few that you can use after the adjective and without adding a 得 (de). Remember to add the 了 (le), since it would be incorrect without it.
+
+<div class="jiegou">
+Subj. + Adj. + 极了
+</div>
+
+== Examples ==
+
+Some examples with a positive connotation:
+
+<div class="liju">
+
+* 这个 主意 好 <em>极了</em> 。<span class="pinyin">Zhège zhǔyi hǎo <em>jíle</em>.</span><span class="trans">This idea is perfect.</span>
+* 味道 好 <em>极了</em> ! <span class="pinyin">Wèidào hǎo <em>jíle</em>!</span><span class="trans">The taste is perfect!</span>
+* 他 的 英文 棒 <em>极了</em> 。<span class="pinyin">Tā de Yīngwén bàng <em>jíle</em>.</span><span class="trans">His English is perfect.</span>
+* 婚礼 热闹 <em>极了</em> 。<span class="pinyin">Hūnlǐ rènao <em>jíle</em>.</span><span class="trans">The wedding was very lively.</span>
+* 一点 声音 都 没有 ，安静 <em>极了</em> 。<span class="pinyin">Yīdiǎn shēngyīn dōu méiyǒu, ānjìng <em>jíle</em>.</span><span class="trans">There is no sound at all. It's extremely quiet.</span>
+
+</div>
+
+Some examples with a negative connotation:
+
+<div class="liju">
+
+* 昨天 的 派对 无聊 <em>极了</em> ! <span class="pinyin">Zuótiān de pàiduì wúliáo <em>jíle</em>!</span><span class="trans">Yesterday's party was so boring!</span>
+* 他 那么 生气 ，我们 都 害怕 <em>极了</em> 。<span class="pinyin">Tā nàme shēngqì, wǒmen dōu hàipà <em>jíle</em>.</span><span class="trans">He was so angry. We were all so scared.</span>
+* 高考 那 天 ，我 紧张 <em>极了</em> 。<span class="pinyin">Gāokǎo nà tiān, wǒ jǐnzhāng <em>jíle</em>.</span><span class="trans">I was super nervous the day I took the college entrance examination.</span>
+* 这 件 事 让 我们 都 尴尬 <em>极了</em> 。<span class="pinyin">Zhè jiàn shì ràng wǒmen dōu gāngà <em>jíle</em>.</span><span class="trans">This incident made us all extremely embarrassed.</span>
+* 那个 男孩 讨厌 <em>极了</em> ! <span class="pinyin">Nàge nánhái tǎoyàn <em>jíle</em>!</span><span class="trans">That boy is super annoying!</span>
+
+</div>
+
+== See also ==
+
+* [[Negative adjectives with "-si le"]]
+* [[Advanced degree complements]]
+* [[Adjectives with "name" and "zheme"]]
+* [[Adjectival complement "de budeliao"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|129}}
+{{Source|Integrated Chinese: Level 1, Part 1 (1st ed)|8}}
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级)|348}}
+{{Source|Boya Chinese Elementary Starter 1 (博雅汉语初经起步篇)|190}}
+{{Source|现代汉语八百词|286-287}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+[[Category:Adjectives]]
+
+{{Basic Grammar|极了|B1|Adj. + 极了|这个 主意 好 <em>极了</em> 。|grammar point|ASGVME5V}}
+{{Rel char|了}}
+{{POS|Adjectives}}
+{{Used for|Expressing degree}}
+{{Used for|Emphasizing}}
+{{Similar|Advanced degree complements}}
+{{Similar|Complement "-huai le"}}
+{{Similar|Negative adjectives with "-si le"}}
+{{Similar|Adjectives with "name" and "zheme"}}
+{{Similar|Expressing "excessively" with "tai"}}
+{{Similar|The "zui" superlative}}
+{{Similar|Special verbs with "hen"}}
+{{Translation|very}}
+{{Translation|really}}

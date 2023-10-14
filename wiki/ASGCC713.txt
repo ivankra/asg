@@ -1,0 +1,56 @@
+<!-- Expressing "as well as" with "yiji" -->
+{{Grammar Box}} 
+{{stub}} 
+
+以及，多用于书面语，连接多音节词或词组（名词性或动词性的都可以），还可以连接小句。所连接的前后两个部分往往有先后、主次之分，通常"以及"前面是主要的。
+
+== Structure ==
+
+<div class="jiegou">
+[Noun Phrase 1]，[Noun Phrase 2] + 以及 + [Noun Phrase 3]
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*听觉 、视觉 、嗅觉 、味觉 <em>以及</em> 触觉 都 属于 感官 。<span class="trans">.</span>
+*艺术 有 很多 种类 ，绘画 、舞蹈 、电影 <em>以及</em> 文学 等 都 是 艺术 。<span class="trans">.</span>
+*院子 里 种着 玫瑰花 、茉莉花 、牡丹花 <em>以及</em> 其他 一些 花草 。<span class="trans">.</span>
+*我们 的 价值 就是 采访、分析 <em>以及</em> 组合 投资 管理 人 。<span class="trans">.</span>
+*习 主席 祝 全国 人民 <em>以及</em> 全体 海外 华人 新年快乐 。<span class="trans">.</span>
+*这个 项目 的 投资人 <em>以及</em> 相关 负责 人 都 是 外国 人 。<span class="trans">.</span>
+*每种 语言 都 能 表现 一个 民族 的 文化 、价值观 <em>以及</em> 思维方式 。<span class="trans">.</span>
+
+</div>
+
+也可以连接动宾结构的短语。
+
+<div class="liju">
+
+* <em>以及</em> 。<span class="trans">.</span>
+* <em>以及</em> 。<span class="trans">.</span>
+
+</div>
+
+== See also ==
+
+*[[Expressing "and" with "he"]]
+*[[Expressing "in addition" with "haiyou"]]
+*[[Combining verbs with "bing"]]
+
+== Sources and further reading ==
+
+=== Books ===
+{{Source|HSK Standard Course 5上|99}}
+{{Source|卓越汉语－公司实战篇|200}}
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|以及|C1|Subj. + 何必 + Predicate| A ，B + 以及 + C|grammar point|ASGCC713}}
+{{Rel char|及}}
+{{Used for|Listing}}
+{{Similar|Expressing "and" with "he"}} 
+{{Similar|Combining verbs with "bing"}} 
+{{Similar|Expressing "in addition" with "haiyou"}} 
+{{POS|Conjunctions}}
+{{Translation|as well as}}

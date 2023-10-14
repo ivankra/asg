@@ -1,0 +1,78 @@
+<!-- Comparing "shihe" and "heshi" -->
+{{Grammar Box}} 
+Mixing up the order of the two syllables in a word is something most learners do. This makes the pair 适合 (shìhé) and 合适 (héshì) annoying, to say the least. They mean more or less the same thing, but the former is a verb, while the latter is an adjective.
+
+==The Verb 适合==
+
+适合 is a verb meaning "to suit," and should take an object. 
+
+===Structure===
+
+<div class="jiegou">
+Subj. + 适合 + Obj.
+</div>
+
+===Examples===
+
+<div class="liju">
+* 这 个 工作 很 <em>适合</em> 我。<span class="pinyin">Zhège gōngzuò hěn <em>shìhé</em> wǒ.</span><span class="trans">This job really suits me.</span>
+* 你 的 中文 名字 真 <em>适合</em> 你！<span class="pinyin">Nǐ de Zhōngwén míngzì zhēn <em>shìhé</em> nǐ!</span><span class="trans">Your Chinese name suits you well.</span>
+* 这 部 电影 不 <em>适合</em> 儿童 看。<span class="expl">This translation is a little awkward in English, but we're trying to avoid using the word "suitable," which is an adjective.</span><span class="pinyin">Zhè bù diànyǐng bù <em>shìhé</em> értóng kàn.</span><span class="trans">This movie does not suit children (to watch).</span>
+</div>
+
+==The Adjective 合适==
+
+合适 is an adjective meaning "suitable" or "appropriate," and is used in the same way as other adjectives.
+
+===Structure===
+
+<div class="jiegou">
+Subj. + Adv. + 合适
+</div>
+
+===Examples===
+
+<div class="liju">
+* 在 办公室 里 抽烟 有 点 不 <em>合适</em> 吧。<span class="pinyin">Zài bàngōngshì lǐ chōuyān yǒudiǎn bù <em>héshì</em> ba.</span><span class="trans">Inside the office, it's not really appropriate to smoke, right?</span>
+* 他 就是 最 <em>合适</em> 的，他 完全 符合 我们 的 招聘 要求。<span class="pinyin">Tā jiùshì zuì <em>héshì</em> de, tā wánquán fúhé wǒmen de zhāopìn yāoqiú.</span><span class="trans">He is just the most suitable. He totally fulfills our hiring requirements.</span>
+* iPad 虽然 好 用，但是 对 我 来 说 价格 不 太 <em>合适</em>！<span class="pinyin">IPad suīrán hǎo yòng, dànshì duì wǒ lái shuō jiàgé bù tài <em>héshì</em>!</span><span class="trans">Although iPads are fun to use, the price is not so suitable for me.</span>
+</div>
+
+==Don't Confuse the Two==
+
+<div class="liju">
+<ul>
+<li class="x">这个 <em>合适</em> 我 。<span class="expl">This would be treating 合适 like a verb</span><span class="pinyin">Zhège  <em>héshì</em> wǒ.</span></li>
+<li class="o">这个 <em>适合</em> 我 。<span class="expl">适合 is a verb!</span><span class="pinyin">Zhège  <em>shìhé</em> wǒ.</span><span class="trans">This suits me.</span></li>
+</ul>
+<ul>
+<li class="x">这 个 鞋码 很 <em>适合</em> 。<span class="expl">This would be treating 适合 like an adjective</span><span class="pinyin">Zhège xiémǎ hěn <em>shìhé</em>.</span></li>
+<li class="o">这 个 鞋码 很 <em>合适</em> 。<span class="expl">合适 is an adjective!</span><span class="pinyin">Zhège xiémǎ hěn <em>héshì</em>.</span><span class="trans">This shoe size fits you well.</span></li>
+</ul>
+</div>
+
+== Example Dialog ==
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>你 知道 穿 什么 衣服 最 <em>适合</em> 参加 这个 聚会 吗？<span class="pinyin">A: Nǐ zhīdào chuān shénme yīfu zuì <em>shìhé</em> cānjiā zhège jùhuì ma?</span><span class="trans">Do you know what kind of clothes would be appropriate for this party?</span></li>
+<li><span class="speaker">B:</span>我 不 知道。但是 穿 牛仔裤 一定 不 <em>合适</em>。<span class="pinyin">B: Wǒ bù zhīdào. Dànshì chuān niúzǎikù yīdìng bù <em>héshì</em>.
+</span><span class="trans">I don't know, but wearing jeans is definitely not appropriate.</span></li>
+</ul>
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+{{Source|Integrated Chinese: Level 2, Part 1|273-4}} 
+
+[[Category: grammar comparison]]
+{{HSK|HSK4}}
+[[Category: Dialogs]]
+{{Basic Grammar|适合|B2|适合 vs 合适|这 个 颜色 不 <em>适合</em> 他 ， 黑色 才 是 最 <em>合适</em> 的。|grammar point|ASGVDOXL}}
+{{Rel char|合适}}
+{{Used for|Describing places}}
+{{Used for|Describing things}}
+{{Used for|Describing people}}
+{{Used for|Expressing attitude}}
+{{Comparison|Separate Functions}}

@@ -1,0 +1,86 @@
+<!-- Advanced uses of "hai" -->
+{{Grammar Box}} 
+Aside from its [[还|other uses]], 还 (hái) can be used to express a surprised or sarcastic tone, and can also be used with rhetorical questions. 
+
+== Expressing a Tone of Surprise ==
+
+=== Structure ===
+
+Often used with 呢, this sentence structure expresses that the situation as irrational, uncommon, or unexpected.
+
+<div class="jiegou">
+Subj. + 还 + Predicate (+ 呢)
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*这个 小孩 <em>还</em> 真 聪明 ！<span class="pinyin">Zhège xiǎohái <em>hái</em> zhēn cōngming!</span><span class="trans">This kid is brilliant!</span>
+*<em>还</em> 留 过 学 <strong>呢</strong> ，英语 这么 差 ！<span class="pinyin"><em>Hái</em> liú guo xué <strong>ne</strong>, Yīngyǔ zhème chà!</span><span class="trans">He's even studied abroad, yet his English is so terrible!</span>
+*都 怪 你 ，你 <em>还</em> 生气 <strong>呢</strong> 。<span class="pinyin">Dōu guài nǐ, nǐ <em>hái</em> shēngqì <strong>ne</strong>.</span><span class="trans">It's all your fault, yet you're the one who's mad.</span>
+
+</div>
+
+== Expressing a Tone of Sarcasm ==
+
+=== Structure ===
+
+It can also be used to express astonishment, dissatisfaction, or sarcasm.
+
+<div class="jiegou">
+Subj. + 还 + Noun Phrase (+ 呢)
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>还</em> 好朋友 <strong>呢</strong> ，天天 说 我 坏话 。<span class="pinyin"><em>Hái</em> hǎo péngyou <strong>ne</strong>, tiāntiān shuō wǒ huàihuà.</span><span class="trans">What a "good friend"! Talking trash about me every day.</span>
+*<em>还</em> 大 老板 <strong>呢</strong> ，一点 也 不 大方 。<span class="pinyin"><em>Hái</em> dà lǎobǎn <strong>ne</strong>, yīdiǎn yě bù dàfang.</span><span class="trans">Some "big boss," not generous in the least.</span>
+*<em>还</em> 夸 我 中文 好 <strong>呢</strong> ，我 说 的 每 句 中文 你 都 纠正 我。<span class="pinyin"><em>Hái</em> kuā wǒ zhōngwén hǎo <strong>ne</strong>, wǒ shuō de měi jù zhōngwén nǐ dōu jiūzhèng wǒ.</span><span class="trans">And you say my Chinese is good! Yet you're correcting me on every Chinese sentence I say...</span>
+</div>
+
+== Used in a Rhetorical Question ==
+
+还 can change a statement into a rhetorical question when used with 吗.
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 还 + [Verb Phrase] + 吗 ?
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*他 那么 有钱 ，<em>还</em> 在乎 这 点 钱 <strong>吗</strong> ？<span class="pinyin">Tā nàme yǒu qián, <em>hái</em> zàihu zhè diǎn qián <strong>ma</strong>?</span><span class="trans">He has so much money, would he really care about this small amount?</span>
+*这 种 人 你 <em>还</em> 相信 <strong>吗</strong> ？<span class="pinyin">Zhè zhǒng rén nǐ <em>hái</em> xiāngxìn <strong>ma</strong>?</span><span class="trans">Would you believe this kind of person?</span>
+*过期 的 牛奶 你 <em>还</em> 喝 <strong>吗</strong> ？<span class="pinyin">Guòqī de niúnǎi nǐ <em>hái</em> hē <strong>ma</strong>?</span><span class="trans">Would you drink expired milk?</span>
+*今天 这么 热，你 <em>还</em> 出门 <strong>吗</strong> ？<span class="pinyin">Jīntiān zhème rè, nǐ <em>hái</em> chūmén <strong>ma</strong>?</span><span class="trans">It's so hot today, yet you're going out now?</span>
+*他 说 的 话，你 <em>还</em> 听 <strong>吗</strong> ？<span class="pinyin">Tā shuō de huà, nǐ <em>hái</em> tīng <strong>ma</strong>?</span><span class="trans>Are you going to listen to what he says?</span>
+</div>
+
+== See also ==
+
+* [[Moderating positive adjectives with "hai"]]
+* [[Expressing "and also" with "hai"]]
+* [[Continuation with "hai"]]
+
+[[Category:B2 grammar points]]
+{{Basic Grammar|还|B2|Subj. + 还 + Predicate + 呢|<em>还</em> 好朋友 <strong>呢</strong> ，天天 说 我 坏话 。|grammar point|ASG4807F}}
+{{Rel char|吗}}
+{{Used for|Expressing attitude}}
+{{Used for|Expressing degree}}
+{{Used for|Asking questions}}
+{{Used for|Asking rhetorical questions}}
+{{Similar|Moderating positive adjectives with "hai"}}
+{{Similar|Expressing "and also" with "hai"}}
+{{Similar|Continuation with "hai"}}
+{{Similar|Expressing "not only… but also"}}
+{{Similar|Simple rhetorical questions}}
+{{Similar|}}
+{{Similar|}}
+{{POS|Adverbs}}
+{{Translation|even}}

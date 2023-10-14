@@ -1,0 +1,19 @@
+<!-- Comparing "anzhao" and "genju" -->
+{{stub}}
+{{Grammar Box}} 
+
+The main differences between 按照 (ànzhào) and 根据 (gēn jù) will go here...
+
+== See also ==
+
+* [[Comparing "genju" and "ju"]]
+
+== Sources and further reading ==
+
+===Books===
+
+[[Category:grammar comparison]]
+{{Basic Grammar|按照|C1|按照 vs 根据|<em>按照</em>，<em>根据</em>|grammar point|ASGEA938}}
+{{Rel char|根据}}
+{{Rel char|据}}
+{{Comparison|Adverbs}}

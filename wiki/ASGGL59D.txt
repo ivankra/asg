@@ -1,0 +1,74 @@
+<!-- Expressing "when" with "shi" -->
+{{Grammar Box}}
+
+By now you should now [["When" with "de shihou"|how to express "when" using 的时候 (de shíhou)]]. But there's also a slightly shorter, more formal way to do it: simply use 时 (shí) all by itself. (No 的!)
+
+== Structure ==
+
+<div class="jiegou">
+Time + 时 ，Subj. ⋯⋯
+</div>
+
+As [[time word]]s can appear [[Time words and word order|before or after the subject]], you can also place the "Time + 时" phrase after the subject.
+
+== Examples ==
+
+<div class="liju">
+
+*考试 <em>时</em> 不要 说话 。<span class="pinyin">Kǎoshì <em>shí</em> bùyào shuōhuà.</span><span class="trans">Don't talk when you're taking a test.</span>
+*我 面试 <em>时</em> 经常 会 问 这个 问题 。<span class="pinyin">Wǒ miànshì <em>shí</em> jīngcháng huì wèn zhège wèntí.</span><span class="trans">I often ask this question during job interviews.</span>
+*会议 结束 <em>时</em> 老板 才 来 。<span class="pinyin">Huìyì jiéshù <em>shí</em> lǎobǎn cái lái.</span><span class="trans">The boss didn't show up until the meeting was over.</span>
+*我 生气 <em>时</em> 不 想 说话 。<span class="pinyin">Wǒ shēngqì <em>shí</em> bù xiǎng shuōhuà.</span><span class="trans">I don't want to talk when I'm angry.</span>
+*他们 大学 毕业 <em>时</em> 就 分手 了 。<span class="pinyin">Tāmen dàxué bìyè <em>shí</em> jiù fēnshǒu le.</span><span class="trans">They broke up when they graduated from college.</span>
+*飞机 起飞 <em>时</em> ，他 关 了 手机 和 电脑 。<span class="pinyin">Fēijī qǐfēi <em>shí</em>, tā guān le shǒujī hé diànnǎo.</span><span class="trans">When the plane took off, he turned off his cell phone and computer.</span>
+*他 太太 提出 离婚 <em>时</em> ，他 很 惊讶 。<span class="pinyin">Tā tàitai tíchū líhūn <em>shí</em>, tā hěn jīngyà.</span><span class="trans">He was very surprised when his wife asked for a divorce.</span>
+*他 去世 <em>时</em> ，他 的 孩子 都 不 在 身边 。<span class="pinyin">Tā qùshì <em>shí</em>, tā de háizi dōu bù zài shēnbiān.</span><span class="trans">His children weren't with him when he passed away.</span>
+*我们 公司 成立 <em>时</em> 只有 三 个 人 。<span class="pinyin">Wǒmen gōngsī chénglì <em>shí</em> zhǐyǒu sān gè rén.</span><span class="trans">There were only three people when this company was founded.</span>
+*跟 别人 说话 <em>时</em> 不要 玩 手机 。<span class="pinyin">Gēn biérén shuōhuà <em>shí</em> bùyào wán shǒujī.</span><span class="trans">Don't play with your cell phone when you're talking with other people.</span>
+
+</div>
+
+There are also two great examples of this pattern in the poem 《远和近》 by Gu Cheng (顾城) below:
+
+<blockquote>
+你
+
+一会看我
+
+一会看云
+
+我觉得
+
+你看我时很远
+
+你看云时很近
+</blockquote>
+
+== See also ==
+
+*[[Before a specific time]]
+*[[In the future in general]]
+*[[Comparing "yihou" and "de shihou"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Basic Patterns of Chinese Grammar|24-5}} 
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|293-4}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+{{Used for|Expressing time and date}}
+{{Used for|Referring to simultaneous events}}
+{{Basic Grammar|时|B1|Time + 时|考试 <em>时</em> 不要 说话 。|grammar point|ASGGL59D}}
+{{Rel char|时候}}
+{{Rel char|的时候}}
+{{Similar|Before a specific time}} 
+{{Similar|In the future in general}}
+{{Similar|"When" with "de shihou"}}
+{{Similar|Simultaneous tasks with "yibian"}}
+{{Similar|Comparing "yihou" and "deshihou"}}
+{{POS|Nouns}}
+{{Translation|when}}
+{{Translation|while}}

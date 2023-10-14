@@ -1,0 +1,63 @@
+<!-- Expressing "that's all" with "eryi" -->
+{{Grammar Box}} 
+而已 (éryǐ) comes at the end of a sentence to express that something is merely what it is. It is like saying "it's nothing more than x."
+
+== Pattern with 而已 After a Noun ==
+
+Whenever you need to emphasize that something is just what it is and that's all, you can stick 而已 at the end of the sentence.
+
+=== Structure ===
+
+<div class="jiegou">
+(只是 / 就是 / 才 +) Noun + 而已
+</div>
+
+You may also see it used in combination with other words like [[仅仅]]，[[只]]，[[就]]，[[才]] and so on.
+
+=== Examples ===
+
+<div class="liju">
+
+* 一 杯 咖啡 <em>而已</em>，不 要 这么 感动。<span class="pinyin">Yī bēi kāfēi <em>éryǐ</em>, bùyào zhème gǎndòng.</span><span class="trans>It's just a cup of coffee, you don't need to be so moved.</span>
+* “ 一 千 块 <em>而已</em> ” ？你 不要 说得 这么 容易。"<span class="pinyin">Yī qiān kuài <em>éryǐ</em>"? nǐ bùyào shuō de zhème róngyì.</span><span class="trans>"Only one thousand yuan?" Don't make it sound so easy.</span>
+* <strong>只 是</strong> 电视剧 <em>而已</em>，现实 中 可 没有 这样 的 事儿。<span class="pinyin"><strong>Zhī shì</strong> diànshìjù <em>éryǐ</em>, xiànshí zhōng kě méiyǒu zhèyàng de shìr.</span><span class="trans>It's just a TV series. There is no such thing in reality.</span>
+* <strong>才</strong> 一个 问题 <em>而已</em>，她 就 开始 生气 了。<span class="pinyin"><strong> Cái</strong> yī gè wèntí <em>éryǐ</em>, tā jiù kāishǐ shēngqì le.</span><span class="trans>There was only one problem, and she started to get angry.</span>
+* <strong>就 是</strong> 一个 吻 <em>而已</em>，没有 什么 特别 的意思。<span class="pinyin"><strong>Jiù shì</strong> yī gè wěn <em>éryǐ</em>, méiyǒu shénme tèbié de yìsi.</span><span class="trans>It was just a kiss. It didn't mean anything special.</span>
+
+</div>
+
+== Pattern with 而已 After a Longer Phrase ==
+
+Whenever you need to emphasize that something is just what it is and that's all, you can stick 而已 at the end of the sentence.
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + (只是 / 就是 / 才 / 仅仅 +) Verb + Obj. + 而已
+</div>
+
+Again, words like [[仅仅]]，[[只]]，[[就]]，[[才]] are optional, and add more emphasis.
+
+=== Examples ===
+
+<div class="liju">
+* 他 <strong>只 是</strong> 开 个 玩笑 <em>而已</em>，不 要 当 真。<span class="pinyin">Tā <strong>zhǐ shì</strong> kāi gè wánxiào <em>éryǐ</em>, bùyào dàngzhēn.</span><span class="trans>He's only joking; don't take it seriously.</span>
+* 你 <strong>才</strong> 喝 了 一 瓶 啤酒 <em>而已</em>，怎么 会 喝 醉 了 呢？<span class="pinyin">Nǐ <strong>cái</strong> hē le yī píng píjiǔ <em>éryǐ</em>, zěnme huì hē zuì le ne?</span><span class="trans>You only drank one bottle of beer, h. How could you be drunk?</span>
+* 这 次 会议 没有 达成 具体 的 方案，<strong>仅仅</strong> 是 在 这 个 问题 上 达成 了 共识 <em>而已</em>。<span class="pinyin">Zhè cì huìyì méiyǒu dáchéng jùtǐ de fāng'àn, <strong>jǐnjǐn</strong> shì zài zhège wèntí shàng dáchéng le gòngshì <em>éryǐ</em>.</span><span class="trans>This meeting did not produce a specific plan of action, only an agreement that there was an issue.</span>
+* <strong>仅仅</strong> 是 打了 一 个 电话 <em>而已</em>，我 没有 帮 什么 忙。<span class="pinyin"><strong>Jǐnjǐn</strong> shì dǎ le yī gè diànhuà <em>éryǐ</em>, wǒ méiyǒu bāng shénme máng.</span><span class="trans>All I did was was make a phone call. I didn't help much.</span>
+* 这 辆 车 没 什么 特别 ，它 <strong>就 是</strong> 辆 普通 的 汽车 <em>而已</em>。<span class="pinyin">Zhè liàng chē méi shénme tèbié, tā <strong>jiù shì</strong> liàng pǔtōng de qìchē <em>éryǐ</em>.</span><span class="trans>This car is nothing special, it's just an ordinary car.</span>
+</div>
+
+==See also==
+
+* [[Expressing "nothing but" with "wufei"]]
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|而已|B2|Subj. + (仅仅) + 是 + Obj. + 而已 |他 只 是 开 个 玩笑 <em>而已</em>，不 要 当 真。|grammar point|ASG6TB4J}}
+{{Rel char|只}}
+{{Rel char|才}}
+{{Rel char|就是}}
+{{Rel char|仅仅}}
+{{Similar|Expressing "nothing but" with "wufei"}}
+{{POS|Sentence Patterns}}
+{{Used for|Emphasizing a point}}

@@ -1,0 +1,66 @@
+<!-- Expressing "one of" with "zhiyi" -->
+{{Grammar Box}} 
+
+之一 (zhīyī) is a simple phrase which means "one of." Although it uses the somewhat archaic word 之 (zhī), it's quite common in spoken Chinese, and is even commonly used in jokes.
+
+== Structure ==
+
+In order to express "one of" in Chinese, 之一 (zhī yī) can be used at the end of a noun phrase, which is often modified with 最 (zuì), meaning "the most."
+
+<div class="jiegou">
+Subj. + 是 + [Noun Phrase] + 之一
+</div>
+
+<div class="jiegou">
+[Noun Phrase] + 之一 + 是 ⋯⋯
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*她 是 我 <strong>最 好</strong> 的 朋友 <em>之 一</em> 。<span class="pinyin">Tā shì wǒ <strong>zuì hǎo</strong> de péngyou <em>zhī yī</em>.</span><span class="trans">She is one of my best friends.</span>
+*Frozen 是 我 <strong>最 喜欢</strong> 的 迪斯尼 电影 <em>之 一</em> 。<span class="pinyin">Frozen shì wǒ <strong>zuì xǐhuan</strong> de Dísīní diànyǐng <em>zhī yī</em>.</span><span class="trans">Frozen is one of my favorite Disney movies.</span>
+*纽约 是 世界 上 <strong>最 国际化</strong> 的 城市 <em>之 一</em> 。<span class="pinyin">Niǔyuē shì shìjiè shàng <strong>zuì guójìhuà</strong> de chéngshì <em>zhī yī</em>.</span><span class="trans">New York is the one of the most international cities in the world.</span>
+*他 是 这个 公司 的 创始人 <em>之 一</em> 。<span class="pinyin">Tā shì zhège gōngsī de chuàngshǐ rén <em>zhī yī</em>.</span><span class="trans">He is one of the founders of this company.</span>
+*成龙 是 <strong>最 有名</strong> 的 中国 明星 <em>之 一</em> 。<span class="pinyin">Chéng Lóng shì <strong>zuì yǒumíng</strong> de Zhōngguó míngxīng <em>zhī yī</em>.</span><span class="trans">Jackie Chan is one of the most famous Chinese movie stars.</span>
+*我 想 离开 北京 的 原因 <em>之 一</em> 是 空气 污染 。<span class="pinyin">Wǒ xiǎng líkāi Běijīng de yuányīn <em>zhī yī</em> shì kōngqì wūrǎn.</span><span class="trans">One of the reasons why I want to leave Beijing is the air pollution.</span>
+*中秋节 是 中国 重要 的 传统 节日 <em>之 一</em> 。<span class="pinyin">Zhōngqiūjié shì Zhōngguó zhòngyào de chuántǒng jiérì <em>zhī yī</em>.</span><span class="trans">Mid-autumn Day is one of the most important traditional festivals in China.</span>
+
+</div>
+
+== The Common 之一  Joke ==
+
+A joke you'll hear a lot in Chinese involves using 最... but then pausing before saying 之一. This can leave the impression that you're saying someone or something is "the best," but really you're saying "''one of'' the best," which can make a big difference (and is not nearly as complimentary).
+
+<div class="liju">
+
+*她 是 我 <strong>最 好</strong> 的 朋友 …… <em>之一</em> 。<span class="pinyin">Tā shì wǒ <strong>zuì hǎo</strong> de péngyou... <em>zhī yī</em>.</span><span class="trans">She is my best friend... well, one of them.</span>
+*你 是 我 <strong>最 喜欢</strong> 的 老师 …… <em>之一</em> 。<span class="pinyin">Nǐ shì wǒ <strong>zuì xǐhuan</strong> de lǎoshī... <em>zhī yī</em>.</span><span class="trans">You are my favorite teacher... well, one of them.</span>
+*中国 是 我 <strong>最 爱</strong> 的 地方 …… <em>之一</em> 。<span class="pinyin">Zhōngguó shì wǒ <strong>zuì ài</strong> de dìfang... <em>zhī yī</em>.</span><span class="trans">China is my favorite place... well, one of them.</span>
+
+</div>
+
+== See also ==
+
+*[["Within (it/them)" as "qizhong"]]
+*[["Among" as "dangzhong"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Integrated Chinese: Level 2, Part 2|259}}
+{{Source|Integrated Chinese: Level 2 (1st ed) |227}}
+{{Source|卓越汉语－公司实战篇|52-3}}
+
+[[Category: B1 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|之一|B1|⋯⋯之一|你 是 我 最 好 的 朋友 <em>之一</em> 。|grammar point|ASGMT1M1}}
+{{Rel char|之}}
+{{Rel char|一}}
+{{Rel char|最}}
+{{Similar|"Among" as "dangzhong"}}
+{{Similar|"Within (it/them)" as "qizhong"}}
+{{Structure|Noun Phrases}}
+{{Translation|one of}}

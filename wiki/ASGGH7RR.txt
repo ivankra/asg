@@ -1,0 +1,60 @@
+<!-- Intensifying with "duo" -->
+{{Grammar Box}} 
+
+One way to intensify a sentence is to make it an exclamation. To do this, you can use 多 (duō).
+
+== Structure ==
+
+As well as [[Asking about degree with "duo"|asking about degree]], you can also use 多 (duō) to intensify adjectives. 
+
+<div class="jiegou">
+
+Subj. + 多 + Adj. 
+
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+* 一个人 <em>多</em> 好！ <span class="pinyin">Yīgèrén <em>duō</em> hǎo!</span><span class="trans">It's so nice being alone! </span>
+* 你 女儿 <em>多</em> 聪明 啊！ <span class="pinyin">Nǐ nǚér <em>duō</em> cōngming a! </span><span class="trans">Your daughter is so smart! </span>
+* 今天 天气 <em>多</em> 舒服 ！<span class="pinyin">Jīntiān tiānqì <em>duō</em> shūfu! </span><span class="trans">Today's weather is so nice! </span>
+* 你 看 这 个 地方 ，<em>多</em> 美 啊！<span class="pinyin">Nǐ kàn zhège dìfang, <em>duō</em> měi a! </span><span class="trans">Look at this place, it is so beautiful! </span>
+* 学 中文 <em>多</em> 有意思 啊！<span class="pinyin">Xué Zhōngwén <em>duō</em> yǒu yìsi a!</span><span class="trans">Studying Chinese is so interesting!</span>
+* 坐 地铁 <em>多</em> 方便！<span class="pinyin">Zuò dìtiě <em>duō</em> fāngbiàn!</span><span class="trans">How convenient it is to take the metro!</span>
+* 你 看 这 个 小狗， <em>多</em> 可爱！<span class="pinyin">Nǐ kàn zhège xiǎogǒu, <em>duō</em> kě'ài!</span><span class="trans">Look at this puppy! It is so cute!</span>
+* 这样 做 <em>多</em> 麻烦！<span class="pinyin">Zhèyàng zuò <em>duō</em> máfan! </span><span class="trans">Doing it this way is so troublesome! </span>
+* 这些 菜<em>多</em> 好吃 啊！<span class="pinyin">Zhèxiē cài <em>duō</em> hǎochī a! </span><span class="trans">These foods are so delicious!</span>
+* 你 男朋友 <em>多</em> 帅 啊！<span class="pinyin">Nǐ nánpéngyou <em>duō</em> shuài a! </span><span class="trans">Your boyfriend is so handsome!</span>
+
+</div>
+
+多 (duō) can be compared to 很 (hěn) in this case. If you use 很 (hěn) instead of 多 (duō), the meaning is basically the same. However 很 (hěn) is also used to make [[simple "noun + adjective" sentences]], which might not be exclamatory at all, whereas 多 (duō) is used only for excited exclamations.
+
+==See also==
+*[[Adjectives with "name" and "zheme"]]
+*[[Positive adjectives with "-ji le"]]
+*[[Asking about degree with "duo"]]
+
+== Sources and further reading ==
+
+* [[Boya Chinese Elementary Starter 1 (博雅汉语初经起步篇)]] (p. 211) [http://www.amazon.com/gp/product/7301075294/ref%3das_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=7301075294 →buy]
+* [[发展汉语 中级汉语口语上]] (p. 72)
+* [[Chinese: An Essential Grammar, Second Edition]] (pp. 199) [http://www.amazon.com/gp/product/0415372615/ref=as_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0415372615 →buy]
+
+[[Category:A2 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|多|A2|Subj. + 多 + Adj.|<em>多</em> 好！外面 <em>多</em> 舒服！|grammar point|ASGGH7RR}}
+{{Similar|Adjectives with "name" and "zheme"}} 
+{{Similar|Positive adjectives with "-ji le"}} 
+{{Similar|Asking about degree with "duo"}}
+{{Similar|Indicating a number in excess}}
+{{Similar|Doing something more with "duo"}}
+{{Similar|Expressing "really" with "zhen"}}
+{{Similar|Superlative "zui"}}
+{{Used for|Adding more explanation}}
+{{Used for|Emphasizing}}
+{{Translation|very}}
+{{Translation|really}}
+{{POS|Adverbs with Adjectives}}

@@ -1,0 +1,84 @@
+<!-- Polite requests with "qing" -->
+{{Grammar Box}} 
+
+To be more polite in English, we add the word "please" onto our requests. In Chinese, the word 请 (qǐng) serves the same purpose.
+
+== Simple Requests ==
+
+In its most simple form, a polite request can consist of only two words.
+
+=== Structure ===
+
+<div class="jiegou">
+请 + Verb
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* <em>请</em> 进 。<span class="pinyin"><em>Qǐng</em> jìn.</span><span class="trans">Please come in.</span>
+* <em>请</em> 坐 。<span class="pinyin"><em>Qǐng</em> zuò.</span><span class="trans">Please sit down.</span>
+* <em>请</em> 说 。<span class="pinyin"><em>Qǐng</em> shuō.</span><span class="trans">Please speak.</span>
+
+</div>
+
+== Longer Requests ==
+
+Obviously, those requests may be significantly longer.
+
+=== Structure ===
+
+<div class="jiegou">
+请 (+ 你) + Verb Phrase
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* <em>请</em> 喝 茶 。<span class="pinyin"><em>Qǐng</em> hē chá.</span><span class="trans">Please have some tea.</span>
+* <em>请</em> 不要 迟到 。<span class="pinyin"><em>Qǐng</em> bùyào chídào.</span><span class="trans">Please do not be late.</span>
+* <em>请</em> 尝 一 尝 。<span class="pinyin"><em>Qǐng</em> cháng yī cháng.</span><span class="trans">Please have a taste.</span>
+* <em>请</em> 你 说 得 慢 一点  。<span class="pinyin"><em>Qǐng</em> nǐ shuō de màn yīdiǎn.</span><span class="trans">Please speak more slowly.</span>
+* <em>请</em> 你 听 老师 的 话 。<span class="pinyin"><em>Qǐng</em> nǐ tīng lǎoshī de huà.</span><span class="trans">Please listen to the teacher.</span>
+* <em>请</em> 你 离开 。<span class="pinyin"><em>Qǐng</em> nǐ líkāi.</span><span class="trans">Please leave.</span>
+
+</div>
+
+The phrase 请问 (qǐngwèn) is a set expression meaning not "please ask," but rather, "may I ask." It frequently comes before asking for directions or other polite requests for information.
+
+<div class="liju">
+
+* <em>请</em>问 ， 洗手间 在 哪里 。<span class="pinyin"><em>Qǐng</em> wèn, xǐshǒujiān zài nǎlǐ?</span><span class="trans">Excuse me, where is the restroom?</span>
+
+</div>
+
+== Being Polite without 请 (qǐng) ==
+
+You may have noticed that the Chinese themselves do not use 请 (qǐng) nearly as much as we use the word "please" in English. It's not because Chinese people are rude; it's because the word 请 (qǐng) feels rather formal in Chinese, and most people don't feel the need to use it with family members, friends, or even co-workers. 
+
+Here are some other ways to start make a request to still be polite, but less in a less formal way:
+
+<div class="liju">
+
+* 你 <em>可 不 可以</em> …… ？<span class="pinyin">Nǐ <em>kě bu kěyǐ</em>…?</span><span class="trans">Could you...?</span>
+* 你 <em>能 不 能</em> …… ？<span class="pinyin">Nǐ <em>néng bu néng</em>…?</span><span class="trans">Can you...?</span>
+* <em>麻烦</em> 你 …… <span class="pinyin"><em>Máfan </em>nǐ…</span><span class="trans">Can I trouble you to... (?)</span>
+
+</div>
+
+== More Advanced Uses of 请 (qǐng) ==
+
+Aside from this "please" usage, the word 请 (qǐng) has some additional uses not covered here. It can mean "to invite," or "to treat (someone to a meal)," and can even be used as a [[Causative verbs|causative verb]]. None of those uses are covered here.
+
+== Sources and further reading ==
+
+{{Source|HSK Standard Course 1|75}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{Basic Grammar|请|A2|请 + Verb|<em>请</em> 坐 。|grammar point| ASG25C48}}
+{{Similar|Causative verbs}}
+{{POS|Verbs}}
+{{Used for|Requesting}}

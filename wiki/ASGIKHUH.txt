@@ -1,0 +1,60 @@
+<!-- Comparing "buduan" and "buting" -->
+{{Grammar Box}} 
+If something keeps happening and won't stop happening, we say that it is "continuous" or "incessant." In Chinese, the words are 不断 (bùduàn) and 不停 (bùtíng). These two words are usually adverbs in Chinese, but they can sometimes be adjectives too. Their uses are subtly different, so this article will help you distinguish when and where to use them.
+
+==不断==
+
+"不断" is usually placed before the verb it modifies, and it often requires [[Turning adjectives into adverbs|the particle "地"]] to show that it is an adverb. 
+
+<div class="jiegou">
+Subj. + 不断 + 地 + Verb
+</div>
+
+===Examples===
+
+<div class="liju">
+*客户 <em>不断地</em> 改变 主意，怎么 办？<span class="pinyin">Kèhù <em>bùduàn de</em> gǎibiàn zhǔyì, zěnme bàn?</span><span class="trans">The client won't stop changing his ideas. What should I do?</span>
+*过去 的 两 年 里，我们 <em>不断地</em> 在 努力，也 <em>不断地</em> 在 进步。<span class="pinyin">Guòqù de liǎng nián lǐ, wǒmen <em>bùduàn de</em> zài nǔlì, yě <em>bùduàn de</em> zài jìnbù.</span><span class="trans">For two years, we continuously pushed ourselves and continuously improved.</span>
+*他们 之间 的 矛盾 一直 <em>不断</em>，关系 <em>不断</em> 恶化。<span class="pinyin">Tāmen zhī jiān de máodùn yīzhí <em>bùduàn</em>, guānxì <em>bùduàn</em> èhuà.</span><span class="trans">The argument between them is ongoing. The relationship is consistently worsening.</span>
+</div>
+
+==不停==
+
+"不停" is a little more versatile and can be placed both before the verb as an adverb, or after the verb as something that is somewhat like a complement. Either way, it means the same thing.
+
+<div class="jiegou">
+Subj. + 不停 + 地 + Verb
+</div>
+
+===Examples===
+
+<div class="liju">
+*我 今天 很 困，<em>不 停 地</em> 打 哈欠。<span class="pinyin">Wǒ jīntiān hěn kùn, <em>bù tíng de</em> dǎ hāqian.</span><span class="trans">I'm so tired today. I can't stop yawning.</span>
+*感冒 了，喉咙 痛，还 <em>不 停 地</em> 流 鼻涕。<span class="pinyin">Gǎnmào le, hóulóng tòng, hái <em>bù tíng de</em> liú bítì.</span><span class="trans">I got a cold. My throat hurts and my nose runs constantly.</span>
+*吃饭 的 时候 他 一 句 话 也 不 说，<em>不 停 地</em> 吃。<span class="pinyin">Chīfàn de shíhou tā yī jù huà yě bù shuō, <em>bù tíng de</em> chī.</span><span class="trans">When he's eating, he doesn't say anything. He doesn't stop eating.</span>
+</div>
+
+When "不停" comes after the verb, it behaves somewhat strangely and takes "个" before it in order to become grammatical, like so:
+
+<div class="jiegou">
+Subj. + Verb + 个 + 不停 
+</div>
+
+===Examples===
+
+<div class="liju">
+*孩子 <strong>哭</strong> <em>个 不停</em>，是 不 是 发烧 了？<span class="pinyin">Háizi <strong>kū</strong> <em>gè bù tíng</em>, shì bu shì fāshāo le?</span><span class="trans">The child is crying constantly. Does he have a fever?</span>
+*你 一直 <strong>说</strong> <em> 个 不停</em>，太 吵 了，不 要 再 说 了。<span class="pinyin">Nǐ yīzhí shuō gè bùtíng, tài chǎo le, bùyào zài shuō le.</span><span class="trans">You've been talking non-stop. It's too noisy.</span>
+*今天 电话 <strong>响</strong><em> 个 不停</em>，烦 死 了。<span class="pinyin">Jīntiān diànhuà <strong>xiǎng</strong> <em>gè bù tíng</em>, fán sǐ le.</span><span class="trans">The phone is ringing off the hook today. It's so annoying.</span>
+*一天到晚 老婆 <strong>唠叨</strong> <em> 个 不停</em>，你 受得了 吗？<span class="pinyin">Yītiān dào wǎn lǎopo <strong>láodao</strong> <em>gè bù tíng</em>, nǐ shòu deliǎo ma?</span><span class="trans">All day long, the wife doesn't stop nagging. Would you be able to stand it?</span>
+</div>
+
+[[Category:grammar comparison]]
+{{Basic Grammar|不断|C1|不断 vs 不停|她 <em>不断</em> 地 找 我，每次 都 说 个 <em>不停</em>。|grammar point|ASGIKHUH}}
+{{Rel char|不停}}
+{{Similar|"All along" with "yizhi"}}   
+{{Similar|"Always" as a complaint with "laoshi"}}   
+{{Used for|Expressing time and date}}
+{{Used for|Expressing attitude}}
+{{Used for|Expressing duration}}
+{{Comparison|Adverbs}}

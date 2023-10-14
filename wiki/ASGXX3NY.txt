@@ -1,0 +1,76 @@
+<!-- Expressing "even if…" with "napa" -->
+{{Grammar Box}} 
+
+哪怕 (nǎpà) means "even if," and has a slightly stronger tone than [[Expressing "Even if…" with "jishi"|即使]] or [[Expressing "Even if…" with "jiusuan"|就算]]. It is therefore often used to disregard hypothetical statements of a more serious nature.
+
+== Basic Pattern ==
+
+The basic "even if" form should be familiar if you know [[Expressing "Even if…" with "jishi"|即使]] or [[Expressing "Even if…" with "jiusuan"|就算]].
+
+=== Structure ===
+
+<div class="jiegou">
+哪怕 ⋯⋯ ，也 ⋯⋯
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>哪怕</em> 他 不 说 ，我 <em>也</em> 会 知道 。<span class="pinyin"><em>Nǎpà</em> tā bù shuō, wǒ <em>yě</em> huì zhīdào.</span><span class="trans">Even if he doesn't say, I'll still find out.</span>
+*<em>哪怕</em> 你 什么 礼物 都 没 买 ，她 <em>也</em> 会 很 开心 的 。<span class="pinyin"><em>Nǎpà</em> nǐ shénme lǐwù dōu méi mǎi, tā <em>yě</em> huì hěn kāixīn de.</span><span class="trans">It would make her really happy even if you didn't buy any present.</span>
+*<em>哪怕</em> 他 爸爸 是 总统 ，我 <em>也</em> 不 要 嫁 给 他 ！<span class="pinyin"><em>Nǎpà</em> tā bàba shì zǒngtǒng, wǒ <em>yě</em> bù yào jià gěi tā!</span><span class="trans">I wouldn't marry him even if his father were the president! </span>
+*<em>哪怕</em> 你们 会 不 高兴 ，我 <em>也</em> 要 把 话 说 清楚 。<span class="pinyin"><em>Nǎpà</em> nǐmen huì bù gāoxìng, wǒ <em>yě</em> yào bǎ huà shuō qīngchu.</span><span class="trans">Even if it will make you guys unhappy, I still need to say this.</span>
+*<em>哪怕</em> 你 打扮 得 像 电影 明星 一样 ，他 <em>也</em> 不 会 看 你 一 眼 ！<span class="pinyin"><em>Nǎpà</em> nǐ dǎbàn de xiàng diànyǐng míngxīng yīyàng, tā <em>yě</em> bù huì kàn nǐ yīyǎn!</span><span class="trans">Even if you dressed up like a movie star, he still wouldn't pay you the slightest attention!</span>
+
+</div>
+
+== Advanced Pattern with 再 ==
+
+=== Structure ===
+
+哪怕 is often followed by 再 to further emphasize that what follows won't make a difference. In this usage, it's very similar to "no matter," which can also be expressed by patterns like [["No matter" with "buguan"|不管 (bùguǎn)]].
+
+<div class="jiegou">
+哪怕 + [Subj. 1] + 再 ⋯⋯ ，[Subj. 2] + 也 ⋯⋯ 
+</div>
+
+=== Examples ===
+
+If the two subjects are the same, it's OK to omit one.
+
+<div class="liju">
+
+*<em>哪怕</em> <strong>再</strong> 忙 ，我 <em>也</em> 要 健身 。<span class="pinyin"><em>Nǎpà</em> <strong>zài</strong> máng, wǒ <em>yě</em> yào jiànshēn.</span><span class="trans">Even if I‘m super busy, I will still find some time to work out.</span>
+*<em>哪怕</em> 你 说 得 <strong>再</strong> 好听 ，我们 <em>也</em> 不 相信 。<span class="pinyin"><em>Nǎpà</em> nǐ shuō de <strong>zài</strong> hǎotīng, wǒmen <em>yě</em> bù xiāngxìn.</span><span class="trans">No matter how convincing you are, we're still not going to believe it.</span>
+* <em>哪怕</em> <strong>再</strong> 累 ，她 <em>也</em> 不 要 父母 帮忙 照顾 孩子。 <span class="pinyin"><em>Nǎpà</em> <strong>zài</strong> lèi, tā <em>yě</em> bù yào fùmǔ bāngmáng zhàogù háizi.</span><span class="trans">Even if it's really exhausting, she doesn't want her parents' help with the baby.</span>
+* <em>哪怕</em> 孩子 <strong>再</strong> 淘气 ，父母 <em>也</em> 不 应该 打 他们 。<span class="expl">"Hit" could mean "spank" here.</span><span class="pinyin"><em>Nǎpà</em> háizi <strong>zài</strong> táoqì, fùmǔ <em>yě</em> bù yīnggāi dǎ tāmen.</span><span class="trans">No matter how disobedient the children are, their parents shouldn't hit them.</span>
+*<em>哪怕</em> 你 问 <strong>再</strong> 多 遍 ，她 <em>也</em> 不 会 说 一 个 字 。<span class="pinyin"><em>Nǎpà</em> nǐ wèn <strong>zài</strong> duō biàn, tā <em>yě</em> bù huì shuō yī gè zì.</span><span class="trans">No matter how many times you ask her, she will not say a single word.</span>
+
+</div>
+
+== See also ==
+
+*[[Expressing "even if…" with "jishi"]]
+*[[Expressing "even if…" with "jiushi"]]
+*[[Expressing "even if…" with "jiusuan"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|New Practical Chinese Reader 5 (新实用汉语课本5)|113}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课下册）|556}}
+{{Source|卓越汉语－公司实战篇|113}}
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|哪怕|B2|哪怕⋯⋯，也⋯⋯|<em>哪怕</em> 第 一 次 失败 了 ， <em>也</em> 要 继续 研究 。|grammar point|ASGXX3NY}}
+{{Rel char|也}}
+{{Rel char|再}}
+{{Similar|Expressing "even if…" with "jishi"}}
+{{Similar|Expressing "even if…" with "jiushi"}}
+{{Similar|Expressing "even if…" with "jiusuan"}}
+{{Structure|"Even If" Statements}}
+{{Used for|Expressing determination}}
+{{Used for|Indicating conditions}}
+{{Translation|even if}}

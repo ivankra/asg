@@ -1,0 +1,285 @@
+<!-- Using "ba" sentences -->
+{{Grammar Box}} 
+
+{{AKA|把字句 ("bǎ"zìjù)|把 construction|preposition 把|disposal construction|pre-transitive 把}}
+
+The 把 (bǎ) sentence is a useful structure for constructing longer sentences which focus on the result or influence of an action. One of its key features is that it brings the object of the verb closer to the front of the sentence and precedes it with a 把. It's really common in Mandarin but can feel a bit awkward at first for English speakers.
+
+== What is a 把 sentence? ==
+
+A basic sentence in Mandarin is formed with a subject-verb-object (SVO) [[word order]], as in English:
+
+<div class="jiegou">
+Subj. + [Verb Phrase] + Obj.
+</div>
+
+A 把 sentence shakes things up a bit, and you get this structure:
+
+<div class="jiegou">
+Subj. + 把 + Obj. + [Verb Phrase]
+</div>
+
+Note that the '''object has moved''', and is preceded by 把. You now have SOV word order.
+
+This is all well and good, but most students of Chinese, on learning about 把 sentences for the first time, have the same reaction: ''"Why the heck would I ever use this structure?  The SVO word order always works just fine, right?"'' The answer is: well, no... not always.  It's true that 把 sentences are often used to achieve somewhat subtle differences in emphasis, but there are also very good reasons to use 把 sentences when a regular sentence just won't do. Take this sentence for example:
+
+<div class="liju">
+*<em>把</em> <strong>书</strong> 放 <strong>在</strong> 桌子 <strong>上</strong> 。<span class="pinyin"><em>Bǎ</em> <strong>shū</strong> fàng <strong>zài</strong> zhuōzi <strong>shàng</strong>.</span><span class="trans">Put the book on the table.</span>
+</div>
+
+How would you say this without the 把 construction? You might try this:
+
+<div class="liju">
+
+<ul>
+<li class="x">放 <strong>书</strong> 在 桌子 <strong>上</strong> 。<span class="pinyin">Fàng <strong>shū</strong> <strong>zài</strong> zhuōzi <strong>shàng</strong>.</span></li>
+</ul>
+
+The problem is that the above Chinese sentence is not grammatical. ''You can't put an object right after a verb, and then put other modifiers of the verb after the object.'' Here are other examples of how to successfully use 把 and 放 in the same sentence.
+
+*她 <em>把</em> <strong>我 的 手机</strong> 放 <strong>在</strong> 她 的 包 <strong>里</strong> 了 。<span class="pinyin">Tā <em>bǎ</em> <strong>wǒ de shǒujī</strong> fàng <strong>zài</strong> tā de bāo <strong>lǐ</strong> le.</span><span class="trans">She put my cell phone in her bag.</span>
+*他 <em>把</em> <strong>脏 衣服</strong> 放 <strong>在</strong> 床 <strong>下面</strong> 了 。<span class="pinyin">Tā <em>bǎ</em> <strong>zāng yīfu</strong> fàng <strong>zài</strong> chuáng <strong>xiàmiàn</strong> le.</span><span class="trans">He put his dirty laundry under the bed.</span>
+*你 是 不 是 <em>把</em> <strong>护照</strong> 放 <strong>在</strong> 行李箱 <strong>里</strong> 了 ？<span class="pinyin">Nǐ shì bu shì <em>bǎ</em> <strong>hùzhào</strong>  fàng <strong>zài</strong> xínglixiāng <strong>lǐ</strong> le?</span><span class="trans">Did you put your passport in your suitcase?</span>
+
+</div>
+
+For each of these, the sentence would be ungrammatical if you tried to do away with the 把 and put the object right after the verb.
+
+== Key Things to Keep in Mind When Using 把 ==
+
+* The object should be known. So it has already been mentioned or discussed previously.
+* 把字句 are most often used to describe what happened to the object in some detail. The verb is not just "bare"; there's "more stuff" after it. Often the "stuff" is related to some kind of manipulation of the object.
+* 把字句 are not tied to any particular time. You can use them when talking about events in the past, or for making a request.
+
+== 把 Sentences with Two Objects ==
+
+The usual structure for 把 sentences, as described above, puts the object right after 把. For certain verbs, however, you can have two objects in a 把 sentence. Their use in a 把 sentence will also involve [[prepositions]].
+
+They use the following structure:
+
+<div class="jiegou">
+Subj. + 把 + Obj. 1 + Verb + 给 + Obj. 2
+</div>
+
+Common verbs that take two objects include: 送 (sòng), 拿 (ná), 递 (dì), 卖 (mài), 借 (jiè), 还 (huán), 介绍 (jièshào).
+
+<div class="liju">
+{| class="wikitable" style="width:38em"
+|+Some examples:
+|-
+! Subject !! 把 !! <em>Object 1</em> !! Verb !! Preposition !! <em>Object 2</em> !! !!
+|-
+| 我们 || 把 || <em>礼物</em>  || 送 || 给 || <em>客人</em> || 了 || 。
+|-
+|&nbsp;|| 把 ||<em>盐</em> || 递 || 给 || <em>我</em> ||&nbsp;|| 。
+|-
+| 他 || 把 ||  <em>房子</em> || 卖 || 给 || <em>谁</em> ||了 || ？
+|-
+| 我 || 把 ||  <em>他</em> || 介绍 || 给 || <em>我 老板</em> ||了 || 。
+|}
+</div>
+
+== 把 Sentences with Complements ==
+
+Because 把 sentences are all about "doing stuff" to the object, and [[complements]] in Mandarin often handle this issue, it's good to be aware of how these two grammar features interact.
+
+[[Result complement]]s work particularly well in 把 sentences. When you consider that both structures deal with the result or outcome of an action, this makes sense. The majority of result complements (except for perception verbs) fit in very well in a 把 construction. For example:
+
+<div class="liju">
+
+*我 <em>把</em> 作业 做 <strong>完</strong> 了 。<span class="pinyin">Wǒ <em>bǎ</em> zuòyè zuò <strong>wán</strong> le.</span><span class="trans">I finished doing my homework.</span>
+*老师 <em>把</em> 我 的 名字 读 <strong>错</strong> 了 。<span class="pinyin">Lǎoshī <em>bǎ</em> wǒ de míngzì dú <strong>cuò</strong> le.</span><span class="trans">The teacher read my name wrong.</span>
+
+</div>
+
+[[Direction complement]]s also work well in 把 constructions, for similar reasons. For example:
+
+<div class="liju">
+
+*请 <em>把</em> 客人 带 <strong>进去</strong> 。<span class="pinyin">Qǐng <em>bǎ</em> kèrén dài <strong>jìnqù</strong>.</span><span class="trans">Please take the guests inside.</span>
+*<em>把</em> 我 的 眼镜 拿 <strong>过来</strong> 。<span class="pinyin"><em>Bǎ</em> wǒ de yǎnjìng ná <strong>guòlái</strong>.</span><span class="trans">Please bring my glasses over here.</span>
+
+</div>
+
+Note that [[potential complement]]s do not appear in 把 sentences. This is because they are hypothetical, whereas a 把 sentence must describe what actually happens.
+
+== Forming 把 Sentences ==
+
+Since the basic structure has already been given above, we can jump right into some more exciting patterns!
+
+=== Negating 把 Sentences ===
+
+To negate a 把 sentence, insert 不要 or 别 (present or future) or 没有 (past) directly in front of 把. You can't put it after 把, 'inside' the 把 construction, as this would break the rule about describing what actually happened to the object. It would be like saying "What happened to... was nothing." It doesn't sound natural.
+
+<div class="liju">
+{| class="wikitable" style="width:38em"
+|+A few examples:
+|-
+! Subject !! <em>Negative</em> !! 把 !! Object !! Verb Phrase !!
+|-
+| 阿姨 || <em>没有</em> || 把 || 房间 || 打扫 干净 || 。
+|-
+| 我 || <em>没</em> || 把 || 钱 || 借给 他 || 。
+|-
+| 你们|| <em>不要</em> || 把 || 这 件 事 || 告诉 她 || 。
+|}
+</div>
+
+=== Question Forms of 把 Sentences ===
+
+You can make 把 sentences into questions in the usual three ways to form questions in Mandarin:
+
+* With a question particle
+* With a question word
+* With positive-negative verbs
+
+Some examples:
+
+<div class="liju">
+
+*你们 <em>把</em> <strong>那个 问题</strong> 解决 了 吗 ？<span class="pinyin">Nǐmen <em>bǎ</em> <strong>nàge wèntí</strong> jiějué le ma?</span><span class="trans">Did you solve that problem?</span>
+*你 <em>把</em> <strong>我 手机</strong> 放 在哪儿 了 ？<span class="pinyin">Nǐ <em>bǎ</em> <strong>wǒ shǒujī</strong> fàng zài nǎr le?</span><span class="trans">Where did you put my cell phone?</span>
+*他 <em>把</em> <strong>钱</strong> 借 给 谁 了 ？<span class="pinyin">Tā <em>bǎ</em> <strong>qián</strong> jiè gěi shéi le?</span><span class="trans">Who did he lend the money to?</span>
+*你 能不能 <em>把</em> <strong>你 房间</strong> 打扫 干净 ？<span class="pinyin">Nǐ néng bu néng <em>bǎ</em> <strong>nǐ fángjiān</strong> dǎsǎo gānjìng?</span><span class="trans">Can you clean your room or not?</span>
+
+</div>
+
+Be careful how you form questions with 把 sentences though. Remember that you have to have a definite object, and you have to describe what was done to that object. A question form could easily get in the way of one of these conditions.
+
+=== Adverbs in 把 Sentences ===
+
+Adverbs can usually be placed before 把 or before the verb (the exception is negative adverbs, as described above). Adverbs in each of these positions can change the meaning in slightly different ways, as demonstrated with 都 in the examples below. 
+
+<div class="liju">
+{| class="wikitable" style="width:43em"
+|+Some examples:
+|-
+! Subj. !! Adv. !! <em>把</em> !! Object !! Adv. !! Verb Phrase !! &nbsp;
+|-
+| 我们 || <strong>都</strong> || <em>把</em> || 作业 || &nbsp; || 做 完 了 || 。
+|-
+| 他 || &nbsp; || <em>把</em> || 咖啡 || <strong>都</strong> || 喝 完 了 || 。
+|-
+| 他 || <strong>已经</strong> || 把 || 钱 || &nbsp; || 还给 我 了 ||  。
+|-
+| 我 || <strong>可能</strong> || 把 || 手机 || &nbsp; || 忘 在 朋友 家 了 || 。
+|}
+</div>
+
+In the first sentence, 都 modifies 我们 to express "we all finished the homework." In the second sentence, 都 modifies 咖啡 to express "he finished all the coffee".
+
+=== 把 Sentences and Quantity Phrases ===
+
+As mentioned above, the object of a 把 sentence must be something specific and definite. This might involve noun [[measure word]]s, which will come after the 把 and before the object.
+
+<div class="liju">
+
+{| class="wikitable" style="width:38em"
+|+Some examples:
+|-
+! Subject !! 把 !! <em>Quantity Phrase</em> !! Noun !! Verb Phrase !!
+|-
+| 我 || 把 || 那 <em>两 件</em> || 脏 衣服 || 洗 干净 了 ||  。
+|-
+| 他 || 把 || 最后 <em>三 块</em> || 蛋糕 ||  吃 完 了 || 。
+|-
+| 你 || 把 || 这 <em>几 句</em> || 话 || 读 一下 || 。
+|}
+
+</div>
+
+[[Verb measure words]] are frequently used in 把 sentences and come at the end of a 把 sentence.
+
+<div class="liju">
+
+{| class="wikitable" style="width:38em"
+|+Some examples:
+|-
+! Subject !! 把 !! Object !! Verb !!<em>Quantity Phrase</em> !! &nbsp;
+|-
+| &nbsp;|| 把 || 课文 || 读 || <em>一 遍</em> || 。
+|-
+| 她 || 把 || 这个 字 || 写 了 || <em>十 遍</em> || 。
+|-
+| 他 || 把 || 手机 || 摔坏 过 || <em>两 三 次</em> || 。
+|}
+
+</div>
+
+Note that in all of these sentences, the object is something specific and definite.
+
+== QUIZ TIME! ==
+
+<h3 class="quiz">Ready to Check Your Mastery of 把?</h3>
+<div class="quiz">
+
+If you're pretty clear on the explanations you've read so far and the examples make sense to you, you still need to put your knowledge to the test.
+
+<div class="quiz-link">[https://quizzes.allsetlearning.com/q/grammar-ba3-01/ Take the 把 Quiz!]</div>
+
+</div>
+
+== Verbs for 把 Sentences ==
+
+Some verbs generally can't indicate what happened ''to'' the object. They only describe what the subject did. Below are some examples of verbs that do not generally work in 把 sentences.
+
+[[Psychological verb]]s: 爱 (ài) "to love," 喜欢 (xǐhuan) "to like," 想  (xiǎng) "to miss," 了解 (liǎojiě) "to know well," 害怕 (hàipà) "to fear," 恨 (hèn ) "to hate."
+
+[[Perception verb]]s: 看 (kàn) "to look at," 听 (tīng) "to listen to," 闻 (wén) "to smell," 像 (xiàng) "to resemble."
+
+== Other Uses of 把 ==
+
+It's important to note that 把 is a word with other uses. The most common is as a [[measure word]] for things with handles, or things that you hold. Examples include 一把伞 ("an umbrella"), 一把枪 ("a gun"), and 一把椅子 ("a chair"). So, you've got to look at how 把 is being used in a sentence before you can understand its meaning.
+
+To demonstrate the difference, here's a sentence with both kinds of 把:
+
+<div class="liju">
+*请 你 <em>把</em> 那 <strong>把</strong> 伞 拿 给 我 。<span class="pinyin">Qǐng nǐ <em>bǎ</em> nà <strong>bǎ</strong> sǎn ná gěi wǒ.</span><span class="trans">Please give me that umbrella.</span>
+</div>
+
+==See also==
+
+*[[Result complement]]
+*[[Direction complement]]
+*[[Bei sentence]]
+*[[Aspect particles]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|93, 101, 119}}
+{{Source|A Practical Chinese Grammar For Foreigners (外国人实用汉语语法) |461-70}} 
+{{Source|Basic Patterns of Chinese Grammar|53-4}} 
+{{Source|Chinese: An Essential Grammar, Second Edition|159-64}}
+{{Source|Chinese Grammar Without Tears (简明汉语语法学习手册)|167-81}}
+{{Source|Common Chinese Patterns 330 (汉语常用格式330例)|3-5}} 
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|142-4}} 
+{{Source|Integrated Chinese: Level 2, Part 2|225-7, 321-3}}
+{{Source|Mandarin Chinese: A Functional Reference Grammar|463-92}} 
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|354-5}} 
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2) |41-2, 88}} 
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3) |15, 51, 101-2}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课下册）|369-70, 384, 398-9}}
+
+=== Websites ===
+
+* Mandarin Essential Grammar (Yale): [http://comet.cls.yale.edu/mandarin/content/ba/grammar/ba.htm 把 Construction]
+* CTCFL (Oxford): [http://www.ctcfl.ox.ac.uk/Grammar%20exercises/Ba.htm The 把 Construction]
+* ChinesePod: [http://chinesepod.com/lessons/the-magic-word-%E6%8A%8A Qing Wen - The Magic Word 把] (free podcast content)
+* ChinesePod: [http://chinesepod.com/lessons/%E6%8A%8A-humbug Qing Wen - 把 Humbug] (free podcast content)
+* FluentU: [http://www.fluentu.com/chinese/blog/2015/04/01/mandarin-chinese-ba/ The Definite Guide to the Chinese Ba Construction]
+* Mandarin Online: [http://xmmandarinonline.com/2010/10/grammar-the-ba3-sentence/ 把字句]
+* Just Learn Chinese (blog): [http://justlearnchinese.com/lesson-10-how-to-understand-and-use-pattern-%E2%80%9C-%E6%8A%8A-%E2%80%9D-in-chinese/ Lesson 10 How to understand and use Chinese sentence pattern “…把…”?]
+
+[[Category:Structures]]
+[[Category:Prepositions]]
+[[Category:Particles]]
+{{HSK|HSK3}}
+{{Basic Grammar|把|B1|Subj. + 把 + Obj.+ Verb Phrase|我 <em>把 书</em> 看 完 了。|grammar point|ASG2UB2B}}
+{{Similar|Aspect particles}}
+{{Similar|Bei sentence}}
+{{Similar|Expressing future with "jiang"}}
+{{Similar|Using "jiang" as a formal "ba"}}
+{{Used for|Expressing passive voice}}
+{{Structure|Sentence Patterns}}

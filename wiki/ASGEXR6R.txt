@@ -1,0 +1,52 @@
+<!-- Expressing the only two possibilities -->
+{{Grammar Box}} 
+To describe a situation as being one of only two possibilities, you can use the structure "不是⋯⋯就是⋯⋯" (bù shì... jiùshì...), which literally means, "if it's not... it's...."
+
+== Structure ==
+
+<div class="jiegou">
+不是 + A，就是 + B
+</div>
+
+This is like saying "if it's not A, then it's B" in English. A and B can be verbs, adjectives, or nouns.
+
+== Examples ==
+<div class="liju">
+
+* 他 整天 <em>不 是</em> 打 游戏 <em>就 是</em> 睡觉。<span class="pinyin">Tā zhěng tiān <em>bù shì</em> dǎ yóuxì <em>jiùshì</em> shuìjiào.</span><span class="trans">If he's not playing video games all day, he's sleeping.</span>
+* 他们 约会 <em>不是</em> 去 咖啡馆 <em>就是</em> 去 电影院。<span class="pinyin">Tāmen yuēhuì <em>bù shì</em> qù kāfēiguǎn <em>jiùshì</em> qù diànyǐngyuàn.</span><span class="trans">When they go on dates, if it's not to a coffee shop, then it's to the movie theater.</span>
+* 我 买 的 衣服 <em>不是</em> 大 <em>就是</em> 小，都 不 能 穿。<span class="pinyin">Wǒ mǎi de yīfu <em>bù shì</em> dà <em>jiùshì</em> xiǎo, dōu bù néng chuān.</span><span class="trans">The clothes that I bought are always either too big or too small. I can't wear any of them.</span>
+* 她 穿 的 衣服 <em>不是</em> LV <em>就是</em> Gucci！<span class="pinyin">Tā chuān de yīfu <em>bù shì</em> LV <em>jiùshì</em> Gucci!</span><span class="trans">If the clothes that she wears aren't Louis Vuitton, then they're Gucci!</span>
+* <em>不是</em> 你 <em>就是</em> 他 干 的 ，别人 一点 都 不 知道。<span class="pinyin"><em>Bù shì</em> nǐ <em>jiùshì</em> tā gàn de, biérén yīdiǎn dōu bù zhīdào.</span><span class="trans">Either you did it or he did it. No one else knows anything about it.</span>
+* <em>不是</em> 哭 <em>就是</em> 闹，你 还 能 不 能 好好 工作 了？<span class="pinyin"><em>Bù shì</em> kū <em>jiùshì</em> nào, nǐ hái néng bù néng hǎohāo gōngzuò le?</span><span class="trans">If you're not crying then you're yelling. Can you just do your job properly?</span>
+* 我 <em>不是</em> 点 外卖 <em>就是</em> 出去 吃，我 从来 不 自己 做饭。<span class="pinyin">Wǒ <em>bù shì</em> diǎn wàimài <em>jiùshì</em> chūqù chī, wǒ cónglái bù zìjǐ zuòfàn.</span><span class="trans">I either order take-away food or go out to eat. I never cook for myself.</span>
+* 他 <em>不是</em> 嫌 这 不 好 <em>就是</em> 嫌 那 不 好，十分 挑剔。<span class="pinyin">Tā <em>bù shì</em> xián zhè bùhǎo <em>jiùshì</em> xián nà bùhǎo, shífēn tiāoti.</span><span class="trans">He either dislikes this or dislikes that. He is super picky.</span>
+* 今年 一直 没有 去 旅游 ， <em>不是</em> 觉得 地方 远 <em>就是</em> 觉得 自己 累。<span class="pinyin">Jīnnián yīzhí méiyǒu qù lǚyóu, <em>bù shì</em> juéde dìfang yuǎn <em>jiùshì</em> juéde zìjǐ lèi.</span><span class="trans">This year, I haven't traveled at all. I either find the places too far away or I feel too tired.</span>
+* 这个 星期 <em>不是</em> 今天 开会 <em>就是</em> 明天 开会 。<span class="pinyin">Zhège xīngqí <em>bù shì</em> jīntiān kāihuì <em>jiùshì</em> míngtiān kāihuì.</span><span class="trans">This week, I'm having a meeting either today or tomorrow.</span>
+</div>
+
+==See also==
+*[["Not… but rather…" with "er shi"]]
+*[[Expressing "either ... or ..." with "yaome"]]
+*[[Providing two options with double "huozhe"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|84}}
+
+[[Category:B2 grammar points]]
+{{Basic Grammar|就是|B2|不是⋯⋯，就是⋯⋯|<em>不是</em> 成功，<em>就是</em> 失败。|grammar point|ASGEXR6R}}
+{{Rel char|不是}}
+{{Rel char|不}}
+{{Rel char|就}}
+{{Rel char|是}}
+{{Similar|"Not… But Rather…" with "er shi"}}
+{{Similar|Expressing "either ... or ..." with "yaome"}}
+{{Similar|Providing two options with double "huozhe"}}
+{{Structure|Sentence Patterns}}
+{{Used for|Giving alternatives}}
+{{Used for|Differentiating}}
+{{Translation|either}}
+{{Translation|or}}

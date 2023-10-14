@@ -1,0 +1,51 @@
+<!-- Emphasizing the doer of an action with "you" -->
+{{Grammar Box}} 
+由 (yóu)  is used to emphasize who is the doer or initiator of an action, a bit like in English where we might say: "Andy ''is the one who...." 
+
+==Structure== 
+
+<div class="jiegou">
+Topic + 由 + Person + Verb
+</div>
+
+This use of 由 is common in formal contexts such as business communications.
+
+==Examples==
+
+<div class="liju">
+* 这 件 事 <em>由</em> 我 说了算。<span class="pinyin">Zhè jiàn shì <em>yóu</em> wǒ shuō le suàn.</span><span class="trans">This matter is up to me.</span>
+* 这 件 事 <em>由</em> 我 负责。<span class="pinyin">Zhè jiàn shì <em>yóu</em> wǒ fùzé.</span><span class="trans">I am responsible for this matter.</span>
+* 这 件 事 是 <em>由</em> 她 引起 的。<span class="pinyin">Zhèjiàn shì shì <em>yóu</em> tā yǐnqǐ de.</span><span class="trans">The incident was caused by her.</span>
+* 这次 的 广告 是 <em>由</em> 他 一个人 拍摄 的。<span class="pinyin">Zhècì  de guǎnggào shì <em>yóu</em> tā yīgèrén pāishè de.</span><span class="trans">The advertisement was shot by him alone.</span>
+* 你  想 怎么样 生活，完全 <em>由</em> 你 自己 规划。<span class="pinyin">Nǐ xiǎng zěnmeyàng shēnghuó, wánquán <em>yóu</em> nǐ zìjǐ guīhuà.</span><span class="trans">How you want to live your life is entirely up to you.</span>
+* 你 去 过 上海，那 这次 就 <em>由</em> 你 做 导游 。<span class="pinyin">Nǐ qù guo Shànghǎi, nà zhècì jiù <em>yóu</em> nǐ zuò dǎoyóu.</span><span class="trans">You have been to Shanghai before, so you will be the tour guide this time.</span>
+* 这 个 国家 的 粮食 主要 <em>由</em> 加拿大 进口。<span class="pinyin">Zhège guójiā de liángshi zhǔyào <em>yóu</em> Jiānádà jìnkǒu.</span><span class="trans">This country's grain is mainly imported from Canada.</span>
+* 这个 规定 是 <em>由</em> 政府 发布 的。<span class="pinyin">Zhège guīdìng shì <em>yóu</em> zhèngfǔ fābù de.</span><span class="trans">This is a regulation issued by the government.</span>
+* 这 是 <em>由</em> 他 决定 的，你 就 别 干涉 了。<span class="pinyin">Zhè shì <em>yóu</em> tā juédìng de, nǐ jiù bié gānshè le.</span><span class="trans">This is for him to decide. Stop interfering.</span>
+* 太 悲剧 了，会议 <em>由</em> 王总 主持，肯定 会 很 无聊！<span class="pinyin">Tài bēijù le, huìyì <em>yóu</em> Wáng zǒng zhǔchí, kěndìng huì hěn wúliáo!</span><span class="trans">Oh no. This meeting is being led by the General Manager Wang.It's definitely going to be boring.</span>
+</div>
+
+It may seem like it due to the way most of these sentences are translated into English, but please note that 由 not a passive marker. Stick to [[被]] for that.
+
+==See also==
+*[["Due to…" with "youyu"]]
+*[[Adding emphasis with "jiushi"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4下|34}}
+{{Source|Boya Chinese Lower Intermediate 2 (博雅汉语准中级加速篇) |111}} 
+{{Source|卓越汉语－公司实战篇|245}}
+
+[[Category: B2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|由|B2|由 + Person + Verb|这个 项目 <em>由</em> 小李 来 完成 。|grammar point|ASGGNXVR}}
+{{Similar|"Due to…" with "youyu"}}
+{{Similar|Adding Emphasis with "jiushi"}}
+{{POS|Verbs}}
+{{Used for|Emphasizing}}
+{{Used for|Describing people}}
+{{Used for|Indicating conditions}}
+{{Subprop|Verb phrases}}

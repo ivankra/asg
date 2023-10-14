@@ -1,0 +1,62 @@
+<!-- Verbs preceded by "gei" -->
+{{Grammar Box}} 
+
+The word 给 (gěi) literally means "to give" but is frequently used in Chinese to indicate the ''target'' of a verb. The target is who or what the verb is aimed or directed at. 
+
+== Structure ==
+
+<div class="jiegou">
+Subj. + 给 + Target + [Verb Phrase]
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*现在 不要 <em>给</em> 他 <strong>打 电话</strong> 。<span class="pinyin">Xiànzài bùyào <em>gěi</em> tā <strong>dǎ diànhuà</strong>.</span><span class="trans">Don't give him a phone call now.</span>
+*请 快点 <em>给</em> 我 <strong>回 邮件</strong> 。<span class="pinyin">Qǐng kuàidiǎn <em>gěi</em> wǒ <strong>huí yóujiàn</strong>.</span><span class="trans">Please hurry up and reply to my email.</span>
+*他 说 他 会 <em>给</em> 我 <strong>写 信</strong> 的 。<span class="pinyin">Tā shuō tā huì <em>gěi</em> wǒ <strong>xiě xìn</strong> de.</span><span class="trans">He said he would write letters to me.</span>
+*你 可以 <em>给</em> 大家 <strong>读 一下</strong> 吗 ？<span class="pinyin">Nǐ kěyǐ <em>gěi</em> dàjiā <strong>dú yīxià</strong> ma?</span><span class="trans">Could you please read it for everybody?</span>
+*我 <em>给</em> 你 <strong>发 短信</strong> 了 ，你 怎么 不 回 ？<span class="pinyin">Wǒ <em>gěi</em> nǐ <strong>fā duǎnxìn</strong> le. Nǐ zěnme bù huí?</span><span class="trans">I sent you a text. Why didn't you reply?</span>
+*她 的 粉丝 常常 <em>给</em> 她 <strong>寄 礼物</strong> 。<span class="pinyin">Tā de fěnsī chángcháng <em>gěi</em> tā <strong>jì lǐwù</strong>.</span><span class="trans">Her fans often send her gifts.</span>
+*小 时候 ，妈妈 每天 都 <em>给</em> 我 <strong>讲 故事</strong> 。<span class="pinyin">Xiǎo shíhou, māma měi tiān dōu <em>gěi</em> wǒ <strong>jiǎng gùshi</strong>.</span><span class="trans">When I was young, my mother would tell me stories every day.</span>
+*爸爸 应该 <em>给</em> 儿子 <strong>道歉</strong> 。<span class="pinyin">Bàba yīnggāi <em>gěi</em> érzi <strong>dàoqiàn</strong>.</span><span class="trans">The father should apologize to his son.</span>
+*谁 能 <em>给</em> 我 <strong>解释 一下</strong> ？<span class="pinyin">Shéi néng <em>gěi</em> wǒ <strong>jiěshì yīxià</strong>?</span><span class="trans">Who can explain this to me?</span>
+*老板 让 我 明天 <em>给</em> 客户 <strong>介绍 我们 的 新 产品</strong> 。<span class="pinyin">Lǎobǎn ràng wǒ míngtiān <em>gěi</em> kèhù <strong>jièshào wǒmen de xīn chǎnpǐn</strong>.</span><span class="trans">My boss asked to present our new product to the client tomorrow.</span>
+
+</div>
+
+Chinese speakers use 给 in some interesting ways, similar to how English speakers use "to give," as in "to give someone a phone call" or "to give someone a reply."
+
+== Alternative Structure ==
+
+Although the structure above is the best one to learn first, some verbs frequently use 给 but have the 给 coming after the verb, rather than before. It's best to think of these as exceptions to the rule above, and you can learn more about these exceptions by reading about [[verbs followed by "gei"]].
+
+== See also ==
+
+*[[Verbs followed by "gei"]]
+*[[Expressing "for" with "gei"]]
+*[[Expressing "with" with "gen"]]
+*[[Using "dui" with verbs]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Chinese: An Essential Grammar, Second Edition|170}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|154}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|143}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)|165}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|给|B1|Subj. + 给 + Target + Verb + Obj.|现在 不要 <em>给</em> 他 打 电话 。|grammar point|ASG3ORNN}}
+{{Similar|Verbs followed by "gei"}}  
+{{Similar|Expressing "with" with "gen"}}  
+{{Similar|Using "dui" with verbs}}
+{{Similar|Verbs that take double objects}}
+{{POS|Verbs}}
+{{Subprop|Verb phrases}}
+{{Translation|give}}
+{{Translation|to}}
+{{Translation|for}}

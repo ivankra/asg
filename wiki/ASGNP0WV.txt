@@ -1,0 +1,102 @@
+<!-- Expressing "even" with "lian" and "dou" -->
+{{Grammar Box}} 
+
+连⋯⋯都⋯⋯ (lián... dōu...) is used similarly to how "even" is used in English and can emphasize certain surprising pieces of information. The tricky part about using it is that you have to remember to use ''both'' parts of the pattern (rather than just throwing in one word, like "even" in English).
+
+== Used Before the Subject ==
+
+=== Structure ===
+
+<div class="jiegou">
+连 + Subj. + 都 (+ 不 / 没) + Verb 
+</div>
+
+Sometimes 也 (yě) is used instead of 都 (dōu), and the two are interchangeable for this pattern, but 都 is more commonly used with 连 (lián), so it's the one we'll use exclusively here.
+
+=== Examples ===
+
+<div class="liju">
+
+*这个 问题 太 简单 了 ，<em>连</em> 三岁 小孩 <em>都</em> 知道 。<span class="pinyin">Zhège wèntí tài jiǎndān le, <em>lián</em> sān suì xiǎohái <em>dōu</em> zhīdào.</span><span class="trans">This question is so easy that even a three-year-old kid knows the answer.</span>
+*这个 汉字 太 难 了 ，<em>连</em> 我 的 中文 老师 <em>都</em> <strong>不</strong> 认识 。<span class="pinyin">Zhège Hànzì tài nán le, <em>lián</em> wǒ de Zhōngwén lǎoshī <em>dōu</em><strong>bù</strong> rènshi.</span><span class="trans">This Chinese character is so difficult that even my Chinese teacher doesn't know it.</span>
+*他 很可怜 ，<em>连</em> 他 妈妈 <em>都</em> <strong>不</strong> 管 他 。<span class="pinyin">Tā hěn kělián, <em>lián</em> tā māma <em>dōu</em> <strong>bù</strong>  guǎn tā.</span><span class="trans">The poor child. Even his mother doesn't care about him.</span>
+*她 什么 都 放 辣 ，<em>连</em> 汤 <em>都</em> 是 辣的 。<span class="pinyin">Tā shénme dōu fàng là, <em>lián</em> tāng <em>dōu</em> shì là de.</span><span class="trans">She put spice in everything. Even the soup is spicy.</span>
+*你们 算 什么 好朋友 ？他 <em>连</em> 结婚 <em>都</em> <strong>没</strong> 请 你 。<span class="pinyin">Nǐmen suàn shénme hǎo péngyou, tā <em>lián</em> jiéhūn <em>dōu</em> <strong>méi</strong> qǐng nǐ.</span><span class="trans">What kind of "good friend" are you to him? He didn't even invite you to his wedding.</span>
+
+</div>
+
+Note that 都 can't be omitted in any of these sentences. You really need ''both parts of the pattern''.
+
+<div class="liju">
+
+<ul>
+<li class="x">这个 问题 太 简单 了 ，<em>连</em> 三岁 小孩 知道 。<span class="pinyin">Zhège wèntí tài jiǎndān le, <em>lián</em> sān suì xiǎohái zhīdào.</span></li>
+<li class="x">你们 算 什么 好朋友 ？他 <em>连</em> 结婚 <strong>没</strong> 请 你 。<span class="pinyin">Nǐmen suàn shénme hǎo péngyou? Tā <em>lián</em> jiéhūn <strong>méi</strong> qǐng nǐ.</span></li>
+</ul>
+
+</div>
+
+== Used Before the Object ==
+
+Note that for this pattern, the object moves to the front of the sentence instead of coming after the verb as it normally does. After you move the object to the front of the sentence, you can use 连 before the object and 都 before the verb or verb phrase.
+
+=== Structure ===
+
+<div class="jiegou">
+连 + Obj. + 都 (+ 不 / 没) + Verb 
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*他 什么 都 吃，<em>连</em> 狗肉 <em>都</em> 吃 。<span class="pinyin">Tā shénme dōu chī, <em>lián</em> gǒu ròu <em>dōu</em> chī.</span><span class="trans">He eats everything, even dog meat.</span>
+*你 <em>连</em> 你 最好 的 朋友 <em>都</em> <strong>不</strong> 相信 ？<span class="pinyin">Nǐ <em>lián</em> nǐ zuìhǎo de péngyou <em>dōu</em> <strong>bù</strong> xiāngxìn?</span><span class="trans">You don't even trust your best friend?</span>
+*你 <em>连</em> 麦当劳 <em>都</em> 吃 不起 吗 ？<span class="pinyin">Nǐ <em>lián</em> Màidāngláo <em>dōu</em> chī bu qǐ ma?</span><span class="trans">You can't even afford a meal at McDonald's?</span>
+
+</div>
+
+If the object the comes after 连 is a whole sentence, there must be a specific [[interrogative pronoun]] (a "question word") in the sentence.
+
+<div class="liju">
+
+*你 <em>连</em> 她 叫 <strong>什么</strong> <em>都</em> <strong>没</strong> 问 ？<span class="pinyin">Nǐ <em>lián</em> tā jiào <strong>shénme</strong> <em>dōu</em> <strong>méi</strong> wèn?</span><span class="trans">You didn't even ask what her name is? </span>
+*你 怎么了 ？<em>连</em> 你 住 <strong>在 哪儿</strong> <em>都</em> <strong>不</strong> 记得 了 ？<span class="pinyin">Nǐ zěnme le? <em>Lián</em> nǐ zhù <strong>zàinǎr</strong> <em>dōu</em> <strong>bù</strong> jìde le?</span><span class="trans">Are you OK? You can't even remember where you live?</span> 
+*她 是 你 女朋友 ？你 <em>连</em> 人家 姓 <strong>什么</strong> <em>都</em> <strong>不</strong> 知道 。<span class="pinyin">Tā shì nǐ nǚpéngyou? Nǐ <em>lián</em> rénjia xìng <strong>shénme</strong> <em>dōu</em> <strong>bù</strong> zhīdào.</span><span class="trans">She's your girlfriend? You don't even know what her last name is.</span>
+
+</div>
+
+== Avoidance ==
+
+If you're an intermediate learner and find yourself ''never'' using this pattern, you're not alone. That's fairly typical. And the truth is that you ''can'' get away with not actively using it for a pretty long time. Eventually you'll get more comfortable with it, but it probably won't come as naturally as some other patterns.
+
+== See also ==
+
+*[[Expressing "even" with "shenzhi"]]
+*[[Expressing "not even one"]]
+*[[Advanced uses of "lian"]]
+
+== Sources  and further reading ==
+
+=== Books ===
+
+{{Source|Common Chinese Patterns 330 (汉语常用格式330例) |152}} 
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|356-7}} 
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3) |136}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|204-5}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|连|B1|连 + Subj. + 都 (+ 不 / 没) + Verb|你 <em>连</em> 小狗 <em>都</em> 怕 ？|grammar point|ASGNP0WV}}
+{{Rel char|都}}
+{{Rel char|也}}
+{{Used for|Expressing attitude}}
+{{Used for|Adding more explanation}}
+{{Similar|Expressing "not even one"}}
+{{Similar|Advanced uses of "lian"}}
+{{Similar|Expressing "even" with "shenzhi"}}
+{{Similar|Expressing "let alone" with "bie shuo"}}
+{{Similar|Expressing "let alone" with "geng buyong shuo"}}
+{{Structure|Sentence Patterns}}
+{{Subprop|Basic/Simple Sentence Patterns}}
+{{Translation|even}}

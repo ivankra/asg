@@ -1,0 +1,250 @@
+<!-- Structure of numbers -->
+{{Grammar Box}} 
+Chinese handles numbers in a very consistent and logical way. Once you've mastered just a few tricky parts, you will know how to read out any number in Chinese.
+
+== One to One Hundred ==
+
+=== Structure for the First Ten ===
+
+You just have to memorize these ten; nothing tricky there.
+
+<table class="table big-text table-striped table-bordered">
+<tr>
+<th style="width:15%">Numeral</th>
+<th style="width:15%">Character</th>
+<th style="width:15%">Pinyin</th>
+</tr>
+<tr><td>1</td><td>一</td><td>yī</td></tr>
+<tr><td>2</td><td>二</td><td>èr</td></tr>
+<tr><td>3</td><td>三</td><td>sān</td></tr>
+<tr><td>4</td><td>四</td><td>sì</td></tr>
+<tr><td>5</td><td>五</td><td>wǔ</td></tr>
+<tr><td>6</td><td>六</td><td>liù</td></tr>
+<tr><td>7</td><td>七</td><td>qī</td></tr>
+<tr><td>8</td><td>八</td><td>bā</td></tr>
+<tr><td>9</td><td>九</td><td>jiǔ</td></tr>
+<tr><td>10</td><td>十</td><td>shí</td></tr>
+</table>
+
+=== Phone Numbers ===
+
+Like in American English, Chinese phone numbers are given as a string of individual numbers, using the digits 0-9. The only trick is that the number 1 is often pronounced "yāo" instead of "yī" to avoid confusion with number 7, which is pronounced "qī."
+
+<div class="liju">
+
+* 110<span class="expl pdf-simple-expl">Number for the police in the PRC</span><span class="pinyin">yāo yāo líng</span>
+* 120<span class="expl pdf-simple-expl">Number for an ambulance in the PRC</span><span class="pinyin">yāo èr líng</span>
+* 119<span class="expl pdf-simple-expl">Number to report a fire in the PRC</span><span class="pinyin">yāo yāo jiǔ</span>
+* 13501200120<span class="expl pdf-simple-expl">Cell phone numbers are 11 digits in the PRC</span><span class="pinyin">yāo sān wǔ, líng yāo èr líng, líng yāo èr líng</span>
+
+</div>
+
+=== Structure for Teens===
+
+<div class="jiegou">
+
+十 + x
+
+</div>
+
+Eleven, twelve and the teens are handled very logically. They're formed with 十 (shí) followed by a digit 一  (yī) to 九 (jiǔ). So eleven is 十一 (shíyī), twelve is 十二 (shí'èr), thirteen is 十三 (shísān), and so on up to nineteen, which is 十九 (shíjiǔ).
+
+<table class="table big-text table-striped table-bordered">
+<tr>
+<th style="width:15%">Numeral</th>
+<th style="width:15%">Character</th>
+<th style="width:15%">Pinyin</th>
+</tr>
+<tr><td>11</td><td>十一</td><td>shíyī</td></tr>
+<tr><td>12</td><td>十二</td><td>shí'èr</td></tr>
+<tr><td>13</td><td>十三</td><td>shísān</td></tr>
+<tr><td>14</td><td>十四</td><td>shísì</td></tr>
+<tr><td>15</td><td>十五</td><td>shíwǔ</td></tr>
+<tr><td>16</td><td>十六</td><td>shíliù</td></tr>
+<tr><td>17</td><td>十七</td><td>shíqī</td></tr>
+<tr><td>18</td><td>十八</td><td>shíbā</td></tr>
+<tr><td>19</td><td>十九</td><td>shíjiǔ</td></tr>
+</table>
+
+=== Structure for Tens ===
+
+All the tens are also formed very logically. Twenty is 二十 (èrshí), thirty is 三十 (sānshí), and so on. Units in the tens are simply added on the end. So twenty one is 二十一 (èrshí-yī), thirty four is 三十四 (sānshí-sì), and ninety-nine is 九十九 (jiǔshí-jiǔ). All very logical and consistent.
+
+<div class="jiegou">
+
+x + 十 
+
+</div>
+
+<div class="jiegou">
+
+x + 十 + y 
+
+</div>
+
+=== Examples ===
+
+<table class="table big-text table-striped table-bordered">
+<tr>
+<th style="width:15%">Numeral</th>
+<th style="width:15%">Character</th>
+<th style="width:20%">Pinyin</th>
+</tr>
+<tr><td>20</td><td>二十</td><td>èrshí</td></tr>
+<tr><td>23</td><td>二十三</td><td>èrshí-sān</td></tr>
+<tr><td>30</td><td>三十</td><td>sānshí</td></tr>
+<tr><td>39</td><td>三十九</td><td>sānshí-jiǔ</td></tr>
+<tr><td>40</td><td>四十</td><td>sìshí</td></tr>
+<tr><td>44</td><td>四十四</td><td>sìshí-sì</td></tr>
+<tr><td>50</td><td>五十</td><td>wǔshí</td></tr>
+<tr><td>73</td><td>七十三</td><td>qīshí-sān</td></tr>
+<tr><td>82</td><td>八十二</td><td>bāshí-èr</td></tr>
+<tr><td>97</td><td>九十七</td><td>jiǔshí-qī</td></tr>
+</table>
+
+And one hundred is simply 一百 (yībǎi), as in English. So you now know how to count to one hundred in Chinese.
+
+== After One Hundred ==
+
+=== Dealing with Zeroes ===
+
+Note: when there's a "0" in the middle of a number, you read it as 零 (líng), and don't put a unit (like "ten" or "hundred") after it. In the following examples, we'll show what happens when the "tens" place is a zero in a three-digit number.
+
+==== Structure ====
+
+<div class="jiegou">
+
+x + 百 + 零 + y
+
+</div>
+
+==== Examples ====
+
+<table class="table big-text table-striped table-bordered">
+<tr>
+<th style="width:15%">Numeral</th>
+<th style="width:30%">Character</th>
+<th style="width:30%">Pinyin</th>
+</tr>
+<tr><td>101</td><td>一百零一</td><td>yībǎi líng yī</td></tr>
+<tr><td>202</td><td>二百零二</td><td>èrbǎi líng èr</td></tr>
+<tr><td>206</td><td>二百零六</td><td>èrbǎi líng liù</td></tr>
+<tr><td>305</td><td>三百零五</td><td>sānbǎi líng wǔ</td></tr>
+<tr><td>407</td><td>四百零七</td><td>sìbǎi líng qī</td></tr>
+<tr><td>504</td><td>五百零四</td><td>wǔbǎi líng sì</td></tr>
+<tr><td>602</td><td>六百零二</td><td>liùbǎi líng èr</td></tr>
+<tr><td>701</td><td>七百零一</td><td>qībǎi líng yī</td></tr>
+<tr><td>803</td><td>八百零三</td><td>bābǎi líng sān</td></tr>
+<tr><td>909</td><td>九百零九</td><td>jiǔbǎi líng jiǔ</td></tr>
+</table>
+
+=== For Numbers 110 and Greater ===
+
+For numbers greater than 100, if the number ends in zero (110, 230, 370, 450, etc.), a number like 150 can be read as 一百五十 (yībǎi wǔshí), but is often read as 一百五 (yībǎi wǔ). In fact, reading it as 一百五 (yībǎi wǔ) ''always'' means 150, never 105. As described above, 105 would be read as 一百零五 (yībǎi líng wǔ).
+
+For numbers greater than 100 that end in a number in the teens, it's normal to pronounce the ten as "yīshí" rather than just "shí" (see the examples below).
+
+Also, sometimes the number "200" is read as 二百 (èrbǎi), but often it is read as 两百 (liǎngbǎi). Both are OK. (This is an [[Comparing "er" and "liang"|二 (èr) vs. 两 (liǎng) issue]] which you may or may not have encountered before.)
+
+==== Structure ====
+
+<div class="jiegou">
+
+x + 百 + y + 十 + z
+
+</div>
+
+==== Examples ====
+
+<table class="table big-text table-striped table-bordered">
+<tr>
+<th style="width:15%">Numeral</th>
+<th style="width:30%">Character</th>
+<th style="width:30%">Pinyin</th>
+</tr>
+<tr><td>110</td><td>一百一十</td><td>yībǎi yīshí</td></tr>
+<tr><td>111</td><td>一百一十一</td><td>yībǎi yīshí-yī</td></tr>
+<tr><td>210</td><td>二百一十</td><td>èrbǎi yīshí</td></tr>
+<tr><td>350</td><td>三百五十</td><td>sānbǎi wǔshí</td></tr>
+<tr><td>480</td><td>四百八十</td><td>sìbǎi bāshí</td></tr>
+<tr><td>550</td><td>五百五十</td><td>wǔbǎi wǔshí</td></tr>
+<tr><td>635</td><td>六百三十五</td><td>liùbǎi sānshí-wǔ</td></tr>
+<tr><td>777</td><td>七百七十七</td><td>qībǎi qīshí-qī</td></tr>
+<tr><td>832</td><td>八百三十二</td><td>bābǎi sānshí-èr</td></tr>
+<tr><td>999</td><td>九百九十九</td><td>jiǔbǎi jiǔshí-jiǔ</td></tr>
+</table>
+
+== After One Thousand ==
+
+千 (qiān) means "thousand" in Chinese. Its rules of usage are similar to the rules for "hundred." Just note that no matter how many zeroes are in the middle of the number, you just say 零 (líng) once.
+
+=== Examples ===
+
+<table class="table big-text table-striped table-bordered">
+<tr>
+<th style="width:15%">Numeral</th>
+<th style="width:30%">Character</th>
+<th style="width:50%">Pinyin</th>
+</tr>
+<tr><td>1001</td><td>一千零一</td><td>yīqiān líng yī</td></tr>
+<tr><td>1010</td><td>一千零一十</td><td>yīqiān líng yīshí</td></tr>
+<tr><td>1019</td><td>一千零一十九</td><td>yīqiān líng yīshí-jiǔ</td></tr>
+<tr><td>1020</td><td>一千零二十</td><td>yīqiān líng èrshí</td></tr>
+<tr><td>1100</td><td>一千一百</td><td>yīqiān yībǎi</td></tr>
+<tr><td>1101</td><td>一千一百零一</td><td>yīqiān yībǎi líng yī</td></tr>
+<tr><td>1234</td><td>一千二百三十四</td><td>yīqiān èrbǎi sānshí-sì</td></tr>
+<tr><td>2345</td><td>两千三百四十五</td><td>liǎngqiān sānbǎi sìshí-wǔ</td></tr>
+<tr><td>8765</td><td>八千七百六十五</td><td>bāqiān qībǎi liùshí-wǔ</td></tr>
+<tr><td>9999</td><td>九千九百九十九</td><td>jiǔqiān jiǔbǎi jiǔshí-jiǔ</td></tr>
+</table>
+
+== 10,000 and beyond ==
+
+Things get a little trickier once you get to 10,000. If you're ready for it, you can move on to [[Big numbers in Chinese|big numbers]].
+
+==See also==
+
+* [[Big numbers in Chinese]]
+* [[Structure of dates]]
+* [[Structure of days of the week]]
+* [[Measure word]]s
+* [["Er" and "liang"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|32, 100}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|70-1}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|273-4}}
+{{Source|Chinese: An Essential Grammar, Second Edition|15-6}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|104}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)|122}}
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2)|18}}
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|81}}
+{{Source|A Practical Chinese Grammar For Foreigners (外国人实用汉语语法) |58-73}}
+{{Source|Chinese Grammar Without Tears (简明汉语语法学习手册) |188-98}}
+
+[[Category:A1 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+[[Category:Table]]
+{{Basic Grammar|一|A1|Number + Unit|三 百 五 十 九。|grammar point|ASGCRH6P}}
+{{Rel char|二}}
+{{Rel char|三}}
+{{Rel char|四}}
+{{Rel char|五}}
+{{Rel char|六}}
+{{Rel char|七}}
+{{Rel char|八}}
+{{Rel char|九}}
+{{Rel char|十}}
+{{Rel char|百}}
+{{Rel char|千}}
+{{Similar|Big Numbers}}
+{{Similar|Structure of dates}}
+{{Similar|Structure of days of the week}}
+{{Similar|Structure of times}}
+{{Similar|Er and liang}}
+{{Similar|Approximating with sequential numbers}}    
+{{POS|Numbers}}
+{{Used for| Expressing quantity}}

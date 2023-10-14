@@ -1,0 +1,68 @@
+<!-- Using "lai" as a dummy verb -->
+{{Grammar Box}} 
+
+The verb 来 (lái) can be used as a "dummy verb," similar to the way "do" is used in English. To illustrate the point, imagine a bottle of pickles that you want to open but can't because the lid is so tight. You start passing it around to see who can open it, and no one is able to, until your beefy friend comes in and says, "我来!" He is saying, "Let me do it!"
+
+== Structure ==
+
+The structure for using 来 as a dummy verb is very basic. Usually it is a very short phrase, kind of like "your turn!" or "let me give it a shot!" or "you do it!" in English. Usually it is used with 你 or 我 as the subject, and it ends with the 来. Sometimes it can end with a 吧.
+
+<div class="jiegou">
+(让 +) Subj. + 来 
+</div>
+
+The point of calling 来 a "dummy verb" is that it does't have the original meaning of "to come." It just takes the place of whatever the verb would be in the context.
+
+== Examples ==
+
+<div class="liju">
+
+*你 <em>来</em> ！<span class="pinyin">Nǐ <em>lái</em>!</span><span class="trans">You do it!</span>
+*我 <em>来</em> 吧。<span class="pinyin">Wǒ <em>lái</em> ba.</span><span class="trans">Let me do it.</span>
+*让 他 自己 <em>来</em> 。<span class="pinyin">Ràng tā zìjǐ <em>lái</em>.</span><span class="trans">Let him do it himself.</span>
+*还是 你们 自己 <em>来</em> 吧 。<span class="pinyin">Háishì nǐmen zìjǐ <em>lái</em> ba.</span><span class="trans">It's better that you do it by yourselves.</span>
+*你 写 得 好看 ，你 <em>来</em> 吧 。<span class="pinyin">Nǐ xiě de hǎokàn, nǐ <em>lái</em> ba.</span><span class="trans">You write well. You write it.</span>
+
+</div>
+
+A few example dialogs to provide clearer context:
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>谁 能 读 一 下 这 段 话 ？<span class="pinyin">Shéi néng dú yīxià zhè duàn huà?</span><span class="trans">Who can read this passage?</span></li>
+<li><span class="speaker">B:</span>老师 ，我 <em>来</em> 。<span class="pinyin">Lāoshī, wǒ <em>lái</em>.</span><span class="trans">Teacher, let me read it.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>你 怎么 做 得 这么 慢 ？<span class="pinyin">Nǐ zěnme zuò de zhème màn?</span><span class="trans">How come you do it so slowly?</span></li>
+<li><span class="speaker">B:</span>你 觉得 我 慢 ？你 <em>来</em> ！<span class="pinyin">Nǐ juéde wǒ màn? Nǐ <em>lái</em>!</span><span class="trans">You think I'm slow? You do it!</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>这个 箱子 真 重 ！<span class="pinyin">Zhège xiāngzi zhēn zhòng!</span><span class="trans">This box is so heavy!</span></li>
+<li><span class="speaker">B:</span>我 <em>来</em> 吧 。 <span class="pinyin">Wǒ <em>lái</em> ba.</span><span class="trans">Let me help.</span></li>
+</ul>
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|54}}
+
+=== Academic Articles ===
+
+* 现代汉语形式动词研究 [http://www.doc88.com/p-060195242529.html Research on Dummy Verb in Modern Chinese]
+
+* 現代漢語中的形式動詞 [http://aclweb.org/anthology-new/O/O05/O05-5008.pdf Dummy Verbs in Contemporary Chinese]
+
+[[Category:B1 grammar points]]
+{{Basic Grammar|来|B1|(让 +) Subj. + 来 |让 我 <em>来</em> 吧。|grammar point|ASG98FZK}}
+{{POS|Verbs}}
+{{Used for|Addressing people}}
+{{Subprop|Verbs}}
+{{Translation|do}}

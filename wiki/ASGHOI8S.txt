@@ -1,0 +1,50 @@
+<!-- Expressing "let alone" with "geng buyong shuo" -->
+{{Grammar Box}} 
+更不用说 (gèng bùyòng shuō) is similar to the English expression "let alone" or "to say nothing of." For example, we might say: "he can't even boil an egg, let alone prepare a banquet."
+
+== Structure ==
+
+<div class="jiegou">
+连 + A + 都 / 也 + Verb， 更不用说 + B + 了
+</div> 
+
+Notice that the order used in this pattern is the opposite of the [["Let alone" with "bie shuo"|别说]] structure.
+
+== Examples ==
+
+<div class="liju">
+* <em>连</em> 我 <em>都</em> 不 知道 这个 歌手， <em>更不用说</em> 他 了。<span class="pinyin"><em>Lián</em> wǒ <em>dōu</em> bù zhīdào zhège gēshǒu, <em>gèng bùyòng shuō</em> tā le.</span><span class="trans">I don't even know the singer, let alone him.</span>
+* <em>连</em> 家人 <em>都</em> 不 理解 你， <em>更不用说</em> 其他 的 人 了。<span class="pinyin">Lián jiārén dōu bù lǐjiě nǐ, <em>ggèng bùyòng shuō</em> qítā de rén le.</span><span class="trans">Even your family doesn't understand you, let alone other people.</span>
+* <em>连</em> 周末 <em>都</em> 要 加班， <em>更不用说</em> 工作日 了。<span class="pinyin"><em>Lián</em> zhōumò <em>dōu</em> yào jiābān, <em>gèng bùyòng shuō</em> gōngzuòrì le.</span><span class="trans">I have to work overtime even on weekends, not to mention work days.</span>
+* 这里 <em>连</em> 我 <em>都</em> 住 不 下去， <em>更不用说</em> 你 了。<span class="pinyin">Zhèlǐ <em>lián</em> wǒ <em>dōu</em> zhù bù xiàqù, <em>gèng bùyòng shuō</em> nǐ le.</span><span class="trans">I can't even keep living here, let alone you.</span>
+* 妹妹 <em>连</em> 80 分 <em>也</em> 没有 得 过 ， <em>更不用说</em> 100分 了。<span class="pinyin">Mèimei <em>lián</em> bāshí fēn <em>yě</em> méiyǒu dé guo, <em>gèng bùyòng shuō</em> yībǎi fēn le.</span><span class="trans">My sister didn't even score 80 points, let alone 100 points.</span>
+* <em>连</em> 老 员工 <em>也</em> 走了 ， <em>更不用说</em> 那些 新 员工 了。<span class="pinyin"><em>Lián</em> lǎo yuángōng <em>yě</em> zǒu le, <em>gèng bùyòng shuō</em> nàxiē xīn yuángōng le.</span><span class="trans">Even the old employees have left, not to mention the new ones.</span>
+* 小明 <em>连</em> 他 自己 <em>都</em> 照顾 不 好， <em>更不用说</em> 照顾 小朋友 了。<span class="pinyin">Xiǎo Míng <em>lián</em> tā zìjǐ <em>dōu</em> zhàogu bù hǎo, <em>gèng bùyòng shuō</em> zhàogu xiǎopéngyou le.</span><span class="trans">Xiao Ming can't even take care of himself, let alone take care of children.</span>
+* 他 <em>连</em> 自己 国家 的 国旗 <em>都</em> 不 认识， <em>更不用说</em> 其他 国家 的 了。<span class="pinyin">Tā <em>lián</em> zìjǐ guójiā de guóqí <em>dōu</em> bù rènshí, <em>gèng bùyòng shuō</em> qítā guójiā de le.</span><span class="trans">He can't even recognize his own country's flag, not to mention any other countries' flags.</span> 
+</div> 
+
+Some sentences will deviate from the structure a little bit, dropping the 连 or even both the 连 and the 都:
+
+<div class="liju">
+* 他 <em>都</em> 不 会 煮 鸡蛋， <em>更不用说</em> 做 一 大 桌子 的 菜 了。<span class="pinyin">Tā <em>dōu</em> bù huì zhǔ jīdàn, <em>gèng bùyòng shuō</em> zuò yī dà zhuōzi de cài le.</span><span class="trans">He can't even boil an egg, let alone prepare a banquet.</span>
+* 他 从来 没有 出 过 远门， <em>更不用说</em> 出国 了。<span class="pinyin">Tā cónglái méiyǒu chū guo yuǎnmén, <em>gèng bùyòng shuō</em> chū guó le.</span><span class="trans">He's never traveled very far, let alone out of the country.</span>
+</div> 
+
+Unless the first action is negated with 没有, 更不用说 generally sounds more natural followed by a 了.
+
+== See also ==
+
+*[["Let alone" with "bie shuo"]]
+*[["Let Alone" with "hekuang"]]
+*[[Advanced uses of "lian"]]
+*[[Expressing "Even" with "lian" and "dou"]]
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|更|B2|⋯⋯，更不用说⋯⋯|她 会 说 法语 ， <em>更 不用 说</em> 英语 了 。|grammar point|ASGHOI8S}}
+{{Rel char|别说}}
+{{Similar|"Let alone" with "bie shuo"}}
+{{Similar|"Let Alone" with "hekuang"}}
+{{Similar|Expressing "Even" with "lian" and "dou"}}
+{{Used for|Expressing determination}}
+{{Structure|Sentence Patterns}}
+{{Subprop|Let alone}}

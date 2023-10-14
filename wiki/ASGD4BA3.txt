@@ -1,0 +1,60 @@
+<!-- Expressing concern with "kongpa" -->
+{{Grammar Box}}
+恐怕 (kǒngpà) can be used to express "I'm afraid that," or "I'm concerned that," or even "I'm worried that," followed by some sort of reason. It doesn't need to be something you're ''literally'' afraid of; it may be that you're just trying to soften the blow of some bad news, as in, "I'm afraid that I'm too busy washing my hair tomorrow night to come over and see the 2000 pictures of your trip to ComicCon."
+
+== Structure ==
+
+恐怕 comes at the beginning of the sentence. It's often used with auxiliary verbs such as 要, 会, 能, 得, etc.
+
+<div class="jiegou">
+(Reason,) 恐怕 + Subj. ⋯⋯
+</div>
+
+Note that it sounds better to put 恐怕 ''before the subject'' of the sentence.
+
+== Examples ==
+
+<div class="liju">
+
+*今天 <em>恐怕</em> <strong>要</strong> 下雨 。<span class="pinyin">Jīntiān <em>kǒngpà</em> <strong>yào</strong> xià yǔ.</span><span class="trans">I'm afraid it's going to rain today.</span>
+*这 件 事 <em>恐怕</em> <strong>得</strong> 你 帮忙 。<span class="pinyin">Zhè jiàn shì <em>kǒngpà</em> <strong>děi</strong> nǐ bāngmáng.</span><span class="trans">I'm afraid we're going to need your help with this matter.</span>
+*这样 做 <em>恐怕</em> 不太 合适 。<span class="pinyin">Zhèyàng zuò <em>kǒngpà</em> bù tài héshì.</span><span class="trans">I'm afraid it's not appropriate to do this.</span>
+*这 是 很 重要 的 决定 ，你 <em>恐怕</em> 不 <strong>能</strong> 这么 着急 。<span class="pinyin">Zhè shì hěn zhòngyào de juédìng, nǐ <em>kǒngpà</em> bù <strong>néng</strong> zhème zhāojí.</span><span class="trans">This is an important decision. I'm afraid you can't rush this one.</span>
+*老婆 ，我 晚上 要 加班 ，<em>恐怕</em> 不 <strong>能</strong> 回家 吃 晚饭 了 。<span class="pinyin">Lǎopo, wǒ wǎnshang yào jiābān, <em>kǒngpà</em> bù <strong>néng</strong> huíjiā chī wǎnfàn le.</span><span class="trans">Dear, I'm going to work late tonight. I'm afraid I can't go home to eat dinner.</span>
+*这个 颜色 太 粉 了 ，<em>恐怕</em> 我女儿 不 喜欢 。<span class="pinyin">Zhège yánsè tài fěn le, <em>kǒngpà</em> wǒ nǚ'ér bù xǐhuan.</span><span class="trans">This pink is too much. I'm afraid my daughter isn't going to like it.</span>
+*你 现在 知道 被 骗 了 ？<em>恐怕</em> 骗子 早就 跑了 。<span class="pinyin">Nǐ xiànzài zhīdào bèi piàn le? <em>Kǒngpà</em> piànzi zǎo jiù pǎo le.</span><span class="trans">You finally realized that you were ripped off? I'm afraid the scammer is long gone.</span>
+
+</div>
+
+恐怕 is also often used in conjunction with 吧. When it is used with 吧, it expresses a soft but concerned tone and is typically used when the speaker wishes to give their advice or opinion on a matter. 
+
+<div class="liju">
+*<em>恐怕</em> 没 那么 容易 <strong>吧</strong> 。<span class="pinyin"><em>Kǒngpà</em> méi nàme róngyì <strong>ba</strong>.</span><span class="trans">I'm afraid it's not that easy.</span>
+*一个人 去 那个 地方 <em>恐怕</em> 不太 安全 <strong>吧</strong> 。<span class="pinyin">Yīgèrén qù nàge dìfang <em>kǒngpà</em> bù tài ānquán <strong>ba</strong>.</span><span class="trans">I'm afraid it's not safe to go there alone.</span>
+*你 这样 说 ，<em>恐怕</em> 她 会 不 高兴 <strong>吧</strong> 。<span class="pinyin">Nǐ zhèyàng shuō, <em>kǒngpà</em> tā huì bù gāoxìng <strong>ba</strong>.</span><span class="trans">If you put it that way, I'm afraid she will be upset.</span>
+</div>
+
+==See also==
+
+* [["Would like to" with xiang]]
+* [[Wanting to do something with yao]]
+* [[Auxiliary verb]]
+* [[Auxiliary verb "hui" for "will"]]
+
+== Sources and further reading ==
+
+===Videos===
+
+* Yoyo Chinese: [http://www.youtube.com/watch?v=L11Ulml2rJE&list=PL94A5E422FB99CDDD&index=17 "Have to and Don't have to"]
+
+=== Books ===
+
+{{Source|HSK Standard Course 4下|76}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|164-5}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课下册）|301}}
+
+[[Category:B2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|恐怕|B2|恐怕 + Subj. ⋯⋯|<em>恐怕</em> 今天 做 不 完。|grammar point|ASGD4BA3}}
+{{Used for|Expressing concern}}
+{{POS|Adverbs}}

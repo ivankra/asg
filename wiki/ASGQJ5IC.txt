@@ -1,0 +1,109 @@
+<!-- Comparing "haishi" and "huozhe" -->
+{{Grammar Box}} 
+
+Both 还是 (háishì) and 或者 (huòzhě) mean "[[or]]" and are used to present a choice. However, 还是 is normally used when asking a question, and 或者 is mostly for declarative sentences.   
+
+== 还是 for Providing Choices as a Question ==
+
+[[Offering choices with "haishi"|When asking a question, 还是 can be used to provide choices or options.]] 
+
+=== Structure ===
+
+<div class="jiegou">
+Option A + 还是 + Option B ?
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*你 喜欢 他 <em>还是</em> 我 ？<span class="pinyin">Nǐ xǐhuan tā <em>háishì</em> wǒ? </span><span class="trans">Do you like him or me? </span>
+*你 喝 茶 <em>还是</em> 喝 咖啡 ？<span class="pinyin">Nǐ hē chá <em>háishì</em> hē kāfēi? </span><span class="trans">Do you drink tea or coffee? </span>
+*你 中午 出去 吃 <em>还是</em> 叫 外卖 ？<span class="pinyin">Nǐ zhōngwǔ chūqù chī <em>háishì</em> jiào wàimài? </span><span class="trans">Are you going out for lunch or ordering take-out? </span>
+
+</div>
+
+== 或者 for Giving Options as a Statement ==
+
+[["Or" in statements|或者 is used in a statement in which options are presented.]]
+
+=== Structure ===
+
+<div class="jiegou">
+Possibility 1 + 或者 + Possibility 2
+</div>
+
+The structure for 或者 and 还是 is the same, but the meaning, as well as the context in which 或者 is needed, is different. 或者 drops the "A or B, PICK ONE" attitude in favor of a more open, "maybe A, perhaps B... (or maybe both or neither?)" So it's less exclusive and less demanding of a choice RIGHT NOW.
+
+=== Examples ===
+
+<div class="liju">
+
+*周末 我 想 在 家 看书 <em>或者</em> 看 电影 。<span class="pinyin">Zhōumò wǒ xiǎng zài jiā kànshū <em>huòzhě</em> kàn diànyǐng.</span><span class="trans">This weekend, I want to stay home and read or watch movies. </span>
+*你 可以 坐 1 号 线 <em>或者</em> 2 号线 去 人民 广场 。<span class="pinyin">Nǐ kěyǐ zuò yī hào xiàn <em>huòzhě</em> èr hào xiàn qù Rénmín Guǎngchǎng.</span><span class="trans">You can take Line 1 or Line 2 to People's Square.</span>
+*我们 可以 电话 <em>或者</em> 邮件 联系 。<span class="pinyin">Wǒmen kěyǐ diànhuà <em>huòzhě</em> yóujiàn liánxì.</span><span class="trans">We can contact each other by phone or email.</span>
+
+</div>
+
+== 还是 for Questions That Are Embedded in Sentences ==
+
+Deciding whether or not to use 还是 becomes difficult with sentences that contain statements like "I don’t know," "I want to know," "I’m not sure," etc. Alone, these statements are not technically questions. However, when used in a sentence that contains choices, these statements imply that a question must be answered. Therefore, you must use 还是.
+
+A few examples:
+
+<div class="liju">
+
+*我 <strong>不 知道 </strong> 这 本 书 是 他 的 <em>还是</em> 我 的 。<span class="pinyin"> Wǒ <strong>bù zhīdào </strong> zhè běn shū shì tā de <em>háishì</em> wǒ de.</span><span class="trans">I don't know if this book is his or mine.</span>
+*我 <strong>想 知道</strong> 他们 是 支持 <em>还是</em> 反对 。<span class="pinyin">Wǒ <strong>xiǎng zhīdào</strong> tāmen shì zhīchí <em>háishì</em> fǎnduì.</span><span class="trans">I want to know if they support or oppose.</span>
+*老板 <strong>不 确定</strong> 是 这 个 周末 出差 <em>还是</em> 下 个 周末 出差 。<span class="pinyin">Lǎobǎn <strong>bù quèdìng</strong> shì zhège zhōumò chūchāi <em>háishì</em> xià gè zhōumò chūchāi.</span><span class="trans">The boss isn't sure if he's going on a business trip this weekend or next weekend.</span>
+
+</div>
+
+== Incorrect Examples == 
+
+<div class="liju">
+
+<ul>
+<li class="x">我们 打车 <strong>或者</strong> 坐 地铁 ？<span class="expl">Since it is a question, it should use 还是</span><span class="pinyin">Wǒmen dǎchē <em>huòzhě</em> zuò dìtiě?</span><span class="trans">Shall we take a taxi or take the metro?</span></li>
+<li class="x">明天 <em>还是</em> 后天 都 行 。<span class="expl">Since it is a statement, it should use 或者</span><span class="pinyin">Míngtiān <em>háishì</em> hòutiān dōu xíng.</span><span class="trans">Either tomorrow or the day after is fine.</span></li>
+<li class="x">我 <strong>想 知道</strong> 那个 人 是 男的 <em>或者</em> 女的 。<span class="expl">It's an embedded question, so it should use 还是</span><span class="pinyin">Wǒ <strong>xiǎng zhīdào</strong> nàge rén shì nánde <em>huòzhě</em> nǚde.</span><span class="trans">I'd like to know if that person is male or female.</span></li>
+</ul>
+
+</div>
+
+== See also ==
+
+* [["Or" in statements]]
+* [[Offering choices with "haishi"]]
+
+== Sources and  further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|23}}
+{{Source|Basic Patterns of Chinese Grammar|74-5}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|257-8}}
+{{Source|Chinese: An Essential Grammar, Second Edition|144}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|259-60}}　
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|103}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|76-7, 257-8}}　
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|179}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)|206-7, 251}}
+{{Source|现代汉语八百词（增订本）|238}}
+
+=== Websites ===
+
+* Yale Chinese Usage Dictionary: [http://comet.cls.yale.edu/chineseusagedictionary/0213.html Comparing 还是 and 或者]
+
+[[Category:grammar comparison]]
+{{HSK|HSK3}}
+{{Basic Grammar|还是|B1|还是 vs. 或者|我们 明天 见 <em>还是</em> 后天 见 ？明天 <em>或者</em> 后天 都 可以 。|grammar point|ASGQJ5IC}}
+{{Rel char|或者}}
+{{Rel char|还}}
+{{Rel char|是}}
+{{Similar|"Or" in statements}}
+{{Similar|Offering choices with "haishi"}}
+{{Used for|Giving alternatives}}
+{{Used for|Asking questions}}
+{{Translation|or}}
+{{Comparison|Conjunctions}}

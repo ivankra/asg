@@ -1,0 +1,128 @@
+<!-- Comparing "benlai" and "yuanlai" -->
+{{Grammar Box}} 
+If something was originally a certain way, or "should be" a certain way, the Chinese words used are often 本来 (běnlái) and 原来 (yuánlái). 本来 (běnlái) is usually an adverb while 原来 (yuánlái) could be either an adjective or an adverb.
+
+== 本来 + 是 for a Change of Plans ==
+
+If something happened unexpectedly later, 本来 is preferred rather than 原来 considering there is a change of the original situation. 本来 means "originally." Since the action has already happened, the pattern 是⋯⋯的 is suggested here. 是 is optional.
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 本来 + 是 + [（不）要 / 会 / 应该 ] + Verb + 的，但是 / 可是⋯⋯
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*我 <em>本来</em> 是 要 去 参加 你的 生日 派对 的，可是 周末 突然 要 加班。<span class="pinyin">Wǒ <em>běnlái</em> shì yào qù cānjiā nǐ de shēngrì pàiduì de, kěshì zhōumò tūrán yào jiābān.</span><span class="trans">I was originally going to go to your birthday party, but I had to work some extra time this weekend.</span>
+*他 <em>本来</em> 是 应该 考 得 更 好 的，可是 那天 他 生病 了。<span class="pinyin">Tā <em>běnlái</em> shì yīnggāi kǎo de gèng hǎo de, kěshì nà tiān tā shēngbìng le.</span><span class="trans">He would have done better on the test, but he was sick that day.</span>
+*我们 <em>本来</em> 不 打算 去 的，后来 因为 他们 打 了 好 几 次 电话 就 去 了。<span class="pinyin">Wǒmen <em>běnlái</em> bù dǎsuàn qù de, hòulái yīnwèi tāmen dǎ le hǎo jǐ cì diànhuà jiù qù le.</span><span class="trans">We didn't plan to go, but we went in the end because they called us several times.</span>
+*这些 工作 <em>本来</em> 可以 明天 做 的，不过 如果 你 想 今天 做 完 也 可以。<span class="pinyin">Zhèxiē gōngzuò <em>běnlái</em> kěyǐ míngtiān zuò de, bùguò rúguǒ nǐ xiǎng jīntiān zuò wán yě kěyǐ.</span><span class="trans">This work doesn't need to be done by today. But if you want to finish it sooner, you can.</span>
+* 我 <em>本来</em> 是 要 跟 他 结婚 的，可是 后来 发现 了 我们 真的 不 合适。<span class="pinyin">Wǒ <em>běnlái</em> shì yào gēn tā jiéhūn de, kěshì hòulái fāxiàn le wǒmen zhēn de bù héshì.</span><span class="trans">I was originally going to marry him, but then I found that we are just not meant for each other.</span>
+</div>
+
+== 本来 + 就 for Common Sense Statements ==
+
+本来 is used when something is common sense. There are certain expectations for the speaker and listener. Since there is no real English equivalent, it is best translated as "it goes without saying." It can also be translated to "supposed to," following it with a certain expectation.  
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 本来 + 就 + 很 / 不 + Adj.
+</div>
+
+<div class="jiegou">
+Subj. + 本来 + 就 + [ 会 / 要 / 得 / 应该 ] + Verb
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 生活 <em>本来</em> 就 很 不 容易。<span class="pinyin">Shēnghuó <em>běnlái</em> jiù hěn bù róngyì.</span><span class="trans">Life isn't supposed to be very easy.</span>
+* 搬家 <em>本来</em> 就 很 麻烦。<span class="pinyin">Bānjiā <em>běnlái</em> jiù hěn máfan.</span><span class="trans">Moving is supposed to be very troublesome.</span>
+* 照顾 孩子 <em>本来</em> 就 是 父母 的 责任。<span class="pinyin">Zhàogù háizi <em>běnlái</em> jiùshì fùmǔ de zérèn.</span><span class="trans">Taking care of children is supposed to be the responsibility of parents.</span>
+* 老师 <em>本来</em> 就 应该 好好 备课。<span class="pinyin">Lǎoshī <em>běnlái</em> jiù yīnggāi hǎohāo bèikè.</span><span class="trans">Teachers are supposed to prepare their lessons well.</span>
+</div>
+
+== 本来 + 就 for Emphasis ==
+
+If you've got an opinion to express after stating how it "should be" or "should not be," then 本来就 will help you sound more convincing. The end of the sentence usually has an imperative or rhetorical question that leads to an opinion or suggestion, emphasizing the tone. 
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 本来 + 就 ＋ ⋯⋯
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*你 <em>本来</em> 就 够 瘦 了 ，还要 减肥 吗？<span class="pinyin">Nǐ <em>běnlái</em> jiù gòu shòu le, hái yào jiǎnféi ma?</span><span class="trans">You are already thin enough and you still want to lose weight?</span>
+*他 讲 得 <em>本来</em> 就 不 对，为什么 还 要 我 听 他 的？<span class="pinyin">Tā jiǎng de <em>běnlái</em> jiù bùduì, wèishénme hái yào wǒ tīng tā de?</span><span class="trans">What he said was wrong all along, so why do you still want me to listen to what he says?</span>
+*他 <em>本来</em> 就 不 是 个 好 人，你 怎么 还要 帮他？<span class="pinyin">Tā <em>běnlái</em> jiù bù shì gè hǎorén, nǐ zěnme hái yào bāng tā?</span><span class="trans">He was never a good person. Why do you still want to help him?</span>
+*她 <em>本来</em> 就 不 喜欢 你，你 别 再 追 她 了。<span class="pinyin">Tā <em>běnlái</em> jiù bù xǐhuan nǐ, nǐ bié zài zhuī tā le.</span><span class="trans">She never liked you in the first place, so stop pursuing her.</span>
+* 他 说话 的 方式 <em>本来</em> 就 很 容易 让人 不 舒服，你 别 介意。<span class="pinyin">Tā shuōhuà de fāngshì <em>běnlái</em> jiù hěn róngyì ràng rén bú shūfu, nǐ bié jièyì.</span><span class="trans">The way he talks oten makes people uncomfortable, so don't take it personally.</span>
+</div>
+
+== 原来 + 是 for “It turns out” ==
+
+原来 is more used to emphasize what you accidentally find out or realize in a situation. It's similar to "as it turns out..." or "...all along." For this usage, 原来 is normally located at the beginning of the sentence. 
+
+=== Structure ===
+
+<div class="jiegou">
+原来 + 是 + [Fact / Truth / Reason / Purpose]
+</div>
+
+<div class="jiegou">
+怪不得 + [Observation / Situation]，原来 + 是 [因为 / 为了 / 想⋯⋯]
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*<em>原来</em> 是 你 啊！我 刚才 真 没 看 出来。<span class="pinyin"><em>Yuánlái</em> shì nǐ a! Wǒ gāngcái zhēn méi kàn chūlái.</span><span class="trans">It was you all along! I didn't recognize you until just now.</span>
+*<em>怪不得</em> 你 中文 说 得 这么 好，<em>原来</em>你 在 中国 住 了 三十 多 年。<span class="pinyin"><em>Guàibùdé</em> nǐ Zhōngwén shuō de zhème hǎo, <em>yuánlái</em>nǐ zài Zhōngguó zhù le sānshí duō nián.</span><span class="trans">No wonder your Chinese is so good. You lived in China for more than 30 years.</span>
+*<em>原来</em> 他们 住 在 一起，怪不得 他们 常常 一起 上 下班。<span class="pinyin><em>Yuánlái</em> tāmen zhù zài yīqǐ, guàibùdé tāmen chángcháng yīqǐ shàng xiàbān.</span><span class="trans">It turns out that they're living together. No wonder they often come to work and leave work together.</span>
+*<em>怪不得</em> 总是 对 他 那么 好，<em>原来</em> 你 一直 都 喜欢 他.<span class="pinyin"><em>Guàibùdé</em> zǒng shì duì tā nàme hǎo, <em>yuánlái</em> nǐ yīzhí dōu xǐhuan tā.</span><span class="trans">No wonder you treat him so well. You've had feelings for him the whole time.</span>
+</div>
+
+== 原来 + 的 for  "Previous" or "Former" ==
+
+=== Structure ===
+
+<div class="jiegou">
+原来 + 的 + Noun
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*这 是 我 <em>原来</em> 的 家。<span class="pinyin">Zhè shì wǒ <em>yuánlái</em> de jiā.</span><span class="trans">This is my old house.</span>
+*他 <em>原来</em> 的 公司 关门 了。<span class="pinyin">Tā <em>yuánlái</em> de gōngsī guānmén le.</span><span class="trans">His former company closed down.</span>
+*你们 <em>原来</em> 的 看法 不 是 这样 的。<span class="pinyin">Nǐmen <em>yuánlái</em> de kànfǎ bù shì zhèyàng de.</span><span class="trans">This is not how you previously thought about it.</span>
+*我 现在 的 男朋友 比 <em>原来</em> 的 男朋友 帅 多了。<span class="pinyin">Wǒ xiànzài de nán péngyǒu bǐ <em>yuánlái</em> de nán péngyǒu shuài duō le.</span><span class="trans">My current boyfriend is a lot cuter than my ex.</span>
+*你 <em>原来</em> 的 头发 那么 黑，现在 白 了 很 多。<span class="pinyin">Nǐ <em>yuánlái</em> de tóufǎ nàme hēi, xiànzài bái le hěn duō.</span><span class="trans">Your hair was so black before, but now it's become a lot grayer.</span>
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|43}}
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级) |94-6}} 
+{{Source|Integrated Chinese: Level 2, Part 1|195-6}}
+{{Source|New Practical Chinese Reader 5 (新实用汉语课本5)|29}}
+{{Source|Short-term Spoken Chinese: Elementary (汉语口语速成基础篇)|22-23}}
+ 
+[[Category: B2 grammar points]]
+{{HSK|HSK4}}
+[[Category:grammar comparison]]
+{{Basic Grammar|本来|B2|本来 vs 原来|他<em>原来</em>的 公司  <em>本来</em> 要 派 他 去 上海，但是 因为 家 里 有事，去 不了 了。|grammar point|ASG56QKW}}
+{{Similar|Expressing "all along" with "yuanlai"}}
+{{Similar|Expressing "originally" with "benlai""}}
+{{Rel char|原来}}
+{{Used for|explaining}}
+{{Used for|justifying}}
+{{Comparison|Adverbs}}

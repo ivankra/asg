@@ -1,0 +1,62 @@
+<!-- Expressing "would rather" with "ningke" -->
+{{Grammar Box}} 
+宁可 (nìngkě) is used when the speaker wants to compare two unfavorable options, and choose one over the other. We usually express this as "would rather... than..." in English.
+
+== Using 宁可 with 也不 ==
+
+=== Structure ===
+
+This construction puts 宁可 at the beginning of the sentence followed by 也不. 宁可 is followed by the less unfavorable option and 也不 is followed by the most unfavorable option.
+
+<div class="jiegou">
+宁可⋯⋯ ，也不⋯⋯ 
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*我 <em>宁可</em> 没有 男朋友 ，<em>也 不</em> 要 随便 找 一 个 男朋友 。<span class="pinyin">Wǒ <em>nìngkě</em> méiyǒu nán péngyǒu, <em>yě bù</em> yào suíbiàn zhǎo yī gè nánpéngyǒu.</span><span class="trans">I'd rather have no boyfriend than find a random one.</span>
+*我们 <em>宁可</em> 早到 <em>也 不</em> 要 迟到 。<span class="pinyin">Wǒmen <em>nìngkě</em> zǎo dào <em>yě bù</em> yào chídào.</span><span class="trans">We'd rather arrive early than late.</span>
+*他 <em>宁可</em> 输 ，<em>也 不</em> 放弃 。<span class="pinyin">Tā <em>nìngkě</em> shū, <em>yě bù</em> fàngqì.</span><span class="trans">He'd rather lose than give up.</span>
+*我 <em>宁可</em> 这个 月 少 花 一点 ，<em>也 不</em> 找 父母 要 钱 。<span class="pinyin">Wǒ <em>nìngkě</em> zhège yuè shǎo huā yīdiǎn, <em>yě bù</em> zhǎo fùmǔ yào qián.</span><span class="trans">I'd rather spend less money this month than ask my parents for money.</span>
+*妈妈 <em>宁可</em> 把 这些 东西 送 给 陌生人 ，<em>也 不</em> 扔掉 。<span class="pinyin">Māma <em>nìngkě</em> bǎ zhèxiē dōngxi sòng gěi mòshēngrén, <em>yě bù</em> rēngdiào.</span><span class="trans">Mom would rather give these things to strangers than throw them away.</span>
+</div>
+
+== Using 宁可 with 也要 ==
+
+In this construction 宁可 is used a little differently. 宁可 is followed by unfavorable actions while 也要 is followed by things that you desire or something that you intend to achieve.
+
+=== Structure ===
+
+<div class="jiegou">
+宁可 ⋯⋯ ，也要 ⋯⋯ 
+</div>
+
+Here the speaker must pay a price in order to complete or gain something, a bit like "even though X, I'm still willing to do Y."
+
+=== Examples ===
+
+<div class="liju">
+
+*我 <em>宁可</em> 熬夜 <em>也 要</em> 做完 。<span class="pinyin">Wǒ <em>nìngkě</em> áoyè <em>yě yào</em> zuò wán.</span><span class="trans">I'd rather stay up tonight just to finish it.</span>
+*孩子们 <em>宁可</em> 不 吃饭 ，<em>也 要</em> 多 玩 一会儿 。<span class="pinyin">Háizimen <em>nìngkě</em> bù chīfàn, <em>yě yào</em> duō wán yīhuǐr.</span><span class="trans">The kids would rather not eat just to play a little longer.</span>
+*他 <em>宁可</em> 和 女朋友 分手 ，<em>也 要</em> 留 在 国外 。<span class="pinyin">Tā <em>nìngkě</em> hé nǚpéngyǒu fēnshǒu, <em>yě yào</em> liú zài guówài.</span><span class="trans">He would rather break up with his girlfriend just to stay abroad.</span>
+*她 <em>宁可</em> 花 一半 的 工资 租 房子 ，<em>也 要</em> 一个人 住 。<span class="pinyin">Tā <em>nìngkě</em> huā yībàn de gōngzī zū fángzi, <em>yě yào</em> yī gè rén zhù.</span><span class="trans">She would rather spend half of her salary just to live alone.</span>
+*我 <em>宁可</em> 坐 三十 个 小时 的 硬座 ，<em>也 要</em> 回 老家。<span class="pinyin">Wǒ <em>nìngkě</em> zuò sānshí gè xiǎoshí de yìngzuò, <em>yě yào</em> huí lǎojiā.</span><span class="trans">I would rather sit in a hard seat for 30 hours if I can get home.</span>
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Boya Chinese Upper Intermediate 1 (博雅汉语中级冲刺篇)|196}}
+{{Source|New Practical Chinese Reader 5 (新实用汉语课本5)|180}}
+{{Source|卓越汉语－公司实战篇|84, 99}}
+{{Source|HSK Standard Course 5上|145}}
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|宁可|B2|宁可⋯⋯，也⋯⋯|他 <em>宁可</em> 输，<em>也</em> 不 放弃。|grammar point|ASGF3F2Y}}
+{{Used for|Giving alternatives}}
+{{Similar|Expressing "rather than..." with "yuqi... buru"}}
+{{Similar|Comparisons with "buru"}}
+{{Structure|Sentence Patterns}}

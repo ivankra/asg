@@ -1,0 +1,78 @@
+<!-- Expressing "more and more" with "yuelaiyue" -->
+{{Grammar Box}} 
+
+越来越 (yuèláiyuè) is used frequently in Chinese to express that some quality or state is increasing with time and is often translated into English as "more and more." This is the simple form of this pattern, which uses 来, but there is also a [[Expressing "the more... the more..." with "yue… yue…"|more complex one (which uses two different adjectives/verbs)]].
+
+== Used with Adjectives ==
+
+This structure expresses that something is becoming more and more ''[[adjectives|adjective]]'' over time, with the latter adjective changing with the verb. The most common structure is:
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 越来越 + Adj. + 了
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*天气 <em>越来越</em> 冷 <strong>了</strong> 。<span class="pinyin">Tiānqì <em>yuèláiyuè</em> lěng <strong>le</strong>.</span><span class="trans">The weather is getting colder and colder.</span>
+*你 女儿 <em>越来越</em> 漂亮 <strong>了</strong> 。<span class="pinyin">Nǐ nǚér <em>yuèláiyuè</em> piàoliang <strong>le</strong>.</span><span class="trans">Your daughter is getting more and more beautiful.</span>
+*你 说 得 <em>越来越</em> 好 <strong>了</strong> 。<span class="pinyin">Nǐ shuō de <em>yuèláiyuè</em> hǎo <strong>le</strong>.</span><span class="trans">You speak better and better.</span>
+*技术 <em>越来越</em> 发达 <strong>了</strong> 。<span class="pinyin">Jìshù <em>yuèláiyuè</em> fādá <strong>le</strong>.</span><span class="trans">Technology is getting more and more developed.</span>
+*空气 污染 <em>越来越</em> 严重 <strong>了</strong> 。<span class="pinyin">Kōngqì wūrǎn <em>yuèláiyuè</em> yánzhòng <strong>le</strong>.</span><span class="trans">The air pollution is getting worse and worse.</span>
+
+</div>
+
+== Used with Verbs ==
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 越来越 + Verb + 了
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*我 <em>越来越</em> 喜欢 上海 <strong>了</strong> 。<span class="pinyin">Wǒ <em>yuèláiyuè</em> xǐhuan Shànghǎi <strong>le</strong>.</span><span class="trans">I like Shanghai more and more.</span>
+*你 <em>越来越</em> 了解 我 <strong>了</strong> 。<span class="pinyin">Nǐ <em>yuèláiyuè</em> liǎojiě wǒ <strong>le</strong>.</span><span class="trans">You know me better and better.</span>
+*我 <em>越来越</em> 理解 我 的 父母 <strong>了</strong> 。<span class="pinyin">Wǒ <em>yuèláiyuè</em> lǐjiě wǒ de fùmǔ <strong>le</strong>.</span><span class="trans">I understand my parents more and more.</span>
+</div>
+
+When the verb is negative in Chinese, a translation like "less and less" with a positive verb might be more appropriate in English than sticking with a "more and more" translation. The Chinese pattern doesn't change, though.
+
+<div class="liju">
+*我 <em>越来越</em> <strong>不</strong> 相信 他 <strong>了</strong> 。<span class="pinyin">Wǒ <em>yuèláiyuè</em> <strong>bù</strong> xiāngxìn tā <strong>le</strong>.</span><span class="trans">I believe him less and less.</span>
+*你 <em>越来越</em> <strong>不</strong> 懂 我 <strong>了</strong> 。<span class="pinyin">Nǐ <em>yuèláiyuè</em> <strong>bù</strong> dǒng wǒ <strong>le</strong>.</span><span class="trans">You understand me less and less.</span>
+</div>
+
+== See also ==
+
+*[[Expressing "the more... the more..." with "yue… yue…"]]
+*[["Along with…" Using "suizhe"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|40}}
+{{Source|Common Chinese Patterns 330 (汉语常用格式330例)|295}} 
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|153-4}}
+{{Source|Integrated Chinese: Level 2, Part 2|288-9}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|238-9}} 
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|185}} 
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课下册）|340}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|越来越|B1|Subj. + 越来越 + Adj. + 了|天气 <em>越来越</em> 冷 了。|grammar point|ASG7UE4H}}
+{{Rel char|越}}
+{{Rel char|了}}
+{{Similar|"Along with…" Using "suizhe"}}
+{{Similar|Expressing "the more... the more..." with "yue… yue…"}}
+{{Structure|Sentence Patterns}}
+{{Subprop|Basic/Simple Sentence Patterns}}
+{{Used for| Expressing degree}}
+{{Translation|more}}

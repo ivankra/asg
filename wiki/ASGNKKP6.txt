@@ -1,0 +1,67 @@
+<!-- Adjectives with "name" and "zheme" -->
+{{Grammar Box}} 
+
+In  English, the words "that" and "so" are often used to emphasize the degree of an adjective (ex. "he is so tall" or "the food is so good"). In Chinese, 那么 (nàme) and 这么 (zhème) serve the same function. 
+
+== Structure ==
+
+All you have to do to use this grammar structure is put the 那么 or 这么 in front of the adjective. 
+
+<div class="jiegou">
+Subj. + 那么 / 这么 + Adj.
+</div>
+
+== Examples ==
+
+You could think of 这么 as "this" or "so," and 那么 as "that" or "so."
+
+<div class="liju">
+
+*他 说得 <em>这么</em> 快 ，你们 听 得 懂 吗 ？<span class="pinyin">Tā shuō de <em>zhème</em> kuài,  nǐmen tīng de dǒng ma?</span><span class="trans">He speaks so fast. Can you guys understand?</span>
+*我 没 想到 这个 考试 <em>这么</em> 难 。<span class="pinyin">Wǒ méi xiǎng dào zhège kǎoshì <em>zhème</em> nán.</span><span class="trans">I didn't expect this exam would be this difficult.</span>
+*雨 <em>这么</em> 大，明天 再 去 吧 。<span class="pinyin">Yǔ <em>zhème</em> dà, míngtiān zài qù ba.</span><span class="trans">The rain is so heavy. How about we go tomorrow?</span>
+*你 <em>那么</em> 聪明 ，一定 能 猜到 。<span class="pinyin">Nǐ <em>nàme</em> cōngming, yīdìng néng cāi dào.</span><span class="trans">You're so smart. You can definitely guess it.</span>
+*老板 <em>那么</em> 忙 ，肯定 没 时间 。<span class="pinyin">Lǎobǎn <em>nàme</em> máng, kěndìng méi shíjiān.</span><span class="trans">The boss is so busy. He definitely won't have time for this.</span>
+*今天 怎么 <em>这么</em> 冷 ？<span class="pinyin">Jīntiān zěnme <em>zhème</em> lěng?</span><span class="trans">Why is it so cold today?</span>
+*你 怎么 <em>这么</em> 没 礼貌 ？<span class="pinyin">Nǐ zěnme <em>zhème</em> méi lǐmào?</span><span class="trans">How can you be this impolite?</span>
+*这个 外国人 怎么 会 了解 <em>那么</em> 多 中国 历史 ？<span class="pinyin">Zhège wàiguórén zěnme huì  liǎojiě <em>nàme</em> duō Zhōngguó lìshǐ?</span><span class="trans">How could this foreigner know that much about Chinese history?</span>
+*中国 人口 <em>这么</em>  多 ，当然 会 有 很 多 社会 问题 。<span class="pinyin">Zhōngguó rénkǒu <em>zhème</em>  duō, dāngrán huì yǒu hěn duō shèhuì wèntí.</span><span class="trans">China has such a big  population. Of course there will be many social problems.</span>
+*科技 <em>那么</em> 发达 ，什么 都 是 有 可能 的 。<span class="pinyin">Kējì <em>nàme</em> fādá, shénme dōu shì yǒu kěnéng de.</span><span class="trans">Science and technology is so developed. Anything is possible.</span>
+
+</div>
+
+== When to use which one ==
+
+You might be thinking that since 这 ("this") and 那 ("that") have totally different meanings, how could they be used in an essentially interchangeable way? Well, there are some differences. 这么 is used when the subject is close by (either in space or in time), when you would say "this" or 这个. On the other hand, if the subject is far away (or in the past), you would likely use 那么.
+
+== See also ==
+
+*[[The "zui" superlative]]
+*[[Expressing "excessively" with "tai"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Short-term Spoken Chinese: Elementary (汉语口语速成基础篇)|15}} 
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|71 - 2}}
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|103}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+[[Category:Adjectives]]
+
+{{Basic Grammar|那么|B1|那么 / 这么 + Adj.|你 怎么 <em>那么</em> 忙 ？|grammar point|ASGNKKP6}}
+{{Rel char|这么}}
+{{Rel char|那}}
+{{Rel char|这}}
+{{Used for|Adding more explanation}}
+{{Used for|Expressing attitude}}
+{{Used for|Describing things}}
+{{POS|Adverbs with Adjectives}}
+{{Similar|Intensifying with "duo"}}
+{{Similar|Positive adjectives with "-ji le"}}
+{{Similar|The "zui" superlative}}
+{{Similar|Simple "noun + adjective" sentences}}
+{{Translation|so}}
+{{Translation|that}}

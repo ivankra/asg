@@ -1,0 +1,91 @@
+<!-- Expressing "on the basis of" with "ping" -->
+{{Grammar Box}} 
+凭 (píng) is a [[prepositions| preposition]] that means "on the basis of" or "by virtue of." Usually the subject of a sentence which makes use of 凭 is a person.  
+
+== Structures using 凭 ==
+
+=== 凭 with a Noun ===
+
+凭 can be followed up with a noun or noun phrase. The nouns can be something concrete like a passport, diploma, or official ID, or they can be something abstract like experience, efforts, intuition, etc.
+
+<div class="jiegou">
+凭 + Noun / Noun Phrase ……
+</div>
+
+===Examples===
+
+<div class="liju"> 
+* <em>凭</em> 护照， 外国 人 可以 买 火车 票。<span class="pinyin"><em>Píng</em> hùzhào, wàiguó rén kěyǐ mǎi huǒchē piào.</span><span class="trans">Using a passport, foreigners can buy train tickets.</span>
+* 他 <em>凭</em> 自己 的 努力 学 了 三千 多 个 汉字。<span class="pinyin">Tā <em>píng</em> zìjǐ de nǔlì xué le sān qiān duō gè hànzì.</span><span class="trans">He studied more than three thousand Chinese characters through his own efforts.</span>
+* 我们 <em>凭</em> 学生证 在 电影院 享受 折扣 优待。<span class="pinyin">Wǒmen <em>píng</em> xuéshēng zhèng zài diànyǐngyuàn xiǎngshòu zhékòu yōudài.</span><span class="trans">With our student ID cards, we enjoy a special discount at the movie theater.</span>
+</div>
+
+=== 凭 with a Verb Phrase ===
+
+凭 can also be used with a verb phrase or subject-predicate phrase as follows:
+
+<div class="jiegou">
+凭 + Verb Phrase ……
+
+</div>
+
+===Examples===
+
+<div class="liju"> 
+* <em>凭</em> 我 学 中文 的 时间 比 你 短 但是 说 得 比 你 好，我 就 可以 说 我 比 你 聪明。<span class="pinyin"><em>Píng</em> wǒ xué Zhōngwén de shíjiān bǐ nǐ duǎn dànshì shuō de bǐ nǐ hǎo, wǒ jiù kěyǐ shuō wǒ bǐ nǐ cōngming.</span><span class="trans">From the fact that I have studied Chinese for a shorter time but speak it better than you, I can say that I'm smarter than you.</span>
+* <em>凭</em> 老 李 在 这 一 行 做 了 二十 年，他 就 有 资格 做 你 的 师傅。<span class="pinyin"><em>Píng</em> Lǎo Lǐ zài zhè yī háng zuò le èrshí nián, tā jiù yǒu zīgé zuò nǐ de shīfu.</span><span class="trans">On the basis of Lao Li's twenty years of experience in this industry, he is qualified to be your teacher.</span>
+* 他 只 <em>凭</em> 歌声 就 能 听出 是 谁 唱 的。<span class="pinyin">Tā zhī <em>píng</em> gēshēng jiù néng tīng chū shì shéi chàng de.</span><span class="trans">He could tell who was singing just by the sound of the song.</span>
+* 学好 跳舞 不 能 只 <em>凭</em> 看 迈克尔·杰克逊 的 视频， 还 得 凭 自己 的 努力。<span class="pinyin">Xuéhǎo tiàowǔ bù néng zhǐ <em>píng</em> kàn Màikè'ěr·Jiékèxùn de shìpín, hái děi píng zìjǐ de nǔlì.</span><span class="trans">Watching Michael Jackson's videos isn't enough to learn how to dance. You also have to rely on your own efforts.</span>
+</div>
+
+=== 凭 with 什么 ===
+
+This is one of the most common ways to use 凭, especially in spoken Chinese. It often has a feeling of dissatisfaction or anger, perhaps said during an argument. It is like saying, "On what basis do you ...!?!?" Usually it is paired with blaming, scolding, attacks, etc.
+
+<div class="jiegou">
+Subj. + 凭什么 + Verb Phrase …… ？！
+</div>
+
+===Examples===
+
+<div class="liju"> 
+* 你 <em>凭什么</em> 怪 我！<span class="pinyin">Nǐ <em>píng</em> shénme guài wǒ!</span><span class="trans">On what grounds are you blaming me?</span>
+* 我 没有 做 错，他 <em>凭什么</em>  骂 我？<span class="pinyin">Wǒ méiyǒu zuò cuò, tā <em>píng</em> shénme mà wǒ?</span><span class="trans">I haven't done anything wrong. What is he yelling at me for?</span>
+* 她 一直 很忠诚， 你 <em>凭什么</em> 怀疑 她？ <span class="pinyin">Tā yīzhí hěn zhōngchéng, nǐ <em>píng</em> shénme huáiyí tā?</span><span class="trans">She's always been honest. On what basis are you suspicious of her?</span>
+</div>
+
+==Structure with 凭着==
+
+You can also add 着 to 凭 to make it 凭着, however when you do so you can only use it if the action has already been completed. If the action occurs habitually or has not happened yet, you cannot use 凭着. The structure is the same as using 凭 by itself. 
+
+<div class="jiegou">
+凭着 + Noun / Noun Phrase ……
+</div>
+
+== Examples ==
+
+<div class="liju"> 
+* 小白 <em>凭着</em> 自己 的 努力 致富 。<span class="pinyin">Xiǎo Bái <em>píngzhe</em> zìjǐ de nǔlì zhìfù.</span><span class="trans">On the basis of his own hard work, Xiao Bai was able to become rich.</span>
+* 他 <em>凭着</em> 智慧 战胜 了 很 多 的 困难。<span class="pinyin">Tā <em>píngzhe</em> zhìhuì zhànshèng le hěn duō de kùnnan.</span><span class="trans">Using his intellect, he was able to overcome many difficulties.</span>
+
+</div>
+
+==See also==
+*[[Limiting Scope with "jiu"]]
+*[["Along with…" Using "suizhe"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级)|227-228}} 
+
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|凭|B2|凭⋯⋯|他 <em>凭</em> 自己 的 努力 成功 。|grammar point|ASGGB3IV}}
+{{Rel char|凭}}
+{{Used for|Adding more explanation}}
+{{Similar|Limiting Scope with "jiu"}}
+{{Similar|"Along with…" Using "suizhe"}}
+{{Similar|Idiomatic phrases with "zai"}}
+{{POS|Prepositions}}

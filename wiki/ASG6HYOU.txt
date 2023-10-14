@@ -1,0 +1,55 @@
+<!-- Expressing "or" in statements -->
+{{Grammar Box}} 
+
+In English, "or" can be used to connect words when offering or considering choices ("do you want chicken or beef?"). It can also be used as an "or" ''statement'' ("it doesn't matter if we eat chicken or beef"), in Chinese, this is what 或者 (huòzhě) is used for.
+
+== Structure ==
+
+While 还是 (háishì) is used for [[Offering choices with "haishi"|"or" in questions]], 或者 (huòzhě) is used for "or" in '''statements.''' 
+
+<div class="jiegou">
+
+Possibility 1 + 或者 + Possibility 2
+
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+* 我 喝 <strong>咖啡</strong> <em>或者</em> <strong>茶</strong> ，都 行。<span class="pinyin">Wǒ hē <strong>kāfēi</strong> <em>huòzhě</em> <strong>chá</strong>, dōu xíng.</span><span class="trans">I drink coffee or tea. Either is OK.</span>
+* <strong>星期六</strong> <em>或者</em> <strong>星期天</strong> ， 都 可以 。 <span class="pinyin"><strong>Xīngqīliù</strong> <em>huòzhě</em> <strong>Xīngqītiān</strong>, dōu kěyǐ.</span><span class="trans">Saturday or Sunday are both OK.</span>
+* 今天 晚上 我 想 吃 <strong>披萨</strong> <em>或者</em> <strong>寿司</strong>。<span class="pinyin"> Jīntiān wǎnshang wǒ xiǎng chī <strong>pīsà</strong> <em>huòzhě</em> <strong>shòusī</strong>.</span><span class="trans">Tonight I would like to eat pizza or sushi.</span>
+* 周末 的 时候，我 喜欢 在 家 <strong>做饭</strong> <em>或者</em> <strong>看 电影</strong> 。<span class="pinyin">Zhōumò de shíhou, wǒ xǐhuan zài jiā <strong>zuòfàn</strong> <em>huòzhě</em> <strong>kàn diànyǐng</strong>.</span><span class="trans">During the weekend, I like to cook or watch movies at home.</span>
+* <strong>你 去</strong> <em>或者</em> <strong>她 去</strong> ，都 可以 。<span class="pinyin"><strong>Nǐ qù</strong> <em>huòzhě</em> <strong>tā qù</strong>, dōu kěyǐ.  </span><span class="trans">You go or she goes, either way is fine.</span>
+* 下班 以后 <strong>我 去 你 家</strong> <em>或者</em> <strong>你 来 我 家</strong> ， 都 可以。<span class="pinyin">Xiàbān yǐhòu <strong>wǒ qù nǐ jiā</strong> <em>huòzhě</em> <strong>nǐ lái wǒ jiā</strong>, dōu kěyǐ.</span><span class="trans">After work I will go to your house, or you can come to my house, either way is fine.</span>
+* 下 个 月 我 打算 去 <strong>杭州</strong> <em>或者</em> <strong>苏州</strong> 旅行。<span class="pinyin">Xià gè yuè wǒ dǎsuàn qù <strong>Hángzhōu</strong> <em>huòzhě</em> <strong>Sūzhōu</strong> lǚxíng.</span><span class="trans">Next month I plan to go to Hangzhou or Suzhou to travel.</span>
+* 我们 可以 <strong>坐 飞机</strong> <em>或者</em> <strong>坐 高铁</strong> 去。<span class="pinyin">Wǒmen kěyǐ <strong>zuò fēijī</strong> <em>huòzhě</em> <strong>zuò gāotiě</strong> qù.</span><span class="trans">We can go by plane or by high-speed train.</span>
+* 晚饭 以后 我 和 家人 <strong>聊天</strong> <em>或者</em> <strong>看 电视</strong> 。<span class="pinyin">Wǎnfàn yǐhòu wǒ hé jiārén <strong>liáotiān</strong> <em>huòzhě</em> <strong>kàn diànshì</strong>.</span><span class="trans">After dinner I chat with or watch TV with my family.</span>
+* 你 可以 用 <strong>手机</strong> <em>或者</em> <strong>电脑</strong> 上网。<span class="pinyin">Nǐ kěyǐ yòng <strong>shǒujī</strong> <em>huòzhě</em> <strong>diànnǎo</strong> shàngwǎng.</span><span class="trans">You can use either a cell phone or computer to go online.</span>
+
+</div>
+
+==See also==
+*[[Offering choices with "haishi"]]
+*[[Providing two options with double "huozhe"]] (advanced article)
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Basic Patterns of Chinese Grammar|74-5}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|257-8}}
+{{Source|Integrated Chinese: Level 2, Part 1|239-40}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|或者|A2|⋯⋯或者⋯⋯|我 想 去 青岛 <em>或者</em> 南京。|grammar point|ASG6HYOU}}
+{{Rel char|或}}
+{{Similar|Offering choices with haishi}}  
+{{Similar|Providing two options with double "huozhe"}}
+{{Similar|Expressing "otherwise" with "yaobu"}}   
+{{Similar|Comparing "haishi" and "huozhe"}} 
+{{POS|Conjunctions}}
+{{Used for|Giving alternatives}}
+{{Translation|or}}

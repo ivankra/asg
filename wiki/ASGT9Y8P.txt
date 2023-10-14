@@ -1,0 +1,57 @@
+<!-- Conceding a point with "shi" -->
+{{Grammar Box}} 
+
+When conceding a point, we often put emphasis on the point we are conceding, and in Chinese, there is a way to do that with 是 (shì).
+
+== Structure ==
+
+This pattern is often used in an argument or debate. It's usually indicating that the speaker is conceding a point, ''but'' they still have some reservations about the topic at hand. Don't worry, the examples will make this clear.
+
+<div class="jiegou">
+Adj. + 是 + Adj. ， 但是 / 就是 ⋯⋯
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*工作 忙 <em>是</em> 忙 ，<strong>但是</strong> 我 很 开心 。<span class="pinyin">Gōngzuò máng  <em>shì</em> máng, <strong>dànshì</strong> wǒ hěn kāixīn.</span><span class="trans">Work may be busy, but I'm very happy.</span>
+*这 件 衣服 好看 <em>是</em> 好看 ， <strong>但是</strong> 不 适合 我 。<span class="pinyin">Zhè jiàn yīfu  hǎokàn <em>shì</em> hǎokàn, <strong>dànshì</strong> bù shìhé wǒ.</span><span class="trans">This piece of clothing may look nice, but it doesn't suit me.</span>
+*这里 的 环境 好 <em>是</em> 好 ，<strong>但是</strong> 交通 不太 方便 。<span class="pinyin">Zhèlǐ de huánjìng hǎo <em>shì</em> hǎo, <strong>dànshì</strong> jiāotōng bù tài fāngbiàn.</span><span class="trans">This environment may be nice, but transportation is not very convenient.</span>
+*累 <em>是</em> 累 ，<strong>但是</strong> 很 值得 。<span class="pinyin">Lèi <em>shì</em> lèi, <strong>dànshì</strong> hěn zhídé.</span><span class="trans">It may be tiring, but it's really worth it.</span>
+*难 <em>是</em> 难 ，<strong>但是</strong> 我 相信 我 能 做到 。<span class="pinyin">Nán <em>shì</em> nán, <strong>dànshì</strong> wǒ xiāngxìn wǒ néng zuòdào.</span><span class="trans">It is difficult, but I believe that I can do it.</span>
+
+</div>
+
+When using 但是, the second clause can express positive experiences or something good, as well as negative perspectives. However, when leading with 就是, the second clause needs to express something negative. 
+
+<div class="liju">
+
+*好吃 <em>是</em> 好吃 ，<strong>就是</strong> 不 太 健康 。<span class="pinyin">Hǎochī <em>shì</em> hǎochī, <strong>jiùshì</strong> bù tài jiànkāng.</span><span class="trans">It may be tasty, it's just that it's not very healthy.</span>
+*这个 东西 好 <em>是</em> 好 ，<strong>就是</strong> 太 贵 了 。<span class="pinyin">Zhège dōngxi hǎo <em>shì</em> hǎo, <strong>jiùshì</strong> tài guì le.</span><span class="trans">This thing may be good, it's just that it's too expensive.</span>
+*这个 学生  聪明 <em>是</em> 聪明 ，<strong>就是</strong> 不 太 努力 。<span class="pinyin">Zhège xuéshēng  cōngming <em>shì</em> cōngming, <strong>jiùshì</strong> bù tài nǔlì.</span><span class="trans">This student may be smart, it's just that he's not very hard-working.</span>
+*他 女朋友 漂亮 <em>是</em> 漂亮 ，<strong>就是</strong> 有点 奇怪 。<span class="pinyin">Tā nǚpéngyou  piàoliang <em>shì</em> piàoliang, <strong>jiùshì</strong> yǒudiǎn qíguài.</span><span class="trans">His girlfriend may be pretty, it's just that she's is a little weird.</span>
+*这个 老师 教 得 好 <em>是</em> 好 ，<strong>就是</strong> 太 严格 。 <span class="pinyin">Zhège lǎoshī jiāo de hǎo <em>shì</em> hǎo, <strong>jiùshì</strong> tài yángé.</span><span class="trans">This teacher may teach well; it's just that she's too strict.</span>
+
+</div>
+
+== See also ==
+
+*[[Expressing Contrariness with "dao"]]
+*[["Not… But Rather…" with "er shi"]]
+
+== Sources and  further reading ==
+
+=== Books ===
+
+{{Source|Chinese: An Essential Grammar, Second Edition|180}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|22- 3}}
+{{Source|Integrated Chinese: Level 2, Part 1|119}}
+
+[[Category:B1 grammar points]]
+{{Basic Grammar|是|B1|Adj. + 是 + Adj.， 但是⋯⋯|这个 东西 好 <em>是</em> 好 ，<em>就是</em> 太 贵 了 。|grammar point|ASGT9Y8P}}
+{{Similar|"Not… But Rather…" with "er shi"}}
+{{Rel char|但是}}
+{{Rel char|就是}}
+{{Structure|Sentence Patterns}}
+{{Subprop|Complex Sentence Patterns}}

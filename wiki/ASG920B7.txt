@@ -1,0 +1,89 @@
+<!-- Expressing "compared with" using "gen" -->
+{{Grammar Box}} 
+
+If you want to do a straight-up comparison statement, go ahead and use the [[Basic comparisons with "bi"|classic 比 (bǐ) structure]]. But if you want to lead with a "compared with..." phrase, you'll need a 跟 (gēn) and a slightly different word order.
+
+== Used with Two Subjects ==
+
+This sentence structure is used for comparing one thing ''as it relates to'' another.
+
+=== Structure ===
+
+These patterns are for making a comment about B, ''as it relates to'' A.
+
+<div class="jiegou">
+跟 + A + 比 (起来) ，B⋯⋯ 
+</div>
+
+B can also come at the beginning of the sentence:
+
+<div class="jiegou">
+B + 跟 + A + 比 (起来) ，⋯⋯ 
+</div>
+
+For both of these structures, you could swap out 跟 (gēn) for [[和]] (hé) with no real difference, but using 跟 (gēn) is slightly more common.
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>跟</em> 上海 <strong>比</strong> ，我 老家 的 物价 很 低 。<span class="pinyin"><em>Gēn</em> Shànghǎi <strong>bǐ</strong>, wǒ lǎojiā de wùjià hěn dī.</span><span class="trans">Compared to Shanghai, prices in my hometown are very low.</span>
+*<em>跟</em> 东部 <strong>比</strong> ，我 更 喜欢 美国 西部 。<span class="pinyin"><em>Gēn</em> dōngbù <strong>bǐ</strong>, wǒ gèng xǐhuan Měiguó xībù.</span><span class="trans">Compared to the eastern USA, I like the western USA more.</span>
+*<em>跟</em> 他 <strong>比</strong> ，你 最大 的 优势 是 什么 ？<span class="pinyin"><em>Gēn</em> tā <strong>bǐ</strong>, nǐ zuì dà de yōushì shì shénme?</span><span class="trans">Compared to him, what is your biggest advantage?</span>
+*妹妹 <em>跟</em> 姐姐 <strong>比起来</strong> 有点 害羞 。<span class="pinyin">Mèimei <em>gēn</em> jiějie <strong>bǐ qǐlái</strong> yǒudiǎn hàixiū.</span><span class="trans">Compared to the older sister, the younger sister is a bit shy.</span>
+*新 版本 <em>跟</em> 旧 版本 <strong>比起来</strong> ，多 了 一些 功能 。<span class="pinyin">Xīn bǎnběn <em>gēn</em> jiù bǎnběn <strong>bǐ qǐlái</strong>, duō le yīxiē gōngnéng.</span><span class="trans">Compared with the old version, the new version has a few more features.</span>
+
+</div>
+
+== Used with a Single Subject ==
+
+比 (bǐ) can also be used for comparing one subject over two different time periods.
+
+=== Structure ===
+
+<div class="jiegou">
+跟 + Time + 比 (起来) ，⋯⋯
+</div>
+
+Again, you could use 和 (hé) instead of 跟 (gēn) here, but using 跟 (gēn) is more common.
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>跟</em> 去年 <strong>比</strong> ，你 的 中文 进步 了 很多 。<span class="pinyin"><em>Gēn</em> qùnián <strong>bǐ</strong>, nǐ de Zhōngwén jìnbù le hěn duō.</span><span class="trans">Compared to last year, your Chinese has improved a lot.</span>
+*<em>跟</em> 十 年 前 <strong>比 起来</strong> ，中国人 的 生活 水平 提高 了 很多 。<span class="pinyin"><em>Gēn</em> shí nián qián <strong>bǐ qǐlái</strong>, Zhōngguó rén de shēnghuó shuǐpíng tígāo le hěn duō.</span><span class="trans">Compared to ten years ago, the standard of living for Chinese people has gotten much better.</span>
+*<em>跟</em> 上个 月 <strong>比</strong> ，这 个 月 的 工作 很 轻松。<span class="pinyin"><em>Gēn</em> shàngge yuè <strong>bǐ</strong>, zhège yuè de gōngzuò hěn qīngsōng.</span><span class="trans">Compared with last month, this month our work is a lot more relaxed.</span>
+*<em>跟</em> 前 几 周 <strong>比</strong> ，这个 星期 的 天气 舒服 多了 。<span class="pinyin"><em>Gēn</em> qián jǐ zhōu <strong>bǐ</strong>, zhège xīngqī de tiānqì shūfu duō le.</span><span class="trans">Compared to the past few weeks, the weather has been much more comfortable this week.</span>
+*<em>跟</em> 刚 毕业 的 时候 <strong>比 起来</strong> ，他 成熟 了 很 多 。<span class="pinyin"><em>Gēn</em> gāng bìyè de shíhou <strong>bǐ qǐlái</strong>, tā chéngshú le hěn duō.</span><span class="trans">Compared to when he first graduated, he's much more mature.</span>
+
+</div>
+
+== See also ==
+
+* [[Comparing]]
+* [[Basic comparisons with "yiyang"]]
+* [[Basic comparisons with "meiyou"]]
+* [[Expressing "rather" with "bijiao"]]
+* [[Expressing "even more" with "geng" or "hai"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+[[Category: B1 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|比|B1|跟 + Noun 1 + 比 (起来) ，Noun 2⋯⋯ |<em>跟</em> 上海 <strong>比</strong> ，北京 的 冬天 比较 干 。|grammar point|ASG920B7}}
+{{Rel char|跟}}
+{{Similar|Basic comparisons with "yiyang"}}
+{{Similar|Basic comparisons with "meiyou"}}
+{{Similar|Expressing "much more" in comparisons}}
+{{Similar|Expressing comparable degree with "you"}}
+{{Similar|Expressing "multiples" with "bei"}}
+{{Similar|Expressing "even more" with "geng" or "hai"}}
+{{Similar|Comparing Specifically with "xiang"}}
+{{Similar|Comparing}}
+{{Used for|Comparing}}
+{{Structure|Sentence Patterns}}
+{{Subprop|Comparison Patterns}}
+{{Translation|with}}

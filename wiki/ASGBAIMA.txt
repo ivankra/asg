@@ -1,0 +1,39 @@
+<!-- Expressing possession with "zhi" -->
+{{Grammar Box}} 
+{{Stub}}
+
+之 is one of the characters from classical Chinese that has come into common usage. It a formal written way to express possession.
+
+== Structure ==
+
+<div>
+
+之 functions similarly to 的 in that it indicates possession. Remember that 之 is used this way formally, and most of the time it is used for titles of works, poems, formal documents etc. 
+
+<div class="jiegou">
+
+Noun + 之 + Noun
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 害 人 <em>之</em> 心 不 可 有，防 人 <em>之</em> 心 不 可 无。
+* 这些 解决 问题 的 方式 仍然 有 不足 <em>之</em> 处。
+* 粗心 <em>之</em> 害 大于 无知。
+
+</div>
+ 
+之 cannot simply take the place of any 的. Pay attention to the kinds of words it can be paired with.
+
+==Sources and Further Reading==
+===Books===
+*[[卓越汉语－公司实战篇]] (p. 199) [http://www.amazon.cn/%E5%8D%93%E8%B6%8A%E6%B1%89%E8%AF%AD-%E5%85%AC%E5%8F%B8%E5%AE%9E%E6%88%98%E7%AF%87-%E8%83%A1%E7%81%B5%E5%9D%87/dp/B003QZWQ6M/ref=sr_1_1?ie=UTF8&qid=1347863170&sr=8-1 →buy]
+
+[[Category: C1 grammar points]]
+[[Category: Particles]]
+{{Basic Grammar|之|C1|Noun + 之 + Noun|这些 解决 问题 的 方式 仍然 有 不足 <em>之</em> 处。|grammar point|ASGBAIMA}}
+{{Used for|Expressing possession}}
+{{POS|Particles}}

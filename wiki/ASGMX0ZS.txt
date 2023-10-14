@@ -1,0 +1,86 @@
+<!-- Using "er" to explain contrasting ideas -->
+{{Grammar Box}} 
+The conjunction [[而]] (ér) is used to connect two sentences that are related to each other, and is also frequently used to emphasize contrast between two parts of the sentence. Used in this way, it can be translated as "but rather." 而 is often used in more formal or literary language, but is also common in everyday speech.
+
+== Start with 是 ==
+
+Frequently you'll see the pattern in one of these two more specific forms involving the verb [[是]]:
+
+=== Structure ===
+
+<div class="jiegou">
+不是……，而是……
+</div>
+
+<div class="jiegou">
+是……，而不是……
+</div>
+
+Strictly speaking, the 而 isn't ''required'' in either of these patterns, but it makes the contrast super clear.
+
+=== Examples ===
+
+<div class="liju">
+*我们 <em>是</em> 来 办事 的 ，<em>而 不 是</em> 来 玩 的 。<span class="pinyin">Wǒmen <em>shì</em> lái bànshì de, <em>ér bù shì</em> lái wán de.</span><span class="trans">We're here to do work, not to have fun.</span>
+* 以后 后悔 的 人 <em>不 是</em> 我，<em>而 是</em> 你 自己。<span class="pinyin">Yǐhòu hòuhuǐ de rén <em>bù shì</em> wǒ, <em>ér shì</em> nǐ zìjǐ.</span><span class="trans">The person to later regret this won't be me. It will be you.</span>
+*你 这样 做 <em>是</em> 害 他 ，<em>而 不 是</em> 帮 他 。<span class="pinyin">Nǐ zhèyàng zuò <em>shì</em> hài tā, <em>ér bù shì</em> bāng tā.</span><span class="trans">By doing this you were hurting him, not helping him.</span>
+*不好意思 ，我 <em>是</em> 不 小心 ，<em>而 不 是</em> 故意 的 。<span class="pinyin">Bù hǎoyìsi, wǒ <em>shì</em> bù xiǎoxīn, <em>ér bù shì</em> gùyì de.</span><span class="trans">I'm sorry. It was an accident. It wasn't on purpose.</span>
+* 现在 要 做 的 <em>不 是</em> 责怪 谁 错 了，<em>而 是</em> 怎么 解决。<span class="pinyin">Xiànzài yào zuò de <em>bù shì</em> zéguài shéi cuòle, <em>ér shì</em> zěnme jiějué.</span><span class="trans">Now is not the time to place blame, but rather to figure out how to resolve this.</span>
+*我 没 说 <em>不 是</em> 因为 想 骗 你 ，<em>而 是</em> 怕 你 不 高兴 。<span class="pinyin">Wǒ méi shuō <em>bù shì</em> yīnwèi xiǎng piàn nǐ, <em>ér shì</em> pà nǐ bù gāoxìng.</span><span class="trans">I didn't tell you not because I wanted to deceive you, but rather I was afraid you would be upset.</span>
+*我 <em>不 是</em> 不 想 帮 你 ，<em>而 是</em> 没有 能力 帮 你 。<span class="pinyin">Wǒ <em>bù shì</em> bù xiǎng bāng nǐ, <em>ér shì</em> méiyǒu nénglì bāng nǐ.</span><span class="trans">It's not that I don't want to help you, it's that I have no way to help you.</span>
+*重要 的 <em>不是</em> 你 的 外表 ，<em>而是</em> 你 的 内心 。<span class="pinyin">Zhòngyào de <em>bù shì</em> nǐ de wàibiǎo, <em>ér shì</em> nǐ de nèixīn.</span><span class="trans">What's important is not how you look on the outside, but rather what's on the inside.</span>
+*生活 中 <em>不是</em> 缺少 美 ，<em>而是</em> 缺少 发现 美 的 眼睛 。<span class="pinyin">Shēnghuó zhōng <em>bù shì</em> quēshǎo měi, <em>ér shì</em> quēshǎo fāxiàn měi de yǎnjīng.</span><span class="trans">It's not that life is lacking in beauty, but rather that we lack eyes that discover it.</span>
+</div>
+
+== Generalized Pattern ==
+
+=== Structure ===
+
+<div class="jiegou">
+Sentence 1， + 而 + Sentence 2
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 我 今天 去 你 家 找 你 了，<em>而</em> 你 不 在 家。<span class="pinyin">Wǒ jīntiān qù nǐ jiā zhǎo nǐ le, <em>ér</em> nǐ bù zài jiā.</span><span class="trans">I went to your home today looking for you, but you weren't there.</span>
+* 孩子 发烧 很 严重，<em>而</em> 你 一点 都 不 关心。<span class="pinyin">Hái zǐ fāshāo hěn yánzhòng, <em>ér</em> nǐ yīdiǎn dōu bù guānxīn.</span><span class="trans">Your child has a very severe fever, and yet you don't seem at all concerned. </span>
+* 她 在 公司 很 受 欢迎，<em>而</em> 我 并 不 喜欢 她。<span class="pinyin">Tā zài gōngsī hěn shòu huānyíng, <em>ér</em> wǒ bìng bù xǐhuan tā.</span><span class="trans">She is very popular in our company, but I don't like her at all. </span>
+</div>
+
+As you can see, 而 comes between the two to stress the contrast.
+
+==See Also==
+
+*[["On the contrary" with "fan'er"]]
+*[[Conceding a point with "shi"]]
+*[[Expressing "not only… but also"]]
+*[[Two words for "but"]]
+*[[Using "because" with "er" to indicate effect]]
+
+==Sources and Further Reading==
+
+===Books===
+
+{{Source|HSK Standard Course 4上|22}}
+{{Source|Integrated Chinese: Level 2, Part 1|343-4}}
+{{Source|卓越汉语－公司实战篇|128, 200}}
+{{Source|Integrated Chinese: Level 2, Part 1|277}}
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|20}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课下册）|516}}
+
+===Websites===
+
+* Yale Chinese Usage Dictionary: [http://comet.cls.yale.edu/chineseusagedictionary/0235.html Usage of 而]
+
+[[Category:B2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|而|B2|Sentence 1， + 而 + Sentence 2|以后 后悔 的 人 不 是 我，<em>而</em> 是 你 自己。|grammar point|ASGMX0ZS}}
+{{Rel char|而是}}
+{{Similar|Expressing "not only… but also"}}
+{{Similar|"Not only… but also" with "bujin"}}
+{{Similar|Many Types of "not only… but also…"}}
+{{Used for|Contrasting}}
+{{Used for|Differentiating}}
+{{POS|Conjunctions}}
+{{Translation|but}}

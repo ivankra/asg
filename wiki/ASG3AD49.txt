@@ -1,0 +1,86 @@
+<!-- Expressing "why" with "hebi" -->
+{{Grammar Box}} 
+{{stub}} 
+
+副词，用于反问，"为什么一定要⋯⋯"的意思，表示"不必"，语气"不必"重。多用于后一分句。
+
+== Used before Predicate ==
+
+=== Structure ===
+
+In this case, 何必 is often used to indicate the speaker's attitude about something unnecessary or not worth doing.
+
+<div class="jiegou">
+Subj. + 何必 + Predicate 
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 他 已经 道歉 了 ，你 <em>何必</em> 还 生气 ？<span class="trans">.</span>
+* 都是 一家人 ，你们 <em>何必</em> 这么 客气 ？<span class="trans">.</span>
+* 上海 的 房子 那么 贵 ，你儿子 <em>何必</em> 要 在 那儿 买 房子 ？<span class="trans">.</span>
+* 我 只是 不小心 踩 了 你 一下  ，你 <em>何必</em> 骂人 ？<span class="trans">.</span>
+
+</div>
+
+口语中，谓语可省略主要动词，"何必"直接加名词性成分。如：
+
+<div class="liju">
+*<em>何必</em> 下周 ？这 周 我 就 有 时间 。<span class="trans">Why next week?(Why wait?) I have time this week.</span>
+*<em>何必</em> 总经理 ？经理 也 可以 做 代表 。<span class="trans">Why the general manager? The manager can totally be our representative.</span>
+</div>
+
+== Used before Another Clause ==
+
+=== Structure ===
+
+<div class="jiegou">
+何必⋯⋯ 呢 ？⋯⋯ 
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* <em>何必</em> 大家 都 去 呢 ？一个人 去 就 行了 。<span class="trans">?</span>
+* <em>何必</em> 亲自 过来 呢 ？打个电话 就 行了 。<span class="trans">.</span>
+* <em>何必</em> 麻烦 别人 呢 ？我 自己 能 行 。<span class="trans">.</span>
+
+</div>
+
+== Used as Predicate ==
+
+何必 can be used alone with 呢 together to mean "why?"
+
+A few examples:
+
+<div class="liju">
+* 你 又 买 了 礼物 ？<em>何必</em> 呢 ？<span class="trans">You bought us gifts again? Why?</span>
+* 为了 买 张 电影票 排 那么 长 时间 的 队 ，<em>何必</em> 呢 ？<span class="trans">Spend so much time on waiting to buy a movie ticket? Why?</span>
+* 为 这样 的 人 伤心 ，<em>何必</em> 呢 ？不 值得 。<span class="trans">Don't have to be so sad about this type of person. It's not worth it.</span>
+</div>
+
+== Colloquial Saying ==
+
+<div class="liju">
+* 早知如此，<em>何必</em> 当初 ？<span class="trans">If you had known it, why would you have done something like earlier?</span>
+</div>
+
+== See also ==
+
+*[[]]
+
+== Sources and further reading ==
+
+=== Books ===
+{{Source|HSK Standard Course 5上|109}}
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|何必|C1|Subj. + 何必 + Predicate| 都是 一家人 ，你们 <em>何必</em> 这么 客气 ？|grammar point|ASG3AD49}}
+{{Rel char|}}
+{{Used for|Expressing attitude}}
+{{Used for|Emphasizing}}
+{{POS|Adverbs}}
+{{Translation|why}}

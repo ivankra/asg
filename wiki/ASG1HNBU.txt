@@ -1,0 +1,82 @@
+<!-- Comparing "guanyu" and "duiyu" -->
+{{Grammar Box}} 
+关于 (guānyú) and 对于 (duìyú) seem similar, since both of these prepositions are used to point to specific people or things. However, when taking a closer look, the things they discuss and the angles they take are different. 
+
+== Different Points of Emphasis==
+
+=== Examples with 对于 ===
+
+对于 points to an object being ''specifically'' referred to, and usually the speaker has adopted a certain attitude or has come to some kind of conclusion about the person or object.
+
+<div class="liju">
+*<em>对于</em> 那 个 人 我 并 不 了解。<span class="pinyin"><em>Duìyú</em> nàge rén wǒ bìng bù liǎojiě.</span><span class="trans">As for that person, I just don't know him very well at all.</span>
+*<em>对于</em> 我们 的 工作 表现，老板 很 满意。<span class="pinyin"><em>Duìyú</em> wǒmen de gōngzuò biǎoxiàn, lǎobǎn hěn mǎnyì.</span><span class="trans">The boss is very satisfied with our work performance.</span>
+*<em>对于</em> 这 件 事情 他 没什么 看法。<span class="pinyin"><em>Duìyú</em> zhè jiàn shìqing tā méi shénme kànfǎ.</span><span class="trans">He doesn't really have any opinion about this matter.</span>
+</div>
+
+=== Examples with 关于 ===
+
+关于 names a topic, and often emphasizes a ''range'', then introduces a comment related to it.
+
+<div class="liju">
+* 他 昨天 发表 了 一个 <em>关于</em> 中国 经济 的 演讲。<span class="pinyin">Tā zuótiān fābiǎo le yī gè <em>guānyú</em> Zhōngguó jīngjì de yǎnjiǎng.</span><span class="trans">Yesterday he made a speech about the Chinese economy.</span>
+* 我 需要 写 一 篇 <em>关于</em> 中美 文化 差异 的 文章。<span class="pinyin">Wǒ xūyào xiě yī piān <em>guānyú</em> Zhōng-Měi wénhuà chāyì de wénzhāng.</span><span class="trans">I need to write an article about the differences between Chinese and American culture.</span>
+* <em>关于</em> 你 辞职 的 申请，公司 还 在 考虑。<span class="pinyin"><em>Guānyú</em> nǐ cízhí de shēnqǐng, gōngsī hái zài kǎolǜ.</span><span class="trans">With regards to your application for resignation, the company is still considering it.</span>
+* <em>关于</em> 孩子 的 教育，她 跟 丈夫 的 看法 很 不 一样。<span class="pinyin"><em>Guānyú</em> háizi de jiàoyù, tā gēn zhàngfu de kànfǎ hěn bù yīyàng.</span><span class="trans">On children's education, her opinion is very different from her husband's.</span>
+</div>
+
+== Using 关于 in a Formal Way ==
+
+关于 (guānyú) can also be used in the title of an article. 
+
+=== Examples ===
+
+<div class="liju">
+* <em>关于</em> 部门 调整 和 人事 安排 <span class="pinyin"><em>Guānyú</em> Bùmén Tiáozhěng hé Rénshì Ānpái</span><span class="trans">"Regarding Department Adjustments and Human Affairs"</span>
+* <em>关于</em> 新年 放假 的通知 <span class="pinyin"><em>Guānyú</em> Xīnnián Fàngjià de Tōngzhī</span><span class="trans">A Notification Regarding New Year Holidays</span>
+</div>
+
+== Situations Where 关于 and 对于 Are Interchangeable ==
+
+When the point emphasized is pretty clear (whether it be a range or a specific thing), then you can use either. 
+
+<div class="liju">
+* <em>关于</em> 这 份 决议 ，大家 还 有 什么 补充 吗 ？<span class="pinyin"><em>Guānyú</em> zhè fèn juéyì, dàjiā hái yǒu shénme bǔchōng ma?</span><span class="trans">Is there anything that anyone wants to add to this decision?</span>
+*<em>对于</em> 这个 问题 ，你们 还 有 什么 意见 ？<span class="pinyin"><em>Duìyú</em> zhège wèntí, nǐmen hái yǒu shénme yìjiàn?</span><span class="trans">As for this issue, what other thoughts do you all have?</span>
+</div>
+
+== Example Dialog ==
+
+<div class="liju">
+* A: 我们 今天 的 会议 内容 是 讨论 一下 <em>关于</em> 开发 中国 市场 的 问题。<span class="pinyin">A: Wǒmen jīntiān de huìyì nèiróng shì tǎolùn yīxià <em>guānyú</em> kāifā Zhōngguó shìchǎng de wèntí.</span><span class="trans">The content of today's meeting is a discussion about the problems in developing China's markets.</span>
+* B: 我 的 意见 是 <em>对于</em> 中国 市场 我们 还 不 了解，最好 再 等等。<span class="pinyin">B: Wǒ de yìjiàn shì <em>duìyú</em> Zhōngguó shìchǎng wǒmen hái bù liǎojiě, zuìhǎo zài děng děng.</span><span class="trans">My opinion towards the Chinese markets is that we still don't understand. The best thing is to wait a bit longer.</span>
+* A: <em>对于</em> 是 不 是 开发 中国 市场 我们 已经 决定 了，现在 的 问题 是 什么 时候 开发。<span class="pinyin">A: <em>Duìyú</em> shì bu shì kāifā Zhōngguó shìchǎng wǒmen yǐjīng juédìng le, xiànzài de wèntí shì shénme shíhou kāifā.</span><span class="trans">We've already decided about developing the markets, the issue now is when to start.</span>
+* B：那么，<em>关于</em> 这 个 议题，我 没有 什么 可 说 的 了。<span class="pinyin">B: Nàme, <em>guānyú</em> zhège yìtí, wǒ méiyǒu shénme kě shuō de le.</span><span class="trans">Then, as for this topic, I have nothing more to say.</span>
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4下|20}}
+{{Source|对外汉语教学语法释疑201例|202}}
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|61}}
+
+=== Dictionaries ===
+
+{{Source|现代汉语词典（第5版）|501, 346}}
+
+[[Category:grammar comparison]]
+{{HSK|HSK4}}
+{{Basic Grammar|关于|B2|关于 vs 对于|<em>对于</em> 那 个 人， <em>关于</em> 我们 的 学习 方法|grammar point|ASG1HNBU}}
+{{Rel char|对于}}
+{{Rel char|至于}}
+{{Rel char|对}}
+{{Rel char|于}}
+{{Similar|Comparing "duiyu" and "zhiyu"}}
+{{Similar|Expressing "related to..." with "you guan de"}}
+{{Used for|Adding more explanation}}
+{{Used for|Connecting ideas}}
+{{Comparison|Prepositions}}
+{{Translation|to}}
+{{Translation|about}}

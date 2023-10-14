@@ -1,0 +1,90 @@
+<!-- Advanced_uses_of_"dou" -->
+{{Grammar Box}} 
+In its simplest terms, 都 (dōu) means "all," but there are also many other advanced uses for it. 
+
+== 都 Meaning "To the Point That" ==
+
+都 can also mean 甚至 (shènzhì), meaning "even to the point that," and in this form it expresses emphasis. 
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 都 + Predicate
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 我 很 想 妈妈 ，有时候 我 <em>都</em> 能 看见 她 。<span class="pinyin">Wǒ hěn xiǎng Māma, yǒu shíhou wǒ <em>dōu</em> néng kànjiàn tā.</span><span class="trans">I really miss Mom. Sometimes I can even see her.</span>
+* 我 <em>都</em> 能 闻见 面包 的 香味 。<span class="pinyin">Wǒ <em>dōu</em> néng wénjiàn miànbāo de xiāngwèi.</span><span class="trans">I can even smell the aroma of bread.</span>
+* 我 对 你 太 了解 了 ，我 <em>都</em> 能 知道 你 下 一步 要 做 什么 。<span class="pinyin">Wǒ duì nǐ tài liǎojiě le, wǒ <em>dōu</em> néng zhīdào nǐ xià yī bù yào zuò shénme.</span><span class="trans">I know you too well. I can even tell what your next move will be.</span>
+* 你 说的 那些 我 <em>都</em> 能 想象 得到。<span class="pinyin">Nǐ shuō de nàxiē wǒ <em>dōu</em> néng xiǎngxiàng de dào.</span><span class="trans">I can imagine all those things that you said.</span>
+
+</div>
+
+== 都 Meaning "Since..., then..." ==
+
+This pattern overlaps a little with the [[Expressing "already" with "dou"|都……了 pattern used to mean "already."]] It still has some of that "[[already]]," flavor, but with some of "[[since]]" added in as well.
+
+=== Structure ===
+
+"Since ..., in that case...“ can also be conveyed with 都 and a repeating verb, similar to [["Since" with "jiran"|"既然⋯⋯就"]].
+
+<div class="jiegou">
+Verb + 都 + Verb 了，...
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 来 <em>都</em> 来 了 ， 就 先 别 急着 走 了 。<span class="pinyin">Lái <em>dōu</em> lái le, jiù xiān bié jízhe zǒu le.</span><span class="trans">You're here already. No need to be in such a hurry to leave.</span>
+* 去 <em>都</em> 去 了 ， 就 好好 玩 吧。<span class="pinyin">Qù <em>dōu</em> qù le, jiù hǎohāo wán ba.</span><span class="trans>Go all the way, just have fun.</span>
+* 说 <em>都</em> 说 了 ， 就别说这是什么秘密了。<span class="pinyin">Shuō <em>dōu</em> shuō le, jiù bié shuō zhè shì shénme mìmì le.</span><span class="trans>Say what you want to say, just don't spill secrets.</span>
+</div>
+
+== 都 Adding a Tone of Complaint ==
+
+都 can also convey a tone of grumbling or complaint, frequently used with 怨 or 怪. You might argue that this is simply [[the "all" adverb "dou"|the "all" adverb 都]], and you wouldn't be wrong, but this usage is so common that it's worth special attention.
+
+=== Structure ===
+
+<div class="jiegou">
+都 + 怨 / 是 / 怪 + Somebody
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* <em>都</em> 怪 你，出门 不 带 伞。<span class="pinyin><em>Dōu</em> guài nǐ, chūmén bù dài sǎn.</span><span class="trans">It's all your fault, leaving without bringing an umbrella.</span>
+* <em>都</em> 是 你，害 我 跑 这么 远。<span class="pinyin"><em>Dōu</em> shì nǐ, hài wǒ pǎo zhème yuǎn.</span><span class="trans">It's because of you, making me go all that way.</span>
+* <em>都</em> 怨 你，不 提前 订好 座位。<span class="pinyin"><em>Dōu</em> yuàn nǐ, bù tíqián dìng hǎo zuòwèi.</span><span class="trans">I blame you for not making the reservation earlier.</span>
+</div>
+
+==See also==
+
+*[[Expressing "even" with "shenzhi"]]
+*[[Expressing "every" with "mei" and "dou"]]
+*[[Explaining results with "suoyi"]]
+*[[Expressing "all" with "shenme dou"]]
+*[[Emphasizing quantity with "dou"]]
+*[[Expressing "even" with "lian" and "dou"]]
+*[[Expressing "already" with "dou"]]
+
+== Sources and further reading ==
+
+=== Books ===
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级)|97-99}}
+{{Source|现代汉语八百词（增订本）|178}}
+
+=== Dictionaries ===
+* [[现代汉语词典（第5版）]] (pp.329 ) [http://www.amazon.cn/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E8%AF%8D%E5%85%B8/dp/B001B1RZCI/ref=sr_1_1?ie=UTF8&qid=1345693609&sr=8-1 →buy]
+
+
+
+[[Category:B2 grammar points]]
+{{Basic Grammar|都|B2|Subj. + 都 + Predicate|我<em>都</em>能闻见面包的香味。|grammar point|ASGQFW44}}
+{{Similar|"Even" as "shenzhi"}}   
+{{Used for|Describing actions}}
+{{Used for|Expressing quantity}}
+{{POS|Adverbs}}

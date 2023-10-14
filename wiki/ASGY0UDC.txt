@@ -1,0 +1,56 @@
+<!-- Sequencing past events with "houlai" -->
+{{Grammar Box}} 
+
+The word 后来 (hòulái) is used to sequence past events in the same way that "afterward" is in English. Something very important to note is that 后来 can only be used with two events '''that have already occurred'''.
+
+== Structure ==
+
+<div class="jiegou">
+[Past Event 1] ，后来 ，[Past Event 2]
+</div>
+
+== Examples ==
+
+Here are some examples of this pattern in action:
+
+<div class="liju">
+
+*他 说 他 会 来 ，<em>后来</em> 又 说 不 来 了 。<span class="pinyin">Tā shuō tā huì lái, <em>hòulái</em> yòu shuō bù lái le.</span><span class="trans">He said he would come, but later he said that he's not coming.</span>
+*他们 上周 吵架 了 ，<em>后来</em> 和好 了 。<span class="pinyin">Tāmen shàng zhōu chǎojià le, <em>hòulái</em> hé hǎo le.</span><span class="trans">They had a fight last week, and they made up afterwards.</span>
+*他 以前 是 厨师 ，<em>后来</em> 当 了 老板 。<span class="pinyin">Tā yǐqián shì chúshī, <em>hòulái</em> dāng le lǎobǎn.</span><span class="trans">He used to be a chef. Afterwards, he became the owner.</span>
+*我 昨晚 走 得 早 ，不 知道 <em>后来</em> 发生 了 什么 。<span class="pinyin">Wǒ zuówǎn zǒu de zǎo, bù zhīdào <em>hòulái</em> fāshēng le shénme.</span><span class="trans">I left early yesterday evening, so I don't know what happened afterwards.</span>
+*开始 我 父母 不 同意 ，<em>后来</em> 他们 同意 了 。<span class="pinyin">Kāishǐ wǒ fùmǔ bù tóngyì, <em>hòulái</em> tāmen tóngyì le.</span><span class="trans">My parents disapproved in the beginning, but they approved later.</span>
+*空调 我 上 个 月 修好 了 ，<em>后来</em> 又 坏了 。<span class="pinyin">Kōngtiáo wǒ shàng gè yuè xiū hǎo le, <em>hòulái</em> yòu huài le.</span><span class="trans">I fixed the air conditioner last month, but it broke again afterwards.</span>
+*他们 在 一起 差不多 三 年 ，<em>后来</em> 分手 了 。<span class="pinyin">Tāmen zài yīqǐ chàbuduō sān nián, <em>hòulái</em> fēnshǒu le.</span><span class="trans">They had been together for about three years. But they broke up afterwards.</span>
+*她 以前 是 兼职 老师 ，<em>后来</em> 做 了 全职 。<span class="pinyin">Tā yǐqián shì jiānzhí lǎoshī, <em>hòulái</em> zuò le quánzhí.</span><span class="trans">She used to be a part-time teacher. Afterwards, she became full-time.</span>
+*我 的 大学 老师 辞职 了 ，<em>后来</em> 去 上海 做 生意 了 。<span class="pinyin">Wǒ de dàxué lǎoshī cízhí le, <em>hòulái</em> qù Shànghǎi zuò shēngyi le.</span><span class="trans">My college professor quit his job. Afterwards, he went to Shanghai to do business.</span>
+*北京 以前 叫 北平 ，<em>后来</em> 改成 了 北京 。<span class="pinyin"> Běijīng yǐqián jiào Běipíng, <em>hòulái</em> gǎi chéng le Běijīng.</span><span class="trans">Beijing used to be called Beiping. Later, the name was changed to Beijing.</span>
+
+</div>
+
+==See  also==
+
+*[[Before and after with "zhiqian" and "zhihou"]]
+*[[Saying "ever since" with "yilai"]]
+*[[In the future in general]]
+*[[Comparing "houlai" and "ranhou"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|267}} 
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+[[Category:Time]]
+{{Similar|Before and After with "zhiqian" and "zhihou"}}
+{{Similar|In the future in general}}
+{{Similar|Saying "ever since" with "yilai"}}
+{{Similar|Comparing "houlai" and "ranhou"}}
+{{Similar|Comparing "yihou" "houlai"}}
+{{Basic Grammar|后来|B1|⋯⋯ ，后来 ⋯⋯|开始 他 不 同意， 但 <em>后来</em> 同意了。|grammar point|ASGY0UDC}}
+{{Used for|Sequencing events in time}}
+{{Used for|Referring to the past}}
+{{Used for|Expressing order}}
+{{POS|Nouns}}

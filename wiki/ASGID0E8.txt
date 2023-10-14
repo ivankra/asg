@@ -1,0 +1,69 @@
+<!-- Special verbs with "hen" -->
+{{Grammar Box}} 
+
+Using 很 (hěn) to intensify verbs that express thoughts or feeling is really easy.
+
+== Structure ==
+
+<div class="jiegou">
+
+Subj. + 很 + [Certain Verbs]
+
+</div>
+
+Certain "[[psychological verb]]s" related to feelings or emotional sates can be modified with 很 (hěn) to increase their intensity. This is similar to using "really" or "very much" in English. Remember that this only applies to psychological verbs, such as:
+
+* 想 (xiǎng) to think; to want; to miss
+* 喜欢 (xǐhuan) to like 
+* 小心 (xiǎoxīn) to be careful
+* 怕 (pà) to fear; to be afraid of
+* 了解 (liǎojiě) to know a lot about
+* 讨厌 (tǎoyàn) to hate
+* 担心 (dānxīn) to worry about
+* 希望 (xīwàng) to hope
+
+== Examples ==
+
+<div class="liju">
+
+* 我 <em>很</em> <strong>想</strong> 你。<span class="pinyin">Wǒ <em>hěn</em> <strong>xiǎng</strong> nǐ.</span><span class="trans">I really miss you.</span>
+* 他 <em>很</em> <strong>喜欢</strong> 你。<span class="pinyin">Tā <em>hěn</em> <strong>xǐhuan</strong> nǐ.</span><span class="trans">He really likes you.</span>
+* 你应该<em>很</em> <strong>小心</strong> 。<span class="pinyin">Nǐ yīnggāi <em>hěn</em> <strong>xiǎoxīn</strong>.</span><span class="trans">You should be very careful.</span>
+* 我 <em>很</em> <strong>怕</strong> 晚上 一个人 在家。<span class="pinyin">Wǒ <em>hěn</em>  <strong>pà</strong> wǎnshang yīgèrén zài jiā.</span><span class="trans">I fear staying home alone at night.</span>
+* 你 应该 <em>很</em> <strong>了解</strong> 自己 的 孩子。<span class="pinyin">Nǐ yīnggāi <em>hěn</em> <strong>liǎojiě</strong>  zìjǐ de háizi.</span><span class="trans">You should know a lot about your child.</span>
+* 外国 人 <em>很</em> <strong>讨厌</strong> 中国 的 公共 厕所。<span class="pinyin">Wàiguó rén <em>hěn</em> <strong>tǎoyàn</strong> Zhōngguó de gōnggòng cèsuǒ.</span><span class="trans">Foreigners really hate public toilets in China.</span>
+* 你 两天 没 回家，妈妈 <em>很</em> <strong>担心</strong> 你。<span class="pinyin">Nǐ liǎng tiān méi huíjiā, māma <em>hěn</em> <strong>dānxīn</strong> nǐ.</span><span class="trans">You haven't gone home in two days. Mom is really worried about you.</span>
+* 父母 都 <em>很</em> <strong>希望</strong> 我 能 上 一 个 好 大学。<span class="pinyin">Fùmǔ dōu <em>hěn</em> <strong>xīwàng</strong> wǒ néng shàng yī gè hǎo dàxué.</span><span class="trans">Both of my parents really hope that I can go to a good college.</span>
+
+</div>
+
+Did you ever notice that some Chinese people with less-than-perfect English will use the phrase "very like?"  Now you know why!
+
+==See also==
+
+*[[Emphasizing with "henshi"]]
+*[[Expressing "excessively" with tai]]
+*[[The "zui" superlative]]
+*[[Positive adjectives with "-ji le"]]
+
+== Sources and  further reading ==
+
+=== Books ===
+
+* [[New Practical Chinese Reader 1 (新实用汉语课本1)]] (p. 143) [http://www.amazon.com/gp/product/7561910401/ref=as_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=7561910401 →buy]
+* [[New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)]] (p. 166) [http://www.amazon.com/gp/product/7561926235/ref%3das_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=7561926235 →buy]
+
+[[Category:A2 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|很|A2|很 + Verb|我 <em>很</em> 喜欢 他。|grammar point|ASGID0E8}}
+{{Similar|Expressing "excessively" with tai}}  
+{{Similar|The "zui" superlative}}  
+{{Similar|Emphasizing with "henshi"}}  
+{{Similar|Positive adjectives with "-ji le"}}
+{{Similar|Simple "noun + adjective" sentences}}
+{{Similar|Expressing "rather" with "bijiao"}}    
+{{Used for|Expressing quality}}
+{{POS|Verbs}}
+{{Subprop|Verb phrases}}
+{{Translation|really}}
+{{Translation|very}}

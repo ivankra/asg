@@ -1,0 +1,77 @@
+<!-- Expressing "nearly" with "jihu" -->
+{{Grammar Box}} 
+
+几乎 (jīhū) means "nearly" or "almost," and is used to emphasize that someone or something is ''very close'' to doing something. 
+
+== Used before the Subject ==
+
+几乎 is often used together with words that mean "[[all]]," such as [[每]], [[所有]], or [[全]]. It can also be used with words that mean "none" such as [[没有]].
+
+=== Structure ===
+
+<div class="jiegou">
+几乎 + Noun Phrase + 都 ……
+</div>
+
+<div class="jiegou">
+几乎 + 没有 + Noun Phrase ……
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>几乎</em> 每 个 人 <strong>都</strong> 有 手机 。<span class="pinyin"><em>Jīhū</em> měi gè rén <strong>dōu</strong> yǒu shǒujī.</span><span class="trans">Almost everyone has a cell phone.</span>
+*在 我们 公司，<em>几乎</em> 每 个 人 <strong>都</strong> 会 说 英文 。<span class="pinyin">Zài wǒmen gōngsī, <em>jīhū</em> měi gè rén <strong>dōu</strong> huì shuō Yīngwén.</span><span class="trans">In our company, almost everyone can speak English.</span>
+*在 中国，<em>几乎</em> 所有 老外 <strong>都</strong> 会 说 “你好” 。<span class="pinyin">Zài Zhōngguó, <em>jīhū</em> suǒyǒu lǎowài <strong>dōu</strong> huì shuō "nǐ hǎo."</span><span class="trans">In China, almost all foreigners can say "nihao."</span>
+*<em>几乎</em> <strong>没有</strong> 人 相信 他 。<span class="pinyin"><em>Jīhū</em> <strong>méiyǒu</strong> rén xiāngxìn tā.</span><span class="trans">Almost no one believes him.</span>
+*<em>几乎</em> 全 世界 的 观众 <strong>都</strong> 喜欢 这 部 电影 。<span class="pinyin"><em>Jīhū</em> quán shìjiè de guānzhòng <strong>dōu</strong> xǐhuan zhè bù diànyǐng.</span><span class="trans">Almost all viewers the world over like this movie.</span>
+
+</div>
+
+== Used before the Predicate ==
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 几乎 + [不 / 没 +] Predicate
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*爸爸 的 头发 <em>几乎</em> 白 了 。<span class="pinyin">Bàba de tóufǎ <em>jīhū</em> bái le.</span><span class="trans">Dad's hair is almost all white.</span>
+*这 次 旅行 ，他们 <em>几乎</em> 花 了 所有 的 钱 。<span class="pinyin">Zhè cì lǚxíng, tāmen <em>jīhū</em> huā le suǒyǒu de qián.</span><span class="trans">They spent almost all of their money on this trip.</span>
+*他 一个人 <em>几乎</em> 吃 了 整个 蛋糕 。<span class="pinyin">Tā yīgèrén <em>jīhū</em> chī le zhěnggè dàngāo.</span><span class="trans">He ate almost the whole cake by himself.</span>
+*我 老板 <em>几乎</em> 不 喝酒 。<span class="pinyin">Wǒ lǎobǎn <em>jīhū</em> bù hējiǔ.</span><span class="trans"> My boss rarely drinks.</span>
+*老板 这 几 个 月 <em>几乎</em> 没 好好 休息 过。<span class="pinyin">Lǎobǎn zhè jǐ ge yuè <em>jīhū</em> méi hǎohāo xiūxi guo.</span><span class="trans">Boss has barely taken a decent break these past few months.</span>
+
+</div>
+
+==See also==
+
+*[[Expressing "almost" using "chadian"]]
+* [[Approximations with "chabuduo"]]
+
+== Sources and further  reading ==
+
+=== Books ===
+
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级)|134-6}}
+{{Source|Integrated Chinese: Level 2, Part 1|241}}
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|40}}
+
+[[Category:B2 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|几乎|B2|Subj. + 几乎 + Verb|他 的 头发 <em>几乎</em> 全 白 了 。|grammar point|ASGVA70K}}
+{{Rel char|几乎}}
+{{Rel char|几}}
+{{Rel char|乎}}
+{{Similar|Approximations with "chabuduo"}}   
+{{Similar|Expressing "almost" using "chadian"}}   
+{{Similar|Expressing "about to" with "jiuyao"}}   
+{{Used for|Expressing degree}}
+{{Used for|Expressing similarity}}
+{{POS|Adverbs}}
+{{Translation|almost}}

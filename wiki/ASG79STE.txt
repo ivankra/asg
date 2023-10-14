@@ -1,0 +1,190 @@
+<!-- Degree complement -->
+{{Grammar Box}} 
+{{AKA|程度补语 (chéngdù bǔyǔ)|complement of degree}}
+
+While most [[complement]]s follow [[verb]]s, degree complements can follow both verbs and [[adjective]]s.  These complements intensify or modify the degree of expression of the verb or adjective.
+
+== When to use it ==
+
+Until now, you may have been getting by just fine modifying your verbs with adverbs. You can use 非常 to say "very" and all that. Great. But once you learn to use degree complements, a whole new layer of expressiveness is infused into your language. You will be able to express '''degree''' of verbs and adjectives with much more precision and color. But how do you know ''when to use'' the degree complement?  Here are the main reasons to use it:
+
+1. To express '''how''' a [[verbs|verb]] happened or assess its quality
+
+2. To express '''to what extent''' (or degree) an [[adjectives|adjective]] is true
+
+For the first case, the most typical examples would be describing ''how well'' an action is done, or in ''asking'' how well an action is done, which are sometimes also classified as [[descriptive complement]]s and [[state complement]]s.
+
+<div class="liju">
+*你们 觉得 我 画 <em>得 怎么样</em> ？<span class="expl">The complement is used to ask "how well I draw."</span><span class="pinyin">Nǐmen juéde wǒ huà <em>de zěnmeyàng</em>?</span>
+*我们 觉得 你 画 <em>得 很 好</em> 。<span class="expl">The complement tells us that "you draw very well."</span><span class="pinyin">Wǒmen juéde nǐ huà <em>de hěn hǎo</em>.</span>
+</div>
+
+<div class="liju">
+*他 英语 说 <em>得 怎么样</em> ？ <span class="expl">The complement is used to ask "how well he speaks English."</span><span class="pinyin">Tā Yīngyǔ shuō <em>de zěnmeyàng</em>?</span>
+*他 英语 说 <em>得 一般</em> 。 <span class="expl">The complement tells us that "His English is average."</span><span class="pinyin">Tā Yīngyǔ shuō <em>de yībān</em>.</span>
+</div>
+
+== Basic Pattern Following Verbs == 
+
+We can use all kinds of degree complements to add some color to our verbs.
+
+=== Structure ===
+
+<div class="jiegou">
+Verb + 得 + [Degree Complement]
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*你 做 <em>得 不错</em> 。<span class="pinyin">Nǐ zuò <em>de bùcuò</em>.</span><span class="trans">You're doing a great job.</span>
+*孩子们 学  <em>得 挺 快 的</em> 。<span class="pinyin">Háizi men xué <em>de tǐng kuài de</em>.</span><span class="trans">The kids are learning fast.</span>
+*我 吃 <em>得 太 饱了</em> 。<span class="pinyin">Wǒ chī <em>de tài bǎo le</em>.</span><span class="trans">I'm stuffed.</span>
+*你们 谈 <em>得 顺利</em> 吗 ？<span class="pinyin">Nǐmen tán <em>de shùnlì</em> ma?</span><span class="trans">Did your conversation go well?</span>
+*她 长 <em>得 还 可以</em> 。<span class="pinyin">Tā zhǎng <em>de hái kěyǐ</em>.</span><span class="trans">She is all right-looking.</span>
+
+</div>
+
+== Degree Complements with Objects ==
+
+Both adding a complement to a verb with an object and adding an objective to a verb with a complement  complicate a sentence in Mandarin, because ''a single verb cannot be followed by both an object and a complement''. In order to get all three pieces of information into a grammatically correct Chinese sentence, there are two approaches to take:
+
+'''Approach #1: Repeat the Verb'''
+
+<div class="liju">
+<ul>
+<li class="o">你 <strong>说</strong> 中文 <strong>说</strong> <em>得 很 好</em> 。<span class="pinyin">Nǐ <strong>shuō</strong> Zhōngwén <strong>shuō</strong> <em>de hěn hǎo</em>.</span><span class="trans">You speak Chinese well. (lit. You speak Chinese speak it well.)</span></li>
+</ul>
+</div>
+
+Just like little kids, objects and complements don't know how to share. Make sure each gets its own (identical) verb. Also make sure that the object comes after the first instance of the verb, and the complement after the second.
+
+'''Approach #2: Move the Object to the Front'''
+
+<div class="liju">
+<ul>
+<li class="o">你 的 <strong>中文</strong> 说 <em>得 很 好</em> 。<span class="pinyin">Nǐ de <strong>Zhōngwén</strong> shuō <em>de hěn hǎo</em>.</span><span class="trans">You speak Chinese well. (lit. You Chinese speak well.)</span></li>
+</ul>
+</div>
+
+Note: the 你的中文 in the sentence above can also be 你中文 (without the 的). When it makes sense to include the 的, it often sounds better.
+
+Just to be completely clear, the following sentences are both ''incorrect'': 
+
+<div class="liju">
+<ul>
+<li class="x">你 <strong>说</strong> 中文 <em>很 好</em> 。<span class="pinyin">Nǐ shuō <strong>Zhōngwén</strong> <em>hěn hǎo</em>.</span></li>
+<li class="x">你 <strong>说</strong> 中文 <em>得 很 好</em> 。<span class="pinyin">Nǐ shuō <strong>Zhōngwén</strong> <em>de hěn hǎo</em>.</span></li>
+</ul>
+</div>
+
+A few more examples:
+
+<div class="liju">
+*你 <strong>做</strong> 菜 <strong>做</strong> <em>得 很 好</em> 。<span class="pinyin">Nǐ <strong>zuò</strong> cài <strong>zuò</strong> <em>de hěn hǎo</em>.</span><span class="trans">You cook very well.</span>
+*你 的 <strong>菜</strong> 做 <em>得 很 好</em> 。<span class="pinyin">Nǐ de <strong>cài</strong> zuò <em>de hěn hǎo</em>.</span><span class="trans">You cook very well.</span>
+</div>
+
+<div class="liju">
+*你 <strong>写</strong> 字 <strong>写</strong> <em>得 很 漂亮</em> 。<span class="pinyin">Nǐ <strong>xiě</strong> zì <strong>xiě</strong> <em>de hěn piàoliang</em>.</span><span class="trans">Your handwriting is beautiful.</span>
+*你 的 <strong>字</strong> 写 <em>得 很 漂亮</em> 。<span class="pinyin">Nǐ de <strong>zì</strong> xiě <em>de hěn piàoliang</em>.</span><span class="trans">Your handwriting is beautiful.</span>
+</div>
+
+== Degree Complements Following Adjectives ==
+
+=== Common Patterns ===
+
+There are three especially common degree complements which can follow adjectives immediately and are ''not'' preceded by a 得:
+
+<ol>
+<li>[[Adjectives with "-ji le"|极了]] often comes after adjectives with positive connotations (often 好), indicating an extremely high degree.</li>
+
+<li>[[Negative adjectives with "-si le"|死了]] usually comes after adjectives with negative connotations (like 忙, 累, 臭, 难看) and are commonly used to exaggerate the degree of how bad something is. In recent years, however, 死了 also comes after adjectives with positive connotations.</li>
+
+<li>[[坏了]] is a bit like the complement [[Negative adjectives with "-si le"|死了]] and can be used to mean "extremely" in either a positive or a negative sense.</li>
+</ol>
+
+=== Examples ===
+
+<div class="liju">
+*味道 <strong>好</strong> <em>极了</em> 。<span class="pinyin">Wèidào <strong>hǎo</strong> <em>jíle</em>.</span><span class="trans">The taste is amazing.</span>
+*这里 的 天气 <strong>舒服</strong> <em>极了</em> 。<span class="pinyin">Zhèlǐ de tiānqì <strong>shūfu</strong> <em>jíle</em>.</span><span class="trans">The weather here is so comfortable.</span>
+</div>
+
+<div class="liju">
+*他 的 袜子 <strong>臭</strong> <em>死了</em> 。<span class="pinyin">Tā de wàzi <strong>chòu</strong> <em>sǐle</em>.</span><span class="trans">His socks totally reek.</span>
+*小狗 <strong>可爱</strong> <em>死了</em> 。<span class="pinyin">Xiǎogǒu <strong>kě'ài</strong> <em>sǐle</em>.</span><span class="trans">The puppy is so adorable! </span>
+</div>
+
+<div class="liju">
+*老师 说 今天 没有 作业 ，我们 都 <strong>高兴</strong> <em>坏了</em> 。<span class="pinyin">Lǎoshī shuō jīntiān méiyǒu zuòyè, wǒmen dōu <strong>gāoxìng</strong> <em>huàile</em>.</span><span class="trans">The teacher said there's no homework for today, which thrilled us all.</span>
+*找 不 到 孩子 ，妈妈 <strong>急</strong> <em>坏了</em> 。<span class="pinyin">Zhǎo bu dào háizi, māma <strong>jí</strong> <em>huàile</em>.</span><span class="trans">Having not found the child, the mother was an anxious wreck.</span>
+</div>
+
+Note that 死 can also act as a [[result complement]] in verb phrases such as 打死 (literally, "beat to death"). In the examples above, however, it merely indicates an extreme degree (no actual deaths involved!).
+
+== Compared with Potential Complements ==
+
+Some sentences that contain adjective complements may be indistinguishable as degree or potential complements when they are taken out of context. The following table explains different meanings that one complement phrase could have as either a degree complement or potential complement.
+
+<div class="liju">
+
+*她说得清楚<span class="pinyin">tā shuō de qīngchu</span><span class="trans">she speaks clearly (Degree Complement Translation)</span><span class="trans">she is able to speak clearly (Potential Complement Translation)</span>
+*他们做得好<span class="pinyin">tāmen zuò de hǎo</span><span class="trans">they do it well (Degree Complement Translation)</span><span class="trans">they are able to do it well (Potential Complement Translation)</span>
+*他跑得快<span class="pinyin">tā pǎo de kuài</span><span class="trans">he runs fast (Degree Complement Translation)</span><span class="trans">he is able to run fast (Potential Complement Translation)</span>
+
+</div>
+
+Degree complements are commonly directly preceded by an adverb like 很. For example: 她说得很清楚. This serves to distinguish them from potential complements, which are never directly preceded by an adverb.
+
+== Descriptive and State Complements ==
+
+Not every aspect of Chinese grammar is agreed upon in the world of academia, and this is the case with degree complements, [[descriptive complement]]s, and [[state complement]]s. Some scholars hold that the three are distinct, while others posit they're all just types of degree complements. Still, others maintain that degree complements are one, and descriptive complements and state complements are also one. 
+
+Here's how a professor of Chinese at Yale puts it<ref>See the article [http://comet.cls.yale.edu/mandarin/content/degree/grammar/Degree-1.htm What is the complement of degree?] by Ling Mu, Rongzhen Li, and Peisong Xu.</ref>:
+
+<blockquote>
+Generally speaking, the complement of degree is a grammatical unit that describes the main verb of the sentence. Specifically, the complement of degree is an assessment of an action or a description of the consequential state of an action. It may also be a description of the degree of a state.
+</blockquote>
+
+Okayyy, so it sounds like descriptions and states are all degree complements? That's one of the views on the issue.
+
+None of these classifications truly matters though: the key is ''understanding'' them and ''using'' complements correctly to express yourself in Chinese. (This is already difficult without adding in unnecessary academic distinctions!)
+
+== References ==
+
+<references/>
+
+== See also ==
+
+* [[Advanced degree complements]]
+* [[Complement "-huai le"]]
+* [[Adjectives with "-ji le"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|A Practical Chinese Grammar For Foreigners (外国人实用汉语语法) |284-292}}
+{{Source|Chinese: An Essential Grammar, Second Edition|105-6}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|139}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|141}}
+
+=== Websites ===
+
+* Oxford University website: [http://www.ctcfl.ox.ac.uk/Lang%20work/Grammar%20database/grammar_database1.htm#Complement%20of%20degree%20得 Complement of degree 得]
+* Yale University website: [http://comet.cls.yale.edu/mandarin/content/degree/grammar/Degree.htm The Complement Of Degree]
+* [http://www.doc88.com/p-9069095291857.html 现代汉语中程度补语的范围及类别]
+*[http://www.docin.com/p-1196439776.html 带“得”字程度补语和状态补语的比较分析]
+
+[[Category:B1 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+[[Category:Complements]]
+
+{{Basic Grammar|得|B1|Verb + 得⋯⋯|你 做 <em>得 不错</em> 。|grammar point|ASG79STE}}
+{{Similar|Complement "-huai le"}}
+{{Similar|Adjectives with "-ji le"}}
+{{Similar|Advanced degree complements}}
+{{Structure|Complements}}
+{{Used for|Expressing degree}}

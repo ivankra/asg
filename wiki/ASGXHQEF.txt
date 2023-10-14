@@ -1,0 +1,57 @@
+<!-- Expressing "every time" with "mei" and "dou" -->
+{{Grammar Box}} 
+
+每次⋯⋯ 都⋯⋯ (měi cì... dōu...) is a pattern used to express "every time." Translating from English, you might feel that the only part really needed is 每次 (měi cì), since it literally means "every time." This is incorrect! Not only is [[The "all" adverb "dou"|the adverb 都 (dōu)]] ''required'', but it's arguably more vital than the 每次 (měi cì)! So it's important to get used to using both parts.
+
+== Structure ==
+
+This pattern actually builds on the [[Expressing "every" with "mei"|basic 每……都…… pattern]], which you should already know. In this grammar structure, we go beyond just saying things like "every person" or "every day," and focus on what happens '''''every time''' a certain action is done.''
+
+<div class="jiegou">
+每次 + Event 1 + 都 + Event 2
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*她 <em>每次</em> 来 我 家 <strong>都</strong> 带 花 。<span class="pinyin">Tā <em>měi cì</em> lái wǒ jiā <strong>dōu</strong> dài huā.</span><span class="trans">She brings flowers every time she visits me.</span>
+*为什么 <em>每次</em> 我 来 他 <strong>都</strong> 不 在 ？<span class="pinyin">Wèishénme <em>měi cì</em> wǒ lái tā <strong>dōu</strong> bù zài?</span><span class="trans">How come he's not here every time I come?</span>
+*我 <em>每次</em> 玩 这个 游戏 <strong>都</strong> 输 。<span class="pinyin">Wǒ <em>měi cì</em> wán zhège yóuxì <strong>dōu</strong> shū.</span><span class="trans">Every time I play this game, I lose.</span>
+*你 怎么 <em>每次</em> 吃 火锅 <strong>都</strong> 拉肚子 ？<span class="pinyin">Nǐ zěnme <em>měicì</em> chī huǒguō <strong>dōu</strong> lādùzi?</span><span class="trans">How come you have diarrhea every time you eat hotpot?</span>
+*他 <em>每次</em> 迟到 <strong>都</strong> 说 因为 堵车 。<span class="pinyin">Tā <em>měicì</em> chídào <strong>dōu</strong> shuō yīnwèi dǔchē.</span><span class="trans">Every time he's late, he says it's because of bad traffic.</span>
+*我 <em>每次</em> 经过 这 家 店 <strong>都</strong> 会 进去 看看 。<span class="pinyin">Wǒ <em>měi cì</em> jīngguò zhè jiā diàn <strong>dōu</strong> huì jìnqù kànkan.</span><span class="trans">Every time I pass this shop, I go inside and take a look.</span>
+*我 妹妹 <em>每次</em> 打针 <strong>都</strong> 哭 。<span class="pinyin">Wǒ mèimei <em>měicì</em> dǎzhēn <strong>dōu</strong> kū.</span><span class="trans">My little sister cries every time she has to get a shot.</span>
+*<em>每次</em> 遇到 生词 他 <strong>都</strong> 要 查 字典 。<span class="pinyin"><em>Měi cì</em> yùdào shēngcí tā <strong>dōu</strong> yào chá zìdiǎn.</span><span class="trans">Every time he comes across a new word, he looks it up in the dictionary.</span>
+*<em>每次</em> 编辑 <strong>都</strong> 要 保存 。<span class="pinyin"><em>Měi cì</em> biānjí <strong>dōu</strong> yào bǎocún.</span><span class="trans">Every time you edit, you need to save it.</span>
+*爸爸 <em>每次</em> 出差 <strong>都</strong> 给 我 买 礼物 。<span class="pinyin">Bàba <em>měi cì</em> chūchāi <strong>dōu</strong> gěi wǒ mǎi lǐwù.</span><span class="trans">Dad buys presents for me every time he goes on business trips.</span>
+
+</div>
+
+== See also ==
+
+*[[Pronoun "mei" for "every"]]
+*[[Emphasising quantity with "dou"]]
+*[[Events in quick succession with "yi... jiu..."]]
+
+== Sources and  further reading ==
+
+=== Books ===
+
+{{Source|Chinese: An Essential Grammar, Second Edition|87-8}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|267}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|284-5}} 
+
+[[Category:B1 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Similar|Emphasising quantity with "dou"}}
+{{Similar|Pronoun "mei" for "every"}}
+{{Similar|Referring to "all" using "suoyou"}}
+{{Similar|Events in quick succession with "yi... jiu..."}}
+{{Basic Grammar|每|B1|每次 + Event 1 + 都 + Event 2|为什么 <em>每</em> 次 我 来 他 <em>都</em> 不 在。|grammar point|ASGXHQEF}}
+{{Rel char|都}}
+{{Structure|Sentence Patterns}}
+{{Subprop|Basic/Simple Sentence Patterns}}
+{{Used for|}}
+{{Translation|every}}
+{{Translation|all}}

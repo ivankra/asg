@@ -1,0 +1,69 @@
+<!-- Comparing "renjia" and "bieren" -->
+{{Grammar Box}} 
+
+When referring to other people, we can use both the words 人家  (rénjia) and 别人 (biérén). But 人家 has additional grammatical uses which we will explore in this article.  
+
+== Both can mean "others" ==
+
+人家 and 别人 both refer to others besides the speaker and the listener. However, 人家 is more colloquial. 
+
+人家 and 别人 are interchangeable in these sentences below.
+
+<div class="liju">
+
+*我 不 在乎 <em>人家</em> 怎么 说 。<span class="pinyin">Wǒ bù zàihu <em>rénjia</em> zěnme shuō.</span><span class="trans">I don't care about what other people say.</span>
+*<em>别人</em> 怎么 想 我 怎么 知道 ？<span class="pinyin"><em>Biérén</em> zěnme xiǎng wǒ zěnme zhīdào?</span><span class="trans">How could I know what other people are thinking?</span>
+*那 是 <em>人家</em> 的 事 ，你 管 那么 多 干嘛 ？<span class="pinyin">Nà shì <em>rénjia</em> de shì, nǐ guǎn nàme duō gàn ma?</span><span class="trans">That's other people's business. Why get involved?</span>
+
+</div>
+
+== Additional Uses of 人家 ==
+
+For these additional uses of 人家, it would be incorrect to use 别人.
+
+=== 人家 as "I" or "me" ===
+
+人家 can be used to refer to yourself, and it is often used this way by women, giving it a sort of girly, shy, tender feeling.
+
+<div class="liju">
+*因为 <em>人家</em> 喜欢 你 啊 。<span class="pinyin">Yīnwèi <em>rénjia</em> xǐhuan nǐ a.</span><span class="trans">Because I like you!</span>
+*讨厌 ！老是 拿 <em>人家</em> 开玩笑 。<span class="pinyin">Tǎoyàn! Lǎo shì ná <em>rénjia</em> kāiwánxiào.</span><span class="trans">You are so annoying! You're always making fun of me.</span>
+</div>
+
+=== 人家 as "him" or "her" ===
+
+人家 can also refer to someone previously referred to (in the context of the conversation or body of text) or it can refer to a certain someone that both the speaker and listener know.
+
+<div class="liju">
+*你 快 给 <em>人家</em> 道歉 。<span class="pinyin">Nǐ kuài gěi <em>rénjia</em> dàoqiàn.</span><span class="trans">Apologize to them now.</span>
+*你 看 <em>人家</em> 多 聪明 ！<span class="pinyin">Nǐ kàn <em>rénjia</em> duō cōngming!</span><span class="trans">Look how smart he is!</span>
+</div>
+
+=== 人家 as "residents" ===
+
+人家 can also refer to households. In this case, it's pronounced as "rénjiā" rather than "rénjia." This use is going to be the least common in everyday spoken Chinese. 
+
+<div class="liju">
+*这个 小区 有 多少 <strong>户</strong> <em>人家</em> ？<span class="pinyin">Zhège xiǎoqū yǒu duōshao <strong>hù</strong> <em>rénjiā</em>?</span><span class="trans">How many households are here in this neighborhood?</span>
+*村子 里 现在 只 剩 十 <strong>户</strong> <em>人家</em> 了 。<span class="pinyin">Cūnzi lǐ xiànzài zhī shèng shí <strong>hù</strong> <em>rénjiā</em> le.</span><span class="trans">There are only ten households left in this village.</span>
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|对外汉语教学语法释疑201例|81}}
+{{Source|现代汉语八百词（增订本）|463}}
+{{Source|卓越汉语－公司实战篇|211}}
+
+=== Dictionaries ===
+
+{{Source|现代汉语词典（第5版）|1145}}
+
+[[Category:grammar comparison]]
+{{HSK|HSK6}}
+{{Basic Grammar|人家|B1|人家 vs. 别人|因为 <em>人家</em> 喜欢 你 啊 。我 不 在乎 <em>别人</em> 怎么 说 。|grammar point|ASGPINA4}}
+{{Rel char|别人}}
+{{Used for|Describing people}}
+{{Used for|Expressing attitude}}
+{{Comparison|Nouns}}

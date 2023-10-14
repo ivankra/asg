@@ -1,0 +1,62 @@
+<!-- Expressing existence in a place with "zai" -->
+{{Grammar Box}} 
+
+The verb 在 (zài) expresses existence in a location, similar to how we say in English, "to be at" or "to be in."
+
+== Structure ==
+
+The verb 在 (zài) is used to express existence in a place. English does not have a verb exclusively for this purpose, and instead uses "to be" with a [[Prepositions|preposition]]. In Chinese, 在 (zài) can cover both of these roles.
+
+<div class="jiegou">
+
+Subj. + 在 + Place
+
+</div>
+
+Remember that you don't need another verb in this construction. It can be tempting to try use 是 (shì), as English uses "to be," but this is not correct. 在 (zài) is the only verb needed.
+
+== Examples ==
+
+<div class="liju">
+
+* 我 <em>在</em> 上海。<span class="pinyin">Wǒ <em>zài</em> Shànghǎi.</span><span class="trans">I'm in Shanghai.</span>
+* 他们 <em>在</em> 英国。<span class="pinyin">Tāmen <em>zài</em> Yīngguó.</span><span class="trans">They're in England.</span>
+* 老板 <em>在</em> 外面。<span class="pinyin">Lǎobǎn <em>zài</em> wàimiàn.</span><span class="trans">The boss  is outside.</span>
+* 他 不 <em>在</em> 学校。<span class="pinyin">Tā bù <em>zài</em> xuéxiào.</span><span class="trans">He's not at school.</span>
+* 她 现在 <em>在</em> 家 吗？<span class="pinyin">Tā xiànzài <em>zài</em>  jiā ma？</span><span class="trans">Is she at home now?</span>
+* 你 <em>在</em> 公司 吗？<span class="expl">Literally, "Are you at the company?"</span><span class="pinyin">Nǐ <em>zài</em> gōngsī ma?</span><span class="trans">Are you at the office?</span>
+* 老师 不 <em>在</em> 办公室 吗？<span class="pinyin"> Lǎoshī bù <em>zài</em>  bàngōngshì ma?</span><span class="trans">Is the teacher not in the office?</span>
+* 谁 <em>在</em> 楼上？<span class="pinyin">Shéi <em>zài</em> lóushàng?</span><span class="trans">Who is upstairs?</span>
+* 我 和 朋友 <em>在</em> 酒吧。<span class="pinyin">Wǒ hé péngyou <em>zài</em> jiǔbā.</span><span class="trans">I'm with a friend at a bar.</span>
+* 你们 明天 <em>在</em> 北京 吗？<span class="pinyin">Nǐmen míngtiān <em>zài</em> Běijīng ma?</span><span class="trans">Are you guys in Beijing tomorrow?</span>
+
+</div>
+
+==See also==
+
+*[[Indicating location with "zai" before verbs]]
+*[[Special cases of "zai" following verbs]]
+*[[Expressing location with "zai...shang/xia/li"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|66}}
+{{Source|Chinese: An Essential Grammar, Second Edition|85-7}}
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2)|154}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|73}} 
+
+[[Category:A1 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{Basic Grammar|在|A1|在 + Place|老师 <em>在 上海</em> 。|grammar point|ASGLRWT8}}
+{{Used for|Expressing existence}}
+{{Used for|Expressing location}}
+{{Used for|Indicating conditions}}
+{{Similar|Expressing location with "zai...shang/xia/li"}}
+{{Similar|Indicating location with "zai" before verbs}}
+{{Similar|Special cases of "zai" following verbs}}
+{{POS|Verbs}}
+{{Subprop|Verbs}}
+{{Translation|in}}
+{{Translation|at}}

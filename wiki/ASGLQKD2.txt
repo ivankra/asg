@@ -1,0 +1,88 @@
+<!-- Modifying nouns with phrase + "de" -->
+{{Grammar Box}} 
+
+In addition to [[Modifying nouns with adjective + de|linking adjectives to nouns]], 的 (de) can also be used to link a whole phrase to a noun, making the already useful 的 (de) even more useful. 
+
+== With a Noun ==
+
+As well as [[Modifying nouns with adjective + de|attaching adjectives to nouns]], 的 (de) can be used to attach whole phrases to nouns. In English this is often achieved with "who" or "that." For example,  "the man who went to Beijing" or "the book that I bought yesterday." 
+
+=== Structure ===
+
+<div class="jiegou">
+
+Phrase + 的 + Noun
+
+</div>
+
+Here the phrase is typically of the form "Noun + Verb." The pattern, by itself, doesn't make clear whether the action happened in the past, present, or future.
+
+=== Examples ===
+
+<div class="liju">
+
+*<strong> 妈妈 做 </strong> <em>的</em> 菜 <span class="pinyin"><Strong> māma zuò </strong> <em>de</em> cài</span><span class="trans">the food that mom cooks / cooked</span>
+*<strong>去 北京 </strong> <em>的</em> 火车 <span class="pinyin"><Strong>qù Běijīng </strong> <em>de</em> huǒchē</span><span class="trans">the train that goes / went to Beijing</span>
+*<strong>你 教 </strong> <em>的</em> 学生 <span class="pinyin"><Strong>nǐ jiāo </strong> <em>de</em> xuésheng</span><span class="trans">the students that you teach / taught</span>
+*<strong>老板 请 </strong> <em>的</em> 朋友 <span class="pinyin"><Strong>lǎobǎn qǐng </strong> <em>de</em>  péngyou</span><span class="trans">the friends that the boss invites / invited</span>
+*<strong>我 画 </strong> <em>的</em>画<span class="pinyin"><Strong>wǒ huà </strong> <em>de</em> huà </span><span class="trans">the pictures that I draw / drew</span>
+*<strong>他 写 </strong> <em>的</em> 书 <span class="pinyin"><Strong>tā xiě </strong> <em>de</em> shū</span><span class="trans">the books that he wrote</span>
+*<strong>妈妈 给 我 买 </strong> <em>的</em> 衣服<span class="pinyin"><Strong>māma gěi wǒ mǎi </strong> <em>de</em> yīfu</span><span class="trans">the clothes that mom buys / bought for me</span>
+*<strong>客户 问 </strong> <em>的</em> 问题 <span class="pinyin"><Strong>kèhù wèn </strong> <em>de</em> wèntí </span><span class="trans">the questions that the client asks / asked</span>
+*<strong>穿 Prada </strong> <em>的</em> 女人<span class="pinyin"><Strong>chuān Prada </strong> <em>de</em> nǚrén</span><span class="trans">women who wear / wore Prada</span>
+*<strong>不 喜欢 中国菜 </strong> <em>的</em> 老外 <span class="pinyin"><Strong>bù xǐhuan  Zhōngguó cài </strong><em>de</em> lǎowài </span><span class="trans">the foreigners that don't / didn't like Chinese food</span>
+
+</div>
+
+== Without a Noun ==
+
+In some cases, it is possible to drop the noun from the pattern, and just use the "Noun + 的 (de)." This is kind of like saying "what Mom made" or "the red one" in English. In Chinese the 的 (de) serves the same purpose as the English word "what." By using this pattern, you can avoid repeating the same noun over and over again unnecessarily. Just be sure the other person is already clear about the "what" you're referring to when using this pattern!
+
+=== Structure ===
+
+<div class="jiegou">
+
+Phrase + 的
+
+</div>
+
+=== Examples ===
+
+Note that for certain phrases, it may be ambiguous what the "what" refers to, and sometimes it could even refer to a "who."
+
+<div class="liju">
+
+*<strong> 妈妈 做 </strong> <em>的</em><span class="pinyin"><strong> māma zuò </strong> <em>de</em></span><span class="trans">what mom cooks / cooked</span>
+*<strong>我 画 </strong> <em>的</em><span class="pinyin"><strong>wǒ huà </strong> <em>de</em> </span><span class="trans">what I draw / drew</span>
+*<strong>他 写 </strong> <em>的</em><span class="pinyin"><strong>tā xiě </strong> <em>de</em></span><span class="trans">what he writes / wrote</span>
+*<strong>你 教 </strong> <em>的</em><span class="pinyin"><strong>nǐ jiāo </strong> <em>de</em></span><span class="trans">who/what you teach / taught</span>
+
+</div>
+
+==See also==
+
+*[[Modifying nouns with adjective + de]]
+*[[Expressing possession]]
+
+== Sources and Further Reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|84}}
+{{Source|Basic Patterns of Chinese Grammar|76}} 
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|107-8}}
+{{Source|Chinese: An Essential Grammar, Second Edition|39}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|141}} 
+{{Source|Yufa!|37}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|的|A2|Phrase + 的 + Noun|去 北京 <em>的</em> 火车。今天 来 <em>的</em> 人。|grammar point|ASGLQKD2}}
+{{Similar|Modifying nouns with adjective + de}} 
+{{Similar|Expressing possession}}
+{{POS|Adverbs with Adjectives}}
+{{Used for|Expressing quality}}
+{{Used for|Describing actions}}
+{{Used for|Describing places}}
+{{Used for|Describing things}}
+{{Used for|Describing people}}

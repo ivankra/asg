@@ -1,0 +1,43 @@
+<!-- Expressing "among" with "dangzhong" -->
+{{Grammar Box}} 
+当中 (dāngzhōng) means "among," or more literally "in the middle of." In English this is a bit like "of," as in, "''of'' all of my friends, you are the most loyal." Also, 当中 can be used to express being "in the middle" of an activity or process that is fairly formal in nature, such as "in the middle of negotiations."
+
+==Structure==
+
+<div class="jiegou">
+Group / Process + 当中
+</div>
+
+==Examples==
+
+<div class="liju">
+* 你 是 我 所有 朋友 <em>当中</em> 最 聪明 的 一 个。<span class="pinyin">Nǐ shì wǒ suǒyǒu péngyou <em>dāngzhōng</em> zuì cōngming de yī gè.</span><span class="trans">Of all of my friends, you are the smartest one.</span>
+* 在 这 一百 个 选手 <em>当中</em> 我 表现 得 最 出色。<span class="pinyin">Zài zhè yībǎi gè xuǎnshǒu <em>dāngzhōng</em> wǒ biǎoxiàn de zuì chūsè.</span><span class="trans">Among these one hundred contestants, my performance was the most outstanding.</span>
+* 他们 <em>当中</em> 很 多 都 是 上海人。<span class="pinyin">Tāmen <em>dāngzhōng</em> hěn duō dōu shì Shànghǎi rén.</span><span class="trans">Among them, there are many Shanghainese.</span>
+* 五 个 人 <em>当中</em> 有 一 个 人 是 小偷。<span class="pinyin">Wǔ gè rén <em>dāngzhōng</em> yǒu yī gè rén shì xiǎotōu.</span><span class="trans">Of the five people, one of them is a thief.</span>
+* 在 这么 多 家 餐厅 <em>当中</em> ，就是 他们 家 比较 好吃。<span class="pinyin">Zài zhème duō jiā cāntīng <em>dāngzhōng</em>, jiùshì tāmen jiā bǐjiào hǎochī.</span><span class="trans">Of the many restaurants, theirs is best.</span>
+* 这 个 工程 还在 计划 <em>当中</em>。<span class="pinyin">Zhège gōngchéng hái zài jìhuà <em>dāngzhōng</em>.</span><span class="trans">This engineering project is still in the planning stage.</span> 
+* 这 批 产品 还 在 设计 <em>当中</em> ，还 没有 完全 确定 。<span class="pinyin">Zhè pī chǎnpǐn hái zài shèjì <em>dāngzhōng</em>, hái méiyǒu wánquán quèdìng.</span><span class="trans">This batch of products is still being designed and has not been finalized.</span>
+* 我们 还 在 考虑 <em>当中</em> ，你 不要 着急 。<span class="pinyin">Wǒmen hái zài kǎolǜ <em>dāngzhōng</em>, nǐ bùyào zhāojí.</span><span class="trans">We are still in the process of considering it, please don't get impatient.</span>
+* 现在 还 在 调查 <em>当中</em> ，还 不 知道 结果 。<span class="pinyin">Xiànzài hái zài diàochá <em>dāngzhōng</em>, hái bù zhīdào jiéguǒ.</span><span class="trans">It still under investigation, so the result is not yet known.</span>
+* 我 还 在 搬家 <em>当中</em> ，每天 要 处理 很 多 事情 。<span class="pinyin">Wǒ hái zài bānjiā <em>dāngzhōng</em>, měitiān yào chǔlǐ hěn duō shìqing.</span><span class="trans">I'm in the process of moving, and every day I have many things to deal with.</span>
+</div>
+
+When used to express "among," 当中 is a little like [["Within (it/them)" as "qizhong"|其中 (qízhōng)]]. However, 其中 means something more like "among the aforementioned," where as 当中 simply means "among." Furthermore 其中 cannot be used in relation to processes.
+
+==See also==
+*[["Within (it/them)" as "qizhong"]]
+*[["One of" with "…zhi yi"]]
+
+==Sources and Further Reading==
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|当中|B2|当中|他们 <em>当中</em> 有 温州 人 ， 有 宁波 人 。|grammar point|ASGS4DBY}}
+{{Rel char|当}}
+{{Rel char|中}}
+{{Similar|"Within (it/them)" as "qizhong"}}
+{{Similar|"One of" with "…zhi yi"}}
+{{Used for|Describing things}}
+{{Used for|Describing actions}}
+{{POS|Nouns}}
+{{Translation|among}}

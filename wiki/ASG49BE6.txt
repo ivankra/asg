@@ -1,0 +1,96 @@
+<!-- Expressing "enough" with "gou" -->
+{{Grammar Box}} 
+
+In Chinese the word for "enough" is 够 (gòu). It also combines with other words and most often comes before [[verb]]s and [[adjective]]s, but there are a limited number of verbs that it can follow as well. 
+
+== Affirmative Form ==
+
+=== Structure ===
+
+<div class="jiegou">
+够 + Verb / Adj. + 了
+</div>
+
+The [[了]] is not strictly required, but it adds a sense of emphasis.
+
+=== Examples ===
+
+In these examples, 够 (gòu) comes before verbs. You'll notice that ''who'' is doing the verb to ''what'' is normally just understood in context.
+
+<div class="liju">
+
+*我们 买 了 很 多 菜 ，<em>够</em> 吃 <strong>了</strong> 。<span class="pinyin">Wǒmen mǎi le hěn duō cài, <em>gòu</em> chī <strong>le</strong>.</span><span class="trans">We bought a lot of food. It's enough for us to eat.</span>
+*这些 纸 <em>够</em> 用 吗 ？<span class="pinyin">Zhèxiē zhǐ <em>gòu</em> yòng ma?</span><span class="trans">Is this paper enough for us to use?</span>
+*放心 吧 ，我 带 的 钱 <em>够</em> 花 。<span class="pinyin">Fàngxīn ba, wǒ dài de qián <em>gòu</em> huā.</span><span class="trans">Don't worry. I've brought enough money to spend.</span>
+
+</div>
+
+When it comes before an adjective, 了 is needed at the end of the sentence.
+
+<div class="liju">
+
+*我 对 你 <em>够</em> 好 <strong>了</strong> 。<span class="pinyin">Wǒ duì nǐ <em>gòu</em> hǎo <strong>le</strong>.</span><span class="trans">I've been good enough to you.</span>
+*别 抱怨 了 ，你 <em>够</em> 幸运 <strong>了</strong> 。<span class="pinyin">Bié bàoyuàn le, nǐ <em>gòu</em> xìngyùn <strong>le</strong>.</span><span class="trans">Stop complaining. You've been lucky enough.</span>
+
+</div>
+
+== Negative Form ==
+
+In the negative form, you're not going to need a 了 (le).
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 不 + 够 + Adj. / Verb 
+</div>
+
+Note that 了 can't be used when it's negated.
+
+=== Examples ===
+
+<div class="liju">
+
+*他 觉得 他 女朋友 <em>不 够</em> 漂亮 。<span class="pinyin">Tā juéde tā nǚpéngyou <em>bù gòu</em> piàoliang.</span><span class="trans">He thinks his girlfriend is not pretty enough.</span>
+*你 说 得 <em>不 够</em> 清楚 。<span class="pinyin">Nǐ shuō de <em>bù gòu</em> qīngchǔ.</span><span class="trans">You didn't speak clearly enough.</span>
+*这些 菜 <em>不 够</em> 吃 ，再 点 几 个 菜 。<span class="pinyin">Zhèxiē cài <em>bù gòu</em> chī, zài diǎn jǐ gè cài.</span><span class="trans">This food is not enough for us to eat. Let's order a few more dishes.</span>
+*这里 太 小 了 ，<em>不 够</em> 坐 。<span class="pinyin">Zhèlǐ tài xiǎo le, <em>bù gòu</em> zuò.</span><span class="trans">It's too cramped here. There's not enough room to sit.</span>
+*你 的 包 太 小 了，这些 东西 肯定 <em>不 够</em> 放 。<span class="pinyin">Nǐ de bāo tài xiǎo le, zhèxiē dōngxi kěndìng <em>bù gòu</em> fàng.</span><span class="trans">Your bag is too small. There's definitely not enough room to hold this stuff.</span>
+
+</div>
+
+Translations feel looser here, as the Chinese frequently omits the details about what's not enough for what. The verb and the context makes it clear enough.
+
+== Colloquial Saying ==
+
+Literally, 够了 means "it's enough." When the speaker is getting sick of doing something or feeling fed up, 够了 can be applied after a limited number of verbs.
+
+A few common examples:
+
+<div class="liju">
+
+*我 <strong>受</strong> <em>够 了</em> ！<span class="pinyin">Wǒ <strong>shòu</strong> <em>gòu le</em>!</span><span class="trans">I've had enough!</span>
+*天天 吃 外卖 ，我们 都 <strong>吃</strong> <em>够 了</em> 。<span class="pinyin">Tiāntiān chī wàimài, wǒmen dōu <strong>chī</strong> <em>gòu le</em>.</span><span class="trans">We eat take-out every day. We're sick of eating it.</span>
+*你 <strong>玩</strong> <em>够 了</em> 没有 ？<span class="pinyin">Nǐ <strong>wán</strong> <em>gòu le</em> méiyǒu?</span><span class="trans">Are you done playing?</span>
+
+</div>
+
+== See also ==
+
+*[[The "zui" superlative]]
+*[[Expressing "excessively" with "tai"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4下|45}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|够|B1|Subj. + 够 + Predicate (+ 了) |我们 买 了 很 多 菜 ，<em>够</em> 吃 <strong>了</strong> 。|grammar point|ASG49BE6}}
+{{Rel char|了}}
+{{Rel char|够了}}
+{{Used for|Describing degree}}
+{{Used for|Expressing attitude}}
+{{POS|Adverbs}}
+{{Translation|enough}}

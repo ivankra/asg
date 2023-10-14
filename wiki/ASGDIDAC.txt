@@ -1,0 +1,54 @@
+<!-- Ending a non-exhaustive list with "shenme de" -->
+{{Grammar Box}} 
+
+什么的 (shénme de) is an informal way to express "and so on," and is used to end a list of items when it is obvious to the listener what class of things the speaker is talking about. 什么的 can also be used after a single item if it is obvious enough what might follow. 
+
+== Structure ==
+
+<div class="jiegou">
+Noun 1, Noun 2 (+ Noun 3) + 什么的
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*我 奶奶 不 吃 肉 ，只 吃 蔬菜 、豆腐 <em>什么的</em> 。<span class="pinyin">Wǒ nǎinai bù chī ròu, zhǐ chī shūcài, dòufu <em>shénme de</em>.</span><span class="trans">My grandma doesn't eat meat. She only eats vegetables, tofu, and so on.</span>
+*养狗 很 麻烦 ，你 要 喂 它 ，给 它 洗澡 ，跟 它 玩 <em>什么的</em> 。<span class="pinyin">Yǎng gǒu hěn máfan, nǐ yào wèi tā, gěi tā xǐzǎo, gēn tā wán <em>shénme de</em>.</span><span class="trans">Having a dog is too much trouble. You need to feed it, give it a bath, play with it, and so on.</span>
+*数学 、物理 、化学 <em>什么的</em> ，我 都 不 感兴趣 。<span class="pinyin">Shùxué, wùlǐ, huàxué <em>shénme de</em>, wǒ dōu bù gǎnxìngqù.</span><span class="trans">Math, physics, chemistry, and so on. I'm not interested in any of them.</span>
+*我 喜欢 实用 的 礼物 ，手表 、衣服 、书 <em>什么的</em> 。<span class="pinyin">Wǒ xǐhuan shíyòng de lǐwù, shǒubiǎo, yīfu, shū <em>shénme de</em>.</span><span class="trans">I like practical presents: watches, clothes, books, and so on.</span>
+*我们 见面 一般 就是 吃饭、聊天 <em>什么的</em> 。<span class="pinyin">Wǒmen jiànmiàn yībān jiùshì chīfàn, liáotiān <em>shénme de</em>.</span><span class="trans">When we meet, we just eat a meal, chat, and so on.</span>
+*明天 去 野餐 ，我们 要 不 要 买 一些 水果、零食 <em>什么的</em> ？<span class="pinyin">Míngtiān qù yěcān, wǒmen yào bu yào mǎi yīxiē shuǐguǒ, língshí <em>shénme de</em>?</span><span class="trans">We are going on picnic tomorrow. Shall we buy some fruits, snacks, and so on?</span>
+*跑步、游泳 、篮球 <em>什么的</em> ，这些 运动 他 都 喜欢 。<span class="pinyin">Pǎobù, yóuyǒng, lánqiú <em>shénme de</em>, zhèxiē yùndòng tā dōu xǐhuan.</span><span class="trans">Running, swimming, basketball, and so on. He likes all these sports.</span>
+*长城 、故宫 <em>什么的</em> ，都 是 北京 很 有名 的 景点 。<span class="pinyin">Chángchéng, Gùgōng <em>shénme de</em>, dōu shì Běijīng hěn yǒumíng de jǐngdiǎn.</span><span class="trans">The Great Wall, the Forbidden City, and so on. They're all very famous tourist attractions in Beijing.</span>
+*一个人 住 ，洗衣服 、做饭 <em>什么的</em> 都 要 自己 做 。<span class="pinyin">Yīgèrén zhù, xǐ yīfu, zuòfàn <em>shénme de</em> dōu yào zìjǐ zuò.</span><span class="trans">When you live alone, laundry, cooking, and so on all need to be done yourself.</span>
+*电视 、洗衣机 <em>什么的</em> ，我 爸爸 都 会 修 。<span class="pinyin">Diànshì, xǐyījī <em>shénme de</em>, wǒ bàba dōu huì xiū.</span><span class="trans">Televisions, washing machines, and so on. My father can fix all those.</span>
+
+</div>
+
+It can be a little impolite to use 什么的 after a list of peoples names, in which case [[Non-exhaustive lists with "dengdeng"|等]] can be used in place of 什么的. When referring to a list of friends in informal contexts there is no problem using 什么的.
+
+== See also ==
+
+*[[Listing Things with "a"]]
+*[[Non-exhaustive lists with "dengdeng"]]
+*[["Stuff like that" with "zhileide"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4下|51}}
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级)|304-7}}
+{{Source|Integrated Chinese: Level 2, Part 1|121}} 
+{{Source|卓越汉语－公司实战篇|122-3}}
+
+
+[[Category: B1 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|什么|B1|Noun 1, Noun 2 + 什么的|明天 去 野餐 ，我们 要 不 要 买 一些 水果 ，零食 <em>什么的</em> 。|grammar point|ASGDIDAC}}
+{{Similar|Listing Things with "a"}}
+{{Similar|"Stuff like that" with "zhileide"}}
+{{POS|Auxiliary Words}}
+{{Used for|Listing}}
+{{Translation|Etc.}}

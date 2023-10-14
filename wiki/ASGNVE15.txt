@@ -1,0 +1,54 @@
+<!-- Expressing "together" with "yiqi" -->
+{{Grammar Box}} 
+
+If you want to express that you are doing something ''together'' with someone else, 一起 (yīqǐ) is your word!
+
+'''Note:''' The pinyin for 一起 is written "yīqǐ" but pronounced "yìqǐ" due to a [http://resources.allsetlearning.com/chinese/pronunciation/Tone_change_rules tone change rule].
+
+== Structure ==
+
+一起 (yīqǐ) is the easiest way to express an action being done together with other people. 
+
+<div class="jiegou">
+
+Subj. + 一起 + Verb + Obj.
+
+</div>
+
+The subject must be plural - a plural noun or two or more nouns linked with a [[conjunctions|conjunction]]. You can't do things together on your own, after all.
+
+== Examples ==
+
+<div class="liju">
+
+* 我们 <em>一起</em> 吃 晚饭 吧。<span class="pinyin">Wǒmen <em>yīqǐ</em> chī wǎnfàn ba.</span><span class="trans">Let's eat dinner together.</span>
+* 早上 我 和 老公 <em>一起</em> 去 上班。<span class="pinyin">Zǎoshang wǒ hé lǎogōng <em>yīqǐ</em> qù shàngbān.</span><span class="trans">In the morning, I go to work together with my husband.</span>
+* 周末 我们 <em>一起</em> 去 看电影，好 吗？<span class="pinyin">Zhōumò wǒmen <em>yīqǐ</em> qù  kàn diànyǐng, hǎo ma? </span><span class="trans">Let's go to the movies this weekend, shall we? </span>
+* 这 两 个 公司 <em>一起</em> 做 这个 产品。<span class="pinyin">Zhè liǎng gè gōngsī <em>yīqǐ</em> zuò zhège chǎnpǐn.</span><span class="trans">These two businesses made this product together.</span>
+* 下班 以后，你们 <em>一起</em> 来 我 家 吧。<span class="pinyin">Xiàbān yǐhòu, nǐmen <em>yīqǐ</em> lái wǒ jiā ba.</span><span class="trans">After work, why don't you all come to my home together? </span>
+* 下 个 月 我 和 妈妈  <em>一起</em> 去 旅行。<span class="pinyin">Xià gè yuè wǒ hé māma  <em>yīqǐ</em> qù lǚxíng.</span><span class="trans">Next month I'll go on a trip together with mom.</span>
+* 你们 有没有 <em>一起</em> 玩 过 这 个 游戏？<span class="pinyin">Nǐmen yǒu méiyǒu <em>yīqǐ</em> wán guo zhège yóuxì? </span><span class="trans">Have you all ever played this game together? </span>
+* 他 想 和 他太太 <em>一起</em> 学 中文。<span class="pinyin">Tā xiǎng hé tā tàitai <em>yīqǐ</em> xué Zhōngwén.</span><span class="trans">He wants to study Chinese together with his wife.</span>
+* 结婚以后，你 和 父母 会 <em>一起</em> 住 吗？<span class="pinyin">Jiéhūn yǐhòu, nǐ hé fùmǔ huì <em>yīqǐ</em> zhù ma? </span><span class="trans">Will you live together with your parents after you get married? </span>
+* 今天 晚上 老板 要 和 我们 <em>一起</em> 加班。<span class="pinyin">Jīntiān wǎnshang, lǎobǎn yào hé wǒmen <em>yīqǐ</em> jiābān.</span><span class="trans">Tonight the boss is going to to work overtime together with us.</span>
+
+</div>
+
+==See also==
+*[[Using "gen"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|84, p88}} 
+{{Source|Basic Patterns of Chinese Grammar|74-5}} 
+{{Source|Chinese: An Essential Grammar, Second Edition|14-5}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|一起|A2|一起 + Verb|我们 <em>一起</em> 去 吧！要 不 要 <em>一起</em> 吃饭？|grammar point|ASGNVE15}}
+{{Similar|Expressing "with" with "gen"}}
+{{POS|Verbs}}
+{{Subprop|Verb phrases}}
+{{Translation|together}}

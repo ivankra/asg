@@ -1,0 +1,113 @@
+<!-- Expressing "with" with "gen" -->
+{{Grammar Box}} 
+
+Using 跟 (gēn) to express "with" is so simple and helpful, after studying it briefly, it will always be ''with'' you! 跟 (gēn) is a very common word that will help complete many other sentence structures. 
+
+== Structure ==
+
+The preposition 跟 (gēn) is commonly used to express "with."  Just remember that the "with" phrase comes ''before the verb''.
+
+<div class="jiegou">
+Subj. + 跟 + Person + Verb + Obj.
+</div>
+
+The word 一起 (yīqǐ) is used a lot with 跟 (gēn), expressing the idea of "doing something ''together with'' somebody." It may seem kind of redundant, but it's totally normal in Chinese to use both.
+
+Also, for most of the examples below, 跟 (gēn) is interchangeable with 和 (hé), which you may remember,  also means "[[and]]," just like 跟 (gēn) does.
+
+<div class="jiegou">
+Subj. + 跟 + Person + 一起 + Verb + Obj.
+</div>
+
+Certain Chinese [[verb]]s use 跟 (gēn) a lot, so be on the lookout for them (examples below)!
+
+== Examples ==
+
+<div class="liju">
+
+*我 昨天 <em>跟</em> 朋友 <strong>去</strong> 海滩 了。<span class="pinyin">Wǒ zuótiān <em>gēn</em> péngyou <strong> qù </strong> hǎitān le.</span><span class="trans">I went to the beach with friends yesterday.</span>
+*不要 <em>跟</em> 我 <strong>说话</strong>！<span class="pinyin">Bùyào <em>gēn</em> wǒ <strong>shuōhuà</strong>!</span><span class="trans">Don't talk to me!</span>
+*我 明天 要 <em>跟</em> 新 客户 <strong>见面</strong>。<span class="pinyin">Wǒ míngtiān yào <em>gēn</em> xīn kèhù <strong>jiànmiàn</strong>.</span><span class="trans">I'm going to meet new clients tomorrow.</span>
+*你 什么 时候 <em>跟</em> 你 女朋友 <strong>结婚</strong>？<span class="pinyin">Nǐ shénme shíhou <em>gēn</em> nǐ nǚpéngyou <strong>jiéhūn</strong>?</span><span class="trans">When are you gonna marry your girlfriend?</span>
+*你 喜欢 <em>跟</em> 你 父母 <strong>聊天</strong> 吗？ <span class="pinyin">Nǐ xǐhuan <em>gēn</em> nǐ fùmǔ <strong>liáotiān</strong> ma?</span><span class="trans">Do you like to talk with your parents?</span>
+*你 想 <em>跟</em>我 <strong>一起 去</strong> 吗？ <span class="pinyin">Nǐ xiǎng <em>gēn</em> wǒ <strong>yīqǐ qù</strong> ma?</span><span class="trans">Do you want to go with me?</span>
+*请 你们 <em>跟</em> 老师 <strong>一起 读</strong>。<span class="pinyin">Qǐng nǐmen  <em>gēn</em> lǎoshī <strong>yīqǐ dú</strong>.</span><span class="trans">Please read together with the teacher.</span>
+*下 周 谁 <em>跟</em>老板 <strong>一起 出差</strong>？<span class="pinyin">Xià zhōu  shéi <em>gēn</em> lǎobǎn <strong>yīqǐ chūchāi</strong>?</span><span class="trans">Who is going on a business trip together with the boss next week?</span>
+*结婚 以后，你 想 <em>跟</em> 父母 <strong>一起 住</strong> 吗？<span class="pinyin">Jiéhūn yǐhòu, nǐ xiǎng <em>gēn</em> fùmǔ <strong>yīqǐ zhù</strong> ma?</span><span class="trans">Do you want live together with your parents after you get married?</span>
+*今年 中秋节 你 会 <em>跟</em> 家人<strong> 一起 过 </strong> 吗？<span class="pinyin">Jīnnián Zhōngqiūjié nǐ huì <em>gēn</em> jiārén <strong>yīqǐ guò</strong> ma?</span><span class="trans"> Are you going to spend this Mid-Autumn Festival with your family?</span>
+
+</div>
+
+'''Note:''' One of the most common beginner mistakes is to fail to use 跟 (gēn) with 见面 (jiànmiàn), "to meet." It might help to think of 见面 (jiànmiàn) as "to meet ''with'' (somebody)," the "with" cluing you into the fact that you need a 跟 (gēn) in there. The verbs 结婚 (jiéhūn), "to marry," and 聊天 (liáotiān), "to chat" are used with 跟 (gēn) in the exact same way.
+
+Check out the examples below:
+
+<div class="liju">
+
+<ul>
+<li class="x">我 要 <strong>见面</strong> 你。<span class="pinyin">Wǒ yào <strong>jiànmiàn </strong> nǐ.</span></li>
+<li class="o">我 要 <em>跟</em> 你 <strong>见面</strong>。<span class="pinyin">Wǒ yào <em>gēn</em> nǐ <strong>jiànmiàn</strong>.</span><span class="trans">I want to meet with you.</span></li>
+<li class="x">我 昨天 <strong>见面</strong> 他 了。<span class="pinyin">Wǒ zuótiān <strong>jiànmiàn</strong> tā le.</span></li>
+<li class="o">我 昨天 <em>跟</em> 他 <strong>见面</strong> 了。<span class="pinyin">Wǒ zuótiān <em>gēn</em> tā <strong>jiànmiàn</strong> le.</span><span class="trans">I met with him yesterday.</span></li>
+<li class="x">你 什么时候 <strong>见面</strong> 她 ？<span class="pinyin">Nǐ shénme shíhou <strong>jiànmiàn</strong> tā?</span></li>
+<li class="o">你 什么时候 <em>跟</em> 她 <strong>见面</strong> ？<span class="pinyin">Nǐ shénme shíhou <em>gēn</em> tā <strong>jiànmiàn</strong>? </span><span class="trans">When are you going to meet with her?</span></li>
+<li class="x">明天 我 要 <strong>见面</strong> 我 男朋友 的 家人。<span class="pinyin">Míngtiān wǒ yào <strong>jiànmiàn</strong> wǒ nánpéngyou de jiārén.</span></li>
+<li class="o">明天 我 要 <em>跟</em> 我 男朋友 的 家人 <strong>见面</strong>。<span class="pinyin">Míngtiān wǒ yào <em>gēn</em> wǒ nánpéngyou de jiārén <strong>jiànmiàn</strong>.</span><span class="trans">Tomorrow I am going to meet my boyfriend's family.</span></li>
+<li class="x">你 有没有 <strong>见面</strong> 过 Obama?<span class="pinyin">Nǐ yǒu méiyǒu <strong>jiànmiàn</strong> guo Obama?</span></li>
+<li class="o">你 有没有 <em>跟</em> Obama <strong>见 过 面</strong>？<span class="pinyin">Nǐ yǒu méiyǒu <em>gēn</em> Obama <strong>jiàn guo miàn</strong>?</span><span class="trans">Have you ever met Obama?</span></li>
+</ul>
+
+</div>
+
+Later on you'll learn more about [[separable verb|why this is the case]], but for now just memorize the correct pattern.
+
+== Where 和 (hé) and 跟 (gēn) Differ ==
+
+We mentioned earlier that 跟 (gēn) is essentially interchangeable with 和 (hé).  There's at least one common usage where this is not the case, though:
+
+<div class="liju">
+
+<ul>
+<li class="x"><strong>和</strong> 我 读 。<span class="pinyin"><strong>Hé</strong> wǒ dú.</span></li>
+<li class="o"><em>跟</em> 我 读 。<span class="pinyin"><em>Gēn</em> wǒ dú.</span><span class="trans">Read after me.</span></li>
+</ul>
+
+</div>
+
+The reason is that although 跟 (gēn) and 和 (hé) can both mean "and" or "with," the word 跟 (gēn) also has a sense of "to follow" embedded in it. There's a before/after aspect.
+
+The following sentences are both correct, because they're simultaneous rather than before/after:
+
+<div class="liju">
+
+<ul>
+<li class="o"><strong>和</strong> 我 <strong>一起</strong> 读。<span class="pinyin"><strong>Hé</strong> wǒ <strong>yīqǐ</strong> dú.</span></li>
+<li class="o"><em>跟</em> 我 <strong>一起</strong> 读。<span class="pinyin"><em>Gēn</em> wǒ <strong>yīqǐ</strong> dú.</span><span class="trans">Read with me.</span></li>
+</ul>
+
+</div>
+
+Because of this slight difference between 跟 (gēn) and 和 (hé), it's recommended to start out using 跟 (gēn) to mean "with."
+
+==See also==
+
+*[[Expressing "together" with "yiqi"]]
+*[[Verbs with "gei"]]
+*[[Using "dui"]]
+*[[Expressing "and" with "he"]]
+
+== Sources and  further reading ==
+
+=== Books ===
+
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide]] |84-88}} 
+{{Source|Integrated Chinese: Level 1, Part 1]] |166-167}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|跟|A2|跟⋯⋯ + Verb|你 要 <em>跟</em> 我 一起 去 吗？|grammar point|ASGSZ0HP}}
+{{Similar|Expressing "together" with "yiqi"}}
+{{Similar|Comparing "gen" and "dui"}}
+{{POS|Conjunctions}}
+{{Translation|with}}
+{{Translation|together}}

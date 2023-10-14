@@ -1,0 +1,76 @@
+<!-- Sentence-final interjection "a" -->
+{{Grammar Box}} 
+The interjection 啊 (a) is often added to the end of sentences to add a tone of urgency, exclamation or excitement. However, the exact meaning often  depends on context.
+
+==啊 (a) Expressing Exclamation==
+
+When used like this, 啊 (a) is placed at the end of a statement and has a tone of exclamation, excitement or enthusiasm.  (In a lot of cases, the only English "translation" you can offer is an exclamation point.)
+
+=== Examples ===
+
+<div class="liju">
+
+* 对 <em>啊</em> ！<span class="expl">Banging fist on table...</span><span class="pinyin">Duì <em>a</em>! </span><span class="trans">You're right!</span>
+* 这里 好 漂亮 <em>啊</em> ！<span class="pinyin">Zhèlǐ hǎo piàoliang <em>a</em>!</span><span class="trans">This place is so pretty! </span>
+* 你 家 真 大 <em>啊</em> ！<span class="pinyin">Nǐ jiā zhēn dà <em>a</em>! </span><span class="trans">Your house is so big.</span>
+* 学 中文 真 难 <em>啊</em> ！<span class="pinyin">Xué Zhōngwén zhēn nán <em>a</em>! </span><span class="trans">Learning Chinese is so hard!</span>
+* 好 香 <em>啊</em> ！什么东西 ？ <span class="pinyin">Hǎo xiāng <em>a</em>!  Shénme dōngxi? </span><span class="trans">It smells great! What is it? </span>
+
+</div>
+
+==啊 (a) Expressing Certainty or Urgency==
+
+啊 (a) can also add a sense of certainty or urgency to a statement, sometimes with the feeling of an order.
+
+=== Examples ===
+
+<div class="liju">
+
+* 是 <em>啊</em> ，我 也 觉得 ！<span class="pinyin">Shì <em>a</em>, wǒ yě juéde! </span><span class="trans">Definitely, I think so too! </span>
+* 行 <em>啊</em> ！<span class="pinyin">Xíng <em>a</em>!</span><span class="trans">All right! </span>
+* 可以 <em>啊</em> ！<span class="pinyin">Kěyǐ <em>a</em>! </span><span class="trans">It's fine!</span>
+* 小心 <em>啊</em> ！<span class="pinyin">Xiǎoxīn <em>a</em>! </span><span class="trans">Be careful!</span>
+* 吃 <em>啊</em> ！<span class="pinyin">Chī <em>a</em>! </span><span class="trans">Eat some! </span>
+
+</div>
+
+==啊 (a) Used in Questions==
+
+Finally, it can be used with questions, again with a sense of urgency or concern for the listener.
+
+=== Examples ===
+
+<div class="liju">
+
+* 你 走 不 走 <em>啊</em> ？ <span class="pinyin">Nǐ zǒu bu zǒu <em>a</em>? </span><span class="trans">Are you going or what? </span>
+* 你 吃 不 吃 <em>啊</em> ？<span class="pinyin">Nǐ  chī bu chī <em>a</em>? </span><span class="trans">Are you eating or not? </span>
+* 谁 说 的 <em>啊</em> ？<span class="pinyin">Shéi shuō de <em>a</em>? </span><span class="trans">Who said so? </span>
+* 你 傻 <em>啊</em> ？<span class="pinyin">Nǐ shǎ <em>a</em>? </span><span class="trans">What are you, stupid? </span>
+* 看 什么 <em>啊</em> ？没 见 过 漂亮 姑娘 <em>啊</em> ？ <span class="pinyin">Kàn shénme <em>a</em>?  Méi jiàn guo piàoliang gūniang <em>a</em>?</span><span class="trans">What are you looking at? Have you never seen a pretty girl before? </span>
+
+</div>
+
+==See also==
+
+*[[Questions with ne]]
+*[[Suggestions with ba]]
+*[[Listing Things with "a"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|107}}
+{{Source|A Practical Chinese Grammar For Foreigners (外国人实用汉语语法)|142-3}}
+{{Source|Integrated Chinese: Level 2, Part 2|51-4}}
+
+[[Category: A2 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+[[Category: Particles ]]
+{{Basic Grammar|啊|A2|⋯⋯啊|是 <em>啊</em>！谁 <em>啊</em>？|grammar point|ASGW66JM}}
+{{Similar|Questions with ne}}
+{{Similar|Suggestions with ba}} 
+{{Similar|Listing Things with "a"}}
+{{Used for|Expressing attitude}}
+{{Used for|Exclaiming}}
+{{POS|Particles}}

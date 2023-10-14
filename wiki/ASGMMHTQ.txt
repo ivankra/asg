@@ -1,0 +1,103 @@
+<!-- Verbs followed by "gei" -->
+{{Grammar Box}}
+
+Although it's standard practice to put a word or phrase that modifies a verb ''before'' the verb, there are, of course, exceptions. [[给]] (gěi) is one of those exceptions; [[Verbs preceded by "gei"|it sometimes comes before the verb]] and sometimes after. This article is about when it comes after.
+
+== Basic Pattern ==
+
+=== Structure ===
+
+Note that the verbs that fit into this pattern are normally single-syllable verbs.
+
+<div class="jiegou">
+Subj. + Verb + 给 + Recipient + Obj.
+</div>
+
+or
+
+<div class="jiegou">
+Obj. + Subj. + Verb + 给 + Recipient
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*昨天 有 人 <em>送 给</em> 我 一 束 花 。<span class="pinyin">Zuótiān  yǒu rén <em>sòng gěi</em> wǒ yī shù huā.</span><span class="trans">Yesterday someone gave me a bouquet of flowers.</span>
+*请 <em>递 给</em> 我 一 盒 纸巾 。<span class="pinyin">Qǐng <em>dì gěi</em> wǒ yī hé zhǐjīn.</span><span class="trans">Please pass me a box of tissues.</span>
+*这是 我们 <em>送 给</em> 你的 生日 礼物 。<span class="pinyin">Zhè shì wǒmen <em>sòng gěi</em> nǐ de shēngrì lǐwù.</span><span class="trans">This is your birthday present from us.</span>
+*这 本 书 是 谁 <em>借 给</em> 你 的 ？<span class="pinyin">Zhè běn shū shì shéi <em>jiè gěi</em> nǐ de?</span><span class="trans">Who lent you this book?</span>
+*邮件 我 已经 <em>发 给</em> 你 了 。<span class="pinyin">Yóujiàn wǒ yǐjīng <em>fā gěi</em> nǐ le.</span><span class="trans">I sent you that email already.</span>
+
+</div>
+
+== Advanced Pattern ==
+
+=== Structure ===
+
+Additionally, you can [[Using "ba" sentences|add 把]] into this structure. This does not change the meaning of the sentence and when used in context can even add emphasis to what's being done and given. 
+
+<div class="jiegou">
+Subj. + 把 + Obj. + Verb + 给 + Recipient
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*你 想 <strong>把</strong> 这个 礼物 <em>送 给</em> 谁 ？<span class="pinyin">Nǐ xiǎng <strong>bǎ</strong> zhège lǐwù <em>sòng gěi</em> shéi?</span><span class="trans">Who are you going to give this present to?</span>
+*请 <strong>把</strong> 那些 照片 都 <em>发 给</em> 我 。<span class="pinyin">Qǐng <strong>bǎ</strong> nàxiē zhàopiàn dōu <em>fā gěi</em> wǒ.</span><span class="trans">Please send all of those pictures to me.</span>
+*我 已经 <strong>把</strong> 车 <em>卖 给</em> 了 一 个 朋友 。<span class="pinyin">Wǒ yǐjīng <strong>bǎ</strong> chē <em>mài gěi</em> le yī gè péngyou.</span><span class="trans">I've already sold my car to a friend of mine.</span>
+*请 <strong>把</strong> 盐 <em>递 给</em> 我 ，谢谢 。<span class="pinyin">Qǐng <strong>bǎ</strong> yán <em>dì gěi</em> wǒ, xièxie.</span><span class="trans">Please pass me the salt. Thanks.</span>
+*可以 <strong>把</strong> 这 本 书 <em>借 给</em> 我 吗 ？<span class="pinyin">Kěyǐ <strong>bǎ</strong> zhè běn shū <em>jiè gěi</em> wǒ ma?</span><span class="trans">Could you please lend me this book?</span>
+
+</div>
+
+Note that the verb 嫁 (jià) cannot fit into the 把 pattern above; it's an exception.
+
+<div class="liju">
+*她 <em>嫁 给</em> 了 一 个 有钱 的 老头 。<span class="pinyin">Tā <em>jià gěi</em> le yī gè yǒuqián de lǎotóu.</span><span class="trans"> She married a rich old man. </span>
+</div>
+
+If you really want to make a 把 sentence, though, you can do it in this sexist way:
+
+<div class="liju">
+*她 爸爸 <strong>把</strong> 她 <em>嫁 给</em> 了 一 个 有钱 的 老头 。<span class="pinyin">Tā bàba <strong>bǎ</strong> tā <em>jià gěi</em> le yī gè yǒuqián de lǎotóu.</span><span class="trans"> Her father married her off to a rich old man. </span>
+</div>
+
+== Academic Debate ==
+
+Although 给 phrases should normally precede a verb like any other prepositional phrase, they sometimes come after.  Why have it both ways?  There is some academic debate over whether this 给 is actually a [[preposition]], a type of verb (often called a "co-verb"), or even a type of [[complement]].  This type of discussion is outside the scope of this article, however.
+
+== See also ==
+
+*[[Expressing "for" with "gei"]]
+*[[Verbs preceded by "gei"]]
+*[[Advanced uses of "ba"]]
+*[[Expressing "for" with "wei"]]
+*[[Expressing passive voice with "gei"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|现代汉语虚词例释|196}}
+
+=== Dictionaries ===
+
+{{Source|现代汉语词典（第5版）|464}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|给|B1|Subj. + Verb + 给 + Recipient + Obj.|他 <em>送给</em> 我 一 束 花 。|grammar point|ASGMMHTQ}}
+{{Rel char|把}}
+{{Similar|Expressing "for" with "gei"}}
+{{Similar|Verbs preceded by "gei"}}
+{{Similar|Expressing "towards" with "xiang"}}   
+{{Similar|Using "dui" with verbs}}   
+{{Similar|Advanced uses of "ba"}}
+{{Used for|Describing actions}}
+{{POS|Verbs}}
+{{Subprop|Verb phrases}}
+{{Translation|to}}
+{{Translation|give}}

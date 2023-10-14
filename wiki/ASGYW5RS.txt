@@ -1,0 +1,72 @@
+<!-- Using "cai" for small numbers -->
+{{Grammar Box}} 
+
+The character 才 (cái) can be used to emphasize that a number is small, or less than expected.
+
+== Used as a Verb ==
+
+=== Structure ===
+
+In this case, 才 means "is only" or "only have."
+
+<div class="jiegou">
+才 + Number + [Measure Word] + Noun
+</div>
+
+In English, we often express this by using "only" or "just" to emphasize that the number is small.
+
+=== Examples ===
+
+<div class="liju">
+
+*你 <em>才</em> 二十 岁 ？<span class="pinyin">Nǐ <em>cái</em> èrshí suì?</span><span class="trans">You're only twenty? </span>
+*这 个 班 <em>才</em> 两 个 学生 。 <span class="pinyin">Zhège bān <em>cái</em> liǎng gè xuéshēng.</span><span class="trans">This class only has two students.</span>
+*你 的 工资 <em>才</em> 两 千 ？<span class="expl">Probably RMB, per month</span><span class="pinyin">Nǐ de gōngzī <em>cái</em> liǎng qiān?</span><span class="trans">Your salary is only two thousand?</span>
+*这 顿 饭 <em>才</em> 二十 块 ，太 便宜 了 ！<span class="pinyin">Zhè dùn fàn <em>cái</em> èrshí kuài. Tài piányi le!</span><span class="trans">This meal only cost twenty kuai. It's too cheap!</span>
+*你 <em>才</em> 一百 斤 ，还 要 减肥 ？<span class="expl">One "jin" = 500g</span><span class="pinyin">Nǐ <em>cái</em> yī bǎi jīn, hái yào jiǎnféi?</span><span class="trans">You're only 100 jin and you still want to lose some weight?</span>
+
+</div>
+
+== Used with a Verb ==
+
+=== Structure ===
+
+<div class="jiegou">
+才 + Verb + Number + Measure Word + Noun
+</div>
+
+In this pattern, adding a 了 after the verb is optional.
+
+=== Examples ===
+
+<div class="liju">
+
+*她 <em>才</em> 来 了 两 个 月 。<span class="pinyin">Tā <em>cái</em> lái le liǎng gè yuè.</span><span class="trans">She's been here for only two months.</span>
+*这 家 店 关门 了 ？可是 它 <em>才</em> 开业 一 个 星期 。<span class="pinyin">Zhè jiā diàn guānmén le? Kěshì tā  <em>cái</em> kāiyè yī gè xīngqī.</span><span class="trans">This shop is out of business? But it's only been one week since it opened.</span>
+*已经 两 天 了 ，你 <em>才</em> 看完 一 页 ？<span class="pinyin">Yǐjīng liǎng tiān le, nǐ <em>cái</em> kàn wán yī yè?</span><span class="trans">It's been two days and you only finished reading one page?</span>
+*我们 <em>才</em> 玩 了 一会儿 ，再 玩 一会儿 吧 ？<span class="pinyin">Wǒmen <em>cái</em> wán le yīhuìr, zài wán yīhuìr ba?</span><span class="trans">We've only played for a short while. Can we play a little bit longer?</span>
+*他们 结婚 了 ？他们 <em>才</em> 认识 三 个 月 ！<span class="pinyin">Tāmen jiéhūn le? Tāmen <em>cái</em> rènshi sān gè yuè!</span><span class="trans">They got married? They've only known each other for three months!</span>
+
+</div>
+
+== See also ==
+
+*[["Just" with "jiu"]]
+*[[Comparing "cai" and "jiu"]]
+*[[Expressing lateness with "cai"]]
+
+== Sources and Further Readings ==
+
+=== Books ===
+
+{{Source|Integrated Chinese: Level 2, Part 1|302}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+[[Category: Adverbs]]
+
+{{Basic Grammar|才|B1|才 + Number + Measure Word + Noun|这 个 班 <em>才</em> 两 个 学生 。|grammar point|ASGYW5RS}}
+{{Similar|"Just" with "jiu"}}
+{{POS|Adverbs}}
+{{Used for| Expressing quantity}}
+{{Used for|Emphasizing}}

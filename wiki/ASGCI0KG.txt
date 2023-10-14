@@ -1,0 +1,67 @@
+<!-- Expressing close possession without "de" -->
+{{Grammar Box}} 
+
+[[Expressing possession with "de"|Expressing possession]] in Chinese is accomplished with the particle [[的]] (de). But sometimes when certain (especially close) relationships are involved, it's more natural to drop the 的 (de).
+
+== Structure ==
+
+<div class="jiegou">
+
+Pronoun + Noun
+
+</div>
+
+Normally [[Expressing possession with "de"|possession]] is expressed using the [[particle]] 的 (de). However, you can omit 的 (de) in these cases:
+
+* A close personal relationship is involved (family, close friends, boyfriends or girlfriends)
+* An institutional or organizational relationship is involved (school, work)
+
+In these cases 的 (de) '''should be''' omitted. It doesn't sound as natural if you leave it in.
+
+== Examples ==
+
+<div class="liju">
+
+* <em>我 家</em> 很 大。<span class="pinyin"><em>Wǒ jiā</em> hěn dà.</span><span class="trans">My house is very big.</span>
+* <em>你 哥哥</em> 很 高 。<span class="pinyin"><Em> Nǐ gēge</em> hěn gāo.</span><span class="trans">Your big brother is very tall.</span>
+* 这 是 <em>我 女朋友</em>。 <span class="pinyin">Zhè shì <em>wǒ nǚpéngyou</em>.</span><span class="trans">This is my girlfriend.</span>
+* <em>她 妈妈</em> 很 漂亮。<span class="pinyin"><Em>Tā māma</em> hěn piàoliang.</span><span class="trans">Her mom is very pretty.</span>
+* <em>我们 学校</em> 很 大 。<span class="pinyin"><Em>Wǒmen xuéxiào</em> hěn dà.</span><span class="trans">Our school is big.</span>
+* <em>他们 公司</em> 在 北京。<span class="pinyin"><Em>Tāmen gōngsī</em> zài Běijīng.</span><span class="trans">Their company is in Bejing.</span>
+* <em>你 男朋友</em> 很 帅。<span class="pinyin"><Em>Nǐ nánpéngyou</em> hěn shuài.</span><span class="trans">Your boyfriend is very handsome.</span>
+* <em>他 儿子</em> 很 有名。<span class="pinyin"><Em>Tā érzi</em> hěn yǒumíng.</span><span class="trans">His son is really famous.</span>
+* <em>我 女儿</em> 会 说 英语。<span class="pinyin"><Em>Wǒ nǚ'ér</em> huì shuō Yīngyǔ.</span><span class="trans">My daughter can speak English.</span>
+* <em>他 爸爸</em> 是 <em>我们 公司</em> 的 老板。<span class="pinyin"><Em>Tā bàba</em> shì <em>wǒmen gōngsī</em> de lǎobǎn.</span><span class="trans">His dad is the boss of our company.</span>
+
+</div>
+
+If 的 (de) was used in the above examples, it would create an unnatural sense of distance between the two.
+
+==See also==
+
+*[[Expressing possession with "de"]]
+*[[Modifying nouns with adjective + "de"]]
+*[[Modifying nouns with phrase + "de"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|24}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|76}}
+{{Source|Chinese: An Essential Grammar, Second Edition|31}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|87}}
+
+[[Category:A1 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{Used for|Expressing possession}}
+{{Basic Grammar|的|A1|Pronoun + Noun|我 女朋友|grammar point|ASGCI0KG}}
+{{Similar|Expressing possession with "de"}} 
+{{Similar|Modifying nouns with adjective + "de"}} 
+{{Similar|Modifying nouns with phrase + "de"}}  
+{{POS|Particles}}
+{{Translation|My}}
+{{Translation|His}}
+{{Translation|Her}}
+{{Translation|Their}}
+{{Translation|Our}}

@@ -1,0 +1,37 @@
+<!-- Expressing "in light of" with "jianyu" -->
+{{Grammar Box}} 
+{{Stub}}
+
+鉴于 (jiànyú) is a preposition that expresses that a certain situation has gone through previous thought and consideration. 鉴于 can be thought of as "in light of," "in view of," "seeing that," etc.
+
+== Structure ==
+
+鉴于 is used the same way as "in regards to." Just put it in the beginning of your sentence. This grammar structure is used in written or formal contexts. 
+
+<div class="jiegou">
+
+鉴于 + observation, conclusion/suggestion
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* <em>鉴于</em> 是 紧急 情况，我们 应该 尽快 做出 决定。
+* <em>鉴于</em> 我 儿子 的 成绩 不 太 好，所以 我 让 他 去 补习班。
+* <em>鉴于</em> 上周 的 恐怖 袭击 事件，当地 政府 采取 了 特殊 的 安保 措施。
+</div>
+
+==See also==
+
+*[["Due to…" with "youyu"]]
+*[[Stating the Effect before the Cause]]
+*[[Explaining results with "suoyi"]]
+*[[Cause and Effect with "yinwei" and "suoyi"]]
+
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|鉴于|C1|鉴于 + observation, conclusion/suggestion|<em>鉴于</em> 是 紧急 情况，我们 应该 尽快 做出 决定。|grammar point|ASGC1BI5}}
+{{Rel char|于}}
+{{Used for|Indicating cause and effect}}
+{{POS|Prepositions}}

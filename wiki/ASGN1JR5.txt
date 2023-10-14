@@ -1,0 +1,110 @@
+<!-- Expressing "again" in the past with "you" -->
+{{Grammar Box}} 
+
+Whenever you want to express something that has happened [[again]], as in, "oops, I did it ''again''!" in Chinese, you generally want to use 又 (yòu). (You'll want to use [[Expressing "again" in the future with "zai"|再 (zài) for "again" in the future]].)
+
+== Affirmative Form ==
+
+=== Structure ===
+
+Normally, 又 is used to express an action that has already happened again for (at least) the second time. It doesn't have to be in quick succession; it happened before, and now it's happened again.
+
+<div class="jiegou">
+(Subj. +) 又 + Verb + 了
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>又</em> 下雨 <strong>了</strong> ！<span class="pinyin"><em>Yòu</em> xiàyǔ <strong>le</strong>!</span><span class="trans">It rained again!</span>
+*你 <em>又</em> 迟到 <strong>了</strong> 。<span class="pinyin">Nǐ <em>yòu</em> chídào <strong>le</strong>.</span><span class="trans">You're late again.</span>
+*宝宝 <em>又</em> 哭 <strong>了</strong> 。<span class="pinyin">Bǎobao <em>yòu</em> kū <strong>le</strong>.</span><span class="trans">The baby is crying again.</span>
+*我 <em>又</em>  忘 <strong>了</strong> 。<span class="pinyin">Wǒ <em>yòu</em> wàng <strong>le</strong>.</span><span class="trans">I forgot again.</span>
+
+</div>
+
+== Negative Form ==
+
+=== Structure ===
+
+<div class="jiegou">
+(Subj. +) 又 + 不 / 没 + Verb
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*他 <em>又</em> <strong>没</strong> 来 上课 。<span class="pinyin">Tā <em>yòu</em> <strong>méi</strong> lái shàngkè.</span><span class="trans">He didn't come to class again.</span>
+*你们 <em>又</em> <strong>不</strong> 付钱 ？<span class="pinyin">Nǐmen <em>yòu</em> <strong>bù</strong> fùqián?</span><span class="trans">You're not paying again?</span>
+*你 <em>又</em> <strong>不</strong> 参加 ？<span class="pinyin">Nǐ <em>yòu</em> <strong>bù</strong> cānjiā?</span><span class="trans">You are not going to participate again?</span>
+*对不起 ，我 <em>又</em> <strong>没</strong> 带 书 。<span class="pinyin">Duìbuqǐ, wǒ <em>yòu</em> <strong>méi</strong> dài shū.</span><span class="trans">Sorry, I forgot to bring the book again.</span>
+
+</div>
+
+== Colloquial Saying 又来了 ==
+
+又来了 fits the above pattern, but is also a little tricky because it expresses something that is still ongoing, and has already started as the speaker is speaking. Literally it means "here it comes again," but it's more accurate to translate it as "there it is again," or "there [he] goes again." It indicates that the speaker is a bit annoyed that it happened ''again''.
+
+== Other Usage ==
+
+When it becomes clear that something is about to happen again, you can also use 又. It's almost as if it has already happened in your mind. In these cases, it's quite common for 又 to be immediately followed by 是 (shì), 要 (yào), 可以 (kěyǐ), or 能 (néng), and you'll notice that there's often a [[About to happen with "le"|了, indicating that something is about to happen]].
+
+Some examples:
+
+<div class="liju">
+
+*今天 <em>又</em> <strong>要</strong> 加班 <strong>了</strong> ！<span class="pinyin">Jīntiān <em>yòu</em> <strong>yào</strong> jiābān <strong>le</strong>!</span><span class="trans">We've got to work overtime again today!</span>
+*老板 请客 ，<em>又</em> <strong>可以</strong> 吃 大餐 <strong>了</strong> ！<span class="pinyin">Lǎobǎn qǐngkè, <em>yòu</em> <strong>kěyǐ</strong> chī dàcān <strong>le</strong>!</span><span class="trans">The boss is going to treat us. We can have a big meal again!</span>
+*快 过年 了 ，我们 <em>又</em> <strong>能</strong> 拿 红包 <strong>了</strong> ！<span class="pinyin">Kuài guònián le, wǒmen <em>yòu</em> <strong>néng</strong> ná hóngbāo <strong>le</strong>!</span><span class="trans">It's almost Chinese New Year. We can get our red packets [of money] again!</span>
+
+</div>
+
+== See also ==
+
+*[["Both A and B" with "you"]]
+*[[Comparing "zai" and "you"]]
+*[["Both… and…" with "ji...you"]]
+* [[Advanced use of "you"]]
+*[[Emphasizing negation with "you"]]
+*[[Expressing "again" in the future with "zai"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|141-2}}
+{{Source|Integrated Chinese: Level 2, Part 1|157}}
+{{Source|Integrated Chinese: Level 2, Part 2|288}}
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|202}} 
+{{Source|现代汉语八百词（增订本）|633}}
+{{Source|现代汉语虚词例释|588}}
+
+=== Dictionaries ===
+
+{{Source|现代汉语八百词（增订本）|633}}
+{{Source|现代汉语虚词例释|588}}
+{{Source|现代汉语词典（第5版）|1656}}
+
+=== Websites ===
+
+* Yale Chinese Usage Dictionary: [http://comet.cls.yale.edu/chineseusagedictionary/0212.html Using 再 and 又]
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+[[Category: Adverbs]]
+
+{{Basic Grammar|又|B1|又 + Verb + 了|你 <em>又</em> 迟到 <strong>了</strong> 。|grammar point|ASGN1JR5}}
+{{Rel char|了}}
+{{Similar|Comparing "zai" and "you"}}
+{{Used for|Expressing time and date}}
+{{Used for|Referring to the past}}
+{{Similar|Expressing "again" in the future with "zai"}}
+{{Similar|Comparing "zai" and "you"}}
+{{Similar|Emphasizing negation with "you"}}
+{{Similar|Sequencing with "xian" and "zai"}}
+{{Similar|Doing Something Over and Over with "zaisan"}}
+{{Similar|Repeated actions in the past with "you"}}
+{{POS|Adverbs}}
+{{Translation|again}}

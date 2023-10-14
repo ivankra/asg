@@ -1,0 +1,60 @@
+<!-- Comparing "yizhi" and "yixiang" -->
+{{Grammar Box}} 
+Both 一直 (yīzhí) and 一向 (yīxiàng) mean something close to "all along," and deal with continuous actions. However, their uses are subtly different, and they are a pair of words that are often confused (and tested on!).
+
+== 一直 ==
+
+一直 means "straight" or "constantly" and it has the sense of doing something continuously "since a certain time." This means that something may have occurred, and then 一直 can be used with the action or habit since that point. It's important to note that this point in time doesn't necessarily have to be in the past, so 一直 can be used to say something "will happen repeatedly" in the future.
+
+=== Examples ===
+
+<div class="liju">
+
+*我 会 <em>一直</em> 陪着 你。<span class="pinyin">Wǒ huì <em>yīzhí</em> péizhe nǐ.</span><span class="trans">I will always be with you.</span>
+*雨 <em>一直</em> 在 下，我 没 办法 出去。<span class="pinyin">Yǔ <em>yīzhí</em> zàixià, wǒ méi bànfǎ chūqù.</span><span class="trans">It's constantly raining, I have no way to go out.</span>
+*<em>一直</em> 往前 走，你 会 看到 地铁站 在你 右边。<span class="pinyin"><em>Yīzhí</em> wǎng qián zǒu, nǐ huì kàn dào dìtiě zhàn zài nǐ yòubiān.</span><span class="trans">Keep walking ahead, you will see the subway station on your right.</span>
+*我 看书 的 时候 ，他 <em>一直</em> 在 说话 ，很 烦 。<span class="pinyin">Wǒ kànshū de shíhou, tā <em>yīzhí</em> zài shuōhuà, hěn fán.</span><span class="trans">He kept talking while I was reading. It was annoying.</span>
+*他 毕业 以后 <em>一直</em> 没有 找到 真正 喜欢 的 工作。<span class="pinyin">Tā bìyè yǐhòu <em>yīzhí</em> méiyǒu zhǎodào zhēnzhèng xǐhuan de gōngzuò.</span><span class="trans">He hasn't found a job that he really enjoys ever since graduating from college.</span>
+
+</div>
+
+== 一向 ==
+
+一向 does not have a starting point in time specified like 一直 does. Instead, it means that things have ''always'' been like they are. In this way, it is more like a habit. Furthermore, it is often used to express a habit or event that you ''don't like'', and can also be used in conjunction with 不.
+
+=== Examples ===
+
+<div class="liju">
+*他 <em>一向</em> 不 迟到 ，怎么 今天 还 没 到 ？<span class="pinyin">Tā <em>yīxiàng</em> bù chídào, zěnme jīntiān hái méi dào?</span><span class="trans">He never comes late. How is it that he hasn't come yet today?</span>
+*你 知道 妈妈 <em>一向</em> 不 爱 出门，所以 她 是 不 会 跟 我们 去 旅行 的。<span class="pinyin">Nǐ zhīdào māma <em>yīxiàng</em> bù ài chūmén, suǒyǐ tā shì bù huì gēn wǒmen qù lǚxíng de.</span><span class="trans">You know mom has never liked going out, so she is not going to go on the trip with us.</span>
+*她 这 个 人 <em>一向</em> 喜欢 炫耀，很 讨厌。<span class="pinyin">Tā zhège rén <em>yīxiàng</em> xǐhuan xuànyào, hěn tǎoyàn.</span><span class="trans">She has always liked showing off. She's horrible.</span>
+*我 这个 朋友 <em>一向</em> 都 很 大方，今天 肯定 是 他 请客 。<span class="pinyin">Wǒ zhège péngyǒu <em>yīxiàng</em> dōu hěn dàfang, jīntiān kěndìng shì tā qǐngkè.</span><span class="trans">This friend of mine has always been very generous, so today he's definitely paying.</span>
+*我 <em>一向</em> 不 在乎 这样 的 事情。<span class="pinyin">Wǒ <em>yīxiàng</em> bù zàihu zhèyàng de shìqing.</span><span class="trans">I have never cared about such things.</span>
+</div>
+
+However, 一向 also can’t affect words that indicate some change (as this wouldn’t be a habit), nor can it talk about constant future actions. For both of these cases, 一直 should be used instead.
+
+== See also ==
+
+*[["All along" with "yizhi"]]
+*[["Since the beginning" with "yixiang"]]
+
+== Sources and Further Reading ==
+
+=== Books ===
+
+{{Source|Integrated Chinese: Level 2, Part 2|224-5}}
+
+[[Category:grammar comparison]]
+{{Basic Grammar|一直|C1|一直 vs. 一向|我 <em>一直</em> 在 现在 的 公司 工作 。他 <em>一向</em> 不 迟到 。|grammar point|ASGVEP8S}}
+{{Rel char|一向}}
+{{Similar|"Always" with "zongshi"}}   
+{{Similar|"Since the beginning" with "yixiang"}}
+{{Similar|"All along" with "yizhi"}}
+{{Used for|Expressing time and date}}
+{{Used for|Expressing frequency}}
+{{Used for|Describing actions}}
+{{Used for|Referring to habitual actions}}
+{{Translation|always}}
+{{Translation|all along}}
+{{Comparison|Adverbs}}

@@ -1,0 +1,61 @@
+<!-- Expressing "for" with "gei" -->
+{{Grammar Box}}
+
+The preposition 给 (gěi) can mean "for," as in, "everything I do, I do it ''for'' you." You can also think of it as meaning "give," like to give a service or to give something to someone. In this case, the default position of the character is before the verb, although it sometimes comes after, depending on the verb.
+
+== Structure ==
+
+The meaning of 给 is very similar to [[为]] (wèi) in Chinese, but 给 is more informal than 为, and there are many cases where it's simply based on convention and general practice to decide to use one or the other.
+
+<div class="jiegou">
+Subj. + 给 + Recipient + [Verb Phrase]
+</div>
+
+Note that the "recipient" in the pattern above is usually a person but isn't necessarily a person. It could be an animal, company, or any number of other types of recipients.
+
+== Examples ==
+
+<div class="liju">
+
+*<em>给</em> 客人 <strong>倒茶</strong> 。<span class="pinyin"><em>Gěi</em> kèrén <strong>dàochá</strong>.</span><span class="trans">Pour tea for the guests.</span>
+*妈妈 在 <em>给</em> 孩子 们 <strong>做饭</strong> 。<span class="pinyin">Māma zài <em>gěi</em> háizi men <strong>zuòfàn</strong>.</span><span class="trans">Mom cooks for the kids.</span>
+*我 儿子 喜欢 <em>给</em> 小狗 <strong>洗澡</strong> 。<span class="pinyin">Wǒ érzi xǐhuan <em>gěi</em> xiǎogǒu <strong>xǐzǎo</strong>.</span><span class="trans">My son likes giving our dog a bath.</span>
+*请 <em>给</em> 我 <strong>拿</strong>  一 双 筷子 。<span class="pinyin">Qǐng <em>gěi</em> wǒ <strong>ná</strong>  yī shuāng kuàizi.</span><span class="trans">Please get a pair of chopsticks for me.</span>
+*可以 <em>给</em> 我 <strong>买</strong> 一 杯 咖啡 吗 ？<span class="pinyin">Kěyǐ <em>gěi</em> wǒ <strong>mǎi</strong> yī bēi kāfēi ma?</span><span class="trans">Could you buy me a cup of coffee?</span>
+*可以 <em>给</em> 我 <strong>拿 一下</strong> 行李 吗 ？<span class="pinyin">Kěyǐ <em>gěi</em> wǒ <strong>ná yīxià</strong> xíngli ma?</span><span class="trans">Can you take my luggage for me?</span>
+*这个 周末 我们 <em>给</em> 儿子 <strong>开 生日 派对</strong> 。<span class="pinyin">Zhège zhōumò wǒmen <em>gěi</em> érzi <strong>kāi shēngrì pàiduì</strong>.</span><span class="trans">We're going to hold a birthday party for our son this weekend.</span>
+*我 没 带 钥匙 ，你 能 <em>给</em> 我 <strong>开 一下 门</strong> 吗 ？<span class="pinyin">Wǒ méi dài yàoshi, nǐ néng <em>gěi</em> wǒ <strong>kāi yīxià mén</strong> ma?</span><span class="trans">I didn't bring the key. Could you open the door for me?</span>
+*你 想 <em>给</em> 我 <strong>打扫</strong> 房间 吗 ？<span class="pinyin">Nǐ xiǎng <em>gěi</em> wǒ <strong>dǎsǎo</strong> fángjiān ma?</span><span class="trans">Would you like to clean the room for me? </span>
+*如果 你 来 中国 玩 ，我 <em>给</em> 你 <strong>当 导游</strong> 。<span class="pinyin">Rúguǒ nǐ lái Zhōngguó wán, wǒ <em>gěi</em> nǐ <strong>dāng dǎoyóu</strong>.</span><span class="trans">If you come visit China, I'll be your tour guide.</span>
+
+</div>
+
+== See also ==
+
+* [[Expressing "with" with "gen"]]
+* [[Verbs preceded by "gei"]]
+* [[Using "dui"]]
+* [[Expressing "for" with "wei"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|现代汉语虚词例释|196}}
+
+=== Dictionaries ===
+
+{{Source|现代汉语词典（第5版）|464}}
+
+
+[[Category:B1 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|给|B1|Subj. + 给 + Recipient + Verb Phrase|妈妈 在 <em>给</em> 孩子 们 做饭 。|grammar point|ASGLHAV3}}
+{{Similar|Using "dui"}}
+{{Similar|Verbs followed by "gei"}}
+{{Similar|Verbs preceded by "gei"}}
+{{Similar|Expressing "for" with "wei"}}
+{{Similar|Comparing "gei" and "wei"}} 
+{{Used for|Expressing Purpose}}
+{{POS|Prepositions}}
+{{Translation|for}}

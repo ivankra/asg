@@ -1,0 +1,63 @@
+<!-- Expressing "as expected" with "guoran" -->
+{{Grammar Box}} 
+
+You can add the adverb 果然 (guǒrán) to add the sense that what you're about to say is entirely expected. It's kind of like starting a sentence with "just as we thought" or "just as we expected," but it's just one word in Chinese. It's kind of like the opposite of [[竟然]] or [[居然]].
+
+== Used before Predicate ==
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 果然 + Predicate
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*第一名 <em>果然</em> 是 她 ！我 就 知道 。<span class="trans">She won the first prize! I knew it.</span>
+*大厨 做 的 菜 <em>果然</em> 不一样 ！好吃 ！<span class="trans">The food that the chef cooked is extraordinary! Delicious!</span>
+*你 说 得 没错 ！他 <em>果然</em> 是 个 骗子 ！<span class="trans">You were right. He's absolutely a liar!</span>
+*这个 止疼药 <em>果然</em> 有效 ，我的 头疼  好多了 。<span class="trans">This painkiller works really well. My headache is gone.</span>
+
+</div>
+
+== Used as before a Clause ==
+
+果然 can also come before a full independent clause. In this case, it is usually preceded by a comma.
+
+=== Structure ===
+
+<div class="jiegou">
+Clause 1 ，果然 ，Clause 2
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*司机 师傅 说 马上 到 ，<em>果然</em> ，两分钟 以后 车 就 来 了 。<span class="trans">The taxi driver said he would be here very soon. His car got here in only two minutes.</span>
+*他 让 我 别 担心 ，<em>果然</em> ，他 很快 修好 了 我们 的 网络 。<span class="trans">He told me not to worry about it. He fixed out internet very soon.</span>
+</div>
+
+== Colloquial Sayings ==
+
+* 果然如此 
+* 果然不出所料
+
+<div class="liju">
+*天气 预报 说 今早 要 下 大雨 ，<em>果然</em> <strong>如此</strong> ！<span class="trans">It rained heavily this morning as the weather forecast said.</span>
+*<em>果然</em> <strong>不出所料</strong> ，内奸 就是 他 ！<span class="trans">He is the mole, as I expected.</span>
+</div>
+
+== See also ==
+
+*[[Expressing the unexpected with "jingran"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|果然|C1|果然 + Predicate|第一名 <em>果然</em> 是 她 ！我 就 知道 。|grammar point|ASGC11D0}}
+{{Used for|Expressing attitude}}
+{{POS|Adverbs}}

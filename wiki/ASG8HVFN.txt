@@ -1,0 +1,72 @@
+<!-- Expressing "excessively" with "tai" -->
+{{Grammar Box}} 
+In Chinese, the simplest structure for expressing "too" in the sense of "excessively" is by using the word 太 (tài). Don't forget to also add 了 (le) after the adjective to keep your Chinese sounding natural.
+
+== Structure ==
+
+<div class="jiegou">
+
+太 + Adj. + 了
+
+</div>
+
+As in English, this can express that something really is excessive (often as a complaint), or can also colloquially express the meaning of "so" or "very."
+
+== Examples ==
+
+The following examples sound a little bit like a complaint, or a reason for not doing something. They're similar to how we would use "too" in English, and the translations are straightforward.
+
+<div class="liju">
+
+*米饭 <em>太</em> 多 <em>了</em> 。<span class="pinyin">Mǐfàn <em>tài</em> duō <em>le</em>.</span><span class="trans">There is too much rice.</span>
+*现在 <em>太</em> 晚 <em>了</em> 。 <span class="pinyin">Xiànzài <em>tài</em> wǎn <em>le</em>.</span><span class="trans">Now it's too late.</span>
+*老板 <em>太</em> 忙 <em>了</em> 。 <span class="pinyin">Lǎobǎn <em>tài</em> máng <em>le</em>.</span><span class="trans">The boss is too busy.</span>
+*老师 <em>太</em> 累 <em>了</em> 。 <span class="pinyin">Lǎoshī <em>tài</em> lèi <em>le</em>.</span><span class="trans">The teacher is too tired.</span>
+*这个 厕所 <em>太</em> 脏 <em>了</em> 。 <span class="pinyin">Zhège cèsuǒ <em>tài</em> zāng <em>le</em>.</span><span class="trans">This restroom is too dirty.</span>
+
+</div>
+
+In the following examples, the same exact pattern is used to exclaim how ''good'' something is, so these uses are totally ''not'' complaints. The English translations have to get a little more creative to express the same feeling in English.
+
+<div class="liju">
+
+* 你 <em>太</em> 好 <em>了</em> 。 <span class="pinyin">Nǐ <em>tài</em> hǎo <em>le</em>.</span><span class="trans">You are so great.</span>
+* 他 <em>太</em> 帅 <em>了</em> 。 <span class="pinyin">Tā <em>tài</em> shuài <em>le</em>.</span><span class="trans">He is very handsome.</span>
+* 这 个 女孩 <em>太</em> 漂亮 <em>了</em> 。 <span class="pinyin">Zhège nǚhái <em>tài</em> piàoliang <em>le</em>.</span><span class="trans">This girl is so pretty.</span>
+* 小猫 <em>太</em> 可爱 <em>了</em> ！ <span class="pinyin">Xiǎomāo <em>tài</em> kě'ài <em>le</em>!</span><span class="trans">The kitten is so cute!</span>
+* 你 的 孩子 <em>太</em> 聪明 <em>了</em> 。 <span class="pinyin">Nǐ de háizi <em>tài</em> cōngming <em>le</em>.</span><span class="trans">Your kid is wicked smart.</span>
+
+</div>
+
+Note for the more advanced learner: This pattern can be used with [[Auxiliary verbs|modal verbs]] (e.g. 会 (huì), 能 (néng)) as well as psychological verbs (e.g. 喜欢 (xǐhuan), 想 (xiǎng), 爱 (ài)) to intensify the degree.
+
+== See also ==
+
+* [["Not very" with "bu tai"]]
+* [[Positive adjectives with "-ji le"]]
+* [[The "zui" superlative]]
+* [[Special verbs with "hen"]]
+* [[Expressing "quite" with "ting"]]
+
+== Sources and Further Reading ==
+
+{{Source|HSK Standard Course 1|92}}
+{{Source|Chinese: An Essential Grammar, Second Edition|200}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|180-1}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|57) [http://www.amazon.com/gp/product/0415700108?ie=UTF8&tag=allset-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0415700108 →buy]
+
+[[Category:A1 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+[[Category:Adverbs]]
+{{Basic Grammar|太|A1|太 + Adj. + 了|<em>太</em> 好 <em>了</em> !|grammar point|ASG8HVFN}}
+{{Rel char|了}}
+{{Similar|"Not very" with "bu tai"}} 
+{{Similar|Positive adjectives with "-ji le"}} 
+{{Similar|The "zui" superlative}}
+{{Similar|Special verbs with "hen"}}
+{{Similar|Expressing "quite" with "ting"}}
+{{Structure|Basics}}
+{{Used for| Expressing quality}}
+{{Used for|Emphasizing}}
+{{Translation|too}}
+{{Translation|very}}

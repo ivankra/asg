@@ -1,0 +1,49 @@
+<!-- Emphasizing negation with "you" -->
+{{Grammar Box}} 
+
+You already know that [[不]] (bù) and [[没]] (méi) can be used for negation. But you can also use the word 又 (yòu) to emphasize negation, giving your negative sentence a little kick!
+
+== Structure ==
+
+In this structure, 又 is used to emphasize that something "''didn't'' happen," "''is not''" the case, or "''will not'' happen." It's most often used with [[不]] and [[没]]. This grammar structure is often used in an accusatory context, and when used with other expressions like 干吗 (gànmá) can show annoyance.
+
+<div class="jiegou">
+又 + 不 / 没 + Predicate
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*问 我 干吗 ？我 <em>又</em> <strong>不</strong> 知道 。<span class="pinyin">Wèn wǒ gànmá? Wǒ <em>yòu</em> <strong>bù</strong> zhīdào. </span><span class="trans">Why ask me? I definitely don't know.</span>
+*这些 菜 <em>又</em> <strong>没</strong> 坏 ，为什么 要 扔 ？<span class="pinyin">Zhèxiē cài <em>yòu</em> <strong>méi</strong> huài, wèishénme yào rēng?</span><span class="trans">These dishes haven't gone bad. Why would you throw them away?</span>
+*不要 生气 ，我 <em>又</em> <strong>不</strong> 是 故意 的 。<span class="pinyin">Bùyào shēngqì, wǒ <em>yòu</em> <strong>bù</strong> shì gùyì de.</span><span class="trans"> Don't be mad.It really wasn't on purpose.</span>
+*今天 <em>又</em> <strong>不</strong> 热 ，开 空调 干吗 ？<span class="pinyin">Jīntiān <em>yòu</em> <strong>bù</strong> rè, kāi kōngtiáo gànmá?</span><span class="trans">It's not hot today. Why turn on the air conditioner?</span>
+*明天 <em>又</em> <strong>不</strong> 上班 ，那么 早 起床 干吗 ？<span class="pinyin">Míngtiān <em>yòu</em> <strong>bù</strong> shàngbān, nàme zǎo qǐchuáng gànmá?</span><span class="trans">You don't work tomorrow. Why get up so early?</span>
+*你 现在 <em>又</em> <strong>不</strong> 忙 ，来 帮 我 一下 。<span class="pinyin">Nǐ xiànzài <em>yòu</em> <strong>bù</strong> máng, lái bāng wǒ yīxià.</span><span class="trans">You're not busy now. Come and help me.</span>
+*我 <em>又</em> <strong>没</strong> 吃 过 ，怎么 知道 好 不 好吃 ？<span class="pinyin">Wǒ <em>yòu</em> <strong>méi</strong> chī guo, zěnme zhīdào hǎo bu hǎochī?</span><span class="trans">I haven't eaten it. How would I know if it is tasty or not?</span>
+*孩子 <em>又</em> <strong>没</strong> 做错 ，打 他 干吗 ？<span class="pinyin">Háizi <em>yòu</em> <strong>méi</strong> zuò cuò, dǎ tā gànmá?</span><span class="trans">The child didn't do anything wrong. Why are you spanking him?</span>
+*<em>又</em> <strong>没</strong> 下 雨 ，带 伞 干吗 ？<span class="pinyin"><em>Yòu</em> <strong>méi</strong> xiàyǔ, dài sǎn gànmá? </span><span class="trans">It's not raining. Why are you bringing the umbrella?</span>
+*<em>又</em> <strong>不</strong> 关 你 的 事 ，问 那么 多 干 吗？<span class="pinyin"><em>Yòu</em> <strong>bù</strong> guān nǐ de shì, wèn nàme duō gànmá?</span><span class="trans">It's none of your business. Why all the questions? </span>
+
+</div>
+
+== See also ==
+
+*[[Emphasis with "jiu"]]
+*[[Emphasizing a negation with "bing"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+=== Websites ===
+
+[[Category:B1 grammar points]]
+{{Basic Grammar|又|B1|又 + 不 / 没 + Verb |<em>又</em> 没 下雨 ，带 伞 干吗 ？|grammar point|ASGD3C4S}}
+{{Used for|Expressing attitude}}
+{{Used for|Emphasizing}}
+{{Similar|Expressing "again" in the past with "you"}}
+{{Similar|Emphasizing a negation with "bing"}}
+{{Similar|Repeated actions in the past with "you"}}
+{{POS|Adverbs}}

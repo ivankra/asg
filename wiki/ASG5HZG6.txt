@@ -1,0 +1,35 @@
+<!-- "Could it be that" with "qibushi" -->
+{{Grammar Box}} 
+{{stub}}
+
+The simplest way to understand 岂不是 is to think of it as "isn't it," and it is always used in a rhetorical question.
+
+== Structure ==
+
+Just insert 岂不是 where you feel that "could it be that" or "isnt it." 岂不是 is usually used to start a new sentence or a clause. Since it is a rhetorical question, the speaker already knows the answer.
+
+<div class="jiegou">
+
+岂不是 + rhetorical question
+
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+* 他们 不 来 <em>岂不是</em> 更 好？
+* 你 这样 做 <em>岂不是</em> 给 自己 找 麻烦？
+* 如果 连 你 都 不 帮 他，他 <em>岂不是</em> 死 定 了？！
+* 你 是 警察，这样 做 <em>岂不是</em> 知 法 犯法？
+* 他 不 在 的时候 你 去 找 他， <em>岂不是</em> 浪费 时间？
+
+</div>
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|岂不是|C1|岂不是 + rhetorical question|如果 他 要 来， <em>岂不是</em> 一 件 好 事？|grammar point|ASG5HZG6}}
+{{Rel char|岂}}
+{{Rel char|不是}}
+{{Rel char|是}}
+{{POS|Sentence patterns}}
+{{Used for|Asking rhetorical questions}}

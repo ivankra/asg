@@ -1,0 +1,64 @@
+<!-- Two words for "but" -->
+{{Grammar Box}} 
+
+Using "but" in Chinese is really simple to learn. It involves the two words 可是 (kěshì) and 但是 (dànshì). Make no "buts" about it; you'll understand it in no time!
+
+== Structure ==
+
+There are two main words for "but" in Chinese: 可是 (kěshì) and 但是 (dànshì). These are largely the same.  The small difference is that 但是 (dànshì) is slightly more formal, whereas 可是 (kěshì) is just a bit more informal and a tad weaker in tone.  You really don't need to worry about which one is the right one to use though, since they can be used interchangeably.
+
+<div class="jiegou">
+
+Statement， 可是 / 但是 + [Contrary Statement]
+
+</div>
+
+== Examples ==
+
+Usually 可是 (kěshì) and 但是 (dànshì) precede a new phrase within a sentence:
+
+<div class="liju">
+*我 喜欢 他，<em>可是</em> 他 不 喜欢 我。<span class="pinyin">Wǒ xǐhuan tā, <em>kěshì</em> tā bù xǐhuan wǒ.</span><span class="trans">I like him, but he doesn't like me.</span>
+*我 很 想 去，<em>但是</em> 我 太 忙 了。<span class="pinyin">Wǒ hěn xiǎng qù, <em>dànshì</em> wǒ tài máng le.</span><span class="trans">I really want to go, but I am too busy.</span>
+*中文 很 有意思，<em>但是</em> 也 很 难。<span class="pinyin">Zhōngwén hěn yǒuyìsi, <em>dànshì</em> yě hěn nán.</span><span class="trans">Chinese is very interesting, but it is also very hard.</span>
+*我 喜欢 这 件 衬衫，<em>可是</em> 太 贵 了。<span class="pinyin">Wǒ xǐhuan zhè jiàn chènshān, <em>kěshì</em> tài guì le.</span><span class="trans">I like this shirt, but it is too expensive.</span>
+*老板 昨天 给 他 打 电话，<em>可是</em> 他 没 接。<span class="pinyin">Lǎobǎn zuótiān gěi tā dǎ diànhuà, <em>kěshì</em> tā méi jiē.</span><span class="trans">The boss gave him a call yesterday, but he didn't answer.</span>
+*iPhone 很 好，<em>但是</em> 我 没 钱 买。<span class="pinyin">iPhone hěn hǎo, <em>dànshì</em> wǒ méi qián mǎi.</span><span class="trans">The iPhone is great, but I don't have the money to buy it.</span>
+*你们 可以 在 这里  看书，<em>可是</em> 不 可以 说话。<span class="pinyin">Nǐ kěyǐ zài zhèlǐ kàn shū, <em>kěshì</em> bù kěyǐ shuōhuà.</span><span class="trans">You can read books here, but you can't talk.</span>
+*你 可以 吃， <em>但是</em> 不 可以 吃 太 多。<span class="pinyin">Nǐ kěyǐ chī, <em>dànshì</em> bù kěyǐ chī tài duō.</span><span class="trans">You can eat, but you can't eat too much.</span>
+*他 说 五 点 来 见 我，<em>但是</em> 他 没 来。<span class="pinyin">Tā shuō wǔ diǎn lái jiàn wǒ, <em>dànshì</em> tā méi lái.</span><span class="trans">He said he would come to see me at five, but he didn't.</span>
+*这 个 地方 很 漂亮，<em>但是</em> 人 太 多 了。<span class="pinyin">Zhège dìfang hěn piàoliang, <em>dànshì</em> rén tài duō le.</span><span class="trans">This place is beautiful, but there are too many people.</span>
+</div>
+
+'''Note:''' In informal spoken Chinese, 可是 (kěshì) can be shortened to 可 (kě), and 但是 (dànshì) can be shortened to 但 (dàn).
+
+==See also==
+*[[A Softer "But"]]
+*[["Although" with "suiran" and "danshi"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|108}}
+
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级)|254-5}}
+
+{{Source|Chinese Reference Series for Foreigners - 1700 Groups of Frequently Used Chinese Synonyms (外国人学汉语工具书 - 1700对近义词语用法对比)]] (p.319)
+
+{{Source|发展汉语 中级汉语口语上|3}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|但是|A2|……，可是 / 但是……|我 喜欢 他，<em>可是</em>/<em>但是</em> 他 不 喜欢 我。|grammar point|ASGUD81S}}
+{{Rel char|可是}}
+{{Rel char|但}}
+{{Rel char|可}}
+{{Similar|A Softer "But"}}  
+{{Similar|"Although" with "suiran" and "danshi"}}
+{{Similar|Expressing "however" with "ran'er"}}
+{{POS|Conjunctions}}
+{{Used for|Connecting ideas}}
+{{Used for|Contrasting}}
+{{Translation|although}}
+{{Translation|but}}

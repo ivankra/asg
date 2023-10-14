@@ -1,0 +1,77 @@
+<!-- Expressing "much more" in comparisons -->
+{{Grammar Box}} 
+
+If you want to up the contrast of your comparisons, you might want to express "much more." You can do this using 多 (duō), but did you know there are actually three different ways to do it?
+
+== Structure ==
+
+As well as expressing that two things differ, you might want to go further and say that they differ '''a lot''' by adding 很多 (hěn duō), 多了(duō le), or 得多 (de duō). This is like saying that one thing is ''much more Adj.'' than another in English.
+
+<div class="jiegou">
+Noun 1 + 比 + Noun 2 + Adj. + 很多 / 得多 / 多了
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*拼音 <em>比</em> 汉字 容易 <strong>很多</strong> 。<span class="pinyin">Pīnyīn <em>bǐ</em> Hànzì róngyì <strong>hěn duō</strong>.</span><span class="trans">Pinyin is much easier than Chinese characters.</span>
+*坐 高铁 <em>比</em> 坐 飞机 方便 <strong>很多</strong> 。<span class="pinyin">Zuò gāotiě <em>bǐ</em> zuò fēijī fāngbiàn <strong>hěn duō</strong>.</span><span class="trans">It's much more convenient to take the high-speed train than the airplane.</span>
+*这 个 女老师 <em>比</em> 那个 男老师 严格 <strong>得 多</strong> 。<span class="pinyin">Zhège nǚ lǎoshī <em>bǐ</em> nàge nán lǎoshī yángé <strong>de duō</strong>.</span><span class="trans">This female teacher is much stricter than that male teacher.</span>
+*我 老婆 的 工资 <em>比</em> 我 高 <strong>得多</strong> 。<span class="pinyin">Wǒ lǎopo de gōngzī <em>bǐ</em> wǒ gāo <strong>de duō</strong>.</span><span class="trans">My wife's salary is much higher than mine.</span>
+*你 <em>比</em> 我 有经验 <strong>多了</strong> 。<span class="pinyin">Nǐ <em>bǐ</em> wǒ yǒu jīngyàn <strong>duō le</strong>.</span><span class="trans">You're much more experienced than me.</span>
+*你们 <em>比</em> 我们 幸运 <strong>多了</strong> 。<span class="pinyin">Nǐmen <em>bǐ</em> wǒmen xìngyùn <strong>duō le</strong>.</span><span class="trans">You're much luckier than us.</span>
+*他 打 篮球 <em>比</em> 我 厉害 <strong>多 了</strong> 。<span class="pinyin">Tā dǎ lánqiú <em>bǐ</em> wǒ lìhai <strong>duō le</strong>.</span><span class="trans">He plays basketball much better than I do.</span>
+
+</div>
+
+== Short Form with 多了 ==
+
+Given sufficient context, it's possible to use 多了 without the full comparison pattern. 多了 is the only one of the three "much more" phrases introduced in this article which can be used this way.
+
+<div class="jiegou">
+Subj. + Adj. + 多了 
+</div>
+
+A few examples:
+
+<div class="liju">
+*我 的 感冒 好 <strong>多了</strong> 。<span class="expl">We both know I've had this bad cold.</span><span class="pinyin">Wǒ de gǎnmào hǎo <strong>duō le</strong>.</span><span class="trans">My cold is getting much better.</span>
+*最近 天气 暖和 <strong>多了</strong> 。<span class="expl">We're both aware of recent weather, obviously.</span><span class="pinyin">Zuìjìn tiānqì nuǎnhuo <strong>duō le</strong>.</span><span class="trans">It's been much warmer lately.</span>
+*上 大学 以后 ，她 成熟 <strong>多了</strong> 。<span class="expl">We both know how immature she used to be.</span><span class="pinyin">Shàng dàxué yǐhòu, tā chéngshú <strong>duō le</strong>.</span><span class="trans">She became much more mature after she went to college.</span>
+</div>
+
+== See also ==
+
+* [[Expressing "a bit too"]]
+* [[Basic comparisons with "bi"]]
+* [[The "zui" superlative]]
+* [[Basic comparisons with "bu bi"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|93}}
+{{Source|HSK Standard Course 3|84}}
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|20}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|6- 8}}
+
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{HSK|HSK3}}
+{{Basic Grammar|比|B1|Noun 1 + 比 + Noun 2 + Adj. + 多了|拼音 <em>比</em> 汉字 容易 <em>多了</em> 。|grammar point|ASG6KUS5}}
+{{Rel char|多}}
+{{Rel char|得多}}
+{{Rel char|多了}}
+{{Similar|Basic comparisons with "bi"}}
+{{Similar|Expressing "even more" with "geng" or "hai"}}
+{{Similar|Expressing "a little too" with "you dian"}}
+{{Similar|Expressing comparable degree with "you"}}
+{{Similar|Expressing "compared with" with "gen"}}
+{{Similar|Basic comparisons with "bu bi"}}
+{{Used for|Comparing}}
+{{Used for|Adding more explanation}}
+{{Used for|Expressing quality}}
+{{Structure|Sentence Patterns}}
+{{Subprop|Comparison Patterns}}
+{{Translation|more}}

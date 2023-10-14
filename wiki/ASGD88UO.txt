@@ -1,0 +1,175 @@
+<!-- Comparing "yao" and "xiang" -->
+{{Grammar Box}}
+
+Both 要 (yào) and 想 (xiǎng) can essentially mean "want," but they can also be used in quite different ways, such as 想 (xiǎng) also meaning "to miss" when followed by a noun, and 要 (yào) also meaning "going to (do something)."
+
+== Followed by a Noun ==
+
+Both 要 (yào) and 想 (xiǎng) may be followed by nouns, but pay attention to how the meaning of 想 (xiǎng) totally changes when used this way.
+
+=== 要 (yào) as "to Want" ===
+
+==== Structure ====
+
+In this pattern, 要 (yào) is directly followed by a thing (a noun), rather than by a verb. It is often used to buy something, or to order food at a restaurant.
+
+It may be helpful to imagine a demanding child using this pattern to get stuff from his parents. This "''I want x!''" pattern can seem slightly impolite, but to the Chinese ear it's not as inherently rude as it may seem when translated directly into English. Tone of voice plays a key role when using this pattern in spoken Chinese.
+
+<div class="jiegou">
+Subj. + 要 + Noun
+</div>
+
+==== Examples ====
+
+<div class="liju">
+
+* 你 也 <em>要</em> 茶 吗？<span class="expl pdf-simple-expl">ordering in a restaurant</span><span class="pinyin">Nǐ yě <em>yào</em> chá ma? </span><span class="trans">Do you also want tea?</span>
+* 我们 都 <em>要</em> 咖啡。<span class="expl pdf-simple-expl">ordering in a cafe</span><span class="pinyin">Wǒmen dōu <em>yào</em> kāfēi.</span><span class="trans">We all want coffee.  </span>
+* 大家 <em>要</em> 不 <em>要</em> 米饭？<span class="expl pdf-simple-expl">ordering in a restaurant</span><span class="pinyin">Dàjiā <em>yào</em> bù <em>yào</em> mǐfàn? </span><span class="trans">Does everyone want rice? </span>
+* 你们 <em>要</em> 冰水 还是 热水？<span class="expl pdf-simple-expl">ordering in a restaurant</span><span class="pinyin">Nǐmen <em>yào</em> bīng shuǐ háishì rè shuǐ? </span><span class="trans">Do you want ice water or hot water? </span>
+* 谢谢，我 什么 都 不 <em>要</em>。<span class="expl pdf-simple-expl">ordering in a restaurant</span><span class="pinyin">Xièxiè, wǒ shénme dōu bù <em>yào</em>.</span><span class="trans">Thank you. I don't need anything.</span>
+
+</div>
+
+=== 想 (xiǎng) as "to Miss" ===
+
+'''Pay attention here:''' unlike "想 (xiǎng) + Verb," the meaning of 想 (xiǎng) in the "想 (xiǎng) + Noun" pattern becomes "to miss."
+
+==== Structure ====
+
+<div class="jiegou">
+Subj. + 想 + Noun
+</div>
+
+==== Examples ====
+
+<div class="liju">
+
+* 我 <em>想</em> 你。<span class="pinyin">Wǒ <em>xiǎng</em> nǐ.</span><span class="trans">I miss you.</span>
+* 我 有点 <em>想</em> 我 的 家人。<span class="pinyin">Wǒ yǒudiǎn <em> xiǎng</em> wǒ de jiārén.</span><span class="trans">I sort of miss my family.</span>
+* 你们 回 美国 以后， 会 <em>想</em> 中国菜 吗？<span class="pinyin">Nǐmen huí Měiguó yǐhòu, huì <em> xiǎng</em> Zhōngguó cài ma? </span><span class="trans">Will you all miss Chinese food after you go back to the U.S.? </span>
+* 你女朋友 不 在 的时候，你 会 <em>想</em> 她 吗？<span class="pinyin">Nǐ nǚpéngyou bù zài de shíhou, nǐ huì <em>xiǎng</em> tā ma? </span><span class="trans">Do you miss your girlfriend when she is not around? </span>
+* 妈妈  打 电话 的 时候 跟 我 说， 她 很 <em>想</em> 我。<span class="pinyin">Māma dǎ diànhuà de shíhou gēn wǒ shuō, tā hěn <em>xiǎng</em> wǒ.</span><span class="trans">Mom called me and said she misses me a lot.</span>
+
+</div>
+
+== Followed by a Verb ==
+
+要 (yào) and 想 (xiǎng) have similar meanings when followed by verbs. The difference is rather subtle, but 要 (yào) can sound more urgent or demanding (sometimes even childish), while 想 (xiǎng) is usually a bit more mature and polite. Tone of voice plays a big role here as well, though, so don't be afraid of offending people by using 要 (yào); the word itself isn't rude.
+
+=== 要 (yào) as "Want to" ===
+
+==== Structure ====
+
+It might help to think of 要 (yào) in this sense as meaning "want to" and 想 (xiǎng) as meaning "would like to."
+
+<div class="jiegou">
+Subj. + 要 + Verb
+</div>
+
+==== Examples ====
+
+<div class="liju">
+
+* 我 <em>要</em> 休息 。<span class="pinyin">Wǒ <em>yào</em> xiūxi.</span><span class="trans">I want to rest.</span>
+* 你 也 <em>要</em> 回家 吗 ？<span class="pinyin">Nǐ yě <em>yào</em> huíjiā ma? </span><span class="trans">Do you also want to go home? </span>
+* 你们 <em>要</em> 喝 什么 ？<span class="pinyin">Nǐmen <em>yào</em> hē shénme? </span><span class="trans">What do you want to drink? </span>
+* 我 <em>要</em> 帮 老板 做 完 这些 工作 。<span class="pinyin">Wǒ <em>yào</em>  bāng lǎobǎn zuò wán zhèxiē gōngzuò.</span><span class="trans">I want to help the boss finish this work.</span>
+* 大家 晚上 <em>要</em> 不 <em>要</em> 出去 吃 ？<span class="pinyin">Dàjiā wǎnshang <em>yào</em> bu <em>yào</em> chūqù chī? </span><span class="trans">Does everyone want to go out to eat tonight? </span>
+
+</div>
+
+=== 想 (xiǎng) as "Would Like to" ===
+
+==== Structure ====
+
+It might help to think of 想 (xiǎng) as meaning "would like to" instead of "want to." In English, as well, "would like to" feels more indirect, and thus less demanding and more more polite.
+
+<div class="jiegou">
+Subj. + 想 + Verb
+</div>
+
+==== Examples ====
+
+<div class="liju">
+
+* 你 <em>想</em> 去 吗 ？<span class="pinyin">Nǐ <em>xiǎng</em> qù ma? </span><span class="trans">Would you like to go? </span>
+* 我 不 <em>想</em> 见 她 。<span class="pinyin">Wǒ bù <em>xiǎng</em> jiàn tā.</span><span class="trans">I wouldn't like to see her.</span>
+* 周末 你们 <em>想</em> 看 电影 吗 ？<span class="pinyin">Zhōumò nǐmen <em>xiǎng</em> kàn diànyǐng ma? </span><span class="trans">Would you like to see a movie this weekend? </span>
+* 我 <em>想</em> 请 你 吃饭 。<span class="pinyin">Wǒ <em>xiǎng</em> qǐng nǐ chīfàn.</span><span class="trans">I'd like to treat you to dinner.</span>
+* 他们 春节 不 <em>想</em> 回家 吗 ？<span class="pinyin">Tāmen Chūnjié bù <em>xiǎng</em> huíjiā ma? </span>  <span class="trans">Don't they want to go back home for Spring Festival? </span>
+
+</div>
+
+=== 要 (yào) as "Going to" ===
+
+要 is used to indicate plans for the near future, much like "going to" in English. 想 (xiǎng) is not used in this way.
+
+==== Structure ====
+
+<div class="jiegou">
+Subj. + 要 + Verb
+</div>
+
+==== Examples ====
+
+<div class="liju">
+
+* 星期六 我 <em>要</em> 去 北京。<span class="pinyin">Xīngqīliù wǒ <em>yào</em> qù Běijīng.</span><span class="trans">I'm going to Beijing on Saturday.</span>
+* 下 个 月 她 <em>要</em> 找 新 工作。<span class="pinyin">Xià gè yuè tā <em>yào</em> zhǎo xīn gōngzuò.</span><span class="trans">She is going to look for a new job next month.</span>
+* 这个 周末 你们 <em>要</em> 出去 玩 吗？<span class="pinyin">Zhège zhōumò nǐmen <em>yào</em>  chūqù wán ma? </span><span class="trans">Are you going out partying this weekend? </span>
+* 结婚 以后，你 <em>要</em> 跟 父母 住 在 一起 吗？<span class="pinyin">Jiéhūn yǐhòu, nǐ <em>yào</em>  gēn nǐ fùmǔ zhù zài yīqǐ ma? </span><span class="trans">Are you going to live together with your parents after you get married? </span>
+* 生 完 孩子 以后，你 太太 <em>要</em> 回去 工作 吗？<span class="pinyin">Shēng wán háizi yǐhòu, nǐ tàitai <em>yào</em> huíqù gōngzuò ma? </span><span class="trans">Is your wife going back to work after she finishes giving birth to the baby? </span>
+
+</div>
+
+== 想要 (xiǎngyào) as "Want" ==
+
+=== Structure ===
+
+You can put 要 (yào) and 想 (xiǎng) together to make the word 想要 (xiǎngyào), which means "to want." You can put either nouns or verbs after it.
+
+<div class="jiegou">
+Subj. + 想要 + Noun / Verb
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 你 <em>想要</em> 几 个 孩子 ？<span class="pinyin">Nǐ <em>xiǎngyào</em> jǐ gè háizi? </span><span class="trans">How many kids do you want to have? </span>
+* 我 老婆 总是 <em>想要</em> 最 贵 的 包。<span class="pinyin">Wǒ lǎopo zǒngshì <em>xiǎngyào</em> zuì guì de bāo.</span><span class="trans">My wife always wants the most expensive bags.</span>
+* 她 <em>想要</em> 找 一 个 有钱 的 男朋友 。<span class="pinyin">Tā <em>xiǎngyào</em> zhǎo yī gè yǒuqián de nánpéngyou.</span><span class="trans">She wants to find a rich boyfriend.</span>
+* 你们 为什么 <em>想要</em> 离开 北京 ？<span class="pinyin">Nǐmen wèishénme <em>xiǎngyào</em> líkāi Běijīng? </span><span class="trans">Why do you all want to leave Beijing?</span>
+* 他 <em>想要</em> 帮 你 找 一 个 更好 的 工作。<span class="pinyin">Tā <em>xiǎngyào</em> bāng nǐ zhǎo yī gè gèng hǎo de gōngzuò.</span><span class="trans">He wants to help you find a better job.</span>
+
+</div>
+
+==See also==
+
+*[[Wanting to do something with yao]]
+*[["Would like to" with xiang]]
+*[[Auxiliary verb "yao" and its multiple meanings]]
+*[[Negative commands with "bu yao"]]  
+*[[Expressing determination with "feiyao"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|154-5}}
+
+[[Category:grammar comparison]]
+{{Basic Grammar|要|A2|要 vs 想|我 <em>要</em> 一 杯 水 。 我 <em>想</em> 你 。|grammar point|ASGD88UO}}
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Rel char|想}}
+{{Similar|"Would like to" with xiang}} 
+{{Similar|Wanting to do something with yao}}
+{{Comparison|Auxiliary verbs}}
+{{Used for|Referring to the future}}
+{{Used for|Expressing determination}}
+{{Used for|Expressing desires}}
+{{Translation|want}}
+{{Translation|need}}
+{{Translation|go}}
+{{Translation|will}}

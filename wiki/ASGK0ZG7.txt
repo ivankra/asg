@@ -1,0 +1,48 @@
+<!-- Expressing “must" with "feidei" -->
+{{Grammar Box}} 
+
+非得 (fēiděi) can be translated as "must" or "have to." Usually it appears in the grammar structure 非得...不可/不行/不成, which expresses something is supposed to be a certain way and not change, or that something will certainly happen. 
+
+Many of you are probably familiar with the grammar structure [[Adding Emphasis with "fei...buke"|非...不可]], which is the simplified form of this structure. 
+
+== Structure ==
+
+In this grammar structure, we are saying that the action must be done. Usually there is a phrase to set up the context, and then what must be done. 
+
+<div class="jiegou">
+
+Statement,  非 (得) + Action + 不可 / 不行
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 有 话 好好 说，干嘛 <em>非得</em> 吵架？
+* 现在 是 紧急 情况，<em>非得</em> 马上 动 手术 <em>不可</em>。
+* 我 今天 <em>非</em> 骂 他 一 顿 <em>不行</em>！
+* 这 件 事 你 <em>非得</em> 帮 我 查 清楚 <em>不可</em>！
+* 他 这么 做 太 过分 了， 我 <em>非得</em> 教训 教训 他 <em>不可</em>！
+
+</div>
+
+== Sources and further readings ==
+
+=== Books ===
+
+*[[Common Chinese Patterns 330 (汉语常用格式330例)]] (p.82)[http://www.amazon.com/gp/product/7802006473/ref=as_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=7802006473 →buy] 
+* [[Integrated Chinese: Level 2, Part 1]] (p. 124) [http://www.amazon.com/gp/product/0887276792/ref%3das_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0887276792 →buy]
+*[[Home With Kids1 (家有儿女1)]](p.33) [http://www.amazon.cn/%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B31-%E5%88%98%E7%AB%8B%E6%96%B0/dp/B0020MLDO8/ref=sr_1_1?ie=UTF8&qid=1347862139&sr=8-1 →buy]
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|非得|C1|非得 + Action + 不可/不行/不成|现在 是 紧急 情况，医生 <em>非得</em> 马上 开 刀 <em>不可</em>。|grammar point|ASGK0ZG7}}
+{{Rel char|非}}
+{{Rel char|得}}
+{{Rel char|可}}
+{{Translation|must}}
+{{Similar|"Must" modal "dei"}}
+{{Similar|Adding emphasis with "fei....buke"}}
+{{Used for|Expressing obligations}}
+{{Used for|Giving commands}}
+{{POS|Sentence patterns}}

@@ -1,0 +1,55 @@
+<!-- Expressing "no exception" with "yilu" -->
+{{Grammar Box}} 
+{{stub}}
+
+"一律"表示适用于全体，没有例外。这个词比较书面语。。"一律"虽然修饰的是后面的谓语，但其实针对的是前面的对象。多用于修饰人。
+
+== Structure ==
+
+<div class="jiegou">
+一律 (+ 都) + Verb / Adj. 
+</div>
+
+"一律"经常和"都"连用，加强语气。
+
+== Examples ==
+
+<div class="liju">
+
+*明天 的 部门 会议 <em>一律</em> <strong>都</strong> 要 参加 。<span class="trans">Everyone needs to attend tomorrow's department meeting.</span>
+*70岁 以上 的 老人 坐公交 <em>一律</em> <strong>都</strong> 免费 。<span class="trans">Old  people above 70 can take the bus free of charge.</span>
+*不管 是 谁 ，<em>一律</em> <strong>都</strong> 要 通过 六个月 试用期 。<span class="trans">Everyone needs to pass probation no matter who you are.</span>
+*不需要 的 东西 <em>一律</em> 捐掉 。<span class="trans">Please donate things that are no longer needed.</span>
+*政府 命令 重污染 企业 <em>一律</em> 停业 。<span class="trans">.</span>
+*从 明年 一月 起 酒后驾车 <em>一律</em> 重罚 。<span class="trans">.</span>
+
+</div>
+
+有时候"一律"也可以修饰名词性成分，这时可以理解为句中包含的动词被省略了。
+
+<div class="liju">
+*这些 刚刚 过期 的 食物 <em>一律</em> <strong>都</strong> 半价 。<span class="trans">Those food that just expired are sold at half price.</span>
+*这里 的 家具 <em>一律</em> 新的 。<span class="trans">These furnitures here are all brand new.</span>
+</div>
+
+== See also ==
+
+*[[Expressing "all" with "suoyou"]]
+*[[Emphasizing quantity with "dou"]]
+*[[Indicating the whole with "quan"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|一律|C1|一律 + Predicate|明天 的 部门 会议 <em>一律</em> <strong>都</strong> 要 参加 。|grammar point|ASGC8A38}}
+{{Rel char|都}}
+{{Similar|Expressing "all" with "suoyou"}}
+{{Similar|Emphasizing quantity with "dou"}}
+{{Similar|Indicating the whole with "quan"}}
+{{Used for|Expressing attitude}}
+{{Used for|Expressing quantity}}
+{{Used for|Emphasizing}}
+{{POS|Adverbs}}
+{{Translation|all}}

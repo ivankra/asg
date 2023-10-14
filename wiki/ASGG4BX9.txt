@@ -1,0 +1,75 @@
+<!-- Expressing "since" with "jiran" -->
+{{Grammar Box}} 
+
+既然 (jìrán) means "since," and is often followed by 就 to mean "since...then...." It is used like this:
+
+== 既然 Followed by an Affirmative Sentence ==
+
+This construction is not generally used to express a result, but more of a suggestion or inference deduced from the first fact. It can be placed before or after the subject. But if the subjects in the two clauses are the same, 既然 is more often put after the subject.
+
+=== Structure ===
+
+<div class="jiegou">
+既然 ＋ Fact, [那 / 就 / 那就] ＋ Suggestion / Inference
+</div>
+
+=== Examples ===
+
+The second halves of following sentences are all suggestions or inferences.
+
+<div class="liju">
+*你 <em>既然</em> 不 想 说，<em>那就</em> 别 说 了。<span class="pinyin">Nǐ <em>jìrán</em> bù xiǎng shuō, <em>nà jiù</em> bié shuō le.</span><span class="trans">Since you don't want to say, then just don't say.</span>
+*<em>既然</em> 你 那么 喜欢，<em>那就</em> 买 吧。 <span class="pinyin"><em>Jìrán</em> nǐ <em>nàme</em> xǐhuan, nà jiù mǎi ba.</span><span class="trans">Since you like it so much, just buy it.</span>
+*她 <em>既然</em> 刚刚 分手，<em>那</em> 现在 应该 是 单身 吧。 <span class="pinyin">Tā <em>jìrán</em> gānggāng fēnshǒu, <em>nà</em> xiànzài yīnggāi shì dānshēn ba.</span><span class="trans">Since she just had a breakup, she should be single now.</span>
+*<em>既然</em> 你们 是 好 朋友，<em>那</em> 他 肯定 会 帮 你 吧。<span class="pinyin"><em>Jìrán</em> nǐmen shì hǎo péngyou, <em>nà</em> tā kěndìng huì bāng nǐ ba.<span class="trans">Since you guys are good friends, he will definitely help you.</span>
+*<em>既然</em> 大家 都 不 感 兴趣，<em>就</em> 换 个 话题 吧。<span class="pinyin"><em>Jìrán</em> dàjiā dōu bù gǎn xìngqù, <em>jiù</em> huàn gè huàtí ba.</span><span class="trans">Since nobody is interested, let's change the topic.</span>
+</div>
+
+== 既然 Followed by a Question ==
+
+The suggestion or inference deduced from the first "fact" can come in the form of rhetorical question. In this case, 那 can be omitted.
+
+=== Structure ===
+
+<div class="jiegou">
+
+既然 + Fact, (那 +) Rhetorical Question
+
+</div>
+
+=== Examples ===
+
+The second halves of following sentences are all suggestions.
+
+<div class="liju">
+*你 <em>既然</em> 不 喜欢 他，为什么 还 想 跟 他 出去？<span class="pinyin">Nǐ <em>jìrán</em> bù xǐhuan tā, wèishénme hái xiǎng gēn tā chūqù?</span><span class="trans">Since you don't like him, why would you go out with him?</span>
+*<em>既然</em> 你 已经 决定 了，为什么 现在 后悔？<span class="pinyin"><em>Jìrán</em> nǐ yǐjīng juédìng le, wèishénme xiànzài hòuhuǐ?</span><span class="trans">Since you've already made your decision, why regret it now?</span>
+*<em>既然</em> 他 那么 忙，你 为什么 还 去 打扰 他？<span class="pinyin"><em>Jìrán</em> tā nàme máng, nǐ wèishénme hái qù dǎrǎo tā?</span><span class="trans">Since he's so busy, why would you go bother him?</span>
+*<em>既然</em> 已经 分手 了，为什么 还 要 见面？<span class="pinyin"><em>Jìrán</em> yǐjīng fēnshǒu le, wèishénme hái yào jiànmiàn?</span><span class="trans">Since we've already broken up, why would we still meet up?</span>
+*<em>既然</em> 你 男朋友 那么 有钱，<em>那</em> 他 为什么 不 能 大方 一点？<span class="pinyin"><em>Jìrán</em> nǐ nánpéngyou nàme yǒuqián, nà tā wèishénme bù néng dàfang yīdiǎn?</span><span class="trans">Since your boyfriend is so rich, why can't he be more generous?</span>
+</div>
+
+==See also==
+
+*[[Cause and Effect with "yinwei" and "suoyi"]]
+*[[Because" with "er" Indicating Effect]]
+*[[Expressing "Even if…" with "jishi"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4下|47}}
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级)|267-9}} 
+{{Source|Integrated Chinese: Level 2, Part 2|289-90}}
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|179}} 
+{{Source|卓越汉语－公司实战篇|245}}
+
+[[Category: B2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|既然|B2|既然⋯⋯，就⋯⋯|<em>既然</em> 来 了 ， <em>就</em> 留 下来 吃饭 吧 。|grammar point|ASGG4BX9}}
+{{Similar|Cause and effect with "yinwei" and "suoyi"}}
+{{Similar|Because" with "er" Indicating Effect}}
+{{Similar|Expressing "Even if…" with "jishi"}}
+{{Used for|Indicating cause and effect}}
+{{Structure|Cause/Effect Statements}}

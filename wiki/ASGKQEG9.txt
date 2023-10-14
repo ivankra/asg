@@ -1,0 +1,70 @@
+<!-- Comparing "xiande" and "kanqilai" -->
+{{Grammar Box}} 
+Both 显得 (xiǎnde) and 看起来 (kànqǐlái) have meanings in English like "to appear to be" or "seems like," but their connotations are subtly different. 
+
+== 显得 Emphasizes Objectivity ==
+
+显得 is used for objective descriptions and comparisons. Use it when you want to say that something "appears" a certain way without emphasizing that it's just your own viewpoint.
+
+=== Structure ===
+
+<div class="jiegou">
+A + 显得 + B + Predicate
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 这样 穿 <em>显得</em> 我 比较 成熟 。<span class="pinyin">Zhèyàng chuān <em>xiǎnde</em> wǒ bǐjiào chéngshú.</span><span class="trans">Dressing like this makes me appear more mature.</span>
+* 那样 吃 <em>显得</em> 你 很 没 礼貌 。 <span class="pinyin">Nàyàng chī <em>xiǎnde</em> nǐ hěn méi lǐmào.</span><span class="trans">Eating like that makes you look very impolite.</span>
+* 这么 做 会 <em>显得</em> 你 很 小气 。 <span class="pinyin">Zhème zuò huì <em>xiǎnde</em> nǐ hěn xiǎoqì.</span><span class="trans">Doing this makes you appear stingy.</span>
+* 那样 说 <em>显得</em> 她 很 笨 。 <span class="pinyin">Nàyàng shuō <em>xiǎnde</em> tā hěn bèn.</span><span class="trans">Saying that made her appear stupid.</span>
+* 这 种 颜色 的 衣服 <em>显得</em> 你 的 脸色 不 好看 。 <span class="pinyin">Zhè zhǒng yánsè de yīfu <em>xiǎnde</em> nǐ de liǎnsè bù hǎokàn.</span><span class="trans">This color of clothing doesn't go well with your complexion.</span>
+</div>
+
+== 看起来 Emphasizes Subjectivity ==
+
+看起来 is the opposite of 显得 in that it emphasizes subjectivity, emphasizing how the observer feels. 
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 看起来 + Predicate
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 你 今天 <em>看起来</em> 很 高兴 。 <span class="pinyin">Nǐ jīntiān <em>kànqǐlái</em> hěn gāoxìng.</span><span class="trans">You seem very happy today.</span>
+* 这个 餐厅 <em>看起来</em> 不错，我们 可以 试试。 <span class="pinyin">Zhège cāntīng <em>kànqǐlái</em> bùcuò, wǒmen kěyǐ shìshi.</span><span class="trans">This restaurant seems pretty good. Let's try it out.</span>
+* 她 <em>看起来</em> 有点 生气 。 <span class="pinyin">Tā <em>kànqǐlái</em> yǒudiǎn shēngqì.</span><span class="trans">She seems a little angry.</span>
+* 你的 衣服 <em>看起来</em> 挺 贵 的 。 <span class="pinyin">Nǐ de yīfu <em>kànqǐlái</em> tǐng guì de.</span><span class="trans">Your clothes look quote expensive.</span>
+* 你 女朋友 <em>看起来</em> 像 我 的 中文 老师 。 <span class="pinyin">Nǐ nǚpéngyou <em>kànqǐlái</em> xiàng wǒ de Zhōngwén lǎoshī.</span><span class="trans">Your girlfriend looks like my Chinese teacher.</span>
+</div>
+
+== Example Dialog ==
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>你 今天 <em>看起来</em> 很 苗条。<span class="pinyin">Nǐ jīntiān <em>kànqǐlái</em> hěn miáotiao.</span><span class="trans">You look very slim today.</span></li>
+<li><span class="speaker">B:</span>可能 是 这 件 衣服 <em>显得</em>我 很 苗条 。 <span class="pinyin">Kěnéng shì zhè jiàn yīfu <em>xiǎnde</em> wǒ hěn miáotiao.</span><span class="trans">It's probably these clothes that makes me appear that way.</span></li>
+</ul>
+</div>
+
+== Sources and further reading ==
+===Books===
+{{Source|HSK Standard Course 5上|84}}
+
+=== Dictionaries ===
+
+{{Source|现代汉语词典（第5版）|1477}}
+
+[[Category:grammar comparison]]
+{{Basic Grammar|显得|B2|显得 vs 看起来|你 <em>看起来</em> 很 苗条 ，可能 是 这 件 衣服 <em>显得</em> 你 很 苗条 。|grammar point|ASGKQEG9}}
+{{Rel char|看起来}}
+{{Used for|Describing things}}
+{{Used for|Describing people}}
+{{Used for|Expressing attitude}}
+{{Similar|Appearance with "kanqilai"}}
+{{Similar|Comparing "kanqilai" and "kanlai"}}
+{{Comparison|Verbs}}

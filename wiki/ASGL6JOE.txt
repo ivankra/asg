@@ -1,0 +1,116 @@
+<!-- Counting money -->
+{{Grammar Box}} 
+
+Cash is king, even though China is now crazy for mobile payments. Either way, though, mastering how to say quantities of money is vital!
+
+== Asking "How Much Money" with 多少钱 (duōshao qián) ==
+
+Before you learn how to count money in Chinese, make sure you know how to ask "how much money" when you go shopping in China.
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + 多少钱 ?
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* <em>多少 钱</em> ？<span class="pinyin"><em>Duōshao qián</em>? </span><span class="trans">How much?</span>
+* 你 的 手机 <em>多少 钱</em>？<span class="pinyin">Nǐ de shǒujī <em>duōshao qián</em>? </span><span class="trans">How much was your cell phone?</span>
+* 我们 的 午饭 <em>多少 钱</em>？<span class="pinyin">Wǒmen de wǔfàn <em>duōshao qián</em>? </span><span class="trans">How much is our lunch?</span>
+* 这 杯 咖啡<em>多少 钱</em>？<span class="pinyin">Zhè bēi kāfēi <em>duōshao qián</em>? </span><span class="trans">How much for this cup of coffee? </span>
+* 这 件 衣服 <em>多少 钱</em>？<span class="pinyin">Zhè jiàn yīfu <em>duōshao qián</em>? </span><span class="trans">How much is this clothing? </span>
+
+</div>
+
+== Stating Quantities of Money ==
+
+=== Structure ===
+
+Chinese has a specific structure for talking about quantities for money:
+
+<div class="jiegou">
+
+Number + 块 + Number + 毛
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 两 <em>块</em> 五 <em>毛</em> <span class="pinyin">liǎng <em>kuài</em> wǔ <em>máo</em></span><span class="trans">two kuai five mao (2.5)</span>
+* 三 <em>块</em> 八 <em>毛</em> <span class="pinyin">sān <em>kuài</em> bā <em>máo</em></span><span class="trans">three kuai eight mao (3.8)</span>
+* 十 <em>块</em> 两 <em>毛</em> <span class="pinyin">shí <em>kuài</em> liǎng <em>máo</em></span><span class="trans">ten kuai two mao (10.2)</span>
+* 二十 三 <em>块</em> 八<em>毛</em> <span class="pinyin">èrshí-sān <em>kuài</em> bā <em>máo</em> </span><span class="trans">Twenty-three kuai eight mao (23.8)</span>
+* 五十 <em>块</em> 五 <em>毛</em> <span class="pinyin">wǔshí <em>kuài</em> wǔ <em>máo</em></span><span class="trans">fifty kuai five mao (50.5)</span>
+</div>
+
+Note that "2.5 RMB" reads as 两块五 (liǎng kuài wǔ).
+
+<div class="liju">
+<ul>
+<li class="x">二 <em>块</em> 五 <span class="pinyin">èr <em>kuài</em> wǔ </span></li>
+<li class="o">两 <em>块</em> 五 <span class="pinyin">liǎng <em>kuài</em> wǔ </span><span class="trans"> two kuai five mao (2.5) </span></li>
+</ul>
+</div>
+
+If the smaller units are only in tens, you can just say the number of tens. So "3.8 RMB" is 三块八 (sān kuài bā). This way of giving the price is normally only used for amounts under 100 RMB. 
+
+When the smallest unit is 2, it reads as 二 (èr) instead of 两 (liǎng).
+
+<div class="liju">
+
+<ul>
+<li class="x">两 <em>块</em> 两 <span class="pinyin">liǎng <em>kuài</em> liǎng </span></li>
+<li class="o">两 <em>块</em> 二 <span class="pinyin">liǎng <em>kuài</em> èr </span><span class="trans"> two kuai two mao (2.2) </span></li>
+<li class="x">五 <em>块</em> 两 <span class="pinyin">wǔ <em>kuài</em> liǎng </span></li>
+<li class="o">五 <em>块</em> 二 <span class="pinyin">wǔ <em>kuài</em> èr </span><span class="trans"> five kuai two mao (5.2) </span></li>
+</ul>
+</div>
+
+The first number is the amount of whole RMB (or dollars etc.), and the second is the amount smaller units (e.g. cents). So "3.86 RMB" is 
+
+<div class="liju">
+
+* 三 <em>块</em> 八 毛 六<span class="pinyin">sān <em>kuài</em> bā máo liù</span><span class="trans">three kuai eight mao six fen (3.86)</span>
+
+</div>
+
+And if there's no smaller unit, e.g. "3 RMB," you can just say:
+
+<div class="liju">
+
+* 三 <em>块</em><span class="pinyin">sān <em>kuài</em> </span><span class="trans">Three kuai</span>
+
+</div>
+
+块 (kuài) is the more common, informal way to talk about money. More formally you can use 元 (yuán) in exactly the same way. This is similar to the difference between "dollars" and "bucks" in American English, or "pounds" and "quid" in British English. 块 (kuài) is appropriate in more situations than "bucks" or "quid," though.
+
+==See also==
+
+*[[Indicating a number in excess]]
+*[[Approximating with sequential numbers]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|59}}
+{{Source|A Practical Chinese Grammar For Foreigners (外国人实用汉语语法)|88-9}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|233-4}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{Basic Grammar|块|A2|Number + 块 / 元 (+ Number + 毛 / 角) (+ 钱)|给 你 五 <em>块</em> 三 <em>毛</em>。|grammar point|ASGL6JOE}}
+{{Rel char|元}}
+{{Rel char|毛}}
+{{Rel char|角}}
+{{Similar|Indicating a Number in Excess}}    
+{{Similar|Approximating with sequential numbers}}
+{{Structure|Numbers and Measure Words}}
+{{Used for| Expressing quantity}}

@@ -1,0 +1,85 @@
+<!-- Expressing ongoing duration with double "le" -->
+{{Grammar Box}} 
+
+The 了 (le) particle is used in many different ways. In this article, we will explore how to use the double 了 (le) to express the duration of an activity that is ongoing.
+
+== Ongoing Duration with Simple Verbs ==
+
+Expressing [[Expressing duration with "le"|''how long'' you did something in the past]] is one thing, but what if the action is still ongoing?
+
+A clarifying example (in English) is appropriate:
+
+* I lived in Shanghai for 5 years. (concluded, not ongoing)
+* I have lived in Shanghai for 5 years. (mostly likely ongoing)
+* I have been living in Shanghai for 5 years. (definitely ongoing)
+
+This article is about expressing the third situation above, the one which is ''definitely ongoing''.
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + Verb + 了 + Duration + 了
+
+</div>
+
+The first 了 (le) is placed after the verb (to indicate that the action is completed), followed by the duration, followed by an additional 了 (le) which tells us that the action has not concluded and is ongoing.  You can think of the second 了 (le) as communicating the meaning of "up until now."
+
+=== Examples ===
+
+<div class="liju">
+
+* 你 睡 <em>了</em> <strong>一 天</strong> <em>了</em>。<span class="pinyin">Nǐ shuì <em>le</em> <strong>yī tiān</strong> <em>le</em>.</span><span class="trans">You have been sleeping for the whole day.</span>
+* 他 在 北京 住 <em>了</em> <strong>两 年</strong> <em>了</em>。<span class="pinyin">Tā zài Běijīng zhù <em>le</em> <strong>liǎng nián</strong> <em>le</em>.</span><span class="trans">He has been living in Beijing for two years.</span>
+* 这 个 会，他们 开 <em>了</em> <strong>两 个 小时</strong> <em>了</em>。<span class="pinyin">Zhège huì, tāmen kāi <em>le</em> <strong>liǎng gè xiǎoshí</strong> <em>le</em>.</span><span class="trans">They've been holding this meeting for the past two hours.</span>
+* 我 在 这儿 等 <em>了</em> <strong>半 个 小时</strong> <em>了</em>。<span class="pinyin">Wǒ zài zhèr děng <em>le</em> <strong>bàn gè xiǎoshí</strong> <em>le</em>.</span><span class="trans">I have been waiting here for half an hour.</span>
+* 他们 在 酒吧 待 <em>了</em> <strong>一 个 晚上</strong> <em>了</em>。<span class="pinyin">Tāmen zài jiǔbā dāi <em>le</em> <strong>yī gè wǎnshang</strong> <em>le</em>.</span><span class="trans">They have been staying at the bar for the whole evening.</span>
+
+</div>
+
+== When the Verb Takes an Object ==
+
+=== Structure ===
+
+Note that in the examples above, the verbs have no objects.  When the verb has an object, the verb is often repeated:
+
+<div class="jiegou">
+Subj. + Verb + Obj. + Verb + 了 + Duration + 了
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 我 学 中文 学 <em>了</em> <strong>一 年</strong> <em>了</em>。<span class="pinyin">Wǒ xué Zhōngwén xué <em>le</em> <strong>yī nián</strong> <em>le</em>.</span><span class="trans">I have been learning Chinese for a year.</span>
+* 他 打 电话 打 <em>了</em> <strong>一 个 多 小时</strong> <em>了</em>。<span class="pinyin">Tā dǎ diànhuà dǎ <em>le</em> <strong>yī gè duō xiǎoshí</strong> <em>le</em>.</span><span class="trans">He has been on the phone for more than an hour.</span>
+* 老板 打 游戏 打 <em>了</em> <strong>一 个 上午</strong> <em>了</em>。<span class="pinyin">Lǎobǎn dǎ yóuxì dǎ <em>le</em> <strong>yī gè shàngwǔ</strong> <em>le</em>.</span><span class="trans">The boss has been playing video games all morning.</span>
+* 你 洗澡 洗 <em>了</em> <strong>差不多 一 个 小时</strong> <em>了</em>。<span class="pinyin">Nǐ xǐzǎo xǐ <em>le</em> <strong>chàbuduō yī gè xiǎoshí</strong> <em>le</em>.</span><span class="trans">You have been showering for almost an hour.</span>
+* 妈妈 看电视 看 <em>了</em> <strong>一 晚上</strong> <em>了</em>。<span class="pinyin"> Māma kàn diànshì kàn <em>le</em> <strong>yī wǎnshang</strong> <em>le</em>.</span><span class="trans">Mom has been watching TV all evening.</span>
+
+</div>
+
+== Sources and Further Reading == 
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|58}}
+{{Source|Basic Patterns of Chinese Grammar|68}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|203-4}}
+{{Source|Integrated Chinese: Level 2, Part 1|13-4}}
+
+=== Websites ===
+
+* Yale: [http://comet.cls.yale.edu/mandarin/content/Lele/grammar/Lele.htm The Perfective –Le了 Versus The Modal Particle Le了]
+
+[[Category:A2 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|了|A2|Verb + 了 + Duration + 了|他 在 北京 住 <em>了 两 年 了</em>。|grammar point|ASG69RR8}}
+{{Rel char|了}}
+{{Used for|Expressing time and date}}
+{{Used for|Expressing duration}}
+{{Used for|Referring to the past}}
+{{Similar|Expressing duration of inaction}}
+{{Similar|Expressing duration with "le"}}
+{{POS|Verbs}}
+{{Subprop|Verb phrases}}

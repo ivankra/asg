@@ -1,0 +1,92 @@
+<!-- Emphatic adverb "ke" -->
+{{Grammar Box}} 
+可 (kě) can be used to intensify an adjective, or to add emphasis to a verb. It is stronger than other modifiers, as 可 compares the speaker‘s expectations with the actual situation. The meaning of 可 is very reliant on context. 
+
+可 is generally used by Northern speakers and is informal, generally only used in spoken Chinese.
+
+==可 Used to Intensify an Adjective==
+
+===Structure===
+
+<div class="jiegou">
+
+可 + Adj. + 了
+
+</div>
+
+The 了 is almost always there, but it's not 100%.
+
+===Examples===
+
+In these examples, 可 is used a bit like 很, as it is used to intensify an adjective:
+
+<div class="liju">
+
+* 这 只 小 狗 <em>可</em> 淘气 了！<span class="expl">The speaker never expected puppies to be this naughty</span><span class="pinyin">Zhè zhǐ xiǎo gǒu <em>kě</em> táoqì le!</span><span class="trans">This puppy is so naughty!</span> 
+* 我 姐姐 <em>可</em> 好 了！有 什么 好吃 的 都 给 我 留着。<span class="pinyin">Wǒ jiějie <em>kě</em> hǎo le! Yǒu shénme hǎochī de dōu gěi wǒ liúzhe.</span><span class="trans">My sister is great! Any good food there is she saves some for me.</span>
+* 他 <em>可</em> 优秀 了！你 不 想 见见 吗？<span class="pinyin">Tā <em>kě</em> yōuxiù le! Nǐ bù xiǎng jiànjian ma?</span><span class="trans">He is really excellent! Don't you want to meet him?</span>
+* 这 个 游戏 <em>可</em> 好玩 了！推荐 给 你。<span class="pinyin">Zhège yóuxì <em>kě</em> hǎowán le! Tuījiàn gěi nǐ.</span><span class="trans">This game is really fun! I recommend it to you.</span>
+* 哇 ，这 个 糖醋 里脊 <em>可</em> 好吃 了！<span class="expl">The speaker never dreamt that sweet and sour pork could taste this good</span><span class="pinyin">Wa, zhège tángcù lǐjí <em>kě</em> hǎochī le!</span><span class="trans">Wow! This sweet and sour pork is delicious!</span> 
+
+</div>
+
+==可 Used to Emphasize a Verb==
+
+===Structure===
+
+<div class="jiegou">
+
+可 + Verb Phrase
+
+</div>
+
+了 is not needed in this pattern, but may be present.
+
+===Examples===
+
+In these examples 可 is used with 别, and sounds a bit like "don't even think about..." in English.
+
+<div class="liju">
+
+* 你 <em>可</em> 别 喝 太 多 酒。 <span class="expl">I know you usually drink a lot, but NOT THIS TIME</span><span class="pinyin">Nǐ <em>kě</em> bié hē tài duō jiǔ.</span><span class="trans">Don't drink too much.</span>
+* 你 <em>可</em> 别 走！ <span class="expl">I'm blocking your way, almost pleading with you, as I believe you are going to leave</span><span class="pinyin">Nǐ <em>kě</em> bié zǒu!</span><span class="trans">Don't go!</span>
+* 话 <em>可</em> 不 能 这样 说。 <span class="expl">What you said doesn't accord with my own beliefs</span><span class="pinyin">Huà <em>kě</em> bù néng zhèyàng shuō.</span><span class="trans">You really can't say that.</span>
+
+</div>
+
+==可 as "Finally"==
+
+Sometimes 可 acts like 终于 (zhōngyú), meaning "finally."
+
+===Structure===
+
+<div class="jiegou">
+
+可 + Verb Phrase + 了
+
+</div>
+
+了 will pretty much always be needed when you're talking about something "finally" happening.
+
+===Examples===
+
+<div class="liju">
+* 你 <em>可</em> 来 了! <span class="expl">The speaker never expected it would take so long for you to get here</span><span class="pinyin">Nǐ <em>kě</em> lái le!</span><span class="trans">You're finally here!</span>
+* <em>可</em> 做 完 了 所有 的 工作。<span class="pinyin"><em>Kě</em> zuò wán le suǒyǒu de gōngzuò.</span><span class="trans">I've finally finished all the work.</span> 
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+{{Source|HSK Standard Course 4下|76}}
+{{Source|Integrated Chinese: Level 2, Part 1|270-1}}
+{{Source|Integrated Chinese: Level 2, Part 2|56}}]
+
+[[Category: B2 grammar points]]
+{{HSK|HSK4}}
+[[Category: Adverbs]]
+{{Basic Grammar|可|B2|可 + Adj. (+ 了)|这 件 事情 对 他 造成 的 影响 <em>可</em> 大 了 。|grammar point|ASGSPAKW}}
+{{POS|Adverbs}}
+{{Translation|very}}
+{{Used for| Expressing quality}}
+{{Used for|Emphasizing}}

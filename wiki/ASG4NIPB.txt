@@ -1,0 +1,82 @@
+<!-- Expressing "even more" with "geng" -->
+{{Grammar Box}} 
+
+To express "even more," (as in "even more expensive," "even more ridiculous," "even more badass"), you can use 更 (gèng). 更 (gèng) generally comes before [[adjective]]s.
+
+== Basic Usage ==
+
+=== Structure ===
+
+The pattern in Chinese is simple:
+
+<div class="jiegou">
+更 + Adj.
+</div>
+
+Note that this pattern is not simply a way of adding "-er" to an adjective or a substitute for [[Basic comparisons with "bi"|比 (bǐ) comparisons]].  In each case, you're adding "even more" to an existing considerable amount, as in, "I'm already rich, but I want to be even richer."
+
+=== Examples ===
+
+<div class="liju">
+
+*这 两个 银行 哪 个 <em>更</em> 近 ？<span class="pinyin"> Zhè liǎng gè yínháng nǎge <em>gèng</em> jìn? </span><span class="trans">Between these two banks, which one is closer? </span>
+*我 想 找 一 个 <em>更</em> 帅 的 男朋友。 <span class="expl pdf-long-expl">It is implied that my boyfriend now is already handsome, but I want to find an even more handsome boyfriend.</span><span class="pinyin">Wǒ xiǎng zhǎo yī gè <em>gèng</em> shuài de nánpéngyou.</span><span class="trans">I want to find a more handsome boyfriend.</span>
+*我 喜欢 在 网上 买书，因为 <em>更</em> 便宜。 <span class="pinyin">Wǒ xǐhuan zài wǎngshàng mǎi shū, yīnwèi <em>gèng</em> piányi.</span><span class="trans">I like buying books online because it's cheaper.</span>
+*不要 太 高兴，我们 还 有 <em>更</em> 多 的 工作 要 做。 <span class="expl pdf-long-expl">It is implied that a lot of work has already been done but there is still "even more" work left.</span><span class="pinyin">Bùyào tài gāoxìng, wǒmen hái yǒu <em>gèng</em> duō de gōngzuò yào zuò.</span><span class="trans">Don't get too excited. We still have more work to do.</span>
+*结婚 以后， 她 变 得 <em>更</em> 漂亮 了。<span class="pinyin">Jiéhūn yǐhòu, tā biàn de <em>gèng</em> piàoliang le.</span><span class="trans">She's become more beautiful after she got married.</span>
+
+</div>
+
+== Structure with 比 (bǐ) ==
+
+While 更 (gèng) is not a substitute for [[Basic comparisons with "bi"|比 (bǐ) (the classic comparison word)]], the two can be used together.
+
+=== Structure ===
+
+<div class="jiegou">
+A 比 B + 更 + Adj.
+</div>
+
+This expresses that "A is '''even more''' Adj. than B."
+
+=== Examples ===
+
+<div class="liju">
+
+*北京 的 房子 <em> 比</em> 上海 <em>更</em> 贵。<span class="pinyin">Běijīng de fángzi <em> bǐ</em> Shànghǎi <em>gèng</em> guì.</span><span class="trans">The houses in Beijing are even more expensive than those in Shanghai.</span>
+*春节 <em> 比</em>中秋节<em>更</em> 热闹。 <span class="pinyin">Chūnjié <em> bǐ</em> Zhōngqiūjié <em>gèng</em>  rènao.</span><span class="trans">Spring Festival is even more boisterous than Mid-autumn Festival.</span>
+*汉字 <em> 比</em> 声调 <em>更</em> 难。<span class="pinyin">Hànzì <em> bǐ</em> shēngdiào <em>gèng</em> nán.</span><span class="trans">Chinese characters are even more difficult than tones.</span>
+*他 现在 的 女朋友 <em> 比</em> 以前 的 <em>更</em> 漂亮。 <span class="pinyin">Tā xiànzài de nǚpéngyou <em> bǐ</em> yǐqián de <em>gèng</em> piàoliang.</span><span class="trans">His current girlfriend is even more beautiful than his previous one.</span>
+*中国 的 高铁 <em> 比</em> 飞机 <em>更</em> 方便。 <span class="pinyin">Zhōngguó de gāotiě  <em> bǐ</em> fēijī <em>gèng</em> fāngbiàn.</span><span class="trans">China's high-speed trains are even more convenient than airplanes.</span>
+
+</div>
+
+==See also==
+
+*[[Expressing "More and More" with "yue… yue…"]]
+*[[The "zui" superlative]]
+*[[Basic comparisons with "bi"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|现代汉语八百词（增订本）|231}}
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3) |15}}
+{{Source|Chinese: An Essential Grammar, Second Edition|54}}
+
+=== Dictionaries ===
+
+* [[现代汉语词典（第5版）]] (p. 468) [http://www.amazon.cn/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E8%AF%8D%E5%85%B8/dp/B001B1RZCI/ref=sr_1_1?ie=UTF8&qid=1345693609&sr=8-1 →buy]
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|更|A2|更 + Adj.|我 想 找 一个 <em>更</em> 有钱 的 男朋友。|grammar point|ASG4NIPB}}
+{{Similar|Expressing "More and More" with "yue… yue…"}} 
+{{Similar|The "zui" superlative}}
+{{Used for| Expressing quality}}
+{{Used for|Comparing}}
+{{Translation|even more}}
+{{Translation|even}}
+{{Translation|more}}
+{{POS|Adverbs with Adjectives}}

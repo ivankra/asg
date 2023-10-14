@@ -1,0 +1,78 @@
+<!-- Expressing "and then" with "yushi" -->
+{{Grammar Box}} 
+于是 is a conjunction used to express a continuation between two events. The second event is the direct result of the first event. You'll often hear 于是 used in storytelling.
+
+== Structure ==
+
+于是 is a conjunction that comes between two clauses. Its closest English equivalent would be "and then." Since 于是 can only be used to talk about the past, 了 is often used in the same sentence. 
+
+<div class="jiegou">
+⋯⋯ ，于是 ⋯⋯ + 了
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*我 看 大家 都 买 了 ，<em>于是</em> 我 也 买 <strong>了</strong> 。<span class="pinyin">Wǒ kàn dàjiā dōu mǎi le, <em>yúshì</em> wǒ yě mǎi <strong>le</strong>.</span><span class="trans">I saw everyone was buying it. So then I bought it, too.</span>
+*昨天 突然 下雨 了 ，<em>于是</em> 我们 取消 <strong>了</strong> 野餐 的 计划 。<span class="pinyin">Zuótiān tūrán xiàyǔ le, <em>yúshì</em> wǒmen qǔxiāo <strong>le</strong> yěcān de jìhuà.</span><span class="trans">It rained yesterday, so we cancelled the picnic.</span>
+*网站 上 的 票 已经 卖光 了 ，<em>于是</em> 我们 买 <strong>了</strong> 黄牛票 。<span class="pinyin">Wǎngzhàn shang de piào yǐjīng mài guāng le, <em>yúshì</em> wǒmen mǎi <strong>le</strong> huángniú piào.</span><span class="trans">The tickets on the website were all sold out. So then we bought tickets from scalpers.</span>
+*他 的 英语 太差 了，<em>于是</em> ，他 妈妈 给 他 请 <strong>了</strong> 一个 英语 家教 。<span class="pinyin">Tā de Yīngyǔ tài chà le, <em>yúshì</em>, tā māma gěi tā qǐng <strong>le</strong> yī gè Yīngyǔ jiājiào.</span><span class="trans">His English was too terrible. So then his mother hired an English tutor for him.</span>
+*她 发现 男朋友 已经 结婚 了 。<em>于是</em> ，她 马上 跟 他 分手 <strong>了</strong> 。<span class="pinyin">Tā fāxiàn nánpéngyou yǐjīng jiéhūn le. <em>Yúshì</em>, tā mǎshàng gēn tā fēnshǒu <strong>le</strong>.</span><span class="trans">She found out that her boyfriend was already married. So she immediately broke up with him.</span>
+
+</div>
+
+== 于是 Used with 就 ==
+
+于是 is often used with 就 to emphasize that the actions or events that come after 就 are immediately after the first event. 
+
+<div class="liju">
+
+*电影 太 暴力 了 ，我们 实在 看 不 下去 了 ，<em>于是</em> <strong>就</strong> 走 <strong>了</strong> 。<span class="pinyin">Diànyǐng tài bàolì le, wǒmen shízài kàn bu xiàqù le, <em>yúshì</em> <strong>jiù</strong> zǒu <strong>le</strong>.</span><span class="trans">This movie was so violent, we couldn't bear watching it anymore. So then we left.</span>
+*他 实在 太 懒 了 ，<em>于是</em> 老板 <strong>就</strong> 把 他 辞 <strong>了</strong> 。<span class="pinyin">Tā shízài tài lǎn le, <em>yúshì</em> lǎobǎn <strong>jiù</strong> bǎ tā cí <strong>le</strong>.</span><span class="trans">He was way too lazy, so the boss just let him go.</span>
+*我 很 喜欢 这个 手机 ，<em>于是</em> <strong>就</strong> 买 下来 <strong>了</strong> 。<span class="pinyin">Wǒ hěn xǐhuan zhè ge shǒujī, <em>yúshì</em> <strong>jiù</strong> mǎi xiàlai <strong>le</strong>.</span><span class="trans">I really like this cell phone, so I just bought it.</span>
+*那个 学生 学习 不 认真，<em>于是</em> <strong>就</strong> 被 他的 妈妈 骂 <strong>了</strong> 。<span class="pinyin">Nàge xuéshēng xuéxí bù rènzhēn, <em>yúshì</em> <strong>jiù</strong> bèi tā de māma mà <strong>le</strong>.</span><span class="trans">That student didn't study seriously, so he was scolded by his mother.</span>
+* 刚刚 跟 朋友 聊到 了 旅行 ， 于是 两 个 人 就 打开 了 话匣子 ， 聊 了 起来 。 <span class="pinyin">Gānggāng gēn péngyou liáo dào le lǚxíng, yúshì liǎng gè rén jiù dǎkāi le huàxiázi, liáo le qǐlai.</span><span class="trans">While chatting they had just gotten to the topic of travel, and then the two of them really got going, talking non-stop.</span>
+</div>
+
+== 因此 vs. 于是 ==
+
+While they may seem very similar, 因此 is not quite the same as 于是. When using 因此, it acts as a conjunction that expresses the cause and effect. Because of the reasons in clause one, clause two reaches this result or conclusion.
+
+*因此 emphasizes a cause and effect relationship. 于是 emphasizes that the first event is closely followed by the second event. 
+
+*于是 can only be used to recount events that happened in the past. 
+
+*因此 is more formal and mostly used in writing. 于是 is more commonly used when speaking. 
+
+<div class="liju">
+
+<ul>
+<li class="x">他 经常 随便 开玩笑 ，<em>于是</em> ，大家 都 不 喜欢 跟 他 说话 。<span class="pinyin">Tā jīngcháng suíbiàn kāiwánxiào, <em>yúshì</em>, dàjiā dōu bù xǐhuan gēn tā shuōhuà.</span></li>
+<li class="o">他 经常 随便 开玩笑 ，<em>因此</em> ，大家 都 不 喜欢 跟 他 说话 。<span class="pinyin">Tā jīngcháng suíbiàn kāiwánxiào, <em>yīncǐ</em>, dàjiā dōu bù xǐhuan gēn tā shuōhuà.</span><span class="trans">He often makes jokes recklessly. Therefore, people doesn't like to talk to him.</span></li>
+</div>
+
+In the incorrect sentence above, it is not two sequential events that happened in the past, so 于是 is not appropriate. In the correct sentence, there is a clear cause-effect relationship, so 因此 is used.
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4下|49}}
+{{Source|现代汉语虚词手册|326}}
+{{Source|现代汉语八百词（增订本）|636}}
+{{Source|对外汉语教学语法释疑201例|362}}
+
+[[Category: B2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|于是|B2|⋯⋯ ，于是 ⋯⋯|他 实在 太 懒 了 ，<em>于是</em> 老板 把 他 辞 了 。|grammar point|ASG4FB55}}
+{{Rel char|于}}
+{{Rel char|是}}
+{{Used for|Expressing result}}
+{{Used for|Indicating cause and effect}}
+{{Used for|Sequencing events in time}}
+{{Similar|Expressing "therefore" with "yinci"}}
+{{POS|Conjunctions}}
+{{Translation|and then}}
+{{Translation|then}}
+{{Translation|so}}

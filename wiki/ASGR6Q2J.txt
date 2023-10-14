@@ -1,0 +1,54 @@
+<!-- Expressing "let alone" with "bie shuo" -->
+{{Grammar Box}} 
+别说 (bié shuō) means something like "leaving aside" or "don't think about," and is used in the following way:
+
+==Structure==
+
+<div class="jiegou">
+
+别说 + A ， 连  / 就是+ B + 也 / 都 + Verb
+
+</div>
+
+This is similar to English where we might say: "don't think about preparing a banquet, you can't even make instant noodles." Note that this sentence structure is the reverse to the [["Let Alone" with "geng buyong shuo"|更不用说]] pattern.
+
+== Examples ==
+
+<div class="liju">
+
+*<em>别说</em> 一百， <em>就是</em> 一 块 钱 我 <em>也</em> 不 给 你 。<span class="pinyin"><em>Bié shuō</em> yībǎi, <em>jiùshì</em> yīkuài qián wǒ <em>yě</em> bù gěi nǐ.</span><span class="trans">Don't think about one hundred, I won't even give you one kuai.</span>
+*<em>别说</em> 白酒，<em>连</em> 啤酒 的 味道 我 <em>都</em> 受 不了。<span class="pinyin"><em>Bié shuō</em> báijiǔ, <em>lián</em> píjiǔ de wèidào wǒ <em>dōu</em> shòubuliǎo.</span><span class="trans">Don't even mention baijiu; I can't even stand the taste of beer.</span>
+*<em>别说</em> 英语， 你 说 中文 我 <em>也</em> 不 知道 怎么 回答。<span class="pinyin"><em>Bié shuō</em> Yīngyǔ, nǐ shuō Zhōngwén wǒ <em>yě</em> bù zhīdào zěnme huídá.</span><span class="trans">Forget about English! Even if you speak Chinese, I don't know how to answer.</span>
+*这么 难 的 问题，<em>别说</em> 你，<em>就是</em> 老师 <em>也</em> 不 知道 答案。<span class="pinyin">Zhème nán de wèntí, <em>bié shuō</em> nǐ, <em>jiùshì</em> lǎoshī <em>yě</em> bù zhīdào dá'àn.</span><span class="trans">Such a hard question! Even the teacher doesn't know the answer, let alone you.</span>
+*<em>别说</em> 做 菜 了，他 <em>连</em> 怎么 煮 方便面 <em>都</em> 不 知道。<span class="pinyin"><em>Bié shuō</em> zuò cài le, tā <em>lián</em> zěnme zhǔ fāngbiànmiàn <em>dōu</em> bù zhīdào.</span><span class="trans">Don't even think about cooking. He doesn't even know how to boil instant noodles.</span>
+*<em>别说</em> 旅游 了，他 <em>连</em> 出门 <em>都</em> 不 想 出。<span class="pinyin"><em>Bié shuō</em> lǚyóu le, tā <em>lián</em> chūmén <em>dōu</em> bù xiǎng chū.</span><span class="trans">Don't even mention traveling; he doesn't even want to go outside the house.</span>
+*<em>别说</em> 是 我， <em>连</em> 你 妈妈 <em>也</em> 不 会 原谅 你。<span class="pinyin"><em>Bié shuō</em> shì wǒ, <em>lián</em> nǐ māma <em>yě</em> bù huì yuánliàng nǐ.</span><span class="trans">Even your own mother won't forgive you, let alone me.</span>
+*这么 贵 的 房子 ，<em>别说</em> 你，<em>就是</em> 我 <em>也</em> 会 想 要 的。<span class="pinyin">Zhème guì de fángzi, <em>bié shuō</em> nǐ, <em>jiùshì</em> wǒ <em>yě</em> huì xiǎng yào de.</span><span class="trans">Such an expensive house! Even I would want it, let alone you.</span>
+*这 件 事情 ，<em>别说</em> 你 ，任何 人 看到 <em>都</em> 会 帮忙 的 。<span class="pinyin">Zhè jiàn shìqing, <em>bié shuō</em> nǐ, rènhé rén kāndào <em>dōu</em> huì bāngmáng de.</span><span class="trans">Anyone who sees the situation would help, let alone you.</span>
+*<em>别说</em> 你 了， <em>就是</em> 我 弟弟 来 <em>也</em> 要 买 票。 <span class="pinyin"><em>Bié shuō</em> nǐ le, <em>jiùshì</em> wǒ dìdi lái <em>yě</em> yào mǎi piào.</span><span class="trans">Even my brother needs to buy a ticket if he comes, let alone you.</span>
+</div>
+
+且不说 is more formal than 别说, but is used in the same way.
+
+== See also ==
+
+*[["Let Alone" with "hekuang"]]
+*[[Advanced uses of "lian"]]
+*[["Let Alone" with "geng buyong shuo"]]
+*[[Expressing "Even" with "lian" and "dou"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|现代汉语八百词（增订本）|85}}
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|别说|B2|别说⋯⋯，就是⋯⋯|<em>别说</em> 一百 ， <em>就是</em> 一 块 钱 我 也 不 给 你 。|grammar point|ASGR6Q2J}}
+{{Rel char|就是}}
+{{Similar|"Let Alone" with "hekuang"}}
+{{Similar|"Let Alone" with "geng buyong shuo"}}
+{{Similar|Expressing "even" with "lian" and "dou"}}
+{{Structure|Sentence Patterns}}
+{{Used for|Expressing determination}}
+{{Subprop|Let alone}}

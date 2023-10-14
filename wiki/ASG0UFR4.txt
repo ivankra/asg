@@ -1,0 +1,76 @@
+<!-- The "shi... de" construction for indicating purpose -->
+{{Grammar Box}} 
+
+There are many ways to explain why you are doing something or what an object is used for. One of the more natural ways just happens to involve 是⋯⋯的. This is a different usage from the [[The "shi... de" construction for emphasizing details|"classic" 是⋯⋯的 pattern]].
+
+== A Person as Subject ==
+
+=== Structure ===
+
+If the subject is a person, there is often a 来 or 去 after the 是, indicating direction like "coming here" or "going there."
+
+<div class="jiegou">
+Person + 是 + 来 / 去 + Verb+ 的
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我 <em>是</em> <strong>来</strong> 玩 <em>的</em> 。<span class="pinyin">Wǒ <em>shì</em> <strong>lái</strong> wán <em>de</em>.</span><span class="trans">I came for fun.</span>
+*我们 都 <em>是</em> <strong>去</strong> 出差 <em>的</em> 。<span class="pinyin">Wǒmen dōu <em>shì</em> <strong>qù</strong> chūchāi <em>de</em>.</span><span class="trans">We are all going on business trips.</span>
+*他们 都 <em>是</em> <strong>来</strong> 实习 <em>的</em> 。<span class="pinyin">Tāmen dōu <em>shì</em> <strong>lái</strong> shíxí <em>de</em>.</span><span class="trans">They all came here to do internships.</span>
+*你 真的 <em>是</em> <strong>来</strong> 帮 我们 <em>的</em> 吗 ？<span class="pinyin"> Nǐ zhēnde  <em>shì</em> <strong>lái</strong> bāng wǒmen <em>de</em> ma?</span><span class="trans">Are you really here to help us? </span>
+*我们 不 <em>是</em> <strong>去</strong> 玩 <em>的</em> ，<em>是</em> <strong>去</strong> 做 调查 <em>的</em> 。<span class="pinyin">Wǒmen bù <em>shì</em> <strong>qù</strong> wán <em>de</em>, <em>shì</em> <strong>qù</strong> zuò diàochá <em>de</em>.</span><span class="trans">We're not going for fun. We're going to do research.</span>
+
+</div>
+
+== A Thing as Subject ==
+
+=== Structure ===
+
+If the subject is a thing, 用来 is often used. Look at the examples below for some more clarification.
+
+<div class="jiegou">
+Thing + 是 + 用来 + Verb + 的
+</div>
+
+or
+
+<div class="jiegou">
+Thing + 是 + 给 + Person + Verb + 的
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*这 种 菜 <em>是</em> <strong>用来</strong> 做 汤 <em>的</em> 。<span class="pinyin">Zhè zhǒng cài <em>shì</em> <strong>yònglái</strong> zuò tāng <em>de</em>.</span><span class="trans">This kind of vegetable is for making soup.</span>
+*这个 房间 <em>是</em> <strong>给</strong> 客人 住 <em>的</em> 。<span class="pinyin">Zhège fángjiān <em>shì</em> <strong>gěi</strong> kèrén zhù <em>de</em>.</span><span class="trans">This room is for our guest to stay in.</span>
+*这些 钱 <em>是</em> <strong>给</strong> 孩子 上 大学 <em>的</em> 。<span class="pinyin">Zhèxiē qián <em>shì</em> <strong>gěi</strong> háizi shàng dàxué <em>de</em>.</span><span class="trans">This money is for our child's college education.</span>
+*这些 礼物 <em>是</em> <strong>给</strong> 客户 准备 <em>的</em> 。<span class="pinyin">Zhèxiē lǐwù <em>shì</em> <strong>gěi</strong> kèhù zhǔnbèi <em>de</em>.</span><span class="trans">These presents have been prepared for the clients.</span>
+*钱 <em>是</em> <strong>用来</strong> 花 <em>的</em> ，不 <em>是</em> <strong>用来</strong> 省<em>的</em> 。<span class="pinyin">Qián <em>shì</em> <strong>yònglái</strong> huā <em>de</em>, bù <em>shì</em> <strong>yònglái</strong> shěng <em>de</em>.</span><span class="trans">Money is for spending, not for saving.</span>
+
+</div>
+
+== See also ==
+
+*[[The "shi... de" patterns: an overview]]
+*[[The "shi... de" construction for emphasizing details]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|28}}
+[[Category:B1 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+[[Category:Structures]]
+{{Basic Grammar|是|B1|是⋯⋯ 的|我 <em>是</em> 来 上海 旅游 <em>的</em> 。|grammar point|ASG0UFR4}}
+{{Rel char|的}}
+{{Similar|的 (modal particle)}}
+{{Similar|The "shi... de" construction for emphasizing details}}
+{{Similar|The "shi... de" patterns: an overview}}
+{{Used for|Emphasizing}}
+{{Used for|Expressing purpose}}
+{{Structure|Sentence Patterns}}

@@ -1,0 +1,52 @@
+<!-- Expressing "with regards to" with "zhiyu" -->
+{{Grammar Box}} 
+至于 (zhìyú), meaning "with regards to" or "as to," is used when the speaker wants to comment on a topic related to the previously discussed one.
+
+==Structure==
+
+This structure is used similarly to "with regards to" in English. Just put at the beginning of the sentence, before the further comment you want to make. 
+
+<div class="jiegou">
+至于 + Topic， Comment
+</div>
+
+==Examples==
+
+Note: 至于 is used after some other discussion or comments. It is ''not'' used to start a new discussion free of context.
+
+<div class="liju">
+* 项目 方案 我 给 老板 了 。 <em>至于</em> 老板 同 不 同意，要 看 老板 了。<span class="pinyin">Xiàngmù fāng'àn wǒ gěi lǎobǎn le. <em>Zhìyú</em> lǎobǎn tóng bu tóngyì, yào kàn lǎobǎn le.</span><span class="trans">I've given the project proposal to my boss. Iit's up to him whether he agrees or not.</span> 
+* 他 足球 踢得 不错，<em>至于</em> 篮球，那 就 一般 了。<span class="pinyin">Tā zúqiú tī de bùcuò, <em>zhìyú</em> lánqiú, nà jiù yībān le.</span><span class="trans">He is a good soccer player, but just average at basketball.</span>
+* 我 很 喜欢 读书，<em>至于</em> 什么 书，没有 限制 。<span class="pinyin">Wǒ hěn xǐhuan dúshū, <em>zhìyú</em> shénme shū, méiyǒu xiànzhì.</span><span class="trans">I like reading very much. As for what books, there are no limits.</span>
+* 我 已经 和 你 说 很 多 了 ，<em>至于</em> 这个 问题，你 自己 好好 想想。<span class="pinyin">Wǒ yǐjīng hé nǐ shuō hěn duō le, <em>zhìyú</em> zhège wèntí, nǐ zìjǐ hǎohāo xiǎngxiang.</span><span class="trans">I've already told you a lot. As for this question, just think about it yourself.</span>
+* 我 只能 帮 你 这么 多，<em>至于</em> 后面 怎么 做 ，你 要 自己 努力 了。<span class="pinyin">Wǒ zhǐ néng bāng nǐ zhème duō, <em>zhìyú</em> hòumiàn zěnme zuò, nǐ yào zìjǐ nǔlì le.</span><span class="trans">That's all I can do for you. As for what to do later, you're going to have to work hard on your own.</span> 
+* 我 过年 一定 会 回家 的，<em>至于</em> 她 回 不 回去，我 不 关心。<span class="pinyin">Wǒ guònián yīdìng huì huí jiā de, <em>zhìyú</em> tā huí bù huíqù, wǒ bù guānxīn.</span><span class="trans">I'll definitely go home for Chinese New Year, but as for whether she goes back or not, I'm not involved.</span>
+* 小猫 我 先 养着，<em>至于</em> 钱 的 事儿 ，以后 再 说 。<span class="pinyin">Xiǎo māo wǒ xiān yǎngzhe, <em>zhìyú</em> qián de shì er, yǐhòu zàishuō.</span><span class="trans">I'll raise the kitten for now, and as for the matter of money, we'll talk about it later.</span>
+* 我 已经 尽力 了 ，<em>至于</em> 结果 只 能 看 运气 了 。<span class="pinyin">Wǒ yǐjīng jìnlì le, <em>zhìyú</em> jiéguǒ zhǐ néng kàn yùnqì le.</span><span class="trans">I've already tried my best. With regards to the results, it all depends on luck.</span>
+* 她 跟 我 说 明天 回来 ，<em>至于</em> 具体 的 时间，我 就 不 知道 了 。<span class="pinyin">Tā gēn wǒ shuō míngtiān huílái, <em>zhìyú</em> jùtǐ de shíjiān, wǒ jiù bù zhīdào le.</span><span class="trans">She told me she was coming back tomorrow. With regards to the specific time, I don't know about that.</span>
+* 律师 只能 为 他 的 客户 辩护，<em>至于</em> 最后 的 判决 ，那 就 取决于 法官 了 。<span class="pinyin">Lǜshī zhǐ néng wèi tā de kèhù biànhù, <em>zhìyú</em> zuìhòu de pànjué, nà jiù qǔjué yú fǎguān le.</span><span class="trans">A lawyer can only defend her client. As for the verdict, that depends on the judge.</span>
+</div>
+
+==See also==
+*[[Limiting scope with "jiu"]]
+*[["For…" with "eryan"]]
+*[[Marking a topic with "de hua"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Boya Chinese Upper Intermediate 1 (博雅汉语中级冲刺篇)|28}} 
+{{Source|Integrated Chinese: Level 2, Part 1|154-5}}
+{{Source|Short-term Spoken Chinese: Intermediate (汉语口语速成中级篇)|115}} 
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|至于|B2|至于 + Topic， Comment|你 先 看 产品 。 <em>至于</em> 价格 ， 我们 再 商量 。|grammar point|ASGZRKTG}}
+{{Rel char|于}}
+{{Similar|Limiting Scope with "jiu"}}
+{{Similar|"For…" with "eryan"}}
+{{Similar|Marking a Topic with "de hua"}}
+{{Similar|Comparing "duiyu" and "zhiyu"}}
+{{Used for|Adding more explanation}}
+{{Used for|Connecting ideas}}
+{{POS|Prepositions}}

@@ -1,0 +1,239 @@
+<!-- Comparing "hui," "neng," "keyi" -->
+{{Grammar Box}} 
+
+The three [[modal verb]]s 会 (huì), 能 (néng), and 可以 (kěyǐ) are all often translated as "[[can]]" in English. Sometimes they are explained as: 会 means "know how to," 能 means "to be able to," and 可以 means "to have permission to." This is a useful way of thinking about them, but in reality their usage does overlap somewhat.
+
+== Basic Meanings ==
+
+The words 会, 能, and 可以 actually overlap a little in meaning. The first step is to understand their basic meanings, though:
+
+# 会 can mean "know how to" and can express an action that you had to ''learn'' or ''be trained in'' to do. 
+# 能 means "to be able to" and expresses having a certain ''ability'' or having obtained a certain minimum ''requirement''.
+# 可以 means "may" or "to be allowed to" and expresses having another person's ''permission''.
+
+As for overlap, this graphic helps explain nicely:
+
+[[File:Hui-neng-keyi-venn-diagram.png]]
+
+The regions marked by letters are explained in the sections below:
+
+* A: ability in the sense of “know how to” (会 is more common than 能)
+* B: permission/request (use 能 or 可以)
+* C: possibility (use 能 or 可以)
+* D: permission not granted (use 不可以)
+* E: impossibility (use 不能)
+
+== Expressing Ability ==
+
+Both 会 and 能  can be used to express ability in something. 
+
+=== Structure ===
+
+<div class="jiegou">
+会／能 + Verb
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我们 都 <em>会</em> 游泳 。<span class="pinyin">Wǒmen dōu <em>huì</em> yóuyǒng.</span><span class="trans">We all know how to swim.</span>
+*他 不 <em>会</em> 修 电脑 。<span class="pinyin">Tā bù <em>huì</em> xiū diànnǎo.</span><span class="trans">He doesn't know how to fix computers.</span>
+
+</div>
+
+<div class="liju">
+
+<ul class="dialog">
+<li><span class="speaker">A:</span> 你 <em>会</em> 说 中文 吗 ？<span class="pinyin">Nǐ <em>huì</em> shuō Zhōngwén ma?</span><span class="trans">Can you speak Chinese?</span></li>
+<li><span class="speaker">B:</span> 不 好意思 ，我 只 <em>会</em> 说 一点 。<span class="pinyin">Bù hǎoyìsi, wǒ zhǐ <em>huì</em> shuō yīdiǎn.</span><span class="trans">Sorry, I can only speak a little.</span></li>
+</ul>
+
+</div>
+
+<div class="liju">
+
+<ul class="dialog">
+<li><span class="speaker">A:</span>你 <em>能</em> 吃 三 碗 米饭 吗 ？<span class="pinyin">Nǐ <em>néng</em> chī sān wǎn mǐfàn ma?</span><span class="trans">Are you able to eat three bowls of rice?</span></li>
+<li><span class="speaker">B:</span> 不 <em>能</em>  。<span class="pinyin">Bù <em>néng</em>.</span><span class="trans">I can't.</span></li>
+</ul>
+
+</div>
+
+== Expressing Permission ==
+
+可以 is used to ask for or give permission. However, 能 can also be used to replace 可以 interchangeably.
+
+'''Note:''' When a question is asked using 能 or 可以 it can be answered with 不能 or 不可以, meaning no, and only 可以 meaning yes. Chinese don't really answer with just 能 when it comes to permission. 
+
+=== Structure ===
+
+<div class="jiegou">
+可以 / 能 + Verb
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+<ul class="dialog">
+<li><span class="speaker">A:</span>老师 ，我 <em>可以</em> 早点 走 吗 ？<span class="pinyin">Lǎoshī, wǒ <em>kěyǐ</em> zǎo diǎn zǒu ma?</span><span class="trans">Teacher, can I leave a little early?</span></li>
+<li><span class="speaker">B:</span>不 可以 。<span class="pinyin">Bù <em>kěyǐ</em>.</span><span class="trans">No, you can't.</span></li>
+</ul>
+
+</div>
+
+<div class="liju">
+
+<ul class="dialog">
+<li><span class="speaker">A:</span> 我 <em>能</em> 在 这里 抽烟 吗 ？<span class="pinyin">Wǒ <em>néng</em> zài zhèlǐ chōuyān ma?</span><span class="trans">Can I smoke here?</span></li>
+<li><span class="speaker">B:</span> 不 <em>能</em> 。<span class="pinyin">Bù <em>néng</em>.</span><span class="trans">No, you can't.</span></li>
+</ul>
+
+</div>
+
+== Expressing Possibility ==
+
+能 and 可以 can also be used to express possibility.
+
+=== Structure ===
+
+<div class="jiegou">
+可以 / 能 + Verb
+</div>
+
+=== Example  ===
+
+<div class="liju">
+
+*明天 你 <em>能</em> 早点 来 吗 ？<span class="pinyin">Míngtiān nǐ <em>néng</em> zǎodiǎn lái ma?</span><span class="trans">Is it possible for you to come a little earlier tomorrow?</span>
+*<em>可 不 可以</em> 换 时间 ？<span class="pinyin"><em>Kě bu kěyǐ</em> huàn shíjiān?</span><span class="trans">Is it possible to change the time?</span>
+
+</div>
+
+<div class="liju">
+
+<ul class="dialog">
+<li><span class="speaker">A:</span>外国人 <em>能 不 能</em> 参加 ？<span class="pinyin">Wàiguó rén <em>néng bu néng</em> cānjiā?</span><span class="trans">Is it possible for foreigners to attend?</span></li>
+<li><span class="speaker">B:</span> 不 <em>能</em> 。<span class="pinyin">Bù <em>néng</em>.</span><span class="trans">Not possible.</span></li>
+</ul>
+
+</div>
+
+== Talking about the Future ==
+
+Only 会 can be used to mean something is going to happen. It expresses that something in the future will happen and is often used to express trends or possibilities.
+
+=== Structure ===
+
+<div class="jiegou">
+会 + Verb / Adj.
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*他 不 <em>会</em> 跟 你 结婚 。<span class="pinyin">Tā bù <em>huì</em> gēn nǐ jiéhūn.</span><span class="trans">He's not going to marry you.</span>
+*你 <em>会</em> 生 我 的 气 吗 ？<span class="pinyin">Nǐ <em>huì</em> shēng wǒ de qì ma?</span><span class="trans">Will you be mad at me?</span>
+*这样 穿 <em>会</em> 好看 吗 ？<span class="pinyin">Zhèyàng chuān <em>huì</em> hǎokàn ma?</span><span class="trans">Will I look good if I dress like this?</span>
+
+</div>
+
+<div class="liju">
+
+<ul class="dialog">
+<li><span class="speaker">A:</span> 今天 <em>会</em> 下雨 吗 ？<span class="pinyin">Jīntiān <em>huì</em> xiàyǔ ma?</span><span class="trans">Is it going to rain today?</span></li>
+<li><span class="speaker">B:</span> 我看 不 <em>会</em> 。<span class="pinyin">Wǒ kàn bù <em>huì</em>.</span><span class="trans">I don't think it will.</span></li>
+</ul>
+
+</div>
+
+== Using Adverbs to Add Emphasis ==
+
+By placing 很 (hěn) before 会, it adds emphasis to the level of ability and skill on the action presented. 很会 is commonly used to mean "to be good at" and expresses being very skillful at something, or doing something very well. It can be translated as "really know how to," as in "you really know how to speak Chinese!" Another way to put it is, "You are good at speaking Chinese." 
+
+When 很 is placed in front of 能, the meaning takes on a amazed/surprised tone on the action. Although more rarely used, it emphasizes quantity and amount. 很能 is most commonly used with 吃(chī) to eat, and 睡 (shuì) to sleep. It's like the English equivalent of saying you "can really" do something. For example saying that someone "''can really'' sleep" means that they can sleep a lot. 
+
+'''Note:''' 很可以 is not a phrase, and therefore this pattern does not apply to 可以.
+
+=== Structure ===
+
+<div class="jiegou">
+很 + 会／能 + Verb
+</div>
+
+Other [[degree adverb]]s like 真 (zhēn), 太 (tài), 这么 (zhème), etc. can also be used in place of 很.
+
+=== Examples ===
+
+<div class="liju">
+
+*他 <strong>很</strong><em>能</em> 说 。<span class="pinyin">Tā <strong>hěn</strong> <em>néng</em> shuō.</span><span class="trans">He's quite a talker.</span>
+*我 妈妈 <strong>很</strong> <em>会</em> 做饭 。<span class="expl">My mom cooks very well.</span><span class="pinyin">Wǒ māma <strong>hěn</strong> <em>huì</em> zuòfàn.</span><span class="trans">My mother really knows how to cook.</span>
+*她 才 五岁 ，但是 <strong>很</strong> <em>会</em> 说话 。<span class="expl">The subject has good speaking skills.</span><span class="pinyin">Tā cái wǔ suì, dànshì <strong>hěn</strong> <em>huì</em> shuōhuà.</span><span class="trans">She's only five but she's a smooth talker.</span>
+*这个 女生 <strong>很</strong> <em>会</em> 打扮 。<span class="pinyin">Zhège nǚshēng <strong>hěn</strong> <em>huì</em> dǎban.</span><span class="trans">This girl knows how to dress up really well.</span>
+
+</div>
+
+Note that 很能说 means someone talks ''a lot'', 很会说 means they ''have a way with words'', but 很可以说 is just bad Chinese.
+
+Examples used with other adverbs:
+
+<div class="liju">
+
+*他 <strong>太</strong> <em>能</em> 睡 了 。<span class="expl">The subject can sleep a lot, for many hours.</span><span class="pinyin">Tā <strong>tài</strong> <em>néng</em> shuì le.</span><span class="trans">He can really sleep.</span> 
+*你 <strong>真</strong><em>能</em> 吃 !<span class="expl">The subject can eat a lot.</span><span class="pinyin">Nǐ <strong>zhēn</strong> <em>néng</em> chī!</span><span class="trans">Wow, you really can eat!</span>
+*中国 人 <strong>真</strong><em>会</em> 吃 ! <span class="expl">The subject has great knowledge about food and its culture, a true connoisseur.</span><span class="pinyin">Zhōngguó rén <strong>zhēn</strong> <em>huì</em> chī!</span><span class="trans">Chinese people can really eat.</span>
+*没想到 你 <strong>这么</strong><em>能</em> 吃苦 。<span class="pinyin">Méixiǎngdào nǐ <strong> zhème</strong> <em> néng</em> chīkǔ.</span><span class="trans">I didn't expect you to be able to handle so much hardship.</span>
+
+</div>
+
+== Similar Expression with Different Meanings ==
+
+<div class="liju">
+
+*我 的 脚 好 了 ，现在 又 <em>能</em> 跳舞 了 。<span class="pinyin">Wǒ de jiǎo hǎo le, xiànzài yòu <em>néng</em> tiàowǔ le.</span><span class="trans">I am able to dance now since my foot is better. (The condition changed)</span>
+*我 学 了 两 个 月 ，现在 我 <em>会</em> 跳舞 了 。<span class="pinyin">Wǒ xué le liǎng gè yuè, xiànzài wǒ <em>huì</em> tiàowǔ le.</span><span class="trans">I studied for two months. I know how to dance now. (It's a learned skill)</span>
+*我 爸妈 同意 了 ，现在 我 <em>可以</em> 跳舞 了 。<span class="pinyin">Wǒ bàmā tóngyì le, xiànzài wǒ <em>kěyǐ</em> tiàowǔ le.</span><span class="trans">My parents agreed. I'm allowed to dance now. (Parents gave their permission)</span>
+
+</div>
+
+Note that none of the three can be followed by the aspectual particle 过.
+
+== See also ==
+
+* [[Auxiliary verb "hui" for "will"]]
+* [[Expressing a learned skill]]
+* [[Expressing ability or possibility]]
+* [[Expressing permission]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|对外汉语教学语法释疑201例|55, 65}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|219-20}}
+
+=== Dictionaries ===
+
+{{Source|现代汉语词典（第5版）|989, 773, 610}}
+
+=== Websites ===
+
+* [http://www.sinosplice.com/life/archives/2009/10/13/chinese-modal-verb-venn-diagram Sinosplice: Chinese Modal Verb Venn Diagram]
+
+[[Category:B1 grammar points]]
+[[Category:grammar comparison]]
+{{Basic Grammar|会|B1|会 vs. 能 vs. 可以|我 <em>会</em> 跳舞 。这里 不 <em>能</em> 跳舞 。我 <em>可以</em> 请 你 跳舞 吗 ？|grammar point|ASGZL717}}
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Rel char|能}}
+{{Rel char|可以}}
+{{Used for|Describing actions}}
+{{Used for|Expressing ability}}
+{{Used for|Expressing possibility}}
+{{Used for|Expressing permission}}
+{{Used for|Requesting}}
+{{Translation|can}}
+{{Translation|able}}
+{{Comparison|Auxiliary Verbs}}

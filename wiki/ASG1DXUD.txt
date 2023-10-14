@@ -1,0 +1,71 @@
+<!-- Passive verbs with "shou" -->
+{{Grammar Box}} 
+受 (shòu) is generally thought of as a passive marker, converting the verb placed after it into the passive. Here it plays a role very similar to [[Using "bei" sentences|被]].
+
+==受 as a Passive Marker==
+
+===Structure===
+
+<div class="jiegou">
+受 + (Someone / Something) + Verb 
+</div>
+
+===Examples===
+
+<div class="liju">
+* 张老 师 的 课 很 <em>受</em> 学生 的 <em>欢迎</em>。 <span class="pinyin">Zhāng Lǎoshī de kè hěn <em>shòu</em> xuéshēng de <em>huānyíng</em>.</span><span class="trans">Teacher Zhang's lessons are welcomed by the students.</span>
+* 一 个 人 不一定 要 变得 很 有钱 或者 很 成功 才 会  <em> 受</em> 人 <em> 尊重</em>。<span class="pinyin">Yī gè rén bù yīdìng yào biàn de hěn yǒu qián huòzhě hěn chénggōng cái huì <em>shòu</em> rén <em>zūnzhòng</em>.</span><span class="trans">A person don't have to be rich or successful to be respected.</span>
+*我 <em>受</em> 人 <em>嘱托</em> 来 给 你 送 一些 钱。<span class="pinyin">Wǒ <em>shòu</em> rén <em>zhǔtuō</em> lái nǐ sòng yīxiē qián.</span><span class="trans">I have been asked to deliver some money to you.</span>
+* 你 的 手机 昨晚 一直 打不通，我 想 应该 是 <em>受</em> 信号 <em>干扰</em>。<span class="pinyin">Nǐ de shǒujī zuó wǎn yīzhí dǎ butōng, wǒ xiǎng yīnggāi shì <em>shòu</em> xìn hào <em>gānrǎo</em>.</span><span class="trans">I think I couldn't get through to your cell phone last night because of signal interference.</span>
+* <em>受</em> 冷 空气 的 <em>影响</em>，今天 上海 特别 冷。<span class="pinyin"><em>Shòu</em> lěng kōngqì de <em>yǐngxiǎng</em>, jīntiān Shànghǎi tèbié lěng.</span><span class="trans">Affected by a cold front, today Shanghai is especially cold.</span>
+</div>
+
+It must be noted that if 受 is explained as a passive marker, then in the above examples 欢迎, 尊重, 批评 and 尊重 must all be treated as verbs rather than nouns, despite many of them appearing immediately after 的.
+
+==受 as a Verb==
+
+An alternative way to explain 受, is as an active verb itself, meaning "to obtain" or "to receive" when dealing with positive aspects, or "to suffer" when dealing with negative aspects. This explanation may be more accessible to native English speakers. However whichever grammatical explanation one uses, the meaning essentially remains the same.
+
+===Structure===
+
+<div class="jiegou">
+受 (+ 到/过) + ([Something / Someone] +) Noun / Verb 
+</div>
+
+===Examples===
+
+<div class="liju">
+
+* 张 老师 的 课 <em> 受到</em> 了 很 多 学生 的 <em> 欢迎</em>。<span class="pinyin">Zhāng Lǎoshī de kè <em>shòudào</em> le hěn duō xuéshēng de <em>huānyíng</em>.</span><span class="trans">Teacher Zhang's lessons received many students' approval.</span>
+* 一 个 人 不一定 要 变得 很 有钱 或者 很 成功 才 会  <em> 受</em> 人 <em> 尊重</em>。<span class="pinyin">Yī gè rén bù yīdìng yào biàn de hěn yǒu qián huòzhě hěn chénggōng cái huì <em>shòu</em> rén <em>zūnzhòng</em>.</span><span class="trans">A person doesn't have to be rich or successful to receive respect from other people.</span>
+* 我 父母 都 没 <em>受过</em> <em> 很 好 的 教育</em>。<span class="pinyin">Wǒ fùmǔ dōu méi <em>shòu guo</em> <em>hěn hǎo de jiàoyù</em>.</span><span class="trans">Neither of my parents has received a very good education.</span>
+*  我 在 美国 的 第一年 ，<em>受到</em> 了 <em> 很 多 朋友 的 帮助</em>。<span class="pinyin">Wǒ zài Měiguó de dì-yī nián, <em>shòudào</em> le <em>hěn duō péngyou de bāngzhù</em>.</span><span class="trans">The first year I was in the USA, I received a lot of help from many friends.</span>
+* 拐卖 孩子 的 人 应该 <em>受到</em> <em> 法律 的 严惩</em>。<span class="pinyin">Guǎimài háizi de rén yīnggāi <em>shòudào</em> <em>fǎlǜ de yánchéng</em>.</span><span class="trans">People who traffic kids should suffer severe punishment from the law.</span>
+* <em>受</em> 冷 空气 的 <em>影响</em>，今天 上海 特别 冷。<span class="pinyin"><em>Shòu</em> lěng kōngqì de <em>yǐngxiǎng</em>, jīntiān Shànghǎi tèbié lěng.</span><span class="trans">"Suffering" from the influence of a cold front, today Shanghai is especially cold.</span>
+</div>
+
+It must be noted that on the occasions when 受 is followed immediately by 到 or 过，it is preferable to consider 受 as a verb.
+
+==See also==
+*[[Bei sentence]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|61-2}} 
+{{Source|现代汉语八百词|505}}
+{{Source|卓越汉语－公司实战篇|35}}
+
+=== Dictionaries ===
+
+{{Source|现代汉语词典（第5版）|1259}}
+
+[[Category: B2 grammar points]]
+[[Category: Verbs]]
+{{Basic Grammar|受|B2|受 + Verb|他 为 人 善良 ， 很 <em>受</em> 尊重 。|grammar point|ASG1DXUD}}
+{{Similar|Bei sentence}}
+{{POS|Verbs}}
+{{Used for|Expressing passive voice}}
+{{Used for|Describing actions}}
+{{Subprop|Verb phrases}}

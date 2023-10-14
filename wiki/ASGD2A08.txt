@@ -1,0 +1,39 @@
+<!-- Expressing "for…" with "eryan" -->
+{{Grammar Box}} 
+对⋯⋯而言 (duì...ér yán) means "from the point of view of" and is equivalent to but more formal than [[Using "dui" with verbs|对⋯⋯来说]].
+
+== Structure ==
+
+<div class="jiegou">
+对 + [Person / Group] + 而言 ，⋯⋯ 
+</div>
+
+== Examples ==
+
+<div class="liju">
+*这样 的 工作 <em>对</em> 我 <em>而言</em> 很 重要 。<span class="pinyin">Zhèyàng de gōngzuò <em>duì</em> wǒ <em>ér yán</em> hěn zhòngyào.</span><span class="trans">This kind of job, for me, is very important.</span>
+*<em>对</em> 她 <em>而言</em> ，自由 更 重要 。<span class="pinyin"><em>Duì</em> tā <em>ér yán</em>, zìyóu gèng zhòngyào.</span><span class="trans">For her, freedom is even more important.</span>
+*<em>对</em> 80后 <em>而言</em> ，网恋 很 正常 。 <span class="pinyin"><em>Duì</em> 80 hòu <em>ér yán</em>, wǎngliàn hěn zhèngcháng.</span><span class="trans">For people born in the eighties, Internet dating is totally normal.</span>
+*<em>对</em> 你 <em>而言</em> ，我 就是 一 个 这样 的 人 吗？<span class="pinyin"><em>Duì</em> nǐ <em>ér yán</em>, wǒ jiùshì yī gè zhèyàng de rén ma?</span><span class="trans">To you, am I that kind of person?</span>
+*<em>对</em> 老师 <em>而言</em> ，你 把 汉语 学 好，老师 就 很 开心了。<span class="pinyin"><em>Duì</em> lǎoshī <em>ér yán</em>, nǐ bǎ Hànyǔ xué hǎo, lǎoshī jiù hěn kāixīn le.</span><span class="trans">For the teacher, if you learn Mandarin well, that's the most satisfying.</span>
+*<em>对</em> 一个 民族 <em>而言</em> ，团结 可以 战胜 一切 。<span class="pinyin"><em>Duì</em> yī gè mínzú <em>ér yán</em>, tuánjié kěyǐ zhànshèng yīqiè.</span><span class="trans">For an ethnic group, unity can overcome all else.</span>
+*<em>对</em> 消费者 <em>而言</em> ，促销 活动 很 有 吸引力 。<span class="pinyin"><em>Duì</em> xiāofèi zhě <em>ér yán</em>, cùxiāo huódòng hěn yǒu xīyǐnlì.</span><span class="trans">For consumers, sales promotions are very appealing.</span>
+*这 产品 <em>对</em> 你 <em>而言</em> ， 应该 没有 吸引力 吧？<span class="pinyin">Zhè chǎnpǐn <em>duì</em> nǐ <em>ér yán</em>, yīnggāi méiyǒu xīyǐnlì ba?</span><span class="trans">For you this product doesn't have much appeal, right?</span>
+*<em>对</em> 小明 <em>而言</em> ，这 不仅仅 是 一 个 奖品，更是 一 种 肯定。<span class="pinyin"><em>Duì</em> Xiǎo Míng <em>ér yán</em>, zhè bùjǐnjǐn shì yī gè jiǎngpǐn, gèng shì yī zhǒng kěndìng.</span><span class="trans">For Xiao Ming, this is not merely a prize, but more of an affirmation.</span>
+*<em>对</em> 同性恋 <em>而言</em> ，告诉 家人 自己 真正的 性取向 不 容易 。<span class="pinyin"><em>Duì</em> tóngxìngliàn <em>ér yán</em>, gàosù jiārén zìjǐ zhēnzhèng de xìngqǔxiàng bù róngyì.</span><span class="trans">For homosexuals, telling their family their true sexual orientation is not easy.</span>
+</div>
+
+== See also ==
+
+*[[Using "dui" with verbs]]
+*[[Limiting scope with "jiu"]]
+*[["With regards to" as "zhiyu"]]
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|对|B2|对 + Person / Group + 而言 ，⋯⋯ |<em>对</em> 消费者 <em>而言</em> ，促销 活动 很 有 吸引力 。|grammar point|ASGD2A08}}
+{{Rel char|而言}}
+{{Similar|Using "dui"}}
+{{Similar|Limiting Scope with "jiu"}}
+{{Similar|"With Regards to" as "zhiyu"}}
+{{Similar|Giving perspective with "yaowoshuo"}}
+{{POS|Prepositions}}

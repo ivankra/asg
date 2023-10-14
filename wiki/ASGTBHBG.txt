@@ -1,0 +1,170 @@
+<!-- Comparing "zai" and "you" -->
+{{Grammar Box}} 
+
+Both 再 (zài) and 又 (yòu) express the repeating of an action and can be roughly translated in English to "again."  However, 再 is used to express actions that have not yet occurred (the "future again") and 又 is used for actions that have already occurred (the "past again").  They're not interchangeable. In addition, each word has a few special usages. 
+
+== 再 Expresses Repetition of an Action in the Future ==
+
+再 is used to express something that [[Again in the future with "zai"|has already happened and will happen again]].
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 再 + Verb
+</div>
+
+=== Examples ===
+
+<div class="liju">
+<ul>
+<li>我们 下次 <em>再</em> 来 吧。<span class="pinyin">Wǒmen xiàcì <em>zài</em> lái ba.</span><span class="trans">We will come here again next time.</span></li>
+<li>我 想 <em>再</em> 看 一下。<span class="pinyin">Wǒ xiǎng <em>zài</em> kàn yīxià.</span><span class="trans">I want to take another look.</span></li>
+</ul>
+</div>
+
+You need to use 再 for this usage; you can't use 又:
+
+<div class="liju">
+<ul>
+<li class="x">请 <strong>又</strong> 说 一 次。<span class="expl">Since it is asking about a future action, you can't use "又"</span><span class="pinyin">Qǐng <strong>yòu</strong> shuō yī cì.</span></li>
+<li class="o">请 <em>再</em> 说 一 次。<span class="pinyin">Qǐng <em>zài</em> shuō yī cì.</span><span class="trans">Please say it one more time.</span></li>
+</ul>
+</div>
+
+== 再 Can Express "Another" ==
+
+Aside from expressing the repetition of an action, [[Again in the future with "zai"|再 can also be used to express the equivalent of the English word "another."]]
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 再 + Verb + Obj. 
+</div>
+
+Note that the "Object" mentioned above is usually also going to have an 一 and a [[measure word]] in front of it.  You'll see that in the examples below.
+
+=== Examples ===
+
+<div class="liju">
+
+<ul>
+<li class="o">我 要 <em>再</em> 看 一 部 电影。<span class="pinyin">Wǒ yào <em>zài</em> kàn yī bù diànyǐng.</span><span class="trans">I want to watch another movie.</span></li>
+
+<li class="o"> 你 可以 <em>再</em> 做 一 碗 面条 吗 ？<span class="pinyin">Nǐ kěyǐ <em>zài</em> zuò yī wǎn miàntiáo ma?</span><span class="trans">Can you make another bowl of noodles?</span></li>
+
+<li class="x"> 我 得 <strong>又</strong> 写 一 篇 作文。<span class="expl">Since it is about the future, you can't use "又"</span><span class="pinyin">Wǒ děi <strong>yòu</strong> xiě yī piān zuòwén.</span><span class="trans">I have to write another essay.</span></li>
+
+<li class="x"> 我 要 <strong>又</strong> 吃 一 块 蛋糕。<span class="expl">Since it is about the future, you can't use "又"</span><span class="pinyin">Wǒ yào <strong>yòu</strong> chī yī kuài dàngāo.</span><span class="trans">I want to eat another piece of cake.</span></li>
+
+</ul>
+</div>
+
+== 再 Can Express "And Then" ==
+
+[[Sequencing with "xian" and "zai"|再 can be used with 先 to express sequential order]]. (ex. Do this....and then this....) In some cases, 再 can appear by itself to simply mean "and then."  While this doesn't sound so easy to confuse with 又, it's actually quite common for intermediate learners to misunderstand this use of 再 as meaning "again," so it's definitely worth mentioning here.
+
+=== Structure === 
+
+<div class="jiegou">
+Subj. + (先) + Action 1 + 再 + Action 2
+</div>
+
+=== Examples ===
+
+<div class="liju">
+<ul>
+<li class="o">我们 <strong>先</strong> 做 作业 <em>再</em> 去 爬山。<span class="pinyin">Wǒmen <strong>xiān</strong> zuò zuòyè <em>zài</em> qù páshān.</span><span class="trans">First we'll do our homework, then we'll go hiking in the mountains.</span></li>
+<li class="o">我 <strong>先</strong> 买 房子 <em>再</em> 结婚。<span class="pinyin">Wǒ <strong>xiān</strong> mǎi fángzi <em>zài</em> jiéhūn.</span><span class="trans">First I'll buy a house, then I'll get married.</span></li>
+<li class="o">我们 吃 完 饭 <em>再</em> 看 电影。<span class="pinyin">Wǒmen chī wán fàn <em>zài</em> kàn diànyǐng ba.</span><span class="trans">We'll finish eating, then go see a movie.</span></li>
+<li class="o">我们 回家 <em>再</em> 讨论，好 吗？<span class="pinyin">Wǒmen huíjiā <em>zài</em> tǎolùn, hǎo ma?</span><span class="trans">We can discuss it after we get home, OK?</span></li>
+<li class="x">我 要 看 完 书 <em>又</em> 睡觉。<span class="expl">'"又"can not be used as the action"go to bed" haven't occured yet.</span><span class="pinyin">Wǒ yào kàn wán shū <em>yòu</em> shuìjiào.</span><span class="trans">I want to finish reading the book and then go to sleep.</span></li>
+<li class="x">你 <strong>先</strong> 吃饭 <em>又</em> 打 电话 给 父母。<span class="expl">"又" does not sequence events.</span><span class="pinyin">Nǐ <strong>xiān</strong> chīfàn <em>yòu</em> dǎ diànhuà gěi fùmǔ.</span><span class="trans">You should eat before you call your parents.</span></li> 
+</ul>
+</div>
+
+== 又 Expresses Repetition of an Action That Has Already Occurred in the Past ==
+
+又 is used in declarative sentences and describes the [[Again in the past with "you"|simple repetition of actions]]. This repeated action has already occurred once in the past.
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 又 + Verb + 了
+</div>
+
+=== Examples ===
+
+<div class="liju">
+<ul>
+<li class="o">你 怎么 <em>又</em> 给 我 打 电话 了，什么事？<span class="pinyin">Nǐ zěnme <em>yòu</em> gěi wǒ dǎ diànhuà le, shénme shì?</span><span class="trans">Why do you keep calling me? What it it?</span></li>
+<li class="o">这 个 人 <em>又</em> 来 了。<span class="pinyin">Zhège rén <em>yòu</em> lái le.</span><span class="trans">This guy is here again.</span></li>
+<li class="o">他 <em>又</em> 不 来 上课 了，老师 可能 罚 他。<span class="pinyin">Tā <em>yòu</em> bù lái shàngkè le, lǎoshī kěnéng fá tā.</span><span class="trans">He didn't come to class again. The teacher is probably going to punish him.</span></li>
+<li class="o">你 为什么 <em>又</em> 看 这 本 书 了？ 你 已经 看 过 了。 <span class="pinyin">Nǐ wèishénme <em>yòu</em> kàn zhè  běn shū le? nǐ yǐjīng kàn guò le.</span><span class="trans">Why are you reading that book again？You've already read it.</span></li>
+<li class="x">昨天 他 <strong>再</strong> 看 了 一天 电视 。 <span class="expl">"再" is not used for past events.</span><span class="pinyin">Zuótiān tā <em>zài</em> kàn le yī tiān diànshì.</span><span class="trans">He watched TV all day long again yesterday.</span></li>
+<li class="x">昨天 我 <strong>再</strong> 申请 谷歌 开发 职位 了 。 <span class="expl">"再" is not used for past events.</span><span class="pinyin">Zuótiān wǒ <em>zài</em> shēnqǐng Gǔgē kāifā zhíwèi le.</span><span class="trans">I applied for a developer position at Google again yesterday.</span></li>
+</ul>
+</div>
+
+== 又 Adds Emotional Coloring to Events Recurring in the Future ==
+
+又 is sometimes used to express that something that has happened before ''is going to happen'' in the immediate future.  In this case, it usually appears with 要 (yào), 可以 (kěyǐ), 能 (néng), or 是 (shì).  This usage often expresses exasperation or impatience with something happening ''yet '''again''''', but sometimes it's more neutral, or even happy.
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 又 + (Aux. +) Verb + Obj. 
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 明天 <em>又</em> <strong>是</strong> 星期一 ！  <span class="pinyin">Míngtiān <em>yòu</em> <strong>shì</strong> Xīngqīyī!</span><span class="trans">Tomorrow is Monday again.</span>
+* 明天 <em>又</em> <strong>要 开会</strong>，真 烦 人 。 <span class="pinyin">Míngtiān <em>yòu</em> <strong>yào kāi huì</strong>, zhēn fán rén.</span><span class="trans">We're having another meeting tomorrow. So annoying!</span>
+* 你 <em>又</em> <strong>要 辞职</strong> 了 ？ 为什么 ？  <span class="pinyin">Nǐ <em>yòu</em> <strong>yào cízhí</strong> le? wèishénme?</span><span class="trans">You're going to resign again? Why?</span>
+* 夏天 快 到 了，<em>又</em> <strong>可以 吃 冰淇淋</strong> 了 ！ <span class="pinyin">Xiàtiān kuài dào le, <em>yòu</em> <strong>kěyǐ chī bīngqílín</strong> le!</span><span class="trans">It's almost summer, and we can eat ice cream again!</span>
+* 如果 我 能 瘦 一些，我 就 <em>又</em> <strong>能 穿</strong> 我 最 喜欢 的 牛仔裤 啦 ！ <span class="pinyin">Rúguǒ wǒ néng shòu yīxiē, wǒ jiù <em>yòu</em> <strong>néng chuān</strong> wǒ zuì xǐhuan de niúzǎikù la!</span><span class="trans">If I can slim down a bit, I can wear my favorite jeans again!</span>
+</div>
+
+== Both 再 and 又 Have Other Uses as Well ==
+
+The comparisons above are the cases where 又 and 再 are most easily confused.  This wiki also has other uses of both, however:
+
+* [[又|All uses of 又]]
+* [[再|All uses of 再]]
+
+== See Also ==
+
+* [[Sequencing with "xian" and "zai"]]
+* [[Again in the future with "zai"]]
+* [[Again in the past with "you"]]
+
+== Sources and  further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|67}}
+{{Source|Integrated Chinese: Level 2, Part 1|157}}
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|202}} 
+{{Source|Integrated Chinese: Level 2, Part 1|157}}
+{{Source|Integrated Chinese: Level 2, Part 2|288}}
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|202}} 
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|258-9}} 
+{{Source|Integrated Chinese: Level 2, Part 2|19-20}}
+
+===Websites===
+
+* Yale Chinese Usage Dictionary: [http://comet.cls.yale.edu/chineseusagedictionary/0212.html Using 再 and 又]
+
+[[Category:grammar comparison]]
+{{HSK|HSK3}}
+{{Basic Grammar|再|B2|再 vs 又|我不能<em>再</em>喝了，你走后我<em>又</em>喝了两瓶 。|grammar point|ASGTBHBG}}
+{{Rel char|又}}
+{{Translation|again}}
+{{Similar|Sequencing with "xian" and "zai"}}
+{{Similar|Again in the future with "zai"}}
+{{Similar|Again in the past with "you"}}
+{{Similar|Repeated actions in the past with "you"}}
+{{Used for|Describing actions}}
+{{Used for|Sequencing events in time}}
+{{Comparison|Adverbs}}

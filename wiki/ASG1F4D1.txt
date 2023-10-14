@@ -1,0 +1,89 @@
+<!-- Expressing "in this way" with "zheyang" -->
+{{Grammar Box}}
+
+这样 (zhèyàng) is used at the beginning of a phrase to express "this way" or "in this way."
+
+== Used as an Adverb ==
+
+=== Structure ===
+
+<div class="jiegou">
+这样 + Verb
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>这样</em> 做 不 对 。<span class="pinyin"><em>Zhèyàng</em> zuò bù duì.</span><span class="trans">Doing it this way is not right.</span>
+*<em>这样</em> 说 不 礼貌 。<span class="pinyin"><em>Zhèyàng</em> shuō bù lǐmào.</span><span class="trans">It's not polite to say this.</span>
+*<em>这样</em> 走 过去 更 近 。<span class="pinyin"><em>Zhèyàng</em> zǒu guòqù gèng jìn.</span><span class="trans">If you walk over this way, it's closer.</span>
+*你们 真的 是 <em>这样</em> 想 的 吗 ？<span class="pinyin">Nǐmen zhēnde shì <em>zhèyàng</em> xiǎng de ma?</span><span class="trans">Do you guys really think so?</span>
+
+</div>
+
+== Used as a Conjunction ==
+
+This use of 这样 corresponds to "in this way," which is another way of expressing "so that" or "thus."
+
+=== Structure ===
+
+<div class="jiegou">
+⋯⋯ ，这样 + 会 / 才 ⋯⋯ 
+</div>
+
+You will often see 会 or 才 following 这样 to indicate "only in this way can or will something happen."
+
+=== Examples ===
+
+<div class="liju">
+
+*你 要 多 鼓励 学生 ，<em>这样</em> 他们 <strong>会</strong> 更 有 自信 。<span class="pinyin">Nǐ yào duō gǔlì xuéshēng, <em>zhèyàng</em> tāmen <strong>huì</strong> gèng yǒu zìxìn.</span><span class="trans">You need to encourage your students more. This will help them become more confident.</span>
+*父母 应该 多 陪 孩子 ，<em>这样</em> 孩子 <strong>会</strong> 更 快乐 。<span class="pinyin">Fùmǔ yīnggāi duō péi háizi, <em>zhèyàng</em> háizi <strong>huì</strong> gèng kuàilè.</span><span class="trans">Parents should spend more time with their children. This will make the children happier.</span>
+*你 要 多 说 ，<em>这样</em> <strong>才</strong> 能 越来越 流利 。<span class="pinyin">Nǐ yào duō shuō, <em>zhèyàng</em> <strong>cái</strong> néng yuèláiyuè liúlì.</span><span class="trans">You need to speak more. Only in this way will you become more and more fluent.</span>
+*让 他 自己 来 ，<em>这样</em> 他 <strong>才</strong> 能 学会 。<span class="pinyin">Ràng tā zìjǐ lái, <em>zhèyàng</em> tā <strong>cái</strong> néng xuéhuì.</span><span class="trans">Let him do it by himself. This is the only way he will learn.</span>
+
+</div>
+
+== Colloquial Saying 这样的话 ==
+
+This use of 这样 corresponds to "this way," as in "if we do it this way." Adding 的话 gives the pattern more of a hypothetical "if" flavor. To make the "if" even more explicit, you can even add 如果是 before 这样的话.
+
+<div class="jiegou">
+(如果是 +) 这样的话 ，⋯⋯
+</div>
+
+A few examples:
+
+<div class="liju">
+
+*<em>这样 的话</em> ，你 还 想 去 吗 ？<span class="pinyin"><em>Zhèyàng dehuà</em>, nǐ hái xiǎng qù ma?</span><span class="trans">If this is the case, do you still want to go?</span>
+*<strong>如果 是</strong> <em>这样 的话</em> ，麻烦 就 大 了 。<span class="pinyin"><strong>Rúguǒ shì</strong> <em>zhèyàng dehuà</em>, máfan jiù dà le.</span><span class="trans">If this is the case, we're in for a heap of trouble.</span>
+*我 会 住 在 美国 朋友 的 家里 。<em>这样 的话</em> ，我 家人 就 不 那么 担心 我 了 。<span class="pinyin">Wǒ huì zhù zài Měiguó péngyou de jiā lǐ. <em>Zhèyàng dehuà</em>, wǒ jiārén jiù bù nàme dānxīn wǒ le.</span><span class="trans">I will stay at my American friend's house when I go to visit the US. This way my family won't worry about me so much.</span>
+
+</div>
+
+== See also ==
+
+*[[The "zui" superlative]]
+*[[Expressing "excessively" with "tai"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Short-term Spoken Chinese: Elementary (汉语口语速成基础篇)|15}} 
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|71 - 2}}
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|103}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK0}}
+[[Category:Adverbs]]
+
+{{Basic Grammar|这样|B1|Condition ，这样 + Result / Purpose |<em>这样</em> 做 不 对 。|grammar point|ASG1F4D1}}
+{{Used for|Adding more explanation}}
+{{Similar|Expressing purpose with "hao"}}
+{{Similar|Expressing purpose with "weile"}}
+{{POS|Adverbs}}
+{{Translation|so}}
+{{Translation|that}}

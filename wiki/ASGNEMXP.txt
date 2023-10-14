@@ -1,0 +1,84 @@
+<!-- Expressing "ever since" with "yilai" -->
+{{Grammar Box}} 
+
+You can express "ever since" in Chinese using 以来 (yǐlái) after a time in the past. Just the word 来 (lái) can also play a similar role.
+
+== Pattern with 以来 ==
+
+To express "ever since," all one needs to do is put 以来 after a specific event or time. It expresses what has happened since the stated event until the time that the speaker talks (in other words, referring to a certain continuous time period leading up to the present). 
+
+=== Structure ===
+
+This grammar pattern is usually used to start a statement.
+
+<div class="jiegou">
+Time / Event + 以来 ，⋯⋯
+</div>
+
+Although we won't go into detail here, note that when using 以来 in a more formal or written context, you can [[Expressing "ever since" with "zicong"|add 自, 从, or 自从]] (or other similar words) before the time or event to make it into a "sandwich pattern."
+
+=== Examples ===
+
+<div class="liju">
+
+*今年 八月 <em>以来</em> ，这里 一直 没 下 过 雨 。<span class="pinyin">Jīnnián Bāyuè <em>yǐlái</em>, zhèlǐ yīzhí méi xià guo yǔ.</span><span class="trans">It hasn't rained since August of this year.</span>
+*结婚 <em>以来</em> ，我们 没 吵 过 架 。<span class="pinyin">Jiéhūn <em>yǐlái</em>, wǒmen méi chǎo guo jià.</span><span class="trans">Since we got married we haven't had a fight.</span>
+*上 大学 <em>以来</em> ，他 变 了 很 多 。<span class="pinyin">Shàng dàxué <em>yǐlái</em>, tā biàn le hěn duō.</span><span class="trans">Since starting college, he's changed a lot.</span>
+*<strong>从</strong> 他 爸爸 去世 <em>以来</em> ，他 就 没有 回 过 家 。<span class="pinyin"><strong>Cóng</strong> tā bàba qùshì <em>yǐlái</em>, tā jiù méiyǒu huí guo jiā.</span><span class="trans">He hasn't returned home since his father passed away.</span>
+*<strong>从</strong> 我 学 汉语 <em>以来</em> ，我 认识 了 很多 中国 朋友 。<span class="pinyin"><strong>Cóng</strong> wǒ xué Hànyǔ <em>yǐlái</em>, wǒ rènshi le hěn duō Zhōngguó péngyou.</span><span class="trans">Since I started studying Chinese, I've made a lot of Chinese friends.</span>
+
+</div>
+
+== Pattern with 来 ==
+
+Using 来 to mean "ever since" is basically the same as 以来. However, there is one key difference: you can only use 来 after a length of time, rather than a specific date. In other words, it needs to be used with a certain number of years, months, days, hours, etc. In English, this would be like saying "Ever since three days ago, I've had a constant headache." It doesn't have to be a specific number either; it could be "a few" (几).
+
+=== Structure ===
+
+<div class="jiegou">
+Time Period + 来 ，⋯⋯ 
+</div>
+
+This form cannot be used with 自, 从, or 自从 (or other similar words).
+
+=== Examples ===
+
+<div class="liju">
+
+*十 年 <em>来</em>，房价 一直 在 涨 。<span class="pinyin">Shí nián <em>lái</em>, fángjià yīzhí zài zhǎng.</span><span class="trans">For the past decade, housing prices have been continuously going up.</span>
+*几 年 <em>来</em> ，我们 公司 的 收入 一直 在 增加 。<span class="pinyin">Jǐ nián <em>lái</em>, wǒmen gōngsī de shōurù yīzhí zài zēngjiā.</span><span class="trans">Our company's income has been steadily increasing over the past few years.</span>
+*实习 几 个 月 <em>来</em> ，我 学到 了 很 多 。<span class="pinyin">Shíxí jǐ gè yuè <em>lái</em>, wǒ xuédào le hěn duō.</span><span class="trans">I've learned a lot from my internship during the last few months.</span>
+*出国 几 个 月 <em>来</em> ，她 一点 也 不 想 家 。<span class="pinyin">Chūguó jǐ gè yuè <em>lái</em>, tā yīdiǎn yě bù xiǎng jiā.</span><span class="trans">She hasn't missed home at all since she went abroad a few month ago.</span>
+*离婚 这 几 年 <em>来</em> ，他 从 没 去 看 过 孩子 。<span class="pinyin">Líhūn zhè jǐ nián <em>lái</em>, tā cóng méi qù kàn guo háizi.</span><span class="trans">Since getting divorced these past few years, he's never visited his child.</span>
+*这 三 个 月 <em>来</em> ，我 每天 都 在 想 她。<span class="pinyin">Zhè sān ge yuè  <em>lái</em>, wǒ měitiān dōu zài xiǎng tā.</span><span class="trans">I've been missing her every day these past three months.</span>
+</div>
+
+== See also ==
+
+*[[Before and after with "zhiqian" and "zhihou"]]
+*[[Expressing "ever since" with "zicong"]]
+
+== Sources and  further reading ==
+
+=== Books ===
+
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|203}}
+{{Source|Boya Chinese Elementary Starter 2 (博雅汉语初经起步篇)|25}}
+{{Source|现代汉语八百词|616}}
+{{Source|卓越汉语－公司实战篇|36}}
+{{Source|HSK Standard Course 5上|11}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK5}}
+[[Category:Time]]
+{{Similar|Expressing "ever since" with "zicong"}}
+{{Similar|Before and After with "zhiqian" and "zhihou"}}
+{{Similar|Sequencing past events with "houlai"}}
+{{Similar|Comparing "li" and "cong"}}
+{{Similar|Expressing "as early as" using "zaozai……"}}
+{{Basic Grammar|以来|B1|Time / Event + 以来 ，⋯⋯|今年 八月 <em>以来</em> ，这里 一直 没 下 过 雨 。|grammar point|ASGNEMXP}}
+{{Rel char|来}}
+{{Used for|Sequencing events in time}}
+{{Used for|Referring to the past}}
+{{Translation|since}}
+{{POS|Nouns}}

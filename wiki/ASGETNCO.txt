@@ -1,0 +1,121 @@
+<!-- Basic sentence order -->
+{{Grammar Box}} 
+
+In its most basic form, Chinese [[word order]] is very similar to English word order. These similarities definitely have their limits, though; don't expect the two languages' word orders to stay consistent much beyond the very basic sentence orders outlined below.
+
+== Subject-Predicate ==
+
+A simple [[predicate]] can be just a verb. The most basic word order in Chinese is:
+
+=== Structure === 
+
+<div class="jiegou">
+
+Subj. + Verb
+
+</div>
+
+You can form very simple sentences with just two words.
+
+=== Examples ===
+
+<table class="table big-text table-striped table-bordered">
+<tr>
+<th style="width:25%">Subject</th>
+<th style="width:25%">Verb</th>
+<th style="width:50%">Translation</th>
+</tr>
+<tr><td>你们<span class="pinyin">Nǐmen</span></td><td>吃。<span class="pinyin">chī.</span></td><td>You eat.</td></tr>
+<tr><td>他<span class="pinyin">Tā</span></td><td>笑。<span class="pinyin">xiào.</span></td><td>He laughs.</td></tr>
+<tr><td>我<span class="pinyin">Wǒ</span></td><td>读。<span class="pinyin">dú.</span></td><td>I read.</td></tr>
+<tr><td>你<span class="pinyin">Nǐ</span></td><td>去。<span class="pinyin">qù.</span></td><td>You go.</td></tr>
+<tr><td>你们<span class="pinyin">Nǐmen</span></td><td>看。<span class="pinyin">kàn.</span></td><td>You look.</td></tr>
+<tr><td>你<span class="pinyin">Nǐ</span></td><td>来。<span class="pinyin">lái.</span></td><td>You come here!</td></tr>
+<tr><td>我<span class="pinyin">Wǒ</span></td><td>说。<span class="pinyin">shuō.</span></td><td>I speak.</td></tr>
+<tr><td>孩子<span class="pinyin">Háizi</span></td><td>哭。<span class="pinyin">kū.</span></td><td>Children cry.</td></tr>
+<tr><td>谁 <span class="pinyin">Shéi</span></td><td>要 学？<span class="pinyin">yào xué?</span></td><td>Who wants to study?</td></tr>
+<tr><td>谁<span class="pinyin">Shéi</span></td><td>想 玩？<span class="pinyin">xiǎng wán?</span></td><td>Who wants to play?</td></tr>
+</table>
+
+== Subject-Verb-Object ==
+
+A slightly longer [[predicate]] might be a verb with an object. A sentence with both a verb and an object is formed with this structure:
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + Verb + Obj.
+
+</div>
+
+This is the same as in English, and is commonly referred to as SVO word order. You can express a huge variety of things with this simple structure.
+
+=== Examples ===
+
+<table class="table big-text table-striped table-bordered">
+<tr>
+<th style="width:18%">Subject</th>
+<th style="width:18%">Verb</th>
+<th style="width:24%">Object</th>
+<th style="width:40%">Translation</th>
+</tr>
+<tr><td>他们<span class="pinyin">Tāmen</span></td><td>吃<span class="pinyin">chī</span></td><td>肉。<span class="pinyin">ròu.</span></td><td>They eat meat.</td></tr>
+<tr><td>你<span class="pinyin">Nǐ</span></td><td>喝<span class="pinyin">hē</span></td><td>茶 吗？<span class="pinyin">chá ma?</span></td><td>Do you drink tea?</td></tr>
+<tr><td>我<span class="pinyin">Wǒ</span></td><td>去<span class="pinyin">qù</span></td><td>学校。<span class="pinyin">xuéxiào.</span></td><td>I go to school.</td></tr>
+<tr><td>他<span class="pinyin">Tā</span></td><td>说<span class="pinyin">shuō</span></td><td>中文。<span class="pinyin">Zhōngwén.</span></td><td>He speaks Chinese.</td></tr>
+<tr><td>你<span class="pinyin">Nǐ</span></td><td>喜欢<span class="pinyin">xǐhuan</span></td><td> 孩子 吗？<span class="pinyin">háizi ma?</span></td><td>Do you like kids?</td></tr>
+<tr><td>我们<span class="pinyin">Wǒmen</span></td><td>要 买<span class="pinyin">yào mǎi</span></td><td>电脑。<span class="pinyin">diànnǎo.</span></td><td>We want to buy a computer.</td></tr>
+<tr><td>你们<span class="pinyin">Nǐmen</span></td><td>想 吃<span class="pinyin">xiǎng chī</span></td><td>中国 菜 吗？<span class="pinyin">Zhōngguó cài ma?</span></td><td>Do you want to eat Chinese food?</td></tr>
+<tr><td>我<span class="pinyin">Wǒ</span></td><td>爱<span class="pinyin">ài</span></td><td>你 和 爸爸。<span class="pinyin">nǐ hé bàba.</span></td><td>I love you and dad.</td></tr>
+<tr><td>他们<span class="pinyin">Tāmen</span></td><td>要 做<span class="pinyin">yào zuò</span></td><td>什么？<span class="pinyin">shénme?</span></td><td>What do they want to do?</td></tr>
+<tr><td>你<span class="pinyin">Nǐ</span></td><td>想 去<span class="pinyin">xiǎng qù</span></td><td>什么 地方？<span class="pinyin">shénme dìfang?</span></td><td>What place do you want to go to?</td></tr>
+</table>
+
+== When Things Get Tricky ==
+
+Despite the convenient word order similarities highlighted above, things start to break down as soon as you start adding in such simple sentence elements as [[The "also" adverb "ye"|the "also" adverb 也 (yě)]], [[Time words and word order|a time word]], or [[Indicating location with "zai" before verbs|a location where something happened]].
+
+We have a video about that:
+
+<div class="YT-container"><youtube>uBaamGzhGuE</youtube></div>
+
+Don't worry; the more complicated Chinese structures aren't hard, they're just different! (If Chinese word order were really the same as English word order, that would be just a little too convenient, wouldn't it?)
+
+==See also==
+
+* [[Word order]] (a more in depth article)
+* [[Time words and word order]]
+* [[Topic-comment sentences]]  
+* [[Simple "noun + adjective" sentences]]
+* [[Indicating location with "zai" before verbs]]
+* [[Expressing location with "zai...shang/xia/li"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|42}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|10}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)|11, 249}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|76}}
+
+=== Videos ===
+
+* AllSet Learning video on YouTube: [https://www.youtube.com/watch?v=uBaamGzhGuE Is Chinese Word Order Really the Same as English Word Order?]
+
+=== Websites ===
+
+* FluentU: [https://www.fluentu.com/blog/chinese/2018/10/24/basic-chinese-grammar/ 5 Totally Uncomplicated Tips to Master Basic Chinese Grammar]
+
+[[Category:A1 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+[[Category:Table]]
+{{Basic Grammar|none|A1|Subj. + Verb (+ Obj.)|<em>我 爱 你 。</em>|grammar point|ASGETNCO}}
+{{Similar|Word order}}
+{{Similar|Time words and word order}}
+{{Similar|Actions in a row}}
+{{Similar|Indicating location with "zai" before verbs}}    
+{{Similar|Placement of question words}}  
+{{Structure|Basics}}
+{{Used for|Sentence Patterns}}

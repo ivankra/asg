@@ -1,0 +1,87 @@
+<!-- Expressing "moreover" with "bingqie" -->
+{{Grammar Box}} 
+并且 (bìngqiě) can be used to connect two verbs. In this structure the two verbs may be of equal importance (similar to [[Combining verbs with "bing"|并]]), but often the word 并且 is part of a longer pattern which adds in a meaning of "moreover," taking the idea expressed in the first part of the sentence even further.
+
+==Simple Pattern Similar to 并==
+
+===Structure===
+
+<div class="jiegou">
+[Verb Phrase 1] + 并且 / 并 + [Verb Phrase 2]
+</div>
+
+Notice that 并且 is most often used with verbs, unlike [[Expressing "and" with "he" (advanced)|和, which is used mostly with nouns]]. It is rather formal.
+
+For ''only'' this 并且 pattern, you can substitute [[Combining verbs with "bing"|并]] for 并且 and keep the same meaning.
+
+===Examples===
+
+<div class="liju">
+* 我 同意 <em>并且</em> 支持 你 的 决定。<span class="pinyin">Wǒ tóngyì <em>bìngqiě</em> zhīchí nǐ de juédìng.</span><span class="trans">I agree with and support your decision.</span>
+* 我 会 帮 你 找到 问题 <em>并且</em> 解决 问题。<span class="pinyin">Wǒ huì bāng nǐ zhǎodào wèntí <em>bìngqiě</em> jiějué wèntí.</span><span class="trans">I can help you find the problem and also solve it.</span>
+* 你 要 编辑 <em>并且</em> 打印 这 个 文件。<span class="pinyin">Nǐ yào biānjí <em>bìngqiě</em> dǎyìn zhège wénjiàn.</span><span class="trans">You need to edit and also print out this document.</span>
+* 控制 饮食 <em>并且</em> 多 运动，会 让 你 的 身材 越来越 好。<span class="pinyin">Kòngzhì yǐnshí <em>bìngqiě</em> duō yùndòng, huì ràng nǐ de shēncái yuèláiyuè hǎo.</span><span class="trans">Controlling your diet and also exercising more will give you a better and better figure.</span>
+</div>
+
+== Longer Pattern with 也 / 还 ==
+
+The meaning "moreover" means that the second part of the sentence takes the idea in the first part ''even further''. 
+
+===Structure===
+
+<div class="jiegou">
+[Verb Phrase 1] + 并且 + 也 / 还 + [Verb Phrase 2]
+</div>
+
+You cannot substitute [[Combining verbs with "bing"|并]] for 并且 in this pattern.
+
+===Examples===
+
+<div class="liju">
+* 你 要 按照 我 说 的 做 <em>并且</em> <strong>也</strong> 要 做 好。<span class="pinyin">Nǐ yào ànzhào wǒ shuō de zuò <em>bìngqiě</em> <strong>yě</strong> yào zuò hǎo.</span><span class="trans">I need you to do as I say and also do it well.</span>
+* 我们 需要 的 是 有 丰富 的 工作 经验 <em>并且</em> <strong>也</strong> 懂 得 团队 合作 的 员工。<span class="pinyin">Wǒmen xūyào de shì yǒu fēngfù de gōngzuò jīngyàn <em>bìngqiě</em> <strong>yě</strong> dǒngdé tuánduì hézuò de yuángōng.</span><span class="trans">What we need is an employee with rich work experience and also an understanding of teamwork.</span>
+* 我 通知 了 所有 的 人，<em>并且</em> <strong>还</strong> 准备 了 所有 的 材料。<span class="pinyin">Wǒ tōngzhī le suǒyǒu de rén, <em>bìngqiě</em> <strong>hái</strong> zhǔnbèi le suǒyǒu de cáiliào.</span><span class="trans">I have informed everyone. Moreover, I have prepared all of the materials.</span>
+* 这种 现象 很 常见 <em>并且</em> <strong>还</strong> 会 持续 很 长 时间。<span class="pinyin">Zhè zhǒng xiànxiàng hěn chángjiàn <em>bìngqiě</em> <strong>hái</strong> huì chíxù hěn cháng shíjiān.</span><span class="trans">This type of phenomenon is very common. Moreover, it will also continue for a very long period of time.</span>
+</div>
+
+== Longest Pattern with 不但 / 不仅 + 也 / 还 ==
+
+By adding 不但 / 不仅 to the first part of the sentence, this pattern further emphasizes the "moreover" tone of the sentence.
+
+===Structure===
+
+<div class="jiegou">
+不但 / 不仅 + [Verb Phrase 1] + 并且 + 也 / 还 + [Verb Phrase 2]
+</div>
+
+You cannot substitute [[Combining verbs with "bing"|并]] for 并且 in this pattern.
+
+===Examples===
+
+<div class="liju">
+* 爸爸 <strong>不仅</strong> 批评 了 我， <em>并且</em> ，他 告诉 我 以后 <strong>也</strong> 不 能 说谎。<span class="pinyin">Bàba <strong>bùjǐn</strong> pīpíng le wǒ, <em>bìngqiě</em>, tā gàosù wǒ yǐhòu <strong>yě</strong> bù néng shuōhuǎng.</span><span class="trans">My dad criticized me and and also told me that I cannot lie again.</span>
+* 我们 <strong>不但</strong> 负责 安装，<em>并且</em> ，<strong>还</strong> 维护 这个 系统。<span class="pinyin">Wǒmen <strong>bùdàn</strong> fùzé ānzhuāng <em>bìngqiě</em> <strong>hái</strong> wéihù zhège xìtǒng.</span><span class="trans">We're in charge of installing and also maintaining this system.</span>
+</div>
+
+==See also==
+
+*[["Even" as "shenzhi"]]
+*[[Expressing "and" with "he"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4下|19}}
+{{Source|A Practical Chinese Grammar For Foreigners (外国人实用汉语语法) |130-1}}
+
+[[Category: B2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|并|B2|Verb Phrase 1 + 并 / 并且 + Verb Phrase 2|我 同意 <em>并且</em> 支持 你 的 决定 。|grammar point|ASGB781C}}
+{{Rel char|并且}}
+{{Similar|"Even" as "shenzhi"}}
+{{Similar|Combining verbs with "bing"}}
+{{Similar|Expressing "and" with "he" (advanced)}}
+{{POS|Verbs}}
+{{Subprop|Verb phrases}}
+{{Translation|and}}

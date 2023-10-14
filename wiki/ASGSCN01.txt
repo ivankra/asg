@@ -1,0 +1,73 @@
+<!-- Advanced uses of direction complement "-qilai" -->
+{{Grammar Box}} 
+We have seen before that 起来 (qǐlái), among other things, can be [[Direction complement "-qilai"|used to express a literal upward movement]]. 起来 also has some less intuitive usages, which are figurative extensions of the "movement" idea. For example, 起来 can be used to express collecting things together, sort of like in English we might say "tidy up," or "gather up."
+
+== Structure ==
+
+<div class="jiegou">
+Verb + 起来 
+</div>
+
+Note that you will often see this pattern used with 把 sentence.
+
+<div class="jiegou">
+Subj. + 把 + Obj. + Verb + 起来 
+</div>
+
+== Examples ==
+
+These examples are all more literal cases of bringing physical things together is some way.
+
+<div class="liju">
+*13 和 15 <strong>加</strong> <em>起来</em> 是 多少 ？<span class="pinyin">Shísān hé shíwǔ <strong>jiā</strong> <em>qǐlái</em> shì duōshǎo?</span><span class="trans">How much are 13 and 15 added up?</span>
+*他 <strong>把</strong> 衣服 都 <strong>收</strong> <em>起来</em> 了 。<span class="pinyin">Tā <strong>bǎ</strong> yīfu dōu <strong>shōu</strong> <em>qǐlái</em> le.</span><span class="trans">He put away the clothes.</span>
+*我 老婆 <strong>把</strong> 钱 都 <strong>存</strong> <em>起来</em> 了 。<span class="pinyin">Wǒ lǎopo <strong>bǎ</strong> qián dōu <strong>cún</strong> <em>qǐlái</em> le.</span><span class="trans">My wife saves all our money.</span>
+*<strong>把</strong> 你 的 玩具 都 <strong>收</strong> <em>起来</em>  。<span class="pinyin"><strong>bǎ</strong> nǐ de wánjù dōu <strong>shōu</strong> <em>qǐlái</em>.</span><span class="trans">Put your toys away.</span>
+*你 为什么 要 <strong>把</strong> 我 的 手机 <strong>藏</strong> <em>起来</em> ？<span class="pinyin">Nǐ wèishénme yào <strong>bǎ</strong> wǒ de shǒujī <strong>cáng</strong> <em>qǐlái</em>?</span><span class="trans">Why would you hide my cell phone?</span>
+* 你 可以 把 手机 拆开 ， 但是 你 能 重新 <strong>装</strong> <em>起来</em> 吗 ？ <span class="pinyin">Nǐ kěyǐ bǎ shǒujī chāikāi, dànshì nǐ néng chóngxīn <strong>zhuāng</strong> <em>qǐlái</em> ma?</span><span class="trans">You can take the phone apart, but can you put it all back together again?</span>
+</div>
+
+起来 can also be used to express more abstract concepts of bringing things together.
+
+<div class="liju">
+* 这 两 个 颜色 <strong>搭配</strong> <em>起来</em> 很 漂亮 。 <span class="pinyin">Zhè liǎng gè yánsè <strong>dāpèi</strong> <em>qǐlái</em> hěn piàoliang.</span><span class="trans">These two colors look great when you combine them.</span>
+*如果 我们 <strong>团结</strong> <em>起来</em> ，一定 能 赢 。<span class="pinyin">Rúguǒ wǒmen <strong>tuánjié</strong> <em>qǐlái</em>, yīdìng néng yíng.</span><span class="trans">We will absolutely win this if we band together.</span>
+*如果 你 <strong>把</strong> 工作 和 兴趣 <strong>结合</strong> <em>起来</em>，工作 就 会 很 快乐 。<span class="pinyin">Rúguǒ nǐ <strong>bǎ</strong> gōngzuò hé xìngqù <strong>jiéhé</strong> <em>qǐlái</em>, gōngzuò jiù huì hěn kuàilè.</span><span class="trans"> If you combine your work with your interests, working will be fun.</span>
+*如果 你 能 <strong>回忆</strong> <em>起来</em> 这 件 事情，就 好 了。<span class="pinyin">Rúguǒ nǐ néng huíyì qǐlái zhè jiàn shìqing, jiù hǎo le.</span><span class="trans">It would be good if you could recall this incident.</span>
+</div>
+
+== See also ==
+
+*[[Result complement "-qilai"]]
+* Figurative directional complements [[Result complement "xiaqu"|下去]] and [[Resultative Complement "chu(lai)"|出来]]
+* [[Direction complement]]
+* [[Result complements "dao" and "jian"]]
+* [[Appearance with "kanqilai"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4下|135}}
+{{Source|Boya Chinese Elementary Starter 2 (博雅汉语初经起步篇)|80}}
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级) |25-31}} 
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|141-2}}
+{{Source|Integrated Chinese: Level 2, Part 1|342-3}}
+{{Source|Integrated Chinese: Level 2, Part 2|20}}
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|169}}
+{{Source|New Practical Chinese Reader 5 (新实用汉语课本5) |134-5}}
+
+=== Websites ===
+
+* Yale: [http://comet.cls.yale.edu/mandarin/content/directional/grammar/direction-3a.htm Extended meaning of some directional complements]
+{{HSK|HSK4}}
+{{Basic Grammar|起来|B2|Verb + 起来|宝宝，你 应该 把 你 的 玩具 <strong>收</strong> <em> 起来</em> 。|grammar point|ASGSCN01}}
+{{Rel char|来}}
+{{Similar|Result complement "-qilai"}}
+{{Similar|Result complement "xiaqu"}}
+{{Similar|Resultative Complement "chu(lai)"}}
+{{Similar|Direction complement}}
+{{Similar|Result complements "dao" and "jian"}}
+{{Similar|Appearance with "kanqilai"}}
+{{Used for|Expressing result}}
+{{Structure|Complements}}

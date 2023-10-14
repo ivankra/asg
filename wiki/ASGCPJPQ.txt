@@ -1,0 +1,116 @@
+<!-- Potential complement -->
+{{Grammar Box}}
+
+Verbs can take potential complements to indicate whether or not an action is possible. Potential complements contain a 得 (de) or a 不 (bu) immediate after the verb being modified, and are quite common in everyday spoken Mandarin.
+
+== Affirmative Form ==
+
+Structurally, potential complements are closely related to both [[result complement]]s and [[direction complement]]s, so it helps to be familiar with those first. The most important and commonly used potential complements are derived from other complements such as the following:
+
+* Verb + [[见]] e.g. 看见, 听见 ([[result complement]]s)
+* Verb + [[懂]] e.g. 看懂, 听懂 ([[result complement]]s)
+* Verb + [[完]] e.g. 吃完, 做完, 用完, 花完 ([[result complement]]s)
+* Verb + [[Adjective|Adj.]] e.g. 看清楚, 听明白, 洗干净 ([[result complement]]s)
+* Verb + [[到]] e.g. 找到, 买到, 收到 ([[result complement]]s)
+* Verb + Direction e.g. 上来, 下去, 进去, 起来, 走过去, 爬上去 ([[direction complement]]s)
+
+These forms will be our starting point for forming potential complements.
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + Verb + 得 + Complement
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*你 没 戴 眼镜 ，看 <em>得</em> <strong>清楚</strong> 吗 ？<span class="pinyin">Nǐ méi dài yǎnjìng, kàn <em>de</em> <strong>qīngchu</strong> ma?</span><span class="trans">You didn't wear glasses. Can you see clearly?</span>
+*他 这么 粗心 ，做 <em>得</em> <strong>好</strong> 吗 ？<span class="pinyin">Tā zhème cūxīn, zuò <em>de</em> <strong>hǎo</strong> ma?</span><span class="trans">He'a so careless. Can he do it well?</span>
+*你 这么 聪明 ，肯定 学 <em>得</em> <strong>会</strong> 。<span class="pinyin">Nǐ zhème cōngming, kěndìng xué <em>de</em> <strong>huì</strong>.</span><span class="trans">You're so smart. You can definitely learn this.</span>
+*早上 五点 出发 ，孩子们 起 <em>得</em> <strong>来</strong> 吗 ？<span class="pinyin">Zǎoshang wǔdiǎn chūfā, háizi men qǐ <em>de</em> <strong>lái</strong> ma?</span> <span class="trans">We're leaving at five a.m.. Will the kids be able to get up?</span>
+*这么 高 的 山 ，你 爬 <em>得</em> <strong>上去</strong> 吗 ？<span class="pinyin">Zhème gāo de shān, nǐ pá <em>de</em> <strong>shàngqù</strong> ma? </span><span class="trans">The mountain is so high. Can you climb to the top?</span>
+
+</div>
+
+== Negative Form ==
+
+The only difference between the affirmative and negative forms is swapping a 得 for a 不.
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + Verb + 不 + Complement
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*你 的 声音 太 小 了 ，我们 听 <em>不</em> <strong>见</strong> 。<span class="pinyin">Nǐ de shēngyīn tài xiǎo le, wǒmen tīng <em>bu</em> <strong>jiàn</strong>.</span><span class="trans">Your voice is too soft. We can't hear you.</span>
+*这里 太 暗 了 ，我 看 <em>不</em> <strong>清楚</strong> 。<span class="pinyin">Zhèlǐ tài àn le, wǒ kàn <em>bu</em> <strong>qīngchu</strong>.</span><span class="trans">It's too dim here. I can't see clearly.</span>
+*这个 自行车 太 破 了 ，谁 都 修 <em>不</em> <strong>好</strong> 。<span class="pinyin">Zhège zìxíngchē tài pò le, shéi dōu xiū <em>bu</em> <strong>hǎo</strong> .</span><span class="trans">This bike is so beaten up. Nobody can fix it.</span>
+*她 的 腿 受伤 了 ，站 <em>不</em> <strong>起来</strong> 了 。<span class="pinyin">Tā de tuǐ shòushāng le, zhàn <em>bu</em> <strong>qǐlái</strong>  le.</span><span class="trans">Her leg is injured. She can't stand.</span>
+*包 太 小 了 ，手机 放 <em>不</em> <strong>进去</strong> 。<span class="pinyin">Bāo tài xiǎo le, shǒujī fàng <em>bu</em> <strong>jìnqù</strong>.</span><span class="trans">The bag is too small. I can't fit the cell phone in it.</span>
+
+</div>
+
+== Potential Complement with Objects ==
+
+Objects in sentences with potential complements can occur either after the complement or at the beginning of a sentence.
+
+A few examples:
+
+<div class="liju">
+
+*你 听 <em>得</em> <strong>懂</strong> 上海话 吗 ？<span class="pinyin">Nǐ tīng <em>de</em> <strong>dǒng</strong> Shànghǎi-huà ma?</span><span class="trans">Can you understand Shanghai dialect?</span>
+*她 这么 小 ，看 <em>得</em> <strong>懂</strong> 这 本 书 吗 ？<span class="pinyin">Tā zhème xiǎo, kàn <em>de</em> <strong>dǒng</strong> zhè běn shū ma?</span><span class="trans">She's so young. Can she really understand this book?</span>
+*我怕 我 做 <em>不</em> <strong>好</strong> 这份 工作 。<span class="pinyin">Wǒ pà wǒ zuò <em>bu</em> <strong>hǎo</strong> zhè fèn gōngzuò.</span><span class="trans">I'm afraid that I can't do this job well.</span>
+*这 种 手机 现在 买 <em>不</em> <strong>到</strong> 了 。<span class="pinyin">Zhè zhǒng shǒujī xiànzài mǎi <em>bu</em> <strong>dào</strong> le.</span><span class="trans">You can't buy this type of cell phone now.</span>
+*这本书 我 一个星期 肯定 看 <em>得</em> <strong>完</strong> 。<span class="pinyin">Zhè běn shū wǒ yī gè xīngiqī kěndìng kàn <em>de</em> <strong>wán</strong>.</span><span class="trans">I can definitely finish reading this book within one week.</span>
+
+</div>
+
+== Advanced Potential Complements ==
+
+There are actually quite a few potential complements out there, and this article touches on some of the simplest and most common ones. Be aware that there are many more, but they all follow the same basic pattern outlined here. You can also refer to our article on [[advanced potential complements]].
+
+== See also ==
+
+* [[Result complements]]
+* [[Advanced potential complements]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|49}}
+{{Source|HSK Standard Course 4下|118}}
+{{Source|Basic Patterns of Chinese Grammar|71}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|191}}
+{{Source|Boya Chinese Elementary Starter 1 (博雅汉语初经起步篇)|197}}
+{{Source|Integrated Chinese: Level 1, Part 2|291}}
+{{Source|Practicing HSK Grammar (语法精讲精炼)|125}}
+{{Source|Contemporary Chinese 2 (当代中文2)|63}}
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|99}} 
+
+=== Websites ===
+
+==== Yale ====
+
+* [http://comet.cls.yale.edu/mandarin/content/potential/grammar/potential.htm The Potential Complement]
+* [http://comet.cls.yale.edu/mandarin/content/degree/grammar/Degree-6.htm Potential Complement And Degree Complement In Contrast]
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+{{HSK|HSK4}}
+[[Category:Potential complement]]
+
+{{Basic Grammar|得|B1|Verb + 得 / 不 + Complement|做 <em>得</em> 完 / 做 <em>不</em> 完|grammar point|ASGCPJPQ}}
+{{Rel char|不}}
+{{Structure|Complements}}
+{{Similar|Advanced potential complements}}
+{{Similar|The "-bu dong" (don't understand) Potential Complement}}
+{{Used for|Describing actions}}
+{{Subprop|Potential complement}}

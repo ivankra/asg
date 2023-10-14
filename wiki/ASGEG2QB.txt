@@ -1,0 +1,78 @@
+<!-- The "however" adverb "que" -->
+{{Grammar Box}} 
+却 (què) is used to indicate something was contrary to expectations, and is used in a similar way to [[Expressing Contrariness with "dao"|倒 (dào)]]. However, 却 is generally followed by a negative comment.
+
+== Structure ==
+
+The overall structure of sentences that use 却 is something like this:
+
+<div class="jiegou">
+Sentence ，(但是 +) Subj. + 却 ⋯⋯
+</div>
+
+Normally the first clause above makes a statement, and then the second clause introduces something contrary, generally in the form of a negative comment.
+
+== Examples ==
+
+In the following examples, take note that 却 comes ''after'' the subject in each case, and that it can be used together with 但是.
+
+<div class="liju">
+
+*他 是 老板 ，<em>却</em> 没有 人 听 他 的 。<span class="pinyin">Tā shì lǎobǎn, <em>què</em> méiyǒu rén tīng tā de.</span><span class="trans">He's the boss, but nobody listens to him.</span>
+*他 的 学历 很 高 ，能力 <em>却</em> 很 一般 。<span class="pinyin">Tā de xuélì hěn gāo, nénglì <em>què</em> hěn yībān.</span><span class="trans">He's very well-educated, but his ability is average.</span>
+*他们 一见钟情 ， <em>却</em> 没有 在 一起 。<span class="pinyin">Tāmen yījiànzhōngqíng, <em>què</em> méiyǒu zài yīqǐ.</span><span class="trans">They fell in love at first sight, but they didn't end up with each other.</span>
+*这 件 衣服 虽然 是 名牌 ，<em>但是</em> 质量 <em>却</em> 不 怎么样 。<span class="pinyin">Zhè jiàn yīfu suīrán shì míngpái, <em>dànshì</em> zhìliàng <em>què</em> bù zěnmeyàng.</span><span class="trans">Although this clothing is brand-name, the quality is not so good.</span>
+*有些 人 智商 很 高 ，情商 <em>却</em> 很 低 。<span class="pinyin">Yǒuxiē rén zhìshāng hěn gāo, qíngshāng <em>què</em> hěn dī.</span><span class="trans">Some people have high IQ, but really low EQ.</span>
+*他 只有 16 岁，<em>却</em> 比 同龄人 成熟 得 多 。<span class="pinyin">Tā zhǐyǒu shíliù suì, <em>què</em> bǐ tónglíng rén chéngshú de duō.</span><span class="trans">He's only sixteen, but he's much more mature than others his age.</span>
+
+</div>
+
+== Common Mistake: Putting 却 Before the Subject ==
+
+It's also important to point out that 却 is not a [[conjunction]]; it's an [[adverb]].  Practically speaking, this means that rather than joining two statements, it goes ''inside'' a statement (within the second clause).  Specifically, it needs to come ''after the subject'' and ''before the verb''.  (Note that when you use a conjunction like 但是 it comes ''before'' the subject!  却 is different in this respect.  Also, rather than ''replacing'' 但是, it can work ''with'' it to add emphasis.)
+
+Sometimes the subject of the second clause will be omitted. If there is a subject, however, 却 definitely needs to come ''after'' it.
+
+A few examples to give you a better understanding of this:
+
+<div class="liju">
+
+<ul>
+<li class="x">我 是 你 最好 的 朋友 ，<em>却</em> <strong>你</strong> 没 邀请 我 。<span class="pinyin">Wǒ shì nǐ zuì hǎo de péngyou, <em>què</em> <strong>nǐ</strong> méi yāoqǐng wǒ.</span></li>
+<li class="o">我 是 你 最好 的 朋友 ，<strong>你</strong> <em>却</em> 没 邀请 我 。<span class="pinyin">Wǒ shì nǐ zuì hǎo de péngyou, <strong>nǐ</strong> <em>què</em> méi yāoqǐng wǒ.</span></li>
+<li class="o">我 是 你 最好 的 朋友 ，<strong>但是</strong> 你 <em>却</em> 没 邀请 我 。<span class="pinyin">Wǒ shì nǐ zuì hǎo de péngyou, <strong>dànshì</strong> nǐ <em>què</em> méi yāoqǐng wǒ.</span><span class="trans">I'm your best friend, but you didn't invite me.</span></li>
+</ul>
+
+<ul>
+<li class="x">他 家 很 有钱 ，<em>却</em> <strong>他</strong> 从来 不 炫耀 。<span class="pinyin">Tā jiā hěn yǒuqián, <em>què</em> <strong>tā</strong> cónglái bù xuànyào.</span></li>
+<li class="o">他 家 很 有钱 ，<strong>他</strong> <em>却</em> 从来 不 炫耀 。<span class="pinyin">Tā jiā hěn yǒuqián, <strong>tā</strong> <em>què</em> cónglái bù xuànyào.</span></li>
+<li class="o">他 家 很 有钱 ，<strong>但是</strong> 他 <em>却</em> 从来 不 炫耀 。<span class="pinyin">Tā jiā hěn yǒuqián, <strong>dànshì</strong> tā <em>què</em> cónglái bù xuànyào.</span><span class="trans">His family is rich, but he never flaunts it.</span></li>
+</ul>
+
+</div>
+
+== See also ==
+
+*[[Expressing Contrariness with "dao"]]
+*[["On the Contrary" with "fan'er"]]
+*[[A Softer "But"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|22}}
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级) |140-2}} 
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|184}}
+
+[[Category: B2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|却|B2|⋯⋯，却⋯⋯|他们 一见钟情 ， <em>却</em> 没有 在 一起 。|grammar point|ASGEG2QB}}
+{{Similar|A Softer "But"}}
+{{Similar|"On the Contrary" with "fan'er"}}
+{{Similar|Expressing contrariness with "dao"}}
+{{Used for|Contrasting}}
+{{Used for|Differentiating}}
+{{Structure|"But" Statements}}
+{{Translation|but}}
+{{Translation|however}}

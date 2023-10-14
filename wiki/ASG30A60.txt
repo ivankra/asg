@@ -1,0 +1,56 @@
+<!-- Expressing "either... or..." with "yaome" -->
+{{Grammar Box}} 
+
+要么 (yàome) is used for offering a pair of choices with a hardline "either/or" feel: ''these are the two choices. Choose one.'' (It can also be used for more than two choices, but it's usually just two.)
+
+== Structure ==
+
+You can give a series of alternatives by using 要么 (yàome). The structure is pretty versatile, as you can put a wide variety of things after each 要么. It can be used both for commands and non-commands.
+
+<div class="jiegou">
+要么 + Option A ，要么 + Option B
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*<em>要么</em> 你 去，<em>要么</em> 他 去 。<span class="pinyin"><em>Yàome</em> nǐ qù, <em>yàome</em> tā qù.</span><span class="trans">Either you go, or he goes.</span>
+*<em>要么</em> 继续 ，<em>要么</em> 放弃 。<span class="pinyin"><em>Yàome</em> jìxù, <em>yàome</em> fàngqì.</span><span class="trans">Either keep going or give up.</span>
+*<em>要么</em> 好好 做 ，<em>要么</em> 就 别 做 。<span class="pinyin"><em>Yàome</em> hǎohāo zuò, <em>yàome</em> jiù bié zuò.</span><span class="trans">You either do it well or don't do it.</span>
+*<em>要么</em> 现在 就 买 ，<em>要么</em> 现在 就 走 。<span class="pinyin"><em>Yàome</em> xiànzài jiù mǎi, <em>yàome</em> xiànzài jiù zǒu.</span><span class="trans">Either buy it now, or leave now.</span>
+*你 <em>要么</em> 回 老家 ，<em>要么</em> 留在 上海 。<span class="pinyin">Nǐ <em>yàome</em> huí lǎojiā, <em>yàome</em> liúzài Shànghǎi.</span><span class="trans">You either go back to your hometown or stay in Shanghai.</span>
+*<em>要么</em> 看书 ，<em>要么</em> 写 作业 ，不 可以 出去 玩 。<span class="pinyin"><em>Yàome</em> kànshū, <em>yàome</em> xiě zuòyè, bù kěyǐ chūqù wán.</span><span class="trans">Either read or do your homework. No playing outside.</span>
+*你 <em>要么</em> 加入 我们 队，<em>要么</em> 加入 他们 队 。<span class="pinyin">Nǐ <em>yàome</em> jiārù wǒmen duì, <em>yàome</em> jiārù tāmen duì.</span><span class="trans">You either join our team or their team.</span>
+*<em>要么</em> 继续 找 工作 ，<em>要么</em> 创业 ，不 能 什么 都 不 做 。<span class="pinyin"><em>Yàome</em> jìxù zhǎo gōngzuò, <em>yàome</em> chuàngyè, bù néng shénme dōu bù zuò.</span><span class="trans">Either keeping looking for a job or start your own business. You can't do nothing.</span>
+*去年 夏天 ，我 每天 <em>要么</em> 去 健身房，<em>要么</em> 去 图书馆，特别 无聊 。<span class="pinyin">Qùnián xiàtiān, wǒ měi tiān <em>yàome</em> qù jiànshēnfáng, <em>yàome</em> qù túshūguǎn, tèbié wúliáo.</span><span class="trans">Last summer I either went to the gym or the library every day. It was super boring.</span>
+*我 老公 周末 <em>要么</em> 睡觉 ，<em>要么</em> 打 游戏 ，从来 不 做 家务 。<span class="pinyin">Wǒ lǎogōng zhōumò <em>yàome</em> shuìjiào, <em>yàome</em> dǎ yóuxì, cónglái bù zuò jiāwù.</span><span class="trans">My husband either sleeps or plays video games on weekends. He never does housework.</span>
+
+</div>
+
+This "either/or" 要么 pattern is similar to one of the uses of each [[Expressing "how about" with "yaobu"|要不]] and [[Providing two options with double "huozhe"|或者]].
+
+== See also ==
+
+*[[Providing two options with double "huozhe"]]
+*[[Expressing the only two possibilities]]
+
+== Sources  and further reading ==
+
+=== Books ===
+
+{{Source|Integrated Chinese: Level 2, Part 1|158}}
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|165}} 
+
+[[Category:B1 grammar points]]
+{{HSK|HSK0}}
+{{Basic Grammar|要么|B1|要么⋯⋯，要么⋯⋯|<em>要么</em> 你 去，<em>要么</em> 他 去 。|grammar point|ASG30A60}}
+{{Rel char|要}}
+{{Similar|Expressing "how about" with "yaobu"}}
+{{Similar|Providing two options with double "huozhe"}}
+{{Similar|Expressing the only two possibilities}}
+{{Used for|Giving alternatives}}
+{{Structure|Sentence Patterns}}
+{{Subprop|Complex Sentence Patterns}}
+{{Translation|either}}
+{{Translation|or}}

@@ -1,0 +1,58 @@
+<!-- Expressing existence with "you" -->
+{{Grammar Box}} 
+
+The verb 有 (yǒu), which means "to have," can also be used to express existence. This is similar to saying "there is" or "there are" in English.
+
+== Structure ==
+
+Literally, this structure expresses that a place "has" a thing, which is to say, that thing is in the place.
+
+<div class="jiegou">
+
+Place + 有 + Obj.
+
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*我 家 <em>有</em> 很 多 小 狗。<span class="pinyin">Wǒ jiā <em>yǒu</em> hěn duō xiǎo gǒu.</span><span class="trans">There are a lot of puppies in my home.</span>
+*我们 学校 <em>有</em> 很 多 帅哥 。<span class="pinyin">Wǒmen xuéxiào <em>yǒu</em> hěn duō shuàigē.</span><span class="trans">There are a lot of cute guys in our school.</span>
+*日本 <em>有</em> 很 多 中国人。 <span class="pinyin">Rìběn <em>yǒu</em> hěn duō Zhōngguó rén.</span><span class="trans">There are many Chinese people in Japan.</span>
+*这 个 酒吧 <em>有</em> 很 多 美女。<span class="pinyin">Zhège jiǔbā <em>yǒu</em> hěn duō měinǚ.</span><span class="trans">There are a lot of pretty girls in this bar.</span>
+*你 家 <em>有</em> 牛奶 吗？<span class="pinyin">Nǐ jiā <em>yǒu</em> niúnǎi ma?</span><span class="trans">Is there milk in your house?</span>
+*这里 <em>有</em> 一 个 问题。<span class="pinyin">Zhèlǐ <em>yǒu</em> yī gè wèntí.</span><span class="trans">There is a problem here.</span>
+*房间 里 <em>有</em> 人 吗？<span class="pinyin">Fángjiān lǐ <em>yǒu</em> rén ma?</span><span class="trans">Is there anyone in the room?</span>
+*杯子 里 <em>有</em> 水 吗？<span class="pinyin">Bēizi lǐ <em>yǒu</em> shuǐ ma?</span><span class="trans">Is there any water in the cup?</span>
+*我 的 手机 里 <em>有</em> 你 的 号码。<span class="pinyin">Wǒ de shǒujī lǐ <em>yǒu</em> nǐ de hàomǎ.</span><span class="trans">Your number is in my cell phone.</span>
+*现在 办公室 里 <em>有</em> 人 吗？<span class="pinyin">Xiànzài  bàngōngshì lǐ <em>yǒu</em> rén ma?</span><span class="trans">Is there anyone in the office now?</span>
+
+</div>
+
+==See also==
+*[[Expressing existence]]
+
+== Sources and further reading ==
+
+{{Source|HSK Standard Course 1|74}}
+{{Source|Chinese: An Essential Grammar, Second Edition|87-8}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|53}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|105}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)|122-3}}
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2)|155}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课下册）|300-1}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|62, 73}} 
+
+[[Category:A1 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{Used for|Expressing existence}}
+{{Used for|Indicating conditions}}
+{{Used for|Describing places}}
+{{Basic Grammar|有|A1|Place + 有 + Obj.|我们 学校 <em>有</em> 很 多 学生。|grammar point|ASG04ZCI}}
+{{Similar|Negation of "you"}}
+{{Similar|Expressing possession with "you"}}
+{{POS|Verbs}}
+{{Subprop|Verbs}}
+{{Translation|is}}
+{{Translation|have}}

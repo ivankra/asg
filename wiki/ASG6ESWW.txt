@@ -1,0 +1,71 @@
+<!-- Expressing "almost" using "chadian" -->
+{{Grammar Box}} 
+
+To say that something bad ''almost'' happened (but didn't), you can add the word 差点 (chàdiǎn) before the verb.  You will also hear 差点儿 (chàdiǎnr) in northern China.  There is no difference in meaning between 差点 and 差点儿.
+
+== Literal Meaning ==
+
+It might help to understand the literal meaning of the structure.  The word 差 has a lot of meanings. In this case, it means "to lack," or "to be short." So in Chinese, the way to say "almost" is to say, "lacking that little bit." If that "little bit" hadn't been lacking, it ''would have'' happened.  But it ''was'' lacking, so it didn't happen; it ''almost'' happened. Just remember: the fact of what really happened is always ''NOT'' the verb phrase after 差点(儿).
+
+== Structure ==
+
+Note that the "[[Predicate]]" part of the structure is usually something bad or something you don't wish for, and that it '''didn't happen'''.
+
+<div class="jiegou">
+Subj. + 差点 + Predicate 
+</div>
+
+You can put 了 at the end of the sentence for emphasis. In this case, 就 is often used and it's optional.
+
+<div class="jiegou">
+Subj. + 差点 (+就) + Predicate + 了
+</div>
+
+The [[predicate]] part of the pattern can be a verb or an adjective.
+
+== Examples ==
+
+<div class="liju">
+
+*车 <em>差点</em> 撞到 我 。<span class="expl">The car didn't hit me.</span><span class="pinyin">Chē <em>chàdiǎn</em> zhuàngdào wǒ.</span><span class="trans">The car almost hit me.</span>
+*我们 <em>差点</em> 相信 他 。<span class="expl">We didn't believe him.</span><span class="pinyin">Wǒmen <em>chàdiǎn</em> xiāngxìn tā.</span><span class="trans">We almost believed him.</span>
+*他们 <em>差点</em> 打 起来 。<span class="expl">They didn't start fighting.</span><span class="pinyin">Tāmen <em>chàdiǎn</em> dǎ qǐlái.</span><span class="trans">They almost started a fight.</span>
+*我 <em>差点</em> 忘 <strong>了</strong> 。<span class="expl">I didn't forget.</span><span class="pinyin">Wǒ <em>chàdiǎn</em> wàng <strong>le</strong>.</span><span class="trans">I almost forgot.</span>
+*我 今天 <em>差点</em> 迟到 <strong>了</strong> 。 <span class="expl">I wasn't late.</span><span class="pinyin">Wǒ jīntiān <em>chàdiǎn</em> chídào <strong>le</strong>.</span><span class="trans">I was almost late today.</span>
+*她 <em>差点</em> 疯 <strong>了</strong> 。<span class="expl">She didn't go crazy.</span><span class="pinyin">Tā <em>chàdiǎn</em> fēng <strong>le</strong>.</span><span class="trans">She almost went crazy.</span>
+*他 <em>差点</em> <strong>就</strong> 死 <strong>了</strong> 。<span class="expl">He didn't die.</span><span class="pinyin">Tā <em>chàdiǎn</em> <strong>jiù</strong> sǐ <strong>le</strong>.</span><span class="trans">He almost died.</span>
+*菜 <em>差点</em> 糊 <strong>了</strong> 。<span class="expl">It wasn't burned.</span><span class="pinyin">Cài <em>chàdiǎn</em> hú <strong>le</strong>.</span><span class="trans">The food was almost burned.</span>
+*我们 队 <em>差点</em> 输 <strong>了</strong> 。<span class="expl">The team didn't lose.</span><span class="pinyin">Wǒmen duì <em>chàdiǎn</em>  shū <strong>le</strong>.</span><span class="trans">Our team almost lost.</span>
+*我 <em>差点</em> <strong>就</strong> 打 他 <strong>了</strong> 。<span class="expl">I didn't actually do it.</span><span class="pinyin">Wǒ <em>chàdiǎn</em> <strong>jiù</strong> dǎ tā <strong>le</strong>.</span><span class="trans">I almost hit him.</span>
+
+</div>
+
+== Using 差点 with 没 ==
+
+This can get confusing, even though it's really the same pattern (and same logic) with a little added complexity. This pattern goes beyond the difficulty level of the needs of the B1 learner, so to learn more about this usage, see [[Expressing "almost" using "chadian mei"|expressing "almost" using "chadian mei."]]
+
+== See also ==
+
+*[["Nearly" with "jihu"]]
+*[[Expressing "almost" using "chadianmei"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|现代汉语八百词（增订本）|112}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课下册）|341}}
+
+=== Dictionaries ===
+
+{{Source|现代汉语词典（第5版）|145}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|差点|B1|Subj. + 差点 + Predicate|我 今天 <em>差点儿</em> 迟到 <em>了</em> 。|grammar point|ASG6ESWW}}
+{{Rel char|了}}
+{{Similar|"Nearly" with "jihu"}} 
+{{Similar|Expressing "almost" using "chadianmei"}}   
+{{Used for|Describing actions}}
+{{POS|Adverbs}}
+{{Translation|almost}}

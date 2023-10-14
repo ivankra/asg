@@ -1,0 +1,89 @@
+<!-- Expressing "on the contrary" with "fan'er" -->
+{{Grammar Box}} 
+反而 (fǎn'ér) is used to express "on the contrary" or "in contrast," with 反而 appearing as part of the second part of the sentence.  Note that the meaning of 反而 goes beyond just "but" and is usually used to explain that something is totally the opposite of what one was expecting.
+
+== Simple Pattern ==
+
+=== Structure ===
+
+Normally the first clause makes a statement, and then the second clause introduces the part that is totally opposite of one's expectations. The word "actually" may be helpful in some translations.
+
+<div class="jiegou">
+⋯⋯ ，Subj. + 反而 + [Unexpected Outcome]
+</div>
+
+It's also important to point out that 反而 is not a [[conjunctions|conjunction]]; it's an [[adverbs|adverb]].  Practically speaking, this means that rather than joining two statements, it goes ''inside'' a statement (within the second clause). Specifically, it needs to come ''after the subject'' (if there is one) and ''before the verb''.  (This is different from a conjunction like 但是 which comes ''before'' the subject!) Also 反而 can appear in one sentence with 但是. Rather than ''replacing'' it, 反而 can work ''with'' 但是 to add even more contrarian emphasis.
+
+=== Examples ===
+
+<div class="liju">
+*吃 了 这个 药 ，病 <em>反而</em> 更 严重 了。<span class="pinyin">Chī le zhège yào, bìng <em>fǎn'ér</em> gèng yánzhòng le.</span><span class="trans">After taking the medicine, the illness actually got even worse.</span>
+*这个 新 系统 <em>反而</em> 降低 了 我们 的 工作 效率 。<span class="pinyin">Zhège xīn xìtǒng <em>fǎn'ér</em> jiàngdī le wǒmen de gōngzuò xiàolǜ.</span><span class="trans">This new system actually reduced our work efficiency.</span>
+*他 没有 放弃 ，<em>反而</em> 更 努力 了 ！<span class="pinyin">Tā méiyǒu fàngqì, <em>fǎn'ér</em> gèng nǔlì le!</span><span class="trans">He didn't give up; on the contrary, he worked even harder.</span>
+*改革 <em>反而</em> 让 老百姓 更 不 满意 了 。<span class="pinyin">Gǎigé <em>fǎn'ér</em> ràng lǎobǎixìng gèng bù mǎnyì le.</span><span class="trans">Reform actually made the people less satisfied.</span>
+*你 的 参与 <em>反而</em> 给 我们 带来 了 麻烦 。<span class="pinyin">Nǐ de cānyù <em>fǎn'ér</em> gěi wǒmen dài lái le máfan.</span><span class="trans">Your involvement is actually giving us trouble.</span>
+</div>
+
+== Common Mistake: Putting 反而 Before the Subject ==
+
+Take note: when the subject of the first and second clause are the same, the subject can be omitted in the second clause (after the comma and before 反而). If there ''is'' a subject, however, 反而 definitely needs to come ''after'' it. See the simple examples below and then check the longer sentences above, confirming this rule.
+
+<div class="liju">
+
+<ul>
+<li class="x">我 帮 了 她 ， <em>反而</em> <strong>她</strong> 生气 了 。<span class="pinyin">Wǒ bāng le tā, <em>fǎnér</em> <strong>tā</strong> shēngqì le.</span></li>
+<li class="o">我 帮 了 她 ， <strong>她</strong> <em>反而</em> 生气 了 。<span class="pinyin">Wǒ bāng le tā, <strong>tā</strong> <em>fǎnér</em> shēngqì le.</span></li>
+</ul>
+
+</div>
+
+== Fuller Pattern ==
+
+Adding [[不但]] or [[不仅]] adds a sense of "not only" before the "to the contrary" part. The word "actually" can be useful here for translations into English. 
+
+=== Structure ===
+
+<div class="jiegou">
+⋯⋯ ，Subj. [不但 / 不仅] + [不 / 没] ⋯⋯，反而 + [Unexpected Outcome]
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*吃 了 药 ，病 <strong>不但 没</strong> 好，<em>反而</em> 更 严重 了。<span class="pinyin">Chī le yào, bìng <strong>bùdàn méi</strong> hǎo, <em>fǎn'ér</em> gèng yánzhòng le.</span><span class="trans">After taking the medicine, the illness not only didn't get better, but actually got even worse.</span>
+*失败 了 这么 多 次 ，他 <strong>不但 没</strong> 放弃 ，<em>反而</em> 更 努力 了。<span class="pinyin">Shībài le zhème duō cì, tā <strong>bùdàn méi</strong> fàngqì, <em>fǎn'ér</em> gèng nǔlì le.</span><span class="trans">Having failed so many times, he not only didn't give up, but rather worked even harder.</span>
+*他 <strong>不但 不</strong> 帮 我 ，<em>反而</em> 给 我 找 麻烦 。<span class="pinyin">Tā <strong>bùdàn bù</strong> bāng wǒ, <em>fǎn'ér</em> gěi wǒ zhǎo máfan.</span><span class="trans">He not only didn't help me, but rather gave me trouble.</span>
+*你 妈妈 那么 爱 你 ，你 <strong>不但 不</strong> 感激 ，<em>反而</em> 说 她 不 关心 你 ？<span class="pinyin">Nǐ māma nàme ài nǐ, nǐ <strong>bùdàn bù</strong> gǎnjī, <em>fǎn'ér</em> shuō tā bù guānxīn nǐ?</span><span class="trans">Your mother loves you so much, and not only are you not grateful, but you even say she doesn't care about you?</span>
+*我 吃 了 减肥 药 ，<strong>不但 没</strong> 瘦 ，<em>反而</em> 长胖 了 ！<span class="pinyin">Wǒ chī le jiǎnféi yào, <strong>bùdàn méi</strong> shòu, <em>fǎn'ér</em> zhǎng pàng le!</span><span class="trans">I took a weight loss pill. Not only did I not lose weight, but rather I actually gained weight!</span>
+
+</div>
+
+== See also ==
+
+*[[The "however" adverb "que"]]
+*[[Expressing Contrariness with "dao"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|259}}
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|84}}
+{{Source|卓越汉语－公司实战篇|83, 151-2}}
+
+=== Websites ===
+
+* 汉语教学: [[http://www.pep.com.cn/xgjy/hyjx/hyxxzy/hyxx/cyxx/201009/t20100901_855691.htm 反而]]
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|反而|B2|⋯⋯，反而 ⋯⋯|他 没有 放弃 ，<em>反而</em> 更加 努力 了 ！|grammar point|ASGX5QTV}}
+{{Rel char|不但}}
+{{Rel char|不仅}}
+{{Similar|The "However" Adverb "que"}}
+{{Similar|Expressing Contrariness with "dao"}}
+{{Similar|The pattern "it's not…, it's…"}}
+{{Similar|Expressing "however" with "ran'er"}}
+{{Used for|Contrasting}}
+{{Used for|Denying and refusing}}
+{{Structure|"But" Statements}}

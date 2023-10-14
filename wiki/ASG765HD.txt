@@ -1,0 +1,72 @@
+<!-- Expressing "it depends" with "kan" -->
+{{Grammar Box}} 
+
+Although there are a number of ways to express "it depends" in Chinese, the most common ones in informal spoken Chinese involve the verb 看 (kàn). Some common expressions include 要看 (yào kàn) and 得看 (děi kàn). Both mean "(it) depends (on)." Literally, they would translate as "have to look at," so the logic is not hard to understand.
+
+== Basic Pattern ==
+
+If you're answering a question with "it depends on..." then this is the pattern you want.
+
+=== Structure ===
+
+<div class="jiegou">
+这 / 那 + 要看 / 得看 + [Unclear Situation]
+</div>
+
+=== Examples ===
+
+Keep in mind that the "answers" below are meant to be an answer to some imaginary question that we don't include.
+
+<div class="liju">
+
+*这 <em>得 看</em> 你 的 时间 。<span class="pinyin">Zhè <em>děi kàn</em> nǐ de shíjiān.</span><span class="trans">This depends on when you are available.</span>
+*那 <em>要 看</em> 他 愿 不 愿意 。<span class="pinyin">Nà <em>yào kàn</em> tā yuàn bu yuànyì.</span><span class="trans">That depends on whether he is willing or not.</span>
+*这 <em>得 看</em> 天气 怎么样 。<span class="pinyin">Zhè <em>děi kàn</em> tiānqì zěnmeyàng.</span><span class="trans">It depends on how the weather is.</span>
+*那 <em>要 看</em> 老板 怎么 想 。<span class="pinyin">Nà <em>yào kàn</em> lǎobǎn zěnme xiǎng.</span><span class="trans">It depends on what the boss thinks.</span>
+*那 <em>得 看</em> 考试  结果 。<span class="pinyin">Nà <em>děi kàn</em> kǎoshì jiéguǒ.</span><span class="trans">That depends on the result of the test.</span>
+
+</div>
+
+== Advanced Pattern ==
+
+=== Structure ===
+
+If you're going to write a full sentence explaining what "it" depends on, then you're going to need to lead off with some kind of explanation of the "unknown outcome" of what "it depends" on. So you'll start with the "unknown outcome" in the first part of the sentence (''before'' 要看 / 得看) and then end up with what "it depends on" (''after'' 要看 / 得看).
+
+<div class="jiegou">
+[Unknown Outcome] + 要看 / 得看 + [Unclear Situation]
+</div>
+
+The "unknown outcome" normally includes some kind of [[question word]], meaning something like "''whether or not'' x happens" or "''what'' x does," etc.
+
+=== Examples ===
+
+<div class="liju">
+
+*<strong>去不去</strong> <em>得 看</em> 我 的 心情 。<span class="pinyin"><strong>Qù bu qù</strong> <em>děi kàn</em> wǒ de xīnqíng.</span><span class="trans">Whether or not I go depends on my mood.</span>
+*<strong>什么时候</strong> 去 <em>要 看</em> 公司 的 安排 。<span class="pinyin"><strong>Shénme shíhou</strong> qù <em>yào kàn</em> gōngsī de ānpái.</span><span class="trans">When we go depends on the company's arrangements.</span>
+*学 音乐 <strong>还是</strong> 学 画画 <em>要 看</em> 孩子 的 兴趣 。<span class="pinyin">Xué yīnyuè <strong>háishì</strong> xué huàhuà <em>yào kàn</em> háizi de xìngqù.</span><span class="trans">Whether to study music or drawing depends on your child's interest.</span>
+*<strong>能不能</strong> 留在 中国 <em>要 看</em> 我 能 不 能 拿到 签证 。<span class="pinyin"><strong>Néng bu néng</strong> liú zài Zhōngguó <em>yào kàn</em> wǒ néng bu néng nádào qiānzhèng.</span><span class="trans">Whether or not I can stay in China depends on whether or not I can get a visa.</span>
+*<strong>谁</strong> 当 总统 <em>得 看</em> 大选 的 结果 。<span class="pinyin"><strong>Shéi</strong> dāng zǒngtǒng <em>děi kàn</em> dàxuǎn de jiéguǒ.</span><span class="trans">Who the next president will be depends on the result of the election.</span>
+
+</div>
+
+If you're looking for more formal language, consider 取决于 (qǔjué yú), "to be determined by."
+
+== Sources  and further reading ==
+
+=== Books ===
+
+{{Source|Common Chinese Patterns 330 (汉语常用格式330例)|168}} 
+
+[[Category:B1 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|看|B1|这 / 那 + 要看 / 得看 + Unclear Situation|这 <em>得 看</em> 你 的 时间 。|grammar point|ASG765HD}}
+{{Rel char|要看}}
+{{Rel char|得看}}
+{{Used for|Indicating cause and effect}}
+{{Used for|Adding more explanation}}
+{{Used for|Indicating conditions}}
+{{POS|Verbs}}
+{{Translation|depend}}
+{{Translation|depends}}

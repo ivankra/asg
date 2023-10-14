@@ -1,0 +1,97 @@
+<!-- Advanced result complements "zhu", "kai", and "chulai" -->
+{{Grammar Box}} 
+Hopefully you're no stranger to the concept of [[result complement]]s by now, but there are a few that are less common and thus may have escaped direct scrutiny until now. This grammar point focuses on 住, 开, and 出(来) acting as result complements.
+
+== 住 as a Result Complement ==
+
+住 can be used after a verb to express a "coming to a halt." These verbs are limited. 
+
+<div class="liju">
+*<strong>站</strong><em>住</em>！<span class="pinyin"><strong>Zhàn</strong><em>zhù</em>!</span><span class="trans">Stop!</span>
+*<strong>抓</strong><em>住</em> 那个 小偷 ！<span class="pinyin"><strong>Zhuā</strong><em>zhù</em> nàge xiǎotōu!</span><span class="trans">Catch that thief!</span>
+*不 好意思 ，你 <strong>挡</strong><em>住</em> 了 我 的 路 。<span class="pinyin">Bù hǎoyìsi, nǐ <strong>dǎng</strong><em>zhù</em> le wǒ de lù.</span><span class="trans">Excuse me. You're standing in my way.</span>
+</div>
+
+住 can also be used to express "undertaking an action firmly."
+
+<div class="liju">
+*一定 要 <strong>记</strong><em>住</em> 我 的 话 。<span class="pinyin">Yīdìng yào <strong>jì</strong><em>zhù</em> wǒ de huà.</span><span class="trans">You must remember what I said.</span>
+*你 必须 <strong>抓</strong><em>住</em> 机会 。<span class="pinyin">Nǐ bìxū <strong>zhuā</strong><em>zhù</em> jīhuì.</span><span class="trans">You must seize the opportunity tightly.</span>
+*<strong>忍</strong><em>住</em> ！马上 就 好了 。<span class="pinyin"><strong>Rěn</strong><em>zhù</em>! Mǎshàng jiù hǎo le.</span><span class="trans">Hold on! It will be ready soon.</span>
+*<strong>坚持</strong> <em>住</em> ！别 放弃 ！<span class="pinyin"><strong>Jiānchí</strong> <em>zhù</em>! Bié fàngqì!</span><span class="trans">Persevere! Don't give up!</span>
+</div>
+
+== 开 as Result Complement ==
+
+开 means "to open" or "to turn on." It is used as a complement in this literal sense.
+
+<div class="liju">
+*<strong>张</strong><em>开</em> 嘴 。<span class="pinyin"><strong>Zhāng</strong><em>kāi</em> zuǐ.</span><span class="trans">Open your mouth.</span>
+*请 <strong>打</strong><em>开</em> 书 。<span class="pinyin">Qǐng <strong>dǎ</strong><em>kāi</em> shū.</span><span class="trans">Please open your book.</span>
+*现在 请 你 <strong>睁</strong><em>开</em> 眼睛 。<span class="pinyin">Xiànzài qǐng nǐ <strong>zhēng</strong><em>kāi</em> yǎnjīng.</span><span class="trans">Please open your eyes now.</span>
+</div>
+
+开 can be used to express an action that is occurring in a direction away from the speaker. When used in this sense, 开 is generally used with verbs involving releasing, unfolding or spreading out:
+
+<div class="liju">
+*<strong>走</strong><em>开</em> ！<span class="pinyin"><strong>Zǒu</strong><em>kāi</em>!</span><span class="trans">Go away!</span>
+*<strong>放</strong><em>开</em> 我 ！<span class="pinyin"><strong>Fàng</strong><em>kāi</em> wǒ!</span><span class="trans">Let go of me!</span>
+*这个 好消息 很快 <strong>传</strong><em>开</em> 了 。<span class="pinyin">Zhège hǎo xiāoxī hěn kuài <strong>chuán</strong><em>kāi</em> le.</span><span class="trans">This good news spread out very soon.</span>
+</div>
+
+开 can be also used to express solving a problem or getting a weight off one's mind. 
+
+<div class="liju">
+*<strong>看</strong><em>开</em> 一点 。<span class="pinyin"><strong>Kàn</strong><em>kāi</em> yīdiǎn.</span><span class="trans">Cheer up.</span>
+*<strong>想</strong><em>开</em> 一点 。<span class="pinyin"><strong>Xiǎng</strong><em>kāi</em> yīdiǎn.</span><span class="trans">Cheer up.</span>
+</div>
+
+== 出(来) as Result Complement ==
+
+出 and 出来 can be used as complements to figuratively add a sense of "coming into being" or "coming up with."
+
+<div class="liju">
+
+*你 能 <strong>想</strong><em>出</em> 什么 好 办法 ？<span class="pinyin">Nǐ néng <strong>xiǎng</strong><em>chū</em> shénme hǎo bànfǎ?</span><span class="trans">What good ideas can you come up with?</span>
+*这些 数学 题 有点 难 ，我 花 了 一个 小时 才 <strong>做</strong><em>出来</em> 。<span class="pinyin">Zhèxiē shùxué tí yǒudiǎn nán, wǒ huā le yī gè xiǎoshí cái <strong>zuò</strong><em>chūlái</em>.</span><span class="trans">These math problems are a little bit difficult. It took me an hour to work them out.</span>
+*你 觉得 他 能 <strong>猜</strong> <em>出来</em> 这 件 事 是 我 干 的 吗 ？<span class="pinyin">Nǐ juéde tā néng <strong>cāi</strong> <em>chūlái</em> zhè jiàn shì shì wǒ gàn de ma?</span><span class="trans">Do you think he can figure out I am the one who did this?</span>
+*一万 字 的 文章 我 <strong>写 不</strong> <em>出来</em> 。<span class="pinyin">Yī wàn zì de wénzhāng wǒ <strong>xiě bu</strong> <em>chūlái</em>.</span><span class="trans">I can't write a ten-thousand-word article.</span>
+
+</div>
+
+When paired with verbs related to the senses, the complement 出(来) adds a sense of "to tell" or "to distinguish".
+
+<div class="liju">
+*她 肯定 是 北方人，我 能 <strong>听</strong> <em>出来</em> 。<span class="pinyin">Tā kěndìng shì běifāng rén, wǒ néng <strong>tīng</strong> <em>chūlái</em>.</span><span class="trans">She must be from the north. I can hear it.</span>
+*你 能 <strong>看</strong><em>出</em> 我 多大 吗 ？<span class="pinyin">Nǐ néng <strong>kàn</strong><em>chū</em> wǒ duōdà ma?</span><span class="trans">Can you tell how old I am?</span>
+*菜 里面 有 味精 ，我 能 <strong>吃</strong> <em>出来</em> 。<span class="pinyin">Cài lǐmiàn yǒu wèijīng, wǒ néng <strong>chī</strong> <em>chūlái</em>.</span><span class="trans">The food has MSG in it. I can taste it.</span>
+*这 个 东西 是 用 什么 做 的 ？你 能 <strong>摸</strong> <em>出来</em> 吗 ？<span class="pinyin">Zhège dōngxi shì yòng shénme zuò de? Nǐ néng <strong>mō</strong> <em>chūlái</em> ma?</span><span class="trans">What's this thing made of? Can you tell by feeling it?</span>
+*你 抽烟 了 吧 ？别 骗 我 ，我 都 <strong>闻</strong> <em>出来</em> 了 。<span class="pinyin">Nǐ chōuyān le ba? Bié piàn wǒ, wǒ dōu <strong>wén</strong> <em>chūlái</em> le.</span><span class="trans">Were you smoking? Don't lie to me because I can smell it.</span>
+</div>
+
+== See also ==
+
+* [[Result complements]]
+* [[Potential complement]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|135}}
+
+[[Category: B2 grammar points]]
+[[Category: Result complement]]
+{{Basic Grammar|住|B2|Verb + 住 / 开 / 出(来)|<em>抓住</em> 那个 小偷 ！|grammar point|ASG4OM4T}}
+{{Rel char|开}}
+{{Rel char|出来}}
+{{Rel char|出}}
+{{Similar|Potential complement "-bu dong" for not understanding}}
+{{Similar|Result complement}}
+{{Similar|Result complements "-dao" and "-jian"}}
+{{Similar|Result complement "-wan" for finishing}}
+{{Similar|Result complement "xiaqu"}}
+{{Similar|Potential complement}}
+{{Used for|Expressing duration}}
+{{Used for|Expressing result}}
+{{Structure|Complements}}

@@ -1,0 +1,42 @@
+<!-- Expressing "as early as" using "zaozai……" -->
+{{stub}}
+
+Use 早在 (zǎo zài) to express "as early as." 早在 (zǎo zài) is typically used at the beginning of the sentence. 
+
+== Structure ==
+
+<div class="jiegou">
+早在 + Time Period, situation 
+
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+* 她<em>早在</em>1942年就成了电影名星。
+* 我们<em>早在</em>三月份就对产品做好了预测。
+* <em>早在</em>大学的时候，我们就认识了。
+* <em>早在</em>五十年代，我国就掌握了这个技术。
+* 这家饭店<em>早在</em>一周前就搬走了。
+* <em>早在</em>一周前，我就告诉过他别这样做。
+* 他们两个离婚一点也不意外，<em>早在</em>2016年他们就分居了。
+* 这个游戏的概念<em>早在</em>上个世纪就有了。
+* <em>早在</em>读书时期，他就对法律产生了很深的兴趣。
+* <em>早在</em>我们认识她之前，她就是一个医生。
+
+</div>
+
+==Sources and further reading==
+
+=== Books ===
+
+{{Source|Anything Goes (无所不谈)|309}}
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|早在|C1|早在 + Time Period, situation |<em>早在</em>  。|grammar point|ASG23903}}
+{{Rel char|早}}
+{{Similar|Expressing "ever since" with "yilai"}}
+{{Used for|Indicating events in time}}
+{{Used for|Referring to the past}}
+{{Translation|As early as}}

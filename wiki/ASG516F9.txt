@@ -1,0 +1,129 @@
+<!-- Advanced potential complements -->
+{{Grammar Box}} 
+You may have a handle on the typical [[potential complement]]s, but there are a few other fairly common ones that you still need to master. Each is addressed separately here, but for all of them, the preceding character 得 (de) or 不 (bu) is pronounced in the [https://resources.allsetlearning.com/chinese/pronunciation/Neutral_tone neutral tone].
+
+== Verbs with -不了 and -得了 ==
+
+=== Structure ===
+
+This pattern is used to talk about whether or not you are able to do something. It is subtly different from using "不能 + Verb" because "Verb + 不了" usually suggests some external factor out of one's control. 
+
+<div class="jiegou">
+Verb + 得了 / 不了
+</div>
+
+Note that the character 了 here is pronounced "liǎo."
+
+=== Examples ===
+
+<div class="liju">
+*他 那么 老 ，<strong>走</strong> <em>得 了</em> 那么 多 路 吗 ？<span class="pinyin">Tā nàme lǎo, <strong>zǒu</strong> <em>deliǎo</em> nàme duō lù ma?</span><span class="trans">He's so old. Will he be able to walk that far?</span>
+*今晚 我 有 事 ，<strong>去</strong> <em>不 了</em> 。<span class="pinyin">Jīn wǎn wǒ yǒushì, <strong>qù</strong> <em>buliǎo</em>.</span><span class="trans">I have things to do tonight. I won't be able to go.</span>
+*这 件 衣服 太 小 了 ，我 <strong>穿</strong> <em>不 了</em> 。<span class="pinyin">Zhè jiàn yīfu tài xiǎo le, wǒ <strong>chuān</strong> <em>buliǎo</em>.</span><span class="trans">This piece of clothing is too small. I won't be able to wear it.</span>
+*这 件 事情 只 有 你 <strong>帮</strong> <em>得 了</em> 我 。<span class="pinyin">Zhè jiàn shìqing zhǐyǒu nǐ <strong>bāng</strong> <em>deliǎo</em> wǒ.</span><span class="trans">You're the only one who is able to help me with this.</span>
+</div>
+
+== Verbs with -不下 and -得下 ==
+
+=== Structure ===
+
+This is used to talk about whether or not something will fit or go somewhere. Commonly used with the verbs 放, 坐, 住, 装, 吃.
+
+<div class="jiegou">
+Verb + 得下 / 不下
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*我 吃 饱 了 ，真的 <strong>吃</strong> <em>不 下</em> 了 。<span class="pinyin">Wǒ chī bǎo le, zhēn de <strong>chī</strong> <em>buxià</em> le.</span><span class="trans">I'm full. I don't feel like eating more.</span>
+*你 包 里 <strong>放</strong> <em>得 下 </em> 那么 多 东西 吗 ？<span class="pinyin">Nǐ bāo li <strong>fàng</strong> <em>dexià</em> nàme duō dōngxi ma?</span><span class="trans">Can your bag hold that many things?</span>
+*我 的 车 太 小 ，<strong>坐</strong> <em>不 下</em> 五 个 人 。 <span class="pinyin">Wǒ de chē tài xiǎo, <strong>zuò</strong> <em>buxià</em> wǔ gèrén.</span><span class="trans">My car is too small. Five people will not fit in it.</span>
+*我 的 箱子 这么 大 ，肯定 <strong>装</strong> <em>得 下</em> 这些 衣服 。<span class="pinyin">Wǒ de xiāngzi zhème dà, kěndìng <strong>zhuāng</strong> <em>dexià</em> zhèxiē yīfu.</span><span class="trans">I'm sure my suitcase is big enough for these clothes.</span>
+</div>
+
+== Verbs with -不起 and -得起 == 
+
+This complement is related to being "able to afford" something or some cost. So -不起 means "can't afford to," and -得起 means "can afford to."
+
+=== Structure ===
+
+<div class="jiegou">
+Verb + 得起 / 不起 + Obj. 
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*那 件 衣服 是 你 两 个 月 的 工资 ，<strong>买</strong> <em>得 起</em> 吗？<span class="pinyin">Nà jiàn yīfu shì nǐ liǎng gè yuè de gōngzī, <strong>mǎi</strong> <em>deqǐ</em> ma?</span><span class="trans">That piece of clothing is worth two months of your salary. Can you afford to buy it?</span>
+*这 家 餐厅 太 贵 了 ，我们 <strong>吃</strong> <em>不 起</em> 。<span class="pinyin">Zhè jiā cāntīng tài guì le, wǒmen <strong>chī</strong> <em>buqǐ</em>.</span><span class="trans">This restaurant is too expensive. We can't afford to eat here.</span>
+*这里 房子 的 租金 最少 也 要 一 万 块 ，你 <strong>租</strong> <em>得 起</em> 吗 ？<span class="pinyin">Zhèlǐ fángzi de zūjīn zuìshǎo yě yào yī wàn kuài, nǐ <strong>zū</strong> <em>deqǐ</em> ma?</span><span class="trans">This apartment's rent is at least 10,000 RMB. Can you afford to rent it?</span>
+*很 多 人 不 生 二胎 不是 因为 不 想 要 ，是 因为 成本 太 高 ，<strong>养</strong> <em>不 起</em> 。<span class="pinyin">Hěn duō rén bù shēng èrtāi bù shì yīnwèi bù xiǎng yào, shì yīnwèi chéngběn tài gāo, <strong>yǎng</strong> <em>buqǐ</em>.</span><span class="trans">Many people don't have a second child not because they don't want to, but because costs are too high. They can't afford to raise another kid.</span>
+</div>
+
+== Verbs with -不动 and -得动 ==
+
+=== Structure ===
+
+The potential complement -不动 is used to indicate the lack of energy or physical strength required to do something. This can be used not only with actions like walking, running or climbing, but even actions like eating and chewing.
+
+<div class="jiegou">
+Verb + 得动 / 不动
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*我 <strong>走</strong> <em>不 动</em> 了，我们 休息 一下 吧 ！<span class="pinyin">Wǒ <strong>zǒu</strong> <em>budòng</em> le, wǒmen xiūxí yīxià ba!</span><span class="trans">I can't keep going. I need to rest a bit.</span>
+*等等 我，我 <strong>跑</strong> <em>不 动</em> 了！<span class="pinyin">Děng děng wǒ, wǒ <strong>pǎo</strong> <em>budòng</em> le!</span><span class="trans">Wait for me. I can't keep running.</span>
+*孩子 真的 长大 了，妈妈 都 <strong>抱</strong> <em>不 动</em> 了 。<span class="pinyin">Háizi zhēn de zhǎngdà le, māma dōu <strong>bào</strong> <em>budòng</em> le.</span><span class="trans">The child is all grown up. His mother can't hold him anymore.</span>
+*这么 重 ，他 一个人 <strong>搬</strong> <em>得 动</em> 吗 ？<span class="pinyin">Zhème zhòng, tā yīgèrén <strong>bān</strong> <em>dedòng</em> ma?</span><span class="trans">It's so heavy. Can he move it by himself?</span>
+</div>
+
+== Verbs with -不着 and -得着 ==
+
+Similar to [[Result complements "-dao" and "-jian"|-到]], the complement -着 (zháo) can denote that someone's one's ability is up (or not) to the task in question.
+
+=== Structure ===
+
+<div class="jiegou">
+Verb + 得着 / 不着
+</div>
+
+Note that the character 着 here is pronounced "zháo."
+
+=== Examples ===
+
+<div class="liju">
+*太 高 了 ，我 <strong>够</strong> <em>不 着</em> 。<span class="pinyin">Tài gāo le, wǒ <strong>gòu</strong> <em>buzháo</em>.</span><span class="trans">It's too high. I can't reach it.</span>
+*这么 吵 ，你 <strong>睡</strong> <em>得 着</em> 吗 ？<span class="pinyin>Zhème chǎo, nǐ <strong>shuì</strong> <em>dezháo</em> ma?</span><span class="trans">It's so noisy. Can you sleep?</span>
+*太 难 了 ，我 <strong>猜</strong> <em>不 着</em> 。<span class="pinyin">Tài nán le, wǒ cāi bu zháo.</span><span class="trans">It's too hard. I can't guess.</span>
+</div>
+
+This one is a little tricky, so find more examples in [[complement "-zhao"|-着's dedicated grammar point]].
+
+== See also ==
+
+* [[Potential complement]]
+
+== Sources and further reading ==
+
+=== Books ===
+{{Source|HSK Standard Course 5上|118}}
+
+[[Category:B2 grammar points]]
+[[Category:Complements]]
+{{Basic Grammar|不了|B2|Verb + 得了 / 不了|今晚 我 有事 ，去 <em>不 了</em> 。|grammar point|ASG516F9}}
+{{Rel char|不下}}
+{{Rel char|下}}
+{{Rel char|不起}}
+{{Rel char|起}}
+{{Rel char|不动}}
+{{Rel char|动}}
+{{Rel char|不着}}
+{{Rel char|着}}
+{{Similar|"-wan" result complement}}
+{{Similar|Potential complement}}
+{{Used for|Expressing possibility}}
+{{Used for|Describing actions}}
+{{Structure|Complements}}

@@ -1,0 +1,48 @@
+<!-- Using "zhe" when "verbing away" -->
+{{Grammar Box}} 
+A repeated verb followed by the particle 着 (zhe) is used to show that an action has been repeated for a period of time, and as a result a new situation has arisen which the speaker wishes to comment on.
+
+==Structure==
+
+<div class="jiegou">
+Verb + 着 + Verb + 着 + 就 + Comment + 了
+</div>
+
+==Examples==
+
+<div class="liju">
+* <strong>说</strong><em>着</em> <strong>说</strong><em>着</em> 我 <em>就</em> 发现 自己 也 糊涂 <em>了</em> 。<span class="pinyin"><strong>Shuō</strong><em>zhe</em> <strong>shuō</strong><em>zhe</em> wǒ <em>jiù</em> fāxiàn zìjǐ yě hútu <em>le</em>.</span><span class="trans">After talking and talking, I realized that I had confused myself.</span>
+* 我 今天 一直 都 在 看 《论语》， <strong>看</strong><em>着</em> <strong>看</strong><em>着</em>，<em>就</em> 睡着 <em>了</em> 。<span class="pinyin">Wǒ jīntiān yīzhí dōu zài kàn Lúnyǔ, <strong>kàn</strong><em>zhe</em> <strong>kàn</strong><em>zhe</em>, <em>jiù</em> shuìzháo <em>le</em>.</span><span class="trans">Today, I was reading the Confucian Analects all day. As I was reading, I fell asleep.</span>
+* 我 在 北京 的 胡同 里 <strong>走</strong><em>着</em> <strong>走</strong><em>着</em> <em>就</em> 走丢 <em>了</em> 。<span class="pinyin">Wǒ zài Běijīng de hútòng li <strong>zǒu</strong><em>zhe</em> <strong>zǒu</strong><em>zhe</em> <em>jiù</em> zǒu diū <em>le</em>.</span><span class="trans">Walking and walking in Beijing's back alleys, I got lost.</span>
+* 我 <strong>玩</strong><em>着</em> <strong>玩</strong><em>着</em> 游戏，<em>就</em> 把 时间 忘 <em>了</em>。<span class="pinyin">Wǒ <strong>wán</strong><em>zhe</em> <strong>wán</strong><em>zhe</em> yóuxì, <em>jiù</em> bǎ shíjiān wàng <em>le</em>.</span><span class="trans">I played and played the game, and I forgot the time.</span>
+* 我 <strong>听</strong><em>着</em> <strong>听</strong><em>着</em> 歌，<em>就</em> 唱 起来 <em>了</em> 。<span class="pinyin">Wǒ <strong>tīng</strong><em>zhe</em> <strong>tīng</strong><em>zhe</em> gē, <em>jiù</em> chàng qǐlái <em>le</em>.</span><span class="trans">As I listened and listened to the songs, I began to sing.</span>
+* 两 个 人 <strong>吃</strong><em>着</em> <strong>吃</strong><em>着</em> 饭，<em>就</em> 吵 起来 <em>了</em> 。<span class="pinyin">Liǎng gè rén <strong>chī</strong><em>zhe</em> <strong>chī</strong><em>zhe</em> fàn, <em>jiù</em> chǎo qǐlái <em>le</em>.</span><span class="trans">The two of them ate and ate, and then started arguing.</span>
+* <strong>写</strong><em>着</em> <strong>写</strong><em>着</em> ，<em>就</em> 发现 办公室 大家 都 走 <em>了</em> 。<span class="pinyin"><strong>Xiě</strong><em>zhe</em> <strong>xiě</strong><em>zhe</em>, <em>jiù</em> fāxiàn bàngōngshì dàjiā dōu zǒu <em>le</em>.</span><span class="trans">After writing and writing, we realized that everyone in the office had left.</span>
+* 今天 在 家 录 视频 ， <strong>录</strong><em>着</em> <strong>录</strong><em>着</em> ，天 都 已经 黑 <em>了</em>。<span class="pinyin">Jīntiān zài jiā lù shìpín, <strong>lù</strong><em>zhe</em> <strong>lù</strong><em>zhe</em>, tiān dōu yǐjīng hēi <em>le</em>.</span><span class="trans">Today I recorded a video at home, and after all that recording it was already dark.</span>
+* <strong>喝</strong><em>着</em> <strong>喝</strong><em>着</em> ，从 酒 里面 喝 出来 一 根 头发。<span class="pinyin"><strong>Hē</strong><em>zhe</em> <strong>hē</strong><em>zhe</em>, cóng jiǔ lǐmiàn hē chūlai yī gēn tóufǎ.</span><span class="trans">I drank and drank and drank, and a hair came out of the wine.</span>
+* 我 <strong>上</strong><em>着</em> <strong>上</strong><em>着</em> 课，<em>就</em> 听到 外面 有 人 叫 我。<span class="pinyin">Wǒ <strong>shàng</strong><em>zhe</em> <strong>shàng</strong><em>zhe</em> kè, <em>jiù</em> tīng dào wàimiàn yǒu rén jiào wǒ.</span><span class="trans">As I sat through class after class, I heard someone calling me from outside.</span>
+</div>
+
+==See also==
+*[["Verbing around" with "lai" and "qu"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4下|131}}
+{{Source|Integrated Chinese: Level 2, Part 2|193-4}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课下册）|385}}
+
+[[Category: B2 grammar points]]
+{{HSK|HSK4}}
+[[Category: Verbs]]
+{{Basic Grammar|着|B2|Verb + 着 + Verb + 着 + 就 + Comment + 了|走 <em>着</em> 走 <em>着</em> ， 他们 到 家 了 。|grammar point|ASG7AUNJ}}
+{{Similar|"Verbing around" with "lai" and "qu"}}
+{{Similar|Aspect particle "zhe"}}
+{{Used for|Expressing duration}}
+{{Used for|Indicating conditions}}
+{{Used for|Describing actions}}
+{{Used for|Expressing movement}}
+{{POS|Verbs}}
+{{Subprop|Verb phrases}}

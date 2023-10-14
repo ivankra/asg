@@ -1,0 +1,100 @@
+<!-- Expressing "all" with "suoyou" -->
+{{Grammar Box}} 
+
+You can use 所有 (suǒyǒu) to say "all of" something. It's what you use to say phrases like "all the money in the world" or "all of my friends."
+
+== Basic Pattern ==
+
+=== Structure ===
+
+This pattern is used to refer to "all" of a noun, with the quantity of said noun usually being fairly large. You may notice that the 的 after 所有 is occasionally omitted.
+
+<div class="jiegou">
+所有 (+ 的) + Noun
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*你 买 了 她 <em>所有 的</em> 书 ？<span class="pinyin">Nǐ mǎi le tā <em>suǒyǒu de</em> shū?</span><span class="trans">You've bought all her books?</span>
+*我 喜欢 <em>所有</em> 我 妈妈 做 的 菜 。<span class="pinyin">Wǒ xǐhuan <em>suǒyǒu</em> wǒ māma zuò de cài.</span><span class="trans">I like all the food my mom cooks.</span>
+*他 记得 <em>所有</em> 朋友 的 生日 。<span class="pinyin">Tā jìde <em>suǒyǒu</em> péngyou de shēngrì.</span><span class="trans">He remembers all of his friends' birthdays.</span>
+*我 的 孩子 看 过 <em>所有</em> 的 迪斯尼 动画片 。<span class="pinyin">Wǒ de háizi kàn guo <em>suǒyǒu</em> de Dísīní dònghuàpiàn.</span><span class="trans">My child has seen all of the Disney animated films.</span>
+
+</div>
+
+== Full Sentence Pattern ==
+
+When you make 所有 part of the subject, you're typically going to need 都 before the predicate.
+
+=== Structure ===
+
+<div class="jiegou">
+所有 (+ 的) + Noun + 都 + Predicate
+</div>
+
+The [[predicate]] part of the pattern can be a verb or an adjective.
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>所有</em> 人 <strong>都</strong> 走 了 吗 ？<span class="pinyin"><em>Suǒyǒu</em> rén <strong>dōu</strong> zǒu le ma?</span><span class="trans">Did all the people leave?</span>
+*<em>所有 的</em> 学校 <strong>都</strong> 放假 了。<span class="pinyin"><em>Suǒyǒu de</em> xuéxiào <strong>dōu</strong> fàngjià le.</span><span class="trans">All the schools are out for the holiday.</span>
+*我们 学校 <em>所有 的</em> 老师 <strong>都</strong> 会 说 英文 。<span class="pinyin">Wǒmen xuéxiào <em>suǒyǒu de</em> lǎoshī <strong>dōu</strong> huì shuō Yīngwén.</span><span class="trans">All the teachers in our school can speak English.</span>
+*我们 公司 <em>所有</em> 人 <strong>都</strong> 参加 了 这个 会议 。<span class="pinyin">Wǒmen gōngsī <em>suǒyǒu</em> rén <strong>dōu</strong> cānjiā le zhège huìyì.</span><span class="trans">All people in our company attended this meeting.</span>
+
+</div>
+
+== "Not All" with 不是所有的 ==
+
+Take note that you use 不是 rather than just 不 to negate 所有.
+
+=== Structure ===
+
+<div class="jiegou">
+不是 + 所有 (+ 的) + Noun + 都 + Predicate
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*不是 <em>所有 的</em> 美国 人 <strong>都</strong> 爱 喝 咖啡 。<span class="pinyin">Bù shì <em>suǒyǒu de</em> Měiguó rén <strong>dōu</strong> ài hē kāfēi.</span><span class="trans">Not all Americans like drinking coffee.</span>
+*不是 <em>所有</em> 问题 <strong>都</strong> 能 用 钱 来 解决 。<span class="pinyin">Bù shì <em>suǒyǒu</em> wèntí <strong>dōu</strong> néng yòng qián lái jiějué.</span><span class="trans">Not all problems can be solved with money.</span>
+*不是 <em>所有</em> 朋友 <strong>都</strong> 愿意 帮 他 。<span class="pinyin">Bù shì <em>suǒyǒu</em> péngyou <strong>dōu</strong> yuànyì bāng tā.</span><span class="trans">Not all of his friends are willing to help him.</span>
+*不是 <em>所有 的</em> 公司 <strong>都</strong> 给 员工 提供 培训 。<span class="pinyin">Bù shì <em>suǒyǒu de</em> gōngsī <strong>dōu</strong> gěi yuángōng tígōng péixùn.</span><span class="trans">Not all companies provide their employees with training.</span>
+
+</div>
+
+== See also ==
+
+*[[Expressing "Everyone" with "shei"]]
+*[[Expressing "All" with "shenme dou"]]
+*[[Expressing "Every" with "mei" and "dou"]]
+*[[Indicating the whole with "quan"]]
+
+== Sources and  further reading ==
+
+=== Books ===
+
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|283}}
+{{Source|Contemporary Chinese 4 (当代中文4) |181}} 
+
+=== Websites ===
+
+*Chinesegrammar.info: [http://chinesegrammar.info/particles/suo-structural-particle/ Chinese grammar 所 (suǒ) structural particle]
+
+[[Category:B1 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|所有|B1|所有 (+ 的) + Noun|我 喜欢 吃 <em>所有</em> 我 妈妈 做 的 菜 。|grammar point|ASGOWBSL}}
+{{Similar|Emphasizing quantity with "dou"}} 
+{{Similar|Expressing "Every" with "mei" and "dou"}}
+{{Similar|Expressing "All" with "shenme dou"}}
+{{Similar|Expressing "Everyone" with "shei"}}   
+{{Similar|Expressing “any" with "renhe"}}
+{{Similar|Indicating the whole with "quan"}}
+{{Structure|Noun Phrases}}
+{{Used for| Expressing quantity}}
+{{Translation|all}}

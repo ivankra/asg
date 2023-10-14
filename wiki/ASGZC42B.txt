@@ -1,0 +1,59 @@
+<!-- Measure words with "this" and "that" -->
+{{Grammar Box}} 
+
+In English, when you refer to "this table" or "that girl" you only need two words: "this" or "that" plus the noun you're referring to.  In Chinese, though, you also need a [[measure word]] in the middle between the two.  In the very beginning you can get away with using [[Measure_word_%22ge%22|个 (gè)]] for everything, but pretty soon you're going to have to start using other measure words in these simple phrases.
+
+== Structure ==
+
+If you use 这 (zhè) or 那 (nà) before a noun, you also need to include a [[measure word]] before the noun.
+
+<div class="jiegou">
+
+这 / 那 + Measure Word + Noun
+
+</div>
+
+== Examples ==
+
+Note: In this usage, the tone of 个 (gè) tends to soften, so it's represented below as a neutral tone.
+
+<div class="liju">
+
+* <em>那</em> <strong>个</strong> 人 <span class="pinyin"> <em>nà</em><strong>ge</strong> rén</span><span class="trans">that person</span>
+* <em>这</em> <strong>本</strong> 书 <span class="pinyin"> <em>zhè</em> <strong>běn</strong> shū</span><span class="trans">this book</span>
+* <em>那</em> <strong>件</strong> 事 <span class="pinyin"> <em>nà</em> <strong>jiàn</strong> shì</span><span class="trans">that matter (in the sense of business, affair, or thing)</span>
+* <em>这</em> <strong>瓶</strong> 啤酒 <span class="pinyin"> <em>zhè</em> <strong>píng</strong> píjiǔ</span><span class="trans">this bottle of beer</span>
+* <em>那</em> <strong>个</strong> 房间 <span class="pinyin"> <em>nà</em><strong>ge</strong> fángjiān</span><span class="trans">that room</span>
+* <em>那</em> <strong>台</strong> 电脑 <span class="pinyin"> <em>nà</em> <strong>tái</strong> diànnǎo</span><span class="trans">that new computer</span>
+* <em>这</em> <strong>只</strong> 猫 <span class="pinyin"> <em>zhè</em> <strong>zhī</strong> māo</span><span class="trans">that cat</span>
+* <em>那</em> <strong>条</strong> 河 <span class="pinyin"> <em>nà</em> <strong>tiáo</strong> hé </span><span class="trans">that river</span>
+* <em>这</em> <strong>件</strong> 衣服 <span class="pinyin"><em>zhè</em> <strong>jiàn</strong> yīfu </span><span class="trans">this piece of clothing</span>
+
+</div>
+
+Although we didn't get into it here, the same pattern holds true when you use 哪 (nǎ) to ask "which?"
+
+==See also==
+
+*[["Some" Using "yixie"]]
+*[[Measure words in quantity questions]]
+*[[Measure Words for Verbs]]
+
+== Sources and  further reading ==
+
+=== Books ===
+
+{{Source|Basic Patterns of Chinese Grammar|33}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+[[Category:Measure words]]
+{{Basic Grammar|这|A2|这 / 那 + Measure Word (+ Noun)|那 <em>个</em> 人。这 <em>杯</em> 水。|grammar point|ASGZC42B}}
+{{Rel char|那}}
+{{Similar|"Some" Using "yixie"}}   
+{{Similar|Measure words in quantity questions}}   
+{{Similar|Measure Words for Verbs}}
+{{Similar|Measure word "ge"}}    
+{{Similar|Measure words for counting}}
+{{Structure|Numbers and Measure Words}}
+{{Used for| Differentiating}}

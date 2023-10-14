@@ -1,0 +1,38 @@
+<!-- Using the particle "bei" -->
+{{Grammar Box}} 
+{{Stub}}
+
+In advanced, colloquial Chinese, you may hear 呗 at the end of sentences. This particle is similar to 吧 and expresses "it's just this way." It points out something that is obvious.
+
+== Structure ==
+
+Use 呗 the same way you would any other particle, like 吧. Put it at the end of your sentence.
+
+<div class="jiegou">
+
+Sentence + 呗
+
+</div>
+
+呗 is one of those nuanced particles that has a few possible explanations. It can indicate that something is obvious, or it can express resignation. It can also express a lack of enthusiasm, or that something should or can only be done a certain way. 
+
+
+=== Examples ===
+
+<div class="liju">
+* 别问 我们 为什么 去 KTV 唱歌，热闹 好 玩儿 <em>呗</em>！
+* 如果 你 不 知道 怎么 说，就 查 词典 <em>呗</em>！
+* 要是 不懂，就 好好 学 <em>呗</em>。
+* 如果 你 不 想 去 就 不 去 <em>呗</em>。
+</div>
+
+== Sources and further reading ==
+
+=== Websites ===
+* [http://xueshu.baidu.com/s?wd=paperuri%3A%286994ca04dfe1230f5f053f0002dcc46b%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fwww.doc88.com%2Fp-4819265646660.html&ie=utf-8&sc_us=3166075360886003009]
+
+[[Category: C1 grammar points]]
+[[Category: Particles]]
+{{Basic Grammar|呗|C1|Sentence + 呗| 如果 你 不 想 去 就 不 去 <em>呗</em>。|grammar point|ASGVBH2H}}
+{{Used for|Expressing the obvious}}
+{{POS|Particles}}

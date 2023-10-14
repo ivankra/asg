@@ -1,0 +1,72 @@
+<!-- Expressing lateness with "cai" -->
+{{Grammar Box}} 
+
+To express that something happened later than expected, you can use 才 (cái). In English, this might be expressed with "as late as" or "not until." This form is often used with a time of some sort, like a specific time of day, age, etc. This pattern is essentially the opposite of [[Expressing earliness with "jiu"|using 就 (jiù) to express earliness]].
+
+== Structure ==
+
+<div class="jiegou">
+Subj. + Time + 才 + Verb
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*我 昨天 晚上 十一 点 <em>才</em> 到 家 。<span class="pinyin">Wǒ zuótiān wǎnshang shíyī diǎn <em>cái</em> dào jiā.</span><span class="trans">I didn't arrive at home until eleven o'clock last night.</span>
+*他 二十 五 岁 <em>才</em> 上 大学 。<span class="pinyin">Tā èrshí-wǔ suì <em>cái</em> shàng dàxué.</span><span class="trans">He didn't go to college until he was 25.</span>
+*她 四十 岁 <em>才</em> 结婚 。<span class="pinyin">Tā sìshí suì <em>cái</em> jiéhūn.</span><span class="trans">She didn't get married until she was forty.</span>
+*我 女儿 昨天 十二 点 <em>才</em> 睡觉 ，作业 太 多 了 。<span class="pinyin">Wǒ nǚ'ér zuótiān shí'èr diǎn <em>cái</em> shuìjiào, zuòyè tài duō le.</span><span class="trans">My daughter didn't go to bed until 12 o'clock yesterday. Too much homework.</span>
+*你 九 点 上班 ，八 点 半 <em>才</em> 起床 ？<span class="pinyin">Nǐ jiǔ diǎn shàngbān, bā diǎn bàn <em>cái</em> qǐchuáng?</span><span class="trans">You start work at nine o'clock, but don't get up until 8:30?</span>
+*飞机 刚刚 <em>才</em> 起飞 ，晚点 了 两 个 小时 。<span class="pinyin">Fēijī gānggāng <em>cái</em> qǐfēi, wǎndiǎn le liǎng gè xiǎoshí.</span><span class="trans">The airplane just took off. It was delayed for two hours.</span>
+*电影 七 点 半 开始 ，可是 因为 堵车 ，我们 八 点 <em>才</em> 到 。<span class="pinyin">Diànyǐng qī diǎn bàn kāishǐ, kěshì yīnwèi dǔchē, wǒmen bā diǎn <em>cái</em> dào.</span><span class="trans">The movie began at 7:30, but we didn't arrive until eight because of traffic.</span>
+
+</div>
+
+You can use 才 alone with the verb to indicate the lateness when the context is clear:
+
+<div class="liju">
+
+*你 怎么 <em>才</em> 吃 晚饭 ？已经 十 点 了 。<span class="pinyin">Nǐ zěnme <em>cái</em> chī wǎnfàn? Yǐjīng shí diǎn le.</span><span class="trans">How come you are eating dinner now? It's 10 pm.</span>
+*你 怎么 <em>才</em> 来 ？我们 等 了 半 个 多 小时 。 <span class="pinyin">Nǐ zěnme <em>cái</em> lái? Wǒmen děng le bàn gè duō xiǎoshí.</span><span class="trans">How come you came here so late? We've waited for more than half an hour.</span>
+
+</div>
+
+Note that verbs following 才 should not take 了.
+
+<div class="liju">
+<ul>
+<li class="x">我 昨天 晚上 十一 点 <em>才</em> 到 家 <strong>了</strong> 。<span class="pinyin">Wǒ zuótiān wǎnshang shíyī diǎn <em>cái</em> dào jiā <strong>le</strong>.</span></li>
+<li class="x">她 四十 岁 <em>才</em> 结婚 <strong>了</strong> 。<span class="pinyin">Tā sìshí suì <em>cái</em> jiéhūn <strong>le</strong>.</span></li>
+</ul>
+</div>
+
+== See also ==
+
+* [[Expressing earliness with "jiu"]]
+* [[Using "cai" for small numbers]]
+* [[Comparing "cai" and "jiu"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|101}}
+{{Source|Basic Patterns of Chinese Grammar|117-8}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|139}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|239}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+[[Category: Adverbs]]
+
+{{Basic Grammar|才|B1|Subj. + Time + 才 + Verb|他 二十五 岁 <em>才</em> 上 大学 。|grammar point|ASG3WTCJ}}
+{{Used for|Expressing time and date}}
+{{Used for|Expressing attitude}}
+{{Used for|Sequencing events in time}}
+{{Similar|Comparing "cai" and "jiu"}}
+{{Similar|Using "cai" for small numbers}}
+{{Similar|Expressing earliness with "jiu"}}
+{{Similar|Expressing "all the way until" with "zhidao"}}
+{{Similar|Expressing "when" with "dengdao"}}
+{{POS|Adverbs}}

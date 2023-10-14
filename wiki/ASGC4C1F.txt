@@ -1,0 +1,39 @@
+<!-- Expressing "so-called" with "suowei" -->
+{{Grammar Box}}
+所谓 (suǒwèi) is the Chinese way of expressing "so-called." It can also be used in scenarios you would use sarcastic air quotes. Just keep in mind that "so-called" frequently comes with a negative attitude in English, but this is not always so in Chinese.
+
+== Structure ==
+
+<div class="jiegou">
+所谓 + (的) Noun Phrase 
+</div>
+
+The nouns phrase in this pattern is the "so-called name" being called into question. The 的 is optional.
+
+=== Examples ===
+
+<div class="liju">
+*<em>所谓</em> 的 天才，有 可能 有 这样的人，也有 可能，他 自己 偷偷 地 努力。<span class="pinyin"><em>Suǒwèi</em> de tiāncái, yǒu kěnéng yǒu zhèyàng de rén, yě yǒu kěnéng, tā zìjǐ tōutōu de nǔlì.</span><span class="trans">There may be such a person as this the so-called "genius," or, possibly, he has been secretly trying really hard.</span> 
+*没有 <em>所谓</em> 的 失败，除非 你 不 想 再 尝试。<span class="pinyin">Méiyǒu <em>suǒwèi</em> de shībài, chúfēi nǐ bù xiǎng zài chángshì.</span><span class="trans">There is no such thing as so-called "failure," unless you do not want to try again.</span>
+*<em>所谓</em> 的 “名医”， 连 最 基本 的 医学 知识 都 不 知道。<span class="pinyin"><em>Suǒwèi</em> de "míngyī", lián zuì jīběn de yīxué zhīshì dōu bù zhīdào.</span><span class="trans">So-called "famous doctors" do not even know the most basic medical knowledge.</span>
+*<em>所谓</em> 企业 管理，是 需要 解决 一个 接 一个 的 问题。<span class="pinyin"><em>Suǒwèi</em> qǐyè guǎnlǐ, shì xūyào jiějué yī gè jiē yī gè de wèntí.</span><span class="trans">So-called "corporate management" requires solving one problem after another.</span>
+*<em>所谓</em> 没有 时间，是 你 没有 好好 安排 时间。<span class="pinyin"><em>Suǒwèi</em> méiyǒu shíjiān, shì nǐ méiyǒu hǎohāo ānpái shíjiān.</span><span class="trans">The so-called lack of time means that you have not managed your time well.</span>
+*<em>所谓</em> 成长，就是 自己 可以 照顾 自己，自己 开始 考虑 别人的 感受。<span class="pinyin"><em>Suǒwèi</em> chéngzhǎng, jiùshì zìjǐ kěyǐ zhàogù zìjǐ, zìjǐ kāishǐ kǎolǜ biérén de gǎnshòu.</span><span class="trans">So-called "growth" is taking care of yourself and starting to consider the feelings of others.</span>
+*人生 没有 <em>所谓</em> 的 答案。<span class="pinyin">Rénshēng méiyǒu <em>suǒwèi</em> de dá'àn.</span><span class="trans">There is no such thing as "answers" in life.</span>
+*这种 <em>所谓</em> 的 名牌 ，是 销售 自己 说的。<span class="pinyin">Zhè zhǒng <em>suǒwèi</em> de míngpái, shì xiāoshòu zìjǐ shuō de.</span><span class="trans">This so-called "famous brand" was proclaimed by the salesperson himself.</span>
+*<em>所谓</em> 永远 的 爱，是 不 存在 的。<span class="pinyin"><em>Suǒwèi</em> yǒngyuǎn de ài, shì bù cúnzài de.</span><span class="trans">There is no such thing as "eternal love."</span>
+*为了 <em>所谓</em> 的 权力，去 放弃 家人，是 不 聪明 的 做法。<span class="pinyin">Wèile <em>suǒwèi</em> de quánlì, qù fàngqì jiārén, shì bù cōngming de zuòfǎ.</span><span class="trans">It is not wise to give up your family for the sake of so-called "power."</span>  
+</div>
+
+==Sources and further reading==
+
+=== Books ===
+
+{{Source|Anything Goes (无所不谈)|266}}
+[[Category:B2 grammar points]]
+{{Basic Grammar|所谓|B2|所谓 + (的) Noun Phrase|<em>所谓</em> “小意思” 就 是 指 礼物。|grammar point| ASGC4C1F}}
+{{Rel char|谓}}
+{{Rel char|所}}
+{{Used for|Expressing attitude}}
+{{Translation|so-called}}
+{{Structure|Sentence Patterns}}

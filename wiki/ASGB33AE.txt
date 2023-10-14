@@ -1,0 +1,40 @@
+<!-- Marking a topic with "ma" -->
+{{Grammar Box}} 
+The particle 嘛 (ma) can be used for topic marking. It basically allows the speaker to state the topic, then gather his thoughts before making a comment on it. Unlike [[Expressing the self-evident with "ma"|the sentence-final 嘛 pattern]] you may know, the following comment ''may or may not'' be one the speaker feels is obvious.
+
+== Structure ==
+
+<div class="jiegou">
+Topic + 嘛 ，Statement
+</div>
+
+== Examples ==
+
+Translations for this pattern are going to be a bit looser than for many other grammar patterns.
+
+<div class="liju">
+
+*大 熊猫 <em>嘛</em> ，大家 都 喜欢 。<span class="pinyin">Dàxióngmāo <em>ma</em>, dàjiā dōu xǐhuan.</span><span class="trans">Pandas. Everybody likes them.</span>
+*名牌 <em>嘛</em> ，一定 不 便宜 。<span class="pinyin">Míngpái <em>ma</em>, yīdìng bù piányi.</span><span class="trans">Well, it's a name brand. It can't be cheap.</span>
+*第一 次 <em>嘛</em> ，以后 就 会 了 。<span class="pinyin">Dì-yī cì <em>ma</em>, yǐhòu jiù huì le.</span><span class="trans">It's your first time. You'll get the hang of it soon.</span>
+*孩子 <em>嘛</em> ，不 懂 这些 很 正常 。<span class="pinyin">Háizi <em>ma</em>, bù dǒng zhèxiē hěn zhèngcháng.</span><span class="trans">Kids. It's not unusual that they don't understand these things.</span>
+*老板 请客 <em>嘛</em> ，随便 点 。<span class="pinyin">Lǎobǎn qǐngkè <em>ma</em>, suíbiàn diǎn.</span><span class="trans">The boss is buying. Order whatever you want.</span>
+*上海 <em>嘛</em> ，菜 都 是 这样 的。<span class="pinyin">Shànghǎi <em>ma</em>, cài dōu shì zhèyàng de.</span><span class="trans">It's Shanghai. All the food here is like this.</span>
+*比赛 <em>嘛</em> ，不 紧张 是 不 可能 的。<span class="pinyin">Bǐsài <em>ma</em>, bù jǐnzhāng shì bù kěnéng de.</span><span class="trans">It's a competition. It's not possible to not be nervous.</span>
+*歌手 <em>嘛</em> ，我们 两 个 都 喜欢 周杰伦。<span class="pinyin">Gēshǒu <em>ma</em>, wǒmen liǎng gè dōu xǐhuan Zhōu Jiélún.</span><span class="trans">The singer,we both like Jay Chou.</span>
+*学生 <em>嘛</em> ，就 应该 有 学生 的 样子。<span class="pinyin">Xuéshēng <em>ma</em>, jiù yīnggāi yǒu xuéshēng de yàngzi.</span><span class="trans">Students should act like students.</span>
+*开车 <em>嘛</em> ，最 重要 的 是 安全。<span class="pinyin">Kāichē <em>ma</em>, zuì zhòngyào de shì ānquán.</span><span class="trans">When it comes to driving, the most important thing is safety.</span>
+</div>
+
+== See  also ==
+
+*[[Expressing the self-evident with "ma"]]
+
+[[Category:B2 grammar points]]
+[[Category:Particles]]
+{{Basic Grammar|嘛|B2|Statement + 嘛|大家 有 话 就 说 <em>嘛</em> 。|grammar point|ASGB33AE}}
+{{Used for|Marking a topic}}
+{{Similar|Expressing the self-evident with "ma"}}
+{{Similar|Marking a topic with "de hua"}}
+{{Similar|Topic-comment sentences}}
+{{POS|Particles}}

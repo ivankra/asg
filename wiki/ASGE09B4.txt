@@ -1,0 +1,86 @@
+<!-- Comparing "changchang" and "wangwang" -->
+{{Grammar Box}} 
+
+If something happens frequently, two useful words to describe this concept of "often" in Chinese are 常常 (chángcháng) and 往往 (wǎngwǎng). However, they are used in different ways and different places, so this article will help you distinguish when and where to use them.
+
+== Declarative Sentences Differentiation ==
+
+=== Basic Differences ===
+
+常常 simply means something happens frequently and not necessarily regularly, and is also not restricted to a certain precondition. 往往 is used in certain conditions to mean how things can be or are like, sort of like "tend to." It's a conclusion or judgment of a regular situation. 往往 has nothing to do with how often something happens. When using 往往, the sentence itself usually has a kind of condition of an occurring situation or behavior, for example, 商场往往周末的时候比较热闹。This is where 往往 differs from 常常. For the most part, you can translate 常常 as "often," where as you can translate 往往 as "usually." Also, 常常 can omit a 常, but you 往往 cannot omit a 往.
+
+==== Examples ====
+
+<div class="liju">
+
+* 他 <em>常常</em> 迟到 。<span class="trans">He often arrives late.</span>
+* 他们 结婚 快 三十 年 了，还是<em>常常</em> 吵架。<span class="trans">They've been married for almost 30 years. Nevertheless, they fight a lot.</span>
+* 有钱人 <em>往往</em> 比较 迷信。<span class="trans">Rich people are usually more superstitious.</span>
+* 女人 <em>往往</em> 比 男人 长寿 。<span class="trans"> Women usually live longer than men.</span>
+* 过年 的 时候，上海 <em>往往</em> 比较 安静。<span class="trans">It's usually more quiet here in Shanghai during Chinese New Year.</span>
+* 质量 好 的 产品 <em>往往</em> 不 会 很 便宜。<span class="trans">Products of good quality usually wouldn't be expensive.</span>
+
+</div>
+
+=== Other Differences ===
+
+"常常" can be used in an imperative sentence expressing a suggestion. "往往" cannot be used in this kind of situation.
+
+==== Examples ====
+
+<div class="liju">
+
+* 你们 <em>常常</em> 见面 吗 ？<span class="trans">Do you meet often?</span>
+* 你 应该 <em>常常</em> 去 运动。<span class="trans">You should exercise more often.</span>
+*不要<em>常常</em>吃 辣，对 皮肤 不好。<span class="trans">Better not eat spicy food too often. It's not good for your skin.</span>
+* 等 我 退休 了，就 可以 <em>常常</em> 去 旅行 了。<span class="trans">I can travel more often when I retire.</span>
+* 我 不 在 的 时候，你 要 帮 我 <em>常常</em> 去 看看 她。<span class="trans">You need to watch her more often for me when I'm not here.</span>
+
+</div>
+
+== The difference between the negative and question sentences ==
+
+The negated version of "常常" is "不常"，expressing "very rarely." "往往" does not have a negated "不往往," but can appear in negative sentences, mostly expressed as "往往不/没." Also, "常常" can be used in question sentences, but "往往" cannot be. 
+
+==== Structure ====
+
+<div class="jiegou">
+Subj. + 不常 + Verb
+</div>
+
+<div class="jiegou">
+Subj. + 往往 + 不 / 没 + Verb
+</div>
+
+==== Examples ====
+
+<div class="liju">
+
+* 我 <em>不常</em> 在 外面 吃饭。<span class="trans">I don't go out for dinner often.</span>
+* 我 老板 <em>不常</em> 来公司。<span class="trans">My boss doesn't come to the office often.</span>
+* 我们 是 很好 的 朋友，但是 我们<em>不常</em>见面。<span class="trans">We're good friends, but we don't see each other often.</span>
+* 有钱 人 <em>往往</em> 很 难 找到 真正 喜欢 自己 的 人。<span class="trans">It's usually very hard for rich people to find someone who truly loves them.</span>
+* 私立 学校 <em>往往</em> 比较 贵。<span class="trans">Comparatively, private schools are usually expensive.</span>
+* 下雨天 <em>往往</em> 不 太 好 打车。<span class="trans">It's usually not very easy to get a taxi in rainy days.</span>
+
+</div>
+
+== Sources and further reading ==
+
+=== Websites ===
+* [http://wenku.baidu.com/view/04197ecc76a20029bd642db3.html]
+
+=== Books ===
+{{Source|HSK Standard Course 4上|97}}
+
+[[Category:grammar comparison]]
+{{HSK|HSK4}}
+{{Basic Grammar|常常|B2|常常 vs. 往往|我 <em>不 常</em>  运动 ，我 <em>往往</em> 呆在 家里 。|grammar point|ASGE09B4}}
+{{Rel char|经常}}
+{{Used for|Expressing frequency}}
+{{Used for|Referring to habitual actions}}
+{{Similar|Comparing "changchang" and "jingchang"}}
+{{Similar|Comparing "pingshi" and "pingchang"}}
+{{Translation|often}}
+{{Translation|usually}}
+{{Comparison|Adverbs}}

@@ -1,0 +1,89 @@
+<!-- Measure words for counting -->
+{{Grammar Box}} 
+
+Chinese uses [[measure word]]s, a type of word called [http://http://en.wikipedia.org/wiki/Classifier_(linguistics) classifiers] in linguistics which are common in East Asian languages. Measure words have a number of important uses, but one of the first ways you'll need to use them is for counting. Chinese learners should master them, starting with the measure word 个 (gè).
+
+== Structure ==
+
+Whenever you talk about the quantity of something in Chinese, you need a [[measure word]]. 
+
+<div class="jiegou">
+
+Number + Measure Word + Noun
+
+</div>
+
+English does actually have measure words, it's just that most nouns usually don't need them. In English, most nouns are ''count nouns'' - they specify one instance of something. "An apple," for example. Some nouns are ''mass nouns'' and refer to something without specifying how much of it there is. Examples are "furniture," "paper," "water," etc. You can't say "a furniture"; you need a measure word: "a ''piece'' of furniture," "two ''sheets'' of paper," "three ''glasses'' of water," and so on.
+
+In Chinese, ''all'' nouns are ''mass nouns'' so they all need measure words. Just as in English, different nouns are associated with different measure words (e.g. it wouldn't make sense to talk about "a glass of furniture" unless something went horribly wrong in the factory).
+
+== Examples ==
+
+<div class="liju">
+
+* 一 <em>个</em> 人 <span class="pinyin">yī <em>gè</em> rén</span><span class="trans">a person</span>
+* 两 <em>只</em> 猫 <span class="pinyin">liǎng <em>zhī</em> māo</span><span class="trans">two cats</span>
+* 三 <em>条</em> 鱼 <span class="pinyin">sān <em>tiáo</em> yú</span><span class="trans">three fish</span>
+* 四 <em>杯</em> 牛奶 <span class="pinyin">sì <em>bēi</em> niúnǎi</span><span class="trans">four glasses of milk</span>
+* 五 <em>瓶</em> 水 <span class="pinyin">wǔ <em>píng</em> shuǐ</span><span class="trans">five bottles of water</span>
+* 六 <em>块</em> 巧克力 <span class="pinyin">liù <em>kuài</em> qiǎokèlì</span><span class="trans">six pieces of chocolate</span>
+* 七 <em>盒</em> 茶叶 <span class="pinyin">qī <em>hé</em> cháyè</span><span class="trans">seven boxes of tea leaves</span>
+* 八 <em>台</em> 电脑 <span class="pinyin">bā <em>tái</em> diànnǎo</span><span class="trans">eight computers</span>
+* 九 <em>支</em> 玫瑰 <span class="pinyin">jiǔ <em>zhī</em> méiguī</span><span class="trans">nine roses</span>
+* 十 <em>个</em> 美女 <span class="pinyin">shí <em>gè</em> měinǚ</span><span class="trans">ten beautiful women</span>
+</div>
+
+Also remember that there isn't a one-to-one relationship between nouns and measure words. One measure word can be used with several different nouns:
+
+<div class="liju">
+
+* 一 <em>条</em> 狗 <span class="pinyin">yī <em>tiáo</em> gǒu</span><span class="trans">a dog</span>
+* 一 <em>条</em> 河 <span class="pinyin">yī <em>tiáo</em> hé</span><span class="trans">a river</span>
+* 一 <em>条</em> 路 <span class="pinyin">yī <em>tiáo</em> lù</span><span class="trans">a road</span>
+* 一 <em>条</em> 龙 <span class="pinyin">yī <em>tiáo</em> lóng</span><span class="trans">a dragon</span>
+* 一 <em>条</em> 鱼 <span class="pinyin">yī <em>tiáo</em> yú</span><span class="trans">a fish</span>
+* 一 <em>条</em> 短信 <span class="pinyin">yī <em>tiáo</em> duǎnxìn</span><span class="trans">a text (message)</span>
+
+</div>
+
+And one noun can take different measure words in different situations:
+
+<div class="liju">
+
+* 一 <em>块</em> <strong>巧克力</strong> <span class="pinyin">yī <em>kuài</em> <strong>qiǎokèlì</strong> </span><span class="trans">a piece of chocolate</span>
+* 一 <em>盒</em><strong>巧克力</strong> <span class="pinyin">yī <em>hé</em> <strong>qiǎokèlì</strong> </span><span class="trans">a box of chocolate</span>
+* 一 <em>颗</em> <strong>巧克力</strong> <span class="pinyin">yī <em>kē</em> <strong>qiǎokèlì</strong> </span><span class="trans">a small piece of chocolate</span>
+
+</div>
+
+== See Also ==
+*[[Measure words for verbs]]
+*[[Measure words to differentiate]]
+
+== Sources  and further reading ==
+
+===Websites===
+
+* Wikipedia: [https://en.wikipedia.org/wiki/Classifier_(linguistics) Classifiers]
+* Wikipedia: [https://en.wikipedia.org/wiki/Mass_noun Mass noun]
+
+=== Books ===
+
+{{Source|Basic Patterns of Chinese Grammar|33}} 
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|232-3}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|104-5}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)|122}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+[[Category:Measure words]]
+{{Basic Grammar|个|A2|Number + Measure Word + Noun|一 <em>个</em> 人。一 <em>杯</em> 水。|grammar point|ASG64BTE}}
+{{Similar|Measure Words for Verbs}}   
+{{Similar|Measure words to differentiate}}
+{{Similar|Ordinal numbers with "di"}}
+{{Similar|Measure word "ge"}}    
+{{Similar|Measure words in quantity questions}}
+{{Similar|Approximating with sequential numbers}}
+{{Similar|Pronoun "mei" for "every"}}
+{{Structure|Numbers and Measure Words}}
+{{Used for| Expressing quantity}}

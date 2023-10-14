@@ -1,0 +1,38 @@
+<!-- Expressing "in short" with "zongzhi" -->
+{{Grammar Box}} 
+{{stub}}
+
+总而言之 。总结或者概括前面所说的话的意思。
+
+== Structure ==
+
+<div class="jiegou">
+（⋯⋯ ，）总之 ，⋯⋯ 
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+* 不管 他 的 理由 是 什么 ，<em>总之</em> ，我 不会 再 相信 他 了 。<span class="trans">.</span>
+* <em>总之</em> ，我们 这么 做 都是 为了 孩子 好 。<span class="trans">.</span>
+* 他 经常 迟到 ，工作 也 不 负责任 ，<em>总之</em> ，公司 必须 要 解雇 他 。<span class="trans">.</span>
+* 我 喜欢 画画 ，你 喜欢 弹吉他 ，他 喜欢 打篮球 。<em>总之</em> ，每个人 都 有 自己 的 爱好 。<span class="trans">.</span>
+
+</div>
+
+== See also ==
+
+*[[Expressing "therefore" with "yinci"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|总之|C1|（⋯⋯ ，）总之 ，⋯⋯ |不管 他 的 理由 是 什么 ，<em>总之</em> ，我 不会 再 相信 他 了 。|grammar point|ASGF561D}}
+{{Similar|Expressing "therefore" with "yinci"}}
+{{Used for|Concluding}}
+{{POS|Conjunctions}}
+{{Translation|in short}}
+{{Translation|so}}

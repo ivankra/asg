@@ -1,0 +1,73 @@
+<!-- Expressing "along with…" with "suizhe" -->
+{{Grammar Box}} 
+
+随着 (suízhe) means "along with," "following," or, more formally, "in the wake of." The idea is that one thing is "following" another, reacting along with it.
+
+==Simple Form==
+
+===Structure===
+
+<div class="jiegou">
+Subj. + 随着 + Noun + Verb Phrase
+</div>
+
+===Examples===
+
+随着 is one of those words that can have a wide range of translations, all highly dependent upon the context.
+
+<div class="liju">
+* 树枝 <em>随着</em> 风 不 停 地 摇动。<span class="pinyin">Shùzhī <em>suízhe</em> fēng bù tíng de yáodòng.</span><span class="trans">The branch swayed ceaselessly in the wind.</span> 
+* 孩子们 <em>随着</em> 音乐 跳 起 了 舞。<span class="pinyin">Háizi men <em>suízhe</em> yīnyuè tiào qǐ le wǔ.</span><span class="trans">Children started dancing to the music.</span>
+* 污染物 <em>随着</em> 人 的 呼吸 进入 了 人体 内部 。<span class="pinyin">Wūrǎn-wù <em>suízhe</em> rén de hūxī jìnrù le réntǐ nèibù.</span><span class="trans">The pollutants entered the body through inhalation.</span>
+* 这些 垃圾 <em>随着</em> 河水 流 到 了 大海。<span class="pinyin">Zhèxiē lājī <em>suízhe</em> héshuǐ liú dào le dàhǎi.</span><span class="trans">The garbage flowed into the sea along with the river.</span>
+* 我们 <em>随着</em> 他 的 琴声 唱 起 了 歌。<span class="pinyin">Wǒmen <em>suízhe</em> tā de qín shēng chàng qǐ le gē.</span><span class="trans">We started singing along with his playing.</span>
+
+</div>
+
+==Two-Part Form==
+
+===Structure===
+
+随着 can also be used in the following structure to indicate that a change in the first part causes a respective change in the second part. In this case, the first part is typically a general trend, like economic development or rising prices.
+
+<div class="jiegou">
+随着 + Trend，Subj. + Predicate
+</div>
+
+===Examples===
+ 
+<div class="liju">
+* <em>随着</em> 经济 的 发展，人们 的 生活 越 来 越 好 了。<span class="pinyin"><em>Suízhe</em> jīngjì de fāzhǎn, rénmen de shēnghuó yuèláiyuè hǎo le.</span><span class="trans">With economic development, the people's lives get better and better.</span>
+* <em>随着</em> 石油 价格 的 升高，粮食 的 价格 涨 了 一点。 <span class="pinyin"><em>Suízhe</em> shíyóu jiàgé de shēnggāo, liángshí de jiàgé zhǎng le yīdiǎn.</span><span class="trans">With the rise in oil prices, the price of grain has also increased a bit.</span>
+* <em>随着</em> 年龄 的 增加，他 变得 更加 成熟 了。<span class="pinyin"><em>Suízhe</em> niánlíng de zēngjiā, tā biàn de gèngjiā chéngshú le.</span><span class="trans">As he has gotten older, he has become even more mature.</span>
+* <em>随着</em> 中国 国际 地位 的 提高，中国人 也 变得 越来越 有 自信 了 。<span class="pinyin"><em>Suízhe</em> Zhōngguó guójì dìwèi de tígāo, Zhōngguó rén yě biàn de yuèláiyuè yǒu zìxìn le.</span><span class="trans">As the international status of China improves, Chinese people are becoming more and more confident.</span>
+* <em>随着</em>  人口 不断 增加 ，大城市 的 社会 问题 越来越 多 了。<span class="pinyin"><em>Suízhe</em> rénkǒu bùduàn zēngjiā, dà chéngshì de shèhuì wèntí yuèláiyuè duō le.</span><span class="trans">In the wake of an ever-increasing population, the social problems in large cities become ever more numerous.</span>
+
+</div>
+
+==See also==
+*[[Simultaneous tasks with "yibian"]]
+*[[Expressing simultaneous actions with "yimian"]]
+*[[Expressing "more and more" with "yue… yue…"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4下|37}}
+{{Source|Common Chinese Patterns 330 (汉语常用格式330例) |219}}
+{{Source|New Practical Chinese Reader 6 (新实用汉语课本6)|29}} 
+{{Source|Boya Chinese Lower Intermediate 2 (博雅汉语准中级加速篇) |121-2}} 
+{{Source|Short-term Spoken Chinese: Intermediate (汉语口语速成中级篇)|27}} 
+{{Source|卓越汉语－公司实战篇|18}}
+
+[[Category: B2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|随着|B2|随着 A + 的 + Verb， Subj. + Predicate|<em>随着</em> 经济 的 发展，人们 的 生活 越 来 越 好。|grammar point|ASGHVFRA}}
+{{Similar|Simultaneous tasks with "yibian"}}
+{{Similar|Expressing Simultaneous Actions with "yimian"}}
+{{Similar|Expressing "More and More" with "yue… yue…"}}
+{{Similar|"On the basis of" with "ping"}}
+{{Used for|Referring to simultaneous events}}
+{{Used for|Indicating conditions}}
+{{POS|Prepositions}}

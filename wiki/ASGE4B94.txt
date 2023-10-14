@@ -1,0 +1,84 @@
+<!-- Comparisons with "biqi" -->
+{{Grammar Box}} 
+The 比起...来 (bǐ qǐ... lái) structure provides an alternate form and relatively advanced way of making a comparison.
+
+== Basic Usage of 比起 == 
+
+=== Structure ===
+
+In these two structures, 比起... 来 is used to compare A and B, with emphasis on how A is different.
+
+<div class="jiegou">
+比起 + B (+ 来) ，A ……
+</div>
+
+A can also be placed before 比起。
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>比起</em>上海 ，我 老家 的 物价 便宜 多 了。<span class="pinyin"><em>Bǐ qǐ</em> Shànghǎi, wǒ lǎojiā de wùjià piányí duō le.</span><span class="trans">Compared to Shanghai, the prices in my hometown are way cheaper.</span>
+*<em>比起</em> 你 <em>来</em> ，我 还 差得远 呢。<span class="pinyin"><em>Bǐ qǐ</em> nǐ <em>lái</em>, wǒ hái chà de yuǎn ne.</span><span class="trans">Compared with you, I'm still far from it.</span>
+*本科生 <em>比起</em> 博士生 <em>来</em>，学位 要 低 很 多 。<span class="pinyin">Běnkē shēng <em>bǐ qǐ</em> bóshì shēng <em>lái</em>, xuéwèi yào dī hěn duō.</span><span class="trans">Compared with a doctoral student, an undergraduate student's degree is much lower.</span>
+
+</div>
+
+== Usage of 相比 ==
+
+Same meaning, slightly different structure.
+
+=== Structure ===
+
+<div class="jiegou">
+相比 + B ，A ……
+</div>
+
+<div class="jiegou">
+和 / 跟／与 + B + 相比 ，A ……
+</div>
+
+===Examples===
+
+Note that the following sentence pairs are saying the exact same thing using the two slightly different structures above.
+
+<div class="liju">
+*<em>相比</em> 网络 教学 ，我 更 喜欢 面对面 教学。<span class="pinyin"><em>Xiāngbǐ</em> wǎngluò jiàoxué, wǒ gèng xǐhuan miànduìmiàn jiàoxué.</span>
+* <em>与</em> 网络 教学 <em>相比</em>，我 更 喜欢 面对面 教学。<span class="pinyin"><em>Yǔ</em> wǎngluò jiàoxué <em>xiāngbǐ</em>, wǒ gèng xǐhuan miànduìmiàn jiàoxué.</span><span class="trans">Compared with online teaching, I prefer face-to-face teaching.</span>
+
+* <em>相比</em> 几十 年 前 ，中国 的 农村 发生 了 很 大 变化。<span class="pinyin"><em>Xiāngbǐ</em> jǐ shí nián qián, Zhōngguó de nóngcūn fāshēng le hěn dà biànhuà.</span>
+* <em>与</em> 几十 年 前 <em>相比</em>，中国 的 农村 发生 了 很 大 变化。<span class="pinyin"><em>Yǔ</em> jǐ shí nián qián <em>xiāngbǐ</em>, Zhōngguó de nóngcūn fāshēng le hěn dà biànhuà.</span><span class="trans">Compared with decades ago, China's rural areas have undergone great changes.</span>
+
+*<em>相比</em> 网络 广告 ，平面 广告 贵 很 多 。<span class="pinyin"><em>Xiāngbǐ</em> wǎngluò guǎnggào, píngmiàn guǎnggào guì hěn duō.</span>
+*<em>和</em> 平面 广告 <em>相比</em> ，网络 广告 没 那么 贵 。<span class="pinyin"><em>Hé</em> píngmiàn guǎnggào <em>xiāng bǐ</em>, wǎngluò guǎnggào méi nàme guì.</span><span class="trans">Compared with print advertising, online advertising is not that expensive.</span>
+
+*<em>相比</em> 身体 的 问题 ，精神 的 问题 更 难 治疗。<span class="pinyin"><em>Xiāng bǐ</em>  shēntǐ de wèntí, jīngshén de wèntí gèng nán zhìliáo.</span>
+*<em>和</em> 身体的 问题 <em>相比</em> ，精神 的 问题 更 难 治疗。<span class="pinyin"><em>Hé</em> shēntǐ de wèntí <em>xiāng bǐ</em>, jīngshén de wèntí gèng nán zhìliáo.</span><span class="trans">Compared with physical problems, mental problems are more difficult to treat.</span>
+</div>
+
+==See also==
+
+* [[Comparing]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|汉语常用格式330例|16}} 
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|比起来|B2|比起 + B (+ 来) ，A ~|<em>比起</em>上海 ，我 老家 的 物价 便宜 多 了。|grammar point|ASGE4B94}}
+{{Rel char|比}}
+{{Rel char|比起}}
+{{Rel char|相比}}
+{{Rel char|来}}
+{{Rel char|跟}}
+{{Rel char|和}}
+{{Rel char|与}}
+{{Similar|Basic comparisons with "bu bi"}}
+{{Similar|Comparing Specifically with "xiang"}}
+{{Similar|Comparing}}
+{{Used for|Comparing}}
+{{POS|Verbs}}
+{{Subprop|Verbs}}
+{{Translation|compare with}}

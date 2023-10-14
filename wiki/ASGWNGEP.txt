@@ -1,0 +1,115 @@
+<!-- Result complements "-dao" and "-jian" -->
+{{Grammar Box}} 
+
+Two of the most common result complements in Chinese are 到 (dào) and 见 (jiàn). On this page we're only going to be talking about verbs related to the senses ("see," "hear," etc.), and for this usage, the two are interchangeable.
+
+== Verbs with 到 (dào) and 见 (jiàn) ==
+
+=== Structure ===
+
+[[Result complement]]s are a huge topic in Chinese grammar, but you can approach them in stages. The structure you come across the most is a verb with 到 (dào):
+
+<div class="jiegou">
+
+Subj. + Verb + 到 + Obj.
+
+</div>
+
+What 到 (dào) does is indicate that the outcome of the verb is achieved - what its ''result'' is. Without a result complement, the sentence would describe only the action itself. To illustrate, 看 (kàn) "to look" is the action of turning your head in a particular direction and focusing your eyes, whereas 看到 (kàndào), "to see," is the result of your brain taking in the visual input. It may sound a little hokey, but it really is possible to "look but not see," and Chinese makes a clear distinction between the action and the result.
+
+The complement 见 (jiàn) is very similar to 到 (dào), and it is used in the same way:
+
+<div class="jiegou">
+
+Subj. + Verb + 见 + Obj.
+
+</div>
+
+However, there is a difference.  见 (jiàn) is generally ''only'' used after verbs involving one of the senses, like 听 (tīng) and 看 (kàn), whereas 到 (dào) can be attached to a large variety of verbs, which we will discuss [[Tricky uses of "dao"|at a higher level later]].
+
+=== Examples ===
+
+<div class="liju">
+
+* 你 <strong>看</strong> <em>见</em> 那 个 帅哥 了 吗 ？ <span class="pinyin">Nǐ <strong>kàn</strong><em>jiàn</em> nàge shuàigē le ma?</span>
+* 你 <strong>看</strong><em>到</em> 那 个 帅哥 了 吗 ？ <span class="pinyin">Nǐ <strong>kàn</strong><em>dào</em> nàge shuàigē le ma?</span><span class="trans">Did you see that handsome guy?</span>
+
+</div>
+
+<div class="liju">
+
+* 我 <strong>看</strong> <em>见</em> 了 。 <span class="expl">We didn't say what "I" saw; you have to infer it from the context.</span><span class="pinyin">Wǒ <strong>kàn</strong><em>jiàn</em> le.</span> 
+* 我 <strong>看</strong> <em>到</em> 了 。 <span class="pinyin">Wǒ <strong>kàn</strong><em>dào</em> le.</span><span class="trans">I saw it.</span>
+
+</div>
+
+<div class="liju">
+
+* 你 <strong>听</strong> <em>见</em> 了 吗 ？ <span class="pinyin">Nǐ <strong>tīng</strong><em>jiàn</em> le ma?</span>
+* 你 <strong>听</strong> <em>到</em> 了 吗 ？ <span class="pinyin">Nǐ <strong>tīng</strong><em>dào</em> le ma?</span><span class="trans">Did you hear it?</span>
+
+</div>
+
+== Negative Forms ==
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + 没 + Verb + 到 / 见 + Obj.
+
+</div>
+
+This structure can be negated using 没 (méi) on 没有 (méiyǒu). This is because if there is a result, then it already happened. And you need to [[Negation of "you" with "mei"|use 没 (méi) to negate past events]], not 不 (bù).
+
+=== Examples ===
+
+<div class="liju">
+
+* 你 <strong>没</strong> 看 <em>到</em> 那 个 帅哥 吗 ？ <span class="pinyin">Nǐ <strong>méi</strong> kàn<em>dào</em> nàge shuàigē ma?</span>
+* 你 <strong>没</strong> 看 <em>见</em> 那 个 帅哥 吗 ？ <span class="pinyin">Nǐ <strong>méi</strong> kàn<em>jiàn</em> nàge shuàigē ma?</span><span class="trans">You didn't see that handsome guy?</span>
+
+</div>
+
+<div class="liju">
+
+* 我 <strong>没有</strong> 看 <em>到</em> 。 <span class="pinyin">Wǒ <strong>méiyǒu</strong> kàn<em>dào</em>.</span>
+* 我 <strong>没有</strong> 看 <em>见</em> 。 <span class="expl">We didn't say what "I" didn't see; you have to infer it from the context.</span><span class="pinyin">Wǒ <strong>méiyǒu</strong> kàn<em>jiàn</em>.</span><span class="trans">I didn't see it.</span>
+
+</div>
+
+<div class="liju">
+
+* 你 <strong>没</strong> 听 <em>到</em> 吗 ？ <span class="pinyin">Nǐ <strong>méi</strong> tīng<em>dào</em> ma?</span>
+* 你 <strong>没</strong> 听 <em>见</em> 吗 ？  <span class="pinyin">Nǐ <strong>méi</strong> tīng<em>jiàn</em> ma?</span><span class="trans">You didn't hear it?</span>
+
+</div>
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+[[Category:Result complement]]
+
+==See also==
+
+* [[Result complement "-wan" for finishing]]
+* [[Result complement "-qilai"]]
+* [[Result complement "-cuo"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Short-term Spoken Chinese: Threshold Vol. 2 (汉语口语入门篇下)|92}}
+{{Source|Basic Patterns of Chinese Grammar|109}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|205-6}} 
+
+{{Basic Grammar|到|A2|Verb + 到 / 见|听 <em>到</em> 了 吗 ？|grammar point|ASGWNGEP}}
+{{Rel char|见}}
+{{Similar|Further Uses of Resultative Complement "qilai"}}
+{{Similar|"-wan" result complement}}
+{{Similar|Result complement "-qilai"}}
+{{Similar|Result complement}}
+{{Similar|Tricky uses of "dao"}}
+{{Used for|Expressing result}}
+{{Structure|Complements}}
+{{Subprop|Result complement}}

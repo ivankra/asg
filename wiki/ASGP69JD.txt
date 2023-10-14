@@ -1,0 +1,124 @@
+<!-- Using "guo" with "le" -->
+{{Grammar Box}} 
+
+You might be familiar with [[Expressing experiences with "guo"|using 过 (guo) to indicate that an '''action has been experienced''' in the past]], but then also see it used together with [[Expressing completion with "le"|了 (le)]].  What's going on here?  If you're already familiar with the basic usage of both 了 (le) and 过 (guo), then a special explanation of how they sometimes work together is now in order.
+
+== Basic Pattern ==
+
+=== Structure ===
+
+<div class="jiegou">
+Verb + 过 + 了
+</div>
+
+You'll notice that this pattern is often used for everyday behaviors.  It's used for actions like "eating" and "brushing one's teeth" and "taking a shower."
+
+=== Examples ===
+
+<div class="liju">
+
+* 她 吃 <em>过</em> <em>了</em>。 <span class="pinyin">Tā chī <em>guo</em> <em>le</em>.</span><span class="trans">She has eaten (already).</span>
+* 牙 刷 <em>过</em> <em>了</em>。<span class="pinyin">Yá shuā <em>guo</em> <em>le</em>.</span><span class="trans">I've brushed my teeth (already).</span>
+* 洗 <em>过</em> <em>了</em>。<span class="pinyin">Xǐ <em>guo</em> <em>le</em>.</span><span class="trans">I've showered (already).</span>
+* 我们 看 <em>过</em> <em>了</em>。 <span class="pinyin">Wǒmen kàn <em>guo</em> <em>le</em>.</span><span class="trans">We've seen it (already).</span>
+* 他们 见 <em>过</em> <em>了</em>。<span class="pinyin">Tāmen jiàn <em>guo</em> <em>le</em>.</span><span class="trans">They've met (already).</span>
+
+</div>
+
+== The Pattern with an Object ==
+
+For the examples above, you could have inserted an object to modify the basic pattern, getting this:
+
+<div class="jiegou">
+Verb + 过 + Obj. + 了
+</div>
+
+The object has been inserted in the sentences below:
+
+<div class="liju">
+
+* 你 吃 <em>过</em> <strong>饭</strong> <em>了</em> 吗？<span class="pinyin">Nǐ chī <em>guo</em> <strong>fàn </strong> <em>le</em> ma? </span><span class="trans">Have you eaten (already)?</span>
+* 我 刷 <em>过</em> <strong>牙</strong> <em>了</em>。 <span class="pinyin">Wǒ shuā <em>guo</em> <strong>yá </strong> <em>le</em>.</span><span class="trans">I have brushed my teeth (already).</span>
+* 他 洗 <em>过</em> <strong>澡</strong> <em>了</em>。 <span class="pinyin">Tā xǐ <em>guo</em> <strong>zǎo</strong> <em>le</em>.</span><span class="trans">He has showered (already).</span>
+* 我 给 他 打 <em>过</em> <strong>电话</strong> <em>了</em>。<span class="pinyin">Wǒ gěi tā dǎ <em>guo</em> <strong>diànhuà</strong> <em>le</em>.</span><span class="trans">I called him (already).</span>
+* 客户 看 <em>过</em> <strong>合同</strong> <em>了</em> 吗？<span class="pinyin">Kèhù kàn <em>guo</em> <strong> hétong </strong> <em>le</em> ma? </span><span class="trans">Has the client read the contract (already)?</span>
+</div>
+
+== What 过 (guo) Does ==
+
+You would be right to point out that 过 (guo) is mainly used to call attention to the fact that someone ''has had an '''experience.''''' This is the basic pattern pointed out in the article on the [[Expressing experiences with "guo"|basic usage of the aspectual particle 过]] (guo).  In the examples above, though, it's not any "once-in-a-lifetime" ''experiences'' being expressed, it's more just the information that these actions are ''done.''  Here, 过 (guo) and 了 (le) work together to emphasize that an action is ''already done.''  This is why the translations on the side add the word "already" in parentheses at the end; this is the feeling the sentences give you.  In fact, to emphasize the idea of ''already done'' even further, you could add the word for "already," 已经 (yǐjīng), before the verbs in the examples below, and it also works just fine:
+
+<div class="liju">
+
+* 她 <strong>已经</strong> 吃 <em>过</em> 饭 <em>了</em>。 <span class="pinyin">Tā <strong>yǐjīng </strong> chī <em>guo</em> fàn <em>le</em>.</span><span class="trans">She has already eaten (a meal).</span>
+* 我 <strong>已经</strong> 刷 <em>过</em> 牙 <em>了</em>。 <span class="pinyin">Wǒ <strong>yǐjīng </strong> shuā <em>guo</em> yá <em>le</em>.</span><span class="trans">I have already brushed my teeth.</span>
+* 他 <strong>已经</strong> 洗 <em>过</em> 澡 <em>了</em>。 <span class="pinyin">Tā <strong>yǐjīng </strong> xǐ <em>guo</em> zǎo <em>le</em>.</span><span class="trans">He has already had a shower.</span>
+
+</div>
+
+== When to Use 过 (guo) with 了 (le) ==
+
+So when would you use the sentences above?  You'd be emphasizing that the action has ''already'' occurred (so it doesn't need to be done again), so it would probably be something like this:
+
+For the eating example:
+
+<div class="liju">
+
+<ul class="dialog">
+<li><span class="speaker">A:</span>她 想 吃饭 吗 ？ <span class="pinyin">Tā xiǎng chīfàn ma?</span><span class="trans">Does she want to eat?</span></li>
+<li><span class="speaker">B:</span>她 <strong>已经</strong> 吃 <em>过</em> 饭 <em>了</em>。 <span class="pinyin">Tā <strong>yǐjīng </strong> chī <em>guo</em> fàn <em>le</em>.</span><span class="trans">She has already eaten.</span></li>
+</ul>
+
+</div>
+
+For the tooth brushing example:
+
+<div class="liju">
+
+<ul class="dialog">
+<li><span class="speaker">A:</span>别 忘记 刷牙。 <span class="pinyin">Bié wàngjì shuā yá.</span><span class="trans">Don't forget to brush your teeth.</span></li>
+<li><span class="speaker">B:</span>我 <strong>已经</strong> 刷 <em>过</em> 牙 <em>了</em>。<span class="pinyin">Wǒ <strong>yǐjīng </strong> shuā <em>guo</em> yá <em>le</em>.</span><span class="trans">I have already brushed my teeth.</span></li>
+</ul>
+
+</div>
+
+For the taking a shower example:
+
+<div class="liju">
+
+<ul class="dialog">
+<li><span class="speaker">A:</span>他 应该 洗澡 。 <span class="pinyin">Tā yīnggāi xǐzǎo.</span><span class="trans">He should take a shower.</span></li>
+<li><span class="speaker">B:</span>他 <strong>已经</strong> 洗 <em>过 了</em> 。 <span class="pinyin">Tā <strong>yǐjīng</strong> xǐ <em>guo le</em>.</span><span class="trans">He has already showered.</span></li>
+</ul>
+
+</div>
+
+== See Also ==
+
+* [[Expressing experiences with "guo"]]
+* [[Expressing completion with "le"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|A Practical Chinese Grammar For Foreigners (外国人实用汉语语法) |138}} 
+{{Source|Chinese Grammar Without Tears (简明汉语语法学习手册) |73-74}} 
+{{Source|Integrated Chinese: Level 2, Part 1|345 - 347}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|76-77, 230-232}} 
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2)|175 - 176}}
+
+=== Websites ===
+
+* ChinesePod: [http://chinesepod.com/lessons/%E8%BF%87guo Qing Wen - 过(guo)] (free podcast content)
+
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Used for|Referring to the past}}
+{{Used for|Expressing completion}}
+{{Basic Grammar|过|A2|Verb + 过 + 了|她 吃 <em>过</em> <em>了</em> 。|grammar point|ASGP69JD}}
+{{Rel char|了}}
+{{Similar|Uses of le}}
+{{Similar|Expressing completion with "le"}}
+{{Translation|have}}
+{{Translation|already}}
+{{POS|Particles}}

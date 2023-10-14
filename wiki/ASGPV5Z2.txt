@@ -1,0 +1,59 @@
+<!-- Expressing that something has already happened with "laizhe" -->
+{{Grammar Box}} 
+{{Stub}}
+
+来着 is an auxiliary word placed at the end of a sentence to express that something has already happened. 
+
+== General use of "来着" in the sentence ==
+
+=== Structure ===
+
+来着 is placed at the end of the sentence. 来着 does not have a negative form, in other words, it cannot be used with 不 or 没(有). Also, when 来着 is used in a question, it can only be used with 什么, 谁, and 哪儿.
+
+<div class="jiegou">
+
+Sentence + 来着
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*昨天 有 人 来 找 你 <em>来着</em> 。<span class="trans">There was someone looking for you yesterday.</span>
+*那 本 书 昨天 还 在 这儿 <em>来着</em>，今天 怎么 找 不到 了 ？<span class="trans">That book was here yesterday. Why can't I find it today?</span>
+*他 叫 什么 <em>来着</em>？<span class="trans">What was his name again?</span>
+*那 首 歌 是 谁 唱 的 <em>来着</em> ？<span class="trans">Who sang that song again?</span>
+*我们 上 次 说 周末 去 哪儿 玩 <em>来着</em> ？<span class="trans">Where is it that we said we are going to this weekend?</span>
+
+</div>
+
+== Special phrase  "I told you so" with 来着 ==
+
+来着 is used in a common expression similar to "didn't I tell you!?," used when the speaker wants to prove that they are right about something. The phrase is "我说什么来着."
+
+=== Examples ===
+
+<div class="liju">
+
+*我 说 什么 <em>来着</em>！你 一 吃 火锅 就 拉 肚子！<span class="trans">I told you so! You have a diarrhea every time you eat hotpot!</span>
+*我 说 什么 <em>来着</em>！这 个 东西 肯定 是 假的！<span class="trans">I told you so! This thing must be fake!</span>
+*我 说 什么 <em>来着</em>！他 不 是 真的 喜欢 你！<span class="trans">I told you so! He is not really into you!</span>
+*我 说 什么 <em>来着</em>！他们 会 回来 的。<span class="trans">I told you so! They would come back.</span>
+
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+* [[Short-term Spoken Chinese: Elementary (汉语口语速成基础篇)]](p.107) [http://www.amazon.com/gp/product/B00326U9MS/ref%3das_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=B00326U9MS →buy] 
+
+* [[Home With Kids1 (家有儿女1)]](p.29) [http://www.amazon.cn/%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B31-%E5%88%98%E7%AB%8B%E6%96%B0/dp/B0020MLDO8/ref=sr_1_1?ie=UTF8&qid=1347862139&sr=8-1 →buy] 
+
+* [[Exemplification of Common Sentence Patterns in Spoken Chinese 汉语口语常用句式例解]] （p.268)[http://www.amazon.cn/%E6%B1%89%E8%AF%AD%E5%8F%A3%E8%AF%AD%E5%B8%B8%E7%94%A8%E5%8F%A5%E5%BC%8F%E4%BE%8B%E8%A7%A3/dp/B0011435Y2/ref=sr_1_1?ie=UTF8&qid=1347865939&sr=8-1 →buy] 
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|来着|C1|Sentence + 来着|刘老师 说 课本 在 桌子 上 <em>来着</em>。|grammar point|ASGPV5Z2}}
+{{POS|Auxiliary Words}}
+{{Used for|Sequencing events in time}}

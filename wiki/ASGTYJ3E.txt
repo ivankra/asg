@@ -1,0 +1,92 @@
+<!-- Expressing "not only... but also" with "budan... erqie..." -->
+{{Grammar Box}} 
+不但⋯⋯，而且⋯⋯ (bùdàn..., érqiě...) is a very commonly used pattern that indicates "not only, ... but also...."
+
+== Used with Single Subject ==
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 不但 ⋯⋯ ，而且 ⋯⋯
+</div>
+
+The same subject should apply to both the first part and the second part (the part after 而且). The pattern can also be used omitting 而且, and instead using adverbs like 也 and 还 in its place.
+
+=== Examples ===
+
+<div class="liju">
+
+*这个 东西 <em>不但</em> 贵 ，<em>而且</em> 难 买 。<span class="pinyin">Zhège dōngxi <em>bùdàn</em> guì, <em>érqiě</em> nán mǎi .</span><span class="trans">This thing is not only expensive, but also hard to buy.</span>
+*这 道 菜 <em>不但</em> 好看 ，<em>也</em> 好吃 。<span class="pinyin">Zhè dào cài <em>bùdàn</em> hǎokàn, <em>yě</em> hǎochī.</span><span class="trans">This dish is not only attractive, but also delicious.</span>
+*她 <em>不但</em> 聪明 ，<em>而且</em> 很 幽默 。<span class="pinyin">Tā <em>bùdàn</em> cōngming, <em>érqiě</em> hěn yōumò.</span><span class="trans">She is not only smart, but also very humorous.</span>
+*她 <em>不但</em> 离开 了 我 ，<em>还</em> 拿走 了 我 所有 的 钱 。<span class="pinyin">Tā <em>bùdàn</em> líkāi le wǒ, <em>hái</em> názǒu le wǒ suǒyǒu de qián.</span><span class="trans">Not only did she leave me, but she also took all my money.</span>
+*他 <em>不但</em> 提前 做 完 了 ，<em>而且</em> 做 得 很 好 。<span class="pinyin">Tā <em>bùdàn</em> tíqián zuò wán le, <em>érqiě</em> zuò de hěn hǎo.</span><span class="trans">Not only did he finish it in advance, but he did it very well.</span>
+
+</div>
+
+== Used with Two Subjects ==
+
+When there is only one subject with 不但⋯⋯而且⋯⋯, the subject has to come at the beginning of the sentence, before both 不但 and 而且. When using two different subjects, however, you need to put one after 不但 and one after 而且.
+
+=== Structure ===
+
+<div class="jiegou">
+不但 + Subj. 1 ⋯⋯ ，而且 + Subj. 2 + 也 ⋯⋯
+</div>
+
+The pattern can also be used omitting 而且, and instead using adverbs like 也 in its place.
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>不但</em>  大学生 找工作 难 ，<em>而且</em> 研究生 <strong>也</strong> 不容易 。<span class="pinyin"><em>Bùdàn</em> dàxuéshēng zhǎo gōngzuò nán, <em>érqiě</em> yánjiūshēng <strong>yě</strong> bù róngyì.</span><span class="trans">Not only is it hard to find a job for undergraduates, but it's also hard for graduate students.</span>
+*这个 电影 <em>不但</em> 孩子们 喜欢 ，大人 <strong>也</strong> 很 喜欢 。<span class="pinyin"> Zhège diànyǐng <em>bùdàn</em> háizimen xǐhuan, dàren <strong>yě</strong> hěn xǐhuan.</span><span class="trans">Not only do children like this movie, but adults like it too.</span>
+*<em>不但</em> 员工 压力 大 ，老板 压力 <strong>也</strong> 很 大 。<span class="pinyin"><em>Bùdàn</em> yuángōng yālì dà, lǎobǎn yālì <strong>yě</strong> hěn dà.</span><span class="trans">Not only are the employees under a lot of pressure, but the boss is under a lot of pressure too.</span>
+*老师 发现 ，<em>不但</em> 学生 说谎 ，<em>而且</em> 家长 <strong>也</strong> 说谎 。<span class="pinyin">Lǎoshī fāxiàn, <em>bùdàn</em> xuéshēng shuōhuǎng, <em>érqiě</em> jiāzhǎng <strong>yě</strong> shuōhuǎng.</span><span class="trans">The teacher found that not only did the student lie, but his parents did too.</span>
+*<em>不但</em> 老百姓 害怕 这些 人 ，<em>而且</em> 警察 <strong>也</strong> 害怕 。<span class="pinyin"><em>Bùdàn</em> lǎobǎixìng hàipà zhèxiē rén, <em>érqiě</em> jǐngchá <strong>yě</strong> hàipà.</span><span class="trans">Not only do ordinary folk fear these people, but the police fear them too.</span>
+
+</div>
+
+==See also==
+
+*[[Many types of "not only… but also…"]]
+*[["Not only… but also" with "bujin"]]
+*[["In addition" as "lingwai"]]
+
+== Sources  and further reading ==
+
+=== Books ===
+
+{{Source|Common Chinese Patterns 330 (汉语常用格式330例) |22}} 
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|253}} 
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2)|219}}
+
+=== Websites ===
+
+* Yale Chinese Usage Dictionary: [http://comet.cls.yale.edu/chineseusagedictionary/0235.html Usage of 而]
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|不但|B1|不但⋯⋯，而且⋯⋯|他 <em>不但</em> 聪明，<em>而且</em> 勤劳。|grammar point|ASGTYJ3E}}
+{{Rel char|而且}}
+{{Rel char|而}}
+{{Rel char|且}}
+{{Rel char|不}}
+{{Rel char|但}}
+{{Rel char|还}}
+{{Similar|"In Addition" as "lingwai"}}
+{{Similar|"Not only… but also" with "bujin"}}
+{{Similar|Many types of "not only... but also..."}}
+{{Similar|Expressing "and also" with "hai"}}
+{{Similar|"In addition" with "zaishuo"}}
+{{Similar|Expressing "in addition" with "haiyou"}}
+{{Similar|"er" used to explain contrasting ideas}}
+{{Similar|"Using "budan... geng" to express "not only... but also"}}
+{{Similar|Expressing "not only..., even..." using "budan..., shenzhi lian"}}
+{{Used for|Connecting ideas}}
+{{Used for|Adding more explanation}}
+{{Structure|Sentence Patterns}}
+{{Subprop|Complex Sentence Patterns}}
+{{Translation|not}}
+{{Translation|also}}

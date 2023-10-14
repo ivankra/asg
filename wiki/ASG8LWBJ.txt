@@ -1,0 +1,345 @@
+<!-- Direction complement -->
+{{Grammar Box}} 
+
+{{AKA|趋向补语 (qūxiàng bǔyǔ)|directional complement|complement of direction}}
+
+A direction complement is a [[complement]] used to describe the direction of a verb. Verbs often already have some inherent movement implied, but by adding a direction complement, it becomes clearer where, exactly, that action is going.
+
+== Simple Direction Complement ==
+
+The most basic (and common) form of direction complement is formed by a verb and 来 or 去.
+
+=== Structure ===
+
+<div class="jiegou">
+Verb + 来 / 去
+</div>
+
+The most important thing to consider with direction complements is '''the position of the speaker'''. If the action moves towards the speaker or comes closer in any way, use 来. If the action moves away from the speaker or becomes more distant in any way, use 去.
+
+<table class="table big-text table-striped table-bordered">
+<tr>
+<th style="width:15%">Verb</th>
+<th style="width:25%">+ Complement</th>
+<th style="width:60%">Explanation</th>
+</tr>
+<tr>
+<td>下</td>
+<td>下来<span class="pinyin">xiàlái</span></td>
+<td><span class="spaced">The movement is down towards the speaker: "come down"</span></td>
+</tr>
+<tr>
+<td>下</td>
+<td>下去<span class="pinyin">xiàqù</span></td>
+<td><span class="spaced">The movement is down away from the speaker: "go down"</span></td>
+</tr>
+<tr>
+<td>上</td>
+<td>上来<span class="pinyin">shànglái</span></td>
+<td><span class="spaced">The movement is up towards the speaker: "come up"</span></td>
+</tr>
+<tr>
+<td>上</td>
+<td>上去<span class="pinyin">shàngqù</span></td>
+<td><span class="spaced">The movement is up and away from the speaker: "go up"</span></td>
+</tr>
+<tr>
+<td>出</td>
+<td>出来<span class="pinyin">chūlái</span></td>
+<td><span class="spaced">The movement is out and towards the speaker: "come out"</span></td>
+</tr>
+<tr>
+<td>出</td>
+<td>出去<span class="pinyin">chūqù</span></td>
+<td><span class="spaced">The movement is out and away from the speaker: "go out"</span></td>
+</tr>
+<tr>
+<td>进</td>
+<td>进来<span class="pinyin">jìnlái</span></td>
+<td><span class="spaced">The movement is in and towards the speaker: "come in"</span></td>
+</tr>
+<tr>
+<td>进</td>
+<td>进去<span class="pinyin">jìnqù</span></td>
+<td><span class="spaced">The movement is in and away from the speaker: "go in"</span></td>
+</tr>
+<tr>
+<td>回</td>
+<td>回来<span class="pinyin">huílái</span></td>
+<td><span class="spaced">The movement is towards the speaker: "come back"</span></td>
+</tr>
+<tr>
+<td>回</td>
+<td>回去<span class="pinyin">huíqù</span></td>
+<td><span class="spaced">The movement is away from the speaker: "go back"</span></td>
+</tr>
+</table>
+
+You might be wondering how the directional distinction between 来 and 去 works when you're talking about yourself moving. You can't move away from or towards yourself, so should it be 来 or 去? The answer is to look at the context of the movement you're talking about. Are you telling someone you'll see them tomorrow? Similar to English, in Chinese you'd say something like "I'll come and see you tomorrow."
+
+=== Examples ===
+
+You can use these simple compounds in a huge variety of situations. Here are some example dialogs to provide a little more context:
+
+<div class="liju">
+
+<ul class="dialog">
+<li><span class="speaker">A:</span> 我 在 楼上 ，你 <em>上来</em> 。<span class="pinyin">Wǒ zài lóushàng, nǐ <em>shànglái</em>.</span><span class="trans">I'm on the upper floor. Come up to me.</span></li> 
+<li><span class="speaker">B:</span> 你 在 楼上 等 我 一下 。我 一会儿 就 <em>上去</em> 。<span class="pinyin">Nǐ zài lóushàng děng wǒ yīxià. Wǒ yīhuìr jiù <em>shàngqù</em>.</span><span class="trans">Please wait a moment on the upper floor. I'll come up in a few minutes.</span></li>
+</ul>
+
+</div>
+
+<div class="liju">
+
+<ul class="dialog">
+<li><span class="speaker">A:</span> <em>出来</em> 玩 吧 ，我们 在 酒吧 等 你 。<span class="pinyin"><em>Chūlái</em> wán ba, wǒmen zài jiǔbā děng nǐ.</span><span class="trans">Come and hang out with us. We'll be waiting in the bar.</span></li>
+<li><span class="speaker">B:</span> 我 妈 不 让 我 <em>出去</em> 。<span class="pinyin">Wǒ mā bù ràng wǒ <em>chūqù</em>.</span><span class="trans">My mother won't let me go out.</span></li>
+</ul>
+
+</div>
+
+<div class="liju">
+
+<ul class="dialog">
+<li><span class="speaker">A:</span> 这 是 我家 ，<em>进来</em> 吧 ，随便 坐 。<span class="pinyin">Zhè shì wǒ jiā, <em>jìnlái</em> ba, suíbiàn zuò.</span><span class="trans">This is my house. Please come inside. Feel free to take a seat.</span></li>
+<li><span class="speaker">B:</span> 那 是 你 的 卧室 吗 ？我 能 <em>进去</em> 吗 ？<span class="pinyin">Nà shì nǐ de wòshì ma? Wǒ néng <em>jìnqù</em> ma?</span><span class="trans">Is that your bedroom? Can I go in?</span></li>
+</ul>
+
+</div>
+
+<div class="liju">
+
+<ul class="dialog">
+<li><span class="speaker">A:</span> 你 下班 了 吗 ？几点 <em>回来</em> 吃饭 ？<span class="pinyin">Nǐ xiàbān le ma? Jǐ diǎn <em>huílái</em> chīfàn?</span><span class="trans">Are you off work now? When are you coming back for dinner?</span></li>
+<li><span class="speaker">B:</span> 我 今天 不 <em>回去</em> 吃饭 。<span class="pinyin">Wǒ jīntiān bù <em>huíqù</em> chīfàn.</span><span class="trans">I'm not going back home for dinner today.</span></li>
+</ul>
+
+</div>
+
+== Compound Direction Complements ==
+
+Direction complements can be more complex than just 来 or 去.
+
+=== Forming Compound Direction Complements ===
+
+You can form compound direction complements in the following way:
+
+<table class="table big-text table-striped table-bordered">
+<tr>
+<th style="width:15%"></th>
+<th style="width:10%">上</th>
+<th style="width:10%">下</th>
+<th style="width:10%">进</th>
+<th style="width:10%">出</th>
+<th style="width:10%">回</th>
+<th style="width:10%">过</th>
+<th style="width:10%">起</th>
+</tr>
+<tr>
+<td>来</td>
+<td>上来</td>
+<td>下来</td>
+<td>进来</td>
+<td>出来</td>
+<td>回来</td>
+<td>过来</td>
+<td>起来</td>
+</tr>
+<tr>
+<td>去</td>
+<td>上去</td>
+<td>下去</td>
+<td>进去</td>
+<td>出去</td>
+<td>回去</td>
+<td>过去</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+These compounds can then be used in much the same way as 来 and 去. Attach them to verbs to give detail about the direction of the action.
+
+=== Structure ===
+
+<div class="jiegou">
+Verb + [Compound Direction Complement]
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*请 站 <em>起来</em> 。<span class="pinyin">Qǐng zhàn <em>qǐlái</em>.</span><span class="trans">Please stand up.</span>
+*不要 让 它 跑 <em>出去</em> 。<span class="pinyin">Bùyào ràng tā pǎo <em>chūqù</em>.</span><span class="trans">Don't let it run out.</span>
+*从 我 家 走 <em>过来</em> 要 半 个 小时 。<span class="pinyin">Cóng wǒ jiā zǒu <em>guòlái</em> yào bàn gè xiǎoshí.</span> <span class="trans">It took me half an hour to walk here from my place.</span>
+*你 包里 的 东西 都 拿 <em>出来</em> 了 吗 ？<span class="pinyin">Nǐ bāo lǐ de dōngxi dōu ná <em>chūlái</em> le ma?</span><span class="trans">Did you take all your stuff out of your bag?</span>
+
+</div>
+
+== Direction Complements with Objects ==
+
+Direction complements are not only used to describe the movement of people. Moving objects can also be described with direction complements. Again, the direction of the movement relative to the speaker (or at least to the context of the conversation) is important when deciding what complement to use.
+
+The verbs that commonly appear in this construction include 拿, 送, and 带.
+
+=== Structure ===
+
+<div class="jiegou">
+Verb + Object + Complement
+</div>
+
+=== Examples ===
+
+Some examples:
+
+<div class="liju">
+
+*服务员 ，请 再 拿 <strong>几 个 碗</strong> <em>来</em> 。<span class="pinyin">Fúwùyuán, qǐng zài ná <strong>jǐ gè wǎn</strong> <em>lái</em>.</span><span class="trans">Waiter, please bring a few more bowls.</span>
+*快点 送 <strong>孩子</strong> <em>去</em> 吧 ，别 迟到 了 。<span class="pinyin">Kuàidiǎn sòng <strong>háizi</strong> <em>qù</em> ba, bié chídào le.</span><span class="trans">Hurry up, send the  kids off. Don't be late.</span>
+*师傅 ，送 <strong>两 桶 水</strong> <em>来</em> 。<span class="pinyin">Shīfu, sòng <strong>liǎng tǒng shuǐ</strong> <em>lái</em>.</span><span class="trans">Shifu, please deliver two buckets of water.</span>
+*可以 带 <strong>朋友</strong> <em>过来</em> 吗 ？<span class="pinyin">Kěyǐ dài <strong>péngyou</strong> <em>guòlái</em> ma?</span><span class="trans">Can I bring some friends over?</span>
+*他们 带 了 <strong>一些 礼物</strong> <em>回去</em> 。<span class="pinyin">Tāmen dài le <strong>yīxiē lǐwù</strong> <em>huíqù</em>.</span><span class="trans">They took some presents back with them.</span>
+
+</div>
+
+=== Common Mistakes ===
+
+Although 回来 and 回去 can be compound complements, they can each also just be the verb 回 with a simple direction complement. Many Chinese learners make the following mistakes:
+
+<div class="liju">
+
+<ul>
+<li class="x">回来中国<span class="pinyin">huílai Zhōngguó</span></li>
+<li class="o">回中国来<span class="pinyin">huí Zhōngguó lái</span><span class="trans">come back to China</span></li>
+<li class="x">回去美国<span class="pinyin">huíqu Měiguó</span></li>
+<li class="o">回美国去<span class="pinyin">huí Měiguó qù</span><span class="trans">go back to the USA</span></li>
+</ul>
+
+</div>
+
+You can't say 回来中国 because 回 is the verb, 来 is the complement, and 中国 is the object. You can't put both a complement and an object after a single verb, but it's OK to put just a 来 or 去 after the object. In spoken language, if the context is clear, people often omit 来 or 去 and only say 回美国 or 回中国.
+
+== Direction Complements with 把 ==
+
+Direction complements work very well in [[Ba sentence|把 sentences]], as they can be used to describe the disposal of an object (what happened to it in the end). Because of this, it's very common to see direction complements and 把 appearing together. 
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 把 + Obj. + Verb + [Direction Complement]
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<strong>把</strong> 书 <em>拿 出来</em> 。<span class="pinyin"><strong>Bǎ</strong> shū <em>ná chūlai</em>.</span><span class="trans">Take out your book.</span>
+*<strong>把</strong> 手 <em>举 起来</em> 。<span class="pinyin"><strong>Bǎ</strong> shǒu <em>jǔ qǐlái</em>.</span><span class="trans">Raise your hands.</span>
+*帮 我 <strong>把</strong> 这个 箱子 <em>搬 过去</em> 。<span class="pinyin">Bāng wǒ <strong>bǎ</strong> zhège xiāngzi <em>bān guòqù</em>.</span><span class="trans">Help me move this suitcase over there.</span>
+
+</div>
+
+''See also: [[Ba sentence|把 sentences]]''
+
+== Converting to Potential Complement ==
+
+Adding 得 to directional complements makes the phrase an affirmative potential complement. Adding 不 makes the phrase a negative potential complement. 
+
+<div class="liju">
+
+{| class="wikitable" style="width:40em"
+|+Direction and Potential Complements
+|-
+! Direction<br />Complement !! Aff. Potential<br />Complement !! Neg. Potential<br />Complement
+|-
+|  回 去 || 回 <em>得</em> 去 || 回 <em>不</em> 去
+|-
+|  过 来 || 过 <em>得</em> 来 || 过 <em>不</em> 来 
+|-
+|  站 起来 || 站 <em>得</em> 起来 || 站 <em>不</em> 起来 
+|-
+|  走 上去 || 走 <em>得</em> 上去 || 走 <em>不</em> 上去 
+|-
+|  开 进去 || 开 <em>得</em> 进去 || 开 <em>不</em> 进去
+|-
+|  拿 出来 || 拿 <em>得</em> 出来 || 拿 <em>不</em> 出来
+|-
+|}
+
+</div>
+
+== Additional Meanings ==
+
+A lot of direction complements, particularly compound direction complements, have additional idiomatic meanings beyond literally describing the direction of an action. The most common of these are:
+
+* [[Direction complement "-qilai"|起来]] (-qǐlái)
+* [[Advanced result complements|出来]] (-chūlai)
+* [[Result complement "xiaqu"|下去]] (-xiàqù)
+
+== See also ==
+
+* [[Result complement]]
+* [[Potential complement]]
+* [[Degree complement]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|14, 110, 162}}
+{{Source|HSK Standard Course 4下|118}}
+{{Source|A Practical Chinese Grammar For Foreigners (外国人实用汉语语法) |302-17}} 
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|165}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|185-9}}
+{{Source|Integrated Chinese: Level 2, Part 1|267-8}}
+{{Source|Mandarin Chinese: A Functional Reference Grammar|58-65}} 
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2)|40-1, 197-8}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课下册）|313-4}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|238-9, 255}}
+{{Source|HSK Standard Course 5上|90}}
+
+=== Websites ===
+
+* Mandarin Essential Grammar (Yale): [http://comet.cls.yale.edu/mandarin/content/directional/grammar/direction.htm Directional Complements]
+
+=== Videos ===
+
+*Yoyo Chinese: [https://www.youtube.com/watch?v=XbY2bNpYd6g Introduction to complement of direction]
+
+[[Category:Complements]]
+[[Category:Table]]
+{{HSK|HSK3}}
+{{HSK|HSK4}}
+{{Basic Grammar|来|B1|Verb (+ Direction) + 来 / 去|我们 走 <em>过去</em> 吧 。|grammar point|ASG8LWBJ}}
+{{Rel char|去}}
+{{Rel char|下}}
+{{Rel char|上}}
+{{Rel char|出}}
+{{Rel char|回}}
+{{Rel char|进}}
+{{Rel char|到}}
+{{Rel char|上来}}
+{{Rel char|上去}}
+{{Rel char|下来}}
+{{Rel char|下去}}
+{{Rel char|出来}}
+{{Rel char|出去}}
+{{Rel char|回来}}
+{{Rel char|回去}}
+{{Rel char|进去}}
+{{Rel char|进来}}
+{{Rel char|过来}}
+{{Rel char|过去}}
+{{Similar|Result complement}}
+{{Similar|Degree complement}}
+{{Similar|Potential complement}}
+{{Similar|Advanced uses of result complement "-qilai"}}
+{{Similar|Ba sentence}}
+{{Similar|Bei sentence}}
+{{Similar|Direction complement "-qilai"}}
+{{Used for|Expressing movement}}
+{{Used for|Describing places}}
+{{Used for|Describing actions}}
+{{Structure|Complements}}
+{{Subprop|Direction complement}}

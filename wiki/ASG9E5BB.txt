@@ -1,0 +1,53 @@
+<!-- Advanced degree complements -->
+{{Grammar Box}} 
+There are many ways to express "degree" following a ''verb''. A vast array of words can function as [[degree complement]]s following '''verbs''', indicating degree and quality. When it comes to degree complements for ''adjectives'', however, options are much more limited.
+
+== Common Patterns ==
+
+You should already know complements [[Negative adjectives with "-si le"|-死了]] and [[Adjectives with "-ji le"|-极了]]. The following are some of the other more common degree complements which follow adjectives.
+
+* Adj. + 得 + 很
+* Adj. + 得 + 不得了
+* Adj. + 得 + 要命
+* Adj. + 得 + 不行
+
+== Examples ==
+
+<div class="liju">
+*这个 孩子 <strong>自私</strong> <em>得很</em> 。<span class="pinyin">Zhège háizi <strong>zìsī</strong> <em>de hěn</em>.</span><span class="trans">This child is super selfish.</span>
+*我 老婆 的 工作 <strong>轻松</strong> <strong></strong> <em>得很</em> 。<span class="pinyin">Wǒ lǎopo de gōngzuò <strong>qīngsōng</strong> <em>de hěn</em>.</span><span class="trans">My wife's job is extremely easy and relaxed.</span>
+*我 爸爸 <strong>固执</strong> <em>得 不得了</em> 。<span class="pinyin">Wǒ bàba <strong>gùzhí</strong> <em>de bùdéliǎo</em>.</span><span class="trans">My father is awfully stubborn.</span>
+*赢 了 比赛 以后 ，他 <strong>骄傲</strong> <em>得 不得了</em> 。<span class="pinyin">Yíng le bǐsài yǐhòu, tā <strong>jiāo'ào</strong> <em>de bùdéliǎo</em></span><span class="trans">He was terribly proud after he won the competition.</span>
+*听说 儿子 又 跟 同学 打架 了 ，爸爸 <strong>气</strong> <em>得 不得了</em> 。<span class="pinyin">Tīngshuō érzi yòu gēn tóngxué dǎjià le, bàba <strong>qì</strong> <em>de bùdéliǎo</em>.</span><span class="trans">Having heard his son was fighting with his classmate again, the father was incensed.</span>
+*我 儿子 <strong>淘气</strong> <em>得 要命</em> 。<span class="pinyin">Wǒ érzi <strong>táoqì</strong> <em>de yàomìng</em>.</span><span class="trans">My son is incredibly naughty.</span>
+*今天 路上 <strong>堵</strong> <em>得 要命</em> ！<span class="pinyin">Jīntiān lùshang <strong>dǔ</strong> <em>de yàomìng</em>!</span><span class="trans">The traffic is terrible!</span>
+*地铁 <strong>挤</strong> <em>得 要命</em> ！<span class="pinyin">Dìtiě <strong>jǐ</strong> <em>de yàomìng</em>!</span><span class="trans">The metro is so crowded!</span>
+*我 的 牙 <strong>痛</strong> <em>得 不 行</em> ！<span class="pinyin">Wǒ de yá <strong>tòng</strong> <em>de bùxíng</em>!</span><span class="trans">My teeth hurt so badly!</span>
+*外面 <strong>热</strong> <em>得 不 行</em> 。<span class="pinyin">Wàimiàn <strong>rè</strong> <em>de bùxíng</em>.</span><span class="trans">It's awfully hot outside.</span>
+</div>
+
+For more examples with [[Adjectival complement "de hen"|得很]] and [[Adjectival complement "de budeliao"|得不得了]], see their respective grammar points.
+
+== See also ==
+
+* [[Degree complement]]
+* [[Adjectives with "-ji le"]]
+* [[Complement "-huai le"]]
+
+[[Category:B2 grammar points]]
+[[Category:Complements]]
+
+{{Basic Grammar|得|B2|Adj. + 得 + 很 / 不得了 / 要命 / 不行|我 老婆 的 工作 <strong>轻松</strong> <strong></strong> <em>得很</em> 。|grammar point|ASG9E5BB}}
+{{Rel char|很}}
+{{Rel char|不得了}}
+{{Rel char|要命}}
+{{Rel char|不行}}
+{{Similar|Degree complement}}
+{{Similar|Adjectives with "-ji le"}}
+{{Similar|Adjectival complement "de hen"}}
+{{Similar|Adjectival complement "de budeliao"}}
+{{Similar|Complement "-huai le"}}
+{{Used for|Expressing degree}}
+{{Structure|Complements}}
+{{Translation|very}}
+{{Translation|really}}

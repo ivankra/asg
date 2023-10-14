@@ -1,0 +1,100 @@
+<!-- Simple "noun + adjective" sentences -->
+{{Grammar Box}} 
+In English, nouns can be "linked" to adjectives and other nouns with the verb "to be." In Chinese, [[noun]]s are linked to other nouns in one way, but linked to [[adjective]]s in a completely different way. Nouns are linked to other [[Connecting nouns with "shi"|nouns with 是 (shì)]]. Nouns are linked to adjectives with 很 (hěn).
+
+== Structure ==
+
+<div class="jiegou">
+
+Noun + 很 + Adj.
+
+</div>
+
+The noun in this structure is the subject of the sentence. Sometimes the 很 (hěn) in this structure is translated as "very," but often it is just a way to link a noun to an adjective.
+
+== Examples ==
+
+In the  following examples, 很 (hěn) is just a link (you could think of it as a substitute for the verb "to be"), and the sentences could be translated as "(Noun) is (adjective)."
+
+<div class="liju">
+
+* 我 <em>很</em> 好。 <span class="pinyin">Wǒ <em>hěn</em> hǎo.</span><span class="trans">I'm good.</span>
+* 你 <em>很</em> 漂亮。 <span class="pinyin">Nǐ <em>hěn</em> piàoliang.</span><span class="trans">You are pretty.</span>
+* 他 <em>很</em> 高兴。 <span class="pinyin">Tā <em>hěn</em> gāoxìng.</span><span class="trans">He is happy.</span>
+* 中文 <em>很</em> 难。 <span class="pinyin">Zhōngwén <em>hěn</em> nán.</span><span class="trans">Chinese is difficult.</span>
+* 老板 <em>很</em> 生气。 <span class="pinyin">Lǎobǎn <em>hěn</em> shēngqì.</span><span class="trans">The boss is angry.</span>
+* 我们 <em>很</em> 累。 <span class="pinyin">Wǒmen <em>hěn</em> lèi.</span><span class="trans">We're tired.</span>
+* 我 哥哥 也 <em>很</em> 高。 <span class="pinyin">Wǒ gēge yě <em>hěn</em> gāo.</span><span class="trans">My older brother is also tall.</span>
+* 你 家 也 <em>很</em> 远 吗？ <span class="pinyin"> Nǐ jiā yě <em>hěn</em> yuǎn ma?</span><span class="trans">Is your house also far away?</span>
+* 爸爸 <em>很</em> 忙，妈妈 也 很 忙。 <span class="pinyin"> Bàba <em>hěn</em> máng, māma  yě hěn máng.</span><span class="trans">Dad is busy, and mom is also busy.</span>
+* 他 和 他 弟弟  都 <em>很</em> 帅。 <span class="pinyin">Tā hé tā dìdi dōu <em>hěn</em> shuài.</span><span class="trans">He and his younger brother are both handsome.</span>
+
+</div>
+
+Remember that '''是 (shì) is not used to link adjectives to nouns'''. This is a classic mistake that almost everyone makes when learning Chinese. Make sure you use 很 (hěn) and not 是 (shì) to link adjectives to nouns, as shown below:
+
+<div class="liju">
+
+<ul>
+<li class="x">他 <strong>是</strong> 高。<span class="pinyin">Tā <strong>shì</strong> gāo.</span></li>
+<li class="o">他 <em>很</em> 高。 <span class="pinyin">Tā <em>hěn</em> gāo.</span><span class="trans">He is tall.</span>
+</li>
+</ul>
+
+</div>
+
+== What 很 (hěn) Really Means ==
+
+If you're like most learners, when you first learn this pattern, you're thinking, ''"How can 很 (hěn) mean "very" one minute, but then nothing but a "link" the next? How do I know if anything means anything in this language?"'' That's a reasonable response.  But in the case of these "Noun + Adj." sentences, you just have to think of this usage of 很 (hěn) as an exception. It's just part of the structure.
+
+If you actually want to add the meaning of "very" into the sentence, you could use another adverb instead of 很 (hěn). One good choice is 非常 (fēicháng).
+
+<div class="liju">
+
+<ul>
+<li class="o">他 <strong>非常</strong> 高 。<span class="pinyin">Tā <strong>fēicháng</strong> gāo.</span><span class="trans">He is very tall.</span></li>
+</ul>
+
+</div>
+
+== See also ==
+
+* [[Connecting nouns with "shi"]]
+* [[Emphasizing with "henshi"]]
+
+== Sources and further reading ==
+
+=== Videos ===
+
+* Yoyo Chinese: [http://www.youtube.com/watch?v=WDoyhfSUpII&list=PL94A5E422FB99CDDD "To be" + Adjectives]
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|42}}
+{{Source|Basic Patterns of Chinese Grammar|56-8}} 
+{{Source|Chinese: An Essential Grammar, Second Edition|44-5}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|126-28}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|20-1, 143}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)|23, 166, 249}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|86}} 
+
+[[Category:A1 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{Basic Grammar|很|A1|Noun + 很 + Adj.|我 <em>很</em> 好。|grammar point|ASG17BLH}}
+{{Structure|Basics}}
+{{Similar|Basic sentence order}}
+{{Similar|"Both A and B" with "you"}}
+{{Similar|The "zui" superlative}}
+{{Similar|Emphasizing with "henshi"}}
+{{Similar|Connecting nouns with "shi"}}   
+{{Similar|Special verbs with "hen"}}
+{{Similar|Expressing "a little too" with "you dian"}}
+{{Similar|Adjectives with "name" and "zheme"}}
+{{Similar|Reduplication of adjectives}}
+{{Similar|The "also" adverb}}
+{{Similar|Adjectival complement "de hen"}}
+{{Used for|Expressing quality}}
+{{Used for|Describing things}}
+{{Translation|very}}
+{{Translation|be}}
+{{Translation|is}}

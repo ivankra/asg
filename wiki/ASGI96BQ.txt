@@ -1,0 +1,100 @@
+<!-- Expressing distance with "li" -->
+{{Grammar Box}} 
+
+Are we there yet? One of the ways to express distance is to use 离 (lí). The word order might seem a little tricky at first, but once you get it down, you'll be able to talk about distance with no problem.
+
+== Using 离 (lí) in a Statement ==
+
+=== Structure ===
+
+Unless you're talking about a very specific distance, you'll normally want to pair 离 (lí) with the adjective 近 (jìn) for "close," or 远 (yuǎn) for "far."
+
+<div class="jiegou">
+
+Place 1 + 离 + Place 2 + Adv. + 近 / 远
+
+</div>
+
+So this pattern is normally used to simply express that one place is (not) close or (not) far from another place.  Easy, right?  It's learning the sentence pattern that usually trips learners up, because it doesn't feel like natural [[word order]] to a speaker of English.
+
+=== Examples ===
+
+<div class="liju">
+
+* 我 家 <em>离</em> 公司 很 近。<span class="pinyin">Wǒ jiā <em>lí</em> gōngsī hěn jìn.</span><span class="trans">My house is close to my office.</span>
+* 美国 <em>离</em> 中国 很 远。<span class="pinyin">Měiguó <em>lí</em> Zhōngguó hěn yuǎn.</span><span class="trans">The USA is far from China.</span>
+* 这 个 酒店 <em>离</em> 火车站 很 近。 <span class="pinyin">Zhège jiǔdiàn <em>lí</em> huǒchēzhàn hěn jìn.</span><span class="trans">This hotel is very close to the train station.</span>
+* 那 个 酒吧 <em>离</em> 这儿 太 远 了， 我 不 想 去。 <span class="pinyin">Nàge jiǔbā <em>lí</em> zhèr tài yuǎn le, wǒ bù xiǎng qù.</span><span class="trans">That bar is too far away from here. I don't want to go.</span>
+* 我 不想 去 <em>离</em> 家 很 远 的 地方 工作。<span class="pinyin">Wǒ bù xiǎng qù <em>lí</em> jiā hěn yuǎn de dìfang gōngzuò.</span><span class="trans">I don't want to go work at a place very far away from home.</span>
+
+</div>
+
+== Using 离 (lí) in a Question ==
+
+=== Structure ===
+
+These two sentence patterns are extremely common in everyday conversations when discussing distances.
+
+<div class="jiegou">
+
+Place 1 + 离 + Place 2 (+ Adv.) + 近 / 远 + 吗？
+
+</div>
+
+<div class="jiegou">
+
+Place 1 + 离 + Place 2 (+ 有) + 多远？
+
+</div>
+
+Note that in English, you can actually ask, "How close is it from here?" if the distance is obviously short. But in Chinese it's just, "How far is it from here?"
+
+=== Examples ===
+
+<div class="liju">
+
+* 你家 <em>离</em> 超市 远 吗？<span class="pinyin"> Nǐ jiā <em>lí</em> chāoshì yuǎn ma?</span><span class="trans">Is your house far away from the supermarket?</span>
+* 你 的 大学 <em>离</em> 你 老家 很 远 吗？<span class="pinyin">Nǐ de dàxué <em>lí</em> nǐ lǎojiā hěn yuǎn ma?</span><span class="trans">Is your college very far away from your hometown? </span>
+* 你们 公司 <em>离</em> 地铁站 近 吗？<span class="pinyin">Nǐmen gōngsī <em>lí</em> dìtiězhàn jìn ma? </span><span class="trans">Is your company close to the metro station? </span>
+* 你 家 <em>离</em> 学校 多远？<span class="pinyin">Nǐ jiā <em>lí</em> xuéxiào duō yuǎn?</span><span class="trans">How far is it from your home to school? </span>
+* 这个 酒店 <em>离</em> 机场 有 多远？<span class="pinyin">Zhège jiǔdiàn <em>lí</em> jīchǎng yǒu duō yuǎn? </span><span class="trans">How far is it from this hotel to the airport? </span>
+
+</div>
+
+== Expressing "Stay Away from Me" with 离 (lí) ==
+
+One final example is a command, commonly heard in colloquial Chinese:
+
+<div class="liju">
+
+* 你 <em>离</em> 我 远 点 儿 ！ <span class="pinyin">Nǐ <em>lí</em> wǒ yuǎn diǎnr!</span><span class="trans">Stay away from me.</span>
+
+</div>
+
+It's a somewhat atypical usage when compared with the others, because it uses two people rather than two places. The sentence literally means, "Distance yourself from me further." In other words, "Stay away from me," or "Don't come near me."
+
+== See Also ==
+
+* [["From… to…" with "cong… dao…"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|52}}
+{{Source|Basic Patterns of Chinese Grammar|112 - 113}}
+{{Source|Boya Chinese Elementary Starter 2 (博雅汉语初经起步篇)|11}}
+{{Source|Chinese: An Essential Grammar, Second Edition|154}}
+
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|离|A2|Place 1 + 离 + Place 2 + Adv. + 近 / 远|我 家 <em>离</em> 大学 很 近。|grammar point|ASGI96BQ}}
+{{Rel char|远}}
+{{Rel char|近}}
+{{Similar|Expressing "from… to…" with "cong… dao…"}}
+{{Similar|Comparing "li" and "cong"}}
+{{Used for|Expressing distance}}
+{{Used for|Expressing location}}
+{{Used for|Giving directions}}
+{{Used for|Describing places}}
+{{POS|Adverbs with Adjectives}}
+{{Translation|from}}

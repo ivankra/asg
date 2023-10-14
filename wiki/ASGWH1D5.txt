@@ -1,0 +1,106 @@
+<!-- Comparisons with "buru" -->
+{{Grammar Box}} 
+不如 (bùrú) can be used to make comparisons in a similar way as the [[Basic comparisons with "bi"|比]] structure. In its simplest form 不如 is used to convey that A is “not as good as” B. Unlike the 比 structure, when used in this way, the adjective or verb can be omitted.
+
+== Simple Pattern ==
+
+=== Structure ===
+
+<div class="jiegou">
+A + 不如 + B 
+</div>
+
+=== Examples === 
+
+<div class="liju">
+*我 哥 的 成绩 <em>不如</em> 我的 。<span class="pinyin">Wǒ gē de chéngjì <em>bùrú</em> wǒ de.</span><span class="trans">My older brother's grades are not as good as mine.</span>
+*看 电影 <em>不如</em> 看 原著 。<span class="pinyin">Kàn diànyǐng <em>bùrú</em> kàn yuánzhù.</span><span class="trans">Watching a movie isn't as good as reading the book.</span>
+*他 总是 觉得 自己 <em>不如</em> 别人 。<span class="pinyin">Tā zǒngshì juéde zìjǐ <em>bùrú</em> biérén.</span><span class="trans">He always thinks he's not as good as other people.</span>
+</div>
+
+== Advanced Patterns ==
+
+When an adjective or verb is added to the structure it can then be used to mean A is not as "adjective" as B, or A does not "verb" as well as B:
+
+=== Structure ===
+
+<div class="jiegou">
+A + 不如 + B + Adj. 
+</div>
+
+<div class="jiegou">
+A + Verb + 得 + 不如 + B + Adj. 
+</div>
+
+<div class="jiegou">
+A + Verb-Obj. + 不如 + B+ (Verb + 得) + Adj. 
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*这 件 裙子 <em>不如</em> 那 件 好看 。<span class="pinyin">Zhè jiàn qúnzi <em>bùrú</em> nà jiàn hǎokàn.</span><span class="trans">This dress doesn't look as good as that one.</span>
+*那个 说法 <em>不如</em> 这个 说法 实用 。<span class="pinyin">Nàge shuōfǎ <em>bùrú</em> zhège shuōfǎ shíyòng.</span><span class="trans">This saying isn't as practical as that one.</span>
+*他 穿 得 <em>不如</em> 你 好看 。<span class="pinyin">Tā chuān de <em>bùrú</em> nǐ hǎokàn.</span><span class="trans">He doesn't dress as well as you do.</span>
+*我 担心 我 解释 得 <em>不如</em> 你 清楚 。<span class="pinyin">Wǒ dānxīn wǒ jiěshì de <em>bùrú</em> nǐ qīngchǔ.</span><span class="trans">I'm afraid that I can't explain it as clearly as you.</span>
+*他 说 中文 <em>不如</em> 他 老婆 说 得 地道 。<span class="pinyin">Tā shuō Zhōngwén <em>bùrú</em> tā lǎopo shuō de dìdao.</span><span class="trans">He doesn't speak Chinese as authentically as his wife does.</span>
+*我 打字 <em>不如</em> 你 打 得 快 。<span class="pinyin">Wǒ dǎ zì <em>bùrú</em> nǐ dǎ de kuài.</span><span class="trans">I don't type as fast as you do.</span>
+
+</div>
+
+== 不如 as an Adverb ==
+
+When facing a choice, 不如 can also be used to mean "might as well" to emphasize that the choice that comes after 不如 is better than what was just being discussed. When used like this, it is similar in meaning to 不妨 (bùfáng).
+
+=== Structure ===
+
+<div class="jiegou">
+(与其 …… ，) 不如 ……
+</div>
+
+不如 often occurs in the [[与其]]……不如…… (yǔqí... bùrú...) structure, meaning "rather than... might as well...." See [[Expressing "rather than..." with "yuqi... buru"|the grammar point on 与其]] for other similar patterns.
+
+=== Examples ===
+
+<div class="liju">
+
+*在 家 看 电视 多 无聊 ！<em>不如</em> 去 KTV 吧 。<span class="pinyin">Zài jiā kàn diànshì duō wúliáo! <em>Bùrú</em> qù KTV ba.</span><span class="trans">Watching TV at home is so boring! It'd be more fun to go do karaoke.</span>
+*我们 在 这里 等 也 是 浪费 时间 ，<em>不如</em> 先 去 吃 个 饭 吧 。<span class="pinyin">Wǒmen zài zhèlǐ děng yě shì làngfèi shíjiān, <em>bùrú</em> xiān qù chī gè fàn ba.</span><span class="trans">It's a waste of time for us to wait here. We might as well go out and eat something first.</span>
+*<em>与其</em> 空想，<em>不如</em> 马上 行动 。<span class="pinyin"><em>Yǔqí</em> kōngxiǎng, <em>bùrú</em> mǎshàng xíngdòng.</span><span class="trans">Rather than fantasizing about it, you might as well take action right away.</span>
+*<em>与其</em> 天天 吵架 ，<em>不如</em> 分手 。<span class="pinyin"><em>Yǔqí</em> tiāntiān chǎojià, <em>bùrú</em> fēnshǒu.</span><span class="trans">Rather than fighting every day, you might as well break up.</span>
+</div>
+
+==See also==
+
+* [[Basic comparisons with "bu bi"]]
+* [[Basic comparisons with "meiyou"]]
+* [[Comparing Specifically with "xiang"]]
+* [[Comparing]]
+
+== Sources and  further reading ==
+
+===  Books ===
+
+{{Source|A Practical Chinese Grammar For Foreigners (外国人实用汉语语法) |543-7}}
+{{Source|Boya Chinese Lower Intermediate 1 (博雅汉语准中级加速篇)|38-9}} 
+{{Source|Integrated Chinese: Level 2, Part 1|89}}
+{{Source|Short-term Spoken Chinese: Elementary (汉语口语速成基础篇)|80-1}} 
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|不如|B2|不如⋯⋯|我的 汉语 <em>不如</em> 他的。|grammar point|ASGWH1D5}}
+{{Rel char|不}}
+{{Rel char|如}}
+{{Rel char|与其}}
+{{Similar|Expressing comparable degree with "you"}}
+{{Similar|Basic comparisons with "bu bi"}}
+{{Similar|Comparing Specifically with "xiang"}}
+{{Similar|Expressing "would rather" with "ningke"}}
+{{Similar|Expressing "rather than..." with "yuqi... buru"}}
+{{Used for|Denying and refusing}}
+{{Used for|Comparing}}
+{{Used for|Expressing preference}}
+{{POS|Verbs}}
+{{Subprop|Verbs}}
+{{Translation|less}}
+{{Translation|not}}

@@ -1,0 +1,79 @@
+<!-- Expressing "already" with just "le" -->
+{{Grammar Box}} 
+
+You understand the word [[ASGNXI27|已经 (yǐjīng)]] to mean "already" in Chinese, and it is followed with a [[了|了 (le)]]. However, sometimes, that feeling of "already" can also be expressed with 了 (le) alone if it is used in response to a preceding question or statement.
+
+== Structure ==
+
+<div class="jiegou">
+Subj. + [Verb Phrase] + 了
+</div>
+
+== Examples ==
+
+When "already" is implied using this structure, it is usually (if not always) in response to a preceding question or statement. Therefore, the following examples are in dialog format.
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span> 老板 呢？<span class="pinyin">Lǎobǎn ne? </span><span class="trans">Where is the boss? </span></li>
+<li><span class="speaker">B:</span>他 走 <em>了</em>。<span class="pinyin">Tā zǒu <em>le</em>.</span><span class="trans">He has (already) left.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span> 孩子 还在 上 大学  吗？<span class="pinyin">Háizi hái zài shàng dàxué ma? </span><span class="trans">Are your kids still in college? </span></li>
+<li><span class="speaker">B:</span>他们 工作 <em>了</em>。<span class="expl">This expression emphasizes that they're not students anymore, and have already entered the workforce.</span><span class="pinyin">Tāmen gōngzuò <em>le</em>.</span><span class="trans">They (already) work.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span> 用 我 的 车 吧？<span class="pinyin">Yòng wǒ de chē ba? </span><span class="trans">How about using my car? </span></li>
+<li><span class="speaker">B:</span>谢谢，我们 有 车 <em>了</em>。<span class="pinyin">Xièxie, wǒmen yǒu chē <em>le</em>.</span><span class="trans">Thanks. We (already) have a car.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>你 要 不 要 告诉 他？<span class="pinyin">Nǐ yào bu yào gàosu tā? </span><span class="trans">Are you going to tell him? </span></li>
+<li><span class="speaker">B:</span>他 知道 <em>了</em>。<span class="pinyin">Tā zhīdào <em>le</em>.</span><span class="trans">He (already) knows.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>你 应该 问 老师。<span class="pinyin">Nǐ  yīnggāi wèn lǎoshī.  </span><span class="trans">You should ask the teacher.</span></li>
+<li><span class="speaker">B:</span>我 问 <em>了</em>。<span class="pinyin">Wǒ wèn <em>le</em>.</span><span class="trans">I've (already) asked.</span></li>
+</ul>
+</div>
+
+== See also ==
+
+* [[Expressing "already" with "yijing"]]
+* [[Expressing "not anymore" with "le"]]
+* [[Uses of "le"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Basic Patterns of Chinese Grammar|68}}
+{{Source|Chinese: An Essential Grammar, Second Edition|126-9}}
+{{Source|Mandarin Chinese: A Functional Reference Grammar|238-99}} 
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2)|217-8}}
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|64-5}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|8}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|239}}
+
+[[Category: A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|了|A2|Subj. + Verb Phrase + 了|你 应该 问 老师 。我 问 <em>了</em> 。|grammar point|ASGM055L}}
+{{Rel char|已经}}
+{{Used for|Referring to changes of situation}}
+{{Similar|Uses of "le"}}
+{{Similar|Expressing "already" with "yijing"}}
+{{Similar|Expressing "already" with "dou"}}
+{{Similar|"Already" with "dou…le"}}
+{{Translation|already}}
+{{POS|Particles}}

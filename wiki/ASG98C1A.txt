@@ -1,0 +1,56 @@
+<!-- Expressing "as long as" with "zhiyao" -->
+{{Grammar Box}} 
+只要……就…… (zhǐyào... jiù...) means "as long as... then...." In other words, ''whenever'' A happens, B (always) results.
+
+== Structure ==
+
+Use this structure to express that "as long as" [something happens], "then" [something else will happen].  In logic, this is referred to as a "[http://en.wikipedia.org/wiki/Necessity_and_sufficiency sufficient condition]," meaning that it may not be the ''only way'' to bring about the these specific consequences, but it is ''one reliable way''.
+
+<div class="jiegou">
+只要 + Condition ，就 + Result
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+* <em>只要</em> 你 真的 喜欢， 我 <em>就</em> 给 你 买 。 <span class="pinyin"><em>Zhǐyào</em> nǐ zhēnde xǐhuan, wǒ <em> jiù</em> gěi nǐ mǎi.</span><span class="trans">As long as you really like it, I will buy it for you.</span>
+* <em>只要</em> 你 努力 学习， <em>就</em> 会 有 进步 。 <span class="pinyin"><em>Zhǐyào</em> nǐ nǔlì xuéxí, <em> jiù</em> huì yǒu jìnbù.</span><span class="trans">As long as you study hard, you'll make progress.</span>
+* <em>只要</em> 有 你 在， 我 <em>就</em> 放心 了 。 <span class="pinyin"><em>Zhǐyào</em> yǒu nǐ zài, wǒ <em> jiù</em> fàngxīn le.</span><span class="trans">As long as you are here, I won't be worried.</span>
+* <em>只要</em> 下雨， 她 <em>就</em> 会 心情 不 好 。 <span class="pinyin"><em>Zhǐyào</em> xiàyǔ, tā <em> jiù</em> huì xīnqíng bù hǎo.</span><span class="trans">Whenever it rains, she will be in a bad mood.</span>
+* <em>只要</em> 看到 妈妈， 宝宝 <em>就</em> 不 哭 了 。 <span class="pinyin"><em>Zhǐyào</em> kàndào māma, bǎobao <em> jiù</em> bù kū le.</span><span class="trans">Whenever she sees her mother, the baby stops crying.</span>
+* <em>只要</em> 你 完成 了 工作， <em>就</em> 可以 不 用 加班 。 <span class="pinyin"><em>Zhǐyào</em> nǐ wánchéng le gōngzuò,  <em> jiù</em> kěyǐ bùyòng jiābān.</span><span class="trans">As long as you have finished your work, there is no need to do overtime.</span>
+* <em>只要</em> 你 妈妈 同意 你 去 北京， 我 <em>就</em> 没有 意见 。 <span class="pinyin"><em>Zhǐyào</em> nǐ māma tóngyì nǐ qù Běijīng, wǒ <em> jiù</em> méiyǒu yìjiàn.</span><span class="trans">As long as your mother agrees with you going to Beijing, I have no issue with it.</span>
+* <em>只要</em> 不 堵车， 我们 <em>就</em> 能 准时 到 。 <span class="pinyin"><em>Zhǐyào</em> bù dǔchē, wǒmen <em> jiù</em> néng zhǔnshí dào.</span><span class="trans">As long as traffic isn't bad, we can get there on time.</span>
+* <em>只要</em> 你 不 生气 ， 我 <em>就</em> 告诉 你 。 <span class="pinyin"><em>Zhǐyào</em> nǐ bù shēngqì, wǒ <em> jiù</em> gàosu nǐ.</span><span class="trans">As long as you won't get mad, I'll tell you.</span>
+* <em>只要</em> 你 的 要求 是 合理 的 ， 我们 <em>就</em> 可以 考虑 。 <span class="pinyin"><em>Zhǐyào</em> nǐ de yāoqiú shì hélǐ de, wǒmen <em> jiù</em> kěyǐ kǎolǜ.</span><span class="trans">As long as your requirements are reasonable, we can consider them.</span>
+
+</div>
+
+==See also==
+*[["Only if" with "zhiyou"]]
+*[["If…, then…" with "ruguo…, jiu…"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|154}}
+{{Source|HSK Standard Course 4上|93}}
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|83}} 
+{{Source|Integrated Chinese: Level 2, Part 2|124}}
+{{Source|卓越汉语－公司实战篇|112}}
+
+
+[[Category: B2 grammar points]]
+{{HSK|HSK3}}
+{{HSK|HSK4}}
+{{Basic Grammar|只要|B2|只要⋯⋯，就⋯⋯|<em>只要</em> 你 过来 ， 我们 <em>就</em> 很 开心 。|grammar point|ASG98C1A}}
+{{Rel char|只}}
+{{Rel char|就}}
+{{Translation|as long as}}
+{{Similar|"Only if" with "zhiyou"}}
+{{Similar|Expressing "as long as" with "fanshi"}}
+{{Used for|Indicating cause and effect}}
+{{Used for|Indicating conditions}}
+{{Structure|Conditional Statements}}

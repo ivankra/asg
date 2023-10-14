@@ -1,0 +1,236 @@
+<!-- The "shi... de" construction for emphasizing details -->
+{{Grammar Box}} 
+
+{{AKA|是⋯⋯的结构 (shì...  de jiégòu)|是⋯⋯的 sentence|是⋯⋯的 pattern}}
+
+The 是⋯⋯的 (shì... de) construction is used to draw attention to certain information in a sentence. It's often used to ask questions that seek specific information, or to explain a situation by emphasizing a particular detail. While not strictly tied to any "tense," the 是⋯⋯的 construction is frequently used when asking or telling ''details'' about the past.
+
+This use of 是⋯⋯的 (shì... de) is usually emphasized in textbooks over other uses, and therefore is sometimes called the "classic" 是⋯⋯的 construction.
+
+== When to Use It ==
+
+Even if you understand that 了 is not used to mark "past tense" in Chinese, it's possible that you incorrectly use it that way sometimes. For example, what if you want to ask a question about something that happened in the past? Would you ever say one of the following sentences?
+
+<div class="liju">
+
+<ul>
+<li class="x">你 昨天 <strong>几点</strong> 到 <em>了</em> ？<span class="pinyin">Nǐ zuótiān <strong>jǐ diǎn</strong> dào <em>le</em>?</span><span class="trans">What time did you arrive yesterday?</span></li>
+<li class="x">你 跟 <strong>谁</strong> 去 <em>了</em> ？<span class="pinyin">Nǐ gēn <strong>shéi</strong> qù <em>le</em>?</span><span class="trans">Who did you go with?</span></li>
+<li class="x">他 <strong>用 什么</strong> 打 你 <em>了</em> ？<span class="pinyin">Tā <strong>yòng shénme</strong> dǎ nǐ <em>le</em>?</span><span class="trans">What did he use to hit you?</span></li>
+</ul>
+
+</div>
+
+In each of these sentences above, 了 is not the right choice, because you're not asking if an event happened or not. You're asking about details of past events. When you are singling out details for emphasis--in a question or a statement--you need to use the 是⋯⋯的 construction.
+
+A 是⋯⋯的 construction can pick out any detail that's related to a past event. Whatever comes immediately after 是 is emphasized. Check out this example:
+
+<div class="liju">
+
+<ul class="dialog">
+<li><span class="speaker">A:</span> 昨天 我 去 杭州 了。<span class="pinyin">Zuótiān wǒ qù Hángzhōu le.</span><span class="trans">I went to Hangzhou yesterday.</span></li>
+<li><span class="speaker">B:</span> 你 <em>是</em> <strong>怎么</strong> 去 <em>的</em> ？<span class="pinyin">Nǐ <em>shì</em> <strong>zěnme</strong> qù <em>de</em>?</span><span class="trans">How did you get there?</span></li>
+<li><span class="speaker">A:</span> 我 <em>是</em> <strong>坐 火车</strong> 去 <em>的</em> 。<span class="pinyin">Wǒ <em>shì</em> <strong>zuò huǒchē </strong> qù <em>de</em>.</span><span class="trans">I went by train.</span></li>
+</ul>
+
+</div>
+
+Now let's revisit those other three sentences and ask the questions correctly with 是⋯⋯的:
+
+<div class="liju">
+
+<ul>
+<li class="o">你 昨天 <em>是</em> <strong>几点</strong> 到 <em>的</em> ？<span class="pinyin">Nǐ zuótiān <em>shì</em> <strong>jǐ diǎn</strong> dào <em>de</em>?</span><span class="trans">What time did you arrive yesterday?</span></li>
+<li class="o">你 <em>是</em> <strong>跟 谁</strong> 去 <em>的</em> ？<span class="pinyin">Nǐ <em>shì</em> <strong>gēn shéi </strong> qù <em>de</em>?</span><span class="trans">Who did you go with?</span></li>
+<li class="o">他 <em>是</em> <strong>用 什么</strong> 打 你 <em>的</em> ？<span class="pinyin">Tā <em>shì</em> <strong>yòng shénme</strong> dǎ nǐ <em>de</em>?</span><span class="trans">What did he use to hit you?</span></li>
+</ul>
+
+</div>
+
+== Affirmative Form ==
+
+是⋯⋯的 is not generally used for reporting new information but for adding important details that make the information clearer. You could think of 是⋯⋯的 as being equivalent to saying one of the following in English:
+
+* "The situation is that..."
+* "It's that... "
+* "It was...  that... "
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 是 + [Information to be Emphasized] + Verb + 的
+</div>
+
+This structure can be used to emphasize any detail, but most commonly it emphasizes '''time''', '''manner''', or '''place'''. Don't worry if this still seems a little confusing; lots of helpful examples are coming up!
+
+=== Examples ===
+
+<div class="liju">
+
+<ul class="dialog">
+<li><span class="speaker">A:</span> 你们 <em>是</em> <strong>什么 时候</strong> 到 <em>的</em> ？<span class="expl">Emphasizing "when"</span><span class="pinyin">Nǐmen <em>shì</em> <strong>shénme shíhou</strong> dào <em>de</em>?</span><span class="trans">When did you guys arrive?</span></li>
+<li><span class="speaker">B:</span> 我们 <em>是</em> <strong>昨天</strong> 到 <em>的</em> 。<span class="expl">"Yesterday" is emphasized.</span><span class="pinyin">Wǒmen <em>shì</em> <strong>zuótiān</strong> dào <em>de</em>.</span><span class="trans">We arrived yesterday.</span></li>
+</ul>
+
+</div>
+
+<div class="liju">
+
+<ul class="dialog">
+<li><span class="speaker">A:</span> 你 <em>是</em> <strong>在 哪儿</strong> 出生 <em>的</em> ？<span class="expl">"Where" is emphasized.</span><span class="pinyin">Nǐ <em>shì</em> <strong>zài nǎr</strong> chūshēng <em>de</em>?</span><span class="trans">Where were you born?</span></li>
+<li><span class="speaker">B:</span> 我 <em>是</em> <strong>在 香港</strong> 出生 <em>的</em> 。<span class="expl">"In Hong Kong" is emphasized.</span><span class="pinyin">Wǒ <em>shì</em> <strong>zài Xiānggǎng</strong> chūshēng <em>de</em>.</span><span class="trans">I was born in Hong Kong.</span></li>
+</ul>
+
+</div>
+
+Although this structure is called the 是⋯⋯的 construction, the 是 is nearly always optional. You will often hear this structure with 是 omitted, so be aware. The only time 是 is required in this construction is when it's being negated. Other than that, 是 is commonly omitted.
+
+<div class="liju">
+
+<ul class="dialog">
+<li><span class="speaker">A:</span> 你 <strong>骑 自行车</strong> 来 <em>的</em> 吗 ？<span class="expl">Emphasizing "by bike"</span><span class="pinyin">Nǐ <strong>qí zìxíngchē</strong> lái <em>de</em> ma?</span><span class="trans">Did you come by bike? </span></li>
+<li><span class="speaker">B:</span> 我 <strong>走</strong> 来 <em>的</em> 。<span class="expl">Emphasizing "by foot"</span><span class="pinyin">Wǒ <strong>zǒu</strong> lái <em>de</em>.</span><span class="trans">I came by foot.</span></li>
+</ul>
+
+</div>
+
+<div class="liju">
+
+<ul class="dialog">
+<li><span class="speaker">A:</span> <strong>谁</strong> 告诉 你 <em>的</em> ？<span class="expl">Emphasizing "who"</span><span class="pinyin"><strong>Shéi</strong> gàosu nǐ <em>de</em>?</span><span class="trans">Who told you? </span></li>
+<li><span class="speaker">B:</span> <strong>一 个 同事</strong> 告诉 我 <em>的</em> 。<span class="expl">Emphasizing "a colleague"</span><span class="pinyin"><strong>Yī gè tóngshì</strong> gàosu wǒ <em>de</em>.</span><span class="trans">A colleague told me.</span></li>
+</ul>
+
+</div>
+
+You might be wondering, "can I still say the same thing without the 是 and the 的?" The answer is that in most cases, ''no, not really''. While the 是 can sometimes be dropped, these examples sound weird without the 的. It's just a part of learning to ask questions naturally in Mandarin. You don't have to learn a "past tense," but you do have to learn this way of asking for details about the past sooner or later.
+
+== Negative Form ==
+
+是⋯⋯的 sentences can only be negated with 不, as 没 can not be used to negate 是. Remember that you need ''both'' the 不 ''and'' the 是 together to make the correct negative form.
+
+Some examples:
+
+<div class="liju">
+
+<ul>
+<li class="o">他们 <em>不是</em> <strong>在 网上</strong> 认识 <em>的</em> 。<span class="pinyin">Tāmen <em>bù shì</em> <strong>zài wǎngshàng</strong> rènshi <em>de</em>.</span><span class="trans">They didn't meet online.</span></li>
+<li class="o">他 <em>不是</em> <strong>跟 我们 一起</strong> 去 <em>的</em> 。<span class="pinyin">Tā <em>bù shì</em> <strong>gēn wǒmen  yīqǐ</strong> qù <em>de</em>.</span><span class="trans">He didn't go with us.</span></li>
+<li class="x">我 <em>不</em> <strong>坐 地铁</strong> 来 <em>的</em> 。<span class="expl">The 是 is missing</span><span class="pinyin">Wǒ <em>bù</em> <strong>zuò dìtiě</strong> lái <em>de</em>.</span><span class="trans">I didn't come by metro.</span></li>
+<li class="x">我 <em>不</em> <strong>在 中国</strong> 出生 <em>的</em> 。<span class="expl">The 是 is missing</span><span class="pinyin">Wǒ <em>bù</em> <strong>zài Zhōngguó</strong> chūshēng <em>de</em>. </span><span class="trans">I wasn't born in China.</span></li>
+</ul>
+
+</div>
+
+Note that negating a 是⋯⋯的 construction creates the implication that the action in the sentence ''was'' carried out, and only the detail emphasized by 是⋯⋯的 is being denied. So, in the second sentence, the implication is that 他 didn't go with 我们, but ''did'' go out with ''someone''. So negative 是⋯⋯的 constructions would work nicely in the final scenes of detective dramas.
+
+== Used in a Question ==
+
+是⋯⋯的 constructions can be made into questions in the usual three ways to form questions in Chinese:
+
+* With a [[Interrogative Sentences#Question particles|question particle]]
+* Within [[affirmative-negative questions]]
+* With a [[Word order#Using question words in a Chinese sentence|question word]]
+
+Some examples:
+
+<div class="liju">
+
+*她 <strong>用 邮件</strong> 回复 <em>的</em> 吗 ？<span class="expl">吗 is a question particle</span><span class="pinyin">Tā <strong>yòng yóujiàn</strong> huífù <em>de</em> ma?</span><span class="trans">Did she reply by email?</span>
+*你们 <em>是 不 是</em> <strong>去年</strong> 认识 <em>的</em> ？<span class="expl">是不是 is an affirmative-negative pattern</span><span class="pinyin">Nǐmen <em>shì bu shì</em> <strong>qùnián</strong> rènshi <em>de</em>?</span><span class="trans">Did you meet each other last year?</span>
+*这个 东西 <strong>多少钱</strong> 买 <em>的</em> ？<span class="expl">多少 is a question word</span><span class="pinyin">Zhège dōngxi <strong>duōshao qián</strong> mǎi <em>de</em>?</span><span class="trans">How much did you buy this thing for?</span>
+
+</div>
+
+== Is 是 always optional? ==
+
+Generally, 是 can be omitted, and the meaning will not change. However, in a small number of cases, omitting 是 will make it unclear which part of the sentence is being emphasized. In these cases, 是 clearly indicates which words are being emphasized. Take a look at this example: 
+
+<div class="liju">
+
+* 你 上周 和 他 去 北京 <em>的</em> 吗 ？<span class="pinyin">Nǐ shàng zhōu hé tā qù Běijīng  <em>de</em> ma?</span><span class="trans">Did you go to Beijing with him last weekend?</span>
+
+</div>
+
+This sentence could emphasize 上周 (time), or 和他 (part of the subject). A simple 是 can make clear which one the speaker is emphasizing.
+
+<div class="liju">
+
+<ul>
+<li class="o">你 <em>是</em> <strong>上周</strong> 和 他 去 北京 <em>的</em> 吗 ？<span class="expl">上周 is emphasized</span><span class="pinyin"> Nǐ <em>shì</em> <strong>shàng zhōu</strong> hé tā qù Běijīng <em>de </em> ma?</span><span class="trans">Was it last week that you went to Beijing with him?</span></li>
+<li class="o">你 上周 <em>是</em> <strong>和他</strong> 去 北京 <em>的</em> 吗 ？<span class="expl">和他 is emphasized</span><span class="pinyin">Nǐ shàng zhōu <em>shì</em> <strong>hé tā</strong> qù Běijīng <em>de</em> ma?</span><span class="trans">Was it him that you went to Beijing with last week?</span></li>
+</ul>
+
+</div>
+
+== Position of 的 ==
+
+Until now we've said that the 的 appears at the end of the sentence in a 是⋯⋯的 construction. This is very often the case. However, it can actually appear in one of two places. Take a look at the examples below:
+
+<div class="liju">
+
+<ul>
+<li class="o">我们 <em>是</em> <strong>用 Skype</strong> 开 <strong>会</strong> <em>的</em> 。<span class="pinyin">Wǒmen <em>shì</em> <strong>yòng Skype</strong> kāi <strong>huì</strong> <em>de</em>.</span><span class="trans">We had a meeting by Skype.</span></li>
+<li class="o">我们 <em>是</em> <strong>用 Skype</strong> 开 <em>的</em> <strong>会</strong> 。<span class="pinyin">Wǒmen <em>shì</em> <strong>yòng Skype</strong> kāi <em>de</em> <strong>huì</strong>.</span><span class="trans">We had a meeting by Skype.</span></li>
+</ul>
+
+</div>
+
+As you can see, when the verb is followed by an object, 的 can go before ''or'' after the object. Both sentences are grammatically correct, but the first the sentence could be referring to either a specific event in the past or habitual actions.
+
+Take a look at these two sentences which remove the ambiguity by including a bit more information about the timeframe:
+
+<div class="liju">
+* <strong>那次</strong> 我们  <em>是</em> <strong>用 Skype</strong> 开 <strong>会</strong> <em>的</em> 。<span class="pinyin"> <strong>Nà cì</strong> wǒmen <em>shì</em> <strong>yòng Skype</strong> kāi <strong>huì</strong> <em>de</em>.</span><span class="trans">That time we had the meeting by Skype.</span>
+* 我们 <strong>平时</strong> <em>是</em> <strong>用 Skype</strong> 开 <strong>会</strong> <em>的</em> 。<span class="pinyin">Wǒmen <strong>píngshí</strong> <em>shì</em> <strong>yòng Skype</strong> kāi <strong>huì</strong> <em>de</em>.</span><span class="trans">We usually have meetings by Skype.</span>
+</div>
+
+For the most part, you should be fine regularly putting 的 at the end of your 是……的 sentences. Just be aware that there is some potential for ambiguity in certain situations. If you don't want to move 的 around, then including a bit of extra information about time can keep things clear.
+
+== Completed Action ==
+
+It's important to note that while the 是⋯⋯的 construction also indicates that an action has been completed, this is not the ''purpose'' of a 是⋯⋯的 construction. The completed action part is more like a ''prerequisite'' for using 是⋯⋯的. This means you shouldn't use 是⋯⋯的 just to indicate that an action is completed. Use the [[aspect particle 了]] for that. Instead, use 是⋯⋯的 to draw attention to certain details of a completed action.
+
+== See also ==
+
+*[[的 (modal particle)]]
+*[[Adding emphasis with "jiushi"]]
+*[[The "shi... de" patterns: an overview]]
+*[[The "shi... de" construction for indicating purpose]]
+
+== Sources and Further Reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|114}}
+{{Source|A Practical Chinese Grammar For Foreigners (外国人实用汉语语法)|577-9}}
+{{Source|Basic Patterns of Chinese Grammar|54-5}} 
+{{Source|Chinese: An Essential Grammar, Second Edition|46-7, 173-80}}
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级) |319-22}} 
+{{Source|Contemporary Chinese 2 (当代中文2)|46}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|119-121}} 
+{{Source|Integrated Chinese: Level 2, Part 1|14-6}}
+{{Source|Integrated Chinese: Level 2, Part 2|152-4}}
+{{Source|Mandarin Chinese: A Functional Reference Grammar|587-94}} 
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|233-5}} 
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2)|88-9, 153}} 
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4) |204-5}} 
+{{Source|Short-term Spoken Chinese: Threshold Vol. 2 (汉语口语入门篇下) |66-8}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课下册）|530}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|205}}
+
+=== Websites ===
+
+* University website: [http://www.ctcfl.ox.ac.uk/Lang%20work/Grammar%20database/grammar_database1.htm#The%20shi%20⋯⋯ %20de%20%20construction The shi... de  construction]
+
+[[Category:B1 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+[[Category:Structures]]
+{{Used for|Emphasizing}}
+{{Used for|Referring to the past}}
+{{Basic Grammar|是|B1|是⋯⋯ 的|你 <em>是</em> 怎么 来 <em>的</em>？|grammar point|ASGE662E}}
+{{Similar|The "shi... de" construction for indicating purpose}}
+{{Similar|The "shi... de" patterns: an overview}}
+{{Similar|的 (modal particle)}}
+{{Rel char|的}}
+{{Structure|Sentence Patterns}}

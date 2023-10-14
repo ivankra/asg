@@ -1,0 +1,99 @@
+<!-- Expressing "and also" with "hai" -->
+{{Grammar Box}} 
+
+In English we use "and also" when we want to connect separate and different thoughts. We can do the same thing in Chinese by using 还 (hái). 
+
+== Structure ==
+
+The adverb 还 (hái) can be used to link two phrases together, in a similar way to "and also" in English. In this case, 还 (hái) begins a new phrase or clause.
+
+<div class="jiegou">
+
+Subj. + Verb + Obj. 1， 还 + Verb + Obj. 2
+
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*她 有 一 个 弟弟，<em>还</em> 有 一 个 妹妹。<span class="pinyin">Tā yǒu yī gè dìdi, <em>hái</em> yǒu yī gè mèimei.</span><span class="trans">She has a younger brother and also has a younger sister.</span>
+*我 老板 会 说 法语，<em>还</em> 会 说 日语。<span class="pinyin">Wǒ lǎobǎn huì shuō Fǎyǔ, <em>hái</em> huì shuō Rìyǔ.</span><span class="trans">My boss can speak French and can also speak Japanese.</span>
+*你 要 一 杯 咖啡，<em>还</em> 要 什么？<span class="pinyin"> Nǐ yào yī bēi kāfēi, <em>hái</em> yào shénme?</span><span class="trans">You want a cup of coffee, and what else do you want?</span>
+*我 想 吃 冰淇淋，<em>还</em> 想 吃 汉堡。<span class="pinyin">Wǒ xiǎng chī bīngqílín, <em>hái</em> xiǎng chī hànbǎo.</span><span class="trans">I want to eat ice cream and I also want to eat a hamburger.  </span>
+*爸爸 有 一个 小米 手机，<em>还</em> 有 一个 iPhone。<span class="pinyin">Bàba yǒu yī gè Xiǎomǐ shǒujī, <em>hái</em> yǒu yī gè iPhone.</span><span class="trans">Dad has a Xiaomi phone and also has an iPhone.</span>
+*你 晚上 在家 做 了 作业，<em>还</em> 做 了 什么？<span class="pinyin">Nǐ wǎnshang zài jiā zuò le zuòyè, <em>hái</em> zuò le shénme? </span><span class="trans">You did your homework at home tonight, and what else did you do? </span>
+*他 结婚 的 时候，请 了 同事，<em>还</em> 请 了 谁？<span class="pinyin">Tā jiéhūn de shíhou, qǐng le tóngshì, <em>hái</em>  qǐng le shéi?</span><span class="trans">When he got married, he invited his co-workers. Who else did he invite?</span>
+*生日 的 时候，我们 会 吃 蛋糕，<em>还</em> 要 送 礼物。<span class="pinyin">Shēngrì de shíhou, wǒmen huì chī dàngāo, <em>hái</em> yào sòng lǐwù.</span><span class="trans">During a birthday, we eat cake and also give presents.</span>
+*去 美国 要 带 钱、护照，<em>还</em> 要 带 什么？<span class="pinyin">Qù Měiguó yào dài qián, hùzhào, <em>hái</em> yào dài shénme?</span><span class="trans">To go to the USA, you need to take money and a passport. What else do you need to take with you?</span>
+
+</div>
+
+== The Difference Between 还 (hái) and 也 (yě) ==
+
+It should be noted that another common way to express "also" is with the word 也 (yě).  What's the difference? With 还 (hái), ONE subject is doing TWO different things, whereas when [[The "also" adverb "ye"|也 (yě)]] is used, TWO subjects are doing ONE thing. 
+
+It's the difference between these two English sentences:
+
+* He fixed dinner '''and also''' washed the dishes.
+* She washed the dishes '''too'''.
+
+If you translated these into Chinese, the first one (one subject, two actions) would use 还 (hái), and the second one (second subject, no new actions) would use 也 (yě). Let's do that!
+
+<div class="liju">
+
+* 他 做 了 饭 ， <em>还</em> 洗 了 碗。<span class="pinyin">Tā zuò le fàn, <em>hái</em> xǐ le wǎn.</span><span class="trans">He fixed dinner and also washed the dishes.</span>
+* 她 <em>也</em> 洗 了 碗。<span class="pinyin">Tā <em>yě</em> xǐ le wǎn.</span><span class="trans">She washed the dishes too.</span>
+
+</div>
+
+How about a few more similar examples?
+
+<div class="liju">
+
+* 我 洗 了 澡， <em>还</em> 洗 了 衣服。<span class="pinyin">Wǒ xǐ le zǎo, <em>hái</em> xǐ le yīfu.</span><span class="trans"> I took a shower and also did my laundry.</span>
+* 她 <em>也</em> 洗 了 衣服。<span class="pinyin">Tā <em> yě</em> xǐ le yīfu.</span><span class="trans">She did her laundry too.</span>
+
+</div>
+
+<div class="liju">
+
+* 我们 今天 晚上 出去 吃饭 了，<em>还</em> 看 了 电影 。<span class="pinyin">Wǒmen jīntiān wǎnshang chūqù chīfàn le, <em>hái</em> kàn le diànyǐng.</span><span class="trans">We went out for dinner tonight and also watched a movie.</span>
+* 他们 今天 晚上 <em>也</em> 看 了 电影 。 <span class="pinyin">Tāmen jīntiān wǎnshang <em>yě</em> kàn le diànyǐng.</span><span class="trans">They watched a movie tonight too.</span>
+
+</div>
+
+== See Also ==
+
+*[[Continuation with "hai"]]
+*[["In addition" with "zaishuo"]]
+*[["In addition" as "lingwai"]]
+*[[Expressing "in addition" with "haiyou"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|87}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|251}}
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级)|198}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|73}} 
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+[[Category: Adverbs]]
+
+{{Basic Grammar|还|A2|还 + Verb|她 有 一个 弟弟，<em>还</em> 有 一个 妹妹。|grammar point|ASGJBZKC}}
+{{POS|Adverbs}}
+{{Used for|Giving alternatives}}
+{{Used for|Connecting ideas}}
+{{Similar|The "also" adverb "ye"}}
+{{Similar|Continuation with "hai"}}
+{{Similar|Moderating positive adjectives with "hai"}}
+{{Similar|Expressing "not only… but also"}}
+{{Similar|Expressing "except" and "in addition" with "chule… yiwai"}}
+{{Similar|Expressing "in addition" with "haiyou"}}
+{{Similar|"Using "budan... geng" to express "not only... but also"}}
+{{Similar|Advanced uses of "hai"}}
+{{Translation|and}}
+{{Translation|also}}

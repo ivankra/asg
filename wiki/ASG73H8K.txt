@@ -1,0 +1,84 @@
+<!-- Comparing "budebu" and "zhihao" -->
+{{Grammar Box}} 
+{{stub}}
+
+The differences between 不得不 (bùdébù) and 只好 (zhǐhǎo) are: 只好 means there is no better choice, 不得不 means there is no other choice.<ref>http://lib.cqvip.com/qk/80610X/200906/32419287.html</ref>
+
+== 不得不 and 只好 use the same structure ==
+
+They both indicate that there are no other choices available. In other words, something unwanted has to be done. They both use the same grammar pattern: just place either 不得不 or 只好 before the verb.
+
+=== Structure ===
+
+<div class="jiegou">
+
+不得不 / 只好 + Verb
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 出门 没有 带 钱，<em>不得不</em> 向 朋友 借。
+* 很 喜欢 那件 衣服，可是 没 带 够 钱，<em>只好</em> 不 买 了。
+
+</div>
+
+== Comparing meanings ==
+
+不得不 has a stronger tone than 只好. It is the same as 不得已 or 无可奈何, meaning "someone cannot help but do something."
+
+===Examples===
+
+<div class="liju">
+
+* 刚 下 飞机，还 没 找到 宾馆，行李 <em>不得不</em> 寄存 在 朋友 那。
+* 刚 下 飞机，还 没 找到 宾馆，行李 <em>只好</em> 寄存 在 朋友 那。
+
+</div>
+
+In the first example above, the person has no other choice but to leave the the luggage at the friend's house. In the second example, the person decides that the best option is the leaving it at the friend's house. (perhaps it's a better option than renting a storage unit, leaving it at the airport etc.)
+
+One other thing, 不得不 can only be followed by a positive phrase (meaning a phrase that ''does not'' contain 不 or 没), 只好 can be followed either by a positive or negative phrase (it can have a 不 or 没).
+
+===Examples===
+
+<div class="liju">
+
+* 迫于 生计，他 <em>不得不</em> 到 大城市 去 打工。
+* 没有 他的 帮忙，我 <em>只好</em> 靠 自己 了。
+* 外面 下 大雨 了，我 <em>只好</em> 不 出去 了。
+
+</div>
+
+== Commonly used expressions with 不得不 ==
+
+===Examples===
+
+<div class="liju">
+
+* <em>不得不</em> 承认
+* <em>不得不</em> 放弃
+* <em>不得不</em> 离开
+* <em>不得不</em> 接受
+* <em>不得不</em> 忍受
+
+</div>
+
+
+== References == 
+
+<references/>
+
+== Sources and further reading ==
+
+===Books===
+* [[Short-term Spoken Chinese: Elementary (汉语口语速成基础篇)]](P.211) [http://www.amazon.com/gp/product/B00326U9MS/ref%3das_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=B00326U9MS →buy] 
+* [[Practicing HSK Grammar (语法精讲精炼)]](P.44) [http://www.amazon.cn/mn/detailApp/ref=as_li_ss_tl?_encoding=UTF8&tag=allset-23&linkCode=as2&asin=B001N6R7DI&camp=536&creative=3132&creativeASIN=B001N6R7DI →buy]
+
+
+[[Category:grammar comparison]]
+{{Basic Grammar|不得不|C1|不得不 vs 只好|刚 下 飞机，还 没 找到 宾馆，行李 <em>不得不/只好</em> 寄存 在 朋友 那。|grammar point|ASG73H8K}}
+{{Rel char|只好}}
+{{Comparison|Adverbs}}

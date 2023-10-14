@@ -1,0 +1,64 @@
+<!-- Advanced "le" with complements -->
+{{Grammar Box}} 
+You may have learned that 了 (le) follows immediately after a verb to indicate completion (AKA [[了1]]), and comes at the end of a sentence when it indicates a "[[Change of state with "le"|change of state]]" (AKA [[了2]]). But what about when a complement comes after the verb? Does that count as part of the verb or not? The answer, as it often is with 了, is "it's complicated."
+
+== Two Possible Structures ==
+
+Both of these structures are possible, but the second one has fewer acceptable use cases.
+
+<div class="jiegou">
+Subj. + Verb + Complement + 了
+</div>
+
+<div class="jiegou">
+Subj. + Verb + 了 + Complement
+</div>
+
+The former is more common in informal speech, while the latter is more common in written language and is only used with certain types of complements.
+
+== 了 After the Complement ==
+
+This is fine for most verb-complement structures. No real limits here.
+
+Some examples：
+
+<div class="liju">
+
+*买 <strong>到</strong> <em>了</em> 。<span class="pinyin">Mǎi <strong> dào </strong><em>le</em>.</span><span class="trans">Purchased/bought.</span>
+*做 <strong>起来</strong> <em>了</em> 。<span class="pinyin">Zuò<strong> qǐlái </strong><em> le</em>.</span><span class="trans">Produced/made.</span>
+*吃 <strong>完</strong> <em>了</em> 。<span class="pinyin">Chī <strong> wán </strong> <em> le </em >.</span><span class="trans">Finished eating.</span>
+*周杰伦 演唱会 的 门票 卖 <strong>光</strong> <em>了</em> 。<span class="pinyin">Zhōu Jiélún yǎnchànghuì de ménpiào mài <strong> guāng </strong> <em> le </em>.</span><span class="trans">Jay Chou's concert tickets are sold out.</span>
+*包里 装 <strong>满</strong> <em>了</em> 书 。<span class="pinyin">Bāo li zhuāng <strong> mǎn </strong> <em> le </em> shū.</span><span class="trans">The book has been wrapped.</span>
+*我 今天 睡 了 十 个 小时，睡 <strong>够</strong> <em>了</em> 。<span class="pinyin">Wǒ jīntiān shuì le shí gè xiǎoshí, shuì <strong> gòu </strong> <em> le </em>.</span><span class="trans">Today I slept for ten hours. It was definitely enough sleep.</span>
+*我 第一次 听到 这 首 歌，就 爱 <strong>上</strong> <em>了</em>这 首 歌 。<span class="pinyin">Wǒ dì-yī cì tīngdào zhè shǒu gē, jiù ài <strong> shàng </strong> <em> le </em > zhè shǒu gē.</span><span class="trans">The first time I heard this song, it hurt me.</span>
+*我们 打 <strong>赢</strong> <em>了</em> 比赛 。<span class="pinyin">Wǒmen dǎ <strong> yíng </strong> <em> le </em > bǐsài.</span><span class="trans">We won the competition.</span>
+</div>
+
+== 了 After a Verb with a Complement ==
+
+While you do NOT do this with [[result complement]]s (e.g. 完, 好, etc.), it is a very common structure with [[direction complement]]s in written Chinese.
+
+Some examples：
+
+<div class="liju">
+
+*站 <em>了</em> <strong>起来</strong><span class="pinyin">Zhàn <em> le </em> <strong> qǐlái </strong >.</span><span class="trans">stood up</span>
+*走 <em>了</em> <strong>上去</strong><span class="pinyin">Zǒu <em> le </em> <strong> shàngqù </strong>.</span><span class="trans">walked upward to</span>
+*吃 <em>了</em> <strong>起来</strong><span class="pinyin">Chī <em> le </em> <strong> qǐlái </strong>.</span><span class="trans">started eating</span>
+*跑 <em>了</em> <strong>过来</strong><span class="pinyin">Pǎo <em> le </em> <strong> guòlái </strong>.</span><span class="trans">ran over here</span>
+*聊 <em>了</em> <strong>下去</strong><span class="pinyin">Liáo <em> le </em> <strong> xiàqù </strong>.</span><span class="trans">chatted on</span>
+*我 看到 一 个 人 游 <em>了</em> <strong>过去</strong> 。<span class="pinyin">Wǒ kāndào yī gè rén yóu <em> le </em > <strong>guòqù</strong>.</span><span class="trans">I saw someone swim over there.</span>
+*我 已经 把 行李 拿 <em>了</em> <strong>上来</strong> 。<span class="pinyin">Wǒ yǐjīng bǎ xíngli ná <em> le </em> <strong>shànglái</strong>.<span class="trans">I've already brought my luggage up.</span>
+*我 把 桃子 摘 <em>了</em> <strong>下来</strong> 。<span class="pinyin">Wǒ bǎ táozi zhāi <em>le</em> <strong>xiàlái</strong >.</span><span class="trans">I picked the peach (and pulled it down).</span>
+*小妹 看到 妈妈 不 在 家，哭 <em>了</em> <strong>起来</strong> 。<span class="pinyin">Xiǎomèi kāndào māma bù zài jiā, kū <em> le </em> <strong> qǐlái </strong >.</span><span class="trans">Xiao Mei started crying when she saw her mother wasn't home.</span>
+*我 把 整 杯 水 都 喝 <em>了</em> <strong>下去</strong> 。<span class="pinyin">Wǒ bǎ zhěng bēi shuǐ dōu hē <em>le</em> <strong>xiàqù</strong>.</span><span class="trans">I drank down a whole cup of water.</span>
+</div>
+
+[[Category:B2 grammar points]]
+{{Basic Grammar|了|B2|Subj. + Verb + 了 + Complement|走 <em>了</em> 上去 。|grammar point|ASG890CA}}
+{{Similar|Expressing completion with "le"}}
+{{Similar|Advanced "le" after an object}}
+{{Used for|Expressing completion}}
+{{Used for|Describing actions}}
+{{Used for|Referring to the past}}
+{{POS|Particles}}

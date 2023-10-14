@@ -1,0 +1,61 @@
+<!-- Expressing "in addition" with "zaishuo" -->
+{{Grammar Box}} 
+
+再说 (zàishuō) is used in a similar way as "in addition" or "moreover" in that it adds supporting information or reasons to the topic at hand.
+
+== Structure ==
+
+Just add 再说 to the beginning of the second clause of your sentence. Remember that the parts of the sentence before and after 再说 should be logically related to each other.
+
+Note that 也 is often used in the second clause.
+
+<div class="jiegou">
+⋯⋯ ，再说 ，⋯⋯ 
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*这么 晚 ，别 走 了。<em>再说</em> ，外面 正在 下雪 。<span class="pinyin">Zhème wǎn, bié zǒu le. <em>Zàishuō</em>, wàimiàn zhèngzài xiàxuě.</span><span class="trans">It's so late. Stay. Besides, it's snowing outside.</span>
+*他 喜欢 ，就 让 他 去 吧 。<em>再说</em> ，他 在 家 <strong>也</strong> 没 事 干 。<span class="pinyin">Tā xǐhuan, jiù ràng tā qù ba. <em>Zàishuō</em>, tā zài jiā <strong>yě</strong> méi shì gàn.</span><span class="trans">He likes it. Just let him go. Besides, he's got nothing to do at home.</span>
+*那 件 衣服 太 贵 了 ，我 没 买 。<em>再说</em> ，我 <strong>也</strong> 不是 很 喜欢 。<span class="pinyin">Nà jiàn yīfu tài guì le, wǒ méi mǎi. <em>Zàishuō</em>, wǒ <strong>yě</strong> bù shì hěn xǐhuan.</span><span class="trans">That piece of clothing is too expensive. I didn't buy it. Besides, I didn't like it so much.</span>
+*对不起 ，我 没 时间 。<em>再说</em> ，我 <strong>也</strong> 没 兴趣 。<span class="pinyin">Duìbuqǐ, wǒ méi shíjiān. <em>Zàishuō</em>, wǒ <strong>yě</strong> méi xìngqù.</span><span class="trans">Sorry, I don't have time for this. Besides, I'm not interested.</span>
+*别 吃 了 ，你 已经 吃 了 五 个 了 。<em>再说</em> ，我们 还 没 吃 呢 。<span class="pinyin">Bié chī le, nǐ yǐjīng chī le wǔ gè le. <em>Zàishuō</em>, wǒmen hái méi chī ne.</span><span class="trans">Stop eating. You've already eaten five. Besides, the rest of us haven't eaten yet.</span>
+*住 我 家 吧 ，可以 省 点 钱 。<em>再说</em> ，孩子 们 <strong>也</strong> 可以 一起 玩 。<span class="pinyin">Zhù wǒ jiā ba,  kěyǐ shěng diǎn qián. <em>Zàishuō</em>, háizi men <strong>yě</strong> kěyǐ yīqǐ wán.</span><span class="trans">Stay with me. You can save some money. Besides, the kids can play together.</span>
+*我 不 想 干 了 。 天天 加班 ，<em>再说</em> ，我 在 这儿 <strong>也</strong> 没有 未来 。<span class="pinyin">Wǒ bù xiǎng gàn le. Tiāntiān jiābān, <em>zàishuō</em>, wǒ zài zhèr <strong>yě</strong> méiyǒu wèilái.</span><span class="trans">I don't want to do this anymore. I work overtime every day. Besides, I don't even have a future here.</span>
+*明天 去 买 吧 ，今天 太 累 了 。<em>再说</em> ，超市 <strong>也</strong> 快 关门 了 。<span class="pinyin">Míngtiān qù mǎi ba, jīntiān tài lèi le. <em>Zàishuō</em>, chāoshì <strong>yě</strong> kuài guānmén le.</span><span class="trans">Let's go and buy it tomorrow. I'm too tired today. Besides, the supermarket is about to close.</span>
+*别 怪 他 。不 是 他 的 错 。<em>再说</em> ，这 <strong>也</strong> 不 是 什么 大 事 。<span class="pinyin">Bié guài tā. Bù shì tā de cuò. <em>Zàishuō</em>, zhè <strong>yě</strong> bù shì shénme dà shì.</span><span class="trans">Don't blame him. It's not his fault. Besides, it's not even a big deal.</span>
+*这个 项目 的 风险 太 大 了 。<em>再说</em> ，现在 很 难 找到 投资 。<span class="pinyin">Zhège xiàngmù de fēngxiǎn tài dà le. <em>Zàishuō</em>, xiànzài hěn nán zhǎodào tóuzī.</span><span class="trans">This project is too risky. Besides, it's very hard to find investment now.</span>
+
+</div>
+
+== See also ==
+
+*[["In addition" as "lingwai"]]
+*[[Expressing "in addition" with "haiyou"]]
+*[[Expressing "not only… but also"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|56}}
+{{Source|Common Chinese Patterns 330 (汉语常用格式330例) |297}} 
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|154-5}}
+{{Source|Integrated Chinese: Level 2, Part 1|17-8}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|252}} 
+
+[[Category:B1 grammar points]]
+{{HSK|HSK4}}
+[[Category:Connectors]]
+
+{{Basic Grammar|再说|B1|⋯⋯ ，再说 ，⋯⋯ |这么 晚 ，别 走 了 。<em>再说</em> ，外面 还 在 下雨 。|grammar point|ASGATDLX}}
+{{Rel char|再}}
+{{Similar|Expressing "not only… but also"}}
+{{Similar|Expressing "In Addition" with "haiyou"}}
+{{Similar|"In Addition" as "lingwai"}}
+{{POS|Conjunctions}}
+{{Used for|Connecting ideas}}
+{{Used for|Adding more explanation}}
+{{Translation|and}}

@@ -1,0 +1,81 @@
+<!-- Expressing "will" with "hui" -->
+{{Grammar Box}} 
+
+会 (huì) has multiple uses, but in this context, it is being used to express the possibility of an action happening in the future. 
+
+== Basic Usage ==
+
+=== Structure ===
+
+As well as [[Expressing a learned skill with "hui"|expressing a learned skill]], 会 (huì) can also be used to indicate that something ''will'' happen or that someone ''will'' do something.
+
+<div class="jiegou">
+
+Subj. + 会 + Verb + Obj.
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 明天 你 <em>会</em> 来 吗 ？ <span class="pinyin">Míngtiān nǐ <em>huì</em> lái ma?</span><span class="trans">Will you come tomorrow?</span>
+* 他 <em>会</em> 来 看 你 吗？ <span class="pinyin">Tā <em>huì</em> lái kàn nǐ ma?</span><span class="trans">Will he come to see you?</span>
+* 明天 <em>会</em> 下雨 吗？ <span class="pinyin">Míngtiān <em>huì</em> xiàyǔ ma?</span><span class="trans">Will it rain tomorrow?</span>
+* 我 出去 一下，很 快 <em>会</em> 回来。 <span class="pinyin">Wǒ chūqù yīxià, hěnkuài <em>huì</em> huílái.</span><span class="trans">I'm going out for a little while. I'll come back very soon.</span>
+* 老板 <em>会</em> 同意 吗？<span class="pinyin">Lǎobǎn <em>huì</em>  tóngyì ma?</span><span class="trans">Will the boss agree?</span>
+* 你 女儿 <em>会</em> 听 你 的 话。<span class="pinyin">Nǐ nǚér <em>huì</em> tīng nǐ de huà.</span><span class="trans">Your daughter will listen to you.</span>
+* 下班 以后 ， 我 <em>会</em> 给 你 打 电话。 <span class="pinyin">Xiàbān yǐhòu, wǒ <em>huì</em> gěi nǐ dǎ diànhuà.</span><span class="trans">After getting off work, I will give you a call.</span>
+
+</div>
+
+== Negating 会 (huì) with 不 (bù) ==
+
+Nothing new here. You remember everyone's favorite [[Standard negation with "bu"|Negative Nelly 不 (bù)]], right?
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 不 + 会 + Verb + Obj.
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 我们  <em>不 会</em> 告诉 你。 <span class="pinyin">Wǒmen <em>bù huì</em> gàosu nǐ.</span><span class="trans">We won't tell you.</span>
+* 他 <em>不 会</em> 跟 你 结婚 。 <span class="pinyin">Tā <em>bù huì</em> gēn nǐ jiéhūn.</span><span class="trans">He won't marry you.</span>
+* 今晚 我 <em>不 会</em> 在 外面 吃饭 。 <span class="pinyin">Jīnwǎn wǒ <em>bù huì</em> zài wàimiàn chīfàn.</span><span class="trans">Tonight I will not eat out.</span>
+
+</div>
+
+== See also ==
+
+*[[Wanting to do something with yao]]
+*[[Expressing future with "jiang"]] (advanced article)
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|93}}
+{{Source|HSK Standard Course 3|24}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|9}}
+{{Source|Practicing HSK Grammar (语法精讲精炼)|142－143}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)|160}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+<!-- HSK3 tag removed because it's a 100% repeat -->
+{{Used for|Expressing ability}}
+{{Used for|Referring to the future}}
+{{Used for|Sequencing events in time}}
+{{Basic Grammar|会|A2|会 + Verb|明天 你 <em>会</em> 来 吗？|grammar point|ASGW9737}}
+{{Similar|Wanting to do something with yao}} 
+{{Similar|Expressing Future with "jiang"}}
+{{Similar|Expressing a learned skill}}
+{{Similar|The use of Taiwanese Mandarin "hui"}}
+{{Similar|Expressing "inevitably" with "shibi"}}
+{{POS|Verbs}}
+{{Subprop|Auxiliary verbs}}
+{{Translation|will}}

@@ -1,0 +1,82 @@
+<!-- Expressing "only if" with "zhiyou" -->
+{{Grammar Box}} 
+只有 (zhǐyǒu) means "only if," and is used with 才 (cái) to emphasize that ''only one'' course of action will bring about the desired outcome.
+
+== Full Pattern with 只有 and 才 ==
+
+=== Structure ===
+
+<div class="jiegou">
+只有 + Essential Condition + 才 (能) + Desired Outcome
+</div>
+
+Note that 才 is often followed by 能, but not always. This pattern is usually used for hypothetical situations, and is used what is in logic called a "[https://en.wikipedia.org/wiki/Necessity_and_sufficiency necessary and sufficient condition]," meaning "if and only if...."
+
+=== Examples ===
+
+<div class="liju">
+
+* <em>只有</em> 努力 <em>才</em> 能 做 好 工作。<span class="pinyin"><em>Zhǐyǒu</em> nǔlì <em>cái</em> néng zuò hǎo gōngzuò.</span><span class="trans">Only if you work hard is it possible to do a good job.</span>
+* <em>只有</em> 多 吃饭 <em>才</em> 能 长高。<span class="pinyin"><em>Zhǐyǒu</em> duō chīfàn <em>cái</em> néng zhǎng gāo.</span><span class="trans">Only if you eat more will you be able to grow tall.</span>
+* <em>只有</em> 多 说，你的 中文 <em>才</em> 会 提高。<span class="pinyin"><em>Zhǐyǒu</em> duō shuō, nǐ de Zhōngwén <em>cái</em> huì tígāo.</span><span class="trans">Only if you speak more will your Chinese improve.</span>
+* <em>只有</em> 大家 一起 做 <em>才</em> 能 成功。<span class="pinyin"><em>Zhǐyǒu</em> dàjiā yīqǐ zuò <em>cái</em> néng chénggōng.</span><span class="trans">Only if everyone works together can we succeed.</span>
+* <em>只有</em> 写 完 你的 作业 <em>才</em> 能 看 电视。<span class="pinyin"><em>Zhǐyǒu</em> xiě wán nǐ de zuòyè <em>cái</em> néng kàn diànshì.</span><span class="trans">Only if you finish your homework can you watch TV.</span>
+* <em>只有</em> 妈妈 在 我们 <em>才</em> 能 出去 玩。 <span class="pinyin"><em>Zhǐyǒu</em> māma zài wǒmen <em>cái</em> néng chūqù wán.</span><span class="trans">Only if Mom is here can we go out and play.</span>
+* <em>只有</em> 每天 跑步，你的 身体 <em>才</em> 会 健康。<span class="pinyin"><em>Zhǐyǒu</em> měi tiān pǎobù, nǐ de shēntǐ <em>cái</em> huì jiànkāng.</span><span class="trans">Only if you go running every day can you have a healthy body.</span>
+* <em>只有</em> 老板 同意 这个 建议，我们 <em>才</em> 能 做。<span class="pinyin"><em>Zhǐyǒu</em> lǎobǎn tóngyì zhège jiànyì, wǒmen <em>cái</em> néng zuò.</span><span class="trans">We can only do this if the boss agrees with the suggestion.</span>
+* <em>只有</em> 你 吃 过 了，你 <em>才</em> 能 说 好 不 好吃。<span class="pinyin"><em>Zhǐyǒu</em> nǐ chī guò le, nǐ <em>cái</em> néng shuō hǎo bu hǎochī.</span><span class="trans">You can only tell if it's good or not if you have eaten it before.</span>
+* <em>只有</em> 学习 了 拼音，你 <em>才</em> 能 更 好 地 学 汉字。<span class="pinyin"><em>Zhǐyǒu</em> xuéxí le pīnyīn, nǐ <em>cái</em> néng gèng hǎo de xué hànzì.</span><span class="trans">Only if you have learned pinyin can you learn Chinese characters better.</span>
+</div>
+
+Note that for each of these examples, events have ''not'' already occurred. If they have, consider using the [[Expressing "only after" with "cai"|"only after" 才 pattern]] which doesn't use 只有.
+
+== Short Form with 才 Only ==
+
+This is one of the simpler [[才]] patterns, providing a way to emphasize that it's ''THIS'' one (''not'' THAT one). There's no "only if" here, but the 只有 is still implied in Chinese (meaning "it is only"). While this pattern has many uses, one of the most common (and most childish) is as a not-so-witty comeback, in the form of, "no, ''YOU'' are!"
+
+=== Structure ===
+
+<div class="jiegou">
+Noun + 才 + Verb Phrase⋯⋯ 
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*你 <em>才 是</em> 笨蛋 ！<span class="pinyin">Nǐ <em>cái shì</em> bèndàn!</span><span class="trans">YOU're the idiot!</span>
+* 在 某些 西方 国家 里 ， 白人 <em>才 是</em> 真正 的 西方人 。 我 不 同意 。 <span class="pinyin">Zài mǒuxiē xīfāng guójiā lǐ, báirén <em> cái shì </em> zhēnzhèng de xīfāngrén. Wǒ bù tóngyì.</span><span class="trans">In some western countries, it's only white people that are the "real" westerners. I don't agree.</span>
+</div>
+
+==See also==
+*[["As long as" with "zhiyao"]]
+*[["If…, then…" with "ruguo…, jiu…"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|172}}
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4) |42}}
+{{Source|卓越汉语－公司实战篇|113}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课下册）|516}}
+
+===Websites===
+
+* Yale Chinese Usage Dictionary [http://comet.cls.yale.edu/chineseusagedictionary/0127.html 只 and 只有]
+* Wikipedia: [https://en.wikipedia.org/wiki/Necessity_and_sufficiency Necessity and sufficiency]
+
+[[Category: B2 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|只有|B2|只有⋯⋯，才⋯⋯|<em>只有</em> 你 帮忙 ， 我 <em>才</em> 能 完成 任务 。|grammar point|ASGJDV3Y}}
+{{Rel char|只}}
+{{Rel char|才}}
+{{Similar|Expressing "only when" with "cai"}}
+{{Similar|"As long as" with "zhiyao"}}
+{{Similar|"If…, then…" with "ruguo…, jiu…"}}
+{{Similar|The "if" sandwich pattern}}
+{{Used for|Indicating cause and effect}}
+{{Used for|Indicating conditions}}
+{{Structure|Conditional Statements}}
+{{Translation|if}}
+{{Translation|only}}
+{{Translation|only if}}

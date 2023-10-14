@@ -1,0 +1,48 @@
+<!-- Expressing "once...then..." with "yidan...jiu..." -->
+{{Grammar Box}} 
+
+一旦 (yīdàn) is used to express what would happen after a certain condition is met. Usually it is used with 就. This grammar pattern expresses that "once" one thing happens, "then" something else will happen.
+
+== Structure ==
+
+This structure is similar to the English "once... then," as in "once I get my hands on you, you'll wish you'd never been born." 
+
+<div class="jiegou">
+一旦 + Condition，Subj. + 就 + Consequence 
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+* <em>一旦</em> 发生 事故，你 要 负责！<span class="pinyin"><em>Yīdàn</em> fāshēng shìgù, nǐ yào fùzé!</span><span class="trans">In case of an accident, you're responsible!</span>
+* 有些 人 <em>一旦</em> 有 了 钱，<em>就</em> 变了。<span class="pinyin">Yǒuxiē rén <em>yīdàn</em> yǒu le qián, <em>jiù</em> biàn le.</span><span class="trans">Some people change as soon as they have money.</span>
+* <em>一旦</em> 你 的 公司 上市，你 <em>就</em> 可以 变成 有钱人。<span class="pinyin"><em>Yīdàn</em> nǐ de gōngsī shàngshì, nǐ <em>jiù</em> kěyǐ biànchéng yǒuqiánrén.</span><span class="trans">Once your company goes public, you'll be a rich man.</span>
+* 这 张 桌子 不 稳定，<em>一旦</em> 发生 什么 小小的 振动，<em>就</em> 会 倒塌。<span class="pinyin">Zhè zhāng zhuōzi bù wěndìng, <em>yīdàn</em> fāshēng shénme xiǎoxiǎo de zhèndòng, <em>jiù</em> huì dǎotā.</span><span class="trans">This table isn't very stable. If there's even a small vibration, it will fall over.</span>
+* 学习 计算机 科学 的 学生 很 自信，他们 <em>一旦</em> 毕业，<em>就</em> 会 找到 很 好 的 工作。<span class="pinyin">Xuéxí jìsuànjī kēxué de xuéshēng hěn zìxìn, tāmen <em>yīdàn</em> bìyè, <em>jiù</em> huì zhǎodào hěn hǎo de gōngzuò.</span><span class="trans">Computer science students are very confident. Once they graduate, they will be able to find good jobs.</span>
+* 千万 不 要 在 经济 泡沫 中 炒股，<em>一旦</em> 市场 崩溃，你 会 很 后悔 的！<span class="pinyin">Qiānwàn bùyào zài jīngjì pàomò zhōng chǎogǔ, <em>yīdàn</em> shìchǎng bēngkuì, nǐ huì hěn hòuhuǐ de!</span><span class="trans">You absolutely must not trade stocks in an economic bubble. Once the market collapses, you will regret it!</span>
+* <em>一旦</em> 做出 决定，<em>就</em> 没有 借口，只有 认真 去 做。<span class="pinyin"><em>Yīdàn</em> zuòchū juédìng, <em>jiù</em> méiyǒu jièkǒu, zhǐyǒu rènzhēn qù zuò.</span><span class="trans">Once a decision is made, there are no more excuses, and all you can do is take it seriously and do it.</span>
+* 人 <em>一旦</em> 在 一个 很 舒服 的 环境 中，<em>就</em> 不想 继续 努力 了。<span class="pinyin">Rén <em>yīdàn</em> zài yī gè hěn shūfu de huánjìng zhōng, <em>jiù</em> bù xiǎng jìxù nǔlì le.</span><span class="trans">Once you're in a comfortable environment, you don't want to keep trying.</span>
+* <em>一旦</em> 提高 价格，你 会 失去 很多 客户的。<span class="pinyin"><em>Yīdàn</em> tígāo jiàgé, nǐ huì shīqù hěn duō kèhù de.</span><span class="trans">If you raise your prices, you will lose a lot of customers.</span>
+* 这种 病 很 复杂，<em>一旦</em> 染上，很 难 治好。<span class="pinyin">Zhè zhǒng bìng hěn fùzá, <em>yīdàn</em> rǎnshàng, hěn nán zhì hǎo.</span><span class="trans">This disease is very complicated and once you've contracted it, it's hard to cure.</span>
+
+</div>
+
+Notice that in a few of the examples there is no 就. Sometimes you can leave out the 就 and the context that the result will happen is pretty clear.
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|83}} 
+{{Source|Common Chinese Patterns 330 (汉语常用格式330例)|262}} 
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|一旦|B2|一旦⋯⋯，就⋯⋯|<em>一旦</em> 我 找 好 的 工作，我 就 会 安心。|grammar point|ASGU3ZV1}}
+{{Rel char|就}}
+{{Similar|"Only if" with "zhiyou"}}
+{{Similar|"If…, then…" with "ruguo…, jiu…"}}
+{{Similar|Events in quick succession with "yi... jiu"}}
+{{Used for|Indicating cause and effect}}
+{{Used for|Indicating conditions}}
+{{Structure|Conditional Statements}}

@@ -1,0 +1,96 @@
+<!-- Expressing "in the end" with "jiujing" -->
+{{Grammar Box}} 
+
+When someone asks you "what on earth are you doing?," "究竟 (jiūjìng)" is used by the speaker to intensify the question. In this case, 究竟 is similar to [[Expressing "In the End" with "daodi"|到底]], but a bit more formal.
+
+== Using 究竟 in Questions ==
+
+=== Using 究竟 in Targeted Questions===
+
+These questions are aimed at finding out a specific piece of info, such as a name or time.
+
+==== Structure ====
+
+<div class="jiegou">
+
+究竟 + Question Word
+
+</div>
+
+==== Examples ====
+
+<div class="liju">   
+
+*这 个 人 <em>究竟</em> 是 谁？<span class="pinyin">Zhège rén <em>jiūjìng</em> shì shéi?</span><span class="trans">Who on earth is this guy?</span>
+*你 <em>究竟</em> 是 做 什么 的？<span class="pinyin">Nǐ <em>jiūjìng</em> shì zuò shénme de?</span><span class="trans">What exactly is it that you do?</span>
+*他们 <em>究竟</em> 什么 时候 到？<span class="pinyin">Tāmen <em>jiūjìng</em> shénme shíhou dào?</span><span class="trans">When exactly are they arriving?</span>
+*我们 <em>究竟</em> 还 要 等 多久？<span class="pinyin">Wǒmen <em>jiūjìng</em> hái yào děng duōjiǔ?</span><span class="trans">How much longer do we still need to wait?</span>
+*你们 <em>究竟</em> 想 让 我 怎么 做？<span class="pinyin">Nǐmen <em>jiūjìng</em> xiǎng ràng wǒ zěnme zuò?</span><span class="trans">What on earth do you want me to do?</span>	
+
+</div>
+
+=== Using 究竟 in Yes/No Questions ===
+
+==== Structure ====
+
+<div class="jiegou">
+
+究竟 ＋ Verb ＋ 没 / 不 ＋ Verb
+
+</div>
+
+==== Examples ====
+
+<div class="liju">   
+
+*你 <em>究竟</em> 来 不 来？<span class="pinyin">Nǐ <em>jiūjìng</em> lái bu lái?</span><span class="trans">Are you coming or not?</span>
+*你们 <em>究竟</em>  能 不 能 帮 我？<span class="pinyin">Nǐmen <em>jiūjìng</em> néng bu néng bāng wǒ?</span><span class="trans">Can you guys help me or not?</span>
+*她 <em>究竟</em> 是 不 是 你 女朋友？<span class="pinyin">Tā <em>jiūjìng</em> shì bu shì nǐ nǚpéngyou?</span><span class="trans">So, is she your girlfriend or not?</span>
+*你 <em>究竟</em> 喜 不 喜欢 我？<span class="pinyin">Nǐ <em>jiūjìng</em> xǐ bu xǐhuan wǒ?</span><span class="trans">So, do you like me or not?</span>
+*经理 <em>究竟</em> 同 不 同意？<span class="pinyin">Jīnglǐ <em>jiūjìng</em> tóng bu tóngyì?</span><span class="trans">Did the manager agree or not?</span>
+
+</div>
+
+== Using 究竟 in Affirmative Sentences ==
+
+究竟 can also be used with 是 for an emphasis of a fact, which is similar to [[Expressing "after all" with "bijing"|毕竟]], meaning "after all." 
+ 
+=== Structure ===
+
+<div class="jiegou">
+
+Fact ＋ 究竟 + 是 ＋ Fact，……
+
+</div>
+
+=== Examples === 
+
+<div class="liju">   
+
+*孩子 <em>究竟</em> 是 孩子，总是 想 着 怎么 玩。<span class="pinyin">Háizi <em>jiūjìng</em> shì háizi, zǒng shì xiǎng zhe zěnme wán.</span><span class="trans">Kids are kids after all, always thinking about how to have fun.</span>	
+*上海 <em>究竟</em> 是 上海，生活 成本 就是 高。<span class="pinyin">Shànghǎi <em>jiūjìng</em> shì Shànghǎi, shēnghuó chéngběn jiùshì gāo.</span><span class="trans">Shanghai is Shanghai after all. The living expenses here are just high.</span>
+*年轻 人 <em>究竟</em> 是 年轻 人，精力 真 好。<span class="pinyin">Niánqīng rén <em>jiūjìng</em> shì niánqīng rén, jīnglì zhēn hǎo.</span><span class="trans">Young people are young, after all. They are so full of energy.</span>	
+*生意人 <em>究竟</em> 是 生意人，对 他们 来说，赚钱 是 最 重要 的 。<span class="pinyin">Shēngyìrén <em>jiūjìng</em> shì shēngyìrén, duì tāmen lái shuō, zhuànqián shì zuì zhòngyào de.</span><span class="trans">Businessmen are businessmen, after all. The most important thing to them is making money.</span>	
+*家人 <em>究竟</em> 是 家人，也许 你 不 喜欢 他们，但 你 还是 会 爱 他们。<span class="pinyin">Jiārén <em>jiūjìng</em> shì jiārén, yěxǔ nǐ bù xǐhuan tāmen, dàn nǐ háishì huì ài tāmen.</span><span class="trans">Family is family, after all. You may not like them, but you still love them.</span>	
+
+</div>
+
+==See Also==
+* [[Expressing "After All" with "bijing"]]
+* [[Expressing "In the End" with "daodi"]]
+== Sources and further reading ==
+
+* [https://blogs.transparent.com/chinese/how-to-use-the-adverb-%E7%A9%B6%E7%AB%9F/ How to Use the Adverb 究竟?] (Transparent Language Chinese Blog)
+
+=== Books ===
+
+{{Source|HSK Standard Course 4下|132}}
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级)|130-3}}
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|19-20}} 
+
+[[Category: B2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|究竟|B2|究竟|你 <em>究竟</em> 喜 不 喜欢 我？|grammar point|ASGDK0BR}}
+{{Similar|Expressing "After All" with "bijing"}}
+{{Similar|Expressing "In the End" with "daodi"}}
+{{POS|Adverbs}}

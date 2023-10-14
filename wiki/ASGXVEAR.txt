@@ -1,0 +1,74 @@
+<!-- Wanting to do something with "yao" -->
+{{Grammar Box}} 
+
+The [[auxiliary verb]] 要 (yào) has [[Auxiliary verb "yao" and its multiple meanings|several different meanings]], and here we'll tackle the "want to" meaning. To express "wanting to do" something, use 要 (yào) before the verb.
+
+== Structure ==
+
+The verb 要 (yào) can be used as an [[auxiliary verb]] to indicate ''wanting to do'' something. 
+
+<div class="jiegou">
+
+Subj. + 要 + Verb + Obj.
+
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+* 他 <em>要</em> 学 中文。<span class="pinyin">Tā <em>yào</em> xué Zhōngwén.</span><span class="trans">He wants to study Chinese.</span>
+* 宝宝 <em>要</em> 睡觉。<span class="pinyin">Bǎobao <em>yào</em> shuìjiào.</span><span class="trans">The baby wants to sleep.</span>
+* 早饭 我 <em>要</em> 吃 肉。<span class="pinyin">Zǎofàn wǒ <em>yào</em> chī ròu.</span><span class="trans">For breakfast I want to eat meat.</span>
+* 今天 很 累，我 <em>要</em> 休息。<span class="pinyin">Jīntiān hěn lèi, wǒ <em>yào</em> xiūxi.</span><span class="trans"> Today I'm very tired. I want to rest.</span>
+* 这 个 周末 你们 <em>要</em> 做什么？<span class="pinyin"> Zhège zhōumò nǐmen <em>yào</em> zuò shénme?</span><span class="trans">This weekend what do you want to do?</span>
+</div>
+
+== 要 (yào) and 想 (xiǎng) ==
+
+Instead of using 要 (yào), it is also possible to use the word 想 (xiǎng). These two words are largely interchangeable, and both can mean "to want." The small difference is that 要 (yào) is often used for something you want to or ''need'' to do, and ''plan to take action on''. It can sound a bit more demanding (and less polite). 想 (xiǎng) on the other hand, often conveys an idea on one's mind, that one ''may or may not take action on''. You can think of it as meaning "would like to."
+
+=== Examples ===
+
+<div class="liju">
+
+* 我 <em>要</em> 喝 咖啡 。 <span class="expl">I am going to get my hands on some coffee</span><span class="pinyin">Wǒ <em>yào</em> hē kāfēi.</span><span class="trans">I want to drink coffee.</span>
+* 我 <em>想</em> 喝 咖啡 。 <span class="expl">I want to drink a cup of coffee, but may or may not act on that</span><span class="pinyin">Wǒ <em>xiǎng</em> hē kāfēi.</span><span class="trans">I'd like to drink coffee.</span>
+* 你 <em>要</em> 吃 什么 ？ <span class="pinyin">Nǐ <em>yào</em> chī shénme?</span><span class="trans">What do you want to eat?</span>
+* 你 <em>想</em> 吃 什么 ？ <span class="pinyin">Nǐ <em>xiǎng</em> chī shénme?</span><span class="trans">What would you like to eat?</span>
+
+</div>
+
+==See also==
+
+*[["Would like to" with "xiang"]]
+*[[Comparing "yao" and "xiang"]]
+*[[Auxiliary verb "hui" for "will"]]
+
+== Sources and Further Reading ==
+
+{{Source|HSK Standard Course 2|4}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|231}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|179-80}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)|207}}
+
+[[Category:A1 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+[[Category:Verbs]]
+[[Category:Auxiliary verbs]]
+{{Used for|Expressing desires}}
+{{Used for|Expressing determination}}
+{{Used for|Referring to the future}}
+{{Used for|Expressing purpose}}
+{{Basic Grammar|要|A1|要 + Verb|我 <em>要</em> 吃饭 。|grammar point|ASGXVEAR}}
+{{Similar|"Would like to" with xiang}}    
+{{Similar|Auxiliary verb "hui" for "will"}}
+{{Similar|Auxiliary verb "yao" and its multiple meanings}}
+{{Similar|Basic sentence order}}    
+{{Similar|Time words and word order}}
+{{Similar|"Yinggai" for should}}
+{{Similar|"Must" modal "dei"}}    
+{{Similar|Expressing Future with "jiang"}}
+{{POS|Verbs}}
+{{Subprop|Auxiliary verbs}}
+{{Translation|want}}

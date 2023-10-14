@@ -1,0 +1,145 @@
+<!-- Simple rhetorical questions -->
+{{Grammar Box}} 
+
+Rhetorical questions are ones where the speaker doesn't really expect an answer. The answer should be obvious, and the question is asked in order to make a point.
+ 
+== Structure ==
+
+There are several very common types of rhetorical questions using basic words you already know:
+
+<div class="jiegou">
+
+不是……吗？
+
+</div>
+
+This first one is the easiest and most common. It can be quite friendly, seemingly reminding the other person of a fact they seem to have (conveniently?) forgotten.
+
+<div class="jiegou">
+
+能……吗？
+
+</div>
+
+This one is often quite sarcastic, pointing out someone else's unrealistic expectations. (The obvious answer is "no" here.)
+
+<div class="jiegou">
+
+怎么会……？
+
+</div>
+
+This second one has a tone of incredulity. The speaker clearly thinks this shouldn't have happened, or thought it couldn't have happened.
+
+<div class="jiegou">
+
+谁让你……？
+
+</div>
+
+The third one is exclusively used by surly or annoyed people. It means "who told you to...?" or "who made you...?"
+
+== Examples ==
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span> 你 看 到 我 的 手机 了 吗？<span class="pinyin">Nǐ kàn dào wǒ de shǒujī le ma? </span><span class="trans">Have you seen my cell phone?</span></li>
+<li><span class="speaker">B:</span><em>不 是</em> 在 桌子 上 <em>吗 ？</em><span class="pinyin"><em>Bù shì</em> zài zhuōzi shàng <em>ma? </em></span><span class="trans">Isn't that it on the table?</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span> 我们 什么 时候 开会？<span class="pinyin">Wǒmen shénme shíhou kāi huì?</span><span class="trans">When are we having the meeting?</span></li>
+<li><span class="speaker">B:</span><em>不 是</em> 已经 告诉 你 了 <em>吗 ？</em><span class="pinyin"><em>Bù shì</em> yǐjīng gàosu nǐ le <em>ma?</em></span><span class="trans">Haven't I told you that already?</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span> 今天 放假 了，好 开心。<span class="pinyin">Jīntiān fàngjià le, hǎo kāixīn. </span><span class="trans">We go on vacation today. I'm so happy!</span></li>
+<li><span class="speaker">B:</span><em>不 是</em> 明天 放假 <em>吗 ？</em><span class="pinyin"><em>Bù shì</em> míngtiān fàngjià <em>ma?</em></span><span class="trans">Doesn't vacation start tomorrow?</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span> 他 又 感冒 了。<span class="pinyin">Tā yòu gǎnmào le. </span><span class="trans">He's caught another cold.</span></li>
+<li><span class="speaker">B:</span> 他 每天 穿得 都 很少，<em>能</em> 不 感冒 <em>吗 ？</em><span class="pinyin">Tā měi tiān chuān de dōu hěn shǎo, <em>néng</em> bù gǎnmào <em>ma?</em></span><span class="trans">He never dresses warmly. How could he not catch a cold?</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span> 今天 我 可能 会 迟到。<span class="pinyin">Jīntiān wǒ kěnéng huì chídào. </span><span class="trans">I might be late today.</span></li>
+<li><span class="speaker">B:</span>你 起得 这么 晚，<em>能</em> 不 迟到 <em>吗 ？</em><span class="pinyin">Nǐ qǐ de zhème wǎn, <em>néng</em> bù chídào <em>ma?</em></span><span class="trans">You got up so late, how could you not be late?</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span> 我 点 了 很多 菜，都是 你 爱 吃 的。<span class="pinyin">Wǒ diǎn le hěn duō cài, dōu shì nǐ ài chī de. </span><span class="trans">I ordered a bunch of food, all stuff that you like.</span></li>
+<li><span class="speaker">B:</span>晚上 吃 这么 多 菜，<em>能</em> 不 胖 <em>吗 ？</em><span class="pinyin">Wǎnshang chī zhème duō cài, <em>néng</em> bù pàng <em>ma?</em></span><span class="trans">Eating so much food at night, how could I not gain weight?</span></li>
+</ul>
+</div>
+ 
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span> 他们 公司 很 厉害。<span class="pinyin">Tāmen gōngsī hěn lìhai. </span><span class="trans">Their company is really impressive.</span></li>
+<li><span class="speaker">B:</span>但是 他们 公司 <em>怎么 会</em> 有 这么 笨 的 员工？<span class="pinyin">Dànshì tāmen gōngsī <em>zěnme huì</em> yǒu zhème bèn de yuángōng?</span><span class="trans">But then how can they have such a stupid employee?</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span> 我 收到 了 你 的 邮件。<span class="pinyin">Wǒ shōudào le nǐ de yóujiàn.</span><span class="trans">I received your text.</span></li>
+<li><span class="speaker">B:</span>那 你 <em>怎么 会</em> 不 知道 ？<span class="pinyin">Nà nǐ <em>zěnme huì</em> bù zhīdào?</span><span class="trans">Then how is it that you don't know?</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>我 感觉 最近 有 一点 胖 了。<span class="pinyin">Wǒ gǎnjué zuìjìn yǒu yīdiǎn pàng le.</span><span class="trans">I feel like I've gained some weight recently.</span></li>
+<li><span class="speaker">B:</span><em>谁 让 你</em> 吃 这么 多 ？<span class="expl">Yes, this is totally mean in Chinese too, but people do say stuff like this.</span><span class="pinyin"><em>Shéi ràng nǐ</em> chī zhème duō?</span><span class="trans">Who made you eat so much?</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul class="dialog">
+<li><span class="speaker">A:</span>我 找 不到 我 的 钥匙 了。<span class="pinyin">Wǒ zhǎo bùdào wǒ de yàoshi le.</span><span class="trans">I can't find my key.</span></li>
+<li><span class="speaker">B:</span><em>谁 让 你</em> 不 放 在 包 里。<span class="expl">Technically a question, but Chinese people often won't write the question mark on a sentence like this.</span><span class="pinyin"><em>Shéi ràng nǐ </em>bù fàng zài bāo lǐ.</span><span class="trans">What stopped you from putting it in your bag?</span></li>
+</ul>
+</div>
+
+==See also==
+
+*[[Yes-no questions with "ma"]]
+*[[Rhetorical questions with "nandao"]]
+
+== Sources and further reading ==
+
+===Books===
+{{Source|HSK Standard Course 2|101}}
+
+===Websites===
+*Wikipedia: [http://en.wikipedia.org/wiki/Rhetorical_question Rhetorical question]
+
+[[Category:B1 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+
+{{Basic Grammar|吗|B1|不 是…… 吗 ？|不 是 说好 了 吗 ？怎么 会 这样 ？|grammar point|ASGD4EC8}}
+{{Rel char|不是}}
+{{Rel char|怎么}}
+{{Rel char|会}}
+{{Rel char|谁}}
+{{Similar|Placement of question words}}    
+{{Similar|Yes-no questions with "ma"}}
+{{Similar|Rhetorical questions with "nandao"}}
+{{Similar|Advanced uses of "hai"}}
+{{Used for|Asking questions}}
+{{Used for|Asking rhetorical questions}}
+{{Used for|Expressing attitude}}
+{{Translation|who}}
+{{Translation|why}}
+{{Translation|how}}
+{{Structure|Question Forms}}

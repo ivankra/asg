@@ -1,0 +1,80 @@
+<!-- Expressing "difficult" with "nan" -->
+{{Grammar Box}} 
+
+难 (nán) is an adjective that means "difficult." When something is "hard to do" (as in difficult), the word 难 (nán) can be used before the verb.
+
+== 难 (nán) with General Verbs ==
+
+Just as 好 (hǎo) can be used to indicate that it's [[Using "hao" to mean "easy"|easy to do something]], 难 (nán) can be attached to verbs (with a few special exceptions), to indicate that something is ''hard to do''.
+
+=== Structure ===
+
+The structure is:
+
+<div class="jiegou">
+
+Subj. + (很) 难 + Verb
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 这 句 话 很 <em>难 懂</em>。 <span class="pinyin">Zhè jù huà hěn <em>nán dǒng</em>.</span><span class="trans">This sentence is hard to understand.</span>
+* 汉语 很 <em>难 学</em>。<span class="pinyin">Hànyǔ hěn <em>nán xué</em>.</span><span class="trans">Mandarin is hard to learn.</span>
+* 中国菜 很 <em>难 做</em>。<span class="pinyin">Zhōngguó cài hěn <em>nán zuò</em>.</span><span class="trans">Chinese food is hard to make.</span>
+* 这 个 东西 现在 很 <em>难 买</em>。<span class="pinyin">Zhège dōngxi xiànzài hěn <em>nán mǎi</em>.  </span><span class="trans">This thing is really difficult to purchase now.</span>
+*这 个 汉字 很 <em> 难 写</em>。<span class="pinyin">Zhège Hànzì hěn <em> nán xiě</em>.</span><span class="trans">This character is very difficult to write.</span>
+
+</div>
+
+== 难 (nán) with Sense Verbs ==
+
+难 (nán) can also be attached to "sense verbs" (e.g. look, taste, smell, etc.) to indicate that something offers a "bad sensory experience."
+
+=== Structure ===
+
+The structure is:
+
+<div class="jiegou">
+
+Subj. + (很) 难 + [Sense Verb]
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 你 做 的 菜 很 <em>难吃</em>。<span class="pinyin">Nǐ zuò de cài hěn <em>nánchī</em>.</span><span class="trans">The dishes you cook taste bad.</span>
+* 这里 的 咖啡 很 <em>难喝</em>。<span class="pinyin">Zhè lǐ de kāfēi hěn <em>nánhē</em>.</span><span class="trans">The coffee here tastes bad.</span>
+* 这 首 歌 很 <em>难听</em>。<span class="pinyin">Zhè shǒu gē hěn <em>nántīng</em>.</span><span class="trans">This song is terrible (hard to listen to).</span>
+* 这 种 花 很 <em>难闻</em>。<span class="pinyin">Zhè zhǒng huā hěn <em>nánwén</em>.</span><span class="trans">This kind of flower smells bad.</span>
+* 这 件 衣服 很 <em>难看</em>吗？<span class="pinyin">Zhè jiàn yīfu hěn <em>nánkàn</em> ma? </span><span class="trans">Is this article of clothing ugly? </span>
+
+</div>
+
+'''Warning!''' If you're trying to say that a particular dish is "difficult to eat," don't use 难吃 (nánchī)! The word 难吃 (nánchī) ''only'' means "bad-tasting" and ''not'' "difficult to eat."
+
+==See also==
+*[[Using "hao" to mean "easy"]]
+*[[Expressing Difficulty with "hao (bu) rongyi"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|232}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK3}}
+{{Used for|Describing actions}}
+{{Basic Grammar|难|A2|难 + Verb|<em>难</em> 做。<em>难</em> 买。|grammar point|ASG35T4H}}
+{{Similar|Using "hao" to mean "easy"}}  
+{{Similar|Expressing Difficulty with "hao (bu) rongyi"}}
+{{POS|Verbs}}
+{{Subprop|Verb phrases}}
+{{Translation|Hard}}
+{{Translation|Bad}}
+{{Translation|Difficult}}

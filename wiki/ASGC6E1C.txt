@@ -1,0 +1,70 @@
+<!-- Expressing "all the way until" with "zhidao" -->
+{{Grammar Box}} 
+
+直到 (zhídào) is for describing a time frame that began in the past and continued until a point closer to the present. It is like the English phrase, "all the way until." It can be used in an affirmative or negative form, expressing that something has taken a while or is late. The word 才 (cái) often teams up with 直到, and serves to [[Expressing lateness with "cai"|emphasize the lateness aspect]].
+
+== Affirmative Form ==
+
+In the positive form, which uses 才, it may be more natural in English to express the idea as "not until... did" something happen.
+
+=== Structure ===
+
+<div class="jiegou">
+直到 + Time / Event ，Subj. + 才 ⋯⋯
+</div>
+
+This subject can also be placed before 直到.
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>直到</em> 十二 点 半 ，我 <strong>才</strong> 做 完 作业 。<span class="pinyin"><em>Zhídào</em> shí'èr diǎn bàn, wǒ <strong>cái</strong> zuò wán zuòyè.</span><span class="trans">It wasn't until twelve thirty in the morning that I finished my homework.</span>
+*<em>直到</em> 半 个 月 以后 ，我 的 感冒 <strong>才</strong> 好 。<span class="pinyin"><em>Zhídào</em> bàn gè yuè yǐhòu, wǒ de gǎnmào <strong>cái</strong> hǎo.</span><span class="trans">It took me half a month to recover from the cold.</span>
+*她 <em>直到</em> 十八 岁 <strong>才</strong> 见到 亲生 父母 。<span class="pinyin">Tā <em>zhídào</em> shíbā suì <strong>cái</strong> jiàndào qīnshēng fùmǔ.</span><span class="trans">It wasn't until she was eighteen that she met her biological parents.</span>
+*我 <em>直到</em> 大学 毕业 <strong>才</strong> 开始 独立 生活 。<span class="pinyin">Wǒ <em>zhídào</em> dàxué bìyè <strong>cái</strong> kāishǐ dúlì shēnghuó.</span><span class="trans">It wasn't until I graduated from college that I started living independently.</span>
+*<em>直到</em> 去 了 北京 ，他 <strong>才</strong> 知道 一个人 在 大 城市 多 辛苦 。<span class="pinyin"><em>Zhídào</em> qù le Běijīng, tā <strong>cái</strong> zhīdào yīgèrén zài dà chéngshì duō xīnkǔ.</span><span class="trans">It wasn't until he went to Beijing that he understood how hard it is to be alone in a big city.</span>
+
+</div>
+
+== Negative Form ==
+
+=== Structure ===
+
+<div class="jiegou">
+直到 + Time / Event ，Subj. + 都  + 不 / 没 ⋯⋯
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>直到</em> 他 搬 到 上海 ，我们 <strong>都 没</strong> 见 过 。<span class="pinyin"><em>Zhídào</em> tā bān dào Shànghǎi, wǒmen <strong>dōu méi</strong> jiàn guo.</span><span class="trans">We didn't meet until he moved to Shanghai.</span>
+*他们 是 同学 ，但是 <em>直到</em> 毕业 ，<strong>都 没</strong> 说 过 话 。<span class="pinyin">Tāmen shì tóngxué, dànshì <em>zhídào</em> bìyè, <strong>dōu méi</strong> shuō guo huà.</span><span class="trans">They were classmates, but they had never spoken until they graduated.</span>
+*<em>直到</em> 电影 结束 ，他 <strong>都 没</strong> 来 。<span class="pinyin"><em>Zhídào</em> diànyǐng jiéshù, tā <strong>dōu méi</strong> lái.</span><span class="trans">He didn't show up until the movie was over.</span>
+*<em>直到</em> 我 弟弟 上 大学 ，他 <strong>都 不</strong> 会 洗 衣服 。<span class="pinyin"><em>Zhídào</em> wǒ dìdi shàng dàxué, tā <strong>dōu bù</strong> huì xǐ yīfu.</span><span class="trans">My younger brother didn't know how to wash clothes until he went to college.</span>
+*我 认识 他 一年 多 了 ，<em>直到</em> 现在 ，我 <strong>都 不</strong> 知道 他 的 全名 。<span class="pinyin">Wǒ rènshi tā yī nián duō le, <em>zhídào</em> xiànzài, wǒ <strong>dōu bù</strong> zhīdào tā de quánmíng.</span><span class="trans">I've known him for over a year, but even now I still don't know his full name.</span>
+
+</div>
+
+== See also ==
+
+*[[Expressing "when" with "dengdao"]]
+*[[Complement with "dao"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|直到|B1|直到 + Time / Event ，Subj. + 才 ⋯⋯|<em>直到</em> 十二 点 半 ，我 才 做 完 作业 。|grammar point|ASGC6E1C}}
+{{Rel char|到}}
+{{Rel char|才}}
+{{Used for|Sequencing events in time}}
+{{Used for|Expressing attitude}}
+{{Similar|Expressing "when" with "dengdao"}}
+{{Similar|Expressing lateness with "cai"}}
+{{POS|Prepositions}}
+{{Translation|until}}
+{{Translation|by the time}}

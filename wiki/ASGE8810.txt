@@ -1,0 +1,73 @@
+<!-- Expressing "age difference" with "da and xiao" -->
+If you have siblings, Chinese people will often ask how much older or younger they are by saying: "他（她）比你小几岁" (Tā bǐ nǐ xiǎo jǐsuì) or "他（她）比你大几岁 " (Tā bǐ nǐ dà jǐsuì). Notice, here you can't use “年轻” (niánqīng) or "老“ (lǎo). 
+
+''Note: this grammar point has been pulled from the B1 list, as its mostly an explanation of a special usage of 大 (and 小) rather than a grammatical principle.''
+
+== Structure ==
+
+<div class="jiegou">
+A + 比 + B + 大 / 小 + Number + 岁
+</div>
+
+Note that 岁 is used here, instead of 年, to mean "year old."
+
+== Examples ==
+
+<div class="liju">
+
+*我 姐姐 <strong>比</strong> 我 <em>大</em> 两 <strong>岁</strong> 。<span class="pinyin">Wǒ jiějie <strong>bǐ</strong> wǒ <em>dà</em> liǎng <strong>suì</strong>.</span><span class="trans">My sister is two years older than me.</span>
+*你 <strong>比</strong> 你 哥哥 <em>小</em> 几 <strong>岁</strong> ？ <span class="pinyin">Nǐ <strong>bǐ</strong> nǐ gēge <em>xiǎo</em> jǐ <strong>suì</strong>?</span> <span class="trans">How much younger are you than your elder brother?</span>
+*他 女朋友 <strong>比</strong> 他 <em>大</em> 十 <strong>岁</strong> 。<span class="pinyin">Tā nǚpéngyou <strong>bǐ</strong> tā <em>dà</em> shí <strong>suì</strong>.</span><span class="trans">His girlfriend is 10 years older than him.</span>
+*我 老板 很 年轻，只 <strong>比</strong> 我 <em>大</em> 三 四 <strong>岁</strong> 。<span class="pinyin">Wǒ lǎobǎn hěn niánqīng, zhǐ <strong>bǐ</strong> wǒ <em>dà</em> sān sì <strong>suì</strong>.</span><span class="trans">My boss is very young. He is only three or four years older than me.</span>
+
+</div>
+
+If you just wonder which is elder or younger, these example sentences will be helpful:
+ 
+<div class="liju">
+
+*你俩 谁 <em>大</em> ？<span class="pinyin">Nǐ liǎ shéi <em>dà</em> ?</span><span class="trans">Who is older between you two?</span>
+*你 爸爸 和 你 妈妈 谁 <em>大</em> ？<span class="pinyin">Nǐ bàba hé nǐ māma shéi <em>dà</em>?</span><span class="trans">Who is older, your dad or your mom?</span>
+*你们 五 个 人 里 谁 最 <em>小</em> ？<span class="pinyin">Nǐmen wǔ gè rén lǐ shéi zuì <em>xiǎo</em>?</span><span class="trans">Who is the youngest among the five of you?</span>
+
+</div>
+
+But if you're talking about being the same age, use this structure instead.  
+
+<div class="jiegou">
+A + 和 / 跟 + B + 一样 / 差不多 + 大 
+</div>
+
+A few examples:
+
+<div class="liju">
+
+*他 女朋友 <strong>和</strong> 他 女儿 <strong>一样</strong> <em>大</em> 。<span class="pinyin">Tā nǚpéngyou <strong>hé</strong> tā nǚ'ér <strong>yīyàng</strong> <em>dà</em>.</span><span class="trans">His girlfriend is about the same age as his daughter.</span>
+*我 爸爸 <strong>和</strong> 妈妈 <strong>差不多</strong> <em>大</em> 。<span class="pinyin">Wǒ bàba <strong>hé</strong> māma <strong>chàbuduō</strong> <em>dà</em>.</span><span class="trans">My dad is about the same age as my mom.</span>
+
+</div>
+
+== Multiple Ways of Asking about Age ==
+
+When asking about age with children, friends and elderly, there are certain things that you need to pay attention to. For example, children under 10, people your same age, people older than you, all have different ways of asking for age.
+
+A  few examples:
+
+<div class="liju">
+
+*小朋友 ，你 <em>几岁</em> <strong>了</strong> ？<span class="pinyin">Xiǎopéngyou, nǐ <em>jǐ suì</em> <strong>le</strong>?</span><span class="trans">Kid, how old are you?</span>
+*大妈 ，您 <em>多大 年纪</em> <strong>了</strong> ？<span class="pinyin">Dàmā, nín <em>duō dà niánjì</em> <strong>le</strong>?</span><span class="trans">Old lady, how old are you?</span>
+*爷爷 ，您 <em>多大 岁数</em> <strong>了</strong> ？<span class="pinyin">Yéye, nín <em>duō dà suìshu</em> <strong>le</strong>?</span><span class="trans">Grandpa, how old are you?</span>
+*我 <strong>是</strong> <em>90</em> <strong>的</strong> ，你 <strong>是</strong> <em>哪 年</em> <strong>的</strong> ？<span class="pinyin">Wǒ <strong>shì</strong> <em>jiǔ líng</em> <strong>de</strong>, nǐ <strong>shì</strong> <em>nǎ nián</em> <strong>de</strong>?</span><span class="trans">I was born in 1990. Which year were you born?</span>
+
+</div>
+
+== See also ==
+
+* [[Comparing]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+[[Category: B1 grammar points]]

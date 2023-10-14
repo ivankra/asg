@@ -1,0 +1,83 @@
+<!-- Expressing "about to" with "jiuyao" -->
+{{Grammar Box}} 
+
+就要 (jiùyào) is similar to 快要 (kuàiyào), meaning "about to." They are interchangeable in some cases. But there is a major difference that you need to take a good look at.
+
+== Basic Pattern ==
+
+=== Structure ===
+
+<div class="jiegou">
+(Subj. +) 就要 + Verb + 了 (，⋯⋯)
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>就 要</em> 下雨 <strong>了</strong>  。<span class="pinyin"><em>Jiù yào</em> xiàyǔ <strong>le</strong>.</span><span class="trans">It's about to rain.</span>
+*他们 <em>就 要</em> 结婚 <strong>了</strong> 。<span class="pinyin">Tāmen <em>jiù yào</em> jiéhūn <strong>le</strong>.</span><span class="trans">They are about to get married.</span>
+*我 <em>就 要</em> 出国 <strong>了</strong> 。<span class="pinyin">Wǒ <em>jiù yào</em> chūguó <strong>le</strong>.</span><span class="trans">I'm about to go abroad.</span>
+*宝宝 <em>就 要</em> 一岁 <strong>了</strong> 。<span class="pinyin">Bǎobao <em>jiù yào</em> yī suì <strong>le</strong>.</span><span class="trans">The baby is about to be one year old.</span>
+*<em>就 要</em> 下课 <strong>了</strong> ，还有 别的 问题 吗 ？<span class="pinyin"><em>Jiù yào</em> xiàkè <strong>le</strong>, hái yǒu bié de wèntí ma?</span><span class="trans">The class is almost over. Are there any other questions?</span>
+
+</div>
+
+In this case, 就要 can be [[Expressing "about to happen" with "le"|replaced by 快要 or 快]].
+
+== Advanced Pattern ==
+
+快要 (kuài yào) is generally "about to" [happen], but 就要 (jiù yào) could be used to mark a more specific time. 要 (yào) here can be omitted. For this one, you wouldn't normally use "about to" for this English translation, but the feeling is nevertheless that the impending event is coming up fast. This use of 就 (jiù) overlaps with its [[Expressing earliness with "jiu"|usage indicating earliness]].
+
+=== Structure ===
+
+<div class="jiegou"> 
+还有 + Time (+ Subj.) + 就 (要) + Verb + 了
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<strong>还有</strong> 十 分钟 我 <em>就</em> 下班 <strong>了</strong> 。<span class="pinyin"><strong>Háiyǒu</strong> shí fēnzhōng wǒ <em>jiù</em> xiàbān <strong>le</strong>.</span><span class="trans">I get off work in 10 minutes.</span>
+*<strong>还有</strong> 两 个 星期 我们 <em>就 要</em> 考试 <strong>了</strong> 。<span class="pinyin"><strong>Háiyǒu</strong> liǎng gè xīngqí wǒmen <em>jiù yào</em> kǎoshì <strong>le</strong>.</span><span class="trans">We're just two weeks away from the exam date.</span>
+*<strong>还有</strong> 一 个 月 <em>就 要</em> 过年 <strong>了</strong> 。<span class="pinyin"><strong>Háiyǒu</strong> yī gè yuè <em>jiù yào</em> guònián <strong>le</strong>.</span><span class="trans">It will be Chinese New Year in another month.</span>
+*<strong>还有</strong> 半 个 小时 飞机 <em>就</em> 起飞 <strong>了</strong> 。<span class="pinyin"><strong>Háiyǒu</strong> bàn gè xiǎoshí fēijī <em>jiù</em> qǐfēi <strong>le</strong>.</span><span class="trans">The plane takes off in half an hour.</span>
+*<strong>还有</strong> 五 天 <em>就 要</em> 放假 <strong>了</strong> 。<span class="pinyin"><strong>Háiyǒu</strong> wǔ tiān <em>jiù yào</em> fàngjià <strong>le</strong>.</span><span class="trans"> I go on vacation in 5 days.</span>
+
+</div>
+
+== See also ==
+
+*[[Expressing "nearly" with "jihu"]]
+*[[Approximations with "chabuduo"]]
+*[[Expressing future with "jiang"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Boya Chinese Elementary Starter 1 (博雅汉语初经起步篇)|183}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|267-8}}
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2)|196-7}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|271}} 
+
+=== Websites ===
+
+* ChinesePod: [http://chinesepod.com/lessons/%E4%BA%86-le-somethings-about-to-happen Qing Wen - 了 (le): Something's About to Happen] (free podcast content)
+
+[[Category:B1 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|就|B1|还有 + Time Period + 就要 + Verb Phrase + 了|<em>还有</em> 五 天 <em>就要</em> 放假 <em>了</em> 。|grammar point|ASG9B210}}
+{{Rel char|要}}
+{{Rel char|了}}
+{{Rel char|还有}}
+{{Similar|Expressing "be going to" with "yao"}}
+{{Similar|Expressing "about to happen" with "le"}}
+{{Similar|Expressing "nearly" with "jihu"}}
+{{Similar|Auxiliary verb "yao" and its multiple meanings}}   
+{{Used for|Expressing time and date}}
+{{Used for|Sequencing events in time}}
+{{Used for|Referring to changes of situation}}
+{{POS|Adverbs}}
+{{Translation|about}}

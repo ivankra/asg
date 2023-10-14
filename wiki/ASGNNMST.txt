@@ -1,0 +1,173 @@
+<!-- Result complements -->
+{{Grammar Box}} 
+
+Result complements come immediately after verbs to indicate that an action has led to a certain result and make that result clear to the listener. Often the complement is simply an adjective like 好 (hǎo) or a single syllable like 完 (wán).
+
+== Using Adjectives ==
+
+好 (hǎo) implies that something is done to ''completion'' or done ''well''.  Forming a result complement with 好 has a very similar meaning to [["-wan" result complement|forming one with 完]]. It expresses that the action has been completed successfully.
+
+错 (cuò) is used to express that an action has been performed incorrectly in some way, resulting in a mistake (错). This pattern covers what is often expressed with the adverb "incorrectly" in English.
+
+Other [[adjective]]s commonly used as result complements include: 晚 (wǎn), 饱 (bǎo), 坏 (huài), 清楚 (qīngchu), 干净 (gānjìng), 破 (pò).
+
+=== Structure ===
+
+For the basic structure, you'll almost always see a 了 after the complement:
+
+<div class="jiegou">
+Subj. + Verb + Adj. + 了 (+ Obj.)
+</div>
+
+To negate a result complement, use 没 instead of 不:
+
+<div class="jiegou">
+Subj. + 没 + Verb + Adj. (+ Obj.)
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*你 吃 <em>好</em> <strong>了</strong> 吗 ？<span class="pinyin">Nǐ chī <em>hǎo</em> <strong>le</strong> ma?</span><span class="trans">Are you done eating?</span>
+*对不起 ，我 记 <em>错</em> <strong>了</strong> 时间 。<span class="pinyin">Duìbuqǐ, wǒ jì <em>cuò</em> <strong>le</strong> shíjiān.</span><span class="trans">Sorry, I misremembered the time.</span>
+*你 来 <em>晚</em> <strong>了</strong> ，我们 已经 关门 <strong>了</strong> 。<span class="pinyin">Nǐ lái <em>wǎn</em> <strong>le</strong>, wǒmen yǐjīng guānmén <strong>le</strong>.</span><span class="trans">You came too late. We're already closed.</span>
+*他 玩 <em>坏</em> <strong>了</strong> 哥哥 的 玩具 。<span class="pinyin">Tā wán <em>huài</em> <strong>le</strong> gēge de wánjù.</span><span class="trans">He broke his older brother's toy.</span>
+*我 <strong>没</strong> 吃 <em>饱</em> 。<span class="pinyin">Wǒ <strong>méi</strong> chī <em>bǎo</em>.</span><span class="trans">I didn't get full.</span>
+*他 还 <strong>没</strong> 想 <em>好</em> 。<span class="pinyin">Tā hái <strong>méi</strong> xiǎng <em>hǎo</em>.</span><span class="trans">He hasn't thought it through yet.</span>
+*我们 <strong>没</strong> 听 <em>清楚</em> ，请 再 说 一遍 。<span class="pinyin">Wǒmen <strong>méi</strong> tīng <em>qīngchu</em>, qǐng zài shuō yī biàn.</span><span class="trans">We didn't hear it clearly. Please say it again.</span>
+
+</div>
+
+When using result complements, it's very common to make the object a [[Topic-comment sentences|topic]]. This means the object is moved to the beginning of the sentence and the subject is often omitted. 
+
+Some examples:
+
+<div class="liju">
+*<strong>这 个 字</strong> 写 <em>错</em> 了。<span class="pinyin"><strong>Zhège zì</strong> xiě <em>cuò</em> le.</span><span class="trans">You wrote this character wrong.</span>
+*<strong>杯子</strong> 摔 <em>坏</em> 了 。<span class="pinyin"><strong>Bēizi</strong> shuāi <em>huài</em> le.</span><span class="trans">The cup is broken.</span>
+*<strong>房间</strong> 打扫 <em>干净</em> 了 吗 ？<span class="pinyin"><strong>Fángjiān</strong> dǎsǎo <em>gānjìng</em> le ma?</span><span class="trans">Is your room all cleaned up?</span>
+</div>
+
+== Using One-Syllable Verbs ==
+
+Besides adjectives, there are a few single-syllable verbs which can also be used as result complements. Some examples include [[Result complements "-dao" and "-jian"|到 (dào), 见 (jiàn)]], 懂 (dǒng), 会 (huì), 走 (zǒu), 掉 (diào). There really aren't a lot of these, which is part of the reason why these are usually seen as one verb instead of a verb-complement structure.
+
+=== Structure ===
+
+For the basic structure, you'll often see a 了 after the complement:
+
+<div class="jiegou">
+Subj. + Verb + [One-syllable Verb] +了 (+ Obj.)
+</div>
+
+=== Examples === 
+
+<div class="liju">
+*你们 都 <em>听 懂</em> 了 吗 ？<span class="pinyin">Nǐmen dōu <em>tīng dǒng</em> le ma?</span><span class="trans">Do you all understand?</span>
+*我 看 了 ，但是 没 <em>看 懂</em> 。<span class="pinyin">Wǒ kàn le, dànshì méi <em>kàn dǒng</em>.</span><span class="trans">I read it, but I didn't really understand it.</span>
+</div>
+
+<div class="liju">
+*你 <em>踩 到</em> 了 我 的 脚 。<span class="pinyin">Nǐ <em>cǎi dào</em> le wǒ de jiǎo.</span><span class="trans">You're stepping on my foot.</span>
+*我 不小心 <em>撞 到</em> 了 墙 。<span class="pinyin">Wǒ bù xiǎoxīn <em>zhuàng dào</em> le qiáng.</span><span class="trans">I hit the wall by accident.</span>
+</div>
+
+<div class="liju">
+*我 女儿 <em>学 会</em> 了 数数 。<span class="pinyin">Wǒ nǚ'ér <em>xué huì</em> le shǔ shù.</span><span class="trans">My daughter has learned how to count.</span>
+*我 爸爸 还 没 <em>学 会</em> 用 智能 手机 。<span class="pinyin">Wǒ bàba hái méi <em>xué huì</em> yòng zhìnéng shǒujī.</span><span class="trans">My father hasn't learned how to use a smartphone yet.</span>
+</div>
+
+<div class="liju">
+*老师 <em>拿 走</em> 了 我 的 iPad 。<span class="pinyin">Lǎoshī <em>ná zǒu</em> le wǒ de iPad.</span><span class="trans">The teacher took away my iPad.</span>
+*小偷 <em>偷 走</em> 了 我 的 钱包 。<span class="pinyin">Xiǎotōu <em>tōu zǒu</em> le wǒ de qiánbāo.</span><span class="trans">The thief stole my wallet.</span>
+</div>
+
+<div class="liju">
+*他 不小心 <em>推 倒</em> 了 一 个 老人 。<span class="pinyin">Tā bù xiǎoxīn <em>tuī dǎo</em> le yī gè lǎorén.</span><span class="trans">He pushed over an old person by accident.</span>
+*你 <em>撞 倒</em> 了 我 的 自行车 。<span class="pinyin">Nǐ <em>zhuàng dǎo</em> le wǒ de zìxíngchē.</span><span class="trans">You knocked over my bike.</span>
+</div>
+
+<div class="liju">
+*谁 <em>扔 掉</em> 了 我 的 袜子 ？<span class="pinyin">Shéi <em>rēng diào</em> le wǒ de wàzi?</span><span class="trans">Who threw away my socks?</span>
+*我 <em>卖 掉</em> 了 我 的 旧 手机 。<span class="pinyin">Wǒ <em>mài diào</em> le wǒ de jiù shǒujī.</span><span class="trans">I sold my old cell phone.</span>
+</div>
+
+== Compared with Potential Complements ==
+
+<div class="liju">
+
+{| class="wikitable" style="width:40em"
+|+Result and Potential Complements
+|-
+! Result<br />Complement !! Aff. Potential<br />Complement !! Neg. Potential<br />Complement
+|-
+| 做 完 || 做 <em>得</em> 完 || 做 <em>不</em> 完 
+|-
+|听 懂 || 听 <em>得</em> 懂 || 听 <em>不</em> 懂  
+|-
+| 看 清楚 || 看 <em>得</em> 清楚 || 看 <em>不</em> 清楚  
+|-
+| 洗 干净 ||洗 <em>得</em> 干净 || 洗 <em>不</em> 干净  
+|-
+|}
+
+</div>
+
+== Used in 把 Sentences ==
+
+Although we have avoided [[Ba sentence|把 sentences]] in this article for the sake of simplicity, you may have noticed that sentences which feature result complements often also use 把. This is because 把 sentences and result complements work particularly well together, as they both deal with the result of an action or the "disposal" of an object. Apart from result complements involving perception and psychological verbs, most result compounds work nicely in 把 sentences.
+
+<div class="liju">
+
+* 我 <strong>把</strong> 杯子 <em>摔 坏</em> 了 。<span class="pinyin">Wǒ <strong>bǎ</strong> bēizi <em>shuāi huài</em> le .</span><span class="trans">I broke the glass.</span>
+* 他 <strong>把</strong> 我 的 电脑 <em>修 好</em> 了 。<span class="pinyin">Tā <strong>bǎ</strong> wǒ de diànnǎo <em>xiū hǎo</em> le .</span><span class="trans">He fixed my computer.</span>
+* 小偷 <strong>把</strong> 我 的 钱包 <em>偷 走</em> 了 。<span class="pinyin">Xiǎotōu <strong>bǎ</strong> wǒ de qiánbāo <em>tōu zǒu</em> le .</span><span class="trans">The thief made off with my wallet.</span>
+* 我们 <strong>把</strong> 房间 <em>打扫 干净</em> 了 。<span class="pinyin">Wǒmen <strong>bǎ</strong> fángjiān <em>dǎsǎo gānjìng</em> le .</span><span class="trans">We've cleaned the room.</span>
+
+</div>
+
+== See also ==
+
+* [[Result complement "xiaqu"]]
+* [[Advanced result complements]]
+* [[Result complement "-wan" for finishing]]
+* [[Result complements "dao" and "jian"]]
+
+== Sources  and   further reading ==
+
+===Books===
+
+{{Source|HSK Standard Course 2|68}}
+{{Source|HSK Standard Course 3|4}}
+{{Source|A Practical Chinese Grammar For Foreigners (外国人实用汉语语法)|273 - 284}} 
+{{Source|Chinese: An Essential Grammar, Second Edition|97-9}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|43- 4}}
+{{Source|Integrated Chinese: Level 2, Part 1|233-4}}
+{{Source|New Practical Chinese Reader 2 (新实用汉语课本2)|87 - 88}}
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3) |35}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|223}}
+
+=== Websites ===
+
+* Mandarin Essential Grammar (Yale): [http://comet.cls.yale.edu/mandarin/content/result/grammar/result.htm The Complement of Result]
+
+
+[[Category:B1 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{HSK|HSK3}}
+[[Category:Result complement]]
+
+{{Basic Grammar|好|B1|Verb + 好 / 完 / 错|我们 吃 <em>好</em> 了 。|grammar point|ASGNNMST}}
+{{Rel char|了}}
+{{Similar|"-wan" result complement}}
+{{Similar|Result complement "-qilai"}}
+{{Similar|Result complements "-dao" and "-jian"}}
+{{Similar|Potential complement "-bu dong" for not understanding}}
+{{Similar|Tricky uses of "dao"}}
+{{Similar|Advanced result complements}}
+{{Used for|Expressing result}}
+{{Used for|Describing actions}}
+{{Structure|Complements}}
+{{Subprop|Result complement}}
+{{Similar|Expressing not knowing how to do something using "hao"}}

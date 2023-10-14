@@ -1,0 +1,54 @@
+<!-- Conditions_with_"yao"_and_"jiu" -->
+{{Grammar Box}} 
+The 要⋯⋯就⋯⋯ grammar structure can be used to express the same meaning as [["If…, then…" with "ruguo…, jiu…"|如果⋯⋯就]] However, 要⋯⋯就⋯⋯ is more intense and resolute, similar to imperative sentences (command sentences). Therefore, 要⋯⋯就⋯⋯ sentences typically do not have a subject, but they can have a topic. This grammar form is similar to the English "If you want to (verb) just (verb)..."
+
+== Structure ==
+
+<div class="jiegou">
+要 + Verb + 就 + Verb ……
+</div>
+
+== Examples ==
+
+Note that the verbs in this pattern are usually single-syllable verbs.
+
+<div class="liju">
+*<em>要</em> 走 <em>就</em> 走 ，我们 不 需要 你 。<span class="pinyin"><em>Yào</em> zǒu <em>jiù</em> zǒu, wǒmen bù xūyào nǐ.</span><span class="trans">If you want to leave, leave. We don't need you.</span>
+*<em>要</em> 买 <em>就</em> 买 ，我们 快 关门 了 。<span class="pinyin"><em>Yào</em> mǎi <em>jiù</em> mǎi, wǒmen kuài guānmén le.</span><span class="trans">If you're going to buy it, buy it now. We are about to close the shop.</span>
+*<em>要</em> 说 <em>就</em> 说 ，别 在 背后 说 。<span class="pinyin"><em>Yào</em> shuō <em>jiù</em> shuō, bié zài bèihòu shuō.</span><span class="trans">If you're going to say it, say it now. Don't talk behind people's backs.</span>
+*<em>要</em> 去 <em>就</em> 去 ，不用 等 我们 。<span class="pinyin"><em>Yào</em> qù <em>jiù</em> qù, bùyòng děng wǒmen.</span><span class="trans">If you want to go, go now. You don't need to wait for us.</span>
+*<em>要</em> 吃饭 <em>就</em> 吃饭 ，吃 什么 零食 。<span class=
+"pinyin"><em>Yào</em> chīfàn <em>jiù</em> chīfàn, chī shénme língshí.</span><span class="trans">If you want to eat, eat. Don't just snack.</span>
+</div>
+
+It's possible to modify the second verb a little bit as well, as long as it's short.
+
+<div class="liju">
+
+*<em>要</em> 去 <em>就</em> 快 点 去 。<span class="pinyin"><em>Yào</em> qù <em>jiù</em> kuài diǎn qù.</span><span class="trans">If you want to go, go fast.</span>
+*<em>要</em> 吃 <em>就</em> 自己 拿 。<span class="pinyin"><em>Yào</em> chī <em>jiù</em> zìjǐ ná.</span><span class="trans">If you want to eat, go ahead and grab some.</span>
+*<em>要</em> 学 <em>就</em> 好好 学 。<span class="pinyin"><em>Yào</em> xué <em>jiù</em> hǎohāo xué.</span><span class="trans">If you want to study it, study it well.</span>
+*<em>要</em> 问 <em>就</em> 问 清楚 。<span class="pinyin"><em>Yào</em> wèn <em>jiù</em> wèn qīngchu.</span><span class="trans">If you want to ask, then ask clearly.</span>
+*<em>要</em> 买 <em>就</em> 早点 买 。<span class="pinyin"><em>Yào</em> mǎi <em>jiù</em> zǎodiǎn mǎi.</span><span class="trans">If you want to buy it, buy it soon.</span>
+
+</div>
+
+== See also ==
+
+*[["If…, then…" with "ruguo…, jiu…"]]
+*[[Expressing "as one likes" with "jiu"]]
+*[[Expressing indifference with "jiu"]]
+
+[[Category:B2 grammar points]]
+{{Basic Grammar|要|B2|要 + Verb + 就 + Verb ……|<em>要</em> 买 <em>就</em> 买 ，我们 快 关门 了 。|grammar point|ASGXGADL}}
+{{Rel char|就}}
+{{Similar|"If…, then…" with "ruguo…, jiu…"}}   
+{{Similar|Expressing "as one likes" with "jiu"}}
+{{Similar|Expressing indifference with "jiu"}}
+{{Used for|Indicating conditions}}
+{{Used for|Expressing attitude}} 
+{{Used for|Giving commands}}
+{{Structure|Sentence Patterns}}
+{{Translation|if}}
+{{Translation|then}}
+{{Translation|just}}

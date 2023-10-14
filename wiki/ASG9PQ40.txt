@@ -1,0 +1,99 @@
+<!-- Expressing ability or possibility with "neng" -->
+{{Grammar Box}} 
+
+能 (néng) is one of several Chinese words that is normally translated as "can" in English. However, 能 (néng) is used to emphasize one's ability or the possibility of something happening.
+
+== Expressing Ability ==
+
+能 (néng) indicates ability when used with activities that are not consciously learned or studied. 
+
+=== Structure ===
+
+The structure to use 能 (néng) to express "ability" is:
+
+<div class="jiegou">
+Subj. + 能 + Verb + Obj.
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 我 <em>能</em> 吃 四 十 个 饺子。<span class="pinyin">Wǒ <em>néng</em> chī sìshí gè jiǎozi.</span><span class="trans">I can eat 40 dumplings.</span>
+* 他 <em>能</em> 工作 24 个 小时。<span class="pinyin">Tā <em>néng</em> gōngzuò èrshí-sì gè xiǎoshí.</span><span class="trans">He can work 24 hours.</span>
+* 你 <em>能</em> 帮 我 找到 他 吗？ <span class="pinyin">Nǐ <em>néng</em> bāng wǒ zhǎodào tā ma?</span><span class="trans">Can you help me find him?</span>
+* 你 的 手机 <em>能</em> 上网 吗？<span class="pinyin">Nǐ de shǒujī <em>néng</em> shàngwǎng ma?</span><span class="trans">Can your cell phone go on the internet?</span>
+* 一 岁 的 宝宝 <em>能</em> 说话 吗？<span class="pinyin">Yī suì de bǎobao <em>néng</em> shuōhuà ma?</span><span class="trans">Can a one year old baby talk?</span>
+
+</div>
+
+== Expressing Possibility ==
+
+When used with activities that are consciously learned or studied, 能 (néng) generally means that circumstances do not allow execution of the action.  In other words, it's ''not possible.''
+
+=== Structure ===
+
+The structure to use 能 (néng) to express possibility is exactly the same:
+
+<div class="jiegou">
+Subj. + 能 + Verb + Obj.
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 开车 一 个 小时 <em>能</em> 到 家 吗？<span class="pinyin">Kāichē yī gè xiǎoshí <em>néng</em> dào jiā ma?</span><span class="trans">Is it possible to drive home in one hour?</span>
+* 他们 明天 <em>能</em> 早 点 来 吗？<span class="pinyin"> Tāmen míngtiān <em>néng</em> zǎo diǎn lái ma?</span><span class="trans">Would it be possible for them to come a little earlier tomorrow?</span>
+* 你们 <em>能</em> 小声 一点 吗？<span class="pinyin">Nǐmen <em>néng</em> xiǎo shēng yīdiǎn ma?</span><span class="trans">Could you all lower your voices a bit?</span>
+* 你 <em>能</em> 告诉 我 她的 手机 号码 吗 ？<span class="pinyin">Nǐ <em>néng</em> gàosu wǒ tā de shǒujī hàomǎ ma?</span><span class="trans">Could you tell me her cell phone number?</span>
+* 一 千 块 <em>能</em> 买 一 个 手机 吗？<span class="pinyin">Yīqiān kuài <em>néng</em> mǎi yī gè shǒujī ma?</span><span class="trans">Is it possible to buy a cell phone with one thousand RMB?</span>
+</div>
+
+== Other Usages ==
+
+From these examples we can see such circumstances might be pertaining to getting someone's consent or reliant on the speaker's health. If the speaker wishes to express that they are able to execute an action requiring a consciously studied skill, 会 (huì) can be used instead.
+
+Because 能 (néng) can express possibility, it is often used to form polite questions, something like "would it be possible" in English:
+
+=== Examples ===
+
+<div class="liju">
+
+* 我 <em>能</em> 问 你 一 个 问题 吗？<span class="pinyin">Wǒ <em>néng</em> wèn nǐ yī gè wèntí ma?</span><span class="trans">Could I ask you a question?</span>
+* 我 <em>能</em> 坐 在 这里 吗？<span class="pinyin">Wǒ <em>néng</em> zuò zài zhèlǐ ma?</span><span class="trans">Could I sit here?</span>
+* 这里 不 <em>能</em> 游泳。<span class="expl pdf-long-expl">It's not allowed, or not possible for other reasons.</span><span class="pinyin">Zhèlǐ bù <em>néng</em> yóuyǒng.</span><span class="trans">You can't swim here.</span>
+* 上课 的 时候 不 <em>能</em> 说 英文。<span class="expl pdf-long-expl">My teacher has forbidden me from speaking English.</span><span class="pinyin">Shàngkè de shíhou bù <em>néng</em> shuō Yīngwén.</span><span class="trans">In class, you can't speak English.</span>
+* 工作 的 时候 不 <em>能</em> 玩 手机。<span class="pinyin">Gōngzuò de shíhou bù <em>néng</em> wán shǒujī.</span><span class="trans">When working, you can't play with your cell phone.</span>
+
+</div>
+
+==See also==
+
+*[[Expressing permission with "keyi"]]
+*[[Expressing a learned skill with "hui"]]
+*[[Comparing "hui" "neng" "keyi"]]
+
+== Sources and further reading ==
+
+=== Websites ===
+
+* Sinosplice: [http://www.sinosplice.com/life/archives/2009/10/13/chinese-modal-verb-venn-diagram Chinese Modal Verb Venn Diagram]
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|74}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|219-20}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|160-1}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)|185-7}}
+
+[[Category:A1 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}} <!-- HSK3 tag removed because it's actually about 反问句 -->
+{{Used for|Expressing ability}}
+{{Used for|Expressing possibility}}
+{{Basic Grammar|能|A1|能 + Verb|中文 这么 难，你  <em>能</em> 学 好 吗？|grammar point|ASG9PQ40}}
+{{Similar|Expressing permission}} 
+{{Similar|Expressing a learned skill}} 
+{{Similar|Hui, keyi and neng}}
+{{POS|Verbs}}
+{{Subprop|Auxiliary verbs}}
+{{Translation|Can}}
+{{Translation|Able}}

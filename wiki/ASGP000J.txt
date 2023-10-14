@@ -1,0 +1,63 @@
+<!-- Expressing "all along" with "yizhi" -->
+{{Grammar Box}} 
+
+一直 (yīzhí) literally means "straight."  Used as an [[adverb]], 一直 (yīzhí) can also be used to express that you have been doing something all along, have been continuously doing something since a certain time, or that something will continuously happen in the future.
+
+== Structure ==
+
+This structure expresses the continuous nature of an action or a circumstance. 
+
+<div class="jiegou">
+Subj. + 一直 + Predicate
+</div>
+
+Also note that although 一直 (yīzhí) means "continuously," it is frequently more natural to use the word "[[always]]" in the English translation.
+
+== Examples ==
+
+<div class="liju">
+
+* 我 <em>一直</em> 在 学习 中文 。 <span class="pinyin">Wǒ <em>yīzhí</em> zài xuéxí Zhōngwén.</span><span class="trans">I've been studying Chinese all along.</span>
+*昨天 晚上 我 <em>一直</em> 在 做作业。 <span class="pinyin">Zuótiān wǎnshang wǒ <em>yīzhí</em> zài zuò zuòyè.</span><span class="trans">Yesterday evening I was continuously doing homework.  </span>
+* 老板 <em>一直</em> 很 忙 。<span class="expl">"Always" is more natural than "continuously."</span><span class="pinyin"> Lǎobǎn <em>yīzhí</em> hěn máng.</span><span class="trans">The boss is always very busy.</span>
+* 我 <em>一直</em> 很 喜欢 你。 <span class="pinyin">Wǒ <em>yīzhí</em> hěn xǐhuan nǐ.</span><span class="trans">I've always liked you a lot.</span>
+* 爸爸 <em>一直</em> 都 不 抽烟。 <span class="pinyin">Bàba <em>yīzhí</em> dōu bù chōuyān.</span><span class="trans">Dad has never smoked cigarettes.</span>
+* 我 男朋友 <em>一直</em>在 中国 教 英文。 <span class="pinyin">Wǒ nánpéngyou <em>yīzhí</em> zài Zhōngguó jiāo Yīngwén.</span><span class="trans">My boyfriend has always been teaching English in China.</span>
+*18 岁 以后 ， 他 <em>一直</em> 一个人 住。 <span class="pinyin">Shíbā suì yǐhòu, tā <em>yīzhí</em> yīgèrén zhù.</span><span class="trans">Since he was 18, he has always lived alone.</span>
+* 你 <em>一直</em> 在 这 家 公司 工作 吗？ <span class="pinyin">Nǐ <em>yīzhí</em> zài zhè jiā gōngsī gōngzuò ma? </span><span class="trans">Have you always worked in this company? </span>
+* 你们 <em>一直</em> 住 在 一起 吗？ <span class="pinyin">Nǐmen <em>yīzhí</em> zhù zài yīqǐ ma? </span><span class="trans">Have you always been living together? </span>
+* 北京 的 空气 <em>一直</em> 很 不 好。 <span class="pinyin">Běijīng de kōngqì <em>yīzhí</em> hěn bù hǎo.</span><span class="trans">The air in Beijing has been bad for a while.</span>
+
+</div>
+
+==See also==
+
+*[["Always" with "zongshi"]]
+*[["Since the beginning" with "yixiang"]]
+*[[Comparing "yizhi" and "yixiang"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|现代汉语八百词（增订本）|610}}
+{{Source|Integrated Chinese: Level 2, Part 1|308-9}}
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级)|123}}
+
+=== Dictionaries ===
+* [[现代汉语词典（第5版）]] (p. 1601) [http://www.amazon.cn/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E8%AF%8D%E5%85%B8/dp/B001B1RZCI/ref=sr_1_1?ie=UTF8&qid=1345693609&sr=8-1 →buy]
+
+[[Category:A2 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|一直|A2|Subj. + 一直 + Predicate|我 <em>一直</em> 在 现在 的 公司 工作。|grammar point|ASGP000J}}
+{{Similar|"Always" with "zongshi"}}   
+{{Similar|"Since the beginning" with "yixiang"}}
+{{Similar|Comparing "yizhi" and "yixiang"}}
+{{Similar|Comparing "buduan" and "buting"}}
+{{Used for|Expressing time and date}}
+{{Used for|Expressing frequency}}
+{{Used for|Describing actions}}
+{{Used for|Referring to habitual actions}}
+{{POS|Adverbs}}
+{{Translation|always}}
+{{Translation|all along}}

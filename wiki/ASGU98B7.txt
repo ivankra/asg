@@ -1,0 +1,35 @@
+<!-- Expressing who is in charge with "you... zuozhu" -->
+{{Grammar Box}} 
+{{Stub}}
+
+When you want to express that someone is in charge or takes responsibility for something, you can use the 由... 做主 grammar pattern.
+
+== Structure ==
+
+<div class="jiegou">
+
+Area of responsibility + 由 + Person(s) + 做主
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 我们 家 <em>由</em> 我 妈妈 <em>做主</em>，她 说 什么 我 和 爸爸 就 做 什么。
+* 作为 商店 经理，所有 的 事情 都 <em>由</em> 你 <em>做主</em>，出 了 事情 也 由 你 负责。
+* 极权 主义 政府 通常 是 <em>由</em> 一 人 或 一 党 <em>做主</em>，而 民主 社会 通常 是 <em>由</em> 全民 <em>做主</em>。
+
+</div>
+==See also==
+
+*[[Emphasizing the doer of an action with "you" ]]
+
+== Sources and further reading ==
+
+NEEDS SOURCES!!
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|做主|C1|Area of responsibility + 由 + Person(s) + 做主|作为 商店 经理，所有 的 事情 都 <em>由</em> 你 <em>做主</em>，出 了 事情 也 由 你 负责。|grammar point|ASGU98B7}}
+{{Rel char|由}}
+{{POS|Sentence patterns}}

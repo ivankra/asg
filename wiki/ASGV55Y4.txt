@@ -1,0 +1,121 @@
+<!-- Comparing "youdian" and "yidian" -->
+{{Grammar Box}} 
+
+一点 (yīdiǎn) and 有点 (yǒudiǎn), usually pronounced 一点儿 (yīdiǎnr) and 有点儿 (yǒudiǎnr) in northern China, mean pretty much the same thing on the surface—"a little" or "a bit"—but they have different uses in sentences.
+
+== Both Can Be Used for Describing Degree  ==
+ 
+=== Usage of 有点 ===
+
+有点 is placed before an adjective, and while used for descriptions, it also expresses a tone of complaint by the speaker, or some other form of negative impression. It doesn't just mean "a bit," but rather "a bit ''too''" (for the speaker's liking).
+
+A few examples:
+
+<div class="liju">
+*今天 我 <em>有点</em> <strong>累</strong> 。<span class="expl">This is a complaint.</span><span class="pinyin">Jīntiān wǒ <em>yǒudiǎn</em> <strong>lèi</strong>.</span><span class="trans">I am a little tired today.</span>
+*这个 菜 <em>有点</em> <strong>咸</strong> 。<span class="expl">This is a complaint.</span><span class="pinyin">Zhège cài <em>yǒudiǎn</em> <strong>xián</strong>.</span><span class="trans">This dish is a bit salty.</span>
+</div>
+
+=== Usage of 一点 ===
+
+一点 can't be placed before an adjective. Instead, it is placed ''after'' adjectives. The adjectives that can be used are particularly limited. 一点 is often used when comparing, requesting, or expressing the speaker’s expectation. In this usage, 一点 can also be shortened to just 点。
+
+A few examples:
+
+<div class="liju">
+*请 说 <strong>慢</strong> <em>一点</em> 。<span class="expl">This is a request.</span><span class="pinyin">Qǐng shuō <strong>màn</strong> <em>yīdiǎn</em>.</span><span class="trans">Please speak a little more slowly.</span>
+*<strong>快</strong> <em>点</em>，要 迟到 了。<span class="expl">This is a request.</span><span class="pinyin"><strong>Kuài</strong> <em>diǎn</em>, yào chídào le.</span><span class="trans">Hurry up a bit, we're going to be late.</span>
+*老板 ，<strong>便宜</strong>  <em>点</em> 吧 。<span class="expl">This is a request.</span><span class="pinyin">Lǎobǎn, <strong>piányi</strong> <em>diǎn</em> ba.</span><span class="trans">Boss [shop owner], a little cheaper, please.</span>
+*这个 比 那个 <strong>重</strong>  <em>一点</em> 。<span class="expl">This is a comparison.</span><span class="pinyin">Zhège bǐ nàge <strong>zhòng</strong> <em>yīdiǎn</em>.</span><span class="trans">This one is a bit heavier than that one.</span>
+</div>
+
+== Use 有(一)点 for Describing Quantity ==
+
+一点 can be placed before a noun to mean "small quantity," like 一点水，一点钱 while 有点 can't be used this way. Note that 有点 is also a shortened form of 有一点, which means "there is a little" of something.
+
+A few examples to help you understand: 
+
+<div class="liju">
+
+*你 脸 上 <em>有 一 点</em> <strong>番茄酱</strong> 。<span class="pinyin">Nǐ liǎn shàng <em>yǒu yī diǎn</em> <strong>fānqiéjiàng</strong>.</span><span class="trans">There's a little ketchup on your face.</span>
+*你 碗里 还 <em>有 点</em> <strong>饭</strong> ，吃 完 吧 。<span class="pinyin">Nǐ wǎn lǐ hái <em>yǒu diǎn</em> <strong>fàn</strong>, chī wán ba.</span><span class="trans">There's still a little rice in your bowl. Finish eating it.</span>
+
+</div>
+
+== Negative Forms ==
+
+=== Use 有点 Before Just 不 or 没 ===
+
+After 有点, you can use 不 or 没 before the adjective, however the adjective should have a positive connotation, like 高兴 (gāoxìng), 舒服 (shūfu), 喜欢 (xǐhuan), etc. This makes the overall emotion expressed  negative still.
+
+Some examples:
+
+<div class="liju">
+
+*孩子们 <em>有点</em> <strong>不</strong> 喜欢 我们 的 新 家 。<span class="pinyin">Háizi men <em>yǒudiǎn</em> <strong>bù</strong> xǐhuan wǒmen de xīn jiā.</span><span class="trans">The children don't really like our new home.</span>
+*她 <em>有点</em> <strong>不</strong> 舒服 。<span class="pinyin">Tā <em>yǒudiǎn</em> <strong>bù</strong> shūfu.</span><span class="trans">She doesn't feel very well.</span>
+*我 <em>有点</em> <strong>不</strong> 相信 那 个人 。<span class="pinyin">Wǒ <em>yǒudiǎn</em> <strong>bù</strong> xiāngxìn nàge rén.</span><span class="trans">I don't really believe that guy.</span>
+*我们 <em>有点</em> <strong>没</strong> 听懂 。<span class="pinyin">Wǒmen <em>yǒudiǎn</em> <strong>méi</strong> tīngdǒng.</span><span class="trans">We didn't really understand what was said.</span>
+
+</div>
+
+=== Use 一点 Before 也不 or 也没 ===
+
+一点 can also be used in the [[Expressing "not at all" with "yidianr ye bu"|一点也不 or 一点也没 structure]] to mean "not at all."
+
+Some examples:
+
+<div class="liju">
+*这个 菜 <em>一点 也</em> <strong>不</strong> 辣 。<span class="pinyin">Zhège cài <em>yīdiǎn yě</em> <strong>bù</strong> là.</span><span class="trans">This dish is not spicy at all.</span>
+*作业 你 <em>一点 也</em> <strong>没</strong> 做 ？<span class="pinyin">Zuòyè nǐ <em>yīdiǎn yě</em> <strong>méi</strong> zuò?</span><span class="trans">You didn't do any homework at all?</span>
+</div>
+
+== Common Mistakes ==
+
+<div class="liju">
+<ul>
+<li class="x">今天 <em>一点</em> 热 。<span class="pinyin">Jīntiān <em>yīdiǎn</em> rè.</span></li>
+<li class="o">今天 <em>有点</em> 热 。<span class="expl">This is a complaint.</span><span class="pinyin">Jīntiān <em>yǒudiǎn</em> rè.</span><span class="trans">It's a little hot today.</span></li>
+</ul>
+</div>
+
+<div class="liju">
+<ul>
+<li class="x">我 <em>一点</em> 饿 。<span class="pinyin">Wǒ <em>yīdiǎn</em> è.</span></li>
+<li class="o">我 <em>有点</em> 饿 。<span class="expl">This is a complaint.</span><span class="pinyin">Wǒ <em>yǒudiǎn</em> è.</span><span class="trans">I'm a little hungry.</span></li>
+</ul>
+</div>
+
+== See also ==
+
+* [[Expressing "a little too" with "you dian"]]
+* [[Expressing "not at all" with "yidianr ye bu"]]
+* [[Expressing "a bit too"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|现代汉语八百词（增订本）|602}}
+{{Source|现代汉语八百词（增订本）| 633}}
+{{Source|对外汉语教学语法释疑201例|172}}
+{{Source|Practicing HSK Grammar (语法精讲精炼)|43}}
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级)|63}}
+
+=== Websites ===
+
+* Chinesegrammar.info: [http://chinesegrammar.info/general/yi-dianr-placement/ Where to place 一点儿 (yī diǎnr) in a sentence]
+
+[[Category:grammar comparison]]
+{{HSK|HSK3}}
+{{Basic Grammar|有点儿|B1|有点 vs. 一点|这 衣服 <em>有点</em> 贵 ，便宜 <em>一点</em> 吧。|grammar point|ASGV55Y4}}
+{{Rel char|有点}}
+{{Rel char|一点}}
+{{Rel char|点}}
+{{Similar|Expressing "A bit too"}}
+{{Similar|Expressing "a little too" with "you dian"}}
+{{Similar|Expressing "not at all" with "yidianr ye bu"}}
+{{Used for|Expressing degree}}
+{{Used for|Adding more explanation}}
+{{Used for|Expressing attitude}}
+{{Comparison|Adverbs}}

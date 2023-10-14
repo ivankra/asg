@@ -1,0 +1,82 @@
+<!-- Emphasizing with "henshi" -->
+{{Grammar Box}} 
+{{stub}} 
+
+很是 is a degree adverb that adds emphasis to a sentence. It is more often used for literature than in spoken language.  
+
+== Used with Adjectives ==
+
+=== Structure ===
+
+很是 usually modifies two-syllable or multi-syllable adjectives,  but can also modify a small number of psychological verbs.
+
+<div class="jiegou">
+Subj. + 很是 + Adj.
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*这样做 <em>很是</em> 必要 。<span class="trans"> Doing it this way is very necessary.</span>
+*你 的 工作 表现 让 领导 <em>很是</em> 满意 。<span class="trans">Your performance at work has made the leader very satisfied.</span>
+*你 穿 西装 看起来 <em>很是</em> 精神 。<span class="trans">When you wear a suit, you look very smart.</span>
+*这 件 事 让 我 <em>很是</em> 不 舒服 。<span class="trans"> This matter made me very uncomfortable.</span>
+
+</div>
+
+== Used with Psychological Verbs ==
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 很是 + Adj.
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我 老板 <em>很是</em> 喜欢 你 的 设计 风格 。<span class="trans">My boss really likes your design style.</span>
+*他 都 退休 了 ，还在 创业 ，让人 <em>很是</em> 佩服 。<span class="trans">He's already retired, but he's still starting a business. This makes me really admire him.</span>
+*你们 的 表演 太 夸张 了 ，让 人 <em>很是</em> 受不了 。<span class="trans">Your performance was too exaggerated, I really couldn't stand it.</span>
+
+</div>
+
+== Used with Auxiliary Verbs ==
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 很是 + 会 / 能 + Verb
+</div>
+
+Note that this usage is limited.
+
+=== Examples ===
+
+<div class="liju">
+
+*我 爸爸  当 过 大厨 ，他 <em>很是</em> <strong>会</strong> 吃 。<span class="trans">My dad was once a chef, he can really eat.</span>
+*我 妹妹 虽然 小 ，但 <em>很是</em> <strong>会</strong> 说话 。<span class="trans">Although my sister is small, she can really talk a lot.</span>
+*这个 男人 <em>很是</em> <strong>会</strong> 骗女人 。<span class="trans">This man is very good at lying to women .</span>
+*大 老板 <em>很是</em> 能 <strong>喝</strong> 。<span class="trans">This boss can really drink.</span>
+
+</div>
+
+== See also ==
+
+*[[Simple "noun + adjective" sentences]]
+*[[Special verbs with "hen"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|很是|C1|Subj. + 很是 + Adj.|这样做 <em>很是</em> 必要 。|grammar point|ASGA1B87}}
+{{Similar|Simple "noun + adjective" sentences}}
+{{Used for|Expressing degree}}
+{{Used for|Emphasizing}}
+{{POS|Adverbs}}
+{{Translation|really}}

@@ -1,0 +1,110 @@
+<!-- Expressing "everything" with "shenme dou" -->
+{{Grammar Box}} 
+
+什么……都 (shénme... dōu) is a pattern often used to express "all" or "everything." Because it's not just one word, though, it can be a little tricky to get the hang of at first.
+
+== Basic Usage ==
+
+=== Structure ===
+
+In this structure, 都 (dōu) is more frequently used than 也 (yě)。
+
+<div class="jiegou">
+
+Topic (+ Subj.) + 什么 + 都 / 也 + Verb / Adj.
+
+</div>
+
+In some sentences, there will be a subject after the topic in the pattern above. See the following sentences for examples.
+
+=== Examples ===
+
+When used in the positive sense, it is more natural to follow 什么 (shénme) with 都 (dōu) rather than 也 (yě) to express "everything."
+
+<div class="liju">
+
+* 我 觉得 这里 的 菜 <em>什么</em> <em>都</em> 好吃。<span class="pinyin">Wǒ juéde zhèlǐ de cài <em>shénme</em> <em>dōu</em> hǎochī.</span><span class="trans">I think everything is delicious here.</span>
+* 中国 的 历史 爸爸 <em>什么</em> <em>都</em> 知道。<span class="pinyin">Zhōngguó de lìshǐ bàba <em>shénme</em> <em>dōu</em> zhīdào.</span><span class="trans">My dad knows everything about Chinese history.</span>
+* 工作 的 事情 老公 <em>什么</em> <em>都</em> 跟 我 说。<span class="pinyin">Gōngzuò de shìqing lǎogōng <em>shénme</em> <em>dōu</em> gēn wǒ shuō.</span><span class="trans">My husband tells me everything about work stuff.</span>
+* 妈妈 做 的 菜 我 <em>什么</em> <em>都</em> 喜欢。<span class="pinyin">Māma zuò de cài wǒ <em>shénme</em> <em>dōu</em> xǐhuan.</span><span class="trans">I like everything that mom cooks.</span>
+* 我女朋友 觉得 外国 的 东西 <em>什么</em> <em>都</em> 好。<span class="pinyin">Wǒ nǚpéngyou juéde wàiguó de dōngxi <em>shénme</em> <em>dōu</em> hǎo.</span><span class="trans">My  girlfriend thinks that all foreign things are good.</span>
+
+</div>
+
+== Structure with a Noun ==
+
+=== Structure ===
+
+<div class="jiegou">
+
+什么 + Noun + 都 + Verb
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 我们 <em>什么</em> 果汁 <em>都</em> 喝。<span class="pinyin">Wǒmen <em>shénme</em> guǒzhī <em>dōu</em> hē.</span><span class="trans">We drink any kind of fruit juice.</span>
+* 她 <em>什么</em> 衣服 <em>都</em> 是 黑色 的。<span class="pinyin">Tā <em>shénme</em> yīfu <em>dōu</em> shì hēisè de.</span><span class="trans">All of her clothes are black.</span>
+* 妈妈 做 的 <em>什么</em> 菜 <em>都</em> 好吃。<span class="pinyin">Māma zuò de <em>shénme</em> cài <em>dōu</em> hǎochī.</span><span class="trans">All of the dishes mom makes are tasty.</span>
+* 我男朋友 <em>什么</em> 运动 <em>都</em> 喜欢。<span class="pinyin">Wǒ nánpéngyou <em>shénme</em> yùndòng <em>dōu</em> xǐhuan.</span><span class="trans">My boyfriend likes all kinds of sports.</span>
+* 你 不 应该 <em>什么</em> 话 <em>都</em> 跟 他 说。<span class="pinyin">Nǐ bù yīnggāi <em>shénme</em> huà <em>dōu</em> gēn tā shuō.</span><span class="trans">You shouldn't tell him everything.</span>
+
+</div>
+
+== Negative Structure ==
+
+=== Structures ===
+
+The negative structure simply adds a 不 (bù) or a 没 (méi) after the 都 (dōu) / 也 (yě).  Instead of "all" or "everything," this expresses "none" or "not any."
+
+<div class="jiegou">
+
+什么 + Noun + 都 / 也 + 不 + Verb
+
+</div>
+
+<div class="jiegou">
+
+什么 + Noun + 都 / 也 + 没 (有) + Verb
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 生病 以后，爸爸 <em>什么</em> 酒 <em>都</em> <strong>不</strong> 能 喝 了。<span class="pinyin">Shēngbìng yǐhòu, bàba <em>shénme</em> jiǔ <em>dōu</em> <strong>bù</strong> néng hē le.</span><span class="trans">After dad got sick, he can't drink any kind of alcohol.</span>
+* 老板 现在 很 生气，<em>什么</em> 人 <em>也</em> <strong>不</strong> 见。<span class="pinyin">Lǎobǎn xiànzài hěn shēngqì, <em>shénme</em> rén <em> yě</em> <strong>bù</strong> jiàn.</span><span class="trans"> The boss is very angry. He's doesn't want to see anybody.</span>
+* 今天 我 不 舒服，<em>什么</em> 东西 <em>都</em> <strong>没</strong> 吃。<span class="pinyin">Jīntiān wǒ bù shūfu, <em>shénme</em> dōngxi <em>dōu</em> <strong>méi</strong> chī.</span><span class="trans">Today I don't feel well, so I didn't eat anything.</span>
+* 昨天 开会 的时候，她 <em>什么</em> 话 <em>也</em> <strong>没</strong> 说。<span class="pinyin">Zuótiān kāihuì de shíhou, tā <em>shénme</em> huà <em>yě</em> <strong>méi</strong> shuō.</span><span class="trans">She didn't say anything at yesterday's meeting.</span>
+* 你 在 家里 怎么 <em>什么</em> 事 <em>都</em> <strong>不</strong> 做？<span class="pinyin">Nǐ  zài jiālǐ zěnme <em>shénme</em> shì <em>dōu</em> <strong> bù </strong> zuò? </span><span class="trans">How  come you haven't done anything at home? </span>
+
+</div>
+
+== See Also ==
+
+*[[Expressing "every time" with "mei" and "dou"]]
+*[[Expressing "every" with question words]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Common Chinese Patterns 330 (汉语常用格式330例) |195}} 
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|286-8}} 
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|216-7}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课下册）|314}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Similar|Expressing "every" with question words}}
+{{Similar|Referring to "all" using "suoyou"}}
+{{Similar|"Not at all"}}
+{{Basic Grammar|什么|A2|什么 + 都 / 也⋯⋯|爸爸 <em>什么 都</em> 知道。|grammar point|ASGAQV6C}}
+{{Rel char|都}}
+{{Rel char|也}}
+{{Structure|Sentence Patterns}}
+{{Used for| Expressing quantity}}
+{{Translation|all}}
+{{Translation|every}}

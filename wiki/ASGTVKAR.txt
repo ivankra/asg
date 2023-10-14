@@ -1,0 +1,34 @@
+<!-- Expressing "whether or not" with "yufou" -->
+{{Grammar Box}} 
+{{Stub}}
+
+与否 is a grammatical particle that comes from classical Chinese meaning "whether or not." It is typically used at the end of the sentence or phrase. 
+
+== Structure ==
+
+<div class="jiegou">
+
+Verb/Adjective + 与否
+
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+* 成功 <em>与否</em>，要 靠 自己。
+* 国家 发达 <em>与否</em>，取决于 它 的 人均 国内 生产 总值 有 多 高。
+* 头发、 皮肤、 眼睛 等 可以 显示 身体 健康 <em>与否</em>。
+ 
+</div>
+
+== Sources and further reading ==
+
+NEEDS SOURCES!
+
+[[Category: C1 grammar points]]
+[[Category: Particles]]
+{{Basic Grammar|与否|C1|Verb/Adjective + 与否|成功 <em>与否</em>，都 靠 自己。|grammar point|ASGTVKAR}}
+{{Rel char|与}}
+{{Rel char|否}}
+{{POS|Particles}}

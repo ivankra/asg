@@ -1,0 +1,96 @@
+<!-- Structure of times (basic) -->
+{{Grammar Box}} 
+
+Time in Chinese, just like in English, is expressed by stating the hour first, and then the minute (big to small). 
+
+== On the Hour ==
+
+The time of day in Chinese is formed with a [[Structure of numbers|number]] 1 to 12 (一 (yī) to 十二 (shí'èr)) followed by 点 (diăn). This 点 (diăn) is equivalent to ''o'clock'' in English. In China, people generally use a twelve-hour clock, preceded by 上午 (shàngwŭ) for "a.m." or 下午 (xiàwŭ) for "p.m." when necessary.
+
+=== Structure ===
+
+<div class="jiegou">
+
+(Date and/or time of day +) x 点
+
+</div>
+
+Sometimes people use the longer 点钟 (diǎnzhōng) instead of just 点 (diǎn), but you're fine using the short form.
+
+=== Examples ===
+
+If you want to include more specific information, start with the day or date, followed by the general time of day, with the exact clock time last. (This is the big-to-small pattern.) This is how Chinese gets around the need for "a.m." or "p.m.": use 上午 (shàngwǔ) for times in the morning, and 下午 (xiàwǔ) for times in the afternoon.
+
+<div class="liju">
+
+* 九 <em>点</em><span class="pinyin">jiǔ <em>diǎn</em></span><span class="trans">9 o'clock</span>
+* 上午 七 <em>点</em><span class="pinyin">shàngwǔ qī <em>diǎn</em></span><span class="trans">7 o'clock a.m.</span>
+* 下午 四 <em>点</em><span class="pinyin">xiàwǔ sì <em>diǎn</em></span><span class="trans">4 o'clock p.m.</span>
+* 中午 十二 <em>点</em><span class="pinyin">zhōngwǔ shí'èr <em>diǎn</em></span><span class="trans"> 12 o'clock noon</span>
+* 明天 晚上 七 <em>点</em><span class="pinyin">míngtiān wǎnshang qī <em>diǎn</em></span><span class="trans">7 o'clock p.m. tomorrow evening</span>
+* 9 月 9 号 早上 六 <em>点</em><span class="pinyin">jiǔ yuè jiǔ hào zǎoshang liù <em>diǎn</em></span><span class="trans">September 9th, 6 o'clock a.m.</span>
+* 星期三 上午 九 <em>点</em><span class="pinyin">Xīngqīsān shàngwǔ jiǔ <em>diǎn</em></span><span class="trans">Wednesday at 9 o'clock a.m.</span>
+</div>
+
+Note that '''two o'clock is 两点''' (liǎng diǎn), not 二点 (èr diǎn). (For more information on when to use 两 (liǎng) vs. 二 (èr), see our article on [[comparing "er" and "liang"]]).
+
+"''Twelve'' o'clock," however, is still 十二点 (shí'èr diǎn).
+
+== Half Hours ==
+
+Half hours are added after 点 (diăn) and are indicated with 半 (bàn).
+
+=== Structure ===
+
+<div class="jiegou">
+
+x 点 + 半
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 五 <em>点 半</em><span class="pinyin">wǔ <em>diǎn bàn</em></span><span class="trans">5:30</span>
+* 下午 两 <em>点 半</em><span class="pinyin">xiàwǔ liǎng <em>diǎn bàn</em></span><span class="trans">2:30 p.m.</span>
+* 星期天 上午 十 <em>点 半</em><span class="pinyin">Xīngqītiān shàngwǔ shí <em>diǎn bàn</em></span><span class="trans"> Sunday at 10:30 a.m.</span>
+* 昨天 晚上 七 <em>点 半</em><span class="pinyin">zuótiān wǎnshang qī <em>diǎn bàn</em></span><span class="trans">7:30 yesterday evening</span>
+* 今天 下午 四 <em>点 半</em><span class="pinyin">jīntiān xiàwǔ sì <em>diǎn bàn</em></span><span class="trans">4:30 p.m. this afternoon.</span>
+
+</div>
+
+As a beginner, that should be all you need. If you've mastered all of these structures and want to get a little more advanced, see [[structure of times (advanced)]].
+
+== HSK Notes ==
+
+Simple times with 点 (diăn) is on HSK1, but the usage above with 半 (bàn) is not. It is not tested until HSK3.
+
+==See also==
+*[[Structure of times (advanced)]]
+*[[Structure of numbers]]
+*[[Structure of dates]]
+*[[Structure of days of the week]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|84}}
+{{Source|HSK Standard Course 3|59}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|74-5}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|160}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)|185}}
+
+[[Category:A1 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{HSK|HSK3}}
+{{Used for|Expressing time and date}}
+{{Basic Grammar|点|A1|Number + 点(钟)|现在 <em>十一点</em> 。|grammar point|ASGN6BBU}}
+{{Rel char|点钟}}
+{{Similar|Structure of times (advanced)}}  
+{{Similar|Structure of numbers}}  
+{{Similar|Structure of dates}}  
+{{Similar|Before a specific time}}
+{{Similar|Structure of days of the week}}
+{{POS|Numbers}}

@@ -1,0 +1,39 @@
+<!-- Stating two or more reasons with "yilai...erlai" -->
+{{Grammar Box}} 
+{{stub}}
+
+"一来...二来..." is a grammar pattern that helps us organize thoughts. It helps us to state two or more reasons or goals.  
+
+== Structure ==
+
+This pattern is similar to the English "for one thing...., for another." You can start with a clause explaining the outcome, and then explaining the reasons with "一来...二来..." Make sure to keep in mind that these should be reasons, aims or purposes.Each clause should be separated by a comma. 
+
+The 是 and 也 are optional. 
+
+<div class="jiegou">
+
+一来 + Reason 1 ，二来 + Reason 2
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 你 不 要 去 那个 地方 旅游，<em>一来</em> 是那边 的 宾馆 很 贵，<em>二来</em> 也那边 没有 什么 好看 的 风景。
+* 这 次 来 中国，<em>一来</em> 是 提高 中文 水平，<em>二来</em> 是 更 深度 的 了解 中国 文化。
+* 三十 年 前，邓小 平之所以 推动 改革 开放，<em>一来</em> 是 为了 提高 人民 的 生活 水平，<em>二来</em> 是 为了 让 中国 经济 从 计划经济 转变 到 市场经济。
+
+</div>
+
+==Sources and Further Reading==
+
+===Books===
+
+* [[Exemplification of Common Sentence Patterns in Spoken Chinese 汉语口语常用句式例解]] (p. 294)[http://www.amazon.cn/%E6%B1%89%E8%AF%AD%E5%8F%A3%E8%AF%AD%E5%B8%B8%E7%94%A8%E5%8F%A5%E5%BC%8F%E4%BE%8B%E8%A7%A3/dp/B0011435Y2/ref=sr_1_1?ie=UTF8&qid=1347865939&sr=8-1 →buy]
+* [[Short-term Spoken Chinese: Elementary (汉语口语速成基础篇)]] （p. 211) [http://www.amazon.com/gp/product/B00326U9MS/ref%3das_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=B00326U9MS →buy] 
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|来|C1|一来 + Reason 1 ，二来 + Reason 2|<em>一来</em> 是那边 的 宾馆 很 贵，<em>二来</em> 也那边 没有 什么 好看 的 风景。|grammar point|ASGK4CGK}}
+{{Rel char|来}}
+{{POS|Sentence patterns}}

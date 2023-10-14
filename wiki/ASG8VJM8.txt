@@ -1,0 +1,48 @@
+<!-- The filler word "neige" -->
+{{Grammar Box}} 
+ 
+In conversation, you may find yourself at a loss for words, unable to find the correct phrase you are looking for, or simply needing time to gather your thoughts. When you experience this feeling, in English, you may say "umm" or "uhhh" or another filler word. In Chinese, the word for this is 那个 (nèige). (The word 那个 can be pronounced both "nàge" and "nèige," but for this usage, "nèige" is normally used.)
+
+== Structure ==
+
+In English, words like "ummm" and "uh" are used as [http://en.wikipedia.org/wiki/Filler_(linguistics) filler words] when you're thinking about what to say. In Chinese, 那个 (nèige) is also used for this purpose. To English speakers not fortunate enough to be fluent in Mandarin this may raise an eyebrow because it can sound a bit "racist," but it's very common in Mandarin and you'll hear it quite often around Chinese speakers.
+
+<div class="jiegou">
+
+(那个⋯⋯) (那个⋯⋯) + [anything] + (那个⋯⋯)
+
+</div>
+
+那个 (nèige) can be inserted into sentences wherever you need to pause for thought.
+
+== Examples ==
+
+<div class="liju">
+
+* <em>那个</em> ⋯⋯ 我 不 跟 你们 一起 去 了，可以 吗？<span class="pinyin"><em>Nèige</em>... wǒ bù   gēn nǐmen yīqǐ qù le, kěyǐ ma? </span><span class="trans">So, ummm... I won't go with you guys, OK?</span>
+* 我 想 吃 <em>那个</em> ⋯⋯ <em>那个</em> ⋯⋯ 湖南 菜。<span class="pinyin">Wǒ xiǎng chī <em>nèige</em>... <em>nèige</em>... Húnán cài.</span><span class="trans">I want to eat that... ummm, you know... Hunan cuisine.</span>
+* <em>那个</em> ⋯⋯ 我 明天 不 来 了。<span class="pinyin"><em>Nèige</em>... wǒ míngtiān bù lái le.</span><span class="trans">Ummm... I'm not coming tomorrow.</span>
+* <em>那个</em> ⋯⋯ 这样 做 不 好 吧？<span class="pinyin"><em>Nèige</em>... zhèyàng zuò bù hǎo ba?</span><span class="trans">Ummm, it's not good to do it this way?</span>
+* <em>那个</em> ⋯⋯ 你 可以 做 我 的 女 朋友 吗？<span class="pinyin"><em>Nèige</em>... nǐ kěyǐ zuò wǒ de nǚpéngyou ma?</span><span class="trans">Like... could you be my girlfriend?</span>
+* <em>那个</em> ⋯⋯ 不好意思 ， 我 要 走 了。<span class="pinyin"><em>Nèige</em>... bù hǎoyìsi, wǒ yào zǒu le.</span><span class="trans">Ummmm... sorry, but I've gotta go.</span>
+* 她 很 漂亮 ， 就 像 <em>那个</em> ⋯⋯ 明星 一样。<span class="pinyin">Tā hěn piàoliang, jiù xiàng <em>nèige</em>... míngxīng yīyàng.</span><span class="trans">She's very pretty, just like, you know, a celebrity.</span>
+* 我 想 看看 你 买 的 <em>那个</em> ⋯⋯ <em>那个</em> ⋯⋯ iPhone。<span class="pinyin">Wǒ xiǎng kànkan nǐ mǎi de <em>nèige</em>... <em>nèige</em>... iPhone.</span><span class="trans">I'd like to take a look at your, ummm, you know... iPhone you bought.</span>
+* <em>那个</em> ⋯⋯ 我 要 去 开会 了。<span class="pinyin"><em>Nèige</em>... wǒ yào qù kāihuì le.</span><span class="trans">Ummm... I have to attend a meeting.</span>
+* 昨天 <em>那个</em> ⋯⋯ <em>那个</em> ⋯⋯ 小笼包 真 好吃。<span class="pinyin">Zuótiān <em>nèige</em>... <em>nèige</em>... xiǎolóngbāo zhēn hǎochī.</span><span class="trans">Yesterday the, you know, steamed soup dumplings were so delicious.</span>
+
+</div>
+
+== Sources and further reading ==
+
+* Wikipedia: [http://en.wikipedia.org/wiki/Filler_(linguistics) Filler words (linguistics)]
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|那个|A2|⋯⋯那个⋯⋯|<em>那个</em>⋯⋯你 可以 做 我 的 女 朋友 吗？|grammar point|ASG8VJM8}}
+{{Rel char|那}}
+{{Rel char|个}}
+{{POS|Conjunctions}}
+{{Used for|Connecting ideas}}
+{{Translation|ummm}}
+{{Translation|uh}}
+{{Translation|well}}

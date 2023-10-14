@@ -1,0 +1,68 @@
+<!-- Expressing "and" with "he" -->
+{{Grammar Box}} 
+When listing out multiple nouns, 和 (hé) is there to help you out. Just remember that 和 (hé) isn't a word you can use to translate just ''any'' usage of the English word "[[and]]."
+
+== Structure ==
+
+The most common way to express "and" in Chinese is with 和 (hé). It's important to note that 和 (hé) '''is mainly used to link nouns'''. This is how you should use it ''exclusively'' as you get used to it. Don't try to link [[verb]]s (or whole sentences) with 和 (hé). 
+
+<div class="jiegou">
+
+Noun 1 + 和 + Noun 2
+
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+* <strong>你</strong> <em>和</em> <strong>我</strong><span class="pinyin"><strong>nǐ</strong> <em>hé</em> <strong>wǒ</strong></span><span class="trans">you and I</span>
+* 老板 喜欢 <strong>咖啡</strong> <em>和</em> <strong>茶</strong>。<span class="pinyin">Lǎobǎn xǐhuan <strong>kāfēi</strong> <em>hé</em> <strong>chá</strong>.</span><span class="trans">The boss likes coffee and tea.</span>
+* <strong>我 的 爷爷</strong> <em>和</em> <strong>奶奶</strong> 都 70 岁 。<span class="pinyin"><strong>Wǒ de yéye</strong> <em>hé</em> <strong> nǎinai</strong> dōu qīshí suì.</span><span class="trans">My grandpa and grandma are both 70 years old.</span>
+* <strong>他</strong> <em>和</em> <strong>他 女朋友</strong> 都 喜欢 中国 菜 。<span class="pinyin"><strong>Tā </strong> <em>hé</em> <strong>tā nǚpéngyou</strong> dōu xǐhuan Zhōngguó cài.</span><span class="trans">He and his girlfriend both like Chinese food.</span>
+* <strong> 你 爸爸</strong> <em>和</em> <strong> 你 妈妈</strong> 都 是 美国 人 吗 ？<span class="pinyin"><strong>Nǐ bàba </strong> <em>hé</em> <strong>nǐ māma</strong> dōu shì Měiguó rén ma?</span><span class="trans">Are your father and your mother both Americans?</span>
+* <strong>手机</strong> <em>和</em> <strong>电脑</strong> 都 很 贵 。<span class="pinyin"><strong>Shǒujī</strong> <em>hé</em> <strong>diànnǎo</strong> dōu hěn guì.</span><span class="trans">Cell phones and computers are both expensive.</span>
+* <strong>德语</strong> <em>和</em> <strong>法语</strong> 都 很 难 吗 ？<span class="pinyin"> <strong>Déyǔ</strong> <em>hé</em> <strong>Fǎyǔ</strong> dōu hěn nán ma?</span><span class="trans">Are both German and French difficult?</span>
+* <strong>今天</strong> <em>和</em> <strong>明天</strong> 都 可以 吗 ？<span class="pinyin"> <strong>Jīntiān</strong> <em>hé</em> <strong>míngtiān</strong> dōu kěyǐ ma?</span><span class="trans">Are today and tomorrow both OK?</span>
+</div>
+
+(If you're unclear why the 都 (dōu) is used in the sentences above, see our article on [[The "all" adverb "dou"|the adverb 都 (dōu)]].)
+
+Just to be absolutely clear what we mean by using 和 (hé) with nouns only, here are two English examples of what you should and shouldn't try to express with 和 (hé):
+
+<div class="liju">
+
+<ul>
+<li class="q"><span class="spaced">I went to the store <em>and</em> bought some gum.</span><span class="expl pdf-long-expl">Don't use 和 (hé) for this "and"! "Went to the store" and "bought some gum" are both verb phrases, not nouns.</span></li>
+<li class="o"><span class="spaced">I like to eat cucumbers <em>and</em> cheese.</span><span class="expl pdf-long-expl">This one is good! "Cucumbers" and "cheese" are both nouns, so you can use 和 (hé) here.</span></li>
+</ul>
+
+</div>
+
+==See also==
+
+*[[Expressing "in addition" with "haiyou"]]
+*[["In addition" as "lingwai"]]
+*[[Expressing "not only… but also"]]
+*[[Combining verbs with "bing"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|74}}
+{{Source|Basic Patterns of Chinese Grammar|74-5}} 
+{{Source|Chinese: An Essential Grammar, Second Edition|14-5}}
+{{Source|A Practical Chinese Grammar For Foreigners (外国人实用汉语语法)|126}}
+
+[[Category:A1 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{Basic Grammar|和|A1|Noun 1 + 和 + Noun 2|我 <em>和</em> 他 都 不 去。|grammar point|ASGP0KFF}}
+{{Similar|Expressing "in addition" with "haiyou"}} 
+{{Similar|"In Addition" as "lingwai"}} 
+{{Similar|Expressing "Not Only… But Also"}} 
+{{Similar|Combining Verbs with "bing"}}
+{{Similar|Expressing "and" with "he" (advanced)}} 
+{{POS|Conjunctions}}
+{{Used for|Listing}}
+{{Translation|and}}

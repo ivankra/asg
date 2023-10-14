@@ -1,0 +1,61 @@
+<!-- Comparing "genju" and "ju" -->
+{{Grammar Box}} 
+
+The main differences between 根据 (gēn jù) and 据 (jù) are in how 据 is specifically used.
+
+== Monosyllabic nouns with 据 ==
+
+Basically, 据 can be used with single character words, while 根据 has to use words with at least two characters or more. 
+
+<div class="liju">
+<ul>
+<li class="o"><em>据</em> 实 报道<span class="pinyin"><em>Jù</em> shí bàodào</span><span class="trans">according to facts</span>
+<li class="x"><em>根据</em> 实 报道<span class="pinyin"><em>gēnjù</em> shí bàodào</span><span class="trans">according to facts</span>
+<li class="o"><em>根据</em> 事实 报道<span class="pinyin"><em>gēnjù</em> shìshí bàodào</span> <span class="trans">according to facts</span>
+</ul>
+</div>
+
+== Pairings with 据 ==
+
+据 can be used with together with 说, 闻, 悉, 传, 根据 cannot. These set two-character phrases are often used in formal and written Chinese, especially in news reports. 
+
+<div class="liju">
+<ul>
+<li class="o"><em>据说</em> 他 去 上海 了。<span class="pinyin"><em>Jùshuō</em> tā qù shànghǎi le.</span><span class="trans">They say he's gone to Shanghai.</span>
+<li class="x"><em>根据说</em> 他 去 上海 了。<span class="pinyin"><em>Gēnjù shuō</em> tā qù shànghǎi le.</span><span class="trans">They say he's gone to Shanghai.</span>
+<li class="o"><em>据传</em> 首相 将要 辞职。<span class="pinyin"><em>Jùchuán</em> shǒuxiàng jiāngyào cízhí.</span><span class="trans">It is rumored that the Prime Minister is going to resign.</span>
+<li class="x"><em>根据传</em> 首相 将要 辞职。<span class="pinyin"><em>Gēnjù chuán</em> shǒuxiàng jiāngyào cízhí.</span><span class="trans">It is rumored that the Prime Minister is going to resign.</span>
+</ul>
+</div>
+
+== Referring to people using 据 ==
+
+据 is often used when referring to people. Often it is used with "某人说" or "某人看来," just substitute that 某人 with the person you are referring to (or you can also refer to yourself). If you use 根据, you need to use that person's name along with a noun phrase. 
+
+=== Examples ===
+
+<div class="liju">
+
+* <em>据</em> 他 说，灾情 并 不是 很 严重。<span class="pinyin"><em>Jù</em> tā shuō, zāiqíng bìng bù shì hěn yánzhòng.</span><span class="trans">According to him, the disaster was not very serious.</span>
+*<em>根据</em> 他的 说法，灾情 并 不是 很 严重。<span class="pinyin"><em>Gēnjù</em> tā de shuōfǎ, zāiqíng bìng bù shì hěn yánzhòng.</span><span class="trans">According to him, the disaster was not very serious.</span>
+* <em>据</em> 我 看来，他 是 个 很 负 责任 的 人。<span class="pinyin"><em>Jù</em> wǒ kànlái, tā shìgè hěn fù zérèn de rén.</span><span class="trans">In my opinion, he is a very responsible person.</span>
+* <em>根据</em>我的 看法，他 是 个 很 负 责任 的 人。<span class="pinyin"><em>Gēnjù</em> wǒ de kànfǎ, tā shìgè hěn fù zérèn de rén.</span><span class="trans">In my opinion, he is a very responsible person.</span>
+
+
+</div>
+
+== See also ==
+
+* [[Comparing "anzhao" and "genju"]]
+
+== Sources and further reading ==
+
+===Books===
+* [[现代汉语八百词]](P.229) [http://www.amazon.cn/mn/detailApp?_encoding=UTF8&tag=allset-23&linkCode=as2&asin=B001198GSW&camp=536&creative=3132&creativeASIN=B001198GSW →buy]
+*[[卓越汉语－公司实战篇]] (p. 29) [http://www.amazon.cn/%E5%8D%93%E8%B6%8A%E6%B1%89%E8%AF%AD-%E5%85%AC%E5%8F%B8%E5%AE%9E%E6%88%98%E7%AF%87-%E8%83%A1%E7%81%B5%E5%9D%87/dp/B003QZWQ6M/ref=sr_1_1?ie=UTF8&qid=1347863170&sr=8-1 →buy]
+
+[[Category:grammar comparison]]
+{{Basic Grammar|根据|C1|根据 vs 据|<em>据</em> 他 说，灾情 并 不是 很 严重。<em>根据</em>我的 看法，他 是 个 很 负 责任 的 人。|grammar point|ASGXJYJD}}
+{{Rel char|根据}}
+{{Rel char|据}}
+{{Comparison|Adverbs}}

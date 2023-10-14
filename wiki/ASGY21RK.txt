@@ -1,0 +1,90 @@
+<!-- Emphasis with "jiushi" -->
+{{Grammar Box}} 
+
+As an adverb, 就 (jiù) can be placed before the [[predicate]] to add emphasis. It often has an intense or provocative feel to it, similar to "just." In English we might say, "it's ''just'' not right!" This emphasis very often appears as 就是 in Chinese.
+
+== Used as "Is Exactly" ==
+
+=== Structure ===
+
+<div class="jiegou">
+就是 + Noun
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*那个 人 <em>就是</em> 她 的 新 男朋友。<span class="pinyin">Nàge rén <em>jiùshì</em> tā de xīn nánpéngyou.</span><span class="trans">That guy is her new boyfriend.</span>
+*他 <em>就是</em> 你 要 找 的 人 。<span class="pinyin">Tā <em>jiùshì</em> nǐ yào zhǎo de rén.</span><span class="trans">He's just the person that you're looking for.</span>
+*我们 <em>就是</em> 他 的 家人 。<span class="pinyin">Wǒmen <em>jiùshì</em> tā de jiārén.</span><span class="trans">We're his family.</span>
+*你 <em>就是</em> 个 笨蛋！<span class="pinyin">Nǐ <em>jiùshì</em> gè bèndàn!</span><span class="trans">A moron is precisely what you are! </span>
+*他 <em>就是</em> 那个 骗子！<span class="pinyin">Tā <em>jiùshì</em> nàge piànzi!</span><span class="trans">That con man is him! </span>
+
+</div>
+
+== Used as "Only Because" ==
+
+就是 can be used to intensify the predicate to mean "only (because of) that and nothing else." In this case, 是 can't be omitted. In many cases, you could also add in an 因为, but it's not required.
+
+=== Examples ===
+
+<div class="liju">
+
+*他 不 去 旅游 <em>就是</em> 不 想 花钱 。 <span class="pinyin">Tā bù qù lǚyóu <em>jiùshì</em> bù xiǎng huāqián.</span> <span class="trans">He didn't travel only because he doesn't want to spend the money.</span>
+*你 不 参加 比赛 <em>就是</em> 怕 输 吗 ？ <span class="pinyin">Nǐ bù cānjiā bǐsài <em>jiùshì</em> pà shū ma?</span> <span class="trans">You're not entering the competition just because you're afraid of losing?</span>
+*他 这样 说 <em>就是</em> 不 喜欢 我 。 <span class="pinyin">Tā zhèyàng shuō <em>jiùshì</em> bù xǐhuan wǒ.</span> <span class="trans">He said this only because he doesn't like me.</span>
+*她 问 这么 多，<em>就是</em> 担心 你 。 <span class="pinyin">Tā wèn zhème duō, <em>jiùshì</em> dānxīn nǐ.</span><span class="trans">She asked so many questions only because she's worried about you.</span>
+*她 <em>就是</em> 漂亮 ，没 别的 优势 。 <span class="pinyin">Tā <em>jiùshì</em> piàoliang, méi biéde yōushì.</span><span class="trans">She's just pretty; she doesn't have any other strengths.</span>
+</div>
+
+== Other Usage ==
+
+In the examples above, 就 pairs exclusively with the verb 是. But 就 can also come before other verbs, with similar emphatic effect. In these cases, it's also OK to use 就是 before the other verbs as well.
+
+=== Structure ===
+
+<div class="jiegou">
+就(是) + (不) + Verb
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我 <em>就</em> 要 去！<span class="pinyin">Wǒ <em>jiù</em> yào qù! </span><span class="trans">I just want to go! </span>
+*我 <em>就是</em> 喜欢 他。<span class="pinyin">Wǒ <em>jiù shì</em>  xǐhuan tā.</span><span class="trans">I just like him.</span>
+*我 <em>就</em> 不 告诉 你 。<span class="pinyin">Wǒ <em>jiù</em> bù gàosu nǐ.</span><span class="trans">I'm just not going to tell you.</span>
+*我 父母 <em>就是</em> 不 让 我 一个人 去 。 <span class="pinyin">Wǒ fùmǔ <em>jiùshì</em> bù ràng wǒ yīgèrén qù.</span><span class="trans">My parents simply won't let me go alone.</span>
+*这个 学生 <em>就是</em>不 听 老师 的 话 。<span class="pinyin">Zhège xuéshēng <em>jiùshì</em> bù tīng lǎoshī de huà.</span><span class="trans">The student just wouldn't listen to his teacher.</span>
+
+</div>
+
+As you may have noticed, many of these uses of 就 or 就是 carry a flippant, stubborn tone, referred to as 任性 (rènxìng) in Chinese.
+
+== See also ==
+
+*[["Just" with "jiu" ]]
+*[[Comparing "cai" and "jiu"]]
+*[[Events in quick succession with "yi... jiu"]]
+*[[Expressing earliness with "jiu" ]]
+*[[Expressing indifference with "jiu"]]
+*[[Limiting scope with "jiu"]]
+*[["If…, then…" with "ruguo…, jiu…"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|现代汉语虚词例释|316}}
+
+=== Dictionaries ===
+
+{{Source|现代汉语词典（第5版）|733}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|就|B1|就是 + Verb|我 父母 <em>就是</em> 不 让 我 一个人 去 。|grammar point|ASGY21RK}}
+{{Rel char|就是}}
+{{POS|Adverbs}}
+{{Used for|Emphasizing}}

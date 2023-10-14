@@ -1,0 +1,61 @@
+<!-- Asking about degree with "duo" -->
+{{Grammar Box}} 
+
+''How big? How busy? How cold?'' Ask questions like these regarding the degree of an adjective with 多 (duō). This is just one of the many uses of this word. 
+
+== Structure ==
+
+多 (duō) is often used to ask about the degree or extent of something. 
+
+<div class="jiegou">
+
+Subj. + 多 + Adj. ?
+
+</div>
+
+This is an easy way to ask "How [adjective] is [subject]?"
+
+== Examples ==
+
+<div class="liju">
+
+*她 <em>多</em> 高？<span class="pinyin">Tā <em>duō</em> gāo?</span><span class="trans">How tall is she?</span>
+*你家 <em>多</em> 大？<span class="pinyin">Nǐ jiā <em>duō</em> dà?</span><span class="trans">How large is your house?</span>
+*你 的 孩子 <em>多</em> 大？<span class="pinyin">Nǐ de háizi <em>duō</em> dà?</span><span class="trans">How old is your child?</span>
+*黄河 <em>多</em> 长？<span class="pinyin">Huánghé <em>duō</em> cháng?</span><span class="trans">How long is the Yellow River?</span>
+*你 家 离 这儿 <em>多</em> 远？<span class="pinyin">Nǐ jiā lí zhèr <em>duō</em> yuǎn?</span><span class="trans">How far is your house away from here?</span>
+*你 要 在 美国 待 <em>多</em> 久？<span class="pinyin">Nǐ yào zài Měiguó dāi <em>duō</em> jiǔ? </span><span class="trans">How long are you going to stay in the USA?</span>
+*这些 东西 <em>多</em> 重？<span class="pinyin">Zhèxiē dōngxi <em>duō</em> zhòng?</span><span class="trans">How heavy are these things?</span>
+*你 知道 我们 现在 <em>多</em> 胖 吗？<span class="pinyin">Nǐ zhīdào wǒmen xiànzài <em>duō</em> pàng ma?</span><span class="trans">Do you know how fat we are now?</span>
+*你 知道 这里 的 冬天 <em>多</em> 冷 吗？<span class="pinyin">Nǐ zhīdào zhèlǐ de dōngtiān <em>duō</em> lěng ma? </span><span class="trans">Do you know how cold it is here in winter? </span>
+*你 知道 上海 的 房子 <em>多</em> 贵 吗？<span class="pinyin">Nǐ zhīdào Shànghǎi de fángzi <em>duō</em> guì ma?</span><span class="trans">Do you know how expensive housing is in Shanghai? </span>
+
+</div>
+
+大 (dà) and 小 (xiǎo) can also be used to describe ages. The question phrase 多大 (duō dà) is often used to ask "how old." However, it is an informal way to ask, usually reserved for peers, close friends, or children. The phrase 几岁 (jǐ suì) is most often used for children young enough to display their ages on one hand. Adults do not normally directly ask each other's ages in a formal setting.
+
+==See also==
+
+*[[Doing something more with "duo"]]
+*[[Intensifying with "duo"]]
+
+== Sources and further reading ==
+
+{{Source|HSK Standard Course 1|33}}
+{{Source|HSK Standard Course 2|12}}
+{{Source|Chinese: An Essential Grammar, Second Edition|135-7}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|233}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|207-210, 301}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|多|A2|Subj. + 多 + Adj. ?|他 <em>多</em> 高？|grammar point|ASG9LLJU}}
+{{Similar|Doing something more with "duo"}} 
+{{Similar|Intensifying with "duo"}}
+{{Similar|Indicating a number in excess}}
+{{Used for|Adding more explanation}}
+{{Used for|Asking questions}}
+{{Used for|Expressing quality}}
+{{POS|Adverbs with Adjectives}}
+{{Translation|how}}

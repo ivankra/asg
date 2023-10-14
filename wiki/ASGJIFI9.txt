@@ -1,0 +1,37 @@
+<!-- Expressing "a full" with "zuzu" -->
+{{Grammar Box}} 
+{{Stub}}
+Sometimes in English, we may want to emphasize how big, small, long, etc. something is perceived to be. We have all heard expressions like "he was a full 300 pounds," or "he was all of seven feet tall." The "a full" and "all of" in these sentences have an equivalent expression in Chinese: 足足 (zúzú).
+
+==Structure==
+
+You can put 足足 either in front or after the verb. Remember that 足足 adds emphasis to what you are saying, so you should always use it with a number. Some more commonly used verbs are 有 and 等.
+
+<div class="jiegou">
+
+足足 + Verb
+
+Verb + 足足
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 姚明 身高 <em>足足</em> 有 2.26米。
+* 昨天 我的 约会 不 太 顺利，她 让 我 等 了 <em>足足</em> 两 个 小时。
+* 怪不得 他 汉语 说 得 那么 好，他 在 中国 住 了 <em>足足</em> 十 年 的 时间！
+ 
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|足|C1|足足 + Verb|姚明 身高 <em>足足</em> 有 2.26米。|grammar point|ASGJIFI9}}
+{{Rel char|足}}
+{{Rel char|足足}}
+{{POS|Adverbs}}
+{{Used for|Emphasizing a number}}

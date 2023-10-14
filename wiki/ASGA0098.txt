@@ -1,0 +1,48 @@
+<!-- Indicating negative impact with "haide" -->
+{{Grammar Box}}
+
+Used mostly in spoken Chinese, 害得 (hàide) can indicate that the speaker is now in some kind of trouble or undesirable situation, caused by someone or something else. There's a tone of blame or complaining when using this pattern. 
+
+== Structure ==
+
+The reason for the trouble should be stated before 害得 (hàide). The 得 can also be omitted.
+
+<div class="jiegou"> 
+Reason，害(得) + Undesirable Situation 
+</div>
+
+== Examples ==
+
+Keep in mind that 害得 can be tricky to translate directly. It's more a matter of conveying the tone of "this is how you inconvenienced me" or "this situation negatively impacted me." You might see words like "make" or "force" or "keep from" to communicate that tone.
+
+<div class="liju">
+
+*下午 喝 了 两 杯 咖啡，<em>害得</em> 我 晚上 睡 不 着。<span class="pinyin">Xiàwǔ hē le liǎng bēi kāfēi, <em>hàide</em> wǒ wǎnshang shuì buzháo.</span><span class="trans">I had two cups of coffee. It kept me from falling asleep at night.</span>
+*外面 太 吵 了，<em>害得</em> 我们 没 办法 专心 工作。<span class="pinyin">Wàimiàn tài chǎo le,  <em>hàide</em> wǒmen méi bànfǎ zhuānxīn gōngzuò.</span><span class="trans">It's too noisy outside. It's keeping us from focusing on work.</span>
+*你 昨晚 没 回来，电话 也 打 不通，<em>害得</em> 我 担心 了 一 个 晚上。<span class="pinyin">Nǐ zuówǎn méi huílái, diànhuà yě dǎ butōng, <em>hàide</em> wǒ dānxīn le yī gè wǎnshang.</span><span class="trans">You didn't come back last night, and I couldn't reach you by phone. You made me worry about you for all night.</span>
+*他 把 我 的 手机 拿 走 了，也 不 跟 我 说 一下，<em>害得</em> 我 找 了 半天。<span class="pinyin">Tā bǎ wǒ de shǒujī ná zǒu le, yě bù gēn wǒ shuō yīxià, <em>hàide</em> wǒ zhǎo le bàntiān.</span><span class="trans">He took my cell phone without telling me. As a result, I spent all day looking for it.</span>
+*我 的 护照 丢 了，<em>害得</em> 我 现在 哪里 也 去 不了。<span class="pinyin">Wǒ de hùzhào diū le, <em>hàide</em> wǒ xiànzài nǎlǐ yě qù bùliǎo.</span><span class="trans">I lost my passport, and now I can't go anywhere.</span>
+*刚 出门 就 下 雨 了，<em>害得</em> 我 又 换 了 一 件 衣服。<span class="pinyin">Gāng chūmén jiù xià yǔ le, <em>hàide</em> wǒ yòu huàn le yī jiàn yīfu.</span><span class="trans">I had just left the house when it rained, forcing me to change clothes again.</span>
+*老板 让 我 今天 就 去 出差，<em>害得</em> 我 行李 都 没 来得及 收拾。<span class="pinyin">Lǎobǎn ràng wǒ jīntiān jiù qù chūchāi, <em>hàide</em> wǒ xíngli dōu méi láidejí shōushi.</span><span class="trans">The boss made me leave today, not even giving me enough time to pack.</span>
+*他 总是 迟到，<em>害</em> 大家 在 车站 等 了 他 半 个 小时。<span class="pinyin">Tā zǒngshì chídào, <em>hài</em> dàjiā zài chēzhàn děng le tā bàn ge xiǎoshí.</span><span class="trans">He's always late, and made everyone wait for him at the bus station for half an hour.</span>
+*出门 没 买 到 菜，还 <em>害</em> 我 丢 了 一 百 元 钱。<span class="pinyin">Chūmén méi mǎi dào cài, hái <em>hài</em> wǒ diū le yī bǎi yuán qián.</span><span class="trans">I went out and didn't manage to buy any food, but even lost 100 RMB.</span>
+*因为 我 经常 生病，<em>害得</em> 妈妈 总是 担心 我。<span class="pinyin">Yīnwèi wǒ jīngcháng shēngbìng, <em>hàide</em> māma zǒngshì dānxīn wǒ.</span><span class="trans">Because I frequently get sick, it always makes my mom worry about me.</span>
+*路上 堵车，<em>害得</em> 我 差点 错 过 飞机。<span class="pinyin">Lùshang dǔchē, <em>hàide</em> wǒ chàdiǎn cuò guò fēijī.</span><span class="trans">Traffic was really bad, and almost made me miss my flight.</span>
+
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|???}}
+{{Source|现代汉语八百词|???}}
+
+[[Category: B2 grammar points]]
+{{HSK|HSK4}}
+[[Category: Verbs]]
+{{Basic Grammar|害得|B2|害得 + Verb Phrase|老师 给 的 作业 太 难 了 ， <em>害得</em> 我 浪费 了 一 个 下午 学习 。|grammar point|ASGA0098}}
+{{Rel char|害}}
+{{POS|Verbs}}
+{{Subprop|Verb phrases}}
+{{Used for|Complaining}}

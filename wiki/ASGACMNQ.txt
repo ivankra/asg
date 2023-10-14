@@ -1,0 +1,69 @@
+<!-- Expressing "since the beginning" with "yixiang" -->
+{{Grammar Box}} 
+
+一向 (yīxiàng) means "[[always]]," but is generally used to express a habit, attitude, or convention which has continued for a long period of time until the present. When you use 一向, you're conveying a sense that "it's always been this way."
+
+==Structure==
+
+<div class="jiegou">
+Subj. + 一向 + Habit / Attitude / etc.
+</div>
+
+==Examples==
+
+<div class="liju">
+* 小王 <em>一向</em> 上班 很 早，这次 是 怎么了？<span class="pinyin">Xiǎo Wáng <em>yīxiàng</em> shàngbān hěn zǎo, zhè cì shì zěnme le?</span><span class="trans">Xiao Wang has always started work very early. What happened this time?</span>
+* 我 <em>一向</em> 不 喜欢 点 外卖。<span class="pinyin">Wǒ <em>yīxiàng</em> bù xǐhuan diǎn wàimài.</span><span class="trans">I have never liked ordering takeout.</span>
+* 妈妈 <em>一向</em> 支持 我 的 决定。<span class="pinyin">Māma <em>yīxiàng</em> zhīchí wǒ de juédìng.</span><span class="trans">Mom has always supported my decisions.</span>
+* 他 <em>一向</em> 是 个 好 学生，怎么 可能 会 作弊 呢？<span class="pinyin">Tā <em>yīxiàng</em> shìgè hǎo xuéshēng, zěnme kěnéng huì zuòbì ne?</span><span class="trans">He's always been a good student, why would he possibly cheat?</span>
+* 中国人 <em>一向</em> 把 红色 视为 吉祥 喜庆 的 颜色。<span class="pinyin">Zhōngguó rén <em>yīxiàng</em> bǎ hóngsè shì wéi jíxiáng xǐqìng de yánsè.</span><span class="trans">Chinese people have always considered red to be a lucky and joyous color.</span>
+* 云南 的 雨季 <em>一向</em> 来 得 很 突然。<span class="pinyin">Yúnnán de yǔjì <em>yīxiàng</em> láide hěn tūrán.</span><span class="trans">Yunnan's rainy season always comes suddenly.</span>
+* 他 的 态度 <em>一向</em> 很 认真。<span class="pinyin">Tā de tàidù <em>yīxiàng</em> hěn rènzhēn.</span><span class="trans">His attitude has always been very serious.</span>
+* 我 <em>一向</em> 都 是 这样 做，没 问题 的。<span class="pinyin">Wǒ <em>yīxiàng</em> dōu shì zhèyàng zuò, méi wèntí de.</span><span class="trans">I always do it like this. It's no problem.</span>
+</div>
+
+== Incorrect Usage ==
+
+一向 cannot be used with verbs involving changes or actions. In this case, [["All along" with "yizhi"|一直 should be used]]:
+
+<div class="liju">
+<ul>
+<li class="x"> 中国 的 经济 <em>一向</em> 都 在 快速 发展 。<span class="expl">It must have started developing at some point.</span><span class="pinyin">Zhōngguó de jīngjì <em>yīxiàng</em> dōu zài kuàisù fāzhǎn.</span></li>
+<li class="o"> 中国 的 经济 <em>一直</em> 都 在 快速 发展 。<span class="pinyin">Zhōngguó de jīngjì <em>yīzhí</em> dōu zài kuàisù fāzhǎn.</span><span class="trans">China's economy has been continuously developing rapidly.</span></li>
+<li class="x"> 他 <em>一向</em> 都 在 学 汉语.<span class="expl">He must have started, right?</span><span class="pinyin">Tā <em>yīxiàng</em> dōu zài xué Hànyǔ.</span></li>
+<li class="o"> 他 <em>一直</em> 都 在 学 汉语.<span class="pinyin">Tā <em>yīzhí</em> dōu zài xué Hànyǔ.</span><span class="trans">He's been studying Mandarin all this time.</span></li>
+</ul>
+</div>
+
+一向 indicates that a certain state has continued until the present. It cannot be used to express actions in the future. Again, 一直 can be used instead:
+
+<div class="liju">
+<ul>
+<li class="x"> 你 打算 <em>一向</em> 在 上海 工作 吗 ？<span class="pinyin">Nǐ dǎsuàn <em>yīxiàng</em> zài Shànghǎi gōngzuò ma?</span></li>
+<li class="o"> 你 打算 <em>一直</em> 在 上海 工作 吗 ？<span class="pinyin">Nǐ dǎsuàn <em>yīzhí</em> zài Shànghǎi gōngzuò ma?</span><span class="trans">Do you plan to work in Shanghai indefinitely?</span></li>
+</ul>
+</div>
+
+== Sources and  further reading ==
+
+=== Books ===
+
+{{Source|Integrated Chinese: Level 2, Part 2|224-5}}
+
+===Websites===
+* [http://wenku.baidu.com/view/066889f77c1cfad6195fa784.html ‘一向’与‘一直’的多角度分析]
+* [http://home.meishichina.com/space-239977-do-blog-id-224383.html ‘一直’和‘一向’]
+
+[[Category: B2 grammar points]]
+{{HSK|HSK6}}
+[[Category: Adverbs]]
+{{Basic Grammar|一向|B2|一向 + Verb|他 做 事情 <em>一向</em> 踏实 。|grammar point|ASGACMNQ}}
+{{Used for| Expressing time and date}}
+{{Used for| Expressing frequency}}
+{{Used for|Referring to the past}}
+{{Used for|Referring to habitual actions}}
+{{Similar|"All along" with "yizhi"}}
+{{Similar|Comparing "yizhi" and "yixiang"}}
+{{POS|Adverbs}}
+{{Translation|always}}
+{{Translation|all along}}

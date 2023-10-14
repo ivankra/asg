@@ -1,0 +1,78 @@
+<!-- Expressing difficulty with "hao (bu) rongyi" -->
+{{Grammar Box}} 
+好不容易 (hǎo bù róngyì) means "very difficult" or "really not easy." It is often used where the speaker wants to comment on the result of their hard work, something like "It was really hard for me to x, but then I realized y."
+
+==Adverbial Structure with 才==
+
+Sentences using 好不容易 are often followed by [[Expressing lateness with "cai"|才 (cái)]], emphasizing the action has been completed only with great difficulty.
+
+===Structure===
+
+Strange as it might seem, 好容易 has ''the same meaning'' as 好不容易, and can be used interchangeably. 好不容易 is more common.
+
+<div class="jiegou">
+
+Subj. + 好 (不) 容易 + 才 + [Result]
+
+</div>
+
+The "result" part can be a simple phrase or a whole clause.
+
+===Examples===
+
+<div class="liju">
+
+* 她 <em>好容易</em> <strong>才</strong> 减肥 成功。<span class="pinyin">Tā <em>hǎo róngyì</em> <strong>cái</strong> jiǎnféi chénggōng.</span><span class="trans">She had a hard time losing weight and succeeded.. </span>
+* 我 <em>好不容易</em> <strong>才</strong> 打通 了 银行 的 服务 热线 。<span class="pinyin">Wǒ <em>hǎobù róngyì</em> <strong>cái</strong> dǎtōng le yínháng de fúwù rèxiàn.</span><span class="trans">It was no easy task to get through to the bank's customer service hotline.</span>
+* 我们 <em>好不容易</em> <strong>才</strong> 做完 这 个 项目，结果 合同 取消 了。<span class="pinyin">Wǒmen <em>hǎobù róngyì</em> <strong>cái</strong> zuò wán zhège xiàngmù, jiéguǒ hétóng qǔxiāo le.</span><span class="trans">It was with great difficulty that we finally finished this project. But then the contract was canceled.</span>
+* 我 <em>好不容易</em> <strong>才</strong> 到 市中心， 发现 没 带 手机，只好 回去 拿。<span class="pinyin">Wǒ <em>hǎobù róngyì</em> <strong>cái</strong> dào shì zhōngxīn, fāxiàn méi dài shǒujī, zhǐhǎo huíqù ná.</span><span class="trans">It was a lot of trouble to get to the city center, but then I realized I had forgotten my cell phone and had to go back and get it.</span>
+* 金融 危机 之后 他 <em>好不容易</em>  <strong>才</strong> 找到 工作，现在 又 辞职 了 。<span class="pinyin">Jīnróng wéijī zhīhòu tā <em>hǎobù róngyì</em> <strong>cái</strong> zhǎodào gōngzuò, xiànzài yòu cízhí le.</span><span class="trans">After the financial crisis, he had a hard time finally finding a job. And now he's resigning.</span>
+* 他们 <em>好不容易</em> <strong>才</strong> 爬 到 了 山顶，结果 下起 了 大雨 。<span class="pinyin">Tāmen <em>hǎobù róngyì</em> <strong>cái</strong> pá dào le shāndǐng, jiéguǒ xià qǐ le dàyǔ.</span><span class="trans">With great difficulty, they finally climbed to the top of the mountain. And then it started raining heavily.</span>
+* 老师 <em>好容易</em> <strong>才</strong> 让 学生 订正 了 错误 的 句子。<span class="pinyin">Lǎoshī <em>hǎo róngyì</em> <strong>cái</strong> ràng xuéshēng dìngzhèng le cuòwù de jùzi.</span><span class="trans">The teacher had a difficult time making the students correct the wrong sentences.</span>
+</div>
+
+== Adjectival Structure (without 才) ==
+
+===Structure===
+
+<div class="jiegou">
+
+Verb / [Verb Phrase] + 好容易 / 好不容易 
+
+</div>
+
+In this simpler structure we use 好(不)容易 by itself to express “with great difficulty”. At the end of the sentence particles such as 啊 or 哦 will also often be used to add emotion.
+
+===Examples===
+
+<div class="liju">
+
+* 要 完成 这 个 大 项目 <em>好不容易</em> 啊。<span class="pinyin">Yào wánchéng zhège dà xiàngmù <em>hǎobù róngyì</em> a.</span><span class="trans">Finishing this big project will not be an easy task.</span>
+* 养 大 一 个 孩子 <em>好不容易</em>。<span class="pinyin">Yǎng dà yī gè háizi <em>hǎobù róngyì</em>.</span><span class="trans">Raising a child is not an easy thing to do.</span>
+* 创办 一 个 公司 <em>好不容易</em> 啊。<span class="pinyin">Chuàngbàn yī gè gōngsī <em>hǎobù róngyì</em> a.</span><span class="trans">Starting a company isn't easy.</span>
+
+</div>
+
+==See also==
+* [[Easy to do something]]
+* [[Difficult to do something]]
+
+== Sources  and further reading ==
+=== Books ===
+
+{{Source|Boya Chinese Lower Intermediate 2 (博雅汉语准中级加速篇) |100，110-11}} 
+{{Source|卓越汉语－公司实战篇|77-8}}
+
+[[Category: B2 grammar points]]
+[[Category: Adverb]]
+{{Basic Grammar|好容易|B2|好(不)容易|我 <em>好不容易</em> 才 打通 了 银行 的 服务 热线。|grammar point|ASG81QV3}}
+{{Rel char|好不容易}}
+{{Rel char|不}}
+{{Rel char|好}}
+{{Rel char|容易}}
+{{Similar|Easy to do something}}
+{{Similar|Difficult to do something}}
+{{Similar|Expressing "as a result" with "jieguo"}}
+{{Translation|difficult}}
+{{POS|Adverbs}}
+{{Used for| Expressing quality}}

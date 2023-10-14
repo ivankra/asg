@@ -1,0 +1,70 @@
+<!-- Structure of dates -->
+{{Grammar Box}} 
+
+Dates in Chinese follow the order "year, month, day." This is in keeping with the "from big to small" trend which pervades many facets of Chinese culture.
+
+== Structure ==
+
+Dates are arranged from largest unit to smallest: ''year, month, day''.
+
+<div class="jiegou">
+
+x 年 + y 月 + z 日
+
+</div>
+
+So April 1st, 2019 is <strong>2019</strong>年<strong>4</strong>月<strong>1</strong>日 (<strong>èr-líng-yī-jiǔ</strong> nián <strong>Sì</strong>yuè <strong>yī</strong> rì).
+
+Note that 号 (hào) is commonly used in ''spoken'' Mandarin instead of 日 (rì): 
+
+<div class="jiegou">
+
+x 年 + y 月 + z 号
+
+</div>
+
+The above example becomes: <strong>2019</strong>年<strong>4</strong>月<strong>1</strong>号 (<strong>èr-líng-yī-jiǔ</strong> nián <strong>Sì</strong>yuè <strong>yī</strong> hào). In written Chinese, however, you will see 日 (rì) rather than 号 (hào).
+
+== Examples ==
+
+<div class="liju">
+
+* 1868 <em>年</em> 1 <em>月</em> 18 <em>号</em><span class="pinyin">Yī-bā-liù-bā <em>nián</em> Yī<em>yuè</em> shíbā <em>hào</em></span><span class="trans">January 18, 1868</span>
+* 1910 <em>年</em> 8 <em>月</em> 9 <em>号</em><span class="pinyin">Yī-jiǔ-yī-líng <em>nián</em> Bā<em>yuè</em> jiǔ <em>hào</em></span><span class="trans">August 9, 1910</span>
+* 2001 <em>年</em> 7 <em>月</em> 20 <em>日</em><span class="pinyin">èr-líng-líng-yī <em>nián</em> Qī<em>yuè</em> èrshí <em>rì</em></span><span class="trans">July 20th, 2001</span>
+* 1 <em>月</em> 1 <em>日</em> 是 新年。<span class="pinyin">Yī<em>yuè</em> yī <em>rì</em> shì Xīnnián.</span><span class="trans">January 1st is New Year's Day.</span>
+* 12 <em>月</em> 24 <em>日</em> 是 平安夜。<span class="pinyin">Shí-èr<em>yuè</em> èrshí-sì <em>rì</em> shì Píng'ān Yè.</span><span class="trans">December 24th is Christmas Eve.</span>
+* 10 <em>月</em> 1 <em>号</em> 我们 去 上海。<span class="pinyin">Shí<em>yuè</em> yī <em>hào</em> wǒmen qù Shànghǎi.</span><span class="trans">We will go to Shanghai on October 1st.</span>
+* 我 1990 <em>年</em> 7 <em>月</em> 出生。<span class="pinyin">Wǒ Yī-jiǔ-jiǔ-líng <em>nián</em> Qī<em>yuè</em> chūshēng.</span><span class="trans">I was born in July 1990.</span>
+* 你 的 生日 是 11 <em>月</em> 11 <em>号</em>吗？<span class="pinyin">Nǐ de shēngrì shì Shíyī<em>yuè</em> shíyī <em>hào</em> ma?</span><span class="trans">Is your birthday November 11th?</span>
+* 我 2006 <em>年</em> 4 <em>月</em> 17 <em>号</em> 认识 了 他。<span class="pinyin">Wǒ èr-líng-líng-liù <em>nián</em> Sì<em>yuè</em> shíqī <em>hào</em> rènshi le tā.</span><span class="trans">I met him on April 17, 2006.</span>
+* 1980 <em>年</em> 9 <em>月</em> 4 <em>号</em> 我们 结婚 了。<span class="pinyin">Yī-jiǔ-bā-líng <em>nián</em> Jiǔ<em>yuè</em> sì <em>hào</em> wǒmen jiéhūn le.</span><span class="trans">We got married on September 4th, 1980.</span>
+
+</div>
+
+== See Also ==
+
+*[[Structure of numbers]]
+*[[Structure of days of the week]]
+*[[Structure of times]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|50, 114}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|73-4}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|122-3}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)|141-2}}
+
+[[Category:A1 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{Used for|Expressing time and date}}
+{{Basic Grammar|年|A1|Number + 年 + Number + 月 + Number + 日|今天 是 <em>2011年 11月 11日/号</em> 。|grammar point|ASGT3KF6}}
+{{Rel char|月}}
+{{Rel char|号}}
+{{Rel char|日}}
+{{Similar|Structure of numbers}}  
+{{Similar|Structure of days of the week}}  
+{{Similar|Structure of times}}
+{{POS|Numbers}}

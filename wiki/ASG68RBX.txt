@@ -1,0 +1,59 @@
+<!-- Expressing "for" with "wei" -->
+{{Grammar Box}} 
+
+When you work ''for'' a company or do other sorts of physical (and even mental) activities for another party, you're likely to use the Chinese preposition 为 (wèi). This character is often translated into English as "for," but is sometimes unnatural or unnecessary, depending on the particular phrase.  For example, the super common Mao-era phrase, 为人民服务 (wèi rénmín fúwù), "serve the people," doesn't need the word "for" in English.
+
+Don't confuse this preposition with [[Expressing purpose with "weile"|为了]], which is a bit different.
+
+== Structure ==
+
+<div class="jiegou">
+为 + Party + Verb / Adj.
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*我们 都 <em>为</em> 你 <strong>高兴</strong> 。<span class="pinyin">Wǒmen dōu <em>wèi</em> nǐ <strong>gāoxìng</strong>.</span><span class="trans">We are all happy for you.</span>
+*谁 <em>为</em> 我 <strong>考虑</strong> 过 ？<span class="pinyin">Shéi <em>wèi</em> wǒ <strong>kǎolǜ</strong> guo?</span><span class="trans">Who has ever considered me?</span>
+*你们 可以 来 <em>为</em> 我们 <strong>加油</strong> 。<span class="pinyin">Nǐmen kěyǐ lái <em>wèi</em> wǒmen <strong>jiāyóu</strong>.</span><span class="trans">You guys can come to cheer us on.</span>
+*她 是 <em>为</em> 美国 政府 <strong>工作</strong> 的 。<span class="pinyin">Tā shì <em>wèi</em> Měiguó zhèngfǔ <strong>gōngzuò</strong> de.</span><span class="trans">She works for the United States government.</span>
+*这个 生日 蛋糕 是 <em>为</em> 你 <strong>准备</strong> 的 。<span class="pinyin">Zhège shēngrì dàngāo shì <em>wèi</em> nǐ <strong>zhǔnbèi</strong> de.</span><span class="trans">This birthday cake has been prepared for you.</span>
+*父母 <em>为</em> 家庭 <strong>付出</strong> 了 很 多 。<span class="pinyin">Fùmǔ <em>wèi</em> jiātíng <strong>fùchū</strong> le hěn duō.</span><span class="trans">The parents have done so much for their family.</span>
+*你 不 <em>为</em> 自己 的 孩子 <strong>担心</strong> 吗 ？<span class="pinyin">Nǐ bù <em>wèi</em> zìjǐ de háizi <strong>dānxīn</strong> ma?</span><span class="trans">Aren't you worried for your child?</span>
+*谢谢 你 <em>为</em> 我们 <strong>提供</strong> 这么 多 资源 。<span class="pinyin">Xièxie nǐ <em>wèi</em> wǒmen <strong>tígōng</strong> zhème duō zīyuán.</span><span class="trans">Thank you for providing us with so many resources.</span>
+*他 <em>为</em> 公司 的 发展 <strong>贡献</strong> 了 很多 。<span class="pinyin">Tā <em>wèi</em> gōngsī de fāzhǎn <strong>gòngxiàn</strong> le hěn duō.</span><span class="trans">He contributed a lot to the development of the company.</span>
+*很多 人 都 在 <em>为</em> 那些 孩子 <strong>祈祷</strong> 。<span class="pinyin">Hěn duō rén dōu zài <em>wèi</em> nàxiē háizi <strong>qídǎo</strong>.</span><span class="trans">Lots of people are praying for those children.</span>
+
+</div>
+
+== See also ==
+
+* [[Expressing purpose with "weile"]]
+* [[Expressing "for" with "gei"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级)|238}}
+{{Source|Practicing HSK Grammar (语法精讲精炼)|76}}
+{{Source|Boya Chinese Lower Intermediate 1 (博雅汉语准中级加速篇)|203}}
+{{Source|HSK Standard Course 5上|38}}
+
+=== Websites ===
+
+*Yale Chinese Usage Dictionary: [http://comet.cls.yale.edu/chineseusagedictionary/0236.html Uses of 为 and 为了]
+
+[[Category:B1 grammar points]]
+{{HSK|HSK5}}
+[[Category:Prepositions]]
+{{Basic Grammar|为|B1|为 + Person + Predicate|<em>为</em> 人民 服务 ！|grammar point|ASG68RBX}}
+{{Used for|Expressing Purpose}}
+{{Rel char|给}}
+{{Similar|Expressing purpose with "weile"}} 
+{{Similar|Expressing "for" with "gei"}} 
+{{Similar|Comparing "gei" and "wei"}} 
+{{POS|Prepositions}}
+{{Translation|for}}

@@ -1,0 +1,47 @@
+<!-- Expressing "due to…" with "youyu" -->
+{{Grammar Box}} 
+由于 (yóuyú) means "due to” or "owing to" and is formal in use.
+
+==Structure==
+
+<div class="jiegou">
+由于 + Cause，Effect
+</div>
+
+==Examples==
+
+<div class="liju">
+* <em>由于</em> 温室效应 的 影响，全球 的 气候 变得 越 来 越 反常 了。<span class="pinyin"><em>Yóuyú</em> wēnshì xiàoyìng de yǐngxiǎng, quánqiú de qìhòu biàn de yuèláiyuè fǎncháng le.</span><span class="trans">Due to the influence of the greenhouse effect, the whole Earth's climate is getting more and more abnormal.</span>
+* <em>由于</em>  意见 不一致 ，两 位 老板 吵 了 起来。<span class="pinyin"><em>Yóuyú</em> yìjiàn bù yīzhì, liǎng wèi lǎobǎn chǎo le qǐlái.</span><span class="trans">Due to differing opinions, the two bosses started to argue.</span>
+* <em>由于</em>  公司 发展 的 需要，我们 打算 再 招聘 一些 新的 员工。<span class="pinyin"><em>Yóuyú</em> gōngsī fāzhǎn de xūyào, wǒmen dǎsuàn zài zhāopìn yīxiē xīn de yuángōng.</span><span class="trans">Due to the our company's needs for development, we plan to hire more new staff.</span>
+* <em>由于</em>  目标 客户 的 变化，企业 的 营销 策略 需要 做出 一些 调整。<span class="pinyin"><em>Yóuyú</em> mùbiāo kèhù de biànhuà, qǐyè de yíngxiāo cèlüè xūyào zuò chū yīxiē tiáozhěng.</span><span class="trans">Due to the changes in our target clients, our comorporate marketing strategies need some adjustments.</span>
+* <em>由于</em> 人口 的 快速 增加，大 城市 的 社会 问题 越来越 严重 。<span class="pinyin"><em>Yóuyú</em> rénkǒu de kuàisù zēngjiā, dà chéngshì de shèhuì wèntí yuèláiyuè yánzhòng.</span><span class="trans">Due to the rapid growth of the population, social problems in big cities are getting more and more serious.</span>
+* <em>由于</em> 地址 没 写 清楚 ，所以 这 封 信 没有 寄 出去 。<span class="pinyin"><em>Yóuyú</em> dìzhǐ méi xiě qīngchu, suǒyǐ zhè fēng xìn méiyǒu jì chūqù.</span><span class="trans">Due to the address not being clearly written, this letter was not sent.</span>
+* <em>由于</em> 天气 原因 ，所有 的 航班 都 要 推迟 起飞。<span class="pinyin"><em>Yóuyú</em> tiānqì yuányīn, suǒyǒu de hángbān dōu yào tuīchí qǐfēi.</span><span class="trans">All departing flights have been postponed due to weather conditions.</span>
+* <em>由于</em> 采用 了 新 技术 ，工厂 的 效率 大大 提高。 <span class="pinyin"><em>Yóuyú</em> cǎiyòng le xīn jìshù, gōngchǎng de xiàolǜ dàdà tígāo.</span><span class="trans">Owing to the use of new technology, the efficiency of the factory has improved significantly.</span>
+* <em>由于</em> 工作 关系 ，我 经常 去 北京。<span class="pinyin"><em>Yóuyú</em> gōngzuò guānxi, wǒ jīngcháng qù Běijīng.</span><span class="trans">I often go to Beijing for my work.</span>
+* <em>由于</em> 加强 了 管理 ，生产 的 饮料 全部 合格 。<span class="pinyin"><em>Yóuyú</em> jiāqiáng le guǎnlǐ, shēngchǎn de yǐnliào quánbù hégé.</span><span class="trans">Thanks to better management, all the beverages we produced passed the test.</span>
+
+</div>
+
+==See also==
+*[[Emphasizing the doer of an action with "you"]]
+*[[Stating the effect before the cause]]
+
+==Sources and Further Reading==
+
+===Website===
+* Yale Chinese Usage Dictionary: [http://comet.cls.yale.edu/chineseusagedictionary/0201.html How to use 因为 and 由于]
+
+===Books===
+
+{{Source|HSK Standard Course 4上|124}}
+
+[[Category: B2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|由于|B2|由于⋯⋯，⋯⋯|<em>由于</em> 天气 原因， 我们 的 航班 取消了。|grammar point|ASGL90MR}}
+{{Rel char|于}}
+{{Similar|Emphasizing the Doer of an Action with "you"}}
+{{Similar|Stating the Effect before the Cause}}
+{{Used for|Indicating cause and effect}}
+{{Structure|Cause/Effect Statements}}

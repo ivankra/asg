@@ -1,0 +1,60 @@
+<!-- Doing something less with "shao" -->
+{{Grammar Box}} 
+
+The word 少 (shǎo) can mean "few," but when placed before a verb, it takes on the meaning of "less" as in "to do less (of something)." It is often heard when scolding or giving advice (like when parents talk to children). What's not intuitive to learners is that the word 少 should come ''before the verb.''
+
+== Structure ==
+
+Just as you can use 多 to talk about [[Doing something more with "duo"|doing something more]], you can use 少 to talk about doing something ''less''.
+
+<div class="jiegou">
+少 + Verb 
+</div>
+
+Note that in English, we don't use the word "less" very much.  For example, rather than saying "drink less water," we might say "don't drink so much water."  In Chinese, though, using 少 is quite natural and common.  Avoiding the negative command (telling someone ''not'' to do something) is also a subtle way of sounding less bossy and annoying in Chinese.
+
+== Examples ==
+
+<div class="liju">
+
+*请 <em>少</em> 放 点 盐 。<span class="pinyin">Qǐng <em>shǎo</em> fàng diǎn yán.</span><span class="trans">Use less salt, please.</span>
+*<em>少</em> 吃 垃圾 食品 。<span class="pinyin"><em>Shǎo</em> chī lājī shípǐn.</span><span class="trans">Eat less junk food.</span>
+*<em>少</em> 买 点 ，吃 不 完 会 坏 的 。<span class="pinyin"><em>Shǎo</em> mǎi diǎn, chī bu wán huì huài de.</span><span class="trans">Don't buy too much. It will go bad if we can't finish eating it all.</span>
+*你 能 不 能 <em>少</em> 抽 点 烟 ？<span class="pinyin">Nǐ néng bu néng <em>shǎo</em> chōu diǎn yān?</span><span class="trans">Can you smoke less?</span>
+*快 期中 考试 了 ，<em>少</em> 玩 点 游戏 吧 。<span class="pinyin">Kuài qīzhōng kǎoshì le, <em>shǎo</em> wán diǎn yóuxì ba.</span><span class="trans">The mid-term exams are coming up. Go easy on the video games.</span>
+*<em>少</em> 喝 点 ，明天 还要 上班 呢 。<span class="pinyin"><em>Shǎo</em> hē diǎn, míngtiān háiyào shàngbān ne.</span><span class="trans">Don't drink so much. You need go to work tomorrow.</span>
+*<em>少</em> 看 点 电视 ，多 看书 。<span class="pinyin"><em>Shǎo</em> kàn diǎn diànshì, duō kànshū.</span> <span class="trans">Watch less TV. Read more books.</span>
+*<em>少</em> 吃 点 肉 ，多 吃 点 蔬菜 。<span class="pinyin"><em>Shǎo</em> chī diǎn ròu, duō chī diǎn shūcài.</span><span class="trans">Eat less meat and eat more vegetables.</span>
+
+</div>
+
+== Colloquial Sayings ==
+
+These set phrases are worth special note, because although they follow the grammar pattern, they might not make sense to you without a little extra explanation, just like the meaning of "come on" might not make sense at first to someone learning English.
+
+<div class="liju">
+
+*<em>少</em> 来 ！<span class="expl">Lit. "come less"</span><span class="pinyin"><em>Shǎo</em> lái!</span><span class="trans">Come on!</span>
+*<em>少</em> 说 废话 ！<span class="expl">Lit. "speak less nonsense talk"</span><span class="pinyin"><em>Shǎo</em> shuō fèihuà!</span><span class="trans">Quit your babbling!</span>
+*<em>少</em> 管 闲事 。<span class="expl">Lit. "get involved less in others' affairs"</span><span class="pinyin"><em>Shǎo</em> guǎn xiánshì.</span><span class="trans">Stay out of other people's business.</span>
+
+</div>
+
+== See also ==
+
+* [[Doing something more with "duo"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|39}}
+
+[[Category:B1 grammar points]]
+
+{{Basic Grammar|少|B1|少 + Verb|请 <em>少</em> 放 点 盐 。|grammar point|ASG9B0M8}}
+{{Used for|Adding more explanation}}
+{{Similar|Doing something more with "duo"}}
+{{Translation|less}}
+{{POS|Verbs}}
+{{Subprop|Verb phrases}}

@@ -1,0 +1,61 @@
+<!-- Expressing "even if…" with "jiushi" -->
+{{Grammar Box}} 
+就是 (jiùshì) is one of the many "[[even if]]s." Like [[Expressing "Even if…" with "jishi"|即使]] , [[Expressing "Even if…" with "jiusuan"|就算]] and [[Expressing "Even if…" with "napa"|哪怕]] it is used to introduce a hypothetical statement, which can then disregarded with 也.
+
+==Structure==
+
+<div class="jiegou">
+就是 + Hypothetical Statement + 也 + Action
+</div>
+
+==Examples==
+
+<div class="liju">
+* <em>就是</em> 这 台 电脑 价格 上万，我  <em>也</em> 会 买。<span class="pinyin"><em>Jiùshì</em> zhè tái diànnǎo jiàgé shàng wàn, wǒ  <em>yě</em> huì mǎi.</span><span class="trans">Even if this computer's price is over 10,000 yuan, I'm still going to buy it.</span>
+* <em>就是</em> 降温 了，我  <em>也</em> 要 穿 热裤，时尚 嘛!<span class="pinyin"> <em>Jiùshì</em> jiàngwēn le, wǒ <em>yě</em> yào chuān rèkù, shíshàng ma!</span><span class="trans">Even if the temperature is dropping, I'm still going to wear hot pants. They're fire!</span>
+* <em>就是</em> 他 变成 一个 穷光蛋，我  <em>也</em> 愿意 跟 他 在 一起。<span class="pinyin"><em>Jiùshì</em> tā biànchéng yī gè qióngguāngdàn, wǒ <em>yě</em> yuànyì gēn tā zài yīqǐ.</span><span class="trans">Even if he were penniless, I would still be willing to be with him.</span>
+* <em>就是</em> 以后 会 失败，我  <em>也</em> 想 尝试。<span class="pinyin"><em>Jiùshì</em> yǐhòu huì shībài, wǒ <em>yě</em> xiǎng chángshì.</span><span class="trans">Even if it it's going to fail, I want to give it a try.</span>
+* <em>就是</em> 你 告诉 我 答案 了，我 <em>也</em> 不 想 作弊。<span class="pinyin"><em>Jiùshì</em> nǐ gàosu wǒ dá'àn le, wǒ <em>yě</em> bù xiǎng zuòbì.</span><span class="trans">Even if you told me the answers, I would not want to cheat.</span>
+* <em>就是</em> 大家 都 同意 这个 方案，我 <em>也</em> 不会 同意 的。<span class="pinyin"><em>Jiùshì</em> dàjiā dōu tóngyì zhège fāng'àn, wǒ <em>yě</em> bù huì tóngyì de.</span><span class="trans">Even if everyone agrees to this plan, I still will not agree to it.</span>
+* 我 <em>就是</em> 被 炒鱿鱼 了 ，我 <em>也</em> 不 想 做 违法 的 事情。<span class="pinyin">Wǒ <em>jiùshì</em> bèi chǎoyóuyú le, wǒ <em>yě</em> bù xiǎng zuò wéifǎ de shìqing.</span><span class="trans">Even if I get fired, I still don't want to do anything illegal.</span>
+* <em>就是</em> 你 买 了 车，我 <em>也</em> 不会 嫁给 你的。<span class="pinyin"><em>Jiùshì</em> nǐ mǎi le chē, wǒ <em>yě</em> bù huì jià gěi nǐ de.</span><span class="trans">Even if you buy a car, I still will not marry you.</span>
+* <em>就是</em> 路上 没有 人，你 <em>也</em> 不 应该 闯 红灯。<span class="pinyin"><em>Jiùshì</em> lùshang méiyǒu rén, nǐ <em>yě</em> bù yīnggāi chuǎng hóngdēng.</span><span class="trans">Even if there is no one on the road, you shouldn't run a red light.</span>
+* <em>就是</em> 你 生 我的 气，我 <em>也</em> 要 告诉 他 这件事。<span class="pinyin"><em>Jiùshì</em> nǐ shēng wǒ de qì, wǒ <em>yě</em> yào gàosu tā zhè jiàn shì.</span><span class="trans">Even if it makes you angry with me, I still need to tell him about it.</span>
+</div>
+
+Note that the clause used after 就是 must be hypothetical, otherwise 虽然 should be used:
+
+<div class="liju">
+
+<ul>
+<li class="x">现在 <em>就是</em> 是 高峰期，但 我 <em>也</em> 要 出去。<span class="pinyin">Xiànzài <em>jiùshì</em> gāofēng qī, dàn wǒ <em>yě</em> yào chūqù.</span></li>
+<li class="o">现在 <em>虽然</em> 是 高峰期，但 我 也 要 出去。<span class="pinyin">Xiànzài <em>suīrán</em> shì gāofēng qī, dàn wǒ yě yào chūqù.</span><span class="trans">Although it's rush hour now, I'm still going out.</span></li>
+</ul>
+
+</div>
+
+In the sentence above, the first part is the actual current situation, so it is incorrect to use 就是.
+
+==See also==
+*[[Expressing "even if…" with "jishi"]]
+*[[Expressing "even if…" with "jiusuan"]]
+*[[Expressing "even if…" with "napa"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|153}} 
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|就是|B2|就是⋯⋯，也⋯⋯|<em>就是</em> 天气 不 好 ， 我 <em>也</em> 要 出去 玩 。|grammar point|ASGF1TQ2}}
+{{Rel char|是}}
+{{Rel char|就}}
+{{Rel char|也}}
+{{Similar|Expressing "Even if…" with "jishi"}}
+{{Similar|Expressing "Even if…" with "jiusuan"}}
+{{Similar|Expressing "Even if…" with "napa"}}
+{{Structure|"Even If" Statements}}
+{{Used for|Expressing determination}}
+{{Used for|Indicating conditions}}
+{{Translation|even if}}

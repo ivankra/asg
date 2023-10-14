@@ -1,0 +1,67 @@
+<!-- Comparing specifically with "xiang" -->
+{{Grammar Box}} 
+像  (xiàng) is used to compare a specific characteristic of two things or people.
+
+== 像 as "Just Like" ==
+
+=== Structure ===
+
+<div class="jiegou">
+Noun 1 + 像 + Noun 2 + 一样 + Adj. / Verb
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*她 有时候 <em>像</em> 小孩 <em>一样</em> 天真 。<span class="pinyin">Tā yǒushíhou <em>xiàng</em> xiǎohái <em>yīyàng</em> tiānzhēn.</span><span class="trans">She's as naive as a little kid sometimes.</span>
+*这个 老外 的 汉语 <em>像</em> 中国人<em>一样</em> 地道 。<span class="pinyin">Zhège lǎowài de Hànyǔ <em>xiàng</em> Zhōngguó rén <em>yīyàng</em> dìdao.</span><span class="trans">This foreigner can speak Chinese as fluently as native speakers do.</span>
+*他 很 生气 ，<em>像</em> 疯子 <em>一样</em> 大 叫 起来 。<span class="pinyin">Tā hěn shēngqì, <em>xiàng</em> fēngzi <em>yīyàng</em> dà jiào qǐlái.</span><span class="trans">He was very angry and started to scream like a lunatic.</span>
+*你 怎么 <em>像</em> 我 妈 <em>一样</em> 啰嗦 ！ <span class="pinyin">Nǐ zěnme <em>xiàng</em> wǒ mā <em>yīyàng</em> luōsuo!</span><span class="trans">Why do you sound as nagging as my mom!</span>
+*我 <em>像</em> 你 <em>一样</em> 大 的时候，还 不 知道 手机 是 什么 。<span class="pinyin">Wǒ <em>xiàng</em> nǐ <em>yīyàng</em> dà de shíhou, hái bù zhīdào shǒujī shì shénme.</span><span class="trans">When I was as old as you are, I didn't know what a cell phone was.</span>
+</div>
+
+== 不像 as "Not as ... as" ==
+
+=== Structure ===
+
+<div class="jiegou">
+Noun 1 + 不像 + Noun 2 + (⋯⋯ ) 这么 / 那么 + Adj. / Verb
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*高铁 <em>不 像</em> 飞机 <strong>那么</strong> 快。<span class="pinyin">Gāotiě bù <em>xiàng</em> fēijī <strong>nàme</strong> kuài.</span><span class="trans">High-speed trains are not as fast as airplanes.</span>
+*上海 的 冬天 <em>不 像</em> 北京 <strong>那么</strong> 干 。<span class="pinyin">Shànghǎi de dōngtiān <em>bù xiàng</em> Běijīng <strong>nàme</strong> gān.</span><span class="trans">Winters in Shanghai are not as dry as in Beijing.</span>
+*这 个 男 老师 <em>不 像</em> 那 个 女 老师 <strong>那么</strong> 严格 。<span class="pinyin">Zhège nán lǎoshī <em>bù xiàng</em> nàge nǚ lǎoshī <strong>nàme</strong> yángé.</span><span class="trans">This male teacher is not as strict as that female teacher.</span>
+*我 <em>不 像</em> 我 父母  <strong>那么</strong> 喜欢 省钱 。<span class="pinyin">Wǒ <em>bù xiàng</em> wǒ fùmǔ <strong>nàme</strong> xǐhuan shěng qián.</span><span class="trans">I don't like saving money as much as my parents.</span>
+*中西部 <em>不 像</em> 东部 发展 得 <strong>那么</strong> 快 。<span class="pinyin">Zhōng-xībù <em>bù xiàng</em> dōngbù fāzhǎn de <strong>nàme</strong> kuài.</span><span class="trans">The middle and western regions hasn't developed as rapidly as the eastern region.</span>
+
+</div>
+
+== See also ==
+
+* [[Comparing]]
+* [[Basic comparisons with "bi"]]
+* [[Basic comparisons with "yiyang"]]
+* [[Expressing comparable degree with "you"]]
+* [[Basic comparisons with "meiyou"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Boya Chinese Lower Intermediate 2 (博雅汉语准中级加速篇)|80}} 
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|像|B2|Noun 1 + 不像 + Noun 2 + 这么 / 那么 + Adj. / Verb|你 怎么 <em>像</em> 我 妈 <em>一样</em> 啰嗦！|grammar point|ASG1MD4N}}
+{{Rel char|不像}}
+{{Rel char|一样}}
+{{Rel char|那么}}
+{{Rel char|这么}}
+{{Similar|Basic comparisons with "yiyang"}}
+{{Similar|Comparing}}
+{{Used for|Comparing}}
+{{POS|Verbs}}
+{{Translation|like}}
+{{Subprop|Verbs}}

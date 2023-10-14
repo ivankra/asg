@@ -1,0 +1,74 @@
+<!-- Expressing "only after" with "cai" -->
+{{Grammar Box}} 
+These patterns using 才 are loosely related, and revolve around a meaning of "only when," "only after," "only then," or "not until." They suggest a condition without stating the condition as explicitly as in the [[Expressing "only if" with "zhiyou"|pattern 只有……才……]].
+
+== 才 as "Only When" or "Only After" ==
+
+=== Structure===
+
+<div class="jiegou">
+⋯⋯ ，才 ⋯⋯ 
+</div>
+
+=== Examples ===
+
+In these examples, you'll notice that the first half of the sentence involves some kind of "difficulty," usually involving spending a lot of time, money, or effort. The second half tells what was finally achieved after spending all that time, money, or effort. The English translation which tends to work most reliably for these sentences is "only after," but multiple translations are possible.
+
+<div class="liju">
+
+*我 花 了 八 千 块 <em>才</em> 买 到 了 旅游 的 东西。<span class="pinyin">Wǒ huā le bā qiān kuài <em>cái</em> mǎi dào le lǚyóu de dōngxi.</span><span class="trans">Only after spending 8000 RMB was I able to buy all the things for the trip.</span>
+*小明 花 了 很 多 心思 <em>才</em> 设计 出 了 这 张 海报。<span class="pinyin">Xiǎo Míng huā le hěn duō xīnsi <em>cái</em> shèjì chū le zhè zhāng hǎibào.</span></span><span class="trans">Only after putting a lot of thought into it was Xiao Ming able to design this poster.</span>
+*他 用 了 很 多 年 <em>才</em> 原谅 了 他的 妈妈。 <span class="pinyin">Tā yòng le hěn duō nián <em>cái</em> yuánliàng le tā de māma.</span></span><span class="trans">Only after many years was he able to forgive his mom.</span>
+*那 本 书 我 看 了 两 遍 <em>才</em> 看 懂。<span class="pinyin">Nà běn shū wǒ kàn le liǎng biàn <em>cái</em> kàn dǒng.</span></span><span class="trans">I had to read that book twice to understand it.</span>
+*我 去 了 三 次 北京 <em>才</em> 见 到 了 那个 客户。<span class="pinyin">Wǒ qù le sān cì Běijīng <em>cái</em> jiàn dào le nàge kèhù.</span></span><span class="trans">Only after making three trips to Beijing was I finally able to meet that client.</span>
+*他 找 了 好几 个 月 <em>才</em> 找到 合适 的 房子 。<span class="pinyin">Tā zhǎo le hǎojǐ gè yuè <em>cái</em> zhǎodào héshì de fángzi.</span></span><span class="trans">Only after searching for quite a few months was he able to find a suitable apartment.</span>
+
+</div>
+
+Note that for each of these examples, events have ''already occurred''. The fuller [[Expressing "only if" with "zhiyou"|只有……才…… pattern]] is more appropriate for the future or for hypothetical situations.
+
+== 才 as "Not Until" ==
+
+This use of [[才]] is quite similar to the [[Expressing lateness with "cai"|才 used to express lateness]]. The two sort of blend together.
+
+=== Structure===
+
+⋯⋯，才⋯⋯ 
+
+<div class="jiegou">
+⋯⋯ ，才 ⋯⋯ 
+</div>
+
+=== Examples ===
+
+Note that rather than following a set pattern, the English translation sentences below make use of a number of different translations. "Not until," "didn't... until," "only then," and "only after" may all be appropriate, depending on the context of the original Chinese.
+
+<div class="liju">
+
+*她 做 完 了 功课 <em>才</em> 睡觉。<span class="pinyin">Tā zuò wán le gōngkè <em>cái</em> shuìjiào.</span></span><span class="trans">Not until she finished her homework did she go to sleep.</span>
+*他 锁 上 了 门 <em>才</em> 想起来 没有 带 钥匙。<span class="pinyin">Tā suǒ shàng le mén <em>cái</em> xiǎng qǐlái méiyǒu dài yàoshi.</span></span><span class="trans">He didn't realize he had forgotten to bring his key until after he had locked the door.</span>
+*我 把 牛奶 喝 完 了， <em>才</em> 发现 牛奶 过期 了。<span class="pinyin">Wǒ bǎ niúnǎi hē wán le, <em>cái</em> fāxiàn niúnǎi guòqī le.</span></span><span class="trans">I finished off the milk, and only then did I discover that it was expired.</span>
+*等 妈妈 打 来 了 电话，宝宝 <em>才</em> 不 哭 了。<span class="pinyin">Děng māma dǎ lái le diànhuà, bǎobao <em>cái</em> bù kū le.</span></span><span class="trans">Only after her mom called did the baby stop crying.</span>
+
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|95, 263, 266}}
+
+[[Category: B2 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|才|B2|⋯⋯，才⋯⋯|那 本 书 我 看 了 两 遍 <em>才</em> 看 懂。|grammar point|ASG9E9A6}}
+{{Similar|Expressing lateness with "cai"}}
+{{Similar|"As long as" with "zhiyao"}}
+{{Similar|Expressing difficulty with "hao (bu) rongyi"}}
+{{Similar|Expressing "all the way until" with "zhidao"}}
+{{Similar|Comparing "cai" and "jiu"}}
+{{Used for|Indicating conditions}}
+{{Structure|Conditional Statements}}
+{{Translation|when}}
+{{Translation|then}}
+{{Translation|until}}
+{{Translation|only}}

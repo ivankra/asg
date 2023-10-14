@@ -1,0 +1,122 @@
+<!-- Expressing "already" with "yijing" -->
+{{Grammar Box}} 
+
+已经⋯⋯了 (yǐjīng... le) is the basic pattern used to express "already" in Chinese. It's easy to forget the 了 (le) on the end, but using it will make your Chinese more natural.
+
+== Basic Usages ==
+
+=== 已经 (yǐjīng) with Verb Phrases ===
+
+==== Structure ====
+
+The most common structure is to use 已经⋯⋯了 (yǐjīng... le) with a verb phrase.
+
+<div class="jiegou">
+已经 + [Verb Phrase] + 了
+</div>
+
+==== Examples ====
+
+<div class="liju">
+
+*他们 <em>已经</em> 走 <em>了</em>。<span class="expl pdf-simple-expl">with just a verb</span><span class="pinyin">Tāmen <em>yǐjīng</em> zǒu <em>le</em>.</span><span class="trans">They've already left.</span>
+*我 <em>已经</em> 有 男朋友 <em>了</em> 。 <span class="expl pdf-simple-expl">with a verb phrase</span><span class="pinyin">Wǒ <em>yǐjīng</em> yǒu nánpéngyou <em>le</em>.</span><span class="trans">I already have a boyfriend.</span>
+*宝宝 <em>已经</em> 会 说话 <em>了</em>。<span class="expl pdf-simple-expl">with a verb phrase</span><span class="pinyin">Bǎobao <em>yǐjīng</em> huì shuōhuà <em>le</em>.</span><span class="trans">The baby can already speak.</span>
+*妈妈 <em>已经</em> 回来 <em>了</em>。<span class="expl pdf-simple-expl">with just a verb</span><span class="pinyin">Māma <em>yǐjīng</em> huílái <em>le</em>.</span><span class="trans">Mom has already come back.</span>
+*他 <em>已经</em> 上 飞机 <em>了</em>。<span class="expl pdf-simple-expl">with a verb phrase</span><span class="pinyin">Tā <em>yǐjīng</em> shàng fēijī <em>le</em>.</span><span class="trans">He's already gotten on the plane.</span>
+
+</div>
+
+=== 已经 (yǐjīng) with Adjectives ===
+
+==== Structure ====
+
+Sometimes an [[adjective]] or a [[time noun]] is used instead of a typical verb phrase:
+
+<div class="jiegou">
+已经 + (很 +) Adj. + 了
+</div>
+
+==== Examples ====
+
+<div class="liju">
+
+*爸爸 妈妈 <em>已经</em> 老 <em>了</em>。<span class="pinyin">Bàba māma <em>yǐjīng</em> lǎo <em>le</em>.</span><span class="trans">Mom and dad are already old.</span>
+*<em>已经</em> 很 便宜 <em>了</em>。<span class="pinyin"><Em>Yǐjīng</em> hěn piányi <em>le</em>.</span><span class="trans">It is already very cheap.</span>
+*你 女朋友 <em>已经</em> 很 漂亮 <em>了</em>！ <span class="pinyin"> Nǐ nǚpéngyou <em>yǐjīng</em> hěn piàoliang <em>le</em>! </span><span class="trans">Your girlfriend is already very beautiful! </span>
+*你 的 感冒 <em>已经</em> 好 <em>了</em> 吗 ？<span class="pinyin">Nǐ de gǎnmào <em>yǐjīng</em> hǎo <em>le</em> ma?</span><span class="trans">Is your cold already better?</span>
+*<em>已经</em> 很 晚 <em>了</em>，我们 走 吧。<span class="pinyin"><Em>Yǐjīng</em> hěn wǎn <em>le</em>, wǒmen zǒu ba.</span><span class="trans">It's already really late. Let's go.</span>
+
+</div>
+
+=== 已经 (yǐjīng) with Time Nouns ===
+
+A "[[time noun]]" simply refers to almost any word in Chinese indicating a time something happened.
+
+==== Structure ====
+
+<div class="jiegou">
+已经 + Time + 了
+</div>
+
+==== Examples ====
+
+<div class="liju">
+
+*<em>已经</em> 11点 <em>了</em>，女儿 还 没 回来 。<span class="pinyin"><Em>Yǐjīng</em> shíyī diǎn <em>le</em>, nǚ'ér hái méi huílái.</span><span class="trans">It is already 11 o'clock, and my daughter has not returned.</span>
+*爷爷 <em>已经</em> 八十五 岁 <em>了</em> 。<span class="pinyin">Yéye <em>yǐjīng</em> bāshí-wǔ suì <em>le</em>.</span><span class="trans">Grandpa is already eighty-five years old.</span>
+*我 学习 中文 <em>已经</em> 一 年 <em>了</em> 。<span class="pinyin">Wǒ xuéxí Zhōngwén <em>yǐjīng</em> yī nián <em>le</em>.</span><span class="trans">I have already been studying Chinese for a year.</span>
+*他 在 洗手间 里 <em>已经</em> 半 个 小时 <em>了</em> 。 <span class="pinyin">Tā zài xǐshǒujiān lǐ <em>yǐjīng</em> bàn gè xiǎoshí <em>le</em>.</span><span class="trans">He has already been in the bathroom for half an hour.</span>
+*爸爸 去 北京 出差 <em>已经</em> 两 天 <em>了</em> 。<span class="pinyin">Bàba qù Běijīng chūchāi <em>yǐjīng</em> liǎng tiān <em>le</em>.</span><span class="trans">It has already been two days since dad went to Beijing on business trip.</span>
+
+</div>
+
+== Negative Form ==
+
+=== Structure ===
+
+The negative structure simply adds a 不 (bù) after 已经 (yǐjīng), and before the verb (or possibly adjective).
+
+<div class="jiegou">
+已经 + 不 + Verb + 了
+</div>
+
+=== Examples ===
+
+Generally this negative 已经 (yǐjīng) structure is translated into English as "not... anymore" rather than using the word "already."
+
+<div class="liju">
+*我 <em>已经</em> <strong>不</strong> 喜欢 你 <em>了</em> 。<span class="pinyin">Wǒ <em>yǐjīng</em> <strong>bù</strong> xǐhuan nǐ <em>le</em>.</span><span class="trans">I don't like you anymore.</span>
+*他 <em>已经</em> <strong>不</strong> 爱 他 的 猫 <em>了</em> 。<span class="pinyin">Tā <em>yǐjīng</em> <strong>bù</strong> ài tā de māo <em>le</em>.</span><span class="trans">He doesn't love his cat anymore.</span>
+*他们 <em>已经</em> <strong>不</strong> 住 在 中国 <em>了</em> 。<span class="pinyin">Tāmen <em>yǐjīng</em> <strong>bù</strong> zhù zài Zhōngguó <em>le</em>.</span><span class="trans">They don't live in China anymore.</span>
+*我 <em>已经</em> <strong>不</strong> 需要 父母 的 钱 <em>了</em> 。<span class="pinyin">Wǒ <em>yǐjīng</em> <strong>bù</strong> xūyào fùmǔ de qián <em>le</em>.</span><span class="trans">I don't need my parents' money anymore.</span>
+*你 <em>已经</em> <strong>不</strong> 在 Google 工作 <em>了</em> 吗 ？<span class="pinyin">Nǐ <em>yǐjīng</em> <strong>bù</strong> zài Google gōngzuò <em>le</em> ma? </span><span class="trans">You don't work at Google anymore?</span>
+
+</div>
+
+== See also ==
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|29}}
+{{Source|现代汉语八百词（增订本）|612}}
+{{Source|现代汉语虚词例释|554}}
+{{Source|New Concept Chinese (新概念汉语　初级本II)|41}}
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级)|97}}
+
+=== Dictionaries ===
+
+* [[现代汉语词典（第5版）]] (p.1609) [http://www.amazon.cn/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E8%AF%8D%E5%85%B8/dp/B001B1RZCI/ref=sr_1_1?ie=UTF8&qid=1345693609&sr=8-1 →buy]
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|已经|A2|已经⋯⋯了|他 <em>已经</em> 走 <em>了</em> 。|grammar point|ASGNXI27}}
+{{Similar|Uses of "le"}}
+{{Similar|Expressing "already" with just "le"}}
+{{Similar|Expressing "already" with "dou"}}
+{{Rel char|了}}
+{{POS|Adverbs}}
+{{Used for|Emphasizing}}
+{{Translation|already}}

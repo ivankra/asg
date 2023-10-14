@@ -1,0 +1,84 @@
+<!-- Expressing "let alone" with "hekuang" -->
+{{Grammar Box}} 
+何况 (hékuàng) can mean "let alone" or "all the more."
+
+==何况 within a rhetorical question==
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 连 ⋯⋯ 都 + Verb ，何况 ⋯⋯ 呢 ？
+</div>
+
+呢 often appears at the end of this structure, to form a rhetorical question. 更 or 又 can be added to 何况 to add further emphasis.
+
+何况 can be used in two ways, the first of which where 何况 is used to emphasize that if A is like this, then B must be even more so.
+
+=== Examples ===
+
+<div class="liju">
+
+*这 句 话 <em>连</em> 孩子 <em>都</em> 懂 ，<em>何况</em> 大人 <em>呢</em>？<span class="pinyin">Zhè jù huà <em>lián</em> háizi <em>dōu</em> dǒng, <em>hékuàng</em> dàrén <em>ne</em>?</span><span class="trans">Children can understand what this sentence means, let alone the adults.</span> 
+*他 <em>连</em> 那么 难 的 题 <em>都</em> 会，<em>何况</em> 一个 这么 简单 的 题 <em>呢</em>？<span class="pinyin">Tā <em>lián</em> nàme nán de tí <em>dōu</em> huì, <em>hékuàng</em> yī gè zhème jiǎndān de tí <em>ne</em>?</span><span class="trans">He can answer a question that hard, let alone answer one that easy.</span>
+
+</div>
+
+In the above sentences, as A is so easy, then B must be even easier. However if one adds a 不 or 没 before the verb then the meaning is reversed: now A is so hard, B would almost be impossible.
+
+<div class="jiegou">
+Subj. + 连 ⋯⋯ 都 + 不 / 没 + Verb ，何况 ⋯⋯ 呢 ？
+</div>
+
+<div class="liju">
+
+*我 奶奶 <em>连</em> 高铁 <em>都</em> 没 坐 过 ，<em>何况</em> 飞机 <em>呢</em> ？<span class="pinyin">Wǒ nǎinai <em>lián</em> gāotiě <em>dōu</em> méi zuòguò, <em>hékuàng</em> fēijī <em>ne</em>?</span><span class="trans">My grandmother hasn't even taken the high-speed train, let alone the airplane.</span>
+*宝宝 <em>连</em> 走 <em>都</em> 不 会，更 <em>何况</em> 跑 <em>呢</em>？<span class="pinyin">Bǎobǎo <em>lián</em> zǒu <em>dōu</em> bù huì, gèng <em>hékuàng</em> pǎo <em>ne</em>?</span><span class="trans">The baby can't even walk, let alone run.</span>
+*我 <em>连</em> 他 叫 什么 <em>都</em> 不 知道 ，又 <em>何况</em> 他 的 电话 号码 <em>呢</em>？<span class="pinyin">Wǒ <em>lián</em> tā jiào shénme <em>dōu</em> bù zhīdào, yòu <em>hékuàng</em> tā de diànhuà hàomǎ <em>ne</em>?</span><span class="trans">I don't even know what his name is, let alone his phone number.</span>    
+
+</div>
+
+何况 doesn't necessarily have to be used with the 连⋯⋯ 都⋯⋯ structure, and can be used as a simple statement instead of a rhetorical question.
+
+==何况 in a statement==
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. (+ 尚且) + 都 / 就 ⋯⋯ ，（更）何况 ⋯⋯ 
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*他 在家  <strong>就</strong> 不 爱 说话 ，<em>何况</em> 是 在 外面 ？<span class="pinyin">Tā zài jiā  <strong>jiù</strong> bù ài shuōhuà, <em>hékuàng</em> shì zài wàimiàn?</span><span class="trans">He don't talk much at home, let alone on public occasion.</span>
+*这个 东西 两 个 男人  <strong>都</strong> 搬 不 动 ，<em>何况</em> 一 个 女人 ？<span class="pinyin">Zhège dōngxi liǎng gè nánrén <strong>dōu</strong> bān bù dòng, <em>hékuàng</em> yī gè nǚrén?</span><span class="trans">Two men can't move this this, let alone a single woman.</span>
+*这个 地方 本来  <strong>就</strong> 不 好 找 ，更<em>何况</em> 你 是 第一 次 来 ？<span class="pinyin">Zhège dìfang běnlái <strong>jiù</strong> bù hǎo zhǎo, gèng <em>hékuàng</em> nǐ shì dì-yī cì lái?</span><span class="trans">This place has always been hard to find, especially on your first time.</span>
+*大人 <strong>尚且</strong> 做 不 到 ，更<em>何况</em> 孩子 ？<span class="pinyin">Dàrén <strong>shàngqiě</strong> zuò bù dào, gèng <em>hékuàng</em> háizi?</span><span class="trans">Adults can't even do this, let alone children.</span>
+*中国 人 <strong>尚且</strong> 不 了解 ，更<em>何况</em> 外国 人 ？<span class="pinyin">Zhōngguó rén <strong>shàngqiě</strong> bù liǎojiě, gèng <em>hékuàng</em> wàiguó rén?</span><span class="trans">Chinese people don't even know much about it, let alone foreigners.</span>
+
+</div>
+
+何况 is often used with 尚且, a formal way of saying 还. 更 can be added to 何况 to add further emphasis.
+
+==See also==
+*[["Let alone" with "bie shuo"]]
+*[["Let Alone" with "geng buyong shuo"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级)|278-9}} 
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|136}} 
+{{Source|HSK Standard Course 5上|108}}
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|连|C1|连⋯⋯都（也）⋯⋯，何况⋯⋯|<em>连</em> 小李 都 同意 了 ， <em>何况</em> 小张。|grammar point|ASG3ZS9G}}
+{{Rel char|何况}}
+{{Similar|"Let alone" with "bie shuo"}}
+{{Similar|"Let Alone" with "geng buyong shuo"}}
+{{Structure|Sentence Patterns}}
+{{Used for|Expressing determination}}
+{{Used for|Expressing attitude}}
+{{Subprop|Let alone}}

@@ -1,0 +1,77 @@
+<!-- Expressing "quite" with "ting" -->
+{{Grammar Box}} 
+
+挺 (tǐng) can be used before an [[adjective]] to mean "quite," "rather," or "pretty," as in "pretty good." This pattern is quite common in spoken Chinese.
+
+== Used with Adjectives ==
+
+Using 挺 with an adjective means "quite."
+
+=== Structure ===
+
+<div class="jiegou">
+挺 + Adj. + 的
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*这个 老师 <em>挺</em> 年轻 <strong>的</strong> 。<span class="pinyin">Zhège lǎoshī <em>tǐng</em> niánqīng <strong>de</strong>.</span><span class="trans">This teacher is quite young.</span>
+*你 男朋友 <em>挺</em> 帅 <strong>的</strong> 。<span class="pinyin">Nǐ nánpéngyou <em>tǐng</em> shuài <strong>de</strong>.</span><span class="trans">Your boyfriend is pretty handsome.</span>
+*最近 大家 都 <em>挺</em> 忙 <strong>的</strong> 。<span class="pinyin">Zuìjìn dàjiā dōu <em>tǐng</em> máng <strong>de</strong>.</span><span class="trans">We've all been quite busy lately.</span>
+*这 件 衣服 大小 <em>挺</em> 合适 <strong>的</strong> 。<span class="pinyin">Zhè jiàn yīfu dàxiǎo <em>tǐng</em> héshì <strong>de</strong>.</span><span class="trans">The size of this piece of clothing is quite suitable.</span>
+*他 家 不是 <em>挺</em> 有钱 <strong>的</strong> 吗 ？<span class="pinyin">Tā jiā bù shì <em>tǐng</em> yǒuqián <strong>de</strong> ma?</span><span class="trans">Isn't his family rather rich?</span>
+
+</div>
+
+== Used with Verbs ==
+
+In English, we're limited on what words come after the word "quite." Though Chinese is open to taking on verbs after 挺, these verbs are mostly [[psychological verb]]s.
+
+=== Structure ===
+
+<div class="jiegou">
+挺 + [Verb Phrase] + 的
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我们 都 <em>挺</em> 想 你 <strong>的</strong> 。<span class="pinyin">Wǒmen dōu <em>tǐng</em> xiǎng nǐ <strong>de</strong>.</span><span class="trans">We all quite miss you.</span>
+*我 <em>挺</em> 喜欢 这 份 工作 <strong>的</strong> 。<span class="pinyin">Wǒ <em>tǐng</em> xǐhuan zhè fèn gōngzuò <strong>de</strong>.</span><span class="trans">I quite like this job.</span>
+*我 女儿 <em>挺</em> 怕 她 爸爸 <strong>的</strong> 。<span class="pinyin">Wǒ nǚ'ér <em>tǐng</em> pà tā bàba <strong>de</strong>.</span><span class="trans">My daughter is quite afraid of her father.</span>
+*那 件 事 我 <em>挺</em> 后悔 <strong>的</strong> 。<span class="pinyin">Nà jiàn shì wǒ <em>tǐng</em> hòuhuǐ <strong>de</strong>.</span><span class="trans">I rather regret that incident.</span>
+*你 不 是 <em>挺</em> 爱 他 <strong>的</strong> 吗 ？怎么 分手 了 ？<span class="pinyin">Nǐ bù shì <em>tǐng</em> ài tā <strong>de</strong> ma? Zěnme fēnshǒu le?</span><span class="trans">Weren't you quite in love with him? How come you broke up?</span>
+
+</div>
+
+== See also ==
+
+* [[Expressing "excessively" with "tai"]]
+* [[Expressing "rather" with "bijiao"]]
+* [[Positive adjectives with "-ji le"]]
+* [[Expressing "a little too" with "you dian"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|29}}
+{{Source|Common Chinese Patterns 330 (汉语常用格式330例)|220}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK4}}
+[[Category: Adverbs]]
+{{Basic Grammar|挺|B1|挺 + Adj. + 的|你 男朋友 <em>挺</em> 帅 <em>的</em> 。|grammar point|ASGDF1F7}}
+{{Rel char|的}}
+{{Similar|Expressing "excessively" with "tai"}}
+{{Similar|Expressing "really" with "zhen"}}
+{{Similar|Expressing "rather" with "bijiao"}}
+{{Similar|Positive adjectives with "-ji le"}}
+{{Similar|Expressing "a little too" with "you dian"}}
+{{Similar|Expressing "excessively" with tai}}
+{{Used for|Expressing degree}}
+{{POS|Adverbs with Adjectives}}
+{{Translation|quite}}

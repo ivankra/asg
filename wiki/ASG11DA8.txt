@@ -1,0 +1,58 @@
+<!-- Expressing "through" with "jingguo" -->
+{{Grammar Box}} 
+
+When 经过 (jīngguò) is used as a [[verb]], it means "to pass by." 经过 can be also used as a [[preposition]] to describe what experiences or times one went "through."
+
+== Used as a Verb ==
+
+As a verb, 经过 means "to pass by" or "to pass through." It's for saying things like, "I passed through downtown" or "I passed by the shop." 
+
+=== Examples ===
+
+<div class="liju">
+
+*我 每天 上班 都 <em>经过</em> 这里 。<span class="pinyin">Wǒ měi tiān shàngbān dōu <em>jīngguò</em> zhèlǐ.</span><span class="trans">I pass by this place every day on the way to work.</span>
+*我 坐 火车 回 老家 常常 <em>经过</em> 这个 城市 。<span class="pinyin">Wǒ zuò huǒchē huí lǎojiā chángcháng <em>jīngguò</em> zhège chéngshì.</span><span class="trans">I usually pass by this city when I take the train back to my hometown. </span>
+*你 <em>经过</em> 我 家 门口 的 时候  叫 我 一下 。<span class="pinyin">Nǐ <em>jīngguò</em> wǒ jiā ménkǒu de shíhou jiào wǒ yīxià.</span><span class="trans">Call me when you pass by my door.</span>
+*她 <em>经过</em> 这个 咖啡店 的 时候 就 会 想到 他 。<span class="pinyin">Tā <em>jīngguò</em> zhège kāfēidiàn de shíhou jiù huì xiǎngdào tā.</span><span class="trans">She thinks about him when she walks past this cafe.</span>
+
+</div>
+
+== Used as a Preposition ==
+
+As a preposition, 经过 means something like "through" (or "after going through"), and is used to emphasize the process of an experience. 
+
+=== Structure ===
+
+<div class="jiegou">
+经过 + Event / Time ，⋯⋯
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*<em>经过</em> 自己 的 <strong>努力</strong> ，她 考上 了 北京 大学 。<span class="pinyin"><em>Jīngguò</em> zìjǐ de <strong>nǔlì</strong>, tā kǎoshàng le Běijīng Dàxué.</span><span class="trans">Through her own hard work, she was admitted into Peking University.</span>
+*<em>经过</em> 两 个 月 的 <strong>准备</strong> ，他 顺利 地 通过 了 这 次 面试 。<span class="pinyin"><em>Jīngguò</em> liǎng gè yuè de <strong>zhǔnbèi</strong>, tā shùnlì de tōngguò le zhè cì miànshì.</span><span class="trans">After two months of preparation, he successfully passed the job interview.</span>
+*<em>经过</em> 这 几 年 的 <strong>发展</strong> ，这个 城市 发生 了 很 大 变化 。<span class="pinyin"><em>Jīngguò</em> zhè jǐ nián de <strong>fāzhǎn</strong>,  zhège chéngshì fāshēng le hěn dà biànhuà.</span><span class="trans">After the last few years of development, this city has changed a lot.</span>
+*<em>经过</em> 一 个 星期 的 <strong>调查</strong> ，警察 认为 他 没有 罪 。<span class="pinyin"><em>Jīngguò</em> yī gè xīngqī de <strong>diàochá</strong>, jǐngchá rènwéi tā méiyǒu zuì.</span><span class="trans">After one week of investigation, the police believe that he's not guilty.</span>
+
+</div>
+
+== See also ==
+
+*[[Expressing "through" with "tongguo"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|经过|B1|经过 + Event / Time ，⋯⋯|<em>经过</em> 自己 的 努力 ，她 考上 了 北京 大学 。|grammar point|ASG11DA8}}
+{{Used for|Referring to past experiences}}
+{{Similar|Expressing "through" with "tongguo"}}
+{{POS|Verbs}}
+{{Translation|pass through}}
+{{Translation|pass by}}
+{{Translation|after}}

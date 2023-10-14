@@ -1,0 +1,104 @@
+<!-- Comparing "duiyu" and "zhiyu" -->
+{{Grammar Box}} 
+The differences between 对于 (duìyú) and 至于 (zhìyú) can be confusing. They both have similar meanings like "concerning," "regarding" or "as for," and differences are subtle.
+
+== Use 对于 to Emphasizes the Object ==
+
+对于 usually emphasizes the thing that it is pointing to. Usually where you use 对 you can also use 对于. 
+
+=== Structure ===
+
+As an adverb or adverbial clause, you can place 对于 before or after the subject. It cannot be an attributive modifier (coming before a noun). 
+
+<div class="jiegou">
+Subj. + 对于 + Object + Predicate
+</div>
+
+<div class="jiegou">
+对于 + Object， Subj. + Predicate
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* <em>对于</em> 电脑 ，我 什么 都 不 懂。<span class="pinyin"><em>Duìyú</em> diànnǎo, wǒ shénme dōu bù dǒng.</span><span class="trans">With regards to computers, I don't understand anything.</span>
+* 我 <em>对于</em> 电脑 什么 都 不 懂。<span class="pinyin">Wǒ <em>duìyú</em> diànnǎo shénme dōu bù dǒng.</span><span class="trans">I don't understand anything about computers.</span>
+* <em>对于</em> 这 种 人，就 不 该 跟 他们 讲 道理。<span class="pinyin"><em>Duìyú</em> zhè zhǒng rén, jiù bù gāi gēn tāmen jiǎng dàolǐ.</span><span class="trans">With this kind of person, you shouldn't try to reason with them.</span>
+</div>
+
+== Use 至于 to Change the Topic ==
+
+Note that to ''change'' a topic, there needs to be another topic first. So you ''don't'' use 至于 to start an entirely new discussion free of any existing topic.
+
+=== Structure ===
+
+As a preposition, 至于 points to another topic, serving to change the subject of conversation. 
+
+<div class="jiegou">
+至于 + Topic，Subj. + Verb Phrase
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 我们 要 开始 这 个 项目 了，<em>至于</em> 什么 时候 开始，还 没 定。<span class="pinyin">Wǒmen yào kāishǐ zhège xiàngmù le, <em>zhìyú</em> shénme shíhou kāishǐ, hái méi dìng.</span><span class="trans">We're going to start this project, but as for when to start, we still haven't decided.</span>
+* <em>至于</em> 这 个 问题，我们 还 需要 进一步 讨论。<span class="pinyin"><em>Zhìyú</em> zhège wèntí, wǒmen hái xūyào jìnyībù tǎolùn.</span><span class="trans">As for this issue, we still need further discussion.</span>
+</div>
+
+== Use 至于 to Emphasize Degree ==
+
+=== Structure ===
+
+As an adverb, it expresses "having reached a certain degree." After it you can add words or phrases that describe degree. You can also say 至于 by itself or use 不至于. 
+
+<div class="jiegou">
+（不）至于 + Degree
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 这 点 小 事情，<em>至于</em> 这么 生气 吗？<span class="pinyin">Zhè diǎn xiǎo shìqing, <em>zhìyú</em> zhème shēngqì ma?</span><span class="trans">Over such a small thing, why are you so angry?</span>
+* 我 是 不 高兴，但 <em>不 至于</em> 不 跟 你 说话。<span class="pinyin">Wǒ shì bù gāoxìng, dàn <em>bù zhìyú</em> bù gēn nǐ shuōhuà.</span><span class="trans">I'm not happy, but not to the point that I won't talk with you.</span>
+* <em>至于</em> 吗 ？<span class="expl">Questioning someone's overreaction, perhaps</span><span class="pinyin"><em>Zhìyú</em> ma?</span><span class="trans">Is it that serious?</span>
+</div>
+
+== Common Mistakes ==
+
+<div class="liju">
+<ul>
+<li class="x">你 <em>至于</em> 这 个 问题 怎么 看？<span class="pinyin">Nǐ <em>zhìyú</em> zhège wèntí, zěnme kàn?</span></li>
+<li class="o"><em>至于</em> 这 个 问题， 你 怎么 看？<span class="pinyin"><em>Zhìyú</em> zhège wèntí, nǐ zěnme kàn?</span><span class="trans">Regarding this issue, what do you think?</span></li>
+<li class="o"><em>至于</em> 他 的 无礼，你 是不是 不 太 高兴？<span class="pinyin"><em>Zhìyú</em> tā de wúlǐ, nǐ shì bu shì bù tài gāoxìng?</span></li>
+<li class="o"><em>对于</em> 他 的 无礼，你 是不是 不 太 高兴？<span class="pinyin"><em>Duìyú</em> tā de wúlǐ, nǐ shì bu shì bù tài gāoxìng?</span><span class="trans">Are you not to happy about his rude behavior?</span></li>
+</ul>
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|对外汉语教学语法释疑201例|203, 207}}
+{{Source|现代汉语八百词（增订本）|240, 683}}
+{{Source|现代汉语虚词例释|211,651}}
+{{Source|卓越汉语－公司实战篇|98}}
+
+=== Dictionaries ===
+
+{{Source|现代汉语词典（第5版）|501, 346, 1755}}
+
+[[Category:grammar comparison]]
+{{Basic Grammar|对于|B2|关于 vs 对于 vs 至于|<em>关于</em> 放假， <em>对于</em> 怎么解决，<em>至于</em>另外一份工作 。|grammar point|ASGC01S0}}
+{{Rel char|关于}}
+{{Rel char|至于}}
+{{Rel char|于}}
+{{Rel char|对}}
+{{Similar|Expressing "with regards to" with "zhiyu"}}
+{{Similar|Comparing "dui" and "duiyu"}}
+{{Similar|Comparing "guanyu" and "duiyu"}}
+{{Used for|Adding more explanation}}
+{{Used for|Connecting ideas}}
+{{Comparison|Prepositions}}
+{{Translation|to}}
+{{Translation|about}}
+{{Translation|for}}

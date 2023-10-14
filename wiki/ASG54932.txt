@@ -1,0 +1,101 @@
+<!-- Comparing "kanqilai" and "kanlai" -->
+{{Grammar Box}} 
+Both 看起来 (kànqilai) and 看来 (kànlái) are related to how something "looks," but they are used in different ways. Whereas 看起来 indicates an appraisal of a physical situation, 看来 expresses a user's understanding of a situation.
+
+== 看起来 Describes a Physical Appearance ==
+
+看起来 is used to describe physical appearances. In other words, one can use 看起来 to literally describe what something "looks ''like''." 
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 看起来 ⋯⋯
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*女儿 今天 <em>看起来</em> 很 开心 。<span class="pinyin">Nǚér jīntiān <em>kànqǐlái</em> hěn kāixīn.</span><span class="trans">Our daughter looks really happy today.</span>
+*这 道 菜 <em>看起来</em> 很 好吃。<span class="pinyin">Zhè dào cài <em>kànqǐlái</em> hěn hǎochī.</span><span class="trans">This dish looks really tasty.</span>
+*这 两 件 衣服 <em>看起来</em> 差不多 一样 。<span class="pinyin">Zhè liǎng jiàn yīfu <em>kànqǐlái</em> chàbuduō yīyàng.</span><span class="trans">These two pieces of clothing look pretty much the same.</span>
+*老板 最近 太 忙 了，他 <em>看起来</em> 很 累。<span class="pinyin">Lǎobǎn zuìjìn tài máng le, tā <em>kànqǐlái</em> hěn lèi.</span><span class="trans">The boss has been too busy lately. He looks really tired.</span>
+
+</div>
+
+== 看起来 + 像 for Direct Visual Comparisons ==
+
+看起来 can also be used to express how something "looks like" something else. But unlike the previous usage of 看起来, and with the help of 像, we can explicitly state what the object looks like. 
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 看起来 + 像 ⋯⋯
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*你 姐姐 真 漂亮 ！<em>看起来</em> <strong>像</strong> 明星 。<span class="pinyin">Nǐ jiějie zhēn piàoliang! <em>Kànqǐlái</em> <strong>xiàng</strong> míngxīng.</span><span class="trans">Your big sister is so pretty! She looks like a celebrity.</span>
+*这 件 事 <em>看起来</em> <strong>像</strong> 骗 人 的 。<span class="pinyin">Zhè jiàn shì <em>kànqǐlái</em> <strong>xiàng</strong> piàn rén de .</span><span class="trans">This whole thing looks like it's meant to scam people.</span>
+*他们 <em>看起来</em> 不 <strong>像</strong> 好 人 。<span class="pinyin">Tāmen <em>kànqǐlái</em> bù <strong>xiàng</strong> hǎo rén.</span><span class="trans">They don't look like good people.</span>
+*他 <em>看起来</em> <strong>像</strong> 不 <strong>像</strong> 我 的 那个 朋友 ？<span class="pinyin">Tā <em>kànqǐlái</em> <strong>xiàng</strong> bu <strong>xiàng</strong> wǒ de nàge péngyou?</span><span class="trans">Does he look like that friend of mine?</span>
+</div>
+
+== 看来 When Assessing a Situation ==
+
+看来 can be used to express one's interpretation of a situation. Note that when 看来 is used in a manner, the speaker isn't usually commenting on the ''visual'' or ''physical'' appearance of anything. Rather, 看来 indicates the speaker's perspective or conclusion about how a situation "looks."
+
+=== Structure ===
+
+<div class="jiegou">
+看来 + Perspective
+</div>
+
+===Examples===
+
+<div class="liju">
+
+* 雨 这么 大，<em>看来</em> 他 不 来 了。<span class="pinyin">Yǔ zhème dà, <em>kànlái</em> tā bù lái le.</span><span class="trans">It's raining so hard. It seems he's not coming.</span>
+*这 家 餐厅 人 很 少， <em>看来</em> 不 太 好吃。<span class="pinyin">Zhè jiā cāntīng rén hěn shǎo, <em>Kànlái</em> bù tài hǎochī.</span><span class="trans">There aren't many people at this restaurant. It seems the food isn't so good.</span>
+* 现在 <em>看来</em>，他 没有 那么 喜欢 你。<span class="pinyin">Xiànzài <em>kànlái</em>, tā méiyǒu nàme xǐhuan nǐ. </span><span class="trans">It seems now that he's just not that into you.</span>
+</div>
+
+== 看来 as "From X's Perspective" ==
+
+看来 can also be used to make a subjective statement from a particular person's perspective. A more literal translation would be "the way [Person] sees it...." This full form is more common in formal writing and speaking.
+
+=== Structure ===
+
+<div class="jiegou">
+在 + Person + 看来 + Perspective
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* <em>在</em><strong> 我 </strong><em>看来</em>，最 好 的 办法 是 大家 一起 合作。<span class="pinyin"><em>zài</em><strong> wǒ </strong><em>kànlái</em>, zuìhǎo de bànfǎ shì dàjiā yīqǐ hézuò.</span><span class="trans">The way I see it, the best solution is for everyone to cooperate.</span>
+* <em>在</em><strong> 他 </strong><em>看来</em>，这 件 事情 很 简单。<span class="pinyin"><em>zài</em><strong> tā </strong><em>kànlái</em>, zhè jiàn shìqing hěn jiǎndān.</span><span class="trans">From his perspective, this is a very simple matter.</span>
+
+</div>
+
+==See Also==
+*[[Comparing "xiande" and "kanqilai"]]
+*[[Appearance with "kanqilai"]]
+*[[Assessing situations with "kanlai"]]
+
+[[Category:B2 grammar points]]
+[[Category:grammar comparison]]
+{{HSK|HSK5}}
+{{Basic Grammar|看起来|B2|看起来 vs. 看来|这 家 餐厅 <em>看起来</em> 不错 。 <em>看来</em> 你 喜欢。|grammar point|ASG54932}}
+{{Rel char|看来}}
+{{Rel char|像}}
+{{Used for|Describing things}}
+{{Used for|Describing people}}
+{{Used for|Expressing attitude}}
+{{Similar|Appearance with "kanqilai"}}
+{{Similar|Assessing situations with "kanlai"}}
+{{Similar|Comparing "xiande" and "kanqilai"}}
+{{Comparison|Verbs}}

@@ -1,0 +1,72 @@
+<!-- Expressing "both… and…" with "ji...you" -->
+{{Grammar Box}} 
+既 (jì) can be used in conjunction with either 又 (yòu) or 也 (yě) to express that something is "both A and B":
+
+== Used with 又 ==
+
+===Structure===
+
+<div class="jiegou">
+既 + A + 又 + B
+</div>
+
+A and B can be adjectives, verbs or short phrases. Most of the time A and B will be of the same form. It often sounds better one both A and B are single syllables or both are two syllables.
+
+=== Examples ===
+
+<div class="liju">
+* 这个 同事 <em>既</em> 积极 <em>又</em> 努力。<span class="pinyin">Zhège tóngshì <em>jì</em> jījí <em>yòu</em> nǔlì.</span><span class="trans">This colleague is both proactive and hard-working.</span>
+* 这 家 餐厅 <em>既</em> 便宜 <em>又</em> 好吃。<span class="pinyin">Zhè jiā cāntīng <em>jì</em> piányi <em>yòu</em> hǎochī.</span><span class="trans">This restaurant is both cheap and delicious.</span>
+* 他 做 事情 <em>既</em> 快 <em>又</em> 好。<span class="pinyin">Tā zuò shìqing <em>jì</em> kuài <em>yòu</em> hǎo.</span><span class="trans">He does things both quickly and well.</span>
+* 这 家 银行 的 服务 <em>既</em> 热情 <em>又</em> 周到。<span class="pinyin">Zhè jiā yínháng de fúwù <em>jì</em> rèqíng <em>yòu</em> zhōudào.</span><span class="trans">This bank's service is both enthusiastic and thorough.</span>
+* 这个 产品 的 设计 <em>既</em> 时尚 <em>又</em> 人性化。<span class="pinyin">Zhège chǎnpǐn de shèjì <em>jì</em> shíshàng <em>yòu</em> rénxìng-huà.</span><span class="trans">This product's design is both stylish and user-friendly.</span>
+</div>
+
+==Used with 也==
+
+===Structure===
+
+The structure can also be formed with 也, but here it is used primarily for verbs or verb phrases:
+
+<div class="jiegou">
+既 + [Verb Phrase] ，也 + [Verb Phrase] 
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*这里 <em>既</em> 是 你 的 家乡 ，<em>也</em> 是 我 的 家乡。<span class="pinyin">Zhèlǐ <em>jì</em> shì nǐ de jiāxiāng, <em>yě</em> shì wǒ de jiāxiāng.</span><span class="trans">This is both your hometown and mine.</span>
+*她 <em>既</em> 是 我 妈妈 ，<em>也</em> 是 我 朋友。<span class="pinyin">Tā <em>jì</em> shì wǒ māma, <em>yě</em> shì wǒ péngyou.</span><span class="trans">She is both my mother and my friend.</span>
+*要求 是 你 <em>既</em> 要 会 说 流利 的 中文 ，<em>也</em> 要 会 说 流利 的 英文 。<span class="pinyin">Yāoqiú shì nǐ <em>jì</em> yào huì shuō liúlì de Zhōngwén, <em>yě</em> yào huì shuō liúlì de Yīngwén.</span><span class="trans">The requirement is that you need to speak both fluent Chinese and English.</span>
+*你 不 要 多 管 闲事 ，因为 这 <em>既</em> 和 你 没 关系 ，<em>也</em> 和 我 没 关系 。<span class="pinyin">Nǐ bùyào duō guǎn xiánshì, yīnwèi zhè <em>jì</em> hé nǐ méi guānxi, <em>yě</em> hé wǒ méi guānxi.</span><span class="trans">Do not meddle in it, for it is neither your business nor mine.</span>
+*爸爸 很 生 我 的 气 ，不过 他 <em>既</em> 没 打 我 ，<em>也</em> 没 骂 我 。<span class="pinyin">Bàba hěn shēng wǒ de qì, bùguò tā <em>jì</em> méi dǎ wǒ, <em>yě</em> méi mà wǒ.</span><span class="trans">Dad was really mad at me, but he neither hit me nor yelled at me.</span>
+
+</div>
+
+==See also==
+
+*[["Both A and B" with "you"]]
+*[[Combining verbs with "bing"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|86}}
+
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3)|120}} 
+
+{{Source|卓越汉语－公司实战篇|11}}
+
+[[Category:B2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|既|B2|既⋯⋯也 / 又⋯⋯|他 做 事情 <em>既</em> 快 <em>又</em> 好。|grammar point|ASGZRPCK}}
+{{Rel char|又}}
+{{Rel char|也}}
+{{Similar|"Both A and B" with "you"}}
+{{Similar|Combining Verbs with "bing"}}
+{{Structure|Sentence Patterns}}
+{{Used for|Giving alternatives}}
+{{Used for|Describing things}}
+{{Translation|both}}
+{{Translation|and}}

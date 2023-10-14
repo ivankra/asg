@@ -1,0 +1,88 @@
+<!-- Expressing "no matter" with "buguan" -->
+{{Grammar Box}} 
+
+不管 (bùguǎn) is more informal than [["No Matter" with "wulun"|无论]], but it is used in more or less the same way. As with other constructions, 都 and 也 can be used in the second part of the sentence to emphasize the action or decision will not change. 
+
+== Used with a Question Word ==
+
+=== Structure ===
+
+<div class="jiegou">
+不管 + Question Word ，(Subj. +) 都 ⋯⋯
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*<em>不管</em> 你 穿 什么 <em>都</em>  好看 。<span class="pinyin"> <em>Bùguǎn</em> nǐ chuān shénme <em>dōu</em> hǎokàn.</span><span class="trans">No matter what you wear, it looks good on you.</span>
+*<em>不管</em> 怎么样 ，我们 <em>都</em> 要 好好 准备 。<span class="pinyin"> <em>Bùguǎn</em> zěnmeyàng, wǒmen <em>dōu</em> yào hǎohāo zhǔnbèi.</span><span class="trans">We must fully prepare no matter what.</span>
+*<em>不管</em> 你 在 哪儿 工作 ，<em>都</em> 要 交税 。<span class="pinyin"> <em>Bùguǎn</em> nǐ zài nǎr gōngzuò, <em>dōu</em> yào jiāo shuì.</span><span class="trans">You need to pay taxes wherever you work.</span>
+*<em>不管</em> 别人 怎么 想 ，你 <em>都</em> 要 坚持 。<span class="pinyin"> <em>Bùguǎn</em> biérén zěnme xiǎng, nǐ <em>dōu</em> yào jiānchí.</span><span class="trans">No matter what other people think, you need to keep going.</span>
+*<em>不管</em> 你 是 什么 时候 买 的 ，我们 <em>都</em> 可以 免费 修。<span class="pinyin"> <em>Bùguǎn</em> nǐ shì shénme shíhou mǎi de, wǒmen <em>dōu</em> kěyǐ miǎnfèi xiū.<span class="trans">No matter when you bought it, we can repair it for you for free.</span>
+</div>
+
+== Used with Two Different Options ==
+
+=== Structure ===
+
+<div class="jiegou">
+不管 + 是 + Option A + 还是 + Option B ，Subj. + 都 ⋯⋯
+</div>
+
+<div class="jiegou">
+不管 + [Verb /  Adj.] + 不 + [Verb /  Adj.]，Subj. + 都 ⋯⋯
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*<em>不管</em> 是 国际 幼儿园 还是 本地 幼儿园 ，学费 <em>都</em> 很 贵 。<span class="pinyin"><em>Bùguǎn</em> shì guójì yòu'éryuán háishì běndì yòu'éryuán, xuéfèi <em>dōu</em> hěn guì.</span><span class="trans">No matter if it's an international kindergarten or a local one, it's still expensive.</span>
+*<em>不管</em> 你 是 中国人 还是 外国人 ，<em>都</em> 必须 遵守 中国 的 法律 。<span class="pinyin"><em>Bùguǎn</em> nǐ shì Zhōngguó rén háishì wàiguó rén, <em>dōu</em> bìxū zūnshǒu Zhōngguó de fǎlǜ.</span><span class="trans">Whether you're Chinese or a foreigner, you must abide by the law.</span>
+*<em>不管</em> 你 喜 不 喜欢 ，<em>都</em> 要 接受 。<span class="pinyin"><em>Bùguǎn</em> nǐ xǐ bu xǐhuan, <em>dōu</em> yào jiēshòu.</span><span class="trans">No matter if you like it or not, you need to accept it.</span>
+*<em>不管</em> 你们 同 不 同意 ，我 <em>都</em> 要 去 。<span class="pinyin"><em>Bùguǎn</em> nǐmen tóng bu tóngyì, wǒ <em>dōu</em> yào qù.</span><span class="trans">No matter if you agree or disagree, I'm still going.</span>
+*<em>不管</em> 他们 承认 不 承认 ，这 <em>都</em> 是 事实 。<span class="pinyin"><em>Bùguǎn</em> tāmen chéngrèn bù chéngrèn, zhè <em>dōu</em> shì shìshí.</span><span class="trans">Whether they admit it or not, it's still the truth.</span>
+</div>
+
+== Used with Adjectives ==
+
+=== Structure ===
+
+<div class="jiegou">
+不管 + 多 + Adj., Subj. + 都 ⋯⋯
+</div>
+
+=== Examples ===
+
+<div class="liju">
+*<em>不管</em> 多 贵 ，我 <em>都</em> 要 买 。<span class="pinyin"><em>Bùguǎn</em> duō guì, wǒ <em>dōu</em> yào mǎi.</span><span class="trans">No matter how expensive it is, I'm buying it.</span>
+*<em>不管</em> 多 远 ，我 <em>都</em> 要 跟 你 一起 去 。<span class="pinyin"><em>Bùguǎn</em> duō yuǎn, wǒ <em>dōu</em> yào gēn nǐ yīqǐ qù.</span><span class="trans">No matter how far it is, I'm going with you.</span>
+*<em>不管</em> 多 难 ，<em>都</em> 不 能 放弃 。<span class="pinyin"><em>Bùguǎn</em> duō nán, <em>dōu</em> bù néng fàngqì.</span><span class="trans">No matter how difficult it is, you can't give up.</span>
+*<em>不管</em> 我 穿 得 多 好看 ，他 <em>都</em> 不 看 我 一眼 。<span class="pinyin"><em>Bùguǎn</em> wǒ chuān de duō hǎokàn, tā <em>dōu</em> bù kàn wǒ yīyǎn.</span><span class="trans">No matter how well-dressed I am, he doesn't take a look at me.</span>
+*<em>不管</em> 孩子 多 淘气 ，父母 <em>都</em> 不 应该 打 他们 。<span class="pinyin"><em>Bùguǎn</em> háizi duō táoqì, fùmǔ <em>dōu</em> bù yīnggāi dǎ tāmen.</span><span class="trans">No matter how their children misbehave, parents shouldn't hit them.</span>
+</div>
+
+==See also==
+
+*[[Expressing "anyway" as "fanzheng"]]
+*[["No matter" with "wulun"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|35}}
+{{Source|Boya Chinese Upper Intermediate 1 (博雅汉语中级冲刺篇) |115}} 
+{{Source|New Practical Chinese Reader 4 (新实用汉语课本4)|63}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课下册）|430}}
+
+[[Category: B2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|不管|B2|不管⋯⋯，都 / 也⋯⋯|<em>不管</em> 身体 好 坏 ， 他 <em>都</em> 工作 到 深夜 。|grammar point|ASG0NDS6}}
+{{Rel char|都}}
+{{Rel char|也}}
+{{Similar|Expressing "anyway" as "fanzheng"}}
+{{Similar|"No matter" with "wulun"}}
+{{Used for|Expressing attitude}}
+{{Used for|Expressing determination}}
+{{Used for|Indicating conditions}}
+{{Structure|"No Matter" Statements}}

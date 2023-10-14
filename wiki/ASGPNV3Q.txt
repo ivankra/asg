@@ -1,0 +1,96 @@
+<!-- Negation of "you" with "mei" -->
+{{Grammar Box}} 
+
+The verb 有 (yǒu) is negated differently from ordinary verbs. Rather than placing 不 (bù) before it as with other verbs, you must use 没 (méi) to negate the verb 有 (yǒu).
+
+== Structure ==
+
+Nearly all verbs can be [[Standard negation with bu|negated with 不 (bù)]]. The verb 有 (yǒu) is an important exception to this rule, and must be negated with 没 (méi). 
+
+<div class="jiegou">
+
+没 + 有 (+ Obj.)
+
+</div>
+
+Note: because of the special relationship between 没 (méi) and 有 (yǒu), the pinyin for 没有 is normally written without a space: "méiyǒu."
+
+== Examples ==
+
+<div class="liju">
+
+* 我 <em>没有</em> 问题。 <span class="pinyin">Wǒ <em>méiyǒu</em> wèntí.</span><span class="trans">I don't have any questions.</span>
+* 我们 现在 <em>没有</em> 钱。<span class="pinyin">Wǒmen xiànzài <em>méiyǒu</em> qián.</span>  <span class="trans">We don't have money now.</span>
+* 他 <em>没有</em> 工作 吗？ <span class="pinyin">Tā <em>méiyǒu</em> gōngzuò ma? </span><span class="trans">Does he not have a job? </span>
+* 他们 <em>没有</em> 爸爸 妈妈 。<span class="pinyin">Tāmen <em>méiyǒu</em> bàba māma.</span><span class="trans">They don't have parents.</span>
+* 我们 在 北京 <em>没有</em> 房子。<span class="pinyin">Wǒmen zài Běijīng <em>méiyǒu</em> fángzi.</span>  <span class="trans"> We don't have a house in Beijing.</span>
+* 你 爸爸 <em>没有</em> 手机 吗？<span class="pinyin">Nǐ bàba <em>méiyǒu</em> shǒujī ma? </span>  <span class="trans">Does your dad not have a cell phone? </span>
+* 你们 在 上海 <em>没有</em> 朋友 吗？<span class="pinyin">Nǐmen zài Shànghǎi <em>méiyǒu</em> péngyou ma?</span><span class="trans">Do you not have friends in Shanghai?</span>
+* 我 的 老师 现在 <em>没有</em> 男朋友。<span class="pinyin"> Wǒ de lǎoshī xiànzài <em>méiyǒu</em> nánpéngyou.</span><span class="trans">My teacher doesn't have a boyfriend now.</span>
+* 他们 都 <em>没有</em> 电脑 吗？<span class="pinyin">Tāmen dōu <em>méiyǒu</em> diànnǎo ma?</span><span class="trans">Do they all not have computers? </span>
+* 这 个 周末 你们 都 <em>没有</em> 时间 吗？<span class="pinyin">Zhège zhōumò nǐmen dōu <em>méiyǒu</em> shíjiān ma?</span><span class="trans">Do you all not have time this weekend?</span>
+
+</div>
+
+Remember that trying to negate 有 (yǒu) with 不 (bù) is a classic mistake that many people make in the early stages of studying Chinese:
+
+<div class="liju">
+
+<ul>
+<li class="x">我 <strong>不</strong> <em>有</em> 车。<span class="expl">Never use 不 with 有!</span><span class="pinyin">Wǒ <strong>bù</strong> <em>yǒu</em> chē.</span></li>
+<li class="o">我 <strong>没</strong><em>有</em> 车。<span class="expl">Always use 没 with 有.</span><span class="pinyin">Wǒ <strong>méi</strong><em>yǒu</em> chē.</span><span class="trans">I don't have a car.</span></li>
+</ul>
+
+</div>
+
+'''Never use 不 (bù) with 有 (yǒu).'''
+
+== The Short Form of 没有 (méiyǒu) Is 没 (méi) ==
+
+没有 (méiyǒu) can be shortened to 没 (méi) without altering its meaning.
+
+<div class="liju">
+
+* 我 <em>没</em> 钱。 <span class="pinyin">Wǒ <em>méi</em> qián.</span><span class="trans">I don't have money.</span>
+* 你 <em>没</em> 男朋友 吗？ <span class="pinyin"> Nǐ <em>méi</em> nánpéngyou ma?</span><span class="trans">Do you not have a boyfriend?</span>
+* 你们 <em>没</em> 车 吗？ <span class="pinyin">Nǐmen <em>méi</em> chē ma?</span><span class="trans">You don't have a car?</span>
+* 老板 现在 <em>没</em> 时间。 <span class="pinyin">Lǎobǎn xiànzài <em>méi</em> shíjiān.</span><span class="trans">The boss doesn't have time right now.</span>
+* 我 <em>没</em> 工作，我 老公 也 <em>没</em> 工作。 <span class="pinyin">Wǒ <em>méi</em> gōngzuò, wǒ lǎogōng yě <em>méi</em> gōngzuò.</span><span class="trans">I don't have a job. My husband doesn't have a job either.</span>
+
+</div>
+
+==See also==
+
+*[[Negation of past actions with "meiyou"]]
+*[[Standard negation with "bu"]]
+*[[Inability with "mei banfa"]]
+*[[Comparing "bu" and "mei"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|74}}
+{{Source|Chinese: An Essential Grammar, Second Edition|51}}
+{{Source|现代汉语八百词（增订本）|382}}
+{{Source|A Practical Chinese Grammar For Foreigners (外国人实用汉语语法)|35}}
+
+===Videos===
+* Yoyo Chinese: [https://www.youtube.com/watch?v=oMaE2w7C5qI&list=PL94A5E422FB99CDDD&index=12 Negation word 没]
+
+[[Category:A1 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+{{Used for|Denying and refusing}}
+{{Used for|Negating}}
+{{Basic Grammar|没|A1|没 + 有|我 <em>没有</em> 钱 。|grammar point|ASGPNV3Q}}
+{{Rel char|没有}}
+{{Rel char|有}}
+{{Similar|Standard negation with "bu"}}
+{{Similar|Inability with "mei banfa"}}
+{{Similar|Expressing existence with "you"}}
+{{Similar|Basic comparisons with "meiyou"}} 
+{{Similar|Comparing "bu" and "mei"}}     
+{{Similar|Negation of past actions with "meiyou"}}
+{{POS|Adverbs}}
+{{Subprop|Negative adverbs}}
+{{Translation|not}}

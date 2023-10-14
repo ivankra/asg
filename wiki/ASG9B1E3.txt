@@ -1,0 +1,61 @@
+<!-- Expressing "through" with "tongguo" -->
+{{Grammar Box}} 
+
+The first meaning of 通过 (tōngguò) used as a verb is "to go through" a certain object, as in penetrating into and coming out of something. The second meaning is "to pass," which means someone goes through effort in order to reach acknowledgment or agreement.
+
+== Used as a Verb ==
+
+=== Examples ===
+
+<div class="liju">
+
+*从 我 家 到 那儿 要 <em>通过</em> 两 座 桥 。<span class="pinyin">Cóng wǒ jiā dào nàr yào <em>tōngguò</em> liǎng zuò qiáo.</span><span class="trans">To get there from my house, you have to cross two bridges.</span>
+*<em>通过</em> 那个 红色 的 大门 ，左拐 就 到 了 。<span class="pinyin"><em>Tōngguò</em> nàge hóngsè de dà mén, zuǒ guǎi jiù dào le.</span><span class="trans">Go through that red door, turn left and you are there.</span>
+*我 <em>通过</em> 了 这个 考试 。<span class="pinyin">Wǒ <em>tōngguò</em> le zhège kǎoshì.</span><span class="trans">I passed this test.</span>
+*他 没 <em>通过</em> 昨天 的 面试 。<span class="pinyin">Tā méi <em>tōngguò</em> zuótiān de miànshì.</span><span class="trans">He didn't pass yesterday's job interview.</span>
+*那个 穿 黑 衣服 的 男人 没 <em>通过</em> 机场 的 安检 。<span class="pinyin">Nàge chuān hēi yīfu de nánrén méi <em>tōngguò</em> jīchǎng de ānjiǎn.</span><span class="trans">That man in black didn't pass the security check at the airport.</span>
+
+</div>
+
+== Used as a Preposition ==
+
+As a preposition, 通过 expresses using a certain method to achieve a desired outcome. It emphasizes the manner or method of doing something, and it can be placed before or after the subject.
+
+=== Structure ===
+
+<div class="jiegou">
+通过 + Agent / Method ，Subj. ⋯⋯
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我们 是 <em>通过</em> <strong>他 的 朋友</strong> 找到 他 的 。<span class="pinyin">Wǒmen shì <em>tōngguò</em> <strong>tā de péngyou</strong> zhǎodào tā de.</span><span class="trans">We found him via his friends.</span>
+*<em>通过</em> <strong>这个 调查</strong> ，我们 发现 很多 人 都 支持 他 。<span class="pinyin"><em>Tōngguò</em> <strong>zhège diàochá</strong>, wǒmen fāxiàn hěn duō rén dōu zhīchí tā.</span><span class="trans">Through this survey, we found that many people support him.</span>
+*<em>通过</em> <strong>这个 短片</strong> ，我们 更了解 你们 公司 了 。<span class="pinyin"><em>Tōngguò</em> <strong>zhège duǎnpiàn</strong>, wǒmen gèng liǎojiě nǐmen gōngsī le.</span><span class="trans">We've got a better understanding of your company through this short film.</span>
+*<em>通过</em> <strong> 他 的 介绍</strong> ，我 认识 了 我 现在 的 老板 。<span class="pinyin"><em>Tōngguò</em> <strong>tā de jièshào</strong>, wǒ rènshi le wǒ xiànzài de lǎobǎn.</span><span class="trans">Through his introduction, I met my current boss.</span>
+*<em>通过</em> <strong>每 个 月 的 培训</strong>，我们 的 员工 更 专业 了 。<span class="pinyin"><em>Tōngguò</em> <strong> měi gè yuè de péixùn</strong>, wǒmen de yuángōng gèng zhuānyè le.</span><span class="trans">Our employees have become more professional through monthly trainings.</span>
+
+</div>
+
+== See also ==
+
+*[[Expressing "after" with "jingguo"]]
+*[[Using "lai" to connect two verb phrases]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|106}}
+{{Source|卓越汉语－公司实战篇|123}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|通过|B1|通过 + Agent / Method ，⋯⋯|我们 是 <em>通过</em> 他 的 朋友 找到 他 的 。|grammar point|ASG9B1E3}}
+{{Used for|Expressing purpose}}
+{{Similar|'lai' used to connect two verb phrases}}
+{{Similar|Expressing "after" with "jingguo"}}
+{{POS|Verbs}}
+{{Translation|through}}

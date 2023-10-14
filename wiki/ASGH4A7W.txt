@@ -1,0 +1,41 @@
+<!-- Expressing "your side" with "ben" -->
+{{Grammar Box}} 
+{{Stub}}
+
+In formal written Chinese, 本 can mean "this side," as in "this company" or "this country." It always refers to the side that the speaker is on. 
+
+== Basic Structure == 
+
+本(běn) can means a few different types of "this." It can refer to oneself, a place, an organization, or even a certain time. The noun that's used with 本 is very often single-syllable noun, like 人, 校, 市, 省, 国, 周, 月, 年, 次, etc. 公司, 组织, 季度, 学期 are also commonly used with 本.
+
+<div class="jiegou">
+
+本 + Noun
+
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*<em>本</em> 人 。<span class="pinyin"> <em>běn</em>.</span><span class="trans"> .</span>
+*顾客至上 是 <em>本</em> 公司 的 经营 理念。<span class="pinyin"> <em>běn</em>.</span><span class="trans"> .</span>
+*<em>本</em> 校 不 允许 外校 学生 随便 进出。<span class="pinyin"> <em>běn</em>.</span><span class="trans"> .</span>
+*<em>本</em> 组织 。<span class="pinyin"> <em>běn</em>.</span><span class="trans"> .</span>
+
+</div>
+
+Notice that the last example is 本人. It expresses "this person," which is like a fancy way of saying 我. This is especially common is resumes and cover letters.
+
+
+==See also==
+
+== Sources and further reading ==
+
+=== Books ===
+
+NEEDS SOURCES
+
+[[Category:C1 grammar points]]
+{{Basic Grammar|本|C1|本 + Noun|是 <em>本</em> 公司 的 商业 模式。|grammar point|ASGH4A7W}}
+{{POS|Nouns}}

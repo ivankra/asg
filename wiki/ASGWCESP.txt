@@ -1,0 +1,58 @@
+<!-- Verbing briefly with "yixia" -->
+{{Grammar Box}} 
+
+After briefly reading this article, you will know how to use 一下 (yīxià) to express a brief action!
+
+'''Note:''' The pinyin for 一下 is written "yīxià" but pronounced "yíxià" due to a [http://resources.allsetlearning.com/chinese/pronunciation/Tone_change_rules tone change rule].
+
+== Structure ==
+
+To express that a verb is carried out briefly or "a little bit," you can add 一下 (yīxià) after it. Sometimes 一下 (yīxià) can soften the tone. 
+
+<div class="jiegou">
+
+Subj. + Verb + 一下 + Obj.
+
+</div>
+
+Often, adding 一下 (yīxià) just makes the Chinese feel more natural.  This is not something you can get a feel for quickly.  You'll want to observe how native speakers use 一下 (yīxià)  over a long period of time to really get used to how it is used.
+
+== Examples ==
+
+<div class="liju">
+
+* 请 你 等 <em>一下</em>。<span class="expl">You get the feeling that it shouldn't be a long wait.</span><span class="pinyin">Qǐng nǐ děng <em>yīxià</em>.</span><span class="trans">Please wait a little bit.</span>
+* 你 看 <em>一下</em>。<span class="expl">It should be quick.</span><span class="pinyin">Nǐ kàn <em>yīxià</em>.</span><span class="trans">Take a look.</span>
+* 试 <em>一下</em> 吧。<span class="expl">How long can trying it take? </span><span class="pinyin">Shì <em>yīxià</em> ba.</span><span class="trans">Try it.</span>
+* 我 要 想 <em>一下</em>。<span class="expl">You're supposed to believe that I won't need to think about it long.</span><span class="pinyin">Wǒ yào xiǎng <em>yīxià</em>.</span><span class="trans">I want to think a little.</span>
+* 开 <em>一下</em> 门 吧 。 <span class="expl">How long can it take to open the door?</span><span class="pinyin">Kāi <em>yīxià</em> mén ba.</span><span class="trans">Please open the door.</span>
+* 请 你 说 <em>一下</em> 为什么。<span class="expl">I feel it should be a quick explanation.</span><span class="pinyin">Qǐng nǐ shuō <em>yīxià</em> wèishénme.</span><span class="trans">Please say why.</span>
+* 不要 生气 了，笑 <em>一下</em>！<span class="expl pdf-simple-expl">Just one quick laugh!</span><span class="pinyin">Bùyào shēngqì le, xiào <em>yīxià</em>! </span><span class="trans">Don't be mad, laugh! </span>
+* 宝宝，亲 <em>一下</em> 爸爸。<span class="expl">If a baby's kiss isn't quick, it's weird for everyone.</span><span class="pinyin">Bǎobao, qīn <em>yīxià</em> bàba.</span><span class="trans">Baby, give your dad a kiss.</span>
+* 你 可以 来 <em>一下</em> 我 的 办公室 吗？<span class="expl pdf-simple-expl">Just come real quick.</span><span class="pinyin">Nǐ kěyǐ lái <em>yīxià</em> wǒ de bàngōngshì ma? </span><span class="trans">Could you please come to my office? </span>
+* 你 能 介绍 <em>一下</em> 自己 吗 ？ <span class="expl">Not your life story, just a brief self-introduction.</span><span class="pinyin">Nǐ néng jièshào <em>yīxià</em> zìjǐ ma? </span><span class="trans">Could you introduce yourself briefly? </span>
+
+</div>
+
+==See also==
+
+*[[Verb reduplication with yi]]
+*[[Verb reduplication]]
+
+== Sources and further reading ==
+
+{{Source|HSK Standard Course 2|20}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|126}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|206}} 
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+[[Category:Verbs]]
+{{Basic Grammar|一下|A2|Verb + 一下|你 <em>看 一下</em> 。|grammar point|ASGWCESP}}
+{{Similar|Verb reduplication with yi}}
+{{Similar|Verb reduplication}}  
+{{Used for|Expressing duration}}
+{{Used for|Decreasing formality}}
+{{Used for|Describing actions}}
+{{POS|Verbs}}
+{{Subprop|Verb phrases}}

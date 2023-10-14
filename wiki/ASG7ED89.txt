@@ -1,0 +1,86 @@
+<!-- Expressing "some" with question words -->
+{{Grammar Box}} 
+
+Chinese [[question word]]s can play a double role. As we know, they are used in questions, but they can also mean "some." The "some" we refer to is the vague, undefined "some," as in "somewhere," "someone," "something," or "sometime." 
+
+== "Somewhere" with 哪儿 ==
+
+This one is often used with [[Expressing experiences with "guo"|Verb + 过]].
+
+Examples:
+
+<div class="liju">
+
+*这个 人 我 在 <em>哪儿</em> 见 过 。<span class="pinyin">Zhège rén wǒ zài <em>nǎr</em> jiàn guo.</span><span class="trans">I've met this person somewhere before.</span>
+*这 首 歌 我 在 <em>哪儿</em> 听 过 。<span class="pinyin">Zhè shǒu gē wǒ zài <em>nǎr</em> tīng guo.</span><span class="trans">I've heard this song somewhere.</span>
+*这 篇 文章 我们 在 <em>哪儿</em> 看 过 。<span class="pinyin">Zhè piān wénzhāng wǒmen zài <em>nǎr</em> kàn guo.</span><span class="trans">I've read this article somewhere before.</span>
+
+</div>
+
+== "Someone" with 谁 == 
+
+Examples:
+
+<div class="liju">
+
+*你 让 <em>谁</em> 来 帮 我 一下 。<span class="pinyin">Nǐ ràng <em>shéi</em> lái bāng wǒ yīxià.</span><span class="trans">Ask someone to help me with this.</span>
+*这 件 事 我 听 <em>谁</em> 说 过 。<span class="pinyin">Zhè jiàn shì wǒ tīng <em>shéi</em> shuō guo.</span><span class="trans">I've heard somebody talk about this before.</span>
+*你 找 <em>谁</em> 带 你 进去 吧 。<span class="pinyin">Nǐ zhǎo <em>shéi</em> dài nǐ jìnqù ba.</span><span class="trans">You should find someone to take you inside.</span>
+
+</div>
+
+== "Something" with 什么 ==
+
+This one is often used with [[点]](儿) before the verb.
+
+Examples:
+
+<div class="liju">
+
+*我们 应该 做 点儿 <em>什么</em> 。<span class="pinyin">Wǒmen yīnggāi zuò diǎnr <em>shénme</em>.</span><span class="trans">We should do something.</span>
+*老大 ，你 不 说 点儿 <em>什么</em> ？<span class="pinyin">Lǎodà, nǐ bù shuō diǎnr <em>shénme</em>?</span><span class="trans">Boss, aren't you going to say something?</span>
+*我 想 喝 点儿 <em>什么</em> 。<span class="pinyin">Wǒ xiǎng hē diǎnr <em>shénme</em>.</span><span class="trans">I want to drink something.</span>
+
+</div>
+
+== "Sometime" with 什么时候 ==
+
+Careful with this one! If you're not paying attention, you might think that it's a question asking "when," but in reality it might just be polite noise. If the lack of question intonation isn't enough, the 吧 on the end is also a clue that these sentences aren't actually questions.
+
+Examples:
+
+<div class="liju">
+
+*<em>什么 时候</em> 我们 见面 谈 吧 。<span class="pinyin"><em>Shénme shíhou</em> wǒmen jiànmiàn tán ba.</span><span class="trans">Let's meet and talk about this sometime.</span>
+*<em>什么 时候</em> 来 我 新 家 玩 吧 。<span class="pinyin"><em>Shénme shíhou</em> lái wǒ xīn jiā wán ba.</span><span class="trans">You should come to my new house to hangout sometime.</span>
+*我们 <em>什么 时候</em> 去 看看 他 吧 。<span class="pinyin">Wǒmen <em>shénme shíhou</em> qù kànkan tā ba.</span><span class="trans">Let's pay him a visit sometime.</span>
+
+</div>
+
+== See also ==
+
+* [[Expressing "every" with question words]]
+* [[Advanced yes-no questions with "ma"]]
+
+==  Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|128}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|哪儿|B1|在哪儿 / 谁 / 什么 / 什么时候|这个 人 我 <em>在 哪儿</em> 见 过 。|grammar point|ASG7ED89}}
+{{Rel char|谁}}
+{{Rel char|什么}}
+{{Rel char|什么时候}}
+{{Similar|Expressing "every" with question words}}
+{{Similar|Advanced yes-no questions with "ma"}}
+{{Translation|some}}
+{{Translation|somewhere}}
+{{Translation|someone}}
+{{Translation|something}}
+{{Translation|somehow}}
+{{Translation|sometime}}
+{{Structure|Sentence Patterns}}
+{{Subprop|Basic/Simple Sentence Patterns}}

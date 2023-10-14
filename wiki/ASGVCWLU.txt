@@ -1,0 +1,63 @@
+<!-- Expressing "before" in general with "yiqian" -->
+{{Grammar Box}} 
+
+To talk about things that previously occurred, you can use the word 以前 (yǐqián). You can use this structure to talk about actions that happened at some unspecified time in the past.
+
+== Structure ==
+
+One way to use 以前 (yǐqián) is to start the sentence with it. This is like starting off a sentence in English with "before..." or "in the past..."
+
+<div class="jiegou">
+
+以前 + Subj. + Verb + Obj.
+
+</div>
+
+You can also move 以前 (yǐqián) to right after the subject, and it's also correct.
+
+<div class="jiegou">
+
+Subj. + 以前 + Verb + Obj.
+
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+* <em>以前</em> 我 不 会 说 中文 。 <span class="pinyin"><em>Yǐqián</em> wǒ bù huì shuō Zhōngwén.</span><span class="trans">Before, I could not speak Chinese.</span>
+* 你 <em>以前</em>  住 在 哪儿？ <span class="pinyin">Nǐ <em>yǐqián</em> zhù zài nǎr?</span><span class="trans">Before, where did you live?</span>
+* <em>以前</em> 我 不 认识 他。 <span class="pinyin"><em>Yǐqián</em> wǒ bù rènshi tā.</span><span class="trans">Before, I didn't know him.</span>
+* <em>以前</em> 他 是 我们 的 客户 吗？ <span class="pinyin"><em>Yǐqián</em> tā shì wǒmen de kèhù ma? </span><span class="trans">Was he our client before? </span>
+* <em>以前</em> 他 是 一 个 服务员，现在 是 老板。<span class="pinyin"><em>Yǐqián</em> tā shì yī gè fúwùyuán, xiànzài shì lǎobǎn.</span><span class="trans">Before, he was a waiter. Now, he is a boss.</span>
+* 我 父母 <em>以前</em> 都 是 老师。<span class="pinyin">Wǒ fùmǔ <em>yǐqián</em> dōu shì lǎoshī.</span><span class="trans">Before, both of my parents were teachers.</span>
+* 爸爸 <em>以前</em> 很 喜欢 抽烟。<span class="pinyin">Bàba <em>yǐqián</em> hěn xǐhuan chōuyān.</span><span class="trans">Before, dad really liked smoking.</span>
+* 姐姐 <em>以前</em> 有 一 个 很有钱 的 男朋友。<span class="pinyin">Jiějie <em>yǐqián</em> yǒu yī gè hěn yǒuqián de nánpéngyou.</span><span class="trans">My older sister had a very rich boyfriend before.</span>
+* 他们 <em>以前</em> 没有 钱，可是 很 快乐。<span class="pinyin">Tāmen <em>yǐqián</em> méiyǒu qián, kěshì hěn kuàilè.</span><span class="trans">They didn't have much money before, but they were happy.</span>
+* 我男朋友 <em>以前</em>  在 美国 工作，现在 在 中国 工作。<span class="pinyin">Wǒ nánpéngyou <em>yǐqián</em> zài Měiguó gōngzuò, xiànzài zài Zhōngguó gōngzuò.</span><span class="trans">Before, my boyfriend worked in the USA. Now, he works in China.</span>
+
+</div>
+
+==See also==
+*[[In the future in general]]
+*[[Before a specific time]]
+*[[At the time when]]
+*[[Before and after with "zhiqian" and "zhihou"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Boya Chinese Elementary Starter 2 (博雅汉语初经起步篇)|11}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|268}}
+
+[[Category:A2 grammar points]]
+{{Used for|Expressing time and date}}
+{{Used for|Sequencing events in time}}
+{{Used for|Referring to the past}}
+{{Basic Grammar|以前|A2|以前，⋯⋯ |<em>以前</em>，我 不 会 说 中文。|grammar point|ASGVCWLU}}
+{{Similar|In the future in general}} 
+{{Similar|Before a specific time}} 
+{{Similar|At the time whene}}
+{{POS|Nouns}}
+{{Translation|before}}

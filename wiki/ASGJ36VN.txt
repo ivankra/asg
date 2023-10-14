@@ -1,0 +1,92 @@
+<!-- Expressing duration with "le" -->
+{{Grammar Box}} 
+
+Whether you need to express how long you lived somewhere, how long you studied astrophysics, or how long you worked as a mime, you'll need to use 了 (le) to express that time duration.
+
+== Basic Usage ==
+
+=== Structure ===
+
+Saying ''how long'' you did something  ''for'' in Chinese can seem tricky, as there is no preposition as in English. Instead it's all about word order:
+
+<div class="jiegou">
+Subj. + Verb + 了 + Duration + Obj.
+</div>
+
+So 了 (le) is placed after the verb (to indicate that [[Expressing completion with "le"|the action is completed]]), followed by the duration. This is how you talk about the duration of completed actions.
+
+=== Examples ===
+
+<div class="liju">
+
+*他 学 了 <em>一 年</em> 中文 。<span class="pinyin">Tā xué le <em>yī nián</em> Zhōngwén.</span><span class="trans">He studied Chinese for a year.</span>
+*我 看 了 <em> 一 个 晚上</em> 书 。<span class="pinyin">Wǒ  kàn le <em> yī gè wǎnshang</em> shū.</span><span class="trans">I read books all evening.</span>
+*他 做 了 <em>八 年</em> 经理 。<span class="pinyin">Tā zuò le <em>bā nián</em> jīnglǐ.</span><span class="trans">He worked as a manager for eight years.</span>
+
+</div>
+
+Also note that 的 can be used in this pattern, which must be placed between the duration and the object.
+
+<div class="jiegou">
+Subj. + Verb + 了 + Duration + 的 + Obj.
+</div>
+
+Some examples:
+
+<div class="liju">
+
+*我们 坐 了 <em>十五 个 小时</em> <strong>的</strong> 飞机 。<span class="pinyin">Wǒmen zuò le <em> shíwǔ gè xiǎoshí</em> <strong>de</strong> fēijī.</span><span class="trans">We took a fifteen hour flight.</span>
+*奶奶 看 了 <em>一 天</em> <strong>的</strong> 电视 。<span class="pinyin">Nǎinai kàn le <em>yī tiān</em> <strong>de</strong> diànshì.</span><span class="trans">Grandma watched TV all day.</span>
+*妈妈 洗 了 <em>一 上午</em> <strong>的</strong> 衣服 。<span class="pinyin">Māma xǐ le <em>yī shàngwǔ</em> <strong>de</strong> yīfu.</span><span class="trans">Mom washed clothes all morning.</span>
+
+</div>
+
+== To Express "Definitely Concluded" ==
+
+=== Structure ===
+
+Note that the previous pattern can be used to express the duration of completed actions ''which are no longer in progress'', although strictly speaking, it's not entirely clear if the actions are still ongoing or not.  To indicate that the actions are definitely concluded (not ongoing), a [[Time words and word order|time word]] may be inserted into the sentence to indicate that you're talking about an event in the past:
+
+<div class="jiegou">
+Subj. + [Time Word] + Verb + 了 + Duration + Obj.
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*孩子们 周六 写 了 <em>一天</em> <strong>的</strong> 作业 。<span class="pinyin">Háizi men zhōuliù xiě le <em>yī tiān</em> <strong>de</strong> zuòyè.</span><span class="trans">The kids did their homework all day Saturday.</span>
+*我 刚才 打 了 <em>半 个 小时</em> 电话 。<span class="pinyin">Wǒ gāngcái dǎ le <em>bàn gè xiǎoshí</em> diànhuà.</span><span class="trans">I was on the phone for half an hour.</span>
+*我 昨天 玩 了 <em>一 晚上</em> 游戏 。<span class="pinyin">Wǒ zuótiān wán le <em>yī wǎnshang</em> yóuxì.</span><span class="trans">Yesterday, I played games all evening.</span>
+*他 昨天 开 了 <em>一 天</em> <strong>的</strong> 车 。<span class="pinyin">Tā zuótiān kāi le <em>yī tiān</em> chē.</span><span class="trans">He drove all day yesterday.</span>
+*老板 今天 开 了 <em>一 下午</em> <strong>的</strong> 会 。<span class="pinyin">Lǎobǎn kāi le <em>yī xiàwǔ</em> <strong>de</strong> huì.</span><span class="trans">The boss had meetings all afternoon today.</span>
+
+</div>
+
+To indicate that the action is ''definitely still in progress'', use a [[Expressing ongoing duration with double "le"|slightly different pattern]].
+
+== See also ==
+
+*[[Expressing duration of inaction]]
+*[[Uses of le]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|58}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|118-9}}
+{{Source|Chinese: An Essential Grammar, Second Edition|90-1}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|173}} 
+
+[[Category:A2 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|了|A2|Verb + 了 + Duration|他 在 北京 住 <em>了 两 年</em>。|grammar point|ASGJ36VN}}
+{{Similar|Expressing duration of inaction}}
+{{Similar|Expressing ongoing duration with double "le"}} 
+{{Similar|Uses of le}}
+{{POS|Verbs}}
+{{Used for|Expressing duration}}
+{{Used for|Referring to the past}}
+{{Used for|Expressing time and date}}
+{{Subprop|Verb phrases}}

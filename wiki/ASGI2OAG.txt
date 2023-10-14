@@ -1,0 +1,54 @@
+<!-- Verbs that take double objects -->
+{{Grammar Box}} 
+
+There are some common verbs in Chinese that can take two objects. In this article, we will look at how they are used.
+
+== Structure ==
+
+As in English, some verbs in Chinese take two objects. A typical example for English is "to bake someone a cake," and there are countless more. The structure in Chinese is:
+
+<div class="jiegou">
+
+Subj. + Verb + [Indirect Obj.] + [Direct Obj.]
+
+</div>
+
+If you don't know what direct and indirect objects are, don't worry; the terms can be thought of as "object 1" and "object 2." The main point is that there are two of them, and the first one is the recipient (e.g. the person the cake is given to), while the second one is the thing that the action happens to (e.g. the cake that gets baked).
+
+== Examples ==
+
+<div class="liju">
+
+* 老师，我 可以 <em>问</em> <strong>你</strong> 一 个 <strong>问题</strong> 吗？<span class="pinyin">Lǎoshī, wǒ  kěyǐ <em>wèn</em> <strong>nǐ</strong> yī gè <strong>wèntí</strong> ma?</span><span class="trans">Teacher, may I ask you a question?</span>
+* 大家 都 <em>叫</em> <strong>他</strong> <strong>“怪叔叔”</strong>。 <span class="pinyin">Dàjiā dōu <em>jiào</em> <strong> tā</strong> <strong>"guài shūshu."</strong></span><span class="trans">Everyone calls him "Uncle Weirdo."</span>
+* 我 想 <em>告诉</em> <strong> 你</strong> 一 个 好 <strong>消息</strong> 。<span class="pinyin">Wǒ xiǎng <em>gàosu</em> <strong> nǐ</strong> yī gè hǎo <strong>xiāoxi</strong>.</span><span class="trans">I want to tell you the good news.</span>
+* 他们 <em>给</em> 了 <strong>你</strong> <strong>多少 钱</strong>？<span class="pinyin">Tāmen <em>gěi</em> le <strong>nǐ</strong> <strong>duōshao qián</strong>?</span><span class="trans">How much money did they give you?</span>
+* 他 <em>送</em> 了 <strong>女朋友</strong> 很 多 <strong>花</strong>。<span class="pinyin">Tā <em>sòng</em> le <strong>nǚpéngyou</strong> hěn duō <strong>huā</strong>.</span><span class="trans">He gave his girlfriend lots of flowers.</span>
+* 我 想 <em>送给</em> <strong>你</strong> 一 本 <strong>书</strong>。<span class="pinyin">Wǒ xiǎng <em>sòng gěi</em> <strong>nǐ</strong> yī běn <strong>shū</strong>.</span><span class="trans">I want to give you a book.</span>
+* 爸爸 要 <em>送给</em> <strong>我</strong> 一 个 很 贵 的 <strong>生日 礼物</strong>。<span class="pinyin">Bàba yào <em>sòng gěi</em> <strong>wǒ</strong> yī gè hěn guì de <strong> shēngrì lǐwù</strong>.</span><span class="trans">My dad is going to give me a very expensive birthday gift.</span>
+* 你 可以 <em>借</em> <strong>我</strong> <strong>两 千 块 钱</strong> 吗？<span class="pinyin">Nǐ kěyǐ <em>jiè</em> <strong>wǒ</strong> <strong>liǎng qiān kuài qián</strong> ma?</span><span class="trans">Can you lend me 2000 kuai?</span>
+* 老板 刚 <em>发给</em> <strong> 我</strong> 上个月 的 <strong>工资</strong>。<span class="pinyin">Lǎobǎn gāng <em>fā gěi</em> <strong>wǒ</strong> shàng gè yuè de <strong> gōngzī</strong>.</span><span class="trans">The boss just gave me my pay for last month.</span>
+* 这 个 人 <em>骗</em> 了 <strong> 我</strong> 很 多 <strong>钱</strong>。<span class="pinyin">Zhège rén <em>piàn</em> le <strong>wǒ</strong> hěn duō <strong>qián</strong>.</span><span class="trans">This person cheated me out of a lot of money.</span>
+
+</div>
+
+== Sources and further reading ==
+
+=== Websites ===
+
+* Wikipedia: [http://en.wikipedia.org/wiki/Ditransitive_verb "ditransitive" verbs]
+
+=== Books ===
+
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|182-3}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|165-6}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)|187-8}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|125}} 
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|none|A2|Subj. + Verb + Indirect Obj. + Direct Obj.|我 <em>问</em> 了 老师 一 个 问题。|grammar point|ASGI2OAG}}
+{{POS|Verbs}}
+{{Subprop|Verb phrases}}
+{{Similar|Verbs with gei}}
+{{Translation|none}}

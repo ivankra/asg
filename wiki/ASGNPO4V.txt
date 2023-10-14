@@ -1,0 +1,58 @@
+<!-- Name-calling with "zhege" -->
+{{Grammar Box}} 
+这个 (zhège) can be used by the speaker to emphasize how one regards something or someone. Using 这个 has a stronger effect, and is used with both making simple declarative statements as well as with rude name-calling.
+
+== You "Label"! with 这个 ==
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 这个 + [Category]
+</div>
+
+When maliciously name-calling, you probably want to use "你这个 [mean name]."
+
+=== Examples ===
+
+<div class="liju">
+* 你 <em>这个</em> 坏蛋，就 没 做 过 一 件 好 事。<span class="pinyin">Nǐ <em>zhège</em> huàidàn, jiù méi zuò guo yī jiàn hǎoshì.</span><span class="trans">You're such a bad person! You haven't done a single good thing.</span>
+* 他 <em>这个</em> 马屁精，又 去 拍 老板 的 马屁 了。<span class="pinyin">Tā <em>zhège</em> mǎpìjīng, yòu qù pāi lǎobǎn de mǎpì le.</span><span class="trans">He's such a brown-noser. He's kissing up to the boss again.</span>
+* 上海 <em>这个</em> 城市，夏天 太 热，冬天 太 冷。<span class="pinyin">Shànghǎi <em>zhège</em> chéngshì, xiàtiān tài rè, dōngtiān tài lěng.</span><span class="trans">As for Shanghai, its summers are too hot and its winters are too cold.</span>
+* 你 <em>这个</em> 人，怎么 能 做出 这样 的 事情？<span class="pinyin">Nǐ <em>zhège</em> rén, zěnme néng zuò chū zhèyàng de shìqing?</span><span class="trans">What kind of person are you? How could you do this?</span>
+* 他 <em>这个</em> 工作，还是 很 有 挑战 的。<span class="pinyin">Tā <em>zhège</em> gōngzuò, háishì hěn yǒu tiǎozhàn de.</span><span class="trans">This job of his still has a lot of challenges.</span>
+</div>
+
+== Similar Pattern with 这种 and 这类 ==
+
+As 个 is a measure word it can be replaced by other measure words in this structure. Often it is replaced with 种 or 类. In this usage, it's not used for name-calling.
+
+===Structure===
+
+<div class="jiegou">
+Subj. + 这种 / 这类 + [Category]
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 猕猴桃 <em>这种</em> 水果，营养 价值 最 高。<span class="pinyin">Míhóutáo <em>zhè zhǒng</em> shuǐguǒ, yíngyǎng jiàzhí zuì gāo.</span><span class="trans">This fruit we call kiwifruit has a high nutritional value.</span>
+* 钱 <em>这种</em> 东西，可以 有 可以 没有。<span class="pinyin">Qián <em>zhè zhǒng</em> dōngxi, kěyǐ yǒu kěyǐ méiyǒu.</span><span class="trans">This thing we call money, I could take it or leave it.</span>
+* 猴子 <em>这种</em> 动物，很 聪明 的。<span class="pinyin">Hóuzi <em>zhè zhǒng</em> dòngwù, hěn cōngming de.</span><span class="trans">This animal we call the monkey is very intelligent.</span>
+* 游泳 <em>这种</em> 运动，需要 你 长期 坚持。<span class="pinyin">Yóuyǒng <em>zhè zhǒng</em> yùndòng, xūyào nǐ chángqī jiānchí.</span><span class="trans">Swimming is the kind of exercise that requires long-term persistence.</span>
+* 抽奖 <em>这种</em> 活动 ，都是 骗人 的。<span class="pinyin">Chōujiǎng <em>zhè zhǒng</em> huódòng, dōu shì piàn rén de.</span><span class="trans">Raffles and the like are all scams.</span>
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Exemplification of Common Sentence Patterns in Spoken Chinese 汉语口语常用句式例解|200-201}}
+
+[[Category:B2 grammar points]]
+{{Basic Grammar|这个|B2|Noun + 这个 + Category|你 <em>这个</em> 坏蛋，就 没 做 过 一 件 好 事。|grammar point|ASGNPO4V}}
+{{Rel char|这}}
+{{Used for|Describing people}}
+{{Used for|Describing things}}
+{{Used for|Emphasizing}}
+{{Used for|Differentiating}}
+{{POS|Nouns}}

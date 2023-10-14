@@ -1,0 +1,77 @@
+<!-- In the future in general with "yihou" -->
+{{Grammar Box}} 
+
+Similar to talking about things in the past, talking about things in the future is very straight forward. You can use the simple but useful  以后 (yǐhòu), which also means "later."
+
+== Structure ==
+
+To talk about things happening at some unspecified time in the future, you can use 以后 (yǐhòu). The structure is:
+
+<div class="jiegou">
+
+以后 + Subj. + Verb + Obj.
+
+</div>
+
+You can also move 以后 (yǐhòu) to right after the subject, and it's also correct.
+
+<div class="jiegou">
+
+Subj. + 以后 + Verb + Obj.
+
+</div>
+
+This can be used to talk about actions in the future, or to talk about events that happened ''after other events'' in a story.
+
+== Examples ==
+
+In the examples below, the translation "in the future" is used, because using "later" for 以后 (yǐhòu) either sounds weird, or makes it sound like it's going to happen really soon (just a little later), rather than at some indefinite point in the future, which is what is meant.
+
+<div class="liju">
+
+* <em>以后</em> 你们 会  想我 吗？ <span class="pinyin"><em>Yǐhòu</em> nǐmen huì xiǎng wǒ ma? </span><span class="trans">In the future, will you miss me? </span>
+* <em>以后</em> 你 想 来 中国 吗？ <span class="pinyin"><em>Yǐhòu</em> nǐ xiǎng lái Zhōngguó ma? </span><span class="trans">In the future, do you want to come to China? </span>
+* 我 <em>以后</em> 不 喝酒 了。 <span class="pinyin">Wǒ <em>yǐhòu</em> bù hējiǔ le.</span><span class="trans">I will not drink alcohol in the future.</span>
+* 我们 <em>以后</em> 不 在 这里 工作 了。<span class="pinyin">Wǒmen <em>yǐhòu</em> bù zài zhèlǐ gōngzuò le.</span><span class="trans">We will not work here in the future.</span>
+* 你儿子 <em>以后</em> 想 做 什么？<span class="pinyin">Nǐ érzi <em>yǐhòu</em> xiǎng zuò shénme? </span><span class="trans">In the future, what does your son want to do? </span>
+* <em>以后</em> 你们 想 去哪儿 工作？ <span class="pinyin"><em>Yǐhòu</em> nǐmen xiǎng qù nǎr gōngzuò? </span><span class="trans">In the future, where would you like to work? </span>
+* <em>以后</em> 我们 会 有 一些 新 的 同事。<span class="pinyin"><em>Yǐhòu</em> wǒmen huì yǒu yīxiē xīn de tóngshì.</span><span class="trans">We will have some new co-workers in the future.</span>
+* <em>以后</em> 你 可以 住 在 这里。<span class="pinyin"><em>Yǐhòu</em> nǐ kěyǐ zhù zài zhèlǐ.</span><span class="trans">In the future, you can live here.</span>
+* 他们 <em>以后</em> 会 结婚 吗？<span class="pinyin">Tāmen <em>yǐhòu</em> huì jiéhūn ma? </span><span class="trans">Will they get married in the future? </span>
+* 你 <em>以后</em> 不 要 跟 他 见面 了。<span class="pinyin">Nǐ <em>yǐhòu</em> bùyào gēn tā jiànmiàn le.</span><span class="trans">In the future, stop seeing him.</span>
+
+
+</div>
+
+==See also==
+*[["Before" in general]]
+*[[After a specific time]]
+*[[Before and after with "zhiqian" and "zhihou"]]
+*[[Sequencing past events with "houlai"]]
+*[[Expressing future with "jiang"]]
+*[[Comparing "yihou" and "houlai"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|268}}
+{{Source|Basic Patterns of Chinese Grammar|26 - 27}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|293-4}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK3}}
+{{Used for|Referring to the future}}
+{{Used for|Sequencing events in time}}
+{{Basic Grammar|以后|A2|以后，⋯⋯|<em>以后</em>，你 不要 问 我。|grammar point|ASGPVFU1}}
+{{Rel char|后}}
+{{Similar|"Before" in general}}
+{{Similar|After a specific time}}
+{{Similar|Before and after with "zhiqian" and "zhihou"}}
+{{Similar|Comparing "yihou" "houlai"}}
+{{Similar|Sequencing Past Events with "houlai"}}
+{{Similar|Expressing future with "jiang"}}
+{{Similar|Comparing "yihou" and "zhihou"}}
+{{Similar|Auxiliary verb "hui" for "will" }}
+{{POS|Nouns}}
+{{Translation|later}}

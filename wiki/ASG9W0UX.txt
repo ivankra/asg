@@ -1,0 +1,58 @@
+<!-- Negative commands with "bie" -->
+{{Grammar Box}} 
+
+Instead of saying "do not" with [[Negative commands with "bu yao"|不要 (bùyào)]], we can say "don't" a little more quickly and forcefully by using 别 (bié).
+
+== Structure ==
+
+Besides using [[Negative commands with "bu yao"|不要 (bùyào)]], negative commands can also be formed with 别 (bié). You could think of 别 (bié) as a contraction of 不要 (bùyào), as the structure is the same for both:
+
+<div class="jiegou">
+
+别 + Verb (+ Obj.)
+
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*<em>别</em> 走。<span class="pinyin"><em>Bié</em> zǒu.</span><span class="trans">Don't leave.</span>
+*<em>别</em> 说话！<span class="pinyin"><em>Bié</em> shuōhuà! </span><span class="trans">Don't speak! </span>
+*<em>别</em> 笑！<span class="pinyin"><em>Bié</em> xiào! </span><span class="trans">Don't laugh! </span>
+*<em>别</em> 动！<span class="pinyin"><em>Bié</em> dòng!</span><span class="trans">Don't move!</span>
+*<em>别</em> 过来！<span class="pinyin"><em>Bié</em> guòlái! </span><span class="trans">Don't come over here! </span>
+*<em>别</em>  打 孩子！<span class="pinyin"><em>Bié</em> dǎ háizi!</span><span class="trans">Don't hit the child!</span>
+*<em>别</em>  喝 太 多。<span class="pinyin"><em>Bié</em> hē tài duō.</span><span class="trans">Don't drink too much.</span>
+*喝酒 以后 <em>别</em> 开车。<span class="pinyin">Hējiǔ yǐhòu <em>bié</em> kāichē.</span><span class="trans">After drinking alcohol, don't drive.</span>
+*吃饭 的 时候 <em>别</em> 玩 手机。<span class="pinyin">Chīfàn de shíhou <em>bié</em> wán shǒujī.</span><span class="trans">When eating, don't play with your cell phone.</span>
+*上课 的 时候 <em>别</em> 说 英文。<span class="pinyin">Shàngkè de shíhou <em>bié</em> shuō Yīngwén.</span><span class="trans">Don't speak English in class.</span>
+
+</div>
+
+==See also==
+
+* [[Negative commands with "bu yao"]]
+* [[Expressing "don't need to" with "buyong"]]
+
+== Sources and Further Reading ==
+
+===Videos===
+
+* Yoyo Chinese: [http://www.youtube.com/watch?v=OAAz-X6_iZ4&list=PL94A5E422FB99CDDD&index=18 Negative commands]
+
+=== Books ===
+
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|155}}
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|325}}
+{{Source|A Practical Chinese Grammar For Foreigners (外国人实用汉语语法)|46-47}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Used for|Giving commands}}
+{{Used for|Denying and refusing}}
+{{Basic Grammar|别|A2|别 + Verb|<em>别</em>走。|grammar point|ASG9W0UX}}
+{{Similar|Negative commands with "buyao"}}
+{{Similar|Expressing "don't need to" with "buyong"}}
+{{POS|Adverbs}}
+{{Translation|don't}}

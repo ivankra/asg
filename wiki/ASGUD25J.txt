@@ -1,0 +1,61 @@
+<!-- Coincidence with "zhenghao" -->
+{{Grammar Box}} 
+
+正好 (zhènghǎo) can be used as an adjective or adverb to help express a coincidence, and it could be related to time, size, volume, quantity, degree, etc. In English we might say something similar like, “oh, this shirt you gave me just happens to be in my favorite color."
+
+== Used as "happen to be" ==
+
+You can also use 正好 to mean "happen to be." 
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 正好 + [Verb Phrase]
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*我 <em>正好</em> 要 出去 ，垃圾 我 来 扔 吧 。<span class="pinyin">Wǒ <em>zhènghǎo</em> yào chūqù, lājī wǒ lái rēng ba.</span><span class="trans">I'm just about to leave. I'll take out the trash.</span>
+*你 来 了 ！我 <em>正好</em> 要 找 你 。<span class="pinyin">Nǐ lái le! Wǒ <em>zhènghǎo</em> yào zhǎo nǐ.</span><span class="trans">You are here! I was just looking for you.</span>
+*他 <em>正好</em> 问 了 我 想 问 的 问题 。<span class="pinyin">Tā <em>zhènghǎo</em> wèn le wǒ xiǎng wèn de wèntí.</span><span class="trans">He happened to ask the question that I wanted to ask.</span>
+*我 <em>正好</em> 也 在 这里 实习 。<span class="pinyin">Wǒ <em>zhènghǎo</em> yě zài zhèlǐ shíxí.</span><span class="trans">I happen to be interning here too.</span>
+*<em>正好</em> 你们 都 是 单身 。<span class="pinyin"><em>Zhènghǎo</em> nǐmen dōu shì dānshēn.</span><span class="trans">You both happen to be single.</span>
+*我 明天 见 他 ，<em>正好</em> 可以 问问 他 这 件 事 。<span class="pinyin">Wǒ míngtiān jiàn tā, <em>zhènghǎo</em> kěyǐ wènwen tā zhè jiàn shì.</span><span class="trans">I'm going to meet with him tomorrow. I can just ask him about this matter.</span>
+*我们 <em>正好</em> 也 要 去 那儿 ，一起 走 吧 。<span class="pinyin">Wǒmen <em>zhènghǎo</em> yě yào qù nàr, yīqǐ zǒu ba.</span><span class="trans">We just happen to be going there. Let's go together.</span>
+*我 敲 门 的 时候 ，他 <em>正好</em> 出门 。<span class="pinyin">Wǒ qiāo mén de shíhou, tā <em>zhènghǎo</em> chūmén.</span><span class="trans">He just happened to be leaving the house while I was knocking at the door.</span>
+
+</div>
+
+== Used as "just right" ==
+
+You can also use 正好 by itself to mean "just right" or "just enough."
+
+Examples of that usage:
+
+<div class="liju">
+
+*这 件 衣服 的 大 小 <em>正好</em> 。<span class="pinyin">Zhè jiàn yīfu de dà xiǎo <em>zhènghǎo</em>.</span><span class="trans">The size of these clothes is just right.</span>
+*水温 <em>正好</em>，不 冷 也 不 热 。<span class="pinyin">Shuǐwēn <em>zhènghǎo</em>, bù lěng yě bù rè.</span><span class="trans">The temperature of the water is perfect, not too cold, not too hot.</span>
+
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|17}}
+{{Source|现代汉语八百词（增订本）|671}}
+{{Source|Integrated Chinese: Level 2, Part 1|90}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|正好|B1|Subj. + 正好 + Verb Phrase|他 <em>正好</em> 问 了 我 想 问 的 问题 。|grammar point|ASGUD25J}}
+{{Rel char|正}}
+{{Rel char|好}}
+{{Used for|Sequencing events in time}}
+{{Used for|Indicating conditions}}
+{{Translation|happen to be}}
+{{Translation|just right}}
+{{POS|Adverbs}}

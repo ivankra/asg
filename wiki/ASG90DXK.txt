@@ -1,0 +1,69 @@
+<!-- Special cases of "zai" following verbs -->
+{{Grammar Box}}
+
+When used to indicate locations of actions, 在 (zài) is usually placed after the subject and [[Indicating location with "zai" before verbs|before the verb]]. There are certain cases, however, when 在 (zài) goes after the verb.
+
+== Structure ==
+
+This pattern is used regularly with special types of verbs, including: 住 (zhù), 放 (fàng), 坐 (zuò), and 站 (zhàn). These are verbs that imply movement or location. Technically, the structure is called a [[location complement]], but it can be understood without going into that much detail. Just remember that for verbs implying ''movement'' or ''location'' like the ones above, the [[Expressing existence in a place with "zai"|default sentence order]] changes and you get this structure:
+
+<div class="jiegou">
+
+Subj. + [Special Verb] + 在 + Location
+
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+* 你 住 <em>在</em> <strong>上海</strong>吗？<span class="pinyin">Nǐ zhù <em>zài</em> <strong>Shànghǎi</strong> ma? </span><span class="trans">Do you live in Shanghai? </span>
+* 他 坐 <em>在</em> <strong>老板 的 旁边</strong>。<span class="pinyin">Tā zuò <em>zài</em>  <strong>lǎobǎn de pángbiān</strong>.</span><span class="trans">He sits next to the boss.</span>
+* 你 应该 站 <em>在</em> <strong>我 后面</strong>。<span class="pinyin">Nǐ yīnggāi zhàn <em>zài</em> <strong>wǒ hòumiàn</strong>.</span><span class="trans">You should stand behind me.</span>
+* 不要 坐 <em>在</em><strong>我 的 床 上</strong>。<span class="pinyin">Bùyào zuò <em>zài</em> <strong>wǒ de chuáng shàng</strong>.</span><span class="trans">Don't sit on my bed.</span>
+* 你 的 衣服 不 可以 放 <em>在</em><strong> 这里</strong>。<span class="pinyin">Nǐ de yīfu bù kěyǐ fàng <em>zài</em> <strong>zhèlǐ</strong>.</span><span class="trans">You can't put your clothes here.</span>
+* 不要 站 <em>在 </em><strong>路 中间</strong>。<span class="pinyin">Bùyào zhàn <em>zài</em><strong> lù zhōngjiān</strong>.</span><span class="trans">Don't stand in the middle of the road.</span>
+* 不要 坐 <em>在 </em><strong>地 上</strong>。<span class="pinyin">Bùyào zuò <em>zài</em> <strong>dì shàng</strong>.</span><span class="trans">Don't sit on the ground.</span>
+* 那 本 书 我 放 <em>在</em><strong> 桌子 上</strong> 了。<span class="pinyin">Nà běn shū wǒ fàng <em>zài</em> <strong>zhuōzi shàng </strong> le.</span><span class="trans">I placed that book on the table.</span>
+* 不要 走 <em>在 </em><strong>草地 上</strong>。<span class="pinyin">Búyào zǒu <em>zài</em><strong> cǎodì shàng</strong>.</span><span class="trans">Don't walk on the grass.</span>
+* 周末 我 不 想 待 <em>在</em> <strong>家 里</strong>。<span class="pinyin">Zhōumò wǒ bù xiǎng dāi <em>zài</em> <strong>jiā  lǐ</strong>.</span><span class="trans">I don't want to stay at home on weekends.</span>
+
+</div>
+
+Remember that this is an ''exception to the normal rule''. A common mistake is to over apply this and produce incorrect sentences. Note the incorrect and correct versions below.
+
+<div class="liju">
+
+<ul>
+ <li class="x">我 工作 <em>在 </em>上海。<span class="pinyin">Wǒ gōngzuò <em>zài</em> Shànghǎi.</span></li>
+ <li class="o">我 <em>在</em> 上海工作。<span class="pinyin">Wǒ <em>zài</em>  Shànghǎi gōngzuò.</span><span class="trans">I work in Shanghai.</span></li>
+ <li class="x">我 学习 <em>在</em> 图书馆。<span class="pinyin">Wǒ xuéxí <em>zài </em>túshūguǎn.</span></li>
+ <li class="o">我 <em>在</em> 图书馆 学习。<span class="pinyin">Wǒ <em>zài </em>túshūguǎn xuéxí.</span><span class="trans">I study in the library.</span></li>
+</ul>
+
+</div>
+
+== See Also ==
+
+* [[Expressing existence in a place with "zai"]]
+* [[Indicating location with "zai" before verbs]]
+* [[Complements with "dao," "gei," and "zai"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Chinese: An Essential Grammar, Second Edition|104-105}} 
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Used for| Expressing location}}
+{{Basic Grammar|在|A2|Verb + 在 + Place|我 住 <em>在</em> 北京。放 <em>在</em> 这里。|grammar point|ASG90DXK}}
+{{Similar|Expressing existence in a place with "zai"}} 
+{{Similar|Indicating location with "zai" before verbs}}  
+{{Similar|Complements with "dao," "gei" and "zai"}}
+{{Similar|Expressing location with "zai...shang/xia/li"}}
+{{POS|Verbs}}
+{{Subprop|Verb phrases}}
+{{Translation|at}}
+{{Translation|in}}

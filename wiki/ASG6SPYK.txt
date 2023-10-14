@@ -1,0 +1,80 @@
+<!-- Expressing permission with "keyi" -->
+{{Grammar Box}} 
+
+可以 (kěyǐ) is an [[auxiliary verb]] primarily used for expressing permission. It's often translated as "can," but in order to not get it confused with other words, it's best to think of it as "may" to emphasize the ''permission'' aspect.
+
+== Basic Usage ==
+
+Just put 可以 (kěyǐ) in directly before a [[verb]] to create a meaning of "may" (plus the verb). It's the same structure whether it's a statement or a question.
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + 可以 + Verb + Obj.
+
+</div>
+
+Use this structure to express permission to do things.
+
+=== Examples ===
+
+<div class="liju">
+
+* 我 <em>可以</em> 进来 吗？<span class="pinyin">Wǒ <em>kěyǐ</em> jìnlái ma?</span><span class="trans">May I come in?</span>
+* 二十 一 岁 以后 <em>可以</em> 喝酒。<span class="pinyin">Èrshí-yī suì yǐhòu <em>kěyǐ</em> hējiǔ.</span><span class="trans">After you are 21 years old, you may drink alcohol.</span>
+* 妈妈，我 <em>可以</em> 出去 玩 吗？<span class="pinyin">Māma, wǒ <em>kěyǐ</em> chūqù wán ma?</span><span class="trans">Mom, may I go out and play?</span>
+* 我们 <em>可以</em> 在 办公室 吃饭 吗？<span class="pinyin">Wǒmen <em>kěyǐ</em> zài bàngōngshì chīfàn ma?</span><span class="trans">Can we eat in the office?</span>
+* 我 <em>可以</em> 在 这里 停车 吗？<span class="pinyin"> Wǒ <em>kěyǐ</em> zài zhèlǐ tíngchē ma?</span><span class="trans">Can I park here?</span>
+
+</div>
+
+== Negating 可以 (kěyǐ) Sentences ==
+
+可以 (kěyǐ) sentences are [[Standard negation with "bu"|negated with 不 (bù)]], which is inserted before 可以 (kěyǐ).
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + 不 + 可以 + Verb + Obj.
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 孩子 <em>不 可以</em> 看 这 个。<span class="pinyin">Háizi <em>bù kěyǐ</em> kàn zhège.</span><span class="trans">Children can't watch this.</span>
+* 你 现在 <em>不 可以</em> 进去。<span class="pinyin">Nǐ xiànzài <em>bù kěyǐ</em> jìnqù.</span><span class="trans">You can't go in right now.</span>
+* 这里 <em>不 可以</em>抽烟。<span class="pinyin">Zhèlǐ  <em>bù kěyǐ</em> chōuyān.</span><span class="trans">You can't smoke here.</span>
+* 我们 都 <em>不 可以</em> 去 。<span class="pinyin">Wǒmen dōu <em>bù kěyǐ</em> qù.</span><span class="trans">None of us may go.</span>
+* 你 <em> 不 可以</em> 说 脏话。<span class="pinyin">Nǐ <em> bù kěyǐ</em> shuō zānghuà.</span><span class="trans">You can't say swear words.</span>
+</div>
+
+==See also==
+
+*[[Expressing ability or possibility with "neng"]]
+*[[Comparing "hui" "neng" "keyi"]]
+*[[Expressing a learned skill with "hui"]]
+
+== Sources and further reading ==
+
+{{Source|HSK Standard Course 2|34}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|160-1}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)|185-7}}
+{{Source|A Practical Chinese Grammar For Foreigners (外国人实用汉语语法)|44}}
+
+[[Category:A1 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Used for|Expressing ability}}
+{{Used for|Requesting}}
+{{Basic Grammar|可以|A1|可以 + Verb|这里 <em>可以</em> 吸烟 吗?|grammar point|ASG6SPYK}}
+{{Rel char|可}}
+{{Similar|Expressing ability or possibility}} 
+{{Similar|Hui, keyi and neng}} 
+{{Similar|Expressing a learned skill}}
+{{POS|Verbs}}
+{{Subprop|Auxiliary verbs}}
+{{Translation|Can}}
+{{Translation|May}}

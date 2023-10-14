@@ -1,0 +1,52 @@
+<!-- Expressing "if… then…" with "jiashi" -->
+{{Grammar Box}} 
+"假使⋯⋯，就⋯⋯" (jiǎshǐ..., jiù...) is another way to phrase "If..., then..." in Chinese, with this pattern being one of the most formal. 
+
+An important note is that this pattern is usually only used in '''written''' formal Chinese.
+
+==Structure==
+
+<div class="jiegou">
+
+假使 + Statement + 就 + Result
+
+</div>
+
+==Examples==
+
+<div class="liju">
+
+* <em>假使</em> 明天 下雨，我  <em>就</em> 不 去 上班 了。<span class="pinyin"><em>Jiǎshǐ</em> míngtiān xià yǔ, wǒ  <em>jiù</em> bù qù shàngbān le.</span><span class="trans">If it rains tomorrow, then I'm not going to work.</span>
+* <em>假使</em> 你 同意，我们 立马 签 合同。<span class="pinyin"><em>Jiǎshǐ</em> nǐ tóngyì, wǒmen lìmǎ qiān hétóng.</span><span class="trans">If you agree, then we should sign the contract right away.</span>
+* <em>假使</em> 我们 能 找到 更 多 的 赞助，我们 <em>就</em> 可以 帮助 更多 的 孩子。<span class="pinyin"><em>Jiǎshǐ</em> wǒmen néng zhǎodào gèng duō de zànzhù, wǒmen <em>jiù</em> kěyǐ bāngzhù gèng duō de háizi.</span><span class="trans">If we find even more sponsors, then we can help even more children.</span>
+* <em>假使</em> 你 满意，我们 会 很 开心。 <span class="pinyin"><em>Jiǎshǐ</em> nǐ mǎnyì, wǒmen huì hěn kāixīn.</span><span class="trans">If you are satisfied, we will be happy.</span>
+* <em>假使</em> 这些 办法 不 可靠，我们 还 可以 想 其他的 办法。<span class="pinyin"><em>Jiǎshǐ</em> zhèxiē bànfǎ bù kěkào, wǒmen hái kěyǐ xiǎng qítā de bànfǎ.</span><span class="trans">If these solutions are not reliable, we can think of other solutions.</span>
+* <em>假使</em> 你 要 去 留学，现在 情况 也 不 允许 你 出国。<span class="pinyin"><em>Jiǎshǐ</em> nǐ yào qù liúxué, xiànzài qíngkuàng yě bù yǔnxǔ nǐ chūguó.</span><span class="trans">If you were to study abroad, the situation would not allow you to leave the country.</span>
+
+</div>
+
+==See also==
+*[["If…, then…" with "ruguo…, jiu…"]]
+*[["If… then…" with "yaoshi"]]
+*[["If… then…" with "jiaru"]]
+
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Modern Mandarin Chinese Grammar: A Practical Guide|279}} 
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|假使|C1|假使⋯⋯，就⋯⋯|<em>假使</em> 你 遇到 坏人 ， <em>就</em> 报警 。|grammar point|ASGVRGW2}}
+{{Rel char|就}}
+{{Similar|Expressing "if... then..." with "ruguo... jiu..."}}
+{{Similar|Expressing "if" with "ruguo... dehua"}}
+{{Similar|Expressing "if… then…" with "yaoshi"}}
+{{Similar|Expressing "if… then…" with "jiaru"}}
+{{Used for|Indicating cause and effect}}
+{{Used for|Expressing possibility}}
+{{Used for|Indicating conditions}}
+{{Structure|"If" Statements}}
+{{Translation|if}}
+{{Translation|then}}

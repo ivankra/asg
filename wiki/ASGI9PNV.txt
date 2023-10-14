@@ -1,0 +1,43 @@
+<!-- Opportune timing with "chen" -->
+{{Grammar Box}} 
+趁 (chèn) is a preposition that means to "take advantage of" an opportunity or favorable time to do something. It is normally followed by an adjective or a short phrase explaining the situation that the person is seeking to take advantage of.
+
+==Structure==
+
+<div class="jiegou">
+趁 + [Situation / Opportunity]……
+</div>
+
+== Examples ==
+
+Note that in English using the literal translation "take advantage of" often isn't natural.
+
+<div class="liju">
+* <em>趁</em> 打折 ，我 买 了 新 手机。<span class="pinyin"><em>Chèn</em> dǎzhé, wǒ mǎi le xīn shǒujī.</span><span class="trans">Taking advantage of the discount, I bought a new phone.</span>
+* <em>趁</em> 现在 不 忙，你 快 走 吧。<span class="pinyin"><em>Chèn</em> xiànzài bùmáng, nǐ kuài zǒu ba.</span></span><span class="trans">Go now, while no one is busy.</span>
+* <em>趁</em> 这个 机会 ，我们 见 个 面 吧。<span class="pinyin"><em>Chèn</em> zhège jīhuì, wǒmen jiàn gè miàn ba.</span><span class="trans">Let's take this opportunity to meet up.</span>
+* <em>趁</em> 年轻，多 去 玩玩 吧。<span class="pinyin"><em>Chèn</em> niánqīng, duō qù wánwan ba.</span><span class="trans">You guys should go have more fun while you're still young.</span>
+* <em>趁</em> 天气 好，我 要 去 野餐。<span class="pinyin"><em>Chèn</em> tiānqì hǎo, wǒ yào qù yěcān.</span><span class="trans">While the weather is good, I'm going on a picnic.</span>
+* <em>趁</em> 老板 不 在，我们 打 一会儿 游戏 吧。<span class="pinyin"><em>Chèn</em> lǎobǎn bù zài, wǒmen dǎ yīhuìr yóuxì ba.</span><span class="trans">While the boss is out, we can play video games for a little while.</span>
+* <em>趁</em> 我 现在 有 假期 ，我们 可以 去 旅游 。<span class="pinyin"><em>Chèn</em> wǒ xiànzài yǒu jiàqī, wǒmen kěyǐ qù lǚyóu.</span><span class="trans">While I have vacation days, we can go traveling.</span>
+* <em>趁</em> 孩子 睡着 的 时候，我 洗 了 很 多 衣服。<span class="pinyin"><em>Chèn</em> háizi shuìzháo de shíhou, wǒ xǐ le hěn duō yīfu.</span><span class="trans">Since the kids had fallen asleep, I washed a bunch of clothes.</span>
+* 妹妹 经常 <em>趁</em> 我 不 在家 的时候 ，玩 我 的 电脑。<span class="pinyin">Mèimei jīngcháng <em>chèn</em> wǒ bù zài jiā de shíhou, wán wǒ de diànnǎo.</span><span class="trans">My little sister often plays with my computer when I am not at home.</span>
+* 小偷 一定 是 <em>趁</em> 我 不 注意 的 时候 ，把 我 的 手机 偷走 的 。<span class="pinyin">Xiǎotōu yīdìng shì <em>chèn</em> wǒ bù zhùyì de shíhou, bǎ wǒ de shǒujī tōu zǒu de.</span><span class="trans">The thief must have stolen my cell phone when I wasn't paying attention.</span>
+</div>
+
+== Sources  and further reading ==
+
+=== Books ===
+
+{{Source|Short-term Spoken Chinese: Pre-Intermediate (汉语口语速成提高篇)|}}
+{{Source|现代汉语八百词（增订本）|116}}
+
+=== Dictionaries ===
+
+{{Source|现代汉语词典（第5版）|169}}
+
+[[Category:B2 grammar points]]
+{{Basic Grammar|趁|B2|趁 + Situation / Opportunity……|<em>趁</em> 老板 不 在，我们 出去 吃饭 吧。|grammar point|ASGI9PNV}}
+{{Used for|Indicating conditions}}
+{{Used for|Indicating cause and effect}}
+{{POS|Prepositions}}

@@ -1,0 +1,136 @@
+<!-- Expressing "half" with "ban" -->
+{{Grammar Box}}
+
+The Chinese word 半 (bàn) means "half." That's simple enough, but what can get slightly tricky is the rules for how it combines with [[measure word]]s.
+
+== Basic Usage ==
+
+=== Used Alone ===
+
+==== Structure ====
+
+You'll need to use a [[measure word]] (Measure Word) in this structure.
+
+<div class="jiegou">
+
+半 + Measure Word + Noun
+
+</div>
+
+==== Examples ====
+
+The [[measure word]]s are also indicated below.
+
+<div class="liju">
+* <em>半</em> <strong>个</strong> 小时 <span class="pinyin"><em>bàn</em> <strong>gè</strong> xiǎoshí</span><span class="trans">half an hour</span>
+* <em>半</em> <strong>个</strong> 月 <span class="pinyin"><em>bàn</em> <strong>gè</strong> yuè</span><span class="trans">half a month</span>
+* <em>半</em> <strong>碗</strong> 米饭 <span class="pinyin"><em>bàn</em> <strong>wǎn</strong> mǐfàn</span><span class="trans">half a bowl of rice</span>
+* <em>半</em> <strong>瓶</strong> 酒 <span class="pinyin"><em>bàn</em> <strong>píng</strong> jiǔ</span><span class="trans">half a bottle of liquor</span>
+* <em>半</em> <strong>份</strong> 炒面 <span class="pinyin"><em>bàn</em> <strong>fèn</strong> chǎomiàn</span><span class="trans">half a serving of chow mein</span>
+
+</div>
+
+=== With a Number ===
+
+When it's more than just a half, then 半 (bàn) comes after the [[measure word]] instead of before. It's the difference between "half an hour" and "an hour and a half."
+
+<div class="liju">
+
+* <em>半</em> <strong>个</strong> 小时 <span class="pinyin"><em>bàn</em> <strong>gè</strong> xiǎoshí</span><span class="trans">half an hour</span>
+* 一 <strong>个</strong> <em>半</em> 小时 <span class="pinyin">yī <strong>gè</strong> <em>bàn</em> xiǎoshí</span><span class="trans">an hour and a half</span>
+
+</div>
+
+The order is actually basically the same as what we do in English (we just don't have so many pesky measure words to keep track of in English!).
+
+==== Structure ====
+
+<div class="jiegou">
+
+Number + Measure Word + 半 + Noun
+
+</div>
+
+==== Examples ====
+
+<div class="liju">
+
+* 三 <strong>个</strong> <em>半</em> 小时 <span class="pinyin">sān <strong>gè</strong> <em>bàn</em> xiǎoshí</span><span class="trans">three and a half hours</span>
+* 两 <strong>个</strong> <em>半</em> 月 <span class="pinyin">liǎng <strong>gè</strong> <em>bàn</em> yuè</span><span class="trans">two and a half months</span>
+* 一 <strong>斤</strong> <em>半</em> 水果 <span class="expl">One "jin" = 500g</span><span class="pinyin">yī <strong>jīn</strong> <em>bàn</em> shuǐguǒ </span><span class="trans">one and a half jin of fruit</span>
+* 一 <strong>瓶</strong> <em>半</em> 白酒 <span class="pinyin">yī <strong>píng</strong> <em>bàn</em> báijiǔ </span><span class="trans">one and a half bottles of wine</span>
+*  四<strong>块</strong> <em>半</em> 巧克力 <span class="pinyin">sì <strong> kuài</strong> <em>bàn</em> qiǎokèlì </span><span class="trans">four and a half pieces of chocolate</span>
+</div>
+
+== Notable Exceptions ==
+
+There are some words that act as their own measure words, notably the time words 天 (tiān), meaning "day," and 年 (nián), meaning "year."
+
+=== Used Alone ===
+
+==== Structure ====
+
+<div class="jiegou">
+
+半 + 天 / 年
+
+</div>
+
+==== Examples ====
+
+<div class="liju">
+
+*<em>半</em> <strong>天</strong><span class="pinyin"> <em>bàn</em> <strong>tiān</strong></span><span class="trans">half a day</span>
+*<em>半</em> <strong>年</strong><span class="pinyin"> <em>bàn</em> <strong>nián</strong></span><span class="trans">half a year</span>
+
+</div>
+
+Note that you do ''not'' need to use 个 (gè) here; in fact, it's ''wrong'' to do so:
+
+<div class="liju">
+
+<ul>
+<li class="x"><em>半</em> <strong>个</strong> 天 <span class="pinyin"><em>bàn</em> <strong>gè</strong> tiān</span><span class="trans">half a day</span></li>
+<li class="x"><em>半</em> <strong>个</strong> 年 <span class="pinyin"><em>bàn</em> <strong>gè</strong> nián</span><span class="trans">half a year</span></li>
+</ul>
+
+</div>
+
+=== With a Number ===
+
+天 (tiān) and 年 (nián) aren't the ''only'' words that take this alternate pattern, but they're the two key ones you need to learn first.
+
+==== Structure ====
+
+<div class="jiegou">
+
+Number + 天 / 年 + 半
+
+</div>
+
+====  Examples ==== 
+
+<div class="liju">
+
+* 两 <strong>天</strong> <em>半</em> <span class="pinyin">liǎng <strong>tiān</strong> <em>bàn</em></span><span class="trans">two and a half days</span>
+* 一 <strong>年</strong> <em>半</em> <span class="pinyin">yī <strong>nián</strong> <em>bàn</em></span><span class="trans">a year and a half</span>
+* 三 <strong>天</strong> <em>半</em> <span class="pinyin">sān <strong>tiān</strong> <em>bàn</em></span><span class="trans">three and a half days</span>
+* 四 <strong>年</strong> <em>半</em> <span class="pinyin">sì <strong>nián</strong> <em>bàn</em></span><span class="trans">four and a half years</span>
+
+</div>
+
+==See also==
+
+*[[Structure of times]]
+
+<!-- Comment out unused headings
+== Sources and further reading ==
+
+=== Books ===
+-->
+
+[[Category:A2 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|半|A2|Number + Measure Word + 半 + Noun|三 个 <em>半</em> 小时|grammar point|ASGAC1P9}}
+{{Used for|Expressing quantity}}
+{{Structure|Numbers and Measure Words}}

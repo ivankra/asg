@@ -1,0 +1,59 @@
+<!-- Suggestions with "ba" -->
+{{Grammar Box}} 
+
+The particle 吧 (ba) has [[吧|a number of different uses]]. Here we'll talk about the simplest way to use 吧 (ba): making suggestions. 
+
+== Structure ==
+
+<div class="jiegou">
+
+Command + 吧
+
+</div>
+
+Note that in Chinese, whenever you have a command with the subject "we," you're basically just saying, "'''let's''' (do something)."   吧 (ba) just makes the suggestion sound more tentative and more polite.
+
+== Examples ==
+
+<div class="liju">
+
+* 我们 走 <em>吧</em>。 <span class="expl">This is a suggestion.</span><span class="pinyin">Wǒmen zǒu <em>ba</em>.</span><span class="trans">Let's go.</span>
+* 你 说 <em>吧</em>。<span class="expl">This is a suggestion.</span><span class="pinyin">Nǐ shuō <em>ba</em>.</span><span class="trans">You say it.</span>
+* 快 点 吃 <em>吧</em>。 <span class="expl">This is a suggestion.</span><span class="pinyin">Kuài diǎn chī <em>ba</em>.</span><span class="trans">Hurry up and eat.</span>
+* 给 我 两 个 <em>吧</em>。 <span class="expl">This is a suggestion.</span><span class="pinyin">Gěi wǒ liǎng gè <em>ba</em>.</span><span class="trans">Give me two.</span>
+* 喝 水 <em>吧</em>。<span class="expl">This is a suggestion.</span><span class="pinyin">Hē shuǐ <em>ba</em>.</span><span class="trans">Have some water.</span>
+* 我们 去 香港 <em>吧</em>。<span class="expl">This is a great suggestion!</span><span class="pinyin">Wǒmen qù Xiānggǎng <em>ba</em>.</span><span class="trans">Let's go to Hong Kong.</span>
+* 我们 六 点 去<em>吧</em>？<span class="expl">This is more of a confirmation than a suggestion.</span><span class="pinyin">Wǒmen liù diǎn qù <em>ba</em>?</span><span class="trans">We're going at 6 o'clock (right)?</span>
+* 休息 一下 <em>吧</em>。<span class="expl">This is a suggestion.</span><span class="pinyin">Xiūxi yīxià <em>ba</em>.</span><span class="trans">Take a break.</span>
+* 我们 结婚 <em>吧</em>。<span class="expl">This is a also suggestion, believe it or not!</span><span class="pinyin">Wǒmen jiéhūn <em>ba</em>.</span><span class="trans">Let's get married.</span>
+* 老板 ，便宜 一点 <em>吧</em>。<span class="expl">This is more of a request, made to a shopkeeper.</span><span class="pinyin">Lǎobǎn, piányi yīdiǎn <em>ba</em>.</span><span class="trans">Boss, can you make it cheaper?</span>
+
+</div>
+
+==See also==
+*[[Softening speech with "ba"]]
+*[[Softening the tone of questions with "ne"]] (advanced article)
+*[[Conceding with "ba" ]]
+
+== Sources and  further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 1|101}}
+{{Source|Chinese: An Essential Grammar, Second Edition|66}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|129}}
+{{Source|Mandarin Chinese: A Functional Reference Grammar|307-311}} 
+
+[[Category:A1 grammar points]]
+{{HSK|HSK1}}{{2021-HSK|HSK1}}
+[[Category:Particles]]
+{{Used for|Expressing attitude}}
+{{Used for|Requesting}}
+[[is similar to::Conceding with "ba"| ]]
+[[level::A1| ]]
+{{Basic Grammar|吧|A1|Command + 吧|我们 走 <em>吧</em> 。|grammar point|ASGMPZ6D}}
+{{Similar|Softening speech with "ba"}} 
+{{Similar|Expressing "otherwise" with "yaobu"}}    
+{{Similar|Softening the Tone of Questions with "ne"}}
+{{Similar|Conceding with "ba"}}    
+{{POS|Particles}}

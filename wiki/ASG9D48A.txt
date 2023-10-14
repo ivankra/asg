@@ -1,0 +1,43 @@
+<!-- Expressing "in the name of" with "yi... de mingyi" -->
+{{stub}}
+{{Grammar Box}}
+
+以 (yǐ) ... 名义 (míngyì) is used to represent someone or something. This grammar pattern expresses "in the name of..."
+
+== Structure ==
+
+This structure is similar to the English "in the name of the..." as in "in the name of the people." 
+
+<div class="jiegou">
+
+以 + Subj. + 名义
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*不要 <em>以</em> 我 <em>的名义</em> 给 公司 写信, 公司 会 找 我 麻烦的。 <span class="pinyin">Bùyào <em>yǐ</em> wǒ <em>de míngyì</em> gěi gōngsī xiě xìn, gōngsī huì zhǎo wǒ máfan de.</span> <span class="trans">Don't write to the company in my name, they will give me trouble. </span>
+* 这个 人 是 个 诈骗犯, 所以 <em>以</em> 政府 <em> 的名义 </em> 起诉 了 他。 <span class="pinyin">Zhè ge rén shì gè zhàpiàn fàn, suǒyǐ <em>yǐ</em> zhèngfǔ <em>de míngyì</em> qǐsù le tā.</span><span class="trans">This person is a fraud and was sued in the name of the government.</span>
+*<em>以</em> 保护 生命 <em>的名义</em> 去 屠杀 其他 种族的 人, 并 不是 道德的。 <span class="pinyin"><em>Yǐ</em> bǎohù shēngmìng <em>de míngyì</em> qù túshā qítā zhǒngzú de rén, bìng bù shì dàodé de.</span> <span class="trans">It is morally wrong to kill people of other races in the name of protecting life. </span>
+*多少 人 <em>以</em> 朋友 <em>的名义</em>, 爱着 一 个 人。<span class="pinyin">Duōshǎo rén v<em>yǐ</em> péngyǒu <em>de míngyì</em>, àizhe yī gè rén.</span><span class="trans">How many people love a person in the name of friends.</span>
+*我们 <em>以</em> 学校 <em>的名义</em>向 政府 反映了 这件 事情。<span class="pinyin">Wǒmen <em>yǐ</em> xuéxiào <em>de míngyì</em> xiàng zhèngfǔ fǎnyìngle zhè jiàn shìqing.</span><span class="trans">In the name of the school, we have brought this matter to the attention of the government.</span>
+* <em>以</em> 圣父、圣子 和 圣灵 <em>的名义</em>，阿门。<span class="pinyin"><em>Yǐ</em> shèng fù, shèng zǐ hé shènglíng <em>de míngyì</em>, āmén.</span><span class="trans">In the name of the Father, the Son and the Holy Spirit, amen.</span>
+*记者 不得不 <em>以</em> 采访 <em>的名义</em> 进入 大厅。<span class="pinyin">Jìzhě bùdébù <em>yǐ</em> cǎifǎng <em>de míngyì</em> jìnrù dàtīng.</span><span class="trans">Journalists had to enter the hall in the name of the press.</span>
+*不管 <em>以</em> 谁 <em>的名义</em>, 这件 事 都 不能 做。<span class="pinyin">Bùguǎn <em>yǐ</em> shéi <em>de míngyì</em>, zhè jiàn shì dōu bù néng zuò.</span><span class="trans">No matter in whose name this is done, it cannot be done.</span>
+*如果 没有 借口，需要 <em>以</em> 什么 <em>的名义</em> 来 解雇 他 呢？<span class="pinyin">Rúguǒ méiyǒu jièkǒu, xūyào <em>yǐ</em> shénme <em>de míngyì</em> lái jiěgù tā ne?</span><span class="trans">If there is no excuse, in what name must he be dismissed?</span>
+*既然 是 <em>以</em> 你 <em>的名义</em>打 的电话, 那 你 来 处理 这件 事情 吧。<span class="pinyin">Jìrán shì <em>yǐ</em> nǐ <em>de míngyì</em> dǎ de diànhuà, nà nǐ lái chǔlǐ zhè jiàn shìqing ba.</span><span class="trans">Since the call was made in your name, you'll handle this matter.</span> 
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Anything Goes (无所不谈)|223}}
+[[Category:C1 grammar points]]
+{{Basic Grammar|名义|C1|以 + Subject + 名义|不要 <em>以</em> 我的 <em>名义</em> 给公司写信.|grammar point|ASG9D48A}}
+{{Rel char|名}}
+{{Similar|Additional way to express "in the name of"}}
+{{Structure|Sentence Patterns}}
+{{Translation|in the name of}}

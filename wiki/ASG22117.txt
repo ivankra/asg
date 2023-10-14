@@ -1,0 +1,54 @@
+<!-- The use of Taiwanese Mandarin "hui" -->
+{{stub}}
+{{Grammar Box}}
+In standard Mandarin, [[会]] (huì) is considered an [[auxiliary verb]], but in Taiwan 会 has an additional usage associated with asking simple yes/no questions.
+
+== Structure ==
+
+<div class="jiegou">
+Subj. + 会 + Predicate + 吗 ？ 
+</div>
+
+== Examples ==
+
+The following examples shows the differences between Taiwanese Mandarin and Standard Mandarin. 
+
+<div class="liju">
+*你 <em>会</em> 冷 吗 ？<span class="expl">means 你 冷 不 冷 ？</span><span class="pinyin">Nǐ <em>huì</em> lěng ma?</span><span class="trans">Are you cold?</span>
+*这个 <em>会</em> 辣 吗 ？<span class="expl">means 这个 辣 不 辣 ？</span><span class="pinyin">Zhège <em>huì</em> là ma?</span><span class="trans">Is this spicy?</span>
+</div>
+
+Editor's Note: The following sentences are no different from standard Mandarin, and this need major revisions.
+
+<div class="liju">
+*他 <em>会</em> 哭 吗 ？<span class="pinyin">Tā <em>huì</em> kū ma?</span><span class="trans">Is he going to cry?</span>
+*你 <em>会</em> 走 吗 ？<span class="pinyin">Nǐ <em>huì</em> zǒu ma?</span><span class="trans">Will you leave?</span>
+*我 <em>会</em> 赢 吗 ？<span class="pinyin">Wǒ <em>huì</em> yíng ma?</span><span class="trans">Will I win?</span>
+*明天 <em>会</em> 回家 吗 ？<span class="pinyin">Míngtiān <em>huì</em> huíjiā ma?</span><span class="trans">Will you go home tomorrow?<span class="trans"></span>
+*这 部 电影 <em>会</em> 上映 吗 ？<span class="pinyin">Zhè bù diànyǐng <em>huì</em> shàngyìng ma?</span><span class="trans">Will the film be shown?<span class="trans"></span>
+*这 个 人 <em>会</em> 火 吗 ？<span class="pinyin">Zhège rén <em>huì</em> huǒ ma?</span><span class="trans">Will this person be hot?<span class="trans"></span>
+*路上 <em>会</em> 堵 吗 ？<span class="pinyin">Lùshang <em>huì</em> dǔ ma?</span><span class="trans">Will there be traffic jams on the road?</span>
+*我们 <em>会</em> 买到 吗 ？<span class="pinyin">Wǒmen <em>huì</em> mǎi dào ma?</span><span class="trans">Are we gonna get it?<span class="trans"></span>
+
+</div>
+
+会 in this context is equivalent to the English verb "to be." However, it’s the adjective to follow 会 is usually negative. So you would never say 这会好吃吗？because most people like to eat delicious food. If you do say this, the speaker is usually expressing doubt. This usage of 会 can confuse native Chinese speakers as well as Chinese learners. Some could think that the 会 is referring to things in the future or conditional.
+
+== See also ==
+
+== Sources and further reading ==
+
+=== Websites ===
+
+*http://twtcsl.org/further/Tw+Mandarin_lexicon+and+syntax
+
+{{Basic Grammar|会||Subj. + 会 + Predicate + 吗 ？|你 <em>会</em> 冷 吗 ？|grammar point|ASG22117}}
+{{Used for|Referring to the future}}
+{{Used for|Expressing possibility}}
+{{Similar|Expressing "will" with "hui"}} 
+{{Similar|Comparing "hui" "neng" "keyi"}} 
+{{Similar|Expressing future with "jiang"}} 
+{{Translation|to be}}
+{{Translation|will be}}
+{{POS|Verbs}}
+{{Subprop|Auxiliary verbs}}

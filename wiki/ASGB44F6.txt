@@ -1,0 +1,109 @@
+<!-- Expressing "the more... the more..." with "yue… yue…" -->
+{{Grammar Box}} 
+
+More than "putting stuff" after two instances of 越 (yuè) in a sentence, there are a number of very specific patterns you will notice if you want to get more sophisticated with 越 (yuè) and go beyond using the simpler [[Expressing "more and more" with "yuelaiyue"|越来越 (yuèláiyuè)]].
+
+== Pattern with a Single Subject ==
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 越 ⋯⋯ ，越 ⋯⋯
+</div>
+
+It's normally verbs or verb phrases following each 越, but adjectives are also possible (typically after the second 越).
+
+=== Examples ===
+
+<div class="liju">
+
+*我们 <em>越</em> 想 <em>越</em> 生气 。<span class="pinyin">Wǒmen <em>yuè</em> xiǎng <em>yuè</em> shēngqì.</span><span class="trans">The more we think about it, the angrier we get.</span>
+*我 <em>越</em> 看 <em>越</em> 喜欢 。<span class="pinyin">Wǒ <em>yuè</em> kàn <em>yuè</em> xǐhuan.</span><span class="trans">The more I look at it, the more I like it.</span>
+
+</div>
+
+Sometimes this pattern is best translated into English as "more and more," which is similar to [[Expressing "more and more" with "yuelaiyue"|越来越 (yuèláiyuè)]].
+
+<div class="liju">
+*他 <em>越</em> 跑 <em>越</em> 快 。<span class="expl">"faster and faster" = "more and more fast"</span><span class="pinyin">Tā <em>yuè</em> pǎo <em>yuè</em> kuài.</span><span class="trans">He ran faster and faster. / The more he ran, the faster he got.</span>
+*雨 <em>越</em> 下 <em>越</em> 大 。<span class="expl">"heavier and heavier" = "more and more heavy"</span><span class="pinyin">Yǔ <em>yuè</em> xià <em>yuè</em> dà.</span><span class="trans">The rain got heavier and heavier. / The more it rained, the heavier it got.</span>
+</div>
+
+== Pattern with Two Different Subjects ==
+
+=== Structure ===
+
+What follows the first 越 is typically the reason why the second 越 phrase happens.
+
+<div class="jiegou">
+Subj. 1 + 越 ⋯⋯ ，Subj. 2 + 越 ⋯⋯
+</div>
+
+Again, it's normally verbs or verb phrases following each 越, but adjectives are also possible (typically after the second 越).
+
+=== Examples ===
+
+<div class="liju">
+
+*她 <em>越</em> 说 ，我 <em>越</em> 生气 。<span class="pinyin">Tā <em>yuè</em> shuō, wǒ <em>yuè</em> shēngqì.</span><span class="trans">The more she talks, the angrier I get.</span>
+*你们 <em>越</em> 看 我 ，我 <em>越</em> 紧张 。<span class="pinyin">Nǐmen <em>yuè</em> kàn wǒ, wǒ <em>yuè</em> jǐnzhāng.</span><span class="trans">The more you look at me, the more nervous I am.</span>
+*我 <em>越</em> 走 ，腿 <em>越</em> 痛 。<span class="pinyin">Wǒ <em>yuè</em> zǒu, tuǐ <em>yuè</em> tòng.</span><span class="trans">The more I walk, the more my legs hurt.</span>
+
+</div>
+
+== The More... the Less... ==
+
+This is actually the same pattern as the last one, but its different English translation makes it worth paying attention to.
+
+=== Structure ===
+
+<div class="jiegou">
+越 ⋯⋯ 越 + 不 ⋯⋯
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*你 <em>越</em>  让 孩子 学 ，孩子 <em>越</em> <strong>不</strong> 想 学 。<span class="pinyin">Nǐ <em>yuè</em> ràng háizi xué, háizi <em>yuè</em> <strong>bù</strong> xiǎng xué.</span><span class="trans">The more you push the kid to study, the less he wants to study.</span>
+*他 <em>越</em> 问 ，我 <em>越</em> <strong>不</strong> 想 说。<span class="pinyin">Tā <em>yuè</em> wèn, wǒ <em>yuè</em> <strong>bù</strong> xiǎng shuō.</span><span class="trans">The more he asks, the less I want to tell him.</span>
+*你 <em>越</em> 这样 说 ，他 <em>越</em> <strong>不</strong> 听 。<span class="pinyin">Nǐ <em>yuè</em> zhèyàng shuō, tā <em>yuè</em> <strong>bù</strong> tīng.</span><span class="trans">The more you talk this way, the less he listens.</span>
+
+</div>
+
+== Colloquial Saying ==
+
+This pattern involves the same verb repeated after each 越. It is limited to a small number of single-syllable verbs related to sensory perception, but you do hear it used.
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 越 + Verb + 越 + 想 + Verb 
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*这 本 书 我 <em>越</em> 看 <em>越</em> 想 看 。 <span class="pinyin">Zhè běn shū wǒ <em>yuè</em> kàn <em>yuè</em> xiǎng kàn.</span><span class="trans">The more I read this book, the more I want to keep reading it.</span>
+*这 种 零食 让 人 <em>越</em> 吃 <em>越</em> 想 吃 。 <span class="expl">Like Doritos, amirite?</span><span class="pinyin">Zhè zhǒng língshí ràng rén <em>yuè</em> chī <em>yuè</em> xiǎng chī.</span><span class="trans">The more you eat this kind of snack, the more you want to eat it.</span>
+*我 吃 了 这 个 药 以后 总是 想 睡觉 ，而且 <em>越</em> 睡 <em>越</em> 想 睡 。 <span class="pinyin">Wǒ chī le zhège yào yǐhòu zǒngshì xiǎng shuìjiào, érqiě <em>yuè</em> shuì <em>yuè</em> xiǎng shuì.</span><span class="trans">I'm always so sleepy after taking this medicine. And also, the more I sleep, the more l want to sleep.</span>
+
+</div>
+
+== See  also ==
+
+*[[Expressing "more and more" with "yuelaiyue"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|75}}
+
+[[Category:B2 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|越|B2|Subj.＋越＋Verb＋越 + Adj. / Verb|她 <em>越</em> 想 <em>越</em> 生气 。|grammar point|ASGB44F6}}
+{{Similar|Expressing "more and more" with "yuelaiyue"}}
+{{Used for|Expressing degree}}
+{{Structure|Sentence Patterns}}

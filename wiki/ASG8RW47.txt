@@ -1,0 +1,66 @@
+<!-- Limiting scope with "jiu" -->
+{{Grammar Box}} 
+"Limiting scope" is like saying, "what I'm about to say applies to just ''this''." You precede the scope with 就 (jiù) in this pattern.
+
+== Indicating Scope with Just 就 ==
+
+"就” can be placed after the subject to indicate the object or scope of the subject's activities such as observation, discussion, analysis, and explanation.
+
+=== Basic Structure ===
+
+<div class="jiegou">
+Subj. + 就 + Scope + Verb + Obj.
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 两 国 领导人 <em>就</em> 环保 问题 交换 了 意见。<span class="pinyin">Liǎng guó lǐngdǎorén <em>jiù</em> huánbǎo wèntí jiāohuàn le yìjiàn.</span><span class="trans">The two leaders exchanged views on environmental issues.</span>
+* 我 <em>就</em> 这个 问题 说 两 点 我的 想法。<span class="pinyin">Wǒ <em>jiù</em> zhège wèntí shuō liǎng diǎn wǒ de xiǎngfǎ.</span><span class="trans">I would like to make two points on this issue.</span>
+* 大家 <em>就</em> 中国 互联网 的 发展 发表了 各自 的 看法 。<span class="pinyin">Dàjiā <em>jiù</em> Zhōngguó hùliánwǎng de fāzhǎn fābiǎo le gèzì de kànfǎ.</span><span class="trans">Everyone expressed their own thoughts on the development of China's internet.</span>
+* 中国 主席 <em>就</em> 中国 最近 的 经济 改革 做 了 发言 。<span class="pinyin">Zhōngguó zhǔxí <em>jiù</em> Zhōngguó zuìjìn de jīngjì gǎigé zuò le fāyán.</span><span class="trans">China's chairman made a statement on China's recent economic reforms.</span>
+* 来自 各 国 的 教育 学者们 <em>就</em> 什么 是 最好 的 教育 方法 进行 了 激烈的 讨论。<span class="pinyin">Láizì gèguó de jiàoyù xuézhě men <em>jiù</em> shénme shì zuìhǎo de jiàoyù fāngfǎ jìnxíng le jīliè de tǎolùn.</span><span class="trans">Education experts from every country had a heated discussion on the best methods of education.</span>
+</div>
+
+== Limiting Scope with 就……来说 / 而言 ==
+
+=== Structure ===
+
+就 (jiù) can be used to limit the scope of a comment, used in the following structure:
+
+<div class="jiegou">
+就 + Topic + [来说 / 而言] + Comment
+</div>
+
+This emphasizes that the speaker is ''just'' commenting on ''that particular topic'' and nothing else, like "just with regards to" in English. In this sense it is similar to [[Expressing "with regards to" with "zhiyu"|至于 (zhìyú)]], but is generally used to introduce a ''new'' idea, rather than to move on from a previous related topic.
+
+Note that in the pattern above, 来说 is more informal, and 而言 is more formal.
+
+===Examples===
+
+<div class="liju">
+* <em>就</em> 中国 的 独生子女 政策 <em>而言</em>，专家 各 有 各 的 看法。<span class="pinyin"><em>Jiù</em> Zhōngguó de Dúshēngzǐnǚ Zhèngcè <em>ér yán</em>, zhuānjiā gè yǒu gè de kànfǎ.</span><span class="trans">As for China's One Child Policy, every expert has their own opinion.</span>
+* <em>就</em> 文化大革命 <em>而言</em>，大部分 的 人 都 认为 那 是 一 场 灾难。<span class="pinyin><em>Jiù</em> Wénhuà Dàgémìng <em>ér yán</em>, dàbùfèn de rén dōu rènwéi nà shì yī chǎng zāinàn.</span><span class="trans">As for the Cultural Revolution, most of the people think it was a disaster.</span>
+* <em>就</em> 整体 <em>而言</em>，这 幅 画 不错，但是 有 一些 细节 还是 要 注意 。<span class="pinyin"><em>Jiù</em> zhěngtǐ <em>ér yán</em>, zhè fú huà bùcuò, dànshì yǒu yīxiē xìjié háishì yào zhùyì.</span><span class="trans">As a whole, the painting is not bad, but there are some details that need attention.</span>
+* <em>就</em> 这些 事情 <em>来说</em>，他 没有 错。<span class="pinyin"><em>Jiù</em> zhèxiē shìqing <em>lái shuō</em>, tā méiyǒu cuò.</span><span class="trans">In regards to these matters, he didn't do anything wrong.</span>
+* <em>就</em> 我们 家 <em>来说</em>，要求 还是 很 多 的 ，比如 晚上 十二点 以前 必须 回家 。<span class="pinyin"><em>Jiù</em> wǒmen jiā <em>lái shuō</em>, yāoqiú háishì hěn duō de, bǐrú wǎnshang shí'èr diǎn yǐqián bìxū huíjiā.</span><span class="trans">With regards to my family, there are lots of demands on me. For example, we have to be home before twelve o'clock in the evening.</span>
+</div>
+
+==See also==
+*[["With Regards to" as "zhiyu"]]
+*[["For…" with "eryan"]]
+*[[Marking a Topic with "de hua"]]
+
+==Sources and Further Reading==
+
+{{Source|现代汉语虚词例释|306}}
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|就|B2|就⋯⋯ (来说 / 而言)|<em>就</em> 我 <em>而言</em> ， 兴趣 最 重要 。|grammar point|ASG8RW47}}
+{{Rel char|来说}}
+{{Rel char|而言}}
+{{Rel char|而}}
+{{Similar|"With Regards to" as "zhiyu"}}
+{{Similar|"For…" with "eryan"}}
+{{Similar|Marking a Topic with "de hua"}}
+{{POS|Prepositions}}

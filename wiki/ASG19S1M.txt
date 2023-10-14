@@ -1,0 +1,49 @@
+<!-- Using "de" (modal particle) -->
+{{Grammar Box}} 
+
+The particle 的 (de) is most often a [[structural particle]], but it can also be a sentence-final particle which indicates that the speaker is certain about what he is saying.  When it serves this purpose, it's expressing a type of "mood" and thus is called a "modal particle."
+
+== Structure ==
+
+<div class="jiegou">
+Statement + 的
+</div>
+
+Frequently, the statement will include 会 (huì) or 一定会 (yīdìng huì) to emphasize the speaker's certainty.
+
+== Examples ==
+
+<div class="liju">
+
+*他 会 好 <em>的</em> 。<span class="pinyin">Tā huì hǎo <em>de</em>.</span><span class="trans">He will get better.</span>
+*你 可以 <em>的</em> 。<span class="pinyin">Nǐ kěyǐ <em>de</em>.</span><span class="trans">You can do this.</span>
+*她 一定 会 来 <em>的</em> 。<span class="pinyin">Tā yīdìng huì lái <em>de</em>.</span><span class="trans">She's definitely coming.</span>
+*我们 能 搞定 <em>的</em> 。<span class="pinyin">Wǒmen néng gǎodìng <em>de</em>.</span><span class="trans">We can handle it.</span>
+*他 不 会 道歉 <em>的</em> 。<span class="pinyin">Tā bù huì dàoqiàn <em>de</em>.</span><span class="trans">He's not going to apologize.</span>
+*这个 地方 我们 来 过 <em>的</em> 。<span class="pinyin">Zhège dìfang wǒmen lái guo <em>de</em>.</span><span class="trans">We've been here before.</span>
+*我 跟 你 说 过 <em>的</em> ，你 不 记得 了 ？<span class="pinyin">Wǒ gēn nǐ shuō guo <em>de</em>, nǐ bù jìde le?</span><span class="trans">I've told you this before. Do you not remember?</span>
+*我 不 会 骗 你 <em>的</em> 。<span class="pinyin">Wǒ bù huì piàn nǐ <em>de</em>.</span><span class="trans">I won't lie to you.</span>
+*你们 会 成功 <em>的</em> 。<span class="pinyin">Nǐmen huì chénggōng <em>de</em>.</span><span class="trans">You will succeed.</span>
+*你 的 建议 我们 会 考虑 <em>的</em> 。<span class="pinyin">Nǐ de jiànyì wǒmen huì kǎolǜ <em>de</em>.</span><span class="trans">We will consider your suggestion.</span>
+
+</div>
+
+== See also ==
+
+* [[Shi... de construction]]
+* [[Structural particle]] (part of speech)
+* [[De (structural particle)]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+
+[[Category:B1 grammar points]]
+[[Category:Particles]]
+{{Basic Grammar|的|B1|⋯⋯的|我 不 会 骗 你 <em>的</em>。|grammar point|ASG19S1M}}
+{{Similar|Using the "shi... de" construction}}
+{{Similar|Uses of "shi" with "de"}}
+{{Used for|Emphasizing}}
+{{Rel char|的}}
+{{POS|Particles}}

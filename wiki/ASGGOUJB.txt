@@ -1,0 +1,82 @@
+<!-- Expressing "almost" using "chadian mei" -->
+{{Grammar Box}} 
+
+Logically, 差点没 (chàdiǎn méi) is just a simple extension of [[expressing "almost" using "chadian"|差点]], adding the negation after it.  In fact, you shouldn't think of it as a single word; think of the 没 as belonging to what follows 差点 and it makes more sense.  Still, it can be a little confusing for many learners, and is worth a closer look.
+
+== Logical Structure ==
+
+Obviously, 差点 and 差点儿 are equivalent here.
+
+===Structure===
+
+<div class="jiegou">
+
+Subj. + 差点 + 没 + Verb Phrase
+
+</div>
+
+Note that the "Verb Phrase" part is a ''desired result''.  So this structure is literally saying, "almost '''didn't''' [Verb Phrase]."
+
+Also note that because you're using 没, you don't use 了 after the verb phrase.
+
+=== Examples ===
+
+<div class="liju">
+* 我 <em>差点儿 没</em> 想 起来。<span class="expl">I did recall it.</span><span class="pinyin">Wǒ <em>chàdiǎnr méi</em> xiǎng qǐlái.</span><span class="trans">I almost couldn't recall it.</span>
+* 我 <em>差点 没</em> 赶 上 火车。 <span class="expl">I almost missed it, but I didn't.</span><span class="pinyin">Wǒ <em>chàdiǎn méi</em> gǎnshàng huǒchē.</span><span class="trans">I almost missed the train.</span>
+* 他 <em>差点 没</em> 通过 考试。<span class="expl">He did pass it, but almost didn't.</span><span class="pinyin">Tā <em>chàdiǎn méi</em> tōngguò kǎoshì.</span><span class="trans">He barely passed the examination.</span>
+* 我 <em>差点儿 没</em> 拿到 签证。<span class="pinyin">Wǒ <em>chàdiǎnr méi</em> nádào qiānzhèng.</span><span class="trans">I almost didn't get the visa.</span>
+* 排队 的 人 太 多 了，<em>差点儿 没</em> 买到。<span class="expl">I did get it.</span><span class="pinyin">Páiduì de rén tài duō le, <em>chàdiǎnr méi</em> mǎidào.</span><span class="trans">The waiting line is too long. I almost didn't get it.</span>
+* 他们 两个 <em>差点儿 没</em> 通过 面试 。<span class="pinyin">Tāmen liǎng gè <em>chàdiǎnr méi</em> tōngguò miànshì.</span><span class="trans">The two of them almost didn't pass the interview.</span>
+</div>
+
+== Illogical Structure ==
+
+This is the weird one. In the following usages, 差点 and 差点没 are ''equivalent''. It's almost as if the 没 is meaningless. You can literally drop it with no change in meaning, but ''only'' when there is an ''undesired result'' after 差点没.
+
+===Structure===
+
+<div class="jiegou">
+
+Subj. + 差点 (+ 没) + Verb Phrase
+
+</div>
+
+In this pattern, the "Verb Phrase" part is an '''''un'''desired result''.  So in terms of meaning, this structure is identical to the regular 差点 structure.
+
+Again, because you're using 没 here, you don't use 了 after the verb phrase.
+
+=== Examples ===
+
+<div class="liju">
+* 我 <em>差点儿 没</em> 和 她 撞 在 一起。<span class="pinyin">Wǒ <em>chàdiǎnr méi</em> hé tā zhuàng zài yīqǐ.</span><span class="trans">I almost ran into her.</span>
+* 这个 地方 太 大 了，我 走 了 很 久，<em>差点儿 没</em> 累 死。<span class="pinyin">Zhège dìfang tài dà le, wǒ zǒu le hěn jiǔ, chàdiǎnr méi lèi sǐ.</span><span class="trans">This place is so big. I walked for so long I almost died from exhaustion.</span>
+* 我 <em>差点儿 没</em> 被 发现。<span class="pinyin">Wǒ <em>chàdiǎnr méi</em> bèi fāxiàn.</span><span class="trans">I was almost discovered.</span>
+* 这里 <em>差点儿 没</em> 变成 一 个 垃圾场。<span class="pinyin">Zhèlǐ <em>chàdiǎnr méi</em> biànchéng yī gè lājī chǎng.</span><span class="trans">This place has almost become a dump.</span>
+</div>
+
+==See also==
+
+*[[Expressing "almost" using "chadian"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|现代汉语八百词（增订本）|112}}
+
+=== Dictionaries ===
+
+* [[现代汉语词典（第5版）]] (pp. 145) [http://www.amazon.cn/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E8%AF%8D%E5%85%B8/dp/B001B1RZCI/ref=sr_1_1?ie=UTF8&qid=1345693609&sr=8-1 →buy]
+
+=== Websites ===
+
+*http://wenku.baidu.com/view/129e1b0f7cd184254b35358f.html
+
+[[Category:B2 grammar points]]
+{{Basic Grammar|差点没|B2|Subj. + 差点没 + Verb |路 这么 滑，我 <em>差点没</em> 摔倒。|grammar point|ASGGOUJB}}
+{{Rel char|差点}}
+{{Similar|Expressing "almost" using "chadian"}}    
+{{Used for|Describing actions}}
+{{POS|Adverbs}}
+{{Translation|almost}}

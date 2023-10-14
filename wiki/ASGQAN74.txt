@@ -1,0 +1,62 @@
+<!-- The opposite of "chabuduo" is "cha hen duo" -->
+{{Grammar Box}} 
+
+You might be used to thinking of 差不多 (chàbuduō) as a single word, and that's totally OK. But if you want to negate the whole idea of rough equivalency, then you need to think of it as a phrase and use 差很多 (chà hěn duō). Not surprisingly, it's a little less versatile than 差不多.
+
+== Structure ==
+
+When 差不多 (chàbuduō) is a [[predicate]], it literally means "the difference is not much." The opposite, then, would be 差很多 (chà hěn duō), which literally means "the difference is very great."  Less literally, if 差不多 means "more or less the same," then 差很多 means "not the same at all" or "very different."
+
+<div class="jiegou">
+Subj. + 差很多 
+</div>
+
+<div class="jiegou">
+A + 跟 / 和 + B + 差很多
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*中 西方 的 文化 <em>差 很 多</em> 。<span class="pinyin">Zhōng xīfāng de wénhuà <em>chà hěn duō</em>.</span><span class="trans">Chinese culture and western culture are quite different.</span>
+*这 两 个 词 的 意思 差不多，但是 用法 <em>差 很 多</em> 。<span class="pinyin">Zhè liǎng gè cí de yìsi chàbuduō, dànshì yòngfǎ <em>chà hěn duō</em>.</span><span class="trans">The meanings of these two words are basically the same, but their usages are very different.</span>
+*她 <strong>和</strong> 她 老公 的 年龄 <em>差 很 多</em> 。<span class="pinyin">Tā <strong>hé</strong> tā lǎogōng de niánlíng <em>chà hěn duō</em>.</span><span class="trans">There is a big difference between her age and her husband's age.</span>
+*公司 今年 的 收入 <strong>跟</strong> 去年 <em>差 很 多</em> 。<span class="pinyin">Gōngsī jīnnián de shōurù <strong>gēn</strong> qùnián <em>chà hěn duō</em>.</span><span class="trans">The company's income for this year is quite different from last year.</span>
+*这个 服务员 <strong>和</strong> 经理 的 服务 态度 <em>差 很 多</em> 。<span class="pinyin">Zhège fúwùyuán <strong>hé</strong> jīnglǐ de fúwù tàidu <em>chà hěn duō</em>.</span><span class="trans">There is a big difference in the attitude between this waiter and his manager.</span>
+*我 的 生活 习惯 <strong>跟</strong> 我 父母 <em>差 很 多</em> 。<span class="pinyin">Wǒ de shēnghuó xíguàn <strong>gēn</strong> wǒ fùmǔ <em>chà hěn duō</em>.</span><span class="trans">My life habits are very different from my parents'.</span>
+*两 个 老师 都 很 好 ，不过 他们 的 学历 <em>差 很 多</em> 。<span class="pinyin">Liǎng gè lǎoshī dōu hěn hǎo, bùguò tāmen de xuélì <em> chà hěn duō</em>.</span><span class="trans">They are both great teachers, but their educational backgrounds are very different.</span>
+*老 版本 <strong>跟</strong> 新 版本 的 功能 <em>差 很 多</em> 。<span class="pinyin">Lǎo bǎnběn <strong>gēn</strong> xīn bǎnběn de gōngnéng <em>chà hěn duō</em>.</span><span class="trans">There are huge differences in the features between the old version and the new one.</span>
+*这 两 件 衣服 看起来 差不多 ，但是 质量 <em>差 很 多</em> 。<span class="pinyin">Zhè liǎng jiàn yīfu kànqilai chàbuduō, dànshì zhìliàng <em>chà hěn duō</em>.</span><span class="trans">These two pieces of clothing look pretty much the same, but their quality is very different.</span>
+*他们 是 双胞胎 ，但是 两 个 人 的 性格 <em>差 很 多</em> 。<span class="pinyin">Tāmen shì shuāngbāotāi, dànshì liǎng gè rén de xìnggé <em>chà hěn duō</em>.</span><span class="trans">They are twins, but their personalities are very different.</span>
+
+</div>
+
+==See also==
+
+*[[Approximations with "chabuduo"]]
+*[[Expressing "almost" using "chadian mei"]]
+*[[Expressing "almost" using "chadian"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|现代汉语八百词（增订本）|111}}
+{{Source|Integrated Chinese: Level 2, Part 1|54-5}}
+{{Source|Basic Patterns of Chinese Grammar|116}}
+
+=== Dictionaries ===
+
+{{Source|现代汉语词典（第5版）|145}}
+
+[[Category:B2 grammar points]]
+{{Basic Grammar|差很多|B2|Subj. + 差很多|中国 文化 和 西方 文化 <em>差 很 多</em> 。|grammar point|ASGQAN74}}
+{{Rel char|差}}
+{{Rel char|很}}
+{{Rel char|多}}
+{{Similar|"Nearly" with "jihu"}}  
+{{POS|Adverbs}}
+{{Used for| Expressing degree}}
+{{Used for|Comparing}}
+{{Translation|almost}}

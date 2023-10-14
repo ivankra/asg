@@ -1,0 +1,93 @@
+<!-- Using "hao" to mean "easy" -->
+{{Grammar Box}} 
+
+Of course [[好|好 (hǎo)]] means "good." But it can also be used to express that something is "easy to do" or "good to do." And it is quite... ''easy to do''! All you need to do is place a 好 (hǎo) before a [[verb]].
+
+== General Verbs ==
+
+Just as 难 (nán) can be used to indicate that it's [[Expressing "difficult" with "nan"|hard to do something]], 好 (hǎo) can also come before verbs to indicate that something is ''easy to do.'' 
+
+=== Structure ===
+
+The simple form is just:
+
+<div class="jiegou">
+
+好 + Verb
+
+</div>
+
+If you want to make a sentence out of it:
+
+<div class="jiegou">
+
+Subj. + (很) 好 + Verb
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 这 个 词 的 意思 很 <em>好懂</em>。<span class="pinyin">Zhège cí de yìsi hěn <em>hǎo dǒng</em>.</span><span class="trans">The meaning of this word is easy to understand.</span>
+* 这 个 汉字 很 <em>好写</em>。<span class="pinyin">Zhège Hànzì hěn <em>hǎo xiě</em>.</span><span class="trans">This Chinese character is easy to write.</span>
+* 三明治 很 <em>好做</em>。<span class="pinyin">Sānmíngzhì hěn <em>hǎo zuò</em>.</span><span class="trans">Sandwiches are easy to make.</span>
+* 苹果 手机 现在 很 <em>好买</em>。 <span class="pinyin">Píngguǒ shǒujī xiànzài hěn <em>hǎo mǎi</em>.</span><span class="trans">iPhones are easy to buy now.</span>
+* 这 个 笔 很 <em>好用</em>。<span class="pinyin">Zhège bǐ hěn <em>hǎo yòng</em>.</span><span class="trans">This pen is easy to use.</span>
+
+</div>
+
+== Exceptions ==
+
+好 (hǎo) can also be attached to "sense verbs" (e.g. "look," "taste," "smell," etc.) to indicate that something is '''good'' to do'' (rather than "''easy'' to do").
+
+There's a limited number of these, but some of them are super common, so just memorize them as exceptions:
+
+<div class="liju">
+*好吃 <span class="pinyin">hǎochī</span><span class="trans">good to taste, good to eat, delicious</span>
+*好喝 <span class="pinyin">hǎohē</span><span class="trans">good to taste, good to drink</span>
+*好看 <span class="pinyin">hǎokàn </span><span class="trans">good to look at, good-looking, attractive</span>
+*好听 <span class="pinyin">hǎotīng</span><span class="trans">good to listen to, pleasant to listen to, good-sounding</span>
+*好闻 <span class="pinyin">hǎowén</span><span class="trans">good to smell, smells good, good-smelling</span>
+</div>
+
+The word for "fun" in Chinese is also of this form, even though it's not a sense verb:
+
+<div class="liju">
+*好玩 <span class="pinyin">hǎowán</span><span class="trans">fun</span>
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 这 首 歌 很 <em>好听</em> 。 <span class="pinyin">Zhè shǒu gē hěn <em>hǎotīng</em>.</span><span class="trans">This song is great.</span>
+* 这 种 茶 很 <em>好闻</em> 。<span class="pinyin">Zhè zhǒng chá hěn <em>hǎowén</em>.</span>  <span class="trans">This kind of tea smells good.</span>
+* 你 的 新 包 很 <em>好看</em> 。<span class="pinyin">Nǐ de xīn bāo hěn <em>hǎokàn</em>.</span><span class="trans">Your new bag looks good.</span>
+* 妈妈 做 的 菜 很 <em>好吃</em> 。<span class="pinyin">Māma zuò de cài hěn <em>hǎochī</em>.</span>  <span class="trans">The food mom makes is delicious.</span>
+* 我 觉得 上海 很 <em>好玩</em> 。 <span class="pinyin">Wǒ juéde Shànghǎi hěn <em>hǎowán</em>.</span><span class="trans">I think Shanghai is a lot of fun.</span>
+</div>
+
+==See also==
+
+*[[Expressing "difficult" with "nan"]]
+*[[Expressing Difficulty with "hao (bu) rongyi"]]
+*[[Expressing purpose with "haorang"]] (advanced article)
+
+== Sources and further reading ==
+
+=== Books ===
+
+* [[Integrated Chinese: Level 1, Part 2 (3rd ed)]] (p. 232) [http://www.amazon.com/gp/product/0887276709/ref%3das_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0887276709 →buy]
+*[[卓越汉语－公司实战篇]] (p. 52) [http://www.amazon.cn/%E5%8D%93%E8%B6%8A%E6%B1%89%E8%AF%AD-%E5%85%AC%E5%8F%B8%E5%AE%9E%E6%88%98%E7%AF%87-%E8%83%A1%E7%81%B5%E5%9D%87/dp/B003QZWQ6M/ref=sr_1_1?ie=UTF8&qid=1347863170&sr=8-1 →buy]
+
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Used for|Describing actions}}
+{{Basic Grammar|好|A2|好 + Verb|<em>好</em> 做。<em>好</em> 买。|grammar point|ASGJQU93}}
+{{Similar|Expressing "difficult" with "nan"}}
+{{Similar|Expressing Difficulty with "hao (bu) rongyi"}}
+{{Similar|Expressing Purpose with "hao"}}
+{{POS|Verbs}}
+{{Subprop|Verb phrases}}
+{{Translation|easy}}

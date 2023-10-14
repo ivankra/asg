@@ -1,0 +1,83 @@
+<!-- Offering choices with "haishi" -->
+{{Grammar Box}} 
+还是 (háishì) is used in Chinese to provide options in a '''question'''. This is equivalent to one of our uses of "or" in English. 
+
+== Simplest Form ==
+
+=== Structure ===
+
+<div class="jiegou">
+Option A + 还是 + Option B ?
+</div>
+
+When you're asked a question of this form, there are two ways you're expected to answer: either Option A or Option B.  (Pick one, but not both.)  It's not that no other answers are possible, it's that usually when you're asked a question this way, the person asking expects you to just choose one.  For example, if asked if you'd like to drink coffee or tea, most people are going to choose one or the other, not ask for both. 还是 (háishì) is used to ask people to make that choice between the two.
+
+=== Examples ===
+
+<div class="liju">
+
+* <strong>我</strong> <em>还是</em> <strong>他</strong> ？ <span class="pinyin"><strong>Wǒ</strong> <em>háishì</em> <strong>tā?</strong></span><span class="trans">Me or him?</span>
+* <strong>一 个</strong> <em>还是</em> <strong>两 个</strong> ？ <span class="pinyin"><strong>Yī gè</strong> <em>háishì</em> <strong>liǎng gè</strong>?</span><span class="trans">One or two?</span>
+* <strong>辣 的</strong> <em>还是</em> <strong>不 辣 的</strong>？<span class="pinyin"><strong>Là de</strong> <em>háishì</em> <strong>bù là de</strong>?</span><span class="trans">Spicy or non-spicy?</span>
+* <strong>冰 的</strong> <em>还是</em> <strong>热 的</strong>？<span class="pinyin"><strong>Bīng de</strong> <em>háishì</em> <strong>rè de</strong>?</span><span class="trans">Cold or hot?</span>
+* <strong>上海</strong> <em>还是</em> <strong>北京</strong> ？ <span class="expl">The eternal China expat question! Choose wisely...</span><span class="pinyin"><strong>Shànghǎi</strong> <em>háishì</em> <strong>Běijīng?</strong></span><span class="trans">Shanghai or Beijing?</span>
+
+</div>
+
+== Full Sentence Form ==
+
+=== Structure ===
+
+You can take the structure above, add a subject and a verb, and create all kinds of questions with the following structure:
+
+<div class="jiegou">
+
+Subj. + Verb + Option A + 还是 + Option B ?
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 这 是 <strong>水</strong> <em>还是</em> <strong>酒</strong> ？ <span class="pinyin">Zhè shì <strong>shuǐ </strong> <em>háishì</em> <strong>jiǔ</strong>?</span><span class="trans">Is this water or alcohol?</span>
+* 他 是 <strong>美国 人</strong> <em>还是</em> <strong>英国 人</strong> ？ <span class="pinyin">Tā shì <strong>Měiguó rén </strong> <em>háishì</em> <strong>Yīngguó rén</strong>?</span><span class="trans">Is he American or British?</span>
+* 你 喜欢 <strong>我</strong> <em>还是</em> <strong>我 的 钱</strong> ？ <span class="pinyin">Nǐ xǐhuan <strong>wǒ </strong> <em>háishì</em> <strong>wǒ de qián</strong>?</span><span class="trans">Do you like me or my money?</span>
+* 你 要 喝 <strong>茶</strong> <em>还是</em> <strong>咖啡</strong> ？ <span class="pinyin">Nǐ yào hē <strong>chá</strong> <em>háishì</em> <strong>kāfēi</strong>?</span><span class="trans">Do you want  to drink tea or coffee?</span>
+* 你们 想 吃 <strong>中国 菜</strong> <em>还是</em> <strong>法国 菜</strong> ？ <span class="pinyin">Nǐmen xiǎng chī <strong>Zhōngguó cài </strong> <em>háishì</em> <strong>Fǎguó cài</strong>?</span><span class="trans">Do you want to eat Chinese food or French food?</span>
+
+</div>
+
+Please note that 还是 (háishì) is for offering options in a '''question'''.  It should not be used for [[Expressing "or" in statements|"or" in statements]].
+
+==See also==
+
+* [["Or" in statements]]
+* [["Had better" with "haishi"]]
+* [[Providing two options with double "huozhe"]]
+
+== Sources and Further Reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 3|23}}
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|76-7, 257-8}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)|179}}
+{{Source|New Practical Chinese Reader 1 (新实用汉语课本1)(2nd ed)|206-7, 251}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|125}}
+
+=== Websites ===
+
+* Yale Chinese Usage Dictionary: [http://comet.cls.yale.edu/chineseusagedictionary/0213.html Comparing 还是 and 或者]
+{{Used for|Asking questions}}
+{{Used for|Giving alternatives}}
+[[Category:A1 grammar points]]
+{{HSK|HSK3}}
+{{Basic Grammar|还是|A1|A + 还是 + B ?|你 要 喝 茶 <em>还是</em> 咖啡 ?|grammar point|ASGA8NIB}}
+{{Rel char|是}}
+{{Similar|"Or" in statements}}
+{{Similar|Comparing "haishi" and "huozhe"}}
+{{Similar|"Had better" with "haishi"}}
+{{Similar|Providing two options with double "huozhe"}}
+{{Translation|or}}
+{{POS|Conjunctions}}

@@ -1,0 +1,43 @@
+<!-- Using "lai" and "qu" when "verbing around" -->
+{{Grammar Box}} 
+This structure can be used if want to say you are "verbing without a clear direction."  It's sort of like "verbing this way and that." The same verb is repeated before the 来 (lái) and 去 (qù). So for example, 走来走去 is a bit like "walking here and there" or "walking this way and that."
+
+==Structure==
+
+<div class="jiegou">
+Verb + 来 + Verb + 去
+</div>
+
+The same verb should repeat in this pattern. Single-syllable verbs are most common.
+
+==Examples==
+
+In a sentence, this structure looks like this:
+
+<div class="liju">
+* 学生们 都 很 紧张，在 考场 外面 <em>走 来 走 去</em>。<span class="pinyin">Xuéshēng men dōu hěn jǐnzhāng, zài kǎochǎng wàimiàn <em>zǒu lái zǒu qù</em>.</span><span class="trans">The students are all nervous, they are all pacing back and forth outside of the exam room.</span>
+* 他 <em>说 来 说 去</em> 还 不 承认 自己 错 了。<span class="pinyin">Tā <em>shuō lái shuō qù</em> hái bù chéngrèn zìjǐ cuò le.</span><span class="trans">He's been yakking a lot, but he still hasn't admitted that he's wrong.</span>
+* 我 <em>想 来 想 去</em> 都 想 不 明白，他 怎么 能 那样 对 我？<span class="pinyin">Wǒ <em>xiǎng lái xiǎng qù</em> dōu xiǎng bù míngbai, tā zěnme néng nàyàng duì wǒ?</span><span class="trans">I've thought and thought about it, but I can't understand, how could you treat me like that?</span>
+* 他 <em>翻 来 翻 去</em>， 终于 找到 了 那 双 破 袜子。<span class="pinyin">Tā <em>fān lái fān qù</em>, zhōngyú zhǎodào le nà shuāng pò wàzi.</span><span class="trans">He searched everywhere and finally found the pair of worn-out socks.</span><span class="trans"></span>
+* 这 份 工作 不仅 是 脑力 活 ， 还 需要 <em>跑 来 跑 去</em> 的 ！ <span class="pinyin">Zhè fèn gōngzuò bùjǐn shì nǎolì huó, hái xūyào <em>pǎo lái pǎo qù</em> de!</span><span class="trans">This job isn't only mentally taxing; you also have to run around a lot!</span>
+* 我 跟 孩子 们 上课 的 风格 是 非常 活泼 的 ， 常常 会 做 一些 手工 ， 有时候 还 会 <em>跳 来 跳 去</em> 。 <span class="pinyin">Wǒ gēn háizi men shàngkè de fēnggé shì fēicháng huópo de, chángcháng huì zuò yīxiē shǒugōng, yǒushíhou hái huì <em>tiào lái tiào qù</em>.</span><span class="trans">My classroom style with the kids is quite active. We often do arts and crafts, and sometimes also jump all around.</span>
+</div>
+
+==See also==
+* [["Verbing away" using "zhe"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Integrated Chinese: Level 2, Part 1|191-2}}
+{{Source|HSK Standard Course 5上|66}}
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|来|B2|Verb + 来 + Verb + 去|他 考虑 <em>来</em> 考虑 <em>去</em> ， 最后 还是 决定 回 学校 。|grammar point|ASGYJQAG}}
+{{Rel char|去}}
+{{Similar|"Verbing away" using "zhe"}}
+{{Used for|Expressing duration}}
+{{Used for|Describing actions}}
+{{Used for|Expressing movement}}
+{{Structure|Complements}}

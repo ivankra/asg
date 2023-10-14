@@ -1,0 +1,44 @@
+<!-- Expressing "including" with "zainei" -->
+{{Grammar Box}} 
+The word 在内 can be used as a prepositional phrase meaning "including." In addition, the verb 包括 can often be used with 在内 at the beginning of a sentence, equivalent to the English "including."
+
+== Structure == 
+
+<div class="jiegou">
+(包括)⋯⋯ 在内 ，⋯⋯
+</div>
+
+or
+
+<div class="jiegou">
+⋯⋯ ，(包括)⋯⋯ 在内
+</div>
+
+== Examples ==
+
+<div class="liju">
+*这些 费用 不 <strong>包括</strong> <em>在内</em> 。<span class="pinyin">Zhèxiē fèiyòng bù <strong>bāokuò</strong> <em>zài nèi</em>.</span><span class="trans">These fees are not included.</span>
+*你 把 饭钱 <strong>包括</strong> <em>在内</em>了 吗 ？<span class="pinyin">Nǐ bǎ fàn qián <strong>bāokuò</strong> <em>zài nèi</em> le ma?</span><span class="trans">Did you include your meal stipend?</span>
+*这 件 事，大家 都 是 有 责任 的，<strong>包括</strong> 政府 <em>在内</em> 。<span class="pinyin">Zhè jiàn shì, dàjiā dōu shì yǒu zérèn de, <strong>bāokuò</strong> zhèngfǔ <em>zài nèi</em>.</span><span class="trans">Everyone has responsibility in this matter, including the government.</span>
+*<strong>包括</strong> 他 的 母语 <em>在内</em> ，他 会 说 四 种 语言 。<span class="pinyin"><strong>Bāokuò</strong> tā de mǔyǔ <em>zài nèi</em>, tā huì shuō sì zhǒng yǔyán.</span><span class="trans">Including his native language, he can speak 4 languages.</span>
+*水电费 <em>在内</em> ，我 每 个 月 的 房租 三千 五 。<span class="pinyin">Shuǐdiàn fèi <em>zài nèi</em>, wǒ měi gè yuè de fángzū sān qiān wǔ.</span><span class="trans">My monthly rent is 3500, including water and electricity.</span>
+*这 次 袭击 造成 了 三人 死亡 ，<strong>包括</strong> 两 名 警察 <em>在内</em> 。<span class="pinyin">Zhè cì xíjī zàochéng le sān rén sǐwáng, <strong>bāokuò</strong> liǎng míng jǐngchá <em>zài nèi</em>.</span><span class="trans">This attack caused three deaths, including two policemen.</span>
+*小米 会 在 下个月 发布 <strong>包括</strong> 小米 电视 <em>在内</em> 的 几 个 新产品 。<span class="pinyin">Xiǎomǐ huì zài xià gè yuè fābù <strong>bāokuò</strong> xiǎomǐ diànshì <em>zài nèi</em> de jǐ gè xīn chǎnpǐn.</span><span class="trans">Xiaomi will launch several new products next month, including Xiaomi TV.</span>
+*这个 团队 <strong>包括</strong> 我 <em>在内</em> ，一共 八 个 人 。<span class="pinyin">Zhège tuánduì <strong>bāokuò</strong> wǒ <em>zài nèi</em>, yīgòng bā gè rén.</span><span class="trans">This team, including me, has eight people altogether.</span>
+*<strong>包括</strong> 老板 <em>在内</em> ，大家 都 不 同意 这个 意见。<span class="pinyin"><strong>Bāokuò</strong> lǎobǎn <em>zài nèi</em>, dàjiā dōu bù tóngyì zhè ge yìjiàn.</span><span class="trans">Including the boss, everyone disagrees with this opinion.</span>
+*现在 我们 线上 销售 非常 好，<strong>包括</strong> 今天 <em>在内</em> ，营业额 已经 两 千万 了。<span class="pinyin">Xiànzài wǒmen xiànshàng xiāoshòu fēicháng hǎo, <strong>bāokuò</strong> jīntiān <em>zài nèi</em>, yíngyèé yǐjīng liǎng qiān wàn le.</span><span class="trans">Now our online sales are great, including today's sales, the sales volume has already reached 20 million.</span>
+</div>
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 5上|19}}
+
+[[Category:B2 grammar points]]
+{{Basic Grammar|在内|B2|(包括)⋯⋯ 在内 ，⋯⋯ | 包括 水 电 费 <em>在内</em> ，我 每 个 月 的 房租 三千 五 。|grammar point|ASG50341}}
+{{Rel char|包括}}
+{{Similar|}}
+{{POS|Prepositions}}
+{{Used for|Expressing quantity}}
+{{Translation|including}}

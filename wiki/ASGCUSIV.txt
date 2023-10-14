@@ -1,0 +1,101 @@
+<!-- Tricky uses of "dao" -->
+{{Grammar Box}}
+You probably learned the [[result complement]] -到 a long time ago, as part of words like 看到 ("to see") and 听到 ("to hear"). But other times it's less clear what the -到 really means. Like the difference between 买 and 买到 or 做 and 做到. What -到 adds is a clearer message that ''something has really been achieved''.
+
+== The Difference a -到 Makes ==
+
+Adding -到 after a verb makes it very clear that the desired result was achieved. If you looked and you saw, then 到 indicates that. On the other hand, not adding 到 makes it unclear whether or not the desired result was achieved. It can have the effect of making a verb mean "try to ''verb''."  So 做 without -到 is kind of like "try to do," but when you want to make it very clear that results ''were achieved'' or ''must be achieved'', that's when you want to add -到. 
+
+Let's look at another example. The difference between 找 and 找到 is that 找 means "to search" (in other words, "to ''try'' to find"), whereas 找到 means "to ''find''," that the search was successful, and results were achieved. So if one were to say "你一定要找," it would mean "you must try to find it" and "你一定要找到" means "you must ''find'' it."
+
+== Illustrative Examples ==
+
+=== 做 vs. 做到 ===
+
+It's often assumed that if you're going to 做 something, it'll be to completion. But if there's ever any doubt, or a situation where "to completion" needs to be made crystal clear, use 做到.
+
+<div class="liju">
+* 我 还 没有 <strong>做</strong>。<span class="pinyin">Wǒ hái méiyǒu <strong>zuò</strong>.</span><span class="trans">I haven‘t done it.</span>
+* 我 下 个 星期 可以 <strong>做</strong>。<span class="pinyin">Wǒ xià gè xīngqī kěyǐ <strong>zuò</strong>.</span><span class="trans">I can do it next week.</span>
+* 我 相信 你 一定 能 <strong>做</strong><em>到</em>。<span class="pinyin">Wǒ xiāngxìn nǐ yīdìng néng <strong>zuò</strong><em>dào</em>.</span><span class="trans">I believe you will be able to do it.</span> 
+</div>
+
+=== 买 vs. 买到 ===
+
+买 is another one where success is normally assumed, but every now and then it's not so easy to just buy something. That's where 买到 comes in handy.
+
+<div class="liju">
+*我 还 没有 <strong>买</strong> 。<span class="pinyin">Wǒ hái méiyǒu <strong>mǎi</strong>.</span><span class="trans">I haven't bought it yet.</span>
+*我 没 <strong>买</strong><em>到</em> 。<span class="pinyin">Wǒ méi <strong>mǎi</strong><em>dào</em>.</span><span class="trans">I wasn't able to buy it.</span>
+*这里 <strong>买</strong> <em>不 到</em> 进口 食品 。<span class="pinyin">Zhèlǐ <strong>mǎi</strong><em>bu dào</em> jìnkǒu shípǐn.</span><span class="trans">You can't buy imported good here.</span>
+</div>
+
+=== 学 vs. 学到 ===
+
+You know how when you're studying, you know information is going into your brain, but you're not sure how well it's really sticking? Well, when you're sure of what's stuck, you can use 学到.
+
+<div class="liju">
+*我 想 <strong>学</strong> 中文 。<span class="pinyin">Wǒ xiǎng <strong>xué</strong> Zhōngwén.</span><span class="trans">I want to study Chinese.</span>
+*我们 今天 <strong>学</strong> 了 很 多 生词 。<span class="pinyin">Wǒmen jīntiān <strong>xué</strong> le hěn duō shēngcí.</span><span class="trans">Today we studied many new words.</span>
+*在 这个 公司 工作 ，我 <strong>学</strong><em>到</em> 了 很 多 东西。<span class="pinyin">Zài zhège gōngsī gōngzuò, wǒ <strong>xué</strong><em>dào</em> le hěn duō dōngxi.</span><span class="trans">Working for this company, I learned a lot of things.</span>
+</div>
+
+=== 拿 vs. 拿到 ===
+
+A simple act of physically picking something up or taking something usually involves 拿. When the object becomes some kind of hard-to-get document, however, 拿到 is useful.
+
+<div class="liju">
+*你 <strong>拿</strong> 小包 ，我 <strong>拿</strong> 大包 。<span class="pinyin">Nǐ <strong>ná</strong> xiǎo bāo, wǒ <strong>ná</strong> dà bāo.</span><span class="trans">You take the small bag, I'll take the big bag.</span>
+*不 知道 什么 时候 能 <strong>拿</strong><em>到</em> 我 的 工作 签证 。<span class="pinyin">Bù zhīdào shénme shíhou néng <strong>ná</strong><em>dào</em> wǒ de gōngzuò qiānzhèng.</span><span class="trans">I'm not sure when I'll be able to get my work visa.</span>
+*如果 他 <strong>拿</strong> <em>不 到</em> 绿卡 ，我 就 跟 他 分手 。<span class="pinyin">Rúguǒ tā ná <em>bu dào</em> lǜkǎ, wǒ jiù gēn tā fēnshǒu.</span><span class="trans">If he can't get a green card, I will break up with him.</span>
+</div>
+
+=== 想 vs. 想到 ===
+
+If you think of 想 as "looking for ideas," then 想 and 想到 are very similar to 找 and 找到. One difference, though, is that 没想到 means "never imagined." It's not that you tried to think of something and failed, it's just that the idea never occurred to you.
+
+<div class="liju">
+*一定 要 <strong>想</strong> 一  个办法 。<span class="pinyin">Yīdìng yào <strong>xiǎng</strong> yī gè bànfǎ.</span><span class="trans">You have to think of a way.</span>
+*你 <strong>想</strong><em>到</em> 了 什么 好 办法 ？<span class="pinyin">Nǐ <strong>xiǎng</strong><em>dào</em> le shénme hǎo bànfǎ?</span><span class="trans">Have you thought of anything good yet?</span>
+*我们 都 没 <strong>想</strong><em>到</em> 他 这么 生气 。<span class="pinyin">Wǒmen dōu méi <strong>xiǎng</strong><em>dào</em> tā zhème shēngqì.</span><span class="trans">None of us imagined that he would be so mad.</span>
+</div>
+
+=== 追 vs. 追到 ===
+
+This one is tricky, because "pursue" is a metaphor, and there's no obvious result. "Catch" sounds way too misogynistic and old-fashioned. 追到 actually involves more than just effort on the part of the pursuer; you have to move the girl's (or guy's) heart.
+
+<div class="liju">
+*怎么 <strong>追</strong> 女孩子 ？<span class="pinyin">Zěnme <strong>zhuī</strong> nǚ háizi?</span><span class="trans">How do you pursue a  girl?</span>
+*那 个 女孩子 ，你 <strong>追</strong><em>到</em>了吗 ？<span class="pinyin">Nàge nǚháizi, nǐ <strong>zhuī</strong><em>dào</em> le ma?</span><span class="trans"> That girl, did you win her over yet?</span>
+*如果 你 <strong>追</strong><em>到</em> 她 了 ，我 就 请 你 喝酒 。<span class="pinyin">Rúguǒ nǐ <strong>zhuī</strong><em>dào</em> tā le, wǒ jiù qǐng nǐ hējiǔ.</span><span class="trans">If you can really win her over, I'll treat you to drinks.</span>
+</div>
+
+=== 了解 vs. 了解到 ===
+
+了解 indicates some kind of deep understanding, often one that only comes over a long period of time. But if you suddenly get some new in-depth information, 了解到 may be appropriate.
+
+<div class="liju">
+*我 不 太 <strong>了解</strong> 这个 人 。<span class="pinyin">Wǒ bù tài <strong>liǎojiě</strong> zhège rén.</span><span class="trans">I don't really know this person well.</span>
+*我们 刚刚 <strong>了解</strong> <em>到</em> 一些 新 的 消息 。<span class="pinyin">Wǒmen gānggāng <strong>liǎojiě</strong> <em>dào</em> yīxiē xīn de xiāoxī.</span><span class="trans">We just acquired some new information.</span>
+*从 他 那里 ，我 <strong>了解</strong> <em>到</em> 了 真相 。<span class="pinyin">Cóng tā nàlǐ, wǒ <strong>liǎojiě</strong> <em>dào</em> le zhēnxiàng.</span><span class="trans">I learned the real truth of the matter from him.</span>
+</div>
+
+=== 联系 vs. 联系到 ===
+
+You can think of 联系 as "initiate contact" and 联系到 as "establish contact."
+
+<div class="liju">
+*我们 怎么 <strong>联系</strong> ？<span class="pinyin">Wǒmen zěnme <strong>liánxì</strong>?</span><span class="trans">How do we get in contact?</span>
+*你 知道 他 的 <strong>联系</strong> 方式 吗 ？<span class="pinyin">Nǐ zhīdào tā de <strong>liánxì</strong> fāngshì ma?</span><span class="trans">Do you have his contact information?</span>
+*我 想 跟 你 <strong>联系</strong> ，但是 一直 <strong>联系</strong> <em>不 到</em> 你 。<span class="pinyin">Wǒ xiǎng gēn nǐ <strong>liánxì</strong>, dànshì yīzhí <strong>liánxì</strong> <em>bu dào</em> nǐ.</span><span class="trans">I wanted to get in touch with you, but could never reach you.</span>
+</div>
+
+[[Category:B2 grammar points]]
+[[Category:Result complement]]
+
+{{Basic Grammar|到|B2|Verb + 到|他 做 <em>到</em> 了 吗 ？|grammar point|ASGCUSIV}}
+{{Similar|Result complements "dao" and "jian"}}
+{{Similar|Result complement}}
+{{Used for|Expressing result}}
+{{Structure|Complements}}
+{{Subprop|Result complement}}

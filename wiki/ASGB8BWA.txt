@@ -1,0 +1,61 @@
+<!-- Adjectival complement "de budeliao" -->
+{{Grammar Box}} 
+Used by itself, 不得了 (bùdéliǎo) means "terrible" or "awful." But as a [[complement]], -得不得了 (de bùdéliǎo) can be used to suggest a situation is serious or may result in terrible consequences. It can also be used in a positive sense, such as in English when we say "I'm terribly happy."
+
+== Structure ==
+
+<div class="jiegou">
+Adj. + 得不得了
+</div>
+
+== Examples ==
+
+<div class="liju">
+* 爸爸 <strong>气</strong> <em>得 不得了</em>，你 要 倒霉 啦。<span class="pinyin">Bàba <strong>qì</strong> <em>de bùdéliǎo</em>, nǐ yào dǎoméi la.</span><span class="trans">Dad is super angry. You're in for it.</span>
+* 她的 妈妈 刚 去世， 她 <strong>难过</strong> <em>得 不得了</em>。<span class="pinyin">Tā de māma gāng qùshì, tā <strong>nánguò</strong> <em>de bùdéliǎo</em>.</span><span class="trans">Her mom just passed away, so she is extremely upset.</span>
+* 今天 <strong>冷</strong> <em>得 不得了</em>，怎么 会 这么 冷？<span class="pinyin">Jīntiān <strong>lěng</strong> <em>de bùdéliǎo</em>, zěnme huì zhème lěng?</span><span class="trans">It's terribly cold today! How can it be this cold?</span>
+* 最近 有 很 多 项目，<strong>忙</strong> <em>得 不得了</em>。<span class="pinyin">Zuìjìn yǒu hěn duō xiàngmù, <strong>máng</strong> <em>de bùdéliǎo</em>.</span><span class="trans">There are so many projects lately. We're crazy busy.</span>
+* 升职 的 事情 让 他 <strong>高兴</strong> <em>得 不得了</em>。<span class="pinyin">Shēngzhí de shìqing ràng tā <strong>gāoxìng</strong> <em>de bùdéliǎo</em>.</span><span class="trans">Getting promoted made him extremely happy.</span>
+* 他 跟 老总 的 关系 <strong>好</strong> <em>得 不得了</em>，你 一定 要 小心！<span class="pinyin">Tā gēn lǎozǒng de guānxì <strong>hǎo</strong> <em>de bùdéliǎo</em>, nǐ yīdìng yào xiǎoxīn!</span><span class="trans">He has a really good relationship with the big boss. You need to be careful!</span>
+* 他 现在 <strong>火</strong> <em>得 不得了</em>，每个人 都 知道 他 。<span class="pinyin">Tā xiànzài <strong>huǒ</strong> <em>de bùdéliǎo</em>, měi gè rén dōu zhīdào tā.</span><span class="trans">He's terribly hot right now. Everyone knows him.</span>
+* 现在 车 太 多 ，路上 <strong>堵</strong> <em>得 不得了</em>。<span class="pinyin">Xiànzài chē tài duō, lùshang <strong>dǔ</strong> <em>de bùdéliǎo</em></span><span class="trans">There are too many cars nowadays, so traffic is terrible.</span>
+* 自从 她 说 要 给 我 一个 礼物 ，我 <strong>好奇</strong> <em>得 不得了</em>。<span class="pinyin">Zìcóng tā shuō yào gěi wǒ yī gè lǐwù, wǒ <strong>hàoqí</strong> <em>de bùdéliǎo</em>.</span><span class="trans">Ever since she said she wanted to give me a gift I've been terribly curious.</span>
+* 这 件 衣服 ，我 <strong>喜欢</strong> <em>得 不得了</em>。<span class="pinyin">Zhè jiàn yīfu, wǒ xǐhuan <em>de bùdéliǎo</em>.</span><span class="trans">I absolutely love these clothes.</span>
+</div>
+
+As with many other grammar patterns, -得不得了 works with both adjectives and [[psychological verb]]s.
+
+== 得不得了 vs. 不得不 ==
+
+A word to the wise: don't confuse 得不得了 (de bùdéliǎo) with [[Expressing "have to" with "budebu"|不得不 (bùdébù)]].
+
+==See also==
+* [[Adjectival complement "de hen"]]
+* [[Descriptive complements]]
+* [[Negative adjectives with "-si le"]]
+* [[Positive adjectives with "-ji le"]]
+
+== Sources and further reading ==
+
+=== Books ===
+{{Source|Boya Chinese Lower Intermediate 2 (博雅汉语准中级加速篇) |134-5}} 
+{{Source|New Practical Chinese Reader 5 (新实用汉语课本5) |53}} 
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|262}}
+{{Source|Integrated Chinese: Level 2, Part 2|159}}
+
+[[Category: B2 grammar points]]
+[[Category: Adjectives]]
+{{Basic Grammar|得|B2|Adj. + 得不得了|爸爸 气 <em> 得 不得了</em>，你 要 倒霉 啦。|grammar point|ASGB8BWA}}
+{{Rel char|不}}
+{{Rel char|不得了}}
+{{Similar|Adjectival Complement "de hen"}}
+{{Similar|Positive adjectives with "-ji le"}}
+{{Similar|Negative adjectives with "-si le"}}
+{{Similar|Descriptive complements}}
+{{Similar|Degree complement}}
+{{Similar|Advanced degree complements}}
+{{POS|Adjectives}}
+{{Used for|Expressing degree}}
+{{Used for|Expressing quality}}
+{{Used for|Emphasizing}}
+{{Translation|very}}

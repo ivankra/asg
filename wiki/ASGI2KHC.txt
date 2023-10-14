@@ -1,0 +1,49 @@
+<!-- Inability with "mei banfa" -->
+{{Grammar Box}} 
+
+If you are trying to express that something is impossible, you can use the phrase 没办法 (méi bànfǎ). 没办法 (méi bànfǎ) essentially means "there is no way," and while it works just fine by itself, it can also come before [[verb]]s.
+
+== Structure ==
+
+One easy way to express inability is to place the phrase 没办法 (méi bànfǎ) before the verb.
+
+<div class="jiegou">
+
+Subj. + 没办法 + Verb + Obj.
+
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+* 今天 太 忙 了，中午 <em>没 办法</em>  出去 吃饭。 <span class="pinyin">Jīntiān tài máng le, zhōngwǔ <em>méi bànfǎ</em> chūqù chīfàn.</span><span class="trans">It's too busy today. There's no way to go out for lunch.</span>
+* 他 没 带 手机，<em>没 办法</em> 给 我 打电话。 <span class="pinyin">Tā méi dài shǒujī, <em>méi bànfǎ</em> gěi wǒ dǎ diànhuà.</span><span class="trans">He didn't bring his phone, so he has no way to give me a call.</span>
+* 没有 水，我们 <em>没 办法</em> 洗 衣服。<span class="pinyin">Méiyǒu shuǐ,  wǒmen <em>méi bànfǎ</em> xǐ yīfu.</span><span class="trans">There's no water. There's no way for us to wash clothes.</span>
+* 这里 太 吵 了，我 <em>没 办法</em> 工作。<span class="pinyin">Zhèlǐ tài chǎo le, wǒ <em>méi bànfǎ</em> gōngzuò.</span><span class="trans">It‘s too noisy here. I can't work.</span>
+* 他 不 开门，所以 她 <em>没 办法</em> 进去。<span class="pinyin">Tā bù kāimén, suǒyǐ tā <em>méi bànfǎ</em> jìnqù.</span><span class="trans">He didn't open the door, so she has no way to enter.</span>
+* 你 不 会 说 中文，<em>没 办法</em> 在 我们公司 工作。<span class="pinyin">Nǐ bù huì shuō Zhōngwén, <em>méi bànfǎ</em> zài wǒmen gōngsī gōngzuò.</span><span class="trans">You can't speak Chinese, so there is no way for you to work for our company.</span>
+* 事情 太 多 了，我 今天 <em>没 办法</em> 做完。<span class="pinyin">Shìqing tài duō le, wǒ jīntiān  <em>méi bànfǎ</em> zuò wán.</span><span class="trans">There's too much to do. I have no way to finish today.</span>
+* 老板 不 同意，我 <em>没 办法</em> 帮 你。<span class="pinyin">Lǎobǎn bù tóngyì , wǒ <em>méi bànfǎ</em> bāng nǐ.</span><span class="trans">The boss didn't agree, so I have no way to help you.</span>
+* 这里 没有 wifi，我 <em>没 办法</em> 上网。<span class="pinyin">Zhèlǐ méiyǒu wifi，wǒ <em>méi bànfǎ</em> shàngwǎng.</span><span class="trans">There is no wifi here, so I have no way of going online.</span>
+* 他 很 笨，我 <em>没 办法</em> 跟 他 一起 工作。<span class="pinyin">Tā hěn bèn, wǒ <em>méi bànfǎ</em> gēn tā yīqǐ gōngzuò.</span><span class="trans">He's really dumb. There is no way I can work with him.</span>
+
+</div>
+
+==See also==
+*[[Negation of "you"]]
+*[[Expressing ability or possibility]]
+
+== Sources and further reading ==
+
+{{Source|Exemplification of Common Sentence Patterns in Spoken Chinese 汉语口语常用句式例解|159}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK3}}
+{{Used for|Describing actions}}
+{{Used for|Expressing impossibility}}
+{{Used for|Indicating conditions}}
+{{Basic Grammar|办法|A2|没办法 + Verb|我 <em>没 办法</em> 帮 你。|grammar point|ASGI2KHC}}
+{{Rel char|没}}
+{{POS|Verbs}}
+{{Subprop|Verb phrases}}

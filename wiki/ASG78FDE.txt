@@ -1,0 +1,59 @@
+<!-- Expressing a last chance with "zaibu... jiu..." -->
+{{Grammar Box}} 
+When time is running out and you need to emphasize that someone needs to ''act now'' or else ''something bad is going to happen'', that's when you know you need the pattern 再不…… 就…… (zàibù... jiù...)!
+
+== Structure ==
+
+<div class="jiegou">
+(Subj. +) 再不 …… 就 ……（了）
+</div>
+
+What comes right after 再不 is the action that needs to be taken ''now''. What comes after 就 is the dire consequences which will immediately result is that action is not taken.
+
+Technically this pattern is just a combination of the [[Expressing "again" in the future with "zai"|"again" in the future 再]] and the [[Expressing "then" with "jiu"|就 for expressing "then"]]. But somehow this pattern does not easily come to mind for most learners when you want to express "if you don't... ''now''.... then..." so it gets its own grammar point.
+
+== Examples ==
+
+Note that there is a sense of urgency in each of these sentences, even if the word 现在 isn't present. That's why an implied "now" has been added in for some English translations.
+
+<div class="liju">
+* 你 <em>再 不</em> 走，我 <em>就</em> 叫 保安 了。<span class="pinyin">Nǐ <em>zài bù</em> zǒu, wǒ <em>jiù</em> jiào bǎoān le.</span><span class="trans">If you don't leave now, I'm going to call security.</span>
+* <em>再 不</em> 走 我们 开会 <em>就</em> 要 迟到 了。<span class="pinyin"><em>Zài bù</em> zǒu wǒmen kāihuì <em>jiù</em> yào chídào le.</span><span class="trans">If we don't leave now, we will be late for our meeting.</span>
+* 你 <em>再 不</em> 努力，你 <em>就</em> 会 被 淘汰。<span class="pinyin">Nǐ <em>zài bù</em> nǔlì, nǐ <em>jiù</em> huì bèi táotài.</span><span class="trans">If you don't start working hard, you're going to get eliminated.</span>
+* 火车 快 开 了，<em>再 不</em> 检票 <em>就</em> 来不及 了。<span class="pinyin">Huǒchē kuài kāi le, <em>zài bù</em> jiǎnpiào <em>jiù</em> láibují le.</span><span class="trans">The train is about to leave! If we don't get our tickets checked now, we're not going to make it.</span>
+* 今年 最后 一 次 优惠 ， <em>再 不</em> 抢 <em>就</em> 没 了 。<span class="pinyin">Jīnnián zuìhòu yī cì yōuhuì, <em>zài bù</em> qiǎng <em>jiù</em> méi le.</span><span class="trans">It's the final sale of the year. If you don't grab it, it'll be gone!</span>
+* 你 快 告诉 他，不 要 让 他 误会，<em>再 不</em> 说 <em>就</em> 真的 误会 了。<span class="pinyin">Nǐ kuài gàosu tā, bùyào ràng tā wùhuì, <em>zài bù</em> shuō <em>jiù</em> zhēnde wùhuì le.</span><span class="trans">Hurry up and tell him; don't let him get the wrong idea. If you don't tell him now he's really going to get the wrong message.</span>
+* 你 <em>再 不</em> 学习，下 个 月 <em>就</em> 没有 生活费 了。<span class="pinyin">Nǐ <em>zài bù</em> xuéxí, xià gè yuè <em>jiù</em> méiyǒu shēnghuófèi le.</span><span class="trans">If you don't study, you won't have an allowance to live on next month.</span>
+* 你 <em>再 不</em> 打 电话，你 <em>就</em> 失去 这个 机会 了。<span class="pinyin">Nǐ <em>zài bù</em> dǎ diànhuà, nǐ <em>jiù</em> shīqù zhège jīhuì le.</span><span class="trans">If you don't call now, you're going to miss out on this opportunity.</span>
+* 如果 我们 现在 <em>再 不</em> 去 旅游，以后 就 更 没有 机会 了。<span class="pinyin">Rúguǒ wǒmen xiànzài <em>zài bù</em> qù lǚyóu, yǐhòu <em>jiù</em> gèng méiyǒu jīhuì le.</span><span class="trans">If we don't travel now, we won't have the opportunity in the future.</span>
+* 我 <em>再 不 </em> 穿 羽绒服，我 <em>就</em> 冻死 了。<span class="pinyin">Wǒ <em>zài bù</em> chuān yǔróngfú, wǒ <em>jiù</em> dòngsǐ le.</span><span class="trans">If I don't wear a down jacket, I'm going to freeze to death.</span>
+</div>
+
+== See Also ==
+
+* [[Again in the future with "zai"]]
+* [[Expressing "never again" with "zai ye bu"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Common Chinese Patterns 330 (汉语常用格式330例)|299}} 
+{{Source|Boya Chinese Elementary Starter 2 (博雅汉语初经起步篇)|174}}
+{{Source|Integrated Chinese: Level 2, Part 2|265}}
+
+[[Category:B2 grammar points]]
+[[Category: Adverbs]]
+
+{{Basic Grammar|再不|B2|再不…… 就……|<em>再不</em> 抢 <em>就</em> 没 了 。|grammar point|ASG78FDE}}
+{{Rel char|就}}
+{{Rel char|再}}
+{{Rel char|不}}
+{{Used for|Referring to the future}}
+{{Similar|Again in the future with "zai"}}
+{{Similar|Expressing "never again" with "zai ye bu"}}
+{{POS|Adverbs}}
+{{Translation|never}}
+{{Translation|again}}
+{{Translation|if}}
+{{Translation|then}}

@@ -1,0 +1,69 @@
+<!-- Expressing "all at once" with "yixiazi" -->
+{{Grammar Box}} 
+
+一下子 (yīxiàzi) can be used as an [[adverb]], meaning "all at once." Because it inherently encompasses a sense of "completion," it's typically going to be followed by a [[了]] (le) later in the sentence.
+
+== Used as "All at Once" ==
+
+一下子 (yīxiàzi) is a very informal expression to describe how fast things happened. It usually touches upon sudden or severe changes in a very short amount of time. Although 一下子 (yīxiàzi) is already quite informal, in colloquial Chinese 一下 (yīxià) can also be used to express the same thing.
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 一下子 + Predicate + 了
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*天气 <em>一下子</em> 变 冷 <strong>了</strong> 。<span class="pinyin">Tiānqì <em>yīxiàzi</em> biàn lěng <strong>le</strong>.</span><span class="trans">The weather suddenly got cold.</span>
+*他 <em>一下子</em> 吃 <strong>了</strong> 三 碗 米饭 。<span class="pinyin">Tā <em>yīxiàzi</em> chī <strong>le</strong> sān wǎn mǐfàn.</span><span class="trans">He ate three bowls of rice all at once.</span>
+*她 下楼 的时候 <em>一下子</em> 摔倒 <strong>了</strong> 。<span class="pinyin">Tā xiàlóu de shíhou <em>yīxiàzi</em> shuāidǎo <strong>le</strong>.</span><span class="trans">As she went down the stairs, she suddenly fell.</span>
+*我们 说话 的 时候 ，她 <em>一下子</em> 哭 <strong>了</strong> 。<span class="pinyin">Wǒmen shuōhuà de shíhou, tā <em>yīxiàzi</em> kū <strong>le</strong>.</span><span class="trans">She burst into tears when we were talking.</span>
+*她 上 个 月 <em>一下子</em> 瘦 <strong>了</strong> 很 多 。<span class="pinyin">Tā shàng gè yuè <em>yīxiàzi</em> shòu <strong>le</strong> hěn duō.</span><span class="trans">Last month, she lost a lot of weight all at once.</span>
+
+</div>
+
+== Used as "Quickly" and "Naturally" ==
+
+一下子 (yīxiàzi), followed with [[就]] (jiù), usually implies that things happened very quickly, naturally, and easily. Again, 一下 (yīxià) can also be used instead of 一下子 (yīxiàzi).
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + 一下子 + 就 + Predicate + 了
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*老师 进来 以后 ，大家 <em>一下子</em> <strong>就</strong> 安静 <strong>了</strong> 。<span class="pinyin">Lǎoshī jìnlái yǐhòu, dàjiā <em>yīxiàzi</em> <strong>jiù</strong> ānjìng <strong>le</strong>.</span><span class="trans">Everyone became silent after the teacher came in.</span>
+*听 他 说 完 ，我 <em>一下子</em> <strong>就</strong> 明白 <strong>了</strong> 。<span class="pinyin">Tīng tā shuō wán, wǒ <em>yīxiàzi</em> <strong>jiù</strong> míngbai <strong>le</strong>.</span><span class="trans">After hearing him out, I understood everything all at once.</span>
+*他 是 最 高 的 ，我 <em>一下子</em> <strong>就</strong> 看到 他 <strong>了</strong> 。<span class="pinyin">Tā shì zuì gāo de, wǒ <em>yīxiàzi</em> <strong>jiù</strong> kàndào tā <strong>le</strong>.</span><span class="trans">He is the tallest. I spotted him right away.</span>
+*拍 完 那 部 电影 ，他 <em>一下子</em> <strong>就</strong> 出名 <strong>了</strong> 。<span class="pinyin">Pāi wán nà bù diànyǐng, tā <em>yīxiàzi</em> <strong>jiù</strong> chūmíng <strong>le</strong>.</span><span class="trans">He became very famous soon after that movie came out.</span>
+*看到 那 张 照片 ，我 <em>一下子</em> <strong>就</strong> 想 起来 <strong>了</strong> 。<span class="pinyin">Kàndào nà zhāng zhàopiàn, wǒ <em>yīxiàzi</em> <strong>jiù</strong> xiǎng qǐlái <strong>le</strong>.</span><span class="trans">It all came back to me when I saw that picture.</span>
+
+</div>
+
+== See also ==
+
+*[[Verb reduplication with yi]]
+*[[Verb reduplication]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Integrated Chinese: Level 1, Part 1 (3rd ed)|126}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|206}} 
+
+[[Category:B1 grammar points]]
+{{HSK|HSK0}}
+{{Basic Grammar|一下子|B1|Subj. + 一下子 + Verb + 了|天气 <em>一下子</em> 变 冷 <strong>了</strong> 。|grammar point|ASG06EA8}}
+{{Rel char|了}}
+{{Used for|Expressing duration}}
+{{Used for|Describing actions}}
+{{POS|Adverbs}}
+{{Translation|all at once}}

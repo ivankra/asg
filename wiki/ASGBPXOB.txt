@@ -1,0 +1,125 @@
+<!-- Direction complement "-qilai" -->
+{{Grammar Box}} 
+
+起来 (qǐlái) comes up very frequently in Chinese and can be used both literally and figuratively. This is a little like the usage of "up" in English, which can be used literally, as in "stand up," or figuratively, as in "add up." When used figuratively, 起来 often serves as  a [[direction complement]].
+
+== Basic Meaning ==
+
+=== Structure ===
+
+起来 can be used to express an upward movement like "up," as in the English examples of "stand up" or "pick up."
+
+<div class="jiegou">
+Verb + 起来
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*请 大家 <strong>站</strong> <em>起来</em> 。<span class="pinyin">Qǐng dàjiā <strong>zhàn</strong> <em>qǐlái</em>.</span><span class="trans">Everyone, please stand up.</span>
+*<strong>捡</strong> <em>起来</em>。<span class="pinyin"><strong>Jiǎn</strong> <em>qǐlái</em>.</span><span class="trans">Pick it up (from the floor).</span>
+*头 <strong>抬</strong> <em>起来</em> 。<span class="pinyin">Tóu <strong>tái</strong> <em>qǐlái</em>.</span><span class="trans">Raise your head.</span>
+*别动 ！<strong>把</strong> 手 <strong>举</strong> <em>起来</em> 。<span class="pinyin">Bié dòng! <strong>Bǎ</strong> shǒu <strong>jǔ</strong> <em>qǐlái</em>.</span><span class="trans">Don't move! Put your hands up.</span>
+
+</div>
+
+== Used for Initiation of an Action ==
+
+=== Structure ===
+
+起来 can also be used to show that an action or state has started and is ongoing:
+
+<div class="jiegou">
+Verb / Adj. + 起来 +了
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+*小鸟 飞 <em>起来</em> <strong>了</strong> 。<span class="pinyin">Xiǎoniǎo fēi <em>qǐlái</em><strong> le </strong>.</span><span class="trans">The birds started flying.</span>
+*宝宝 哭 <em>起来</em> <strong>了</strong> 。<span class="pinyin">Bǎobao kū <em>qǐlái</em> <strong>le</strong>.</span><span class="trans">The baby started crying.</span>
+*两 个 大妈 吵 <em>起来</em> <strong>了</strong> 。<span class="pinyin">Liǎng gè dàmā chǎo <em>qǐlái</em> <strong>le</strong>.</span><span class="trans">Two middle-aged ladies started arguing.</span>
+*天气 热 <em>起来</em> <strong>了</strong> 。<span class="pinyin">Tiānqì rè <em>qǐlái</em> <strong>le</strong>.</span><span class="trans">It's getting hot.</span>
+*结婚 以后 ，她 胖 <em>起来</em> <strong>了</strong> 。<span class="pinyin">Jiéhūn yǐhòu, tā pàng <em>qǐlái</em> <strong>le</strong>.</span><span class="trans">After she got married, she has started to gain weight.</span>
+*爷爷 的 身体 好 <em>起来</em> <strong>了</strong> 。<span class="pinyin">Yéye de shēntǐ hǎo <em>qǐlái</em> <strong>le</strong>.</span><span class="trans">Grandpa's health is getting better.</span>
+
+</div>
+
+When used like this, 起来 is only used with spontaneous actions, like 唱 (chàng),  跳 (tiào),  聊 (liáo), or with states like 热 (rè),  冷 (lěng), or 好 (hǎo) etc. It cannot be used with planned actions.
+
+<div class="liju">
+<ul>
+<li class="x">你 几 点 <strong>工作</strong> <em>起来</em> ？<span class="pinyin">Nǐ jǐ diǎn <strong>gōngzuò</strong> <em>qǐlái</em>?</span> </li>
+<li class="o">你 几 点 <em>开始</em> <strong>工作</strong> ？<span class="pinyin">Nǐ jǐ diǎn <em>kāishǐ</em> <strong>gōngzuò</strong>?</span><span class="trans">What time will you start working?</span></li>
+</ul>
+</div>
+
+It can also used as a way to encourage people to start doing something immediately:
+
+<div class="liju">
+*大家 <strong>唱</strong> <em>起来</em> ，<strong>跳</strong> <em>起来</em> !  <span class="pinyin">Dàjiā <strong>chàng</strong> <em>qǐlái</em>, <strong>tiào</strong> <em>qǐlái</em> !</span><span class="trans">Let's sing and dance, everybody!</span>
+</div>
+
+== Used for an Initial Judgement==
+
+起来 is used here to express that the speaker has only just initiated an action, and based on that, has made a preliminary judgment. It is used in the following structure:
+
+=== Structure ===
+
+<div class="jiegou">
+Subj. + Verb + 起来 + Adv. + Adj.
+</div>
+
+This expresses that the subject seems ''adjective'' when the action of the verb is performed. This structure is frequently used with perception verbs such as 看, 听, 闻, 摸, etc.
+
+=== Examples ===
+
+<div class="liju">
+
+*他 <em>看 起来</em> <strong>很 友好</strong> 。<span class="pinyin">Tā <em>kàn qǐlái</em> <strong>hěn yǒuhǎo</strong>.</span><span class="trans">He looks very friendly.</span>
+*你 的 头发 <em>闻 起来</em> <strong>很 香</strong> 。<span class="pinyin">Nǐ de tóufa <em>wén qǐlái</em> <strong>hěn xiāng</strong>.</span><span class="trans">Your hair smells good.</span>
+*这 件 事情 <em>听 起来</em> <strong>有点 复杂</strong> 。<span class="pinyin">Zhè jiàn shìqing  <em>tīng qǐlái</em> <strong>yǒudiǎn fùzá</strong>.</span><span class="trans">This matter sounds a little bit complex.</span>
+*这些 菜 <em>尝 起来</em> 都 <strong>不错</strong> 。<span class="pinyin">Zhèxiē cài <em>cháng qǐlái</em> dōu <strong>bùcuò</strong>.</span><span class="trans">These foods all taste good.</span>
+*你 的 床 <em>摸 起来</em> <strong>很 舒服</strong> 。<span class="pinyin">Nǐ de chuáng <em>mō qǐlái</em> <strong>hěn shūfu</strong>.</span><span class="trans">Your bed feels very comfortable.</span>
+
+</div>
+
+== See also ==
+
+* [[Result complement "xiaqu"]]
+* [[Advanced result complements]]
+* [[Direction complement]]
+* [[Appearance with "kanqilai"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|Chinese Grammar - Broken down into 100 items - Basic and Intermediate Levels (汉语语法百项讲练 - 初中级) |25-31}} 
+{{Source|Boya Chinese Elementary Starter 2 (博雅汉语初经起步篇) |80}} 
+{{Source|New Practical Chinese Reader 5 (新实用汉语课本5) |134-5}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课下册）|355-6}}
+{{Source|Integrated Chinese: Level 2, Part 2|20}}
+{{Source|HSK Standard Course 4下|60}}
+{{Source|HSK Standard Course 5上|36}}
+
+=== Websites ===
+
+* Yale: [http://comet.cls.yale.edu/mandarin/content/directional/grammar/direction-3a.htm Extended meaning of some directional complements]
+{{HSK|HSK4}}
+{{Basic Grammar|起来|B1|Verb / Adj.+ 起来|天气 热 <em>起来</em> <strong>了</strong> 。|grammar point|ASGBPXOB}}
+{{Rel char|起}}
+{{Rel char|来}}
+{{Similar|Further Uses of Resultative Complement "qilai"}}
+{{Similar|Result complement "xiaqu"|下去}}
+{{Similar|Resultative Complement "chu(lai)"|出来}}
+{{Similar|Direction complement}}
+{{Similar|Result complements "dao" and "jian"}}
+{{Similar|Appearance with "kanqilai"}}
+{{Used for|Expressing result}}
+{{Used for|Describing actions}}
+{{Used for|Expressing movement}}
+{{Structure|Complements}}
+{{Subprop|Direction complement}}

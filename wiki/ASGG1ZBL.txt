@@ -1,0 +1,54 @@
+<!-- Adjectival complement "de hen" -->
+{{Grammar Box}} 
+The complement -得很 (dehěn) is used after adjectives to add intensity. Although less common in everyday speech, meaning-wise it is quite similar to [[Simple "noun + adjective" sentences|adding 很 before the adjective]]. The main difference is that "adjective + 得很" is more informal, and adds stronger emphasis than just "很 + adjective."
+
+== Structure ==
+
+<div class="jiegou">
+Adj. + 得很
+</div>
+
+== Examples ==
+
+<div class="liju">
+*我 <strong>好</strong> <em>得 很</em> ，你 不用 为 我 担心 。 <span class="pinyin">Wǒ <strong>hǎo</strong> <em>de hěn</em>, nǐ bùyòng wèi wǒ dānxīn.</span><span class="trans">I'm doing great. You don't need to worry about me.</span>
+*你 觉得 不 好吃 ？我 觉得 <strong>好吃</strong> <em>得很</em> 。<span class="pinyin">Nǐ juéde bù hǎochī? Wǒ juéde <strong>hǎochī</strong> <em>de hěn</em>.</span><span class="trans">You don't think it tastes good? I think it's scrumptious.</span>
+*这 个 地方 <strong>漂亮</strong> <em>得 很</em>，非常 推荐 你 去 。 <span class="pinyin">Zhège dìfang <strong>piàoliang</strong> <em>de hěn</em>, fēicháng tuījiàn nǐ qù.</span><span class="trans">This place is gorgeous. I strongly recommend you visit.</span>
+*我 现在 时间 <strong>多</strong> <em>得 很</em> ，你 去 哪儿 我 都 可以 陪 你 去 。 <span class="pinyin">Wǒ xiànzài shíjiān <strong>duō</strong> <em>de hěn</em>, nǐ qù nǎr wǒ dōu kěyǐ péi nǐ qù.</span><span class="trans">I have loads of free time right now. I can go with you wherever you want to go.</span>
+*不 用 担心，这次 考试 <strong>简单</strong> <em>得很</em>。<span class="pinyin">Bùyòng dānxīn, zhè cì kǎoshì <strong>jiǎndān</strong> <em>de hěn</em>.</span><span class="trans">Don't worry. This test is super simple.</span>
+*离 我 远 点儿 ！我 现在 <strong>烦</strong> <em>得很</em>！<span class="pinyin">Lí wǒ yuǎn diǎnr! Wǒ xiànzài <strong>fán</strong> <em>de hěn</em>!</span><span class="trans">Stay away from me! I'm very stressed right now!</span>
+*你 觉得 他 不 高兴 ？我 看 他 今天 心情 <strong>好</strong> <em>得很</em> ！<span class="pinyin">Nǐ juéde tā bù gāoxìng? Wǒ kàn tā jīntiān xīnqíng <strong>hǎo</strong> <em>de hěn</em>!</span><span class="trans">You think he's unhappy? From what I see, he's in a great mood today!</span>
+*我 最近 <strong>忙</strong> <em>得很</em>，每天 都 要 加班 。<span class="pinyin">Wǒ zuìjìn <strong>máng</strong> <em>de hěn</em>, měitiān dōu yào jiābān.</span><span class="trans">I've been so busy lately. I need to work overtime every day.</span>
+*高峰期 路上 <strong>堵</strong> <em>得很</em>，我 建议 你 上班 坐 地铁。<span class="pinyin">Gāofēng qī lùshang <strong>dǔ</strong> <em>de hěn</em>, wǒ jiànyì nǐ shàngbān zuò dìtiě.</span><span class="trans">The traffic is really heavy at rush hour. I recommend you take the subway to work.</span>
+*他 这 个 人 <strong>自私</strong> <em>得 很</em>，从来 不 为 别人 考虑。<span class="pinyin">Tā zhège rén <strong>zìsī</strong> <em>de hěn</em>, cónglái bù wèi biérén kǎolǜ.</span><span class="trans">He's incredibly selfish. He never considers other people.</span>
+</div>
+
+==See also==
+
+* [[Adjectival complement "de budeliao"]]
+* [[Positive adjectives with "-ji le"]]
+* [[Negative adjectives with "-si le"]]
+
+== Sources  and  further  reading ==
+
+=== Books ===
+
+{{Source|Integrated Chinese: Level 2, Part 1|50-1}}
+
+[[Category: B2 grammar points]]
+[[Category: Adjectives]]
+{{Basic Grammar|很|B2|Adj. + 得 很|这个 题目 简单 <em>得 很</em> 。|grammar point|ASGG1ZBL}}
+{{Rel char|得}}
+{{Similar|Simple "noun + adjective" sentences}}
+{{Similar|Adjectival Complement "de budeliao"}}
+{{Similar|Positive adjectives with "-ji le"}}
+{{Similar|Negative adjectives with "-si le"}}
+{{Similar|Descriptive complements}}
+{{Similar|Degree complement}}
+{{Similar|Advanced degree complements}}
+{{Similar|Using objects with complements}}
+{{POS|Adjectives}}
+{{Used for| Expressing degree}}
+{{Used for|Expressing quality}}
+{{Used for|Emphasizing}}
+{{Translation|very}}

@@ -1,0 +1,58 @@
+<!-- Combining verbs with "bing" -->
+{{Grammar Box}} 
+并 (bìng) can be used to connect verbs. In this structure the two verbs should be of equal importance.
+
+==Structure==
+
+The verb phrases in the pattern below are often two-syllable verbs, and usually somewhat formal.
+
+In some cases, the two verb phrases on either side of 并 are of equal stress or importance. When 并 means "moreover," however, it can be replaced with [[Expressing "moreover" with "bingqie"|并且]].
+
+<div class="jiegou">
+[Verb Phrase 1] + 并 + [Verb Phrase 2]
+</div>
+
+Notice that 并且 is used with verbs, unlike [[Expressing "and" with "he" (advanced)|和, which is used mostly with nouns]].
+
+==Examples==
+
+Here are some examples:
+
+<div class="liju">
+* 我 同意 <em>并</em> 支持 你 的 决定。<span class="pinyin">Wǒ tóngyì <em>bìng</em> zhīchí nǐ de juédìng.</span><span class="trans">I agree with and support your decision.</span>
+* 要 继续 保持 <em>并</em> 发扬 优秀 的 民族 传统。<span class="pinyin">Yào jìxù bǎochí <em>bìng</em> fāyáng yōuxiù de mínzú chuántǒng.</span><span class="trans">We will continue to maintain and carry forward our excellent national traditions.</span>
+* 会议 讨论 <em>并</em> 通过 了 今年 的 工作 计划。<span class="pinyin">Huìyì tǎolùn <em>bìng</em> tōngguò le jīnnián de gōngzuò jìhuà.</span><span class="trans">The meeting discussed and approved the work plan for this year.</span>
+* 脱欧 后 ， 英国 需要 跟 很 多 国家 进行 贸易 谈判 <em>并</em> 签订 贸易 协议 。<span class="pinyin">Tuō Ōu hòu, Yīngguó xūyào gēn hěn duō guójiā jìnxíng màoyì tánpàn <em>bìng</em> qiāndìng màoyì xiéyì.</span><span class="trans">Post-Brexit, the U.K. will have to negotiate and sign trade agreements with many countries.</span>
+* 当 他们 克服 了 困难 <em>并</em> 获得 成功 以后 ， 他们 会 觉得 特别 有 成就感 。<span class="pinyin">Dāng tāmen kèfú le kùnnan <em>bìng</em> huòdé chénggōng yǐhòu, tāmen huì juéde tèbié yǒu chéngjiùgǎn.</span><span class="trans">When they overcome the difficulties and succeed, they will feel especially accomplished.</span>
+* 为了 降低 贫富 差距 ， 政府 制定 了 新 的 政策 <em>并</em> 开始 实施 。<span class="pinyin">Wèile jiàngdī pínfù chājù, zhèngfǔ zhìdìng le xīn de zhèngcè <em>bìng</em> kāishǐ shíshī.</span><span class="trans">In order to reduce the gap between the rich and the poor, the government formulated new policies and began to implement them.</span>
+* 苹果 公司 自从 1980 年 在 科克 开始 运营 , <em>并</em> 逐步 扩大 规模 。<span class="pinyin">Píngguǒ gōngsī zìcóng 1980 nián zài kēkè kāishǐ yùnyíng, <em>bìng</em> zhúbù kuòdà guīmó.</span><span class="trans">Apple has been operating in Cork since 1980, and has been gradually expanding.</span>
+* 我们 会 和 合作 公司 尽快 沟通 <em>并</em> 解决 这 件 事 。<span class="pinyin">Wǒmen huì hé hézuò gōngsī jìnkuài gōutōng <em>bìng</em> jiějué zhè jiàn shì.</span><span class="trans">We will work with the partner company to resolve this matter as soon as possible.</span>
+* 产品 经理 负责 和 工程师 合作 <em>并</em> 制定 产品 策略 。<span class="pinyin">Chǎnpǐn jīnglǐ fùzé hé gōngchéngshī hézuò <em>bìng</em> zhìdìng chǎnpǐn cèlüè.</span><span class="trans">The product manager is responsible for working with the engineers to develop the product strategy.</span>
+* 我们 希望 给 客户 提供 最 周到 的 服务 ， 想到 <em>并</em> 满足 客户 每 一 个 需求 。<span class="pinyin">Wǒmen xīwàng gěi kèhù tígōng zuì zhōudào de fúwù, xiǎngdào <em>bìng</em> mǎnzú kèhù měi yī gè xūqiú.</span><span class="trans">We want to provide our customers with the best possible service, and we want to think about and meet their every need.</span>
+</div>
+
+Note that in some cases the English translation is awkward if we try to keep two actions fully "parallel" rather than sequential.
+
+==See also==
+
+*[["Even" as "shenzhi"]]
+*[[Expressing "and" with "he"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4下|19}}
+{{Source|A Practical Chinese Grammar For Foreigners (外国人实用汉语语法) |130-1}}
+
+[[Category: B2 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|并|B2|Verb Phrase 1 + 并 / 并且 + Verb Phrase 2|我 同意 <em>并且</em> 支持 你 的 决定 。|grammar point|ASG5C89R}}
+{{Rel char|并且}}
+{{Similar|"Even" as "shenzhi"}}
+{{Similar|Expressing "and" with "he"}}
+{{Similar|Expressing "and" with "he" (advanced)}}
+{{Similar|Expressing "moreover" with "bingqie"}}
+{{POS|Verbs}}
+{{Subprop|Verb phrases}}
+{{Translation|and}}

@@ -1,0 +1,43 @@
+<!-- Expressing "when" using "dang" -->
+{{stub}}
+{{Grammar Box}} 
+当……时候（dāng... shíhou) means "when," very similar to just using [[时候]] or [[时]].
+
+==Structure==
+
+<div class="jiegou">
+
+当 + Phrase (+ 时候)，……
+
+</div>
+
+==Examples==
+
+<div class="liju">
+* <em>当</em> 我 有 自行车 <em>的 时候</em>，大家 都 开始 骑 电动车 了。<span class="pinyin"><em>Dāng</em> wǒ yǒu zìxíngchē <em>de shíhou</em>, dàjiā dōu kāishǐ qí diàndòngchē le.<span class="trans">When I got a bike, everyone started to riding electric ones.</span>
+* <em>当</em> 我 看到 这 张 照片，我 就 想 起 了 你。<span class="pinyin"><em>Dāng</em> wǒ kāndào zhè zhāng zhàopiàn, wǒ jiù xiǎng qǐ le nǐ.<span class="trans">When I saw this photo, I immediately thought of you.</span>
+* <em>当</em> 弟弟 肚子 饿 <em>的 时候</em>，他 就 会 哭 得 很 大声。<span class="pinyin"><em>Dāng</em> dìdi dùzi è <em>de shíhou</em>, tā jiù huì kū de hěn dàshēng.<span class="trans">When my little brother is hungry, he will cry loudly.</span>
+* <em>当</em> 深 颜色 和 浅 颜色 的 衣服 放在 一起 洗 <em>时</em>，浅 颜色 的 衣服 会 染色。<span class="pinyin"><em>Dāng</em> shēn yánsè hé qiǎn yánsè de yīfu fàng zài yīqǐ xǐ <em>shí</em> , qiǎn yánsè de yīfu huì rǎnsè.<span class="trans">When washing dark and light colors together, the light-colored clothes will become dyed.</span>
+* <em>当</em> 你 遇到 困难 <em>的 时候</em>，不 要 怕，来 找 我。<span class="pinyin"><em>Dāng</em> nǐ yùdào kùnnan <em>de shíhou</em>, bùyào pà, lái zhǎo wǒ.<span class="trans">When you encounter challenges, don't be afraid. Come find me.</span>
+* <em>当</em> 天 快 黑 <em>的 时候</em>，下 雨 了。<span class="pinyin"><em>Dāng</em> tiān kuài hēi <em>de shíhou</em>, xià yǔ le.<span class="trans">When it was almost dark out, it rained.</span>
+* <em>当</em> 我 离开 家 <em>的 时候</em>，我 只有 十四 岁。<span class="pinyin"><em>Dāng</em> wǒ líkāi jiā <em>de shíhou</em>, wǒ zhǐyǒu shísì suì.<span class="trans">When I left home, I was only fourteen years old.</span>
+* 每天 <em>当</em> 超市 开门 <em>的 时候</em>，会 有 很 多 人 来 买 便宜 的 鸡蛋 。<span class="pinyin">Měitiān <em>dāng</em> chāoshì kāimén <em>de shíhou</em>, huì yǒu hěn duō rén lái mǎi piányi de jīdàn.<span class="trans">Every day when the supermarket opens, lots of people will come and buy the cheap eggs.</span>
+* <em>当</em> 她 生气 <em>的 时候</em>，她 就 会 去 买 衣服。<span class="pinyin"><em>Dāng</em> tā shēngqì <em>de shíhou</em>, tā jiù huì qù mǎi yīfu.<span class="trans">When she is angry, she will just go and buy clothes.</span>
+* <em>当</em> 我 吃 太 多 <em>的 时候</em>，肚子 就 会 不 舒服。<span class="pinyin"><em>Dāng</em> wǒ chī tài duō <em>de shíhou</em>, dùzi jiù huì bù shūfu.<span class="trans">When I eat too much, my stomach doesn't feel good.</span>
+</div>
+
+==See also==
+*[[Expressing "when" with "de shihou"]]
+*[[Expressing "when" with "shi"]]
+
+==Sources and Further Reading==
+
+[[Category: B2 grammar points]]
+{{Basic Grammar|当|B2|当……的时候，……|<em>当</em> 我 见到 他 的 时候 ，我 完全 忘 了 要 问 他 什么 。|grammar point|ASG75EE1}}
+{{Rel char|时候}}
+{{Rel char|时}}
+{{Similar|Expressing "when" with "de shihou"}}
+{{Similar|Expressing "when" with "shi"}}
+{{Used for|Expressing time and date}}
+{{POS|Nouns}}
+{{Translation|when}}

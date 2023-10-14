@@ -1,0 +1,44 @@
+<!-- Expressing "similar to" with "gen... shide" -->
+{{Grammar Box}} 
+
+跟...似的 (gēn... shìde) is the same as pretty much the same as "像...一样." 似的 the is an auxiliary word, and it is used after a noun, a pronoun or an adjective and indicates something is similar to something else. Notice that here the  似 in 似的 can be pronounced shì or sì.
+
+This grammar pattern is used often in metaphors or similes, and it is often used in descriptive literature.
+
+==Structure==
+
+<div class="jiegou">
+
+跟 + Noun/Pronoun/Adjective + 似的
+
+</div>
+
+Remember that nouns. pronouns, or verbs can be placed before the 似的, though nouns are the most common.
+
+== Examples ==
+
+<div class="liju">
+
+* 她们 俩 好 得 <em>跟</em> 亲 姐妹 <em>似的</em>。
+* 最近 天气 热 得 <em>跟</em> 在 蒸笼 里 <em>似的</em>。
+* 别 <em>跟</em> 他 <em>似的</em> 一天到晚 好吃 懒做。
+* 他 做 这 个 最 拿手 了， <em>跟</em> 很轻松<em>似的</em> 就 做 好 了。
+ 
+</div>
+
+==See also==
+* [[Basic comparisons with "yiyang"]]
+
+==Sources and Further Reading==
+
+===Books===
+*[[Home With Kids1 (家有儿女1)]](p.13) [http://www.amazon.cn/%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B31-%E5%88%98%E7%AB%8B%E6%96%B0/dp/B0020MLDO8/ref=sr_1_1?ie=UTF8&qid=1347862139&sr=8-1 →buy] 
+* [[Exemplification of Common Sentence Patterns in Spoken Chinese 汉语口语常用句式例解]] (P.93)[http://www.amazon.cn/%E6%B1%89%E8%AF%AD%E5%8F%A3%E8%AF%AD%E5%B8%B8%E7%94%A8%E5%8F%A5%E5%BC%8F%E4%BE%8B%E8%A7%A3/dp/B0011435Y2/ref=sr_1_1?ie=UTF8&qid=1347865939&sr=8-1 →buy] 
+* [[Common Chinese Patterns 330 (汉语常用格式330例)]] (p. 292)[http://www.amazon.com/gp/product/7802006473/ref=as_li_ss_tl?ie=UTF8&tag=allset-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=7802006473 →buy] 
+{{Source|HSK Standard Course 5上|46}}
+
+[[Category: C1 grammar points]]
+{{Basic Grammar|似的|C1|跟 + Noun/Pronoun/Adjective + 似的|他们 俩 好 得 <em>跟</em> 亲 姐妹 <em>似的</em>。|grammar point|ASGA77KW}}
+{{Rel char|跟}}
+{{POS|Sentence patterns}}
+{{Used for|Expressing similarity}}

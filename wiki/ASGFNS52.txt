@@ -1,0 +1,115 @@
+<!-- Comparing "fan'er" and “xiangfan" -->
+{{Grammar Box}}
+反而 (fǎn'ér) is an [[adverb]], while 相反 (xiāngfǎn) is an [[adjective]] and also a [[conjunction]], and this determines how they are used grammatically.
+
+== Position in a Sentence ==
+
+=== Structure ===
+
+相反 normally starts a sentence, and when used should be followed with a comma. As an adverb, 反而 is not so set apart from the rest of the sentence, and should not be followed by a comma.
+
+<div class="jiegou">
+A，相反，B
+</div>
+
+<div class="jiegou">
+A，反而 B
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 这样 做 帮 不了 他 ，<em>相反</em>，还 会 害 了 他。<span class="pinyin">Zhèyàng zuò bāng bùliǎo tā, <em>xiāngfǎn</em>, hái huì hài le tā.</span><span class="trans">This won't help him. On the contrary, it will harm him.</span>
+* 这样 做 不但 帮 不了 他，<em>反而</em> 会 害 了 他。<span class="pinyin">Zhèyàng zuò bùdàn bāng bùliǎo tā, <em>fǎn'ér</em> huì hài le tā.</span><span class="trans">Not only will this not help him, on the contrary it will harm him.</span>
+</div>
+
+== Differences in Meaning ==
+
+反而 is used in the context of the speaker expecting some kind of turning point. 相反 is for similar things that have a different aspect.  反而 conveys that the difference between what was expected and what actually happened was quite large. 相反 isn't as strong.
+
+=== Structure ===
+
+<div class="jiegou">
+
+Situation，相反，The Opposite of the Situation
+
+</div>
+
+<div class="jiegou">
+
+Expectation，反而 + The Opposite of Expectation
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+
+* 好好 工作 就 会 升职，<em>相反</em>，不 好好 工作 是 不 会 升职 的。<span class="pinyin">Hǎo hǎo gōngzuò jiù huì shēng zhí, <em>xiāngfǎn</em>, bù hǎohāo gōngzuò shì bù huì shēng zhí de.</span><span class="trans">If you work hard, you will be promoted. Contrarily, you will not be promoted if you don't work hard.</span>
+* 老板 没有 生气，<em>反而</em> 表扬 了 我。<span class="pinyin">Lǎobǎn méiyǒu shēngqì, <em>fǎn'ér</em> biǎoyáng le wǒ.</span><span class="trans">The boss isn't angry. On the contrary, he praised me.</span>
+* 老板 没有 生气，<em>相反</em>，他 还 表扬 了 我。<span class="pinyin">Lǎobǎn méiyǒu shēngqì, <em>xiāngfǎn</em>, tā hái biǎoyáng le wǒ.</span><span class="trans">The boss isn't angry. Actually, he praised me.</span>
+
+</div>
+
+== 相反 can act as an attribute ==
+
+相反 is an adjective, and of course it can also be an attribute. Just make sure to add a 的 after it. 反而 cannot be used this way.
+
+=== Structure ===
+
+<div class="jiegou">
+相反 + 的 + Noun
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 这 是 两 个 完全 <em>相反</em> 的 结果。<span class="pinyin">Zhè shì liǎng gè wánquán <em>xiāngfǎn</em> de jiéguǒ.</span><span class="trans">These are two completely opposite results.</span>
+* 你 应该 朝 <em>相反</em>的 方向 走。<span class="pinyin">Nǐ yīnggāi cháo <em>xiāngfǎn</em> de fāngxiàng zǒu.</span><span class="trans">You should go down a different path.</span>
+</div>
+
+== 相反 can be the predicate ==
+
+相反, like all other adjectives, can be placed after the subject as the predicate of the sentence. 
+
+=== Structure ===
+
+<div class="jiegou">
+
+Subj. + 相反
+
+A 和 / 跟 B ＋ 是 ＋ 相反的
+
+</div>
+
+=== Examples ===
+
+<div class="liju">
+* 这 两 种 艺术 的 表现 形式 <em>相反</em>。<span class="pinyin">Zhè liǎng zhǒng yìshù de biǎoxiàn xíngshì <em>xiāngfǎn</em>.</span><span class="trans">These two art pieces have completely different forms.</span>
+* 我们 的 看法 是 <em>相反</em> 的。<span class="pinyin">Wǒmen de kànfǎ shì <em>xiāngfǎn</em> de.</span><span class="trans">Our perspectives are not the same.</span>
+* 老板 的 想法 跟 我 的 <em>相反</em>。<span class="pinyin">Lǎobǎn de xiǎngfǎ gēn wǒ de <em>xiāngfǎn</em>.</span><span class="trans">The boss's way of thinking and mine don't match up.</span>
+* 现在 的 观念 和 以前 的 <em>相反</em>。<span class="pinyin">Xiànzài de guānniàn hé yǐqián de <em>xiāngfǎn</em>.</span><span class="trans">The views of today are different from what they were in the past.</span>
+
+</div>
+
+== See Also ==
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4下|24}}
+{{Source|对外汉语教学语法释疑201例|184}}
+{{Source|现代汉语八百词（增订本）|199, 574}}
+{{Source|现代汉语虚词例释|172, 504}}
+{{Source|卓越汉语－公司实战篇|19-20}}
+
+=== Dictionaries ===
+{{Source|现代汉语词典（第5版）|1484, 377}}
+
+[[Category:grammar comparison]]
+{{HSK|HSK4}}
+{{Basic Grammar|反而|C1|反而 vs 相反|吃 水果 不但 对 他 没 好处，<em>反而</em> 有 坏处。 老板 的 想法 跟 我 的 <em>相反</em>。|grammar point|ASGFNS52}}
+{{Rel char|相反}}
+{{Used for|Expressing attitude}}
+{{Comparison|Separate Functions}}

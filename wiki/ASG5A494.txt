@@ -1,0 +1,50 @@
+<!-- Expressing "within" a period of time using "zai... nei" -->
+{{Grammar Box}}
+Saying "在 (a period of time) 内" may sound a bit redundant, since 在 means "in" and 内 means "within" or "inside," but it is a commonly used "sandwich pattern" which means "within (a period of time)." 
+
+== Structure ==
+
+<div class="jiegou">
+在 + (a period of time) + 内
+</div>
+
+The period of time in this structure can be a clear-cut indicator of time (days, months, years) or it can be a more vague indicator of time (short amount of time, a lifetime, etc.).
+
+== Examples ==
+
+<div class="liju">
+*<em>在</em> 短短 的 两 年 <em>内</em>，他 就 成为 了 CEO。<span class="pinyin"><em>Zài</em> duǎnduǎn de liǎng nián <em>nèi</em>, tā jiù chéngwéi le CEO.</span><span class="trans">In just two years, he has become the CEO.</span>
+*政府 计划 <em>在</em> 十年 <em>内</em> 研究 出 电动 汽车。<span class="pinyin">Zhèngfǔ jìhuà <em>zài</em> shí nián <em>nèi</em> yánjiū chū diàndòng qìchē.</span><span class="trans">The government plans to develop an electric car within ten years.</span>
+*<em>在</em> 两个 月 <em>内</em>，她 就 长胖 了 10斤。<span class="expl"> 10斤 = 5kg</span><span class="pinyin"><em>Zài</em> liǎng gè yuè <em>nèi</em>, tā jiù zhǎngpàng le shí jīn.</span><span class="trans">In two months, she gained 11 pounds.</span>
+*<em>在</em> 未来 两 个 月 <em>内</em>，这 款 游戏 会 上市。<span class="pinyin"><em>Zài</em> wèilái liǎng gè yuè <em>nèi</em>, zhè kuǎn yóuxì huì shàngshì.</span><span class="trans">In the next two months, this game will be on the market.</span>
+*世界 <em>在</em> 短短 一 个 月 的 时间 <em>内</em> 发生 了 巨大 的 变化 。<span class="pinyin">Shìjiè <em>zài</em> duǎnduǎn yī gè yuè de shíjiān <em>nèi</em> fāshēng le jùdà de biànhuà.</span><span class="trans">The world has changed dramatically in just one month's time.</span>
+*你 <em>在</em> 一 个 小时 <em>内</em> 吃 了 两次 饭，你 这么 饿 吗？<span class="pinyin">Nǐ <em>zài</em> yī gè xiǎoshí <em>nèi</em> chī le liǎng cì fàn, nǐ zhème è ma?</span><span class="trans">You ate twice in one hour. Are you really that hungry?</span>
+*我 <em>在</em> 短短 的 半小时 <em>内</em> 接到 了 10 个 电话。<span class="pinyin">Wǒ <em>zài</em> duǎnduǎn de bàn xiǎoshí <em>nèi</em> jiēdào le shí gè diànhuà.</span><span class="trans">I received 10 calls in just half an hour.</span>
+*你 要 <em>在</em> 一个半 小时 <em>内</em> 到 上海。<span class="pinyin">Nǐ yào <em>zài</em> yī gè bàn xiǎoshí <em>nèi</em> dào Shànghǎi.</span><span class="trans">You have to be in Shanghai within an hour and a half.</span>
+*这个 比赛 <em>在</em> 30 分钟 <em>内</em> 进球 就 赢 了。<span class="pinyin">Zhège bǐsài <em>zài</em> sānshí fēnzhōng <em>nèi</em> jìnqiú jiù yíng le.</span><span class="trans">This match will be over if we can score within the next 30 minutes.</span>
+*<em>在</em> 未来 三 年 <em>内</em>，我 希望 能 考过 HSK5。<span class="pinyin"><em>Zài</em> wèilái sān nián <em>nèi</em>, wǒ xīwàng néng kǎo guò HSK wǔ.</span><span class="trans">In the next three years, I hope to pass HSK 5.</span>
+</div>
+
+==See Also==
+
+* [[Expressing existence in a place with "zai"]]
+* [[Expressing location with "zai... shang / xia / li"]]
+* [[Indicating location with "zai" before verbs]]
+
+==Sources and further reading==
+
+=== Books ===
+
+{{Source|Anything Goes (无所不谈)|117}}
+
+[[Category:B2 grammar points]]
+{{Basic Grammar|在|B2|在 + Time + 内|你 必须 <em>在</em> 一周 <em>内</em> 完成。|grammar point|ASG5A494}}
+{{Rel char|内}}
+{{Similar|Expressing existence in a place with "zai"}}
+{{Similar|Indicating location with "zai" before verbs}}
+{{Similar|Expressing location with "zai... shang / xia / li"}}
+{{Similar|Idiomatic phrases with "zai"}}
+{{Used for|Expressing duration}}
+{{Structure|Sentence Patterns}}
+{{Translation|in}}
+{{Translation|within}}

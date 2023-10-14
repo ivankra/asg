@@ -1,0 +1,69 @@
+<!-- Indicating a number in excess -->
+{{Grammar Box}} 
+
+A number in excess of a certain amount is expressed by adding "多" (duō) to the end of a number. This is usually translated as "more than..." in English.
+
+== Structure ==
+
+<div class="jiegou">
+Number + 多 + [Measure word] (+ Noun)
+</div>
+
+== Examples ==
+
+<div class="liju">
+
+*我 妈妈 已经 五十 <em>多</em> 岁 了。<span class="pinyin">Wǒ māma yǐjīng wǔshí <em>duō</em> suì le.</span><span class="trans">My mother is over fifty.</span>
+*我们 走 了 两 个 <em>多</em> 小时 。<span class="pinyin">Wǒmen zǒu le liǎng gè <em>duō</em> xiǎoshí.</span><span class="trans">We walked for more than two hours.</span>
+*这个 班 有 两 百 <em>多</em> 个 学生 。<span class="pinyin">Zhège bān yǒu liǎng bǎi <em>duō</em> gè xuéshēng.</span><span class="trans">There are more than two hundred students in this class.</span>
+*这个 包 三 万 <em>多</em> 块钱 。<span class="pinyin">Zhège bāo sān wàn <em>duō</em> kuài qián.</span><span class="trans">This bag costs more than thirty thousand kuai.</span>
+*这 本 书 有 一 千 <em>多</em> 页 。<span class="pinyin">Zhè běn shū yǒu yī qiān <em>duō</em> yè.</span><span class="trans">This book has more than a thousand pages.</span>
+*他 在 国外 住 了 二十 <em>多</em> 年 了 。<span class="pinyin">Tā zài guówài zhù le èrshí <em>duō</em> nián le.</span><span class="trans">He has been living abroad for more than twenty years.</span>
+*他 在 那儿 住 了 二十 <em>多</em> 天 了 。<span class="pinyin">Tā zài nàr zhù le èrshí <em>duō</em> tiān le.</span><span class="trans">He's been staying there for over 20 days.</span>
+*我 昨天 收到 了 三十 <em>多</em> 条 垃圾 短信 。<span class="pinyin">Wǒ zuótiān shōudào le sānshí <em>duō</em> tiáo lājī duǎnxìn.</span><span class="trans">I received more than thirty spam text messages yesterday.</span>
+*这个 城市 有 两 千 <em>多</em> 年 的 历史 。<span class="pinyin">Zhège chéngshì yǒu liǎng qiān <em>duō</em> nián de lìshǐ.</span><span class="trans">This city has a history of more than two thousand years.</span>
+
+</div>
+
+In the above examples, 岁, 年 and 天 do not take a measure word. 
+
+When the number is smaller than eleven, the 多 can be put after the measure word. However, if the number is bigger than eleven, the 多 has to be put before the measure word:
+
+<div class="liju">
+<ul>
+<li class="o">五 岁 <em>多</em> <span class="pinyin"> wǔ suì <em>duō</em> </span>
+<li class="x">五十 岁 <em>多</em><span class="pinyin"> wǔshí suì <em>duō</em></span>
+<li class="o">五十 <em>多</em> 岁<span class="pinyin"> wǔshí <em>duō</em> suì</span>
+<li class="x">九十 块钱 <em>多</em><span class="pinyin"> jiǔshí kuàiqián <em>duō</em></span>
+<li class="o">九十 <em>多</em> 块钱<span class="pinyin">jiǔshí <em>duō</em> kuàiqián</span>
+</ul>
+</div>
+
+== See  also ==
+
+*[[Intensifying with "duo"]]
+*[[Doing something more with "duo"]]
+*[[Asking about degree with "duo"]]
+*[[Using "ji" to mean "several"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|4}}
+{{Source|New Practical Chinese Reader 3 (新实用汉语课本3) |81}}
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|205-7}}
+{{Source|40 Lessons for Basic Chinese Course (基础汉语40课上册）|86}} 
+
+[[Category:B1 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Basic Grammar|多|B1|Number + 多|三 十 <em>多</em> 岁|grammar point|ASG004ZK}}
+{{Similar|Asking about degree with "duo"}}
+{{Similar|Doing something more with "duo"}}
+{{Similar|Intensifying with "duo"}}
+{{Similar|Using "ji" to mean "several"}}
+{{Similar|Counting money}}
+{{Similar|Approximating with sequential numbers}}
+{{Used for| Expressing quantity}}
+{{Translation|more}}
+{{POS|Numbers}}

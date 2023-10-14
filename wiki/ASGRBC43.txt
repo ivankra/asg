@@ -1,0 +1,54 @@
+<!-- Expressing "mistakenly think that" with "yiwei" -->
+{{Grammar Box}} 
+
+When we talk about mistaken beliefs in English, we just use the word "thought," and the context and the rest of the sentence makes clear that we were wrong. In Chinese, there's a specific [[verb]] just for "think mistakenly": 以为 (yǐwéi).
+
+== Structure ==
+
+In English, the verb "to think" can apply to both correct and incorrect notions. Chinese has a specific verb for "to mistakenly think that": 以为 (yǐwéi). Literally, these two characters mean, "take to be," i.e. someone takes one thing to be something else.
+
+<div class="jiegou">
+Subj. + 以为 ⋯⋯
+</div>
+
+The part that follows 以为 will be a whole phrase that is actually incorrect information. Note that while it's quite common to refer to things that happened in the past, it could also refer to a situation in the present or even the future. It can also be used for commands, usually of the negative "don't think that..." type.
+
+== Examples ==
+
+<div class="liju">
+
+*我 <em>以为</em> 他 是 德国 人 。<span class="pinyin">Wǒ <em>yǐwéi</em> tā shì Déguó rén.</span><span class="trans">I thought he was German.</span>
+*我们 <em>以为</em> 你 不 在 家 。<span class="pinyin">Wǒmen <em>yǐwéi</em> nǐ bù zài jiā .</span><span class="trans">We thought you weren't at home.</span>
+*你 <em>以为</em> 你 是 谁 ？ <span class="pinyin">Nǐ <em>yǐwéi</em> nǐ shì shéi?</span><span class="trans">Who do you think you are?</span>
+*同事 们 都 <em>以为</em> 我 二十 岁 。<span class="pinyin">Tóngshì men dōu <em>yǐwéi</em> wǒ èrshí suì.</span><span class="trans">My colleagues all thought I was twenty.</span>
+*我们 都 <em>以为</em> 你 生气 了 。<span class="pinyin">Wǒmen dōu <em>yǐwéi</em> nǐ shēngqì le.</span><span class="trans">We all thought you were angry.</span>
+*老师 <em>以为</em> 学生 都 听懂 了 。<span class="pinyin">Lǎoshī <em>yǐwéi</em> xuéshēng dōu tīngdǒng le.</span><span class="trans">The teacher thought all the students understood.</span>
+* 不要 <em>以为</em> 他 是 你的 朋友 。<span class="pinyin">Bùyào <em>yǐwéi</em> tā shì nǐ de péngyou.</span><span class="trans">Don't think that he's your friend.</span>
+*她 是 你 外婆 ？我 <em>以为</em> 是 你 妈妈 。<span class="pinyin">Tā shì nǐ wàipó? Wǒ <em>yǐwéi</em> shì nǐ māma.</span><span class="trans">She's your grandma? I thought she was your mother.</span>
+*你 去 吃 四川 火锅 了 ？我 <em>以为</em> 你 不 爱 吃 辣 。<span class="pinyin">Nǐ qù chī  Sìchuān huǒguō le? Wǒ <em>yǐwéi</em> nǐ bù ài chī là.</span><span class="trans">You went to eat Sichuan hotpot? I thought you don't like eating spicy food.</span>
+*你们 分手 了 ？我 <em>以为</em> 你们 还 在一起 。<span class="pinyin">Nǐmen fēnshǒu le? Wǒ <em>yǐwéi</em> nǐmen hái zài yīqǐ.</span><span class="trans">You guys broke up? I thought you were still together.</span>
+*我 看到 那 张 照片 ，<em>以为</em> 你 有 男朋友 了 。 <span class="pinyin">Wǒ kàndào nà zhāng zhàopiàn, <em>yǐwéi</em> nǐ yǒu nánpéngyou le.</span><span class="trans">I saw that picture and I thought you had a boyfriend.</span>
+
+</div>
+
+== See also ==
+
+* [[Result complement "-cuo"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 4上|43}}
+{{Source|Short-term Spoken Chinese: Elementary (汉语口语速成基础篇)|106}} 
+{{Source|Contemporary Chinese 4 (当代中文4)|31}}
+
+[[Category:B1 grammar points]]
+{{HSK|HSK4}}
+{{Basic Grammar|以为|B1|Subj. + 以为⋯⋯|我 <em>以为</em> 你 不 是 我的 朋友。|grammar point|ASGRBC43}}
+{{Rel char|以}}
+{{Rel char|为}}
+{{Used for|Expressing attitude}}
+{{Similar|Result complement "-cuo"}}
+
+{{POS|Verbs}}

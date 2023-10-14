@@ -1,0 +1,67 @@
+<!-- Expressing "when" with "de shihou" -->
+{{Grammar Box}} 
+
+In English, if we are reflecting on a past time, we often say, "''when'' I was a child" or "''when'' I was in school." In Chinese, this can also be expressed by using 的时候 (de shíhou).
+
+== Structure ==
+
+To talk about events that happened ''at'' or ''during'' a particular time, 的时候 (de shíhou) is often used. This is simply attached to the word or phrase indicating the time:
+
+<div class="jiegou">
+
+(Subj.) + Verb / Adj. + 的 时候, ....
+
+</div>
+
+As time words can appear [[Time words and word order|before or after the subject]], you can also place the "Time + 的时候  (de shíhou)" after the subject:
+
+<div class="jiegou">
+
+Time Word + 的 时候, ....
+
+</div>
+
+== Examples ==
+
+<div class="liju">
+* 你 <em>不 在</em> <strong>的时候</strong>，我 会 想 你。<span class="pinyin">Nǐ <em> bù zài</em> <strong>de shíhou</strong>, wǒ huì xiǎng nǐ.</span><span class="trans">When you are not here, I'll miss you.</span>
+* 我 <em>上 大学</em> <strong>的时候</strong>，有 很 多 朋友。 <span class="pinyin">Wǒ <em>shàng dàxué</em> <strong>de shíhou</strong>, yǒu hěn duō péngyou.</span><span class="trans">When I was in college, I had a lot of friends.</span>
+* <em>上课</em> <strong>的时候</strong> 不要 吃 东西。<span class="pinyin"><em>Shàngkè</em> <strong>de shíhou</strong> bùyào chī dōngxi.</span><span class="trans">Don't eat when you are in class.</span>
+* 老板 <em>工作</em> <strong>的时候</strong> 喜欢 喝 咖啡。<span class="pinyin">Lǎobǎn <em>gōngzuò</em> <strong>de shíhou</strong> xǐhuan hē kāfēi.</span><span class="trans">When the boss works, he likes to drink coffee.</span>
+* 我 <em>生气</em> <strong>的时候</strong>，请 你 不要 笑。<span class="pinyin">Wǒ  <em>shēngqì</em> <strong>de shíhou</strong>, qǐng nǐ bùyào xiào.</span><span class="trans">Please don't laugh when I'm angry.</span>
+* 妈妈 <em>不 在 家</em> <strong>的时候</strong>，我 自己 做饭。<span class="pinyin">Māma <em>bù zài jiā</em> <strong>de shíhou</strong>, wǒ zìjǐ zuòfàn.</span><span class="trans">When mom is not home, I cook for myself.</span>
+* <em>开会</em> <strong>的时候</strong> 不要 聊天。<span class="pinyin"><em>Kāihuì</em> <strong>de shíhou</strong> bùyào liáotiān.</span><span class="trans">Don't chat when you are in a meeting.</span>
+* <em>吃 东西</em> <strong>的时候</strong> 不要 说话。<span class="pinyin"><em>Chī dōngxi</em> <strong>de shíhou</strong> bùyào shuōhuà.</span><span class="trans">Don't talk when eating.</span>
+* 你 <em>开车</em> <strong>的时候</strong> 会 打 电话 吗？<span class="pinyin">Nǐ <em>kāichē</em> <strong>de shíhou</strong> huì dǎ diànhuà ma? </span><span class="trans">Do you talk on the phone when you're driving?</span>
+* <em>走路</em> <strong>的时候</strong> 不要 玩手机。<span class="pinyin"><em> Zǒulù</em> <strong>de shíhou</strong> bùyào wán shǒujī.</span><span class="trans">Don't play with your phone while walking.</span>
+</div>
+
+==See also==
+
+*[[Before a specific time]]
+*[[In the future in general]]
+*[[Comparing "yihou" and "de shihou"]]
+
+== Sources and further reading ==
+
+=== Books ===
+
+{{Source|HSK Standard Course 2|28}}
+{{Source|Basic Patterns of Chinese Grammar|24-5}} 
+{{Source|Integrated Chinese: Level 1, Part 2 (3rd ed)|293-4}}
+
+[[Category:A2 grammar points]]
+{{HSK|HSK2}}{{2021-HSK|HSK2}}
+{{Used for|Expressing time and date}}
+{{Used for|Referring to simultaneous events}}
+{{Basic Grammar|的时候|A2|⋯⋯的时候|你 不在 <em>的 时候</em>，我 会 想 你。|grammar point|ASGWN185}}
+{{Rel char|时候}}
+{{Rel char|时}}
+{{Similar|"When" with "shi"}} 
+{{Similar|Before a specific time}} 
+{{Similar|In the future in general}}
+{{Similar|Simultaneous tasks with "yibian"}}
+{{Similar|Comparing "yihou" and "deshihou"}}
+{{POS|Nouns}}
+{{Translation|when}}
+{{Translation|while}}
