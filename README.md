@@ -1,17 +1,16 @@
 # AllSet Learning Chinese Grammar Wiki
 
-This repo contains a copy of grammar points from [AllSet Learning Chinese Grammar Wiki](https://resources.allsetlearning.com/chinese/grammar/), a fantastic and well-structured free resource on Mandarin grammar. As well as related scripts to parse it.
+This repo contains a copy of grammar points from [AllSet Learning Chinese Grammar Wiki](https://resources.allsetlearning.com/chinese/grammar/) ("ASG" for short), a fantastic and well-structured free resource on Mandarin grammar. As well as related scripts to work with it.
 
-## Files
-
-- `wiki/*.txt`: grammar point articles in mediawiki markup, named after internal redirect IDs on ASG wiki:
-  - `https://resources.allsetlearning.com/chinese/grammar/ASGxxxxx` -> redirects to the actual article.
-  - Article titles are stored in a `<!-- -->` comment on the first line of each file.
+- `wiki/ASGxxxxx.txt`: grammar point articles.
+  - Article title is stored inside `<!-- -->` comment on the first line of each file, the rest of file is raw mediawiki markup as crawled from 'View source' pages.
+  - Named after internal redirect IDs on ASG wiki: `https://resources.allsetlearning.com/chinese/grammar/ASGxxxxx` -> redirects to the actual article.
+  - Crawled in October 2023.
 - `wiki/index.tsv`: list of ASG IDs and article titles.
 
 ## License
 
-Data/text from the wiki has been released under [Creative Commons BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) at the time of downloading it (Oct 2023). Upstream copyright notice:
+ASG wiki's content has been released under [Creative Commons BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) at the time of downloading it (Oct 2023). Upstream copyright notice:
 
 > All content on the Chinese Grammar Wiki ©2021 AllSet Learning, and **may not be used for commercial purposes or without attribution**. For more information on how to legally use this content, please see our [Creative Commons license](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 >
@@ -25,4 +24,4 @@ Data/text from the wiki has been released under [Creative Commons BY-NC-SA 3.0](
 >
 > Thank you for your support of this free resource!
 
-License for code: public domain. If not applicable in your jurisdiction, consider the license for data to apply as well then.
+License for code (scripts, jupyter notebooks): public domain / [Unlicense](https://unlicense.org).
